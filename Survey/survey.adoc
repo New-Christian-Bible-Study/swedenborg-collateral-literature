@@ -120,7 +120,7 @@ chapter, phrase by phrase, and sometimes word by word. {5}
 
 8
 
-I. The Prehistoric Churches
+== I. The Prehistoric Churches
 
 The Six Days of Creation
 
@@ -429,7 +429,7 @@ It was "the end of idolatry and the beginning of a representative church through
 
 15
 
-II. The History Of Abram
+== II. The History Of Abram
 
 Introduction
 
@@ -867,7 +867,7 @@ church (AC 2853). {36}
 
 25
 
-III. The Story Of Isaac
+== III. The Story Of Isaac
 
 The Burial of Sarah
 
@@ -1141,7 +1141,7 @@ as to the very vessels of life (AC 3318e). {47}
 
 32
 
-IV. Jacob's Sojourn In Syria
+== IV. Jacob's Sojourn In Syria
 
 Appearances of Truth
 
@@ -1458,7 +1458,7 @@ journey* from Laban's house to the camp of Isaac had to be slow and gradual.
 
 40
 
-V. Jacob's Home Journey
+== V. Jacob's Home Journey
 
 Jacob Prepares to Meet
 
@@ -1699,7 +1699,7 @@ distinctions between spiritual states are not perceived (AC 4286). {70}
 
 46
 
-VI. Benjamin And Joseph
+== VI. Benjamin And Joseph
 
 The Spiritual Significance of Benjamin
 
@@ -1972,7 +1972,7 @@ which the Sensual was liable (AC 5094). {81}
 
 53
 
-VII. Joseph's Rise To Power
+== VII. Joseph's Rise To Power
 
 The Mode of the Lord's Glorification
 
@@ -2300,7 +2300,7 @@ the ability to understand and perceive what is good and true (AC 2776).  {94}
 
 61
 
-VIII. Israel In Egypt
+== VIII. Israel In Egypt
 
 The Lord did not only regenerate His Human, but He also glorified Himself (AC 3138). His work
 of redemption necessitated the union of His Human to the Divine. It is this unition which is
@@ -2587,7 +2587,7 @@ of Genesis with the words: "It has been dictated to me from heaven" (AC 6597). {
 
 68
 
-IX. The Oppression
+== IX. The Oppression
 
 Review of Genesis
 
@@ -2858,7 +2858,7 @@ of truth through the will. {117}
 
 75
 
-X. The Exodus
+== X. The Exodus
 
 The Plagues on Egypt
 
@@ -3229,7 +3229,7 @@ water out of the rock at Horeb (AC 8582). {131}
 
 84
 
-XI. Before The Mount Of God
+== XI. Before The Mount Of God
 
 On the Way to Sinai
 
@@ -3384,7 +3384,7 @@ generations, which would be aroused by an adventurous approach to celestial good
 
 88
 
-XII. The Law Of God
+== XII. The Law Of God
 
 The Ten Commandments
 
@@ -3592,7 +3592,7 @@ minds. {143}
 
 93
 
-XIII. The Judgments And The Statutes
+== XIII. The Judgments And The Statutes
 
 The ten commandments recorded in the twentieth chapter of Exodus, are among the "open"
 truths of the Old Testament. They are the foundations of law in all Christian countries even as
@@ -3955,7 +3955,7 @@ we uphold ideals that are higher than our own faulty attainments. {152}
 
 102
 
-XIV. The Community Of The Mind
+== XIV. The Community Of The Mind
 
 It is important to realize that all the transgressions against the neighbor which take place in the
 community of the church or in civil society, originate as states of mind; or, to be specific, as
@@ -4385,7 +4385,7 @@ do injury to the Divine itself" (AC 9430). {163}
 
 112
 
-XV. The Tabernacle And The Priesthood
+== XV. The Tabernacle And The Priesthood
 
 The Lord's Dwelling Place
 
@@ -4799,7 +4799,7 @@ heart (AC 10239). {174}
 
 122
 
-XVI. The Tables Of The Testimony
+== XVI. The Tables Of The Testimony
 
 Instructions for Israel
 
