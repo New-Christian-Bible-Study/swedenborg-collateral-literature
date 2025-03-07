@@ -8199,7 +8199,11 @@ ated,
 and symbols of worship was lost until they regarded their images
 and sacrifices as holy in themselves, and became idolaters, knowing
 
-==== FOOTNOTE: See AC 1401, but also see SS 103.
+[source,language,attributes]
+----
+FOOTNOTE: See AC 1401, but also see SS 103.
+----
+
 
 nothing of love for the Lord and the neighbor or of heaven and
 eternal life. So the Lord and the angels could no longer be present
@@ -11003,9 +11007,6 @@ understand that his father Abraham loved him very much. Tell the story very
 simply, dwelling on Abraham's desire to serve the Lord even if it meant giving
 up the dearest thing he had, and dwelling on the Lord's goodness in saving
 him from making a mistake, and in giving Isaac back to him. Point out that
-
-==== GENESIS 22:1-14
-
 we are often mistaken, even when we mean to do right, and that the Lord
 always sees our good intention and tries to help us not to make mistakes,
 because mistakes can do a great deal of harm. Review the meaning of an altar.
@@ -11096,11 +11097,7 @@ was born. We can imagine how dearly Abraham loved Isaac.
 the Lord told Abraham that
 
 Then a great temptation came to Abraham. The 'Scripture says,
-"God did tempt Abraham." This is a good place to learn some-
-
-==== GENESIS 22: 1-14
-
-thing about
+"God did tempt Abraham." This is a good place to learn something about
 the Bible which we shall often need to remember.
 The Lord wrote the Bible by means of men, and used in its letter
 the things that were in their minds. Sometimes their minds could
@@ -11188,11 +11185,7 @@ The meaning of Isaac, and the meaning of Abraham's temptation and the
 reason for it, should be stressed. The outline of the correspondence of his
 journey and its conclusion can be given. The thought to leave in the minds
 of the pupils is that of the true meaning of sacrifice.
-
-==== GENESI S 22: 1-14
-
 The Lord had promised that all
-
 the land of Canaan should
 belong to the descendants of Abraham. Yet Abraham and Sarah
 were very old and still had no son. Chapter 16 of Genesis tells how
@@ -11274,9 +11267,6 @@ faculty, which was still very young). But when he reached Mount
 Moriah, he left the ass and the young men behind him, and in
 addition to Isaac and the wood, he took fire and a knife, which
 picture love and truth, up to the top with him, and there he built
-
-==== GENESIS 22: 1-14
-
 his altar. When we want to do something good, we often start with
 very imperfect ideas of how to do it; but if we persevere, gradually
 our feelings and thoughts become purer, and when we get really
@@ -11371,9 +11361,6 @@ Does God tempt us? We should realize that much of the letter of
 the Word is written according to what Swedenborg calls "appear 
 in writing the Word, used the minds
 ances" of truth. The Lord,
-
-==== GENESIS 22: 1-14
-
 of men just as they were. Sometimes they could understand His
 meaning and express it clearly. But often falsities in their minds
 or evil desires in their hearts clouded the truth or turned it into its
@@ -11458,9 +11445,6 @@ truth. Although Abraham was one hundred years old when Isaac
 was born, he continued to live for another seventy-five years; so
 Isaac was a long time in coming into his full inheritance. The
 spiritual rational is slow in developing, and for a long time must
-
-==== GENESI S 22: 1-14
-
 be kept close to childhood innocence and trust. Young people,
 when they begin to develop the ability to reason about spiritual
 things, need the protection of their early states of belief and won 
@@ -11541,9 +11525,6 @@ is in itself an evil, but it can be made to serve a use when the end
 sought is the burnt offering, a genuine desire to serve the Lord.
 But when the mountain was in sight, the two young men and the
 ass were left behind to wait, and the wood was carried up the
-
-==== GENESI S 22: 1-14
-
 mountain by Isaac. So we, when we are prompted to some new
 dedication of our lives to the Lord, often start out with very
 thoughts about what our service will be and even with
@@ -11640,9 +11621,6 @@ to give up his dearest possession
 Int. Why did the Lord let him think this?
 
 to test his faith
-
-==== GENESIS 22: 1-14
-
 three days
 
 Jr. Where was Abraham told to go for the sacrifice? Mount Moriah
@@ -11699,9 +11677,6 @@ descendants of his own brother Nahor. The story of Rebekah at
 the well is a well-known one. It may seem to us today a strange
 way of choosing a wife, but it had in it all the elements which
 really make for a happy marriage. The principal one was trust in
-
-==== GENESIS 24
-
 the Lord. Abraham was obeying the Lord in not allowing his son
 to marry a woman of different religious standards from his own.
 The servant asked the Lord's guidance in the discovery of the right
@@ -13943,9 +13918,6 @@ Rebekah's old home in Haran.
 Do you remember the story of the dream Jacob had on the way?
 When he came to Haran, where did he stop first?
 Who came out to water her father's flock?
-
-==== GENESIS 29; 35:23-26
-
 How did Laban receive Jacob?
 What other daughter did Laban have?
 What did Jacob ask of Laban?
@@ -14036,9 +14008,6 @@ Israel.
 Israel is another name for Jacob. EI is one of the Hebrew words
 for God. Israel means "one who prevails with God." In the Bible
 story, Jacob. is sometimes called Jacob and sometimes Israel, and
-
-==== GENESIS 29; 35:23-26
-
 when you are older, you will learn why this is so; for nothing in
 the Word is ever accidental. All through their history in the Bible
 the Jews are commonly called the "children of Israel."
@@ -14121,9 +14090,6 @@ the start he had his own interests in view and was willing to serve
 himself by getting the better of someone else. And even when his
 wonderful vision of the ladder induced him to decide to serve the
 Lord, he had his own safety and success in mind. We are all inclined
-
-==== GENESIS 29; 35:23-26
-
 to be selfish to begin with, and the Lord uses our very selfishness
 as a means of inducing us to lead orderly lives.
 
@@ -14422,9 +14388,6 @@ Jacob, as you may remember, was not an exemplary character.
 He deceived his father and stole his brother's blessing ~nd left
 home under a cloud, in fear of Esau's vengeance, a fear which
 stayed with him through his whole twenty-year sojourn in Haran.
-
-==== GENESIS 29; 35:23-26
-
 The promise he made to serve the Lord, following the wonderful
 dream which he had at Bethel near the beginning of his journey,
 was given on condition that the Lord would make his journey
@@ -14506,9 +14469,6 @@ woven, are all our thoughts and affections, how different each
 person's mind is from every other, and how our own minds vary
 from hour to hour in respect to what motive and what thoughts
 are uppermost and governing all the others. The twelve sons of
-
-==== GENESIS 29; 35:23-26
-
 Jacob are mentioned again and again in the Bible, and Swedenborg
 tells us that the order in which they are mentioned in any given
 place is very important in the interpretation of the events being
@@ -14593,9 +14553,6 @@ ness and obedience, so the flock of Laban, Rachel's father, pic
 tures those who wish to be "led and taught" (AC 3795). Rachel,
 therefore, represents a desire for truth for immediate, specific uses.
 Swedenborg thus summarizes the meaning of the contents of
-
-==== GENESIS 29; 35:23-26
-
 in AC 3758 and 3759: "In the
 chapter 29, one of our chapters,
 is described the Lord's
@@ -14684,24 +14641,12 @@ Pri. How many sons did he have?
 Jr. Which ones were Rachel's children? Joseph and Benjamin
 Pri. Which was the last one born in Haran? Joseph
 Pri. Where was Benjamin born? near Bethlehem
-
-twenty years
-
-twelve
-
-==== GENESIS 29; 35:23-26
-
 Sr. What do Abraham, Isaac, and Jacob represent? will, thought, act
 Int. What does the well at Haran represent?
-Sr. What do Leah and Rachel represent? exterior affection for truth,
+Sr. What do Leah and Rachel represent? exterior affection for truth, interior affection for truth
+Sr. What do the twelve sons of Jacob represent? all aspects of good and truth
 
-the Word
-
-interior affection for truth
-
-Sr. What do the twelve sons of Jacob represent? all aspects ofgood and truth
-
-==== JACOB'S RETURN
+== JACOB'S RETURN
 Genesis 35
 
 This lesson requires more preparation on the part of the teacher
@@ -14826,11 +14771,7 @@ was still afraid of Esau, but he found that Esau had long since
 forgiven him and welcomed him gladly.
 
 Do you remember the story of the wonderful dream which
-Jacob had when he first left home-the dream of the ladder reach-
-
-==== GENESI S 35
-
-ing from earth to heaven, with the Lord at the top and angels as 
+Jacob had when he first left home-the dream of the ladder reaching from earth to heaven, with the Lord at the top and angels as 
 cending and descending upon it? Read in Genesis 28: 16-22 about
 Jacob's vow. Bethel means "house of God." Now in our chapter
 for today we learn how Jacob kept his vow.
@@ -14917,9 +14858,6 @@ lesson. You remember that when Jacob left home, he slept one
 night at Bethel and had the wonderful dream of the ladder reach 
 ing to heaven, and that in the morning he vowed that, if the Lord
 would prosper him and bring him safely home again, he would
-
-==== GENESI S 35
-
 worship and serve Him. So now that he has been prospered and
 to Bethel, builds an altar there, and
 brought back, he goes first
@@ -15014,9 +14952,6 @@ take our places in the world as independent individuals.
 In our early childhood, represented by Abraham, we experience
 and store up in our subconscious the states of innocence and trust.
 In our early youth, represented by Ishmael and Isaac, we acquire
-
-==== GENESIS 35
-
 knowledges and develop the power of reasoning, first
 in a very
 external and superficial way and later more deeply, with a truer
@@ -15104,14 +15039,11 @@ proper wife. The death of Isaac does not mean that at this stage
 we have given up our spiritual reasoning, but that this faculty has
 become a part of our everyday life. Jacob has come into the qual 
 ities possessed by his fathers, Abraham and Isaac. A truly good
-
-==== GENESIS 35
-
 external life has within it both the innocence and trust which are
 Abraham and the rational understanding of spiritual values which
 is Isaac.
 
-Adult
+=== Adult
 
 Most of the Adult class will be more familiar with the other stories about
 Jacob than with chapter 35; so the teacher should begin immediately with
@@ -15191,9 +15123,6 @@ is to put away forever. This was accomplished at Shechem because
 Shechem, Abram's first stop in the Holy Land, represents "the
 first of light, which is interior truth." Before we can worship the
 Lord truly we must be willing to put away every false idea and
-
-==== GENESIS 35
-
 bad habit which we find to conflict with His wisdom and love.
 Then Jacob advances to Bethel. Jacob in his return is following
 the same course which Abraham followed when he came into the
@@ -15273,9 +15202,6 @@ especially during infancy. And as of the Lord's mercy no one is blamed for
 what is hereditary, but for what is actual (nn. 966, 2308] , and what is heredi 
 tary cannot become actual until the man acts from his own understanding
 and his own will, therefore infants are led by the Lord by means of infants
-
-==== GENESIS 35
-
 and angels from Him, and hence they appear in a state of innocence while
 hereditary evil still lurks in everything they do. This hereditary evil yields
 them nourishment, or is as a nurse, until the time when they judge for them 
@@ -15313,12 +15239,9 @@ Jr. Where did Jacob and Esau bury Isaac? cave ofMachpelah
 Int. What does Rebekah's nurse represent? hereditary selfishness
 Sr. Why is her death and burial mentioned at this point in the story of Jacob?
 when we return voluntarily to spiritual living we must get rid of selfish
-motivation
+motivation to father great nation
 
-to father great nation
-
-==== JOSEPH AND HIS BROTHERS
-
+== JOSEPH AND HIS BROTHERS
 Genesis 37
 
 The teacher should refresh his memory on the story of Jacob's
@@ -15328,7 +15251,7 @@ the story of Leah and Rachel, which cannot be explained briefly.
 Mention the Lord's promise to Jacob at Bethel and Jacob's longing
 to return to the Holy Land.
 
-Doctrinal Points
+=== Doctrinal Points
 The Word in its inmost sense treats of the life of the Lord Himself
 Our regeneration is a succession of cycles of temptation, struggle,
 
@@ -15442,9 +15365,6 @@ verses 23 to 26, and read the names of the twelve sons of Jacob as a prep
 aration for later lessons. The children will note that Reuben, who persuaded
 his brothers not to kill Joseph, was Jacob's eldest son. They should learn his
 name and that of Benjamin the youngest in addition to Joseph. Tell them also
-
-==== GENESIS 37
-
 that in those days the Lord often taught people through dreams, and that
 Joseph's two dreams have an inner meaning which they will study when they
 are older. Stress the Lord's providence in saving Joseph and tell them that we
@@ -15533,9 +15453,6 @@ and minds, even though we may never think of anything but out
 ward acts and of what their results are likely to be for our life in
 this world. Jacob's twelve sons picture all our proper affections
 and thoughts through which this plane of outward conduct is
-
-==== GENESIS 37
-
 developed and regulated. The earlier sons are the more external
 affections which develop first; the sons of the handmaids are those
 which serve our growth in a lower way; and the last two sons 
@@ -15635,12 +15552,9 @@ Asher
 
 Leah also bore Jacob a daughter, Dinah.
 
-Senior
+=== Senior
 
 The most important thought to bring out for the Seniors is the necessity of
-
-==== GENESI S 37
-
 recognizing that there are relative values in life, and that one of the objectives
 of our thinking should be to learn to put first things first. Read them Matthew
 6: 24-34. Joseph and Benjamin represent our desire for "the kingdom of God
@@ -15733,10 +15647,7 @@ this story of Joseph principally in its inmost sense, in which it
 treats of the Lord Himself. The quotation at the end of this lesson
 gives us the key to this sense in the meaning of Joseph.
 
-==== GENESIS 37
-
-Adult
-
+=== Adult
 Even with this class it may be necessary to review briefly the story of Jacob's
 sojourn in Haran and return to the Holy Land. Then speak of the correspon 
 dence of the twelve sons and of the meaning of Joseph's being sold into
@@ -15818,11 +15729,7 @@ centered upon acquiring it. The instances in the Bible story of
 of this fact. The Lord takes special care of children until they have
 learned to take care of themselves. He gives us a long childhood
 because we need so much knowledge in order to face the problems
-of adult life. When He came into the world, He Himself went down
-
-==== GENESIS 37
-
-into Egypt to show us that this is an orderly part of our lives, and
+of adult life. When He came into the world, He Himself went down Into Egypt to show us that this is an orderly part of our lives, and
 also as a symbol of what He in His assumed human was learning:
 the letter of Scripture. We remember how constantly He used quo 
 tations from the Scriptures during His ministry. It was all stored
