@@ -6,6 +6,17 @@ By Hugo Ljunberg Odhner - Bryn Athyn, Pennsylvania
 :showtitle:
 :Some attr: Some value
 
+// additions for the PDF:
+:reproducible:
+:listing-caption: Listing
+//:source-highlighter: rouge
+// Uncomment next line to add a title page (or set doctype to book)
+:doctype: book
+//:title-page:
+// Uncomment next line to set page size (default is A4)
+:pdf-page-size: Letter
+
+
 // Need some preamble to get TOC:
 {empty}
 

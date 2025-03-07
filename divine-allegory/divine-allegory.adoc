@@ -1,15 +1,15 @@
 = The Divine Allegory -
 The Story of the Peoples and Lands of Scripture and Their Spiritual Significance as Revealed in the Writings of Emanuel Swedenborg
-
-By Hugo Ljungberg Odhner +
-Swedenborg Foundation, Inc.
-New York
-1954 +
-Copyright, 1954, by Hugo Lj. Odhner
+By Hugo Ljungberg Odhner
 :toc:
 :toclevels: 2
 :showtitle:
 
+
+Swedenborg Foundation, Inc.
+New York
+1954 +
+Copyright, 1954, by Hugo Lj. Odhner
 // Need some preamble to get TOC:
 {empty}
 
@@ -519,7 +519,6 @@ Europe, became extinct, and - at the close of the Glacial Period - the
 direction of human progress was entrusted to other races which are
 represented by the species of man who now occupy the earth. These new
 races were of a different genius, and of a different appearance.
-
 
 Scientists - knowing nothing about the value of the celestial qualities
 which characterized the Most Ancient Church - call the new races "Homo
@@ -1293,7 +1292,6 @@ Babylonia, it also inherited the culture of the south, so that it could
 be said that "out of that land", that is, out of Sumero-Accadia, "went
 forth Asshur and builded Nineveh".
 
-
 Yet Asshur was a son of Shem!
 
 === JAPHETH AND SHEM
@@ -1355,7 +1353,6 @@ Ancient Church, such sacrifices "had been unknown, except among some of
 the descendants of Ham and Canaan, who were idolaters, and with whom
 they were permitted in order to prevent them from sacrificing their
 sons and daughters" (AC 1241).
-
 
 It may be permissible to surmise, from the archeological evidence
 before us, that the Hebrew immigration into Palestine took place about
@@ -3279,7 +3276,7 @@ knowledge comes. Actually, therefore, Dan was situated at the
 head-waters of the Jordan; which river - in a good sense - represents
 the common truths from the letter of the Word (AC 6396).
 
-MOUNT HERMON - SOURCE OF THE JORDAN
+=== MOUNT HERMON - SOURCE OF THE JORDAN
 
 Lovely Mount Hermon is the original source of the Jordan. It is by some
 thought to be the "mountain apart" where the three leading disciples
@@ -3697,7 +3694,7 @@ the spiritual church becomes perverted into an abode of pride and
 self-intelligence. The defection of Israel from Judah, after Solomon's
 death, therefore depicts the decadence of the spiritual church.
 
-BENJAMIN - THE MEDIUM
+=== BENJAMIN - THE MEDIUM
 
 The two sons which Rachel, the only-beloved wife of Jacob bore, were
 Joseph and Benjamin. They represent the highest fruitions of regenerate
@@ -4245,7 +4242,6 @@ gentleness, humility, and frugality. The other, Confucius (551-478
 B.C.), overlaid the prevalent superstitions and the popular worship of
 local deities with a moral and political philosophy founded on respect.
 
-
 In India, Gotama "the Buddha" (564-488 B.C.), later regarded as an
 Avatar or incarnation of the god Brahma, began to teach the "eightfold
 path" of self-renunciation, by which men were to reject their trust in
@@ -4281,7 +4277,6 @@ during the era when Greek art and philosophy began their unique
 development, and when Rome was making its start as a constitutional
 republic.
 
-
 But the power of Persia was eventually broken by Alexander the Great
 (332 B.C.), whose conquests disseminated the thought, language, and
 culture of Greece over the Near East. Alexander was welcomed by the
@@ -4314,7 +4309,6 @@ spiritual charity, the "brass" of natural good, and the "iron" of
 natural truth; the last being so mixed with falsities that it had no
 coherence with the good of life and thus marked the consummation of
 that church.
-
 
 The Writings do not directly give us the spiritual correspondences of
 nations such as Persia, Greek Syria, and Rome, which yet so intimately
@@ -4351,10 +4345,9 @@ the issue how far their actions can assist the end of the Divine
 providence, assist in the chastisement and purification, or in the
 liberation and eventual growth, of the kingdom of the Lord on earth.
 
+== THE LAND OF THE GOSPEL
 
-=== THE LAND OF THE GOSPEL
-
-CANAAN - SCENE OF THE ADVENT
+=== CANAAN - SCENE OF THE ADVENT
 
 It was therefore in Canaan, the land of Divine prophecy, that the Lord
 Jesus Christ - "the Desire of all nations" as well as the Messiah of
@@ -4545,7 +4538,7 @@ man's usefulness.
 //[Blank page]
 
 
-=== BIBLIOGRAPHY
+== BIBLIOGRAPHY
 
 The preceding study of the spiritual meanings of the Scriptures, the
 writer has drawn freely from the various theological Writings of
@@ -4643,14 +4636,14 @@ Weidenreich, Franz, Apes, Giants, and Man, Univ. of Chicago Press,
 
 used in citing some of the works of Emanuel Swedenborg
 
-AC-Arcana Coelestia
-AE-The Apocalypse Explained
-AR-The Apocalypse Revealed
-CL - Conjugial Love
-DP-The Divine Providence
-LJ-The Last Judgment
-SD-The Spiritual Diary
-SS-Doctrine of the Sacred Scriptures
-TCR-The True Christian Religion
-WE-The Word Explained (Adversaria)
+ AC-Arcana Coelestia
+ AE-The Apocalypse Explained
+ AR-The Apocalypse Revealed
+ CL - Conjugial Love
+ DP-The Divine Providence
+ LJ-The Last Judgment
+ SD-The Spiritual Diary
+ SS-Doctrine of the Sacred Scriptures
+ TCR-The True Christian Religion
+ WE-The Word Explained (Adversaria)
 
