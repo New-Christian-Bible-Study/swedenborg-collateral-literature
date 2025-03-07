@@ -1,11 +1,11 @@
 = Bible Study Notes - Volume One - GENESIS
 by Anita S. Dole; Edited by William Ross Woofenden
 Swedenborg Foundation Press; West Chester, Pennsylvania
-©2001 by the Swedenborg Foundation
+@2001 by the Swedenborg Foundation
 :toc: preamble
 
 // preamble follows
-First printed in 1977  – 1979 by the American New Church Sunday School Association.
+First printed in 1977 - 1979 by the American New Church Sunday School Association.
 
 Published with editing by William Ross Woofenden, 2001; reprinted in 2011. All rights reserved. No part of this publication may be reproduced or transmitted in any form or by any means, electronic or mechanical, including photocopying, recording, or any information storage or retrieval system, without prior permission from the publisher.
 
@@ -793,56 +793,31 @@ good and truth itself."
 
 Suggested Questions on the Lesson
 
-P. What book do we study in Sunday School?
-P. Who is the Author of the Bible? God
-P. By what other names do we call the Bible?
+Pri. What book do we study in Sunday School?
+Pri. Who is the Author of the Bible? God
+Pri. By what other names do we call the Bible? the Lord's Book, the Word, the Book of Life
+Pri. What is the name of the first book of the Bible? Genesis
+Pri. Can you repeat the first verse of the Bible? In the beginning . ..
+Pri. What is the first chapter about?
+Pri. In how many days was the earth and everything on it created?
+Jr. Were these days of twenty-four hours each? no
+Jr. What happened on the first day?
+Jr. What happened on the second day? firmament
+Jr. What happened to the waters on the third day? sea, dry land
+Jr. What new things were created on that day? grass, herbs, trees
+Jr. What appeared on the fourth day? sun, moon, stars
+Jr. What were created on the fifth day? fish, birds
+Jr. On what day were the animals created?
+Jr. What was the final creation? man
+Int. In whose image and likeness was man created? God's
+Int. What two kinds of people were created? male, female
+Int. What did the Lord tell them to do? be fruitful
+Pri. What did the Lord do on the seventh day? rested
+Int. What is the Lord really telling us about in this first chapter? the beginning of our spiritual growth
+Sr. What is meant by the heaven and the earth? spiritual and natural
+Sr. What do the sun, moon, and stars correspond to? love to Lord, faith in Him, knowledges of heavenly things
 
-the Book of Life
-
-the Bible
-
-the Lord's Book, the Word,
-
-six
-
-light
-
-the Creation
-
-P. What is the name of the first book of the Bible? Genesis
-P. Can you repeat the first verse of the Bible? In the beginning . ..
-P. What is the first chapter about?
-P. In how many days was the earth and everything on it created?
-J. Were these days of twenty-four hours each? no
-J. What happened on the first day?
-J. What happened on the second day? firmament
-J. What happened to the waters on the third day? sea, dry land
-J. What new things were created on that day? grass, herbs, trees
-J. What appeared on the fourth day? sun, moon, stars
-J. What were created on the fifth day? fish, birds
-J. On what day were the animals created?
-J. What was the final creation? man
-In whose image and likeness was man created? God's
-1.
-1. What two kinds of people were created? male, female
-1. What did the Lord tell them to do? be fruitful
-P. What did the Lord do on the seventh day? rested
-I. What is the Lord really telling us about in this first chapter? the beginning
-
-sixth
-
-of our spiritual growth
-
-S. What is meant by the heaven and the earth? spiritual and natural
-S. What do the sun, moon, and stars correspond to?
-
-love to Lord,
-
-faith in Him, knowledges of heavenly things
-
-The brief answers to questions supplied in all the lessons are intended only as a general
-guide to teachers. Fuller and more detailed answers formulated and worked out with
-the class are generally recommended.
+The brief answers to questions supplied in all the lessons are intended only as a general guide to teachers. Fuller and more detailed answers formulated and worked out with the class are generally recommended.
 
 == THE CREATION - THE FIRST FOUR DAYS
 Genesis 1:1-19
@@ -1449,13 +1424,13 @@ man's natural faith, which is only knowledge and persuasion. Thus, and not
 otherwise, is saving faith produced."
 
 === Suggested Questions on the Lesson
-P. Who made the world? God
-P. What book tells us about God?
-J. What does light do for us?
-P. What special lights did the Lord make for us?
-P. In how many days does the Bible say the world was created?
-J. What happened on the seventh day? God rested
-1. In relation to our souls what are meant by the heaven and the earth?
+Pri. Who made the world? God
+Pri. What book tells us about God?
+Jr. What does light do for us?
+Pri. What special lights did the Lord make for us?
+Pri. In how many days does the Bible say the world was created?
+Jr. What happened on the seventh day? God rested
+Int. In relation to our souls what are meant by the heaven and the earth?
 
 sun, moon, stars
 
@@ -1467,15 +1442,15 @@ six
 
 higher and lower nature
 
-J. To what does light correspond?
-1. With what is the Creation story really concerned?
+Jr. To what does light correspond?
+Int. With what is the Creation story really concerned?
 
 truth
 
 how God develops our souls
 
-S. Why did the Lord create the world and man? heaven from human race
-S. What spiritually is the rest on the sabbath day? regeneration, completed character
+Sr. Why did the Lord create the world and man? heaven from human race
+Sr. What spiritually is the rest on the sabbath day? regeneration, completed character
 
 == THE CREATION - THE FIFTH AND SIXTH DAYS
 Genesis 1: 20-31
@@ -2085,20 +2060,20 @@ earth produces,' and by the 'beast' and 'creeping thing,' and also -by the 'wild
 animal of that earth.'
 
 Suggested Questions on the Lesson
-P. What book do we study in Sunday School? Bible
-J. Why is it called the Word of God? God's Word to US
-I. How do the flrst eleven chapters of Genesis differ from the rest?
+Pri. What book do we study in Sunday School? Bible
+Jr. Why is it called the Word of God? God's Word to US
+Int. How do the flrst eleven chapters of Genesis differ from the rest?
 
 pure symbol
 
-J. Into what two parts is the Bible divided?
+Jr. Into what two parts is the Bible divided?
 Old Testament and New Testament
 
-J. What are the first five books called? Moses, Law, Torah, Pentateuch
-P. What is the name of the fust book? Genesis
-P. What does Genesis mean?
-J. Can you repeat the first verse of the Bible? In the beginning . ..
-P. In how many days are the earth and everything on it said to have been
+Jr. What are the first five books called? Moses, Law, Torah, Pentateuch
+Pri. What is the name of the fust book? Genesis
+Pri. What does Genesis mean?
+Jr. Can you repeat the first verse of the Bible? In the beginning . ..
+Pri. In how many days are the earth and everything on it said to have been
 
 the beginning
 
@@ -2106,29 +2081,29 @@ created?
 
 six
 
-J. Does .this mean days of twenty-four hours each? no
-J. What appeared on the fourth day?
+Jr. Does .this mean days of twenty-four hours each? no
+Jr. What appeared on the fourth day?
 sun, moon, stars
-I. To what do the sun and moon correspond?
-P. What were created on the fifth day? fish, birds
-P. What were created first on the sixth day? animals
+Int. To what do the sun and moon correspond?
+Pri. What were created on the fifth day? fish, birds
+Pri. What were created first on the sixth day? animals
 love to God, faith in Him
-P. What was the fmal creation? man
-J. How was man different from every other living creature?
-J. What was he told to do? multiply, subdue earth
-J. Was just one created in the beginning? no
-J. What happened on the seventh day? God rested
-I. What kind of lessons does the Lord teach us in the Bible?
+Pri. What was the fmal creation? man
+Jr. How was man different from every other living creature?
+Jr. What was he told to do? multiply, subdue earth
+Jr. Was just one created in the beginning? no
+Jr. What happened on the seventh day? God rested
+Int. What kind of lessons does the Lord teach us in the Bible?
 
 about Himself and our relationship to Him
 
-I. To what do the fish, birds, and animals correspond?
+Int. To what do the fish, birds, and animals correspond?
 
 knowledges, thoughts, affections
 
 image ofGod
 
-S. What does the command to "have dominion" mean? control
+Sr. What does the command to "have dominion" mean? control
 
 == THE CREATION-THE SEVENTH DAY
 Genesis 2: 1-7
@@ -2636,20 +2611,20 @@ Suggested Questions on the Lesson
 
 the beginning
 
-P. What book do we study in Sunday School? Bible
-P. Who is its Author? God
-P. What is the first book in the Bible? Genesis
-P. What does Genesis mean?
-P. Can you repeat the first verse of the Bible? In the beginning . ..
-P. What was given to the world on the first day of creation?
-J. In how many days was creation finished?
-J. Does day mean our day of twenty-four hours? no
-J. What was the Lord's final creation? man
-I. How is man different from the animals?
-I. What dominion or power was given to man? all earth
-J. What did the Lord say of creation whep. He had finished it?
-P. What did He do on the seventh day? rested
-J. How did He set the seventh day apart from other days?
+Pri. What book do we study in Sunday School? Bible
+Pri. Who is its Author? God
+Pri. What is the first book in the Bible? Genesis
+Pri. What does Genesis mean?
+Pri. Can you repeat the first verse of the Bible? In the beginning . ..
+Pri. What was given to the world on the first day of creation?
+Jr. In how many days was creation finished?
+Jr. Does day mean our day of twenty-four hours? no
+Jr. What was the Lord's final creation? man
+Int. How is man different from the animals?
+Int. What dominion or power was given to man? all earth
+Jr. What did the Lord say of creation whep. He had finished it?
+Pri. What did He do on the seventh day? rested
+Jr. How did He set the seventh day apart from other days?
 
 image of God
 
@@ -2661,23 +2636,23 @@ it was good
 
 blessed and sanctified it
 
-J. What does blessed mean? made happy
-J. What does sanctified or hallowed mean?
-J. When the Lord was on earth, what did He say it is lawful to do
+Jr. What does blessed mean? made happy
+Jr. What does sanctified or hallowed mean?
+Jr. When the Lord was on earth, what did He say it is lawful to do
 
 holy
 
 on the sabbath? good
 
-J. What things did He Himself do on the sabbath?
+Jr. What things did He Himself do on the sabbath?
 worshiped, taught, healed, ate with friends
 
-I. What do we mean by (1) celestial, and (2) spiritual states?
+Int. What do we mean by (1) celestial, and (2) spiritual states?
 
 (1) doing right spontaneously from love
 (2) doing right according to truth
 
-S. Spiritually, what is the rest of the Sabbath Day?
+Sr. Spiritually, what is the rest of the Sabbath Day?
 
 rest from struggle with temptation
 
@@ -3225,32 +3200,32 @@ himself; for the former is life, but the latter is death."
 In whose image and likeness was man created? God's
 
 Suggested Questions on the Lesson
-P. Whose Book is the Bible? God's Word
-P. What is the name of the first book in the Bible? Genesis
-J. What does Genesis mean?
+Pri. Whose Book is the Bible? God's Word
+Pri. What is the name of the first book in the Bible? Genesis
+Jr. What does Genesis mean?
 the beginning
-J. What is the first chapter about? creation
-P. In how many days was everything created? six
-J. What was the last thing created? man
+Jr. What is the first chapter about? creation
+Pri. In how many days was everything created? six
+Jr. What was the last thing created? man
 I.
-J. What did the Lord do on the seventh day? rested
-P. Where did the Lord place the first people? Garden ofEden
-P. What name is given to them in our chapter? Adam
-J. What does Adam mean? mankind
-J. What was Adam told to do in the Garden of Eden? dress it and keep it
-P. What tree was in the midst of the garden? life
-P. How was the garden watered? river
-P. Into how many streams was the river divided? four
-J. of what tree were the people told not to eat? knowledge ofgood and evil
-J. To what did Adam give names? animals, birds
-J. What did the Lord take from Adam while he slept? rib
-J. Into what did He make the rib? woman
-I. What does the Garden of Eden picture? state of nearness to and complete
+Jr. What did the Lord do on the seventh day? rested
+Pri. Where did the Lord place the first people? Garden ofEden
+Pri. What name is given to them in our chapter? Adam
+Jr. What does Adam mean? mankind
+Jr. What was Adam told to do in the Garden of Eden? dress it and keep it
+Pri. What tree was in the midst of the garden? life
+Pri. How was the garden watered? river
+Pri. Into how many streams was the river divided? four
+Jr. of what tree were the people told not to eat? knowledge ofgood and evil
+Jr. To what did Adam give names? animals, birds
+Jr. What did the Lord take from Adam while he slept? rib
+Jr. Into what did He make the rib? woman
+Int. What does the Garden of Eden picture? state of nearness to and complete
 trust in the Lord
-I. What is symbolized by the river?
+Int. What is symbolized by the river?
 truth as it comes from the Lord into
 our minds
-S. What do the two trees represent?
+Sr. What do the two trees represent?
 life-principle that we live from the Lord
 knowledge-ability to think of self as independent from God; hence that
 
@@ -3929,31 +3904,31 @@ sporting in a diamond-like aura, and having a perception of happiness from
 the very inmost."
 
 Suggested Questions on the Lesson
-P. What book are we studying? Bible
-P. Who wrote it? God
+Pri. What book are we studying? Bible
+Pri. Who wrote it? God
 ]. What is the first chapter of the Bible about?
 ]. What does Genesis mean?
 the beginning
-P. What beautiful place was given to the first people for their home? Eden
+Pri. What beautiful place was given to the first people for their home? Eden
 ]. How was the Garden of Eden watered?
-P. How did the Lord provide for men there? fruit trees, seed plants
+Pri. How did the Lord provide for men there? fruit trees, seed plants
 ]. What two trees are specifically mentioned?
 ]. In our chapter by what name are the first people called? Adam
 ]. What one thing did Adam want that he did not have? wife
-P. What did the Lord ask Adam to do with regard to the animals and birds?
+Pri. What did the Lord ask Adam to do with regard to the animals and birds?
 life, knowledge
 creation
 river
 name them
-P. What did the Lord do when Adam was asleep?
+Pri. What did the Lord do when Adam was asleep?
 ]. What does mythology call the Garden of Eden? Golden Age
 took rib, formed woman
-J. What does Swedenborg call it? Most Ancient Church
-I. What is meant by man's being "alone"? close to God
-S. What is meant by the rib? sense of selfhood, proprium
-I. What is meant by the rib's being built into a woman?
+Jr. What does Swedenborg call it? Most Ancient Church
+Int. What is meant by man's being "alone"? close to God
+Sr. What is meant by the rib? sense of selfhood, proprium
+Int. What is meant by the rib's being built into a woman?
 made beautiful by God
-S. What is the basis of a true marriage? desire to serv . Lord together
+Sr. What is the basis of a true marriage? desire to serv . Lord together
 
 == THE SERPENT
 Genesis 3
@@ -4644,40 +4619,40 @@ said that 'the serpent was more subtle than any wild animal of the field.'"
 
 St,lggested Questions on the Lesson
 
-P. Can you repeat the first verse of the Bible? In the beginning . ..
-I. What are the heavens and the earth in us? higher and lower natures
-S. Of what does the first chapter of Genesis treat in its spiritual sense?
+Pri. Can you repeat the first verse of the Bible? In the beginning . ..
+Int. What are the heavens and the earth in us? higher and lower natures
+Sr. Of what does the first chapter of Genesis treat in its spiritual sense?
 
 steps in regeneration
 
-I. What is the difference between a man and an animal? man image ofGod
+Int. What is the difference between a man and an animal? man image ofGod
 ]. What were the first people told to do? rule «earth"
-I. What is the first church developed on earth called? Most Ancient
+Int. What is the first church developed on earth called? Most Ancient
 ]. How is the beautiful state of the first church described? Eden
-P. After chapter 1, what names are used to tell about the fust men
+Pri. After chapter 1, what names are used to tell about the fust men
 
 and women? Adam and Eve
 
 life, knowledge
 
-P. What two special trees are mentioned?
-I. What does the tree of life signify? principle that aU life is from God
-P. In the beginning of the story, where was this tree in the garden? center
-P. What were the first people told not to do? eat of tree of knowledge
-S. What does this mean? not to decide for yourselfwhat is good or evil
-I. What is the serpent? symbol of affection for sense pleasures
+Pri. What two special trees are mentioned?
+Int. What does the tree of life signify? principle that aU life is from God
+Pri. In the beginning of the story, where was this tree in the garden? center
+Pri. What were the first people told not to do? eat of tree of knowledge
+Sr. What does this mean? not to decide for yourselfwhat is good or evil
+Int. What is the serpent? symbol of affection for sense pleasures
 ]. What did the serpent tell Eve? wouldn't die
-P. What did Eve and Adam do? ate fruit
+Pri. What did Eve and Adam do? ate fruit
 
 – Anita Dole Bible Study Notes Volume 1 –© 2001 by The Swedenborg Foundation. Scanned by Bayside Church. Used on www.newchurchvineyard.org by permission.#GENESIS 3
 
 115
 
-P. Why were they afterward ashamed? guilt for disobedience
-P. How did they try to cover their nakedness? fig leaves
-P. What was their punishment for disobedience? driven out ofgarden
+Pri. Why were they afterward ashamed? guilt for disobedience
+Pri. How did they try to cover their nakedness? fig leaves
+Pri. What was their punishment for disobedience? driven out ofgarden
 ]. How was the garden protected? cherubim
-S. What was the first prophecy of the Lord's Advent?
+Sr. What was the first prophecy of the Lord's Advent?
 
 verse 15~ "it shall bruise thy head . .. "
 
@@ -5261,42 +5236,42 @@ quently lived without love, both the love of self and the phantasy thence
 derived conspired to confrrm them in it."
 
 Suggested Questions on the Lesson
-P. Who created the earth and everything on it? God
-P. In how many days or stages was it created? six
-J. What was the final creation? man
-P. What did the Lord do on the seventh day? rested
-J. What did He say of this day? blessed and sanctified
-J. What do blessed and sanctified mean? made happy, made holy
-J. What does this teach us about how we should use Sunday?
+Pri. Who created the earth and everything on it? God
+Pri. In how many days or stages was it created? six
+Jr. What was the final creation? man
+Pri. What did the Lord do on the seventh day? rested
+Jr. What did He say of this day? blessed and sanctified
+Jr. What do blessed and sanctified mean? made happy, made holy
+Jr. What does this teach us about how we should use Sunday?
 
 make others happy, worship
 
-I. By what story in the Bible is the state of the people of the frrst church
+Int. By what story in the Bible is the state of the people of the frrst church
 
 on earth pictured? Eden
 
-J. What one prohibition did the Lord give them?
+Jr. What one prohibition did the Lord give them?
 
 not eat of tree of knowledge
 
-J. How were they tempted to disobey? serpent
-J. What was their punishment? driven from garden
-P. In our story for today what two sons were born to Adam and Eve?
+Jr. How were they tempted to disobey? serpent
+Jr. What was their punishment? driven from garden
+Pri. In our story for today what two sons were born to Adam and Eve?
 
 Cain, Abel
 
 shepherd
 
-P. What was Cain's occupation? farmer
-P. What was Abel's occupation?
-J. What offerings did they bring to the Lord? grain, lamb
-P. Whose offering was accepted? Abel's
-J. Why was Cain's offering rejected? insincere
-P. What did Cain do which showed his true character? killed Abel
-J. What was his punishment? wanderer
-J. How did the Lord save him from being destroyed? mark
-I. What do Cain and Abel represent? faith, charity
-S. What is represented by Cain's slaying Abel?
+Pri. What was Cain's occupation? farmer
+Pri. What was Abel's occupation?
+Jr. What offerings did they bring to the Lord? grain, lamb
+Pri. Whose offering was accepted? Abel's
+Jr. Why was Cain's offering rejected? insincere
+Pri. What did Cain do which showed his true character? killed Abel
+Jr. What was his punishment? wanderer
+Jr. How did the Lord save him from being destroyed? mark
+Int. What do Cain and Abel represent? faith, charity
+Sr. What is represented by Cain's slaying Abel?
 to know what is right without doing it
 
 thinking it is enough#NOAH BUILDS AN ARK
@@ -5933,38 +5908,38 @@ contains spiritual and celestial things, it is very evident that by the ark and
 all the things said about the ark, are signified hidden things not yet revealed."
 
 Suggested Questions on the Lesson
-P. Where did the Lord place the HI'st people? Garden ofEden
-P. What were they to do there? dress it and keep it
-P. How was the Garden of Eden watered? river
-J. What tree was in the middle of the garden?
-J. What other tree is mentioned? knowledge ofgood and evil
-P. What were the people told not to do? eat of tree of knowledge
-J. What did the Lord take out of Adam while he slept? rib
-J. Ipto what did He make it? woman
-P. How did the first people disobey the Lord? ate forbidden fruit
-P. What was their punishment? driven from garden
-J. Did they repent? no
-P. What did the Lord fmally decide to do? destroy man
+Pri. Where did the Lord place the HI'st people? Garden ofEden
+Pri. What were they to do there? dress it and keep it
+Pri. How was the Garden of Eden watered? river
+Jr. What tree was in the middle of the garden?
+Jr. What other tree is mentioned? knowledge ofgood and evil
+Pri. What were the people told not to do? eat of tree of knowledge
+Jr. What did the Lord take out of Adam while he slept? rib
+Jr. Ipto what did He make it? woman
+Pri. How did the first people disobey the Lord? ate forbidden fruit
+Pri. What was their punishment? driven from garden
+Jr. Did they repent? no
+Pri. What did the Lord fmally decide to do? destroy man
 
 life#GENESIS 6
 
 -145
 
 ]. Why did He save Noah and his family? they were good
-P. What did He tell Noah to build? ark
+Pri. What did He tell Noah to build? ark
 ]. Can you describe the ark? gopher wood, pitch, three stories, rooms,
 
 window, door
 
-P. Who went into the ark with Noah? wife, sons, their wives
+Pri. Who went into the ark with Noah? wife, sons, their wives
 ]. What were the names of Noah's three sons? Shem, Ham,japheth
-P. What else did Noah take into the ark? pairs ofall creatures
-S. What is meant by eating of the tree of knowledge of good and evil?
+Pri. What else did Noah take into the ark? pairs ofall creatures
+Sr. What is meant by eating of the tree of knowledge of good and evil?
 
 looking to selffor truth
 
-I. What is pictured by the flood? truth falsified and made destructive
-S. What is the symbolic meaning of the ark? good character formed by
+Int. What is pictured by the flood? truth falsified and made destructive
+Sr. What is the symbolic meaning of the ark? good character formed by
 
 obeying the Lord#THE END OF THE FLOOD
 Genesis 8
@@ -6695,41 +6670,41 @@ truth of faith. Thus of the Lord's Divine mercy has man been restored."
 
 Suggested Questions on the Lesson
 
-P. After men were created, where were they placed? Eden
-I. Why were they not satisfied? wanted independence
-I. How did the Lord meet their new need?
+Pri. After men were created, where were they placed? Eden
+Int. Why were they not satisfied? wanted independence
+Int. How did the Lord meet their new need?
 
 showed them how to use
 
 se1fhood constructive1y
 
-P. Why couldn't men always live in the beautiful Garden of Eden? disobeyed
-J. Why did they become worse as they went on? one bad deed led to another
-J. What finally happened to most of them? destroyed by own evil
-P. Who was saved? Noah
-P. How was Noah saved? ark
-P. How long did the rain last? forty days
-P. Where was the window which Noah opened when the rain stopped? top
-P. What two birds did he send out to see if the waters had gone down?
+Pri. Why couldn't men always live in the beautiful Garden of Eden? disobeyed
+Jr. Why did they become worse as they went on? one bad deed led to another
+Jr. What finally happened to most of them? destroyed by own evil
+Pri. Who was saved? Noah
+Pri. How was Noah saved? ark
+Pri. How long did the rain last? forty days
+Pri. Where was the window which Noah opened when the rain stopped? top
+Pri. What two birds did he send out to see if the waters had gone down?
 
 raven, dove
 
-P. What did the raven do? nothing
-P. How many times did Noah send out the dove? three
-P. What happened the frrst time? came back
-P. What did the dove bring back the second time? olive leaf
+Pri. What did the raven do? nothing
+Pri. How many times did Noah send out the dove? three
+Pri. What happened the frrst time? came back
+Pri. What did the dove bring back the second time? olive leaf
 
 THE END OF THE FLOOD
 
-J. What happened the third time? did not return
-J. What was the first thing Noah did when he came out of the ark?
+Jr. What happened the third time? did not return
+Jr. What was the first thing Noah did when he came out of the ark?
 
 built altar
 
-J. What did the Lord promise? no more floods
-I. What is meant by the flood? false ideas
-I. What are meant by the raven and the dove? false and true tltOughts
-S. To what does the olive leaf correspond?
+Jr. What did the Lord promise? no more floods
+Int. What is meant by the flood? false ideas
+Int. What are meant by the raven and the dove? false and true tltOughts
+Sr. To what does the olive leaf correspond?
 s. What change did the Lord make in man's constitution at the beginning
 
 knowledge of how to serve Lord
@@ -6737,8 +6712,8 @@ knowledge of how to serve Lord
 of the Ancient Church? Separated will and understanding; people were no
 longer led by perception, but now were led by conscience
 
-J. What does mythology call the civilization described by Noah? Silver Age
-J. What does Swedenborg call it? Ancient Church#THE RAINBOW
+Jr. What does mythology call the civilization described by Noah? Silver Age
+Jr. What does Swedenborg call it? Ancient Church#THE RAINBOW
 Genesis 9: 1-17
 
 The review of the temptation by the serpent leads directly into
@@ -7309,35 +7284,35 @@ the spirit,' but the celestial angels are said to be regenerated 'with fire.'''
 
 Suggested Questions on the Lesson
 
-I. What story teaches us about the people of the first church on earth? Eden
-I. What was that church called? Most Ancient
-J. How did evil come into the world? man's disobedience
-I. What story tells about the saving of the good remnant? flood
-P. How long did the flood last? almost a year (cf. 7: 11, 8: 13)
-P. What was the first thing Noah did when he came out of the ark?
+Int. What story teaches us about the people of the first church on earth? Eden
+Int. What was that church called? Most Ancient
+Jr. How did evil come into the world? man's disobedience
+Int. What story tells about the saving of the good remnant? flood
+Pri. How long did the flood last? almost a year (cf. 7: 11, 8: 13)
+Pri. What was the first thing Noah did when he came out of the ark?
 
 built altar
 
-1. What did the Lord promise? no more floods
-P. What was the sign or token of this covenant?
-J. How is a rainbow formed?
+Int. What did the Lord promise? no more floods
+Pri. What was the sign or token of this covenant?
+Jr. How is a rainbow formed?
 
 rainbow
 sunlight on drops of water#GENESIS 9: 1-17
 
 179
 
-J. When do we usually see one? end of storm
-I. To what does water correspond?
-S. To what do the drops of water in the cloud correspond?
+Jr. When do we usually see one? end of storm
+Int. To what does water correspond?
+Sr. To what do the drops of water in the cloud correspond?
 
 truth
 
 knowledges in mind
 
-I. How did the Lord tell the Most Ancient people what was right? perception
-I. How does He tell us? conscience
-S. Why was the rainbow the sign of the new covenant made with Noah?
+Int. How did the Lord tell the Most Ancient people what was right? perception
+Int. How does He tell us? conscience
+Sr. Why was the rainbow the sign of the new covenant made with Noah?
 
 to picture new state-light shines on truths in memory#THE TOWER OF BABEL
 Genesis 11: 1-9
@@ -7958,23 +7933,23 @@ of that worship must be which contains within it an infernalism sO absolute."
 /
 
 Suggested Questions on the Lesson
-J. Who were Cain and Abel? sons ofAdam and Eve
-J. What were their occupations? farmer, shepherd
-J. What offerings did they bring to the Lord? grain, lamb
-J. Why was Cain's offering rejected?
-J. How did the Lord preserve Cain? mark
-J. In our story for today, in which direction were the people journeying?
+Jr. Who were Cain and Abel? sons ofAdam and Eve
+Jr. What were their occupations? farmer, shepherd
+Jr. What offerings did they bring to the Lord? grain, lamb
+Jr. Why was Cain's offering rejected?
+Jr. How did the Lord preserve Cain? mark
+Jr. In our story for today, in which direction were the people journeying?
 
 insincere
 
 from East
 
-P. Where did they stop? Shinar (Babylon)
-P. What did they plan to build?
-P. What was the purpose of their building?
-P. What materials did they use? brick, tar
-J. How did the Lord stop the building? confused language
-J. What became of the people? scattered
+Pri. Where did they stop? Shinar (Babylon)
+Pri. What did they plan to build?
+Pri. What was the purpose of their building?
+Pri. What materials did they use? brick, tar
+Jr. How did the Lord stop the building? confused language
+Jr. What became of the people? scattered
 
 reach heaven
 
@@ -7982,20 +7957,14 @@ tower#GENESIS 11: 1-9
 
 195
 
-J. The end of what church is described in this story? Ancient
-P. What was the tower called? Babel
-J. What other name in the Bible is the Greek form of the Hebrew word Babel?
+Jr. The end of what church is described in this story? Ancient
+Pri. What was the tower called? Babel
+Jr. What other name in the Bible is the Greek form of the Hebrew word Babel? Babylon
+Int. What is pictured by the building of the Tower of Babel? building life on selfish premises
+Sr. What was the difference between the Most Ancient and the Ancient Churches? perception-truth acquired by an inner way; and conscience 
+truth acquired by an outer way
 
-Babylon
-
-I. What is pictured by the building of the Tower of Babel? building life on
-
-selfish premises
-
-s. What was the difference between the Most Ancient and the Ancient
-
-Churches? perception-truth acquired by an inner way; and conscience 
-truth acquired by an outer way#THE CALL OF ABRAM
+== THE CALL OF ABRAM
 Genesis 11: 2 7-32; 12: 1-1 0
 
 Noah's descendants,
@@ -8659,32 +8628,32 @@ is in all things of the Word, both in general and in particular, although it doe
 not so appear in the external form."
 
 Suggested Questions on the Lesson
-I. Are the first eleven chapters of the Bible historical fact? no
-J. Who was the first real person mentioned in the Bible? Eber
-I. Who was chosen by the Lord to begin the establishment of a new church
+Int. Are the first eleven chapters of the Bible historical fact? no
+Jr. Who was the first real person mentioned in the Bible? Eber
+Int. Who was chosen by the Lord to begin the establishment of a new church
 
 on earth? Abram
 
-J. Who was Abram's father? Who were his brothers? Terah; Haran, Nahor '
-J. Who was his wife? Sarai
-P. Where did they live? Ur, Chaldea
-P. Where did the Lord tell them to go? Canaan
-J. Where did they stop first? Haran (city ofNahor)
-P. Who went on from Haran? Who was Lot? Lot, Abram's nephew
-J. What did the Lord promise Abram?
-J. Where did he stop ftrst in the land of Canaan? Shechem (Sichem)
-J. What was his second stop? near Bethel
-P. What did he build in both places? altar
-J. Where did he then go, and why? Egypt,famine
-I. What does the land of Canaan represent? heavenly way of life
-I. What does Abram's journey represent? leave inherited selfish tendencies ...
-S. What does going into Egypt represent? gaining needed truth from the
+Jr. Who was Abram's father? Who were his brothers? Terah; Haran, Nahor '
+Jr. Who was his wife? Sarai
+Pri. Where did they live? Ur, Chaldea
+Pri. Where did the Lord tell them to go? Canaan
+Jr. Where did they stop first? Haran (city ofNahor)
+Pri. Who went on from Haran? Who was Lot? Lot, Abram's nephew
+Jr. What did the Lord promise Abram?
+Jr. Where did he stop ftrst in the land of Canaan? Shechem (Sichem)
+Jr. What was his second stop? near Bethel
+Pri. What did he build in both places? altar
+Jr. Where did he then go, and why? Egypt,famine
+Int. What does the land of Canaan represent? heavenly way of life
+Int. What does Abram's journey represent? leave inherited selfish tendencies ...
+Sr. What does going into Egypt represent? gaining needed truth from the
 
 to be father of nation
 
 Word
 
-S. What does this teach us about our own lives? we will repeatedly need to
+Sr. What does this teach us about our own lives? we will repeatedly need to
 
 learn more truth
 
@@ -9447,10 +9416,10 @@ celestial things. It is these pleasures, and not others, that are treated of in 
 chapter-by Lot, in that he separated himself from Abraham."
 
 Suggested Questions on the Lesson
-P. What two men is our lesson about today? Abram, Lot
-J. Where did Abram and Lot come from? Ur, chaldea
-J. Why did they leave Dr?
-P. What did Abram do at the ftrst two places where he stopped in Canaan?
+Pri. What two men is our lesson about today? Abram, Lot
+Jr. Where did Abram and Lot come from? Ur, chaldea
+Jr. Why did they leave Dr?
+Pri. What did Abram do at the ftrst two places where he stopped in Canaan?
 
 the Lord told them to
 
@@ -9458,21 +9427,21 @@ built altars#GENESIS 13:1-13; 14:1-16
 
 229
 
-J. To what other country did he and Lot go before they settled in Canaan?
+Jr. To what other country did he and Lot go before they settled in Canaan?
 
 Egypt
 
 they became rich
 
-P. What happened in Egypt?
-J. Where did they go first when they came back? Bethel
-J. What difficulty came up between them? herdmen quarreled
-J. What offer did Abram make to Lot? choice of land
-P. What part of the country did Lot choose? valley
-J. Why did he choose it? good pasture
-J. What danger was there which he did not think about? Sodom
-J. Into what trouble did he fall?
-J. How was he saved? Abram
+Pri. What happened in Egypt?
+Jr. Where did they go first when they came back? Bethel
+Jr. What difficulty came up between them? herdmen quarreled
+Jr. What offer did Abram make to Lot? choice of land
+Pri. What part of the country did Lot choose? valley
+Jr. Why did he choose it? good pasture
+Jr. What danger was there which he did not think about? Sodom
+Jr. Into what trouble did he fall?
+Jr. How was he saved? Abram
 I.
 
 captured in war
@@ -9480,17 +9449,17 @@ captured in war
 In our lives what does Lot's chOIce picture? doing whatever pleases us
 at the moment
 
-I. What are meant by the cities of Sodom and Gomorrah?
+Int. What are meant by the cities of Sodom and Gomorrah?
 
 selfishness,
 
 worldly thinking
 
-S. Does this mean that we should avoid all the pleasures of the senses?
+Sr. Does this mean that we should avoid all the pleasures of the senses?
 
 no, but should be kept in proper perspective
 
-S. How can we tell what pleasures are innocent? not harmful, and in
+Sr. How can we tell what pleasures are innocent? not harmful, and in
 
 harmony with goals of spiritual life#ABRAHAM AND ISHMAEL
 
@@ -10126,21 +10095,21 @@ land of Egypt (Gen. xxi. 9-21); all of which things are representative of one
 who is endowed with such a rational."
 
 Suggested Questions on the Lesson
-P. Who was the father of the third church? Abraham
-J. In what place did he settle in the land of Canaan? South (Negeb)
-P. What was his wife's name? Sarai
-P. What one thing did Abram not have that he wanted? a son
-J. How did Sarai try to supply this lack? gave Abraham Hagar as a wife
-P. From what country did Hagar come? Egypt
-J. What fault did she commit? despised her mistress
-J. Why did she run away from her mistress Sarai? harsh treatment
-P. Where did she go and where did the angel of the Lord find her?
+Pri. Who was the father of the third church? Abraham
+Jr. In what place did he settle in the land of Canaan? South (Negeb)
+Pri. What was his wife's name? Sarai
+Pri. What one thing did Abram not have that he wanted? a son
+Jr. How did Sarai try to supply this lack? gave Abraham Hagar as a wife
+Pri. From what country did Hagar come? Egypt
+Jr. What fault did she commit? despised her mistress
+Jr. Why did she run away from her mistress Sarai? harsh treatment
+Pri. Where did she go and where did the angel of the Lord find her?
 
 wilderness, spring
 
-P. What did he tell her to do? go back and obey
-J. What did he say about her son?
-P. What was her son's name? Ishmael
+Pri. What did he tell her to do? go back and obey
+Jr. What did he say about her son?
+Pri. What was her son's name? Ishmael
 
 to father great nation
 
@@ -10702,17 +10671,17 @@ Suggested Questions on the Lesson
 leave, go to Canaan
 
 ]. Where was Abraham's first home? Ur
-P. What did the Lord tell him to do?
-J. Where did he finally settle? Hebron (Mamre)
+Pri. What did the Lord tell him to do?
+Jr. Where did he finally settle? Hebron (Mamre)
 three men
-P. who came to him there one day?
-P. How did he receive them? as honored guests
-P. Who were they really? angels
-J. What did they tell Abraham? Sarah would have a son
+Pri. who came to him there one day?
+Pri. How did he receive them? as honored guests
+Pri. Who were they really? angels
+Jr. What did they tell Abraham? Sarah would have a son
 ]. Why did Sarah laugh? she was old, doubted
 ]. Where did the angels go wl'ien they left Abraham?
-J. Why were they going to Sodom and Gomorrah?
-J. What was the first question Abraham asked of the Lord? destroy the good
+Jr. Why were they going to Sodom and Gomorrah?
+Jr. What was the first question Abraham asked of the Lord? destroy the good
 
 to destroy them
 
@@ -10722,19 +10691,19 @@ with the bad?
 
 If I find fifty righteous . ..
 
-J. What did the Lord tell him?
+Jr. What did the Lord tell him?
 ]. How many questions did Abraham ask? -5, 40, 30, 20, 10 (five questions)
-J. How did the Lord answer each time? I will not destroy if . ..
-J. What was the smallest number of good people Abraham mentioned?
+Jr. How did the Lord answer each time? I will not destroy if . ..
+Jr. What was the smallest number of good people Abraham mentioned?
 state of simple trust and obedience
-I. What does Abraham represent?
-S. What is pictured by his being told to leave Ur and go to Canaan?
+Int. What does Abraham represent?
+Sr. What is pictured by his being told to leave Ur and go to Canaan?
 
 ten
 
 leave selfish outlook, start to develop heavenly character
 
-S. What is pictured by the birth of a son? new development of truth or
+Sr. What is pictured by the birth of a son? new development of truth or
 
 new intellectual faculty#THE BIRTH OF ISAAC
 
@@ -11343,43 +11312,43 @@ the glory of heaven there is absolutely nothing the same as in the glory of
 the world."
 
 Suggested Questions on the Lesson
-J. What story in the Bible tells of the end of the second church on earth?
+Jr. What story in the Bible tells of the end of the second church on earth?
 
 Tower of Babel
 
-J. What happened to its people?
-P. What family was chosen by the Lord to begin a new church? Abram
+Jr. What happened to its people?
+Pri. What family was chosen by the Lord to begin a new church? Abram
 
 scattered
 
 (Eber, Terah)
 
-P. Where did they live? Ur, Chaldea
-P. What did the Lord tell them to do? go to Canaan
-P. Where did some of them stop? Haran
-P. Who went on? Abram, Sarai and Lot
-P. In what two places in Canaan did Abraham build altars? Shechem, Bethel
-P. Why did he go down into Egypt? famine
-J. Where did he settle when he came back? Hebron
-J. What promise did the Lord make to Abraham about his descendants?
+Pri. Where did they live? Ur, Chaldea
+Pri. What did the Lord tell them to do? go to Canaan
+Pri. Where did some of them stop? Haran
+Pri. Who went on? Abram, Sarai and Lot
+Pri. In what two places in Canaan did Abraham build altars? Shechem, Bethel
+Pri. Why did he go down into Egypt? famine
+Jr. Where did he settle when he came back? Hebron
+Jr. What promise did the Lord make to Abraham about his descendants?
 
 to be as sand of sea
 
-P. What one necessary thing did Abraham lack? son
-J. How did Sarah try to make up for this lack? gave Hagar as wife
-P. What was the name of Hagar's son? Ishmael
-J. What did the Lord tell Abraham about Ishmael? not your heir
-P. How old was Abraham when Sarah's own son was born? hundred years
-P. What was Sarah's child named? Isaac
-P. What did Ishmael do which displeased Sarah? mocked Isaac
-P. What did Sarah tell Abraham to do? send them away
-J. What did the Lord tell him? do as Sarah said
-J. Where did Hagar and Ishmael go? desert
-J. What did the angel promise them? "I will make him a great nation"
-J. What did Ishmael become? archer
-J. From what country was his wife? Egypt
-I. What does Egypt represent? memory-knowledge
-S. What do Ishmael and Isaac represent?
+Pri. What one necessary thing did Abraham lack? son
+Jr. How did Sarah try to make up for this lack? gave Hagar as wife
+Pri. What was the name of Hagar's son? Ishmael
+Jr. What did the Lord tell Abraham about Ishmael? not your heir
+Pri. How old was Abraham when Sarah's own son was born? hundred years
+Pri. What was Sarah's child named? Isaac
+Pri. What did Ishmael do which displeased Sarah? mocked Isaac
+Pri. What did Sarah tell Abraham to do? send them away
+Jr. What did the Lord tell him? do as Sarah said
+Jr. Where did Hagar and Ishmael go? desert
+Jr. What did the angel promise them? "I will make him a great nation"
+Jr. What did Ishmael become? archer
+Jr. From what country was his wife? Egypt
+Int. What does Egypt represent? memory-knowledge
+Sr. What do Ishmael and Isaac represent?
 
 (1) natural or first rational
 
@@ -12110,16 +12079,16 @@ Divine order, which are those of evil and falsity, and thence of punishments
 and torments."
 
 Suggested Questions on the Lesson
-P. Who was Abram's wife? Sarai
-P. What was the name of their only son? Isaac
-J. How old were Abraham and Sarah when Isaac was born? a hundred, ninety
-J. What was Abraham tempted to do? sacrifice Isaac
-J. Why did he thinlc he ought to sacrifice Isaac?
+Pri. Who was Abram's wife? Sarai
+Pri. What was the name of their only son? Isaac
+Jr. How old were Abraham and Sarah when Isaac was born? a hundred, ninety
+Jr. What was Abraham tempted to do? sacrifice Isaac
+Jr. Why did he thinlc he ought to sacrifice Isaac?
 
 thought God wanted him
 
 to give up his dearest possession
-I. Why did the Lord let him think this?
+Int. Why did the Lord let him think this?
 
 to test his faith
 
@@ -12129,36 +12098,25 @@ to test his faith
 
 three days
 
-J. Where was Abraham told to go for the sacrifice? Mount Moriah
-J. What was later built on Mount Moriah? Temple
-J. How long was the journey?
-J. Who went with Abraham and Isaac?
+Jr. Where was Abraham told to go for the sacrifice? Mount Moriah
+Jr. What was later built on Mount Moriah? Temple
+Jr. How long was the journey?
+Jr. Who went with Abraham and Isaac?
 two young men
-J. What did they take with them? ass, wood, fire, knife
-P. Who went up the mountain? Isaac, Abraham
-J. What did Isaac ask? where is lamb?
-J. What did Abraham answer? God will provide
-P. When did the Lord stop Abraham? as he raised knife
-P. How did He stop him? angel
-P. What did Abraham find to sacrifice instead of Isaac?
-I. Does temptation really come from the Lord? no
-I. Why does the Lord permit us to be tempted? to strengthen our character
-S. What does Isaac represent? spiritual rational
-S. How are people today tempted to sacrifice Isaac?
+Jr. What did they take with them? ass, wood, fire, knife
+Pri. Who went up the mountain? Isaac, Abraham
+Jr. What did Isaac ask? where is lamb?
+Jr. What did Abraham answer? God will provide
+Pri. When did the Lord stop Abraham? as he raised knife
+Pri. How did He stop him? angel
+Pri. What did Abraham find to sacrifice instead of Isaac?
+Int. Does temptation really come from the Lord? no
+Int. Why does the Lord permit us to be tempted? to strengthen our character
+Sr. What does Isaac represent? spiritual rational
+Sr. How are people today tempted to sacrifice Isaac? stop reasoning about religion
+Sr. What is meant by the substitution of a ram for Isaac in the sacrifice? continue to reason, but submit our ideas of what is good and useful to the guidance of the Lord's truth
 
-stop reasoning about
-
-ram
-
-religion
-
-s. What is meant by the substitution of a ram for Isaac in the sacrifice?
-
-continue to reason, but submit our ideas of what is good and useful to
-the guidance of the Lord's truth
-
-– Anita Dole Bible Study Notes Volume 1 –© 2001 by The Swedenborg Foundation. Scanned by Bayside Church. Used on www.newchurchvineyard.org by permission.#ISAAC AND REBEKAH
-
+## ISAAC AND REBEKAH
 Genesis 24
 
 All the classes should be very familiar with the names Ishmael
@@ -12723,14 +12681,14 @@ in altogether another form, for it then has the form of love and charity in
 beauty inexpressible."
 
 Suggested Questions on the Lesson
-J. Who was the "father of the Jews"? Abraham
-J. Where did he come from? Ur
-J. Why did he go to the Holy Land? God called him
-J. Where did he settle there? Hebron
-P. who was Abraham's wife? Sarah
-P. Who was Hagar? her maid
-P. Who was Abraham's first son? Ishmael
-J. Whose son was Isaac? Sarah's
+Jr. Who was the "father of the Jews"? Abraham
+Jr. Where did he come from? Ur
+Jr. Why did he go to the Holy Land? God called him
+Jr. Where did he settle there? Hebron
+Pri. who was Abraham's wife? Sarah
+Pri. Who was Hagar? her maid
+Pri. Who was Abraham's first son? Ishmael
+Jr. Whose son was Isaac? Sarah's
 
 – Anita Dole Bible Study Notes Volume 1 –© 2001 by The Swedenborg Foundation. Scanned by Bayside Church. Used on www.newchurchvineyard.org by permission.#GENESIS 24
 
@@ -12738,25 +12696,25 @@ J. Whose son was Isaac? Sarah's
 
 idolaters
 
-J. Why were Hagar and Ishmael sent away? mocking attitude
-J. Why did Abraham not want Isaac to marry a Canaanite?
-P. Whom did Abraham send to find a wife for Isaac?
-P. Where did he send him? Haran
-J. Who had settled there? Abraham's brother
-P. Where did Abraham's servant stop? at a well
-J. What sign did he ask of the Lord? woman who offered to draw water
-P. Who fulfilled the sign? Rebekah
-J. Who was Rebekah? Nahor's granddaughter
-P. Why did her parents let her go with Abraham's servant? believed it was
+Jr. Why were Hagar and Ishmael sent away? mocking attitude
+Jr. Why did Abraham not want Isaac to marry a Canaanite?
+Pri. Whom did Abraham send to find a wife for Isaac?
+Pri. Where did he send him? Haran
+Jr. Who had settled there? Abraham's brother
+Pri. Where did Abraham's servant stop? at a well
+Jr. What sign did he ask of the Lord? woman who offered to draw water
+Pri. Who fulfilled the sign? Rebekah
+Jr. Who was Rebekah? Nahor's granddaughter
+Pri. Why did her parents let her go with Abraham's servant? believed it was
 
 servant
 
 God's will
 
-J. Where did Isaac meet her?
-P. Was Isaac satisfied with Rebekah? yes
-S. To what do Ishmael and Isaac correspond? first and second rational
-I. What is represented by the well?
+Jr. Where did Isaac meet her?
+Pri. Was Isaac satisfied with Rebekah? yes
+Sr. To what do Ishmael and Isaac correspond? first and second rational
+Int. What is represented by the well?
 
 the Word
 
@@ -13269,34 +13227,34 @@ or else they take away all faith, and then the doctrine of his lips is only a
 sound excited and modified by the fire of these loves."
 
 Suggested Questions on the Lesson
-P. Who was the son of Abraham and Sarah? Isaac
-P. Who was Isaac's wife? Rebekah
-P. What place did she come from? Haran
+Pri. Who was the son of Abraham and Sarah? Isaac
+Pri. Who was Isaac's wife? Rebekah
+Pri. What place did she come from? Haran
 ]. What children did Isaac and Rebekah have? Esau and]acob
 ]. In time of famine where did the Lord forbid Isaac to go? Egypt
 ]. Where did Isaac go instead? philistia
-J. What was the king of the Philistines called? Abimelech
-P. Did he welcome Isaac? yes, but later feared him
-P. Who had previously dug wells in the Philistine country? Abraham
-P. What had the Philistines done to these wells? filled them in
+Jr. What was the king of the Philistines called? Abimelech
+Pri. Did he welcome Isaac? yes, but later feared him
+Pri. Who had previously dug wells in the Philistine country? Abraham
+Pri. What had the Philistines done to these wells? filled them in
 two
-P. How many wells did they prevent Isaac from opening?
-P. Did Isaac quarrel with them? no
-J. What agreement did Abirnelech finally make with Isaac? oath ofpeace
+Pri. How many wells did they prevent Isaac from opening?
+Pri. Did Isaac quarrel with them? no
+Jr. What agreement did Abirnelech finally make with Isaac? oath ofpeace
 
 ISAAC AND ABIMELECH
 
-J. What did. they name the place where the agreement was mad.e? Beersheba
-J. What d.oes Beersheba mean? well ofoath
-I. What does Isaac represent? our ability to reason spiritually
-I. What does a well represent?
-S. What do the Philistines picture? desire to know truth, but no desire
+Jr. What did. they name the place where the agreement was mad.e? Beersheba
+Jr. What d.oes Beersheba mean? well ofoath
+Int. What does Isaac represent? our ability to reason spiritually
+Int. What does a well represent?
+Sr. What do the Philistines picture? desire to know truth, but no desire
 
 the Word
 
 to live it
 
-S. What is pictured by their filling up Abraham's wells with earth?
+Sr. What is pictured by their filling up Abraham's wells with earth?
 
 preferring one's own opinion to the Lord's guidance#JACOB AND ESAD
 Genesis 25: 19-34; 27
@@ -13865,25 +13823,25 @@ without a reason, and the reason can be found only in some law of the Divine
 providence, which law teaches why it is permitted."
 
 Suggested Questions on the Lesson
-P. Whom did Isaac marry? Rebekah
-P. Where did she come from? Haran
-P. What two sons did Isaac and Rebekah have? Esau andJacob
-P. Which was the firstborn? Esau
-P. How were they different? Esau hairy and red; Jacob smooth
-P. What did Esau sell to Jacob? birthright
-P. What did he get for it?
-P. Which son was Isaac's favorite? Esau
-P. Which was Rebekah's favorite? Jacob
-J. When Isaac was old, how did Rebekah help Jacob to deceive him?
+Pri. Whom did Isaac marry? Rebekah
+Pri. Where did she come from? Haran
+Pri. What two sons did Isaac and Rebekah have? Esau andJacob
+Pri. Which was the firstborn? Esau
+Pri. How were they different? Esau hairy and red; Jacob smooth
+Pri. What did Esau sell to Jacob? birthright
+Pri. What did he get for it?
+Pri. Which son was Isaac's favorite? Esau
+Pri. Which was Rebekah's favorite? Jacob
+Jr. When Isaac was old, how did Rebekah help Jacob to deceive him?
 
 "mess ofpottage"
 
 prepared meat, put goat's hair on Jacob
 
-P. What did Isaac give Jacob that Esau should have had? blessing offirstborn
-P. How did Esau feel about it? wanted to kiUJacob
-I. What do Esau and Jacob represent? natural win, natural understanding
-S. Why did the Lord permit Jacob to supplant Esau?
+Pri. What did Isaac give Jacob that Esau should have had? blessing offirstborn
+Pri. How did Esau feel about it? wanted to kiUJacob
+Int. What do Esau and Jacob represent? natural win, natural understanding
+Sr. Why did the Lord permit Jacob to supplant Esau?
 
 to show that we must
 
@@ -14423,19 +14381,19 @@ the church. I t
 
 Suggested Questions on the Lesson
 
-P. Who were the twin sons of Isaac and Rebekah? Esau and]acob
+Pri. Who were the twin sons of Isaac and Rebekah? Esau and]acob
 ]. Why was Jacob sent away from home? to find wife, flee brother
-P. Where was he to go? Haran
-P. What was one of the places at which he stopped at night? Bethel
-J. Where have we heard of Bethel before? Abram stories
-P. What did Jacob use for a pillow?
-P. What did he see in his dream?
-P. Who was at the top of the ladder?
-P. Who were going up and down? angels
-J. What does angel mean? messenger
-J. What did the Lord telI Jacob ? land to be his
-J. What did Jacob do when he woke? made pillar
-J. Why was the place called Bethel? see verses 16-19
+Pri. Where was he to go? Haran
+Pri. What was one of the places at which he stopped at night? Bethel
+Jr. Where have we heard of Bethel before? Abram stories
+Pri. What did Jacob use for a pillow?
+Pri. What did he see in his dream?
+Pri. Who was at the top of the ladder?
+Pri. Who were going up and down? angels
+Jr. What does angel mean? messenger
+Jr. What did the Lord telI Jacob ? land to be his
+Jr. What did Jacob do when he woke? made pillar
+Jr. Why was the place called Bethel? see verses 16-19
 
 the Lord
 
@@ -14445,16 +14403,16 @@ ladder
 
 JACOB'S DREAM
 
-J. What did the dream do for Jacob? encouraged him
-J. What is our Jacob's ladder? the Word
-I. What are the angels ascending and descending upon it?
-I. What were the stones which Jacob took for his pillow? foundation
+Jr. What did the dream do for Jacob? encouraged him
+Jr. What is our Jacob's ladder? the Word
+Int. What are the angels ascending and descending upon it?
+Int. What were the stones which Jacob took for his pillow? foundation
 
 thoughts
 
 of truths
 
-S. Why did he afterward set them up for a pillar? exalt basic truths as
+Sr. Why did he afterward set them up for a pillar? exalt basic truths as
 
 rules of life#JACOB'S WIVES AND SONS
 Genesis 29; 35:23-26
@@ -15295,18 +15253,18 @@ is the reason why in the literal sense of the Word there are general, but in
 the internal sense singular truths."
 
 Suggested Questions on the Lesson
-J. How did Jacob take Esau's place? bought birthright, stole blessing
-J. Why did Jacob have to leave home? Esau's threat
-P. Where did he go? Haran
-J. With whom did he take up employment? Laban
-P. What two daughters did Laban have? Leah and Rachel
-P. Which one did Jacob love? Rachel
-J. Which one was given him Hrst? Leah
-P. How long did Jacob stay in Haran?
-P. How many sons did he have?
-J. Which ones were Rachel's children? Joseph and Benjamin
-P. Which was the last one born in Haran? Joseph
-P. Where was Benjamin born? near Bethlehem
+Jr. How did Jacob take Esau's place? bought birthright, stole blessing
+Jr. Why did Jacob have to leave home? Esau's threat
+Pri. Where did he go? Haran
+Jr. With whom did he take up employment? Laban
+Pri. What two daughters did Laban have? Leah and Rachel
+Pri. Which one did Jacob love? Rachel
+Jr. Which one was given him Hrst? Leah
+Pri. How long did Jacob stay in Haran?
+Pri. How many sons did he have?
+Jr. Which ones were Rachel's children? Joseph and Benjamin
+Pri. Which was the last one born in Haran? Joseph
+Pri. Where was Benjamin born? near Bethlehem
 
 twenty years
 
@@ -15316,15 +15274,15 @@ twelve
 
 361
 
-S. What do Abraham, Isaac, and Jacob represent? will, thought, act
-I. What does the well at Haran represent?
-S. What do Leah and Rachel represent? exterior affection for truth,
+Sr. What do Abraham, Isaac, and Jacob represent? will, thought, act
+Int. What does the well at Haran represent?
+Sr. What do Leah and Rachel represent? exterior affection for truth,
 
 the Word
 
 interior affection for truth
 
-S. What do the twelve sons of Jacob represent? all aspects ofgood and truth
+Sr. What do the twelve sons of Jacob represent? all aspects ofgood and truth
 
 – Anita Dole Bible Study Notes Volume 1 –© 2001 by The Swedenborg Foundation. Scanned by Bayside Church. Used on www.newchurchvineyard.org by permission.#JACOB'S RETURN
 Genesis 35
@@ -15934,28 +15892,28 @@ Suggested Questions on the Lesson
 
 twenty years
 
-P. Why did Jacob leave home and go to Haran? afraid of brother
-P. How long did he stay there?
-P. What two wives did he marry? Leah, Rachel
-P. How many sons were born to him in Haran?
-P. Who was the youngest of these? Joseph
-P. Where was his twelfth son born? near Bethlehem
-P. What was his name? Benjamin
-J. Why did Jacob go to Bethel when he returned from Haran?
+Pri. Why did Jacob leave home and go to Haran? afraid of brother
+Pri. How long did he stay there?
+Pri. What two wives did he marry? Leah, Rachel
+Pri. How many sons were born to him in Haran?
+Pri. Who was the youngest of these? Joseph
+Pri. Where was his twelfth son born? near Bethlehem
+Pri. What was his name? Benjamin
+Jr. Why did Jacob go to Bethel when he returned from Haran?
 
 eleven
 
 to worship God
 
-J. Before he reached Bethel at what place did he stop? Shechem
-J. What did he make the people do at Shechem? give up gods, earrings
-J. Who was buried at Bethel? Deborah
-P. What did Jacob do at Bethel? built stone altar
-J. What did the Lord promise him there?
-J. Where did Jacob find Isaac? Hebron (Mamre)
-J. Where did Jacob and Esau bury Isaac? cave ofMachpelah
-I. What does Rebekah's nurse represent? hereditary selfishness
-S. Why is her death and burial mentioned at this point in the story of Jacob?
+Jr. Before he reached Bethel at what place did he stop? Shechem
+Jr. What did he make the people do at Shechem? give up gods, earrings
+Jr. Who was buried at Bethel? Deborah
+Pri. What did Jacob do at Bethel? built stone altar
+Jr. What did the Lord promise him there?
+Jr. Where did Jacob find Isaac? Hebron (Mamre)
+Jr. Where did Jacob and Esau bury Isaac? cave ofMachpelah
+Int. What does Rebekah's nurse represent? hereditary selfishness
+Sr. Why is her death and burial mentioned at this point in the story of Jacob?
 when we return voluntarily to spiritual living we must get rid of selfish
 motivation
 
@@ -16544,24 +16502,24 @@ were a king in Egypt, that he might then represent what is of the Lord's
 royalty."
 
 Suggested Questions on the Lesson
-P. How many sons were born to Jacob in Haran? eleven
-J. Who was the oldest? Reuben
-P. Who was the last one born in Haran? joseph
-P. What son was born after they returned to Canaan? Benjamin
-J. Which two sons were the children of Rachel? joseph and Benjamin
-P. Which son did Jacob love best? joseph
-P. What did Jacob make for Joseph?
-J. Why did Joseph's older brothers hate him? father's favorite, his dreams
-J. Can you tell about Joseph's two dreams? sheaves; sun, moon, stars
-P. On what errand did Jacob send Joseph?
-J. Where did Joseph find his brothers? Dothan
-P. What did they decide to do? kill him
-J. Who saved Joseph's life? Reuben
-P. What did the brothers finally do with Joseph?
-P. Into what country was he sold? Egypt
-S. What do the twelve sons of Jacob represent? aU basic mental faculties
-I. What does Joseph represent? spiritual principle
-S. What is pictured by Joseph's being sold into Egypt?
+Pri. How many sons were born to Jacob in Haran? eleven
+Jr. Who was the oldest? Reuben
+Pri. Who was the last one born in Haran? joseph
+Pri. What son was born after they returned to Canaan? Benjamin
+Jr. Which two sons were the children of Rachel? joseph and Benjamin
+Pri. Which son did Jacob love best? joseph
+Pri. What did Jacob make for Joseph?
+Jr. Why did Joseph's older brothers hate him? father's favorite, his dreams
+Jr. Can you tell about Joseph's two dreams? sheaves; sun, moon, stars
+Pri. On what errand did Jacob send Joseph?
+Jr. Where did Joseph find his brothers? Dothan
+Pri. What did they decide to do? kill him
+Jr. Who saved Joseph's life? Reuben
+Pri. What did the brothers finally do with Joseph?
+Pri. Into what country was he sold? Egypt
+Sr. What do the twelve sons of Jacob represent? aU basic mental faculties
+Int. What does Joseph represent? spiritual principle
+Sr. What is pictured by Joseph's being sold into Egypt?
 
 tunic of various colors
 
@@ -17174,17 +17132,17 @@ saulted, good is given to destruction."
 
 Suggested Questions on the Lesson
 
-P. Why did Joseph's older brothers dislike him? favorite, dreams
-P. Where was he taken by the Ishmaelite caravan? Egypt
-J. How did he come to be put in prison? Potiphar's wife's lies
-P. Who else were in prison with him? Pharaoh's butler and baker
-P. What did he do for them?
-J. What was the butler's dream? wine into cup
-P. What was the baker's dream? birds eating bread
-J. What happened to the butler and the baker? butler restored, baker hanged
-P. Did the butler remember Joseph? no
-I. What is Joseph in our lives? desire to be good
-S. How do we sometimes "put him in prison in Egypt"?
+Pri. Why did Joseph's older brothers dislike him? favorite, dreams
+Pri. Where was he taken by the Ishmaelite caravan? Egypt
+Jr. How did he come to be put in prison? Potiphar's wife's lies
+Pri. Who else were in prison with him? Pharaoh's butler and baker
+Pri. What did he do for them?
+Jr. What was the butler's dream? wine into cup
+Pri. What was the baker's dream? birds eating bread
+Jr. What happened to the butler and the baker? butler restored, baker hanged
+Pri. Did the butler remember Joseph? no
+Int. What is Joseph in our lives? desire to be good
+Sr. How do we sometimes "put him in prison in Egypt"?
 
 interpreted dreams
 
@@ -17192,13 +17150,13 @@ try to forget him
 
 when we have selfish desires
 
-S. What is meant by his being able to interpret dreams?
+Sr. What is meant by his being able to interpret dreams?
 
 to understand our
 
 experiences
 
-I. Why could the Lord always take care of Joseph? wanted to do right#JOSEPH RULER OF EGYPT
+Int. Why could the Lord always take care of Joseph? wanted to do right#JOSEPH RULER OF EGYPT
 
 Genesis 41
 
@@ -17744,15 +17702,15 @@ world, do nothing from themselves; they merely agree that the spiritual should
 act in the natural, and by means of it, thus naturally."
 
 Suggested Questions on the Lesson
-J. How did Joseph get into prison in Egypt? Potiphar's wife'-s lies
-P. What did he do there for the king's butler and baker?
-P. Why did Pharaoh send for him? butler remembered him when Pharaoh
+Jr. How did Joseph get into prison in Egypt? Potiphar's wife'-s lies
+Pri. What did he do there for the king's butler and baker?
+Pri. Why did Pharaoh send for him? butler remembered him when Pharaoh
 
 interpreted dreams
 
 dreamed
 
-J. What were Pharaoh's two dreams?
+Jr. What were Pharaoh's two dreams?
 
 seven fat/thin cattle, seven fat/thin
 
@@ -17760,20 +17718,20 @@ ears ofgrain
 
 seven years plenty/famine
 
-J. What did Joseph tell him they meant?
-J. What did he advise Pharaoh to do? appoint wise leader, store food
-P. Whom did Pharaoh choose to carry out this advice? Joseph
-J. What powers did he give Joseph? control of whole country
-J. Whom did he give him for his wife? Asenath
-J. Who were Joseph's two sons? Manasseh and Ephraim
-J. How did Joseph prepare for the years of famine?
+Jr. What did Joseph tell him they meant?
+Jr. What did he advise Pharaoh to do? appoint wise leader, store food
+Pri. Whom did Pharaoh choose to carry out this advice? Joseph
+Jr. What powers did he give Joseph? control of whole country
+Jr. Whom did he give him for his wife? Asenath
+Jr. Who were Joseph's two sons? Manasseh and Ephraim
+Jr. How did Joseph prepare for the years of famine?
 
 stored grain all through land
 
-S. What does Joseph represent? our religious sensitivity
-I. What does Egypt represent?
-I. What is meant by the famine?
-S. What is pictured by Joseph's being made ruler of Egypt?
+Sr. What does Joseph represent? our religious sensitivity
+Int. What does Egypt represent?
+Int. What is meant by the famine?
+Sr. What is pictured by Joseph's being made ruler of Egypt?
 
 "too busy" to learn new truth
 
@@ -18323,26 +18281,26 @@ Suggested QuestIons on the Lesson
 
 P Why dId Joseph's brothers go to Egypt? famtne
 P What dId Joseph do for hIs family? fed, housed
-P. What two sons were born to Joseph In Egypt? Manasseh, Ephratm
+Pri. What two sons were born to Joseph In Egypt? Manasseh, Ephratm
 P WhIch was the older? Manasseh
-P. When Jacob was about to dIe, why dId Joseph bnng hIS sons to hIm?
+Pri. When Jacob was about to dIe, why dId Joseph bnng hIS sons to hIm?
 
 blessmg
 
-P. whIch son dId Joseph expect to receIve the better blessIng? Manasseh
-P. To whIch one dtd]acob gIve It? EphraIm
-J. What speCIal honor dId Jacob gIve to Joseph's sons?
+Pri. whIch son dId Joseph expect to receIve the better blessIng? Manasseh
+Pri. To whIch one dtd]acob gIve It? EphraIm
+Jr. What speCIal honor dId Jacob gIve to Joseph's sons?
 J Where was Jacob burled? cave ofMachpelah
-J. who else had been buned there? Abraham, Sarah, Isaac, Rebekah, Leah
+Jr. who else had been buned there? Abraham, Sarah, Isaac, Rebekah, Leah
 take bones to
-J. When Joseph dted, what dId he make lus family promIse?
+Jr. When Joseph dted, what dId he make lus family promIse?
 
 "adopted" them
 
 Canaan
 
-J. How dId they preserve hIs body? embalmmg
-I. What do Manasseh and Ephraim represent?
+Jr. How dId they preserve hIs body? embalmmg
+Int. What do Manasseh and Ephraim represent?
 
 EphraIm-knowledge of church
 Manasseh-deszre to lwe accordzng to It
