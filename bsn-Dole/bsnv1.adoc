@@ -1,15 +1,19 @@
 = Bible Study Notes - Volume One - GENESIS
 by Anita S. Dole; Edited by William Ross Woofenden
-Swedenborg Foundation Press; West Chester, Pennsylvania
-@2001 by the Swedenborg Foundation
 :toc: preamble
+:toclevels: 1
 
 // preamble follows
+Swedenborg Foundation Press; West Chester, Pennsylvania
+
+@2001 by the Swedenborg Foundation
+
 First printed in 1977 - 1979 by the American New Church Sunday School Association.
 
 Published with editing by William Ross Woofenden, 2001; reprinted in 2011. All rights reserved. No part of this publication may be reproduced or transmitted in any form or by any means, electronic or mechanical, including photocopying, recording, or any information storage or retrieval system, without prior permission from the publisher.
 
-Scanned by Bayside Church. 
+Scanned by Bayside Church.
+
 Used on www.newchurchvineyard.org by permission.
 
 ISBN for the six-volume set: 978-0-87785-357-2
@@ -22,14 +26,20 @@ ISBN for the six-volume set: 978-0-87785-357-2
 * Volume 6  (John, Revelation): 978-0-87785-363-3
 
 Cover image: “The Sabbath” by Julius Schnorr von Carolsfeld from Treasury of Bible 
+
 Illustrations (Mineola, N.Y.: Dover Publications, Inc., 1999)
+
 Printed in the United States of America.
 
 For information on the Swedenborg Foundation, contact:
+[source,language,attributes]
+----
 Swedenborg Foundation
 320 North Church Street
 West Chester, PA 19380
 www.swedenborg.com
+----
+
 
 //ends preamble
 
@@ -52,10 +62,10 @@ heaven when we die. So we call it the Word of God. It is made up
 of many books written through many men. The first book is called
 Genesis, which means "the beginning."
 
-Doctrinal Points
+=== Doctrinal Points
 [Summary doctrinal points will be found at the beginning of each lesson.
 They are especially recommended for the use of teachers of Intermediate and
-Senior classes. Their listing in this way merely brings them together for the
+=== Senior classes. Their listing in this way merely brings them together for the
 teacher's convenience; they are not meant to be taken up as the main feature
 of the lesson, but to be brought in by the way. Each point will be identifiable
 as related to one of the four principal doctrines of the Church: the doctrines
@@ -77,7 +87,7 @@ We cannot do any real good of ourselves. All good is in and from
 
 the Lord.
 
-Notes for Parents
+=== Notes for Parents
 
 We send our children to school to learn the things they need to
 know to find and fill their places in this world. We bring them to
@@ -174,7 +184,7 @@ about
 the Lord, and try to make everyone about me happy."
 Blessed means made happy, and sanctified means made holy.
 
-Junior
+=== Junior
 
 These children should be able to find the lesson in the Bible and to remember
 most of it. It is at this age that children especially like to learn facts, and it
@@ -269,7 +279,7 @@ On the fifth day God created the fish and the birds.
 On the sixth day God created the animals, and man.
 What did God do on the seventh day? He rested.
 
-Intermediate
+=== Intermediate
 
 There should be persistent effort to make clear to the pupils that the Bible
 has an intimate personal application and that it describes their own spiritual
@@ -404,7 +414,7 @@ animals = affections for useful thought
 
 and action
 
-Senior
+=== Senior
 
 Follow the same general lines as for the Intermediates but with proportion 
 ately more stress upon doctrine and upon the attitude of the world toward
@@ -483,7 +493,7 @@ edges, each one a subject for study and development. It is this
 inner world which the Lord has opened to men in His Second
 Coming.
 
-Adult
+=== Adult
 
 The teacher should cover the whole lesson briefly and then invite discussion
 and develop further the points in which the class is most interested.
@@ -766,7 +776,7 @@ can worry or tire us. For this reason the seventh day was blessed
 and sanctified, and the number seven throughout the Word rep 
 resents what is holy.
 
-From the Writings of Swedenborg
+=== From the Writings of Swedenborg
 
 Arcana Coelestia, nn. 16,20: "The most ancient time is called 'the beginning.'
 By the prophets it is in various places called the 'days of old [antiquitatis] '
@@ -788,7 +798,7 @@ anew, he then begins for the first time to know that his goods are not goods,
 and also, as he comes more into the light, that the Lord is, and that He is
 good and truth itself."
 
-Suggested Questions on the Lesson
+=== Suggested Questions on the Lesson
 
 Pri. What book do we study in Sunday School?
 Pri. Who is the Author of the Bible? God
@@ -1460,7 +1470,7 @@ points should be tested first. Then give a very brief account of the
 seven days and what happened on each before developing the work
 of the fifth and sixth days.
 
-Doctrinal Points
+=== Doctrinal Points
 
 The Lord as the Creator of all things, the Source and beginning.
 The distinction between the natural and the spiritual planes of the
@@ -1473,7 +1483,7 @@ in the image and likeness of God.
 
 The necessity of controlling our natural faculties and desires.
 
-Notes for Parents
+=== Notes for Parents
 
 A very little thought will show us that the Bible is different from
 every other book in the world. It was written by the hands of
@@ -1565,7 +1575,7 @@ He wants us to do with what we have so that we and everyone else
 may be happy. So we need to study the Bible. That is why we go
 to Sunday School.
 
-Junior
+=== Junior
 This is the age group with which we need to begin to speak of the letter of
 the Word as parable, while still teaching the details of the letter. In your intro 
 duction point out that the teaching the Lord gives us in His Word is necessarily
@@ -1677,7 +1687,7 @@ letting that particular food rule us instead of keeping it under our
 control. Whenever you are tempted in this way, it will help if you
 remember that we are told to "subdue" the earth.
 
-Intermediate
+=== Intermediate
 This. age group should. be given in outline the correspondence of the Creation
 story with particular emphasis on the fifth and sixth d.ays. The fact that each
 of us has a higher and a lower nature should be stressed, and that it is the
@@ -1800,7 +1810,7 @@ Basic Correspondences
 day = any period of activity
 fish = affections for memory knowledges
 
-Senior
+=== Senior
 The nature of the Word and the nature of man are the essential lessons for the
 young people. If you can lead them to see that a person who lives for worh;ily
 satisfactions is cheating himself out of his birthright, you will have given them
@@ -1902,7 +1912,7 @@ Moses in Deuteronomy 6: 10-12. We never reach the state in which
 we do not need to be on our guard against letting worldly and
 selfish thoughts and desires control us.
 
-Adult
+=== Adult
 
 Cover the lesson briefly, pointing out the various levels of meaning in the
 story. Then discuss the nature of a true man as an image of God, the differ 
@@ -2038,7 +2048,7 @@ and replenish the earth, and subdue it." We never in this world
 reach a state in which acquiring new knowledge from the Lord
 and overcoming our evils become unnecessary.
 
-From the Writings of Swedenborg
+=== From the Writings of Swedenborg
 Arcana Coelestia, nn.44-45: "Man, like the earth, can produce nothing of
 good unless the knowledges of faith are flrst sown in him, whereby he may
 know what is to be believed and done. It is the office of the understanding
@@ -2056,7 +2066,7 @@ but those which are of the will are signified here by the 'living soul which the
 earth produces,' and by the 'beast' and 'creeping thing,' and also -by the 'wild
 animal of that earth.'
 
-Suggested Questions on the Lesson
+=== Suggested Questions on the Lesson
 Pri. What book do we study in Sunday School? Bible
 Jr. Why is it called the Word of God? God's Word to US
 Int. How do the flrst eleven chapters of Genesis differ from the rest?
@@ -2471,7 +2481,7 @@ a use of our Sundays may not seem easy or happy to us at first,
 but practice in this, more pe·rhaps than in any other good habit,
 will bring great reward.
 
-Adult
+=== Adult
 After the introductory statement concerning the Bible, and the brief review
 of chapter 1, the teacher should touch on the meaning of the seventh day in
 the internal historical sense and in the spiritual sense, and then go on to a dis 
@@ -2604,7 +2614,7 @@ a one. When they do this, love, and not faith, or in other words the celestial
 principle, and not the spiritual, begins to be the principal, and this is to be
 a celestial man."
 
-Suggested Questions on the Lesson
+=== Suggested Questions on the Lesson
 
 the beginning
 
@@ -2664,7 +2674,7 @@ simple, beautiful pictures they present and retain them deep in
 their memories. They should be taught with a feeling of wonder
 and reverence.
 
-Doctrinal Points
+=== Doctrinal Points
 In the Word truth from the Lord is adapted to all the different
 
 planes of the soul.
@@ -2672,7 +2682,7 @@ planes of the soul.
 We are given freedom to choose good or evil, but we must always
 look to the Lord and not to selffor both knowledge and power.
 
-Notes for Parents
+=== Notes for Parents
 
 The beautiful parable of the Garden of Eden shows us the happy,
 innocent state of the first people on earth after they had devel 
@@ -2749,7 +2759,7 @@ and pretty soon it begins to seem just the one thing you most want
 to do. That is what is called temptation. If we are wise, we do not
 disobey, but all of us sometimes are foolish instead of wise.
 
-Junior
+=== Junior
 The details of the story should be impressed on the children with the under 
 standing that this is a wonderful parable which they will understand bcttcr
 and better as they grow older. The correspondence of the Garden of Edcll,
@@ -2829,7 +2839,7 @@ to help each other. Marriage is a holy state ordained by the Lord
 from the beginning. You will learn much more about this p'rt of
 the story and its meaning when you are older.
 
-Intermediate
+=== Intermediate
 Begin by reminding the young people of the correspondence of the vegetable
 kingdom, and take up the correspondence of the river and the tree of life
 to account for the beauty and fruitfulness of the life of the people of the
@@ -2939,7 +2949,7 @@ Lord's truth
 the mineral kingdom = the basic things of life
 gold = love
 
-Senior
+=== Senior
 
 Give attention to the suggestions in the Intermediate section, but use more of
 the class time for the discussion of the creation of woman. This lesson is our
@@ -3159,7 +3169,7 @@ the Lord it looks like flesh" (AC 149). Only the Lord's Own was
 living; so He said: "A spirit hath not flesh and bones as ye see me
 have" (Luke 24:39).
 
-From the Writings of Swedenborg
+=== From the Writings of Swedenborg
 Arcana Coelestia, n. 129: "Everyone may know that man is governed by the
 principles he assumes, be they ever so false, and that all his knowledge and
 reasoning favor his principles; for innumerable considerations tending to sup 
@@ -3178,7 +3188,7 @@ iliar to the learned world. Thus his starting point must be the Lord, and not
 himself; for the former is life, but the latter is death."
 In whose image and likeness was man created? God's
 
-Suggested Questions on the Lesson
+=== Suggested Questions on the Lesson
 Pri. Whose Book is the Bible? God's Word
 Pri. What is the name of the first book in the Bible? Genesis
 Jr. What does Genesis mean?
@@ -3241,7 +3251,7 @@ state, but it can be attained only whe1l both husbLllld Lllld l{Jifl'
 are trying to serve the Lord together, each desiring the otl/£'r'-"
 happiness more than his own.
 
-Notes for Parents
+=== Notes for Parents
 
 The story of the creation of Eve from the rib of Adam, which
 has puzzled many lovers of the Bible and has been pointed to by
@@ -3438,7 +3448,7 @@ What did the Lord do with the rib?
 What did Adam say of the woman?
 What does this story teach us?
 
-Intermediate
+=== Intermediate
 
 The Intermediates, as usual, should be given at least the outline of the spiri 
 tual sense, and there are a number of correspondences, suggested in these
@@ -3691,7 +3701,7 @@ or spoil it, even if he never in this world finds his true mate. This
 world is only the beginning of life, and it is the character formed
 here which counts to eternity.
 
-Adult
+=== Adult
 There is so much in this lesson that the teacher has a wide range of possible
 emphases. He should perhaps read to the class first the summary of the spiri 
 tual meaning of this lesson found in AC 131-136, and then let the class decide
@@ -3840,7 +3850,7 @@ serious consideration from the common ground of their spiritual
 beliefs. And the children should be educated from the start in
 these spiritual beliefs.
 
-From the Writings of Swedenborg
+=== From the Writings of Swedenborg
 Arcana Coelestia, n. 154: "Nothing evil and false is ever possible which is not
 man's Own, and from man's Own, for the Own of man is evil itself, and con 
 sequently man is nothing but evil and falsity. This has been evident to me
@@ -3858,7 +3868,7 @@ flowers encircling their bosoms, and diadems upon their heads, living and
 sporting in a diamond-like aura, and having a perception of happiness from
 the very inmost."
 
-Suggested Questions on the Lesson
+=== Suggested Questions on the Lesson
 Pri. What book are we studying? Bible
 Pri. Who wrote it? God
 ]. What is the first chapter of the Bible about?
@@ -3897,7 +3907,7 @@ had not begun to trust in self instead of in the Lord. Speak of the
 two trees and of the Lord's command with regard to the tree of
 knowledge of good and evil.
 
-Doctrinal Points
+=== Doctrinal Points
 The two opposing central principles: trust in the Lprd and trust in
 
 self
@@ -3906,7 +3916,7 @@ The doctrine of "appearances"-in connection with the statement
 
 that the Lord "cursed" Adam and Eve and the serpent.
 
-Notes for Parents
+=== Notes for Parents
 
 The story of the Garden of Eden is familiar to everyone. Before
 the development of natural science men accepted it as literally
@@ -4003,7 +4013,7 @@ When we insist on having our own way, we lose many good things we might
 have had.
 How did the Lord guard the way to the garden afterward?
 
-Junior
+=== Junior
 children of this age need to be told that these early chapters of Genesis are
 
 – Anita Dole Bible Study Notes Volume 1 –© 2001 by The Swedenborg Foundation. Scanned by Bayside Church. Used on www.newchurchvineyard.org by permission.
@@ -4249,7 +4259,7 @@ cherubim = the Lord's providence protecting
 
 true goodness
 
-Senior
+=== Senior
 The problem of the origin of evil in the race and in the individual is the center
 of this lesson. The Seniors need to be shown clearly the nature of trust in self
 and the mistakes and suffering to which it leads. They are about to pass from
@@ -4356,7 +4366,7 @@ temptations. Then the Lord Himself had to come into the world
 to bruise the serpent's head and turn the tide for us. Verse 15 of
 our chapter is the first prophecy of the Advent.
 
-Adult
+=== Adult
 
 The question of the origin of evil and the decline of the human race will fur 
 nish ample discussion material. The temptation of the serpent in our modern
@@ -4505,7 +4515,7 @@ into a state of willful disobedience.
 
 THE SERPENT
 
-From the Writings of Swedenborg
+=== From the Writings of Swedenborg
 
 Arcana Coelestia, nn. 194-195: "By the 'serpene is here meant the sensuous
 part of man in which he trusts; by the 'wild animal of the field,' here, as
@@ -4580,7 +4590,7 @@ All true love comes from the Lord as we learn of Him and obey
 
 Him.
 
-Notes for Parents
+=== Notes for Parents
 
 When the first people created upon the earth had reached the
 stage of development pictured by the seventh day, they became
@@ -4686,7 +4696,7 @@ he had in his heart were the kind which led him to kill his brother.
 If there is love in our hearts, we will show it by trying never to
 hurt other people but instead always to help them and make them
 happy.
-Junior
+=== Junior
 
 This class should have a thorough review of the story of the Garden of Eden.
 They should have the details of the story fixed in their minds, but should also
@@ -4785,7 +4795,7 @@ and faith is necessary. For as long as we even profess to believe in
 the Lord, there is always a chance that we may see our selfishness
 and turn from it and begin to do better. Read Ezekiel 18: 23.
 
-Intermediate
+=== Intermediate
 
 The emphasis should be on the use the people of the Most Ancient Church
 made of their freedom of choice, and on its direct result in the separation of
@@ -4891,7 +4901,7 @@ sheep ::::
 
 innocent affections
 
-Senior
+=== Senior
 
 The young people should be led to think seriously of the practical effects of
 the separation of faith and charity in the individual and in the history of the
@@ -4959,7 +4969,7 @@ table result of the choice of self as a guide in place of the Lord.
 The quotations at the end of this lesson show how this separation
 affected all later history.
 
-Adult
+=== Adult
 Since this lesson on the Ancient Church will be centered on the end rather
 than on the beginning of that church, it will be better to point out the differ 
 ence between the two "churches" in this lesson. Discussion should also bring
@@ -5090,7 +5100,7 @@ and will say unto him, Father, I have sinned against heaven, and
 before thee, And am no more worthy to be called thy son: make
 me as one of thy hired servants."
 
-From the Writings of Swedenborg
+=== From the Writings of Swedenborg
 Arcana Coelestia, n. 340: "With such as are called 'Cain' faith i~ recognized
 and acknowledged as a thing by itself ... Previously, they had been as it were
 ignorant of what faith is, because they had a perception of all the things of
@@ -5113,7 +5123,7 @@ those called 'Cain' made faith more essential than love, and as they conse
 quently lived without love, both the love of self and the phantasy thence
 derived conspired to confrrm them in it."
 
-Suggested Questions on the Lesson
+=== Suggested Questions on the Lesson
 Pri. Who created the earth and everything on it? God
 Pri. In how many days or stages was it created? six
 Jr. What was the final creation? man
@@ -5173,7 +5183,7 @@ we all have to learn what is true and obey it until we come to
 love it. We cannot trust our natural affections to tell us what is
 right.
 
-Notes for Parents
+=== Notes for Parents
 
 Today we have another of the wonderful symbol stories from
 the Ancient Word. If we realize its nature and meaning, we do not
@@ -5260,7 +5270,7 @@ What else was Noah told to take into the ark?
 When the flood came, the ark floated on top of the water,
 and so they were saved.
 
-Junior
+=== Junior
 The Juniors can easily understand the general meaning of this story, the grad 
 ual decline once selfishness creeps in, until the whole life is flooded with
 wrong thoughts. The lesson offers a good chance to point out that everything
@@ -5367,7 +5377,7 @@ which the Lord is trying to teach us.
 
 Do you know how many days it rained after Noah entered the ark?
 
-Intermediate
+=== Intermediate
 The most important thing to impress on the young people is that while the
 story of Noah and the flood is not historical fact, it is nevertheless a true
 story, a far more important story than if it had been mere historical fact.
@@ -5470,7 +5480,7 @@ of will, thought, and act
 
 forty = a state of temptation
 
-Senior
+=== Senior
 The Seniors will be interested in the fact
 that the tradition of the Most
 Ancient Church and the Ancient Church has come down in mythology in the
@@ -5566,7 +5576,7 @@ intellectual or "spiritual," because in it men were led by
 type:
 their thoughts. It was the Ancient Church, or the Silver Age.
 
-Adult
+=== Adult
 The nature of the Ancient Church with the reason for the separation of the
 will and the understanding in man is very important. Let it lead into a dis 
 cussion of the nature of conscience and the fact that it must be developed
@@ -5712,7 +5722,7 @@ which he is no longer tempted to break; his mind will have come
 to rest in the Lord's will and he will be ready to go forth to his
 work in the world in freedom - "freedom is to be led by the Lord."
 
-From the Writings of Swedenborg
+=== From the Writings of Swedenborg
 Arcana Coelestia, nne 607, 608: "But what is yet unknown in the world, and
 is perhaps difficult to believe, is that the men of the Most Ancient Church
 had internal respiration, and only tacit external respiration. Thus they spoke
@@ -5758,7 +5768,7 @@ cause the Word of the Lord everywhere in its bosom or interiors involves and
 contains spiritual and celestial things, it is very evident that by the ark and
 all the things said about the ark, are signified hidden things not yet revealed."
 
-Suggested Questions on the Lesson
+=== Suggested Questions on the Lesson
 Pri. Where did the Lord place the HI'st people? Garden ofEden
 Pri. What were they to do there? dress it and keep it
 Pri. How was the Garden of Eden watered? river
@@ -5805,7 +5815,7 @@ dren should become familiar with them. The simplest illustrations
 come from their knowledge of the difference between a baby and
 an older child.
 
-Doctrinal Points
+=== Doctrinal Points
 When a church perverts the truth given it, the Lord always prepares
 
 the way for the reception of truth in a new form.
@@ -5821,7 +5831,7 @@ We must form the habit of doing right before the Lord can give us
 
 a love for doing it.
 
-Notes for Parents
+=== Notes for Parents
 
 Have your children ever asked you, or have you ever wondered
 yourself, how so many human beings and animals and food enough
@@ -5938,7 +5948,7 @@ And do you know what we in the New Church always have on
 the altar? It ~s a copy of the Bible, the Word of God, from which
 we learn all we know about the Lord and what He wants us to do.
 
-Junior
+=== Junior
 The general signillcance of the flood can be taught to children at this age, and
 the knowledge will save them from being affected by the many light remarks
 they are likely to hear about Noah and the flood. The lesson suggested in the
@@ -6058,7 +6068,7 @@ What did the dove bring back in her mouth the second time?
 What was the first thing Noah did when he came out of the ark?
 What promise did the Lord make after this?
 
-Intermediate
+=== Intermediate
 
 This group should have a running account of the spiritual meaning of the
 story of the fall and of Noah and the flood, particularly as it relates to the
@@ -6194,7 +6204,7 @@ the dove = a true idea concerning God
 the olive = the good of charity
 the olive leaf = the truth of charity
 
-Senior
+=== Senior
 The separation of the will and the understanding and its effect on the race
 and on the individual are important for this age group. It is not true that we
 "can't help" yielding to temptation. The Lord will give us strength if we obey
@@ -6307,7 +6317,7 @@ ation and declines, He prepares the good remnant of its people
 to form a new church: "seedtime and harvest" never fail. We shall
 have more to say about this in a future lesson.
 
-Adult
+=== Adult
 In regard to the individual experience, note that our chapter covers all three
 stages of the man who regenerates: his preparation for regeneration, his state
 during the process of regeneration, and his regenerate state. The difference
@@ -6478,7 +6488,7 @@ which there might be implanted a new will which is conscience, and through
 which the Lord might work the good of love (that is, of charity), and the
 truth of faith. Thus of the Lord's Divine mercy has man been restored."
 
-Suggested Questions on the Lesson
+=== Suggested Questions on the Lesson
 
 Pri. After men were created, where were they placed? Eden
 Int. Why were they not satisfied? wanted independence
@@ -6535,13 +6545,13 @@ people from destruction. The story of the ark and the flood can
 be told briefly with the emphasis this time on the Lord's new
 promise and on the rainbow as the token of it.
 
-Doctrinal Points
+=== Doctrinal Points
 The will and the understanding in man.
 The doctrine of reformation and regeneration.
 The idea of successive dispensations as the basis of history.
 The Ancient Word.
 
-Notes for Parents
+=== Notes for Parents
 
 Often when we are driving through new country, we come to
 a fork in the road. A sign-post tells us plainly which way we ought
@@ -6630,7 +6640,7 @@ that no matter how dark things look,
 ready to shine again, and the Lord is taking care of you. If you are
 good, no trouble will last very long.
 
-Junior
+=== Junior
 
 See how much the children already know of the story of Noah and the flood
 and fill in any gaps. The Juniors are old enough to be interested in the history
@@ -6709,7 +6719,7 @@ of wickedness that it would be destroyed. I t almost reached this
 state once in the course of history and then the Lord Himself came
 into the world and showed men the way back to safety.
 
-Intermediate
+=== Intermediate
 
 The doctrine of the different churches which have been on the earth should
 be introduced at this age, and this lesson of the flood and the sign of the
@@ -6836,7 +6846,7 @@ the flood = falsities destroying the life
 the rainbow = truths from the Word in our mind
 used by the Lord to enlighten us
 
-Senior
+=== Senior
 The important lesson for the Seniors is the way in which the Lord leads us to
 goodness by making use of our own states, and the fact that we never know
 truth instinctively but have to learn it from the Word.
@@ -6916,7 +6926,7 @@ of historic times to account for their origins, but old traditions
 handed down from the early people who talked in the language of
 correspondence.
 
-Adult
+=== Adult
 
 Two main lines of discussion may be pursued: the significance of the philos 
 ophy of history found in the A rcana, and the difference between the people
@@ -7053,7 +7063,7 @@ remember that there can be no rainbow whatever if charity is not
 found in us. We must wish to serve the Lord and the neighbor
 instead of oursel~es or we can have no enlightenment.
 
-From the Writings of Swedenborg
+=== From the Writings of Swedenborg
 
 Arcana Coelestia, n. 1042: "I have set my bow in the cloud. This signifies the
 state of the regenerated spiritual man, which is like a rainbow. Anyone may
@@ -7073,7 +7083,7 @@ ance. It is a modification of spiritual light from the Lord in their natural
 things. These angels are those who are said to be regenerated 'of water and
 the spirit,' but the celestial angels are said to be regenerated 'with fire.'''
 
-Suggested Questions on the Lesson
+=== Suggested Questions on the Lesson
 
 Int. What story teaches us about the people of the first church on earth? Eden
 Int. What was that church called? Most Ancient
@@ -7116,7 +7126,7 @@ The teacher should have in mind an exam pIe of a modern building
 of a Tower of Babel which will come close to the experience of
 his particular class.
 
-Doctrinal Points
+=== Doctrinal Points
 In the Bible the East is a symbol of nearness to the Lord.
 The first seven chapters of the Bible were taken from the Ancient
 
@@ -7128,7 +7138,7 @@ we are always in a state of confusion.
 
 The desire to set ourselves above others is destructive.
 
-Notes for Parents
+=== Notes for Parents
 
 The story of the flood is the symbolic description of the end of
 the first great "church" on the earth. Most of its people were
@@ -7229,7 +7239,7 @@ with him. You fall to quarreling and go off home. The pleasure
 you might have had together is spoiled. This is what always comes
 of thinking we are wiser than everyone else.
 
-Junior
+=== Junior
 Something can be done in this class with the real meaning of the successive
 churches, the reason for their decline, and the general correspondence of the
 Tower of Babel story. The last statement in the Junior notes should interest
@@ -7317,7 +7327,7 @@ and all
 Christian, and the Mohammedan are based on traditions handed
 down from this Ancient Church.
 
-Intermediate
+=== Intermediate
 In its application to our own lives the lesson is very easy to illustrate for this
 age group. Its correspondences are simple and clear. Because of its brevity the
 lesson lends itself to verse by verse interpretation, and it may be a good thing
@@ -7423,7 +7433,7 @@ stone = truth
 brick = man-made ideas
 slime = selfishness
 
-Senior
+=== Senior
 
 In addition to the general lesson on the folly of setting up human intelligence
 
@@ -7528,7 +7538,7 @@ genuine truth to form the basis of a good life, so that those who
 choose to believe in God and to live in love to the neighbor may
 reach heaven.
 
-Adult
+=== Adult
 The reasons for the decline of the Ancient church and the picture given of it
 in the series Noah, Ham, Cush, Nimrod, Babel are important for the Adults,
 especially in connection with the modern approach to Bible study. We might
@@ -7675,7 +7685,7 @@ It makes a vital difference whether we approach the Bible as God's
 Word to men or as man's "ascending search for God." The latter
 study builds a Tower of Babel. The former builds a church.
 
-From the Writings of Swedenborg
+=== From the Writings of Swedenborg
 
 Arcana Coelestia, n. 1304: "The church is of such a nature thit when charity
 toward the neighbor departs, and the love of self succeeds in its place, the
@@ -7696,7 +7706,7 @@ of that worship must be which contains within it an infernalism sO absolute."
 
 /
 
-Suggested Questions on the Lesson
+=== Suggested Questions on the Lesson
 Jr. Who were Cain and Abel? sons ofAdam and Eve
 Jr. What were their occupations? farmer, shepherd
 Jr. What offerings did they bring to the Lord? grain, lamb
@@ -7738,12 +7748,12 @@ that when even one child in a group is selfish,
 there is always
 quarreling and trouble.
 
-Doctrinal Points
+=== Doctrinal Points
 /11 the Bible the first eleven chapters were taken from the Ancient
 H'ord and are not literal history. Literal history begins with
 chapter 12.
 
-Notes for Parents
+=== Notes for Parents
 
 With the story of Abram we enter historic times. Abram and his
 family were real people who actually did the things recorded in
@@ -7863,10 +7873,10 @@ What was their second stop?
 What did Abram build in each place?
 Why did they go down into Egypt?
 
-Junior
+=== Junior
 
 The details of the story, with names and places, should be mastered. The
-Juniors will be interested in knowing that an h, one of the letters from the
+=== Juniors will be interested in knowing that an h, one of the letters from the
 name Jehovah, was later put into Abram's name to indicate his closer relation
 to the Lord after he settled in the Holy Land. On account of later lessons
 special emphasis should be put on the settling of Nahor and his family in
@@ -7965,7 +7975,7 @@ permanent home in the Holy Land,
 they came into a closer re 
 lation with the Lord than they had had before.
 
-Intermediate
+=== Intermediate
 
 Set the young people's minds working on the correspondence of a journey
 to life. After you have pointed it out and illustrated it a little, they will be
@@ -8061,7 +8071,7 @@ Egypt
 
 ::: a state of acquiring knowledge
 
-Senior
+=== Senior
 
 The two points to be most carefully developed for the Seniors are the call to
 turn our backs on our natural selfish desires and thoughts, and our recurring
@@ -8172,7 +8182,7 @@ is to do the Lord's will and not our own, we are hearing the Lord's
 call, and our obedience to this call is the beginning of our heaven 
 ward journey.
 
-Adult
+=== Adult
 
 The change to the period of actual history should be pointed out and ex 
 plained. Cover the general points of the lesson briefly and then ask for ques 
@@ -8332,7 +8342,7 @@ THE CALL OF ABRAM
 Land as Abram did and use them in the Lord's service in our daily
 life.
 
-From the Writings of Swedenborg
+=== From the Writings of Swedenborg
 Arcana Coelestia, n. 1461: "And Abram went down into Egypt to sojourn.
 That this signifies instruction in knowledges from the Word, is evident from
 the signification of 'Egypt,' and from the signification of 'sojourning.' That
@@ -8346,7 +8356,7 @@ self; for the Word itself is from the Lord through heaven, and the Lord's life
 is in all things of the Word, both in general and in particular, although it does
 not so appear in the external form."
 
-Suggested Questions on the Lesson
+=== Suggested Questions on the Lesson
 Int. Are the first eleven chapters of the Bible historical fact? no
 Jr. Who was the first real person mentioned in the Bible? Eber
 Int. Who was chosen by the Lord to begin the establishment of a new church
@@ -8414,9 +8424,6 @@ stroyed like those of the earlier church, but they became hostile to
 each other and were scattered all over the earth. This is described
 in the symbolic story of the Tower of Babel. It was among these
 people that idolatry arose. Recorded history begins in this period
-
-ABRAM AND LOT
-
 and finds men selfish and warlike and worshipers of idols. But even
 among these people there were some individuals who were better
 than others. They, too, were idolaters and had lost all knowledge
@@ -8523,7 +8530,7 @@ the Lord had to send two angels to save Lot when Sodom was
 destroyed because of its wickedness. When we have a choice to
 make, we should be more careful, shouldn't we?
 
-Junior
+=== Junior
 
 Have the class study a map and look up all the Bible references in the notes.
 Emphasize the fact
@@ -8659,7 +8666,7 @@ a warning to us.
 Can you think of a sentence in the Lord's Prayer which we ought to say to
 ourselves when we are inclined to do as Lot did?
 
-Intermediate
+=== Intermediate
 Trace in general outline the correspondence of the story of Abram's journey
 through his return from Egypt. Then take up the correspondence of Abram
 and Lot with reference to our individual lives, and follow through with Lot's
@@ -8807,7 +8814,7 @@ or memory-knowledge
 
 a valley = the plane of natural living
 
-Senior
+=== Senior
 With this class it is well to emphasize the way in which the natural tendency
 to worldliness grows upon us. They will fmd it prevalent in their environment
 and need to recognize its dangers and to be on their guard against it. The New
@@ -8933,7 +8940,7 @@ the thoughts and desires which spring from our worldly choices
 continue to be stumbling-blocks in the path of our spiritual prog 
 ress all our lives.
 
-Adult
+=== Adult
 
 You may be surprised to find that some of the class know nothing of Lot
 except that Lot's wife was turned into a pillar of salt. This incident has proved
@@ -9089,7 +9096,7 @@ learn from past experience not to "look back." The pillar of salt
 into which Lot's wife was turned stands as a perpetual warning.
 The Lord Himself said, "Remember Lot's wife."
 
-From the Writings of Swedenborg
+=== From the Writings of Swedenborg
 Arcana Coelestia, n.1547: "Lot represents sensuous things, by which is meant
 the external man and its pleasures that pertain to sensuous things, thus those
 things which are outermost, and which are wont to captivate man in his
@@ -9103,7 +9110,7 @@ cupidities are to be restrained and wiped out, because they block the way to
 celestial things. It is these pleasures, and not others, that are treated of in this
 chapter-by Lot, in that he separated himself from Abraham."
 
-Suggested Questions on the Lesson
+=== Suggested Questions on the Lesson
 Pri. What two men is our lesson about today? Abram, Lot
 Jr. Where did Abram and Lot come from? Ur, chaldea
 Jr. Why did they leave Dr?
@@ -9255,7 +9262,7 @@ In the story in this chapter the names are Abram and Sarai, but
 later the Lord changed them to Abraham and Sarah, and that is
 the way we should remember them.
 
-Junior
+=== Junior
 
 The reason for the decline of the Ancient Church is important for the Juniors.
 They should also be drilled on the fust part of the Abraham story. The essen 
@@ -9337,7 +9344,7 @@ Did Hagar obey the Lord?
 What was her son's name?
 What did the angel say he would be?
 
-Intermediate
+=== Intermediate
 The reason for the fall of the Ancient Church and the quality in Abraham
 which enabled the Lord to use him to begin a new dispensation should be
 made clear. In the lesson the meaning of producing children and the meaning
@@ -9458,7 +9465,7 @@ memory-knowledges
 
 a wilderness = a confused and unsettled state
 
-Senior
+=== Senior
 
 Try to make clear to the young people that Abram, although he is the third
 in the series of churches, is also the fIrst in a new series of three-Abraham,
@@ -9563,7 +9570,7 @@ for guidance, or we are really lost in a wilderness. And in trouble
 and temptation the Lord is very close to us and ready to show us
 the way home as soon as we really acknowledge our need.
 
-Adult
+=== Adult
 
 The three main lines of thought to be followed are the transition from the
 Ancient to the Jewish Church, the change of application in our interpretation
@@ -9698,7 +9705,7 @@ adequate to lead us in our spiritual progress.
 
 it
 
-From the Writings of Swedenborg
+=== From the Writings of Swedenborg
 
 Arcana Coelestia, n. 1949:
 "He shall be a wild-ass man. That this signifies
@@ -9733,7 +9740,7 @@ afterwards dwelt in the wilderness, and his mother took him a wife out of the
 land of Egypt (Gen. xxi. 9-21); all of which things are representative of one
 who is endowed with such a rational."
 
-Suggested Questions on the Lesson
+=== Suggested Questions on the Lesson
 Pri. Who was the father of the third church? Abraham
 Jr. In what place did he settle in the land of Canaan? South (Negeb)
 Pri. What was his wife's name? Sarai
@@ -9847,7 +9854,7 @@ of the Lord, and Abraham recognized this and welcomed them and
 was happy to entertain them with the best he had. And he believed
 what they told him, even though Sarah doubted.
 
-Junior
+=== Junior
 For this class the story of Abraham is best taught with the help of a map, and
 this story should be treated as an incident in the total story, with the empha 
 sis on the promise of Isaac. Do not, however, neglect the general lesson of
@@ -9911,7 +9918,7 @@ fault if a person does not get to heaven. But the Lord cannot save
 us if we turn from Him altogether and become wholly selfish. And
 of course the more obedient and unselfIsh we are, the more happi 
 ness the Lord can give us.
-Intermediate
+=== Intermediate
 
 The principal lesson for this class is the correspondence of Abraham, the
 meaning of his call, and the importance of the good states of our infancy in
@@ -10025,7 +10032,7 @@ Gomorrah = falsity from the love of self
 futy = what is full (truths full of goods)
 ten = remams
 
-Senior
+=== Senior
 
 More can be done in this class with the conversation concerning Sodom and
 Gomorrah. One of the temptations young people have to meet is the question
@@ -10122,7 +10129,7 @@ in spite of our many mistakes and backslidings. It is only when
 we stop trying to learn of the Lord and to obey Him that we are
 following the road to spiritual destruction.
 
-Adult
+=== Adult
 
 The story of Abraham and its general correspondence should be familiar to
 the Adult class unless- the group contains newcomers to the church. Most of
@@ -10260,7 +10267,7 @@ whom the Lord always stores up remains of good and truth
 and all adults who have not by their own choice destroyed these
 remains in themselves are saved.
 
-From the Writings of Swedenborg
+=== From the Writings of Swedenborg
 Arcana Coelestia, n. 2216: "It is an affection of the rational, and indeed the
 affection of truth or of falsity, in the rational, that is the source of all laugh 
 ter. So long as there is in the rational such an affection as displays itself in
@@ -10281,7 +10288,7 @@ Lord laughed, but that He perceived from the Divine what the rational still
 was, and how much of the human there still was in it, and which was to be
 expelled. In the internal sense this is what is signified by Sarah's 'laughing.' "
 
-Suggested Questions on the Lesson
+=== Suggested Questions on the Lesson
 
 leave, go to Canaan
 
@@ -10329,12 +10336,12 @@ with the second rational-Isaac. The reiterating of the promise of
 an heir in the last lesson will lead naturally into the story of the
 birth of Isaac.
 
-Doctrinal Points
+=== Doctrinal Points
 We need to develop a higher reason than that which judges accord 
 
 ing to worldly values and standards.
 
-Notes for Parents
+=== Notes for Parents
 
 Abraham, Isaac, and Jacob,
 
@@ -10417,7 +10424,7 @@ What did Ishmael do which made Sarah ask Abraham to send him away?
 Where did Hagar and Ishmael go?
 What promise did the Lord make for Ishmael?
 
-Junior
+=== Junior
 
 Have the Juniors find Hebron and Beersheba on a map. Dwell on the story of
 Hagar's first dismissal and then of how Ishmael showed the same spirit as his
@@ -10499,7 +10506,7 @@ What did Ishmael become?
 What country did his wife come from?
 What country had his mother come from?
 
-Intermediate
+=== Intermediate
 
 Young people in their early teens are at the stage when they are beginning to
 exercise the natural rational freely. They are, whether openly or in private,
@@ -10612,7 +10619,7 @@ reasoning faculty
 
 arrows = truths or falsities used in argument
 
-Senior
+=== Senior
 
 It is often helpful to go back to the fIrst verse of the Bible and point out that
 the whole Bible is a study of the development of the heavens and the earth in
@@ -10717,7 +10724,7 @@ a world of dreams. He lives a useful, practical life from love to
 the Lord and the neighbor, thinking always what the Lord would
 have him do rather than what will bring him the praise of men.
 
-Adult
+=== Adult
 
 The lesson should center on the nature of the natural and spiritual rationals
 and the difference between them. Ishmael is the reasoning that is born of the
@@ -10862,7 +10869,7 @@ down into Egypt. The spiritual rational must maintain its integrity
 against all worldly temptations if our spiritual life is to be pre 
 served.
 
-From the Writings of Swedenborg
+=== From the Writings of Swedenborg
 Arcana Coelestia, n. 2654: "The human rational-that namely which has its
 birth from worldly things through impressions of sense, and afterwards from
 analogies of worldly things by means of knowledges-is ready to laugh and
@@ -10885,7 +10892,7 @@ wish to be below all, but hell to wish to be above all; consequently that in
 the glory of heaven there is absolutely nothing the same as in the glory of
 the world."
 
-Suggested Questions on the Lesson
+=== Suggested Questions on the Lesson
 Jr. What story in the Bible tells of the end of the second church on earth?
 
 Tower of Babel
@@ -10938,7 +10945,7 @@ Sarah longed for a son and were given Isaac in their old age. It will
 show how much depended upon Isaac, and how dear he was to
 Abraham.
 
-Doctrinal Points
+=== Doctrinal Points
 The Lord never tempts us. Temptation comes from our selfish
 desires. The Lord merely permits temptation to come when we
 make it necessary.
@@ -10955,7 +10962,7 @@ The Lord will always give us the power to do right if we persist
 in obeying His commands as we are given to see them from the
 Word.
 
-Notes for Parents
+=== Notes for Parents
 
 The Lord performed a miracle for Abraham and Sarah, enabling
 Sarah to bear a son when she was ninety years old and Abraham
@@ -11058,7 +11065,7 @@ THE SACRIFICE OF ISAAC
 trying to learn more and more about what is really right from the
 Word.
 
-Junior
+=== Junior
 Follow the Junior notes, stressing the geography. Have the class locate Bethel,
 Hebron, and Mount Moriah. Stress the true meaning of the word sacrifice,
 and explain how it was that Abraham could think that the Lord wanted him
@@ -11179,7 +11186,7 @@ became the father of the Ishmaelites, about whom we read in the
 Bible and who are probably the ancestors of the Arabs of our time.
 But Isaac inherited the Holy Land.
 
-Intermediate
+=== Intermediate
 
 The meaning of Isaac, and the meaning of Abraham's temptation and the
 reason for it, should be stressed. The outline of the correspondence of his
@@ -11319,7 +11326,7 @@ fire
 
 love
 
-Senior
+=== Senior
 The meaning of Isaac is important for young people as well as the difference
 between Ishmael and Isaac. Point out to them that fundamentalist sects actu 
 ally make the sacrifice of Isaac-they give up rational thinking-in order to
@@ -11416,7 +11423,7 @@ develop and use our "spiritual rational" by studying die Word and
 the teachings of the church, and basing our thoughts and actions
 on a true knowledge of the Lord and of His purposes.
 
-Adult
+=== Adult
 
 There are many good topics for discussion in this lesson: the nature of the
 the false ideas of marriage and of worship which were in
@@ -11589,7 +11596,7 @@ no power of ourselves, and would flee temptation as far as the
 Lord sees it to be possible. AC 2819 is a wonderful summary of
 the whole doctrine concerning temptation.
 
-From the Writings of Swedenborg
+=== From the Writings of Swedenborg
 Arcana Coelestia, n. 2768: "Its being said that 'God did tempt,' is according
 to the sense of the letter, in which temptations and many other things are
 attributed to God; but it is according to the internal sense that God tempts
@@ -11608,7 +11615,7 @@ good and thence of truth, casts himself into the laws that are opposite to
 Divine order, which are those of evil and falsity, and thence of punishments
 and torments."
 
-Suggested Questions on the Lesson
+=== Suggested Questions on the Lesson
 Pri. Who was Abram's wife? Sarai
 Pri. What was the name of their only son? Isaac
 Jr. How old were Abraham and Sarah when Isaac was born? a hundred, ninety
@@ -11649,14 +11656,14 @@ and Isaac as the two sons of Abraham, should know who their
 mothers were, and why Isaac instead of Ishmael was Abraham's
 heir.
 
-Doctrinal Points
+=== Doctrinal Points
 The higher and the lower rational faculties.
 The doctrine of marriage.
 The necessity of the union of goodness and truth to produce any 
 
 thing living.
 
-Notes for Parents
+=== Notes for Parents
 
 For Sarah and Abraham the Lord performed a miracle,
 for
@@ -11791,7 +11798,7 @@ four letters.
 
 What did Isaac and Rebekah take for their home?
 
-Intermediate
+=== Intermediate
 
 This is a difficult lesson for the Intermediates, but it
 is good to introduce
@@ -11920,7 +11927,7 @@ a well
 
 the letter of the Word
 
-Senior
+=== Senior
 Stress the fact that as we grow up our states change and that each new state
 needs new truth from the Lord to direct it. We never become wise in and
 from ourselves. The nature of marriage as a representative of the union of
@@ -11996,7 +12003,7 @@ and for their children, and their home will be founded on unselfish
 love of the Lord and the neighbor, which is the source of all
 happiness in this world as well as in the spiritual world.
 
-Adult
+=== Adult
 Discuss the different types of affection for truth and the need of the proper
 affection if the life is to bear spiritual fruit. The mere "search for truth" is not
 necessarily good. Another fruitful topic for discussion is the duty to bring up
@@ -12152,7 +12159,7 @@ them long for their early states of belief and trust and never feel
 looking for a doctrine which they can accept. The story of the
 marriage of Isaac and Rebekah has a challenge for the New Church.
 
-From the Writings of Swedenborg
+=== From the Writings of Swedenborg
 Arcana Coelestia, n. 3212: "And Isaac was comforted after his mother. That
 this signifies a new state, is evident from the signification of 'receiving com 
 fort,' as being a new state; for a state of consolation is new; and that it suc 
@@ -12169,7 +12176,7 @@ put off, then his spirit appears, and this (provided he has been regenerated)
 in altogether another form, for it then has the form of love and charity in
 beauty inexpressible."
 
-Suggested Questions on the Lesson
+=== Suggested Questions on the Lesson
 Jr. Who was the "father of the Jews"? Abraham
 Jr. Where did he come from? Ur
 Jr. Why did he go to the Holy Land? God called him
@@ -12203,7 +12210,7 @@ riage to Rebekah, and should then tell today's story as an example
 of his dealings with the people of the land. With the older classes,
 also, the life of Isaac should be reviewed briefly as an introduction.
 
-Doctrinal Points
+=== Doctrinal Points
 The Abraham story teaches the way in which the Lord developed
 as a child, and this is continued in the stories of Isaac and Jacob.
 
@@ -12216,7 +12223,7 @@ True rationality is based on the desire to learn and obey the truths
 
 of the Word.
 
-Notes for Parents
+=== Notes for Parents
 
 The son born to Abraham and Sarah was Isaac, and we remem 
 ber that Ishmael, who was fourteen years old when Isaac was born,
@@ -12317,7 +12324,7 @@ it is
 always the one who has the most sense who stops first.
 
 try to remember that
-Junior
+=== Junior
 
 The general story of Isaac up to the beginning of our lesson should be re 
 viewed briefly. If the children ask why Isaac lied about his wife, call their
@@ -12367,7 +12374,7 @@ means the whole length of the land. Isaac's agreement with Abim
 elech at Beersheba established him with the people of the land as
 a great man, just as his father had been.
 
-Intermediate
+=== Intermediate
 
 The teacher should review very briefly the story of Isaac from his birth to
 the time of our lesson. The principal emphasis of this lesson should be placed
@@ -12375,7 +12382,7 @@ on the meaning of Isaac in our lives, on why Isaac prospered in the Philistine
 country more than the Philistines themselves, and on the meaning of the
 wells and what happened to them. The teacher should be familiar with the
 interpretation of the incident concerning Rebekah as found in the Senior and
-Adult notes, and should be prepared to touch upon it if the young people are
+=== Adult notes, and should be prepared to touch upon it if the young people are
 curious to understand more than is given in their own notes.
 
 Abraham represents our spiritual state in infancy and early child 
@@ -12475,7 +12482,7 @@ Basic Correspondences
 Egypt = the plane of memory-knowledge
 the land of the Philistines = the knowledge of doctrinal things
 
-Senior
+=== Senior
 
 The development from Abraham through Ishmael
 to Isaac should be ex 
@@ -12550,7 +12557,7 @@ to them as something they ought to do. This meaning is not so
 hard to understand as you might think. We all enjoy learning new
 things, but do we alway.s welcome good advice?
 
-Adult
+=== Adult
 
 We should be able to take it for granted that the adults know the general
 story of Isaac, and so the teacher may concentrate on the specific lesson,
@@ -12653,7 +12660,7 @@ ment; so it is clear that Isaac's settling in Beersheba, digging a well
 and building an altar there after his covenant with Abimelech,
 gives us the true pattern of spiritual enlightenment which is the
 necessary basis for a good life, both external and internal.
-From the Writings of Swedenborg
+=== From the Writings of Swedenborg
 Arcana Coelestia, n. 3464: "As regards the doctrinal things that are from the
 literal sense of the Word, the case is this: When a man is in them, and at the
 same time in a life according to them, he has a correspondence in himself; for
@@ -12678,7 +12685,7 @@ less whether a thing is true or false provided it captivates the minds of others
 or else they take away all faith, and then the doctrine of his lips is only a
 sound excited and modified by the fire of these loves."
 
-Suggested Questions on the Lesson
+=== Suggested Questions on the Lesson
 Pri. Who was the son of Abraham and Sarah? Isaac
 Pri. Who was Isaac's wife? Rebekah
 Pri. What place did she come from? Haran
@@ -12721,7 +12728,7 @@ had settled, to bring back a wife for Isaac from his own people.
 Sarah had already died, and after Isaac married Rebekah, Abraham
 died also.
 
-Doctrinal Points
+=== Doctrinal Points
 The Lord is merciful to us, and uses even our selfishness to teach
 
 us spiritual lessons.
@@ -12730,7 +12737,7 @@ The people in the Bible are not meant to be examples for us to
 
 imitate. Only the Lord's life is our example.
 
-Notes for Parents
+=== Notes for Parents
 
 Rebekah, Isaac's wife, came from Haran. When Abraham and
 his family took the long journey from their home in Dr of Chaldea
@@ -12839,7 +12846,7 @@ to send Jacob away to Haran, her former home, for a long visit.
 
 JACOB AND ESAU
 
-Junior
+=== Junior
 Have the children trace again on a map the journey of Abram from Ur to
 Canaan, find Haran, and remind them of Nahor's settling there. This will
 introduce Rebekah, as Nahor's granddaughter. There are several lessons sug 
@@ -12936,7 +12943,7 @@ make wise and right decisions.
 Where was Haran?
 Who lived there?
 
-Intermediate
+=== Intermediate
 
 In this lesson the general correspondence of Jacob and Esau is taken up first
 because it completes the Abraham, Isaac, and Jacob series. The young people
@@ -13022,7 +13029,7 @@ Basic Correspondences
 Esau = good on the natural plane of life
 Jacob = truth on the natural plane of life
 
-Senior
+=== Senior
 
 Call the attention of the Seniors to the collateral lines which develop from
 the characters who are dropped by the way: the Moabites and Ammonites
@@ -13104,7 +13111,7 @@ a long period of doing right just because we know we ought to,
 before the Lord can develop in us the real love of truth and good 
 ness which enables us to enter into our true spiritual home.
 
-Adult
+=== Adult
 
 There is plenty of discussion material here, especially in the thought that
 "natural good"-which is Esau-is never pure or trustworthy, and that our
@@ -13242,7 +13249,7 @@ place.
 
 JACOB AND ESAD
 
-From the Writings of Swedenborg
+=== From the Writings of Swedenborg
 Divine Providence, n. 234: "There are no laws of permission by themselves or
 apart from the laws of the Divine providence, but the two are the same; there 
 fore God is said to permit, which does not mean that He wills, but that on
@@ -13258,7 +13265,7 @@ of evil will be seen in what follows. Moreover, nothing can be permitted
 without a reason, and the reason can be found only in some law of the Divine
 providence, which law teaches why it is permitted."
 
-Suggested Questions on the Lesson
+=== Suggested Questions on the Lesson
 Pri. Whom did Isaac marry? Rebekah
 Pri. Where did she come from? Haran
 Pri. What two sons did Isaac and Rebekah have? Esau andJacob
@@ -13293,7 +13300,7 @@ a continued story and not just as a number of separate stories.
 The three points are: first, Jacob's relation to Isaac and to Abra 
 ham; second, the place Haran; and third, the place Bethel.
 
-Doctrinal Points
+=== Doctrinal Points
 The Lord is always present with us and watching over us.
 The Word is the connecting link between man and the Lord.
 We find the basis of our faith in the truths of the letter of the
@@ -13302,7 +13309,7 @@ Word.
 
 Anointing with oil is the symbol of confirming truth by loving it.
 
-Notes for Parents
+=== Notes for Parents
 
 This beautiful story is familiar to us all. We can picture the
 young man Jacob starting out on a long journey all by himself
@@ -13400,7 +13407,7 @@ thoughts come down to us, just like the angels ascending and descending
 on the ladder.
 Do you know that the word angel means "messenger"?
 
-Junior
+=== Junior
 
 The meaning of the "ladder" can easily be taught to children of this age,
 and they will find it a new and striking way of thinking of the Bible. The
@@ -13468,7 +13475,7 @@ What did Jacob promise the Lord?
 
 Both these promises were kept.
 
-Intermediate
+=== Intermediate
 
 The spiritual meaning of Abraham, Isaac, and Jacob should be taught at this
 point, as well as the general meaning of Jacob's journey and the particular
@@ -13552,7 +13559,7 @@ Basic Correspondences
 stone = truth
 oil = love
 
-Senior
+=== Senior
 
 The deeper meaning of Jacob in relation to Abraham and Isaac is especially
 useful for young people of this age, as well as the need of going back to Haran
@@ -13631,7 +13638,7 @@ thoughts to Him, and try to learn what He has to say to us. Jesus,
 as He was about to leave His disciples, said: "Remember! I will be
 with you always, to the end of the age." (Matthew 28: 20)
 
-Adult
+=== Adult
 
 After the general meaning of the story, possible points of special interest may
 be the reason for going to Haran for wives, the reason why Isaac himself was
@@ -13780,7 +13787,7 @@ thing that we have holy, recognizing that it comes from Him, by
 using it as He would have us use it; this is pictured by the giving
 of tithes.
 
-From the Writings of Swedenborg
+=== From the Writings of Swedenborg
 
 Doctrine of the Holy Scripture, n. 78: "It is through the Word that the Lord
 is present with a man and is conjoined with him, for the Lord is the Word,
@@ -13799,7 +13806,7 @@ when the kingdom of God would come: 'The kingdom of God is within you.'
 (Luke 17:21) Here the 'kingdom of God' means the Lord, and from Him,
 the church. I t
 
-Suggested Questions on the Lesson
+=== Suggested Questions on the Lesson
 
 Pri. Who were the twin sons of Isaac and Rebekah? Esau and]acob
 ]. Why was Jacob sent away from home? to find wife, flee brother
@@ -13844,7 +13851,7 @@ at Haran should be reviewed very briefly. Then ask the pupils
 about the story of Jacob's dream, and go on from there to the
 lesson for today.
 
-Doctrinal Points
+=== Doctrinal Points
 The three planes of life: will, thought, and act, with their technical
 
 names: celestial, spiritual, and natural.
@@ -13854,7 +13861,7 @@ No act is genuinely good unless the motive within it is unselfish
 
 love for the Lord and the neighbor.
 
-Notes for Parents
+=== Notes for Parents
 
 Abraham, Isaac, and Jacob are called the "patriarchs." The Jews
 looked to them as the fathers of their race. They were also reg 
@@ -13942,7 +13949,7 @@ know who else was born at Bethlehem a long time afterward?
 It was the Lord, when He came into the world to show us how
 we ought to live.
 
-Junior
+=== Junior
 
 Get as much of the review as possible from the children themselves. Then
 cover rapidly the whole story of Jacob's sojourn in Haran, of his wives and
@@ -14053,7 +14060,7 @@ JACOB'S WIVES AND SONS
 
 when Benjamin was born, and was buried near Bethlehem.
 
-Intermediate
+=== Intermediate
 lessons for this age group are the general meaning of the
 The important
 patriarchs as the three planes of our lives, and that these planes develop in
@@ -14165,7 +14172,7 @@ about Joseph in our next
 lesson. He was the last one born in
 Haran. Benjamin was born after they returned to the Holy Land.
 
-== Basic Correspondences
+=== Basic Correspondences
 
 Abraham = goodness on the celestial
 or will plane
@@ -14353,7 +14360,7 @@ the twelve sons = all things of truth and good which
 
 can be developed in our lives
 
-Senior
+=== Senior
 
 The three planes of life and the order of their development should be stressed
 and then the fact that after these are developed, the natural plane must be
@@ -14482,7 +14489,7 @@ We shall follow this thought further when we study about Joseph.
 Joseph was the last one born in Haran. Benjamin was born near
 Bethlehem after Jacob and his family returned to the Holy Land.
 
-Adult
+=== Adult
 
 Interesting discussion topics are: (1) the change in Jacob's correspondence as
 his story progresses; (2) the necessity of developing an orderly outward life
@@ -14618,7 +14625,7 @@ not Rachel who was buried with Jacob in the cave of Machpelah
 along with Abraham and Sarah, Isaac and Rebekah. Rachel was
 Jacob's inspiring ideal, but Leah was apparently his true mate.
 
-From the Writings of Swedenborg
+=== From the Writings of Swedenborg
 Arcana Coelestia, n. 3819: "Leah is called the 'elder' because external truth
 is Hrst learned, and Rachel is called the 'younger' because internal truth is
 learned afterwards, or what is the same, man is Hrst affected with external
@@ -14628,7 +14635,7 @@ out a general idea of a thing man comprehends nothing that is singular. This
 is the reason why in the literal sense of the Word there are general, but in
 the internal sense singular truths."
 
-Suggested Questions on the Lesson
+=== Suggested Questions on the Lesson
 Jr. How did Jacob take Esau's place? bought birthright, stole blessing
 Jr. Why did Jacob have to leave home? Esau's threat
 Pri. Where did he go? Haran
@@ -14656,7 +14663,7 @@ he can review it rather fully. He should also think out carefully
 the particular points in the lesson for the day which he thinks can
 be presented most interestingly and usefully to his class.
 
-Doctrinal Points
+=== Doctrinal Points
 The Lord uses even our selfishness at first to lead us to good.
 Nothing in the Word is accidental or unimportant.
 Everything comes to us first through our minds.
@@ -14664,7 +14671,7 @@ Nevertheless, our will is the primary cause of our thoughts as well
 
 as of our acts.
 
-Notes for Parents
+=== Notes for Parents
 
 .
 
@@ -14751,7 +14758,7 @@ Try to remember that the Lord gave Jacob a new name-Israel.
 That is how the descendants of Jacob came to be called "the chil 
 dren of Israel."
 
-Junior
+=== Junior
 In this class review by questions and comments the whole factual story of
 Jacob, as this is the age at which children should become thoroughly familiar
 with the whole Bible story. Be sure the children look up the Bible references
@@ -14803,7 +14810,7 @@ bought for a family burying place when Sarah died. After Isaac's
 death Jacob became head of the family. Abraham, Isaac, and Jacob
 are called the three patriarchs.
 
-Intermediate
+=== Intermediate
 
 This class can be given the general correspondence of the Jacob period and
 something of the application of the particular incidents in his history. The
@@ -14924,7 +14931,7 @@ golden earrings = promptings of selfishness
 
 which we have obeyed
 
-Senior
+=== Senior
 
 The Seniors are themselves in the beginning of the Jacob state, and the spiri 
 tual lessons involved in our chapter are especially important for them. Many
@@ -15192,7 +15199,7 @@ Our early states are in us and affect all we do. So the places that
 are mentioned in the early chapters of Genesis recur again and
 again throughout the ,.Bible story.
 
-From the Writings of Swedenborg
+=== From the Writings of Swedenborg
 
 Arcana Coelestia, n. 4563: "It is known that man derives evil from both his
 parents, and that this evil is called hereditary evil. He is therefore born into it,
@@ -15212,7 +15219,7 @@ dwells in wisdom. The difference is, that the innocence of infancy is without,
 and hereditary evil within; whereas the innocence of wisdom is within, and
 evil both actual and hereditary is without."
 
-Suggested Questions on the Lesson
+=== Suggested Questions on the Lesson
 
 twenty years
 
@@ -15257,7 +15264,7 @@ Our regeneration is a succession of cycles of temptation, struggle,
 
 and victory.
 
-Notes for Parents
+=== Notes for Parents
 
 The story of Joseph is one of the best-known stories in the Bible,
 and people have always recognized that
@@ -15357,7 +15364,7 @@ from starving to death. Joseph always obeyed the Lord, and he
 came to realize that the Lord had permitted the hardships of his
 boyhood for a good purpose.
 
-Junior
+=== Junior
 Shechem, the place of Abraham's first altar, appears again here and should be
 located on a map and impressed on the minds of the class. It is an important
 place throughout the Bible story. It may also be helpful to turn to Genesis 35,
@@ -15422,7 +15429,7 @@ What did they do with him?
 To whom was he finally sold?
 How did Joseph's brothers conceal their crime?
 
-Intermediate
+=== Intermediate
 
 Sketch for the class the whole story of Joseph in its simplest outlines, using
 the facts of today's lesson followed by those mentioned in the last paragraph
@@ -15774,7 +15781,7 @@ JOSEPH AND HIS BROTHERS
 find him no longer a weak child, but a mighty ruler under whose
 protection we may willingly place ourselves.
 
-From the Writings of Swedenborg
+=== From the Writings of Swedenborg
 Arcana Coelestia, n. 4669: ''Joseph. That this signifies the Lord's Divine spiri 
 tual Human, is evident from the representation of Joseph, as being in the
 supreme sense the Lord as to the Divine spiritual ... That the Lord is rep 
@@ -15789,7 +15796,7 @@ fied by the Christ, or the Messiah ... For this reason Joseph was made as it
 were a king in Egypt, that he might then represent what is of the Lord's
 royalty."
 
-Suggested Questions on the Lesson
+=== Suggested Questions on the Lesson
 Pri. How many sons were born to Jacob in Haran? eleven
 Jr. Who was the oldest? Reuben
 Pri. Who was the last one born in Haran? joseph
@@ -15827,7 +15834,7 @@ events are so closely connected that it is hard to pass over any of
 it. If the teacher prefers, he may tell the whole story very briefly
 before concentrating on the events of these two chapters.
 
-Doctrinal Points
+=== Doctrinal Points
 The Lord preserves and strengthens our spiritual affections even
 
 when we try to forget that we have them.
@@ -15839,7 +15846,7 @@ ments are bound together.
 Truth is necessary to protect good.
 Obedience to the Lord enables one to receive understanding.
 
-Notes for Parents
+=== Notes for Parents
 
 Most people are familiar with the beautiful story of Joseph.
 He is an example of a man who remained faithful and upright
@@ -15925,7 +15932,7 @@ and their families, and Pharaoh invited them to come to Egypt
 to live during the famine, and gave them the best part of the land
 to live in.
 
-Junior
+=== Junior
 
 Discuss especially the reasons why Joseph was disliked by his brothers and
 point out how liable we are to belittle people who seem to be different from
@@ -16020,7 +16027,7 @@ the neighbor. If we. have this good desire, everything that happens
 to us can be turned by the Lord into a means of making us better
 and stronger men and women, and more useful to the world.
 
-Intermediate
+=== Intermediate
 
 This class can understand the meaning of Joseph as distinct from his brothers.
 They all have Joseph in them and if they can see what is meant by trying to
@@ -16117,7 +16124,7 @@ Basic Correspondences
 bread = goodness
 wine = truth
 
-Senior
+=== Senior
 
 A good lesson for the Seniors is found in the power of Joseph to interpret
 dreams. Only our recognition of the Lord and of His power in the life can
@@ -16204,7 +16211,7 @@ faith in the Lord. The Lord preserves our "Joseph," however we
 may try to get rid of him, until the time when we seek him out
 and put ourselves under his protection.
 
-Adult
+=== Adult
 
 The meaning of Joseph's imprisonment in Egypt and of the dreams of the
 butler and baker should be discussed in their application to our own states
@@ -16346,7 +16353,7 @@ termination anywhere in the middle."
 Read here AC 5145. Compare this with Haggai's rebuke to those
 who returned from exile (Haggai 1:4-6).
 
-From the Writings of Swedenborg
+=== From the Writings of Swedenborg
 
 Arcana Coelestia, n. 5149: "There is falsity from two origins-falsity of doc 
 trine, and falsity of evil. Falsity of doctrine does not consume goods, for a
@@ -16361,7 +16368,7 @@ belong to good, because truths are as it were outworks that encompass good.
 These outworks are assaulted by means of falsity, and when these are as 
 saulted, good is given to destruction."
 
-Suggested Questions on the Lesson
+=== Suggested Questions on the Lesson
 
 Pri. Why did Joseph's older brothers dislike him? favorite, dreams
 Pri. Where was he taken by the Ishmaelite caravan? Egypt
@@ -16398,11 +16405,11 @@ that because Joseph was gentle
 and upright, the Lord could be with him and make his very hard 
 ships stepping-stones to success.
 
-Doctrinal Points
+=== Doctrinal Points
 The nature of memory-knowledges.
 The spiritual should be ruler of these knowledges in us.
 
-Notes for Parents
+=== Notes for Parents
 
 We all know the story of Joseph. It is one of the most familiar
 and the best-loved in the Bible. Looked at from the outside we
@@ -16484,7 +16491,7 @@ Pharaoh found Joseph so wise and so favored by the Lord that
 
 he decided to put Joseph in charge of all the land of Egypt.
 
-Junior
+=== Junior
 
 We have included in the Junior notes a description of Egypt for the purpose
 of impressing on the children's minds the nature of the country, since its cor 
@@ -16566,7 +16573,7 @@ new and greater achievement. We gain strength of character by
 meeting our difficulties in the right way, just as we gain physical
 strength by exercise.
 
-Intermediate
+=== Intermediate
 The correspondence of the story of Joseph-particularly of this part of it-is
 especially important for the Intermediates because it may affect their general
 attitude toward their lessons in school and Sunday school. The meaning of
@@ -16683,7 +16690,7 @@ Joseph = the affection for spiritual truth
 for the sake of life
 famine = prolonged lack of knowledge
 
-Senior
+=== Senior
 
 The principal lesson for the Seniors is the same as that for the Intermediates
 but should be approached in terms of the spiritual and natural planes of life
@@ -16746,7 +16753,7 @@ wise, we shall from the start recognize the spiritual as our true
 ruler. As Pharaoh said, "Can we find such a one as this is, a man
 in whom the Spirit of God is?"
 
-Adult
+=== Adult
 
 The most fruitful discussion topic is probably the application of this story to
 our own lives in our recurring states of temptation, especially the lesson of
@@ -16866,7 +16873,7 @@ unless he is being regenerated, and no one can be regenerated
 except through the good of life conjoined with the truth of doc 
 trine: from this he has spiritual life. "
 
-From the Writings of Swedenborg
+=== From the Writings of Swedenborg
 
 Arcana Coelestia, n. 5326: "The natural in the man who is being created anew,
 that is who is being regenerated, is entirely different from what it is in the
@@ -16888,7 +16895,7 @@ the natural, such as the knowledges that derive somewhat from the natural
 world, do nothing from themselves; they merely agree that the spiritual should
 act in the natural, and by means of it, thus naturally."
 
-Suggested Questions on the Lesson
+=== Suggested Questions on the Lesson
 Jr. How did Joseph get into prison in Egypt? Potiphar's wife'-s lies
 Pri. What did he do there for the king's butler and baker?
 Pri. Why did Pharaoh send for him? butler remembered him when Pharaoh
@@ -16929,7 +16936,7 @@ Joseph. In the notes for each age group the attempt has been made
 to suggest the particular features of the story best suited to lead
 into the lesson for the day with children of that age.
 
-Doctrinal Points
+=== Doctrinal Points
 The Lord took on a human nature from Mary and glorified it, or
 or made it Divine, by overcoming the temptations which came
 to Him through it.
@@ -16946,7 +16953,7 @@ Good will must really be first, although we have to learn what is
 
 right before we can do it.
 
-Notes for Parents
+=== Notes for Parents
 
 We all know something of the beautiful story of Joseph, one of
 the few people in the Old Testament who seem wholly admirable.
@@ -17026,7 +17033,7 @@ Their bodies were embalmed, a method the Egyptians had for preserving
 the body.
 An embalmed body is called a "mummy." You may have heard about them.
 
-Junior
+=== Junior
 Draw as much as possible of the story of Joseph from the children's memories.
 Make the connection with today's lesson through Isaac's blessing of Jacob 
 it may be well to read aloud some verses from Genesis 27: 1-29. This and
@@ -17108,7 +17115,7 @@ Joshua 24: 32. Joseph's body was not placed in the cave of Mach
 pelah but buried in the portion which had come to him by special
 gift from his father.
 
-Intermediate
+=== Intermediate
 
 Try to give the Intermediates a sense of the story of Joseph as a whole and
 of its general meaning. Use the chapter for today to emphasize the import 
@@ -17189,7 +17196,7 @@ by means of Joseph
 Manasseh = our desire to live according
 to the truth
 
-Senior
+=== Senior
 
 The lesson for the Seniors may be centered on the meaning of Manasseh and
 Ephraim, sons of Joseph, as compared with Esau and Jacob, sons of Isaac.
@@ -17278,7 +17285,7 @@ And the Lord's providence is over our external lives, permitting
 such experiences to come to us as may awaken us again to a sense
 of need.
 
-Adult
+=== Adult
 
 The correspondence of Joseph and Benjamin and of Ephraim and Manasseh
 is the focal point of the lesson. In discussing the latter the teacher may want
@@ -17417,7 +17424,7 @@ our lives, we are woefully mistaken. We have simply embalmed
 Joseph and put him in a coffin and settled down to take our
 direction from the Egyptians.
 
-From the Writings of Swedenborg
+=== From the Writings of Swedenborg
 
 Arcana Coelestia, n. 6222: "It is believed that those have an intellectual in
 the things of the church who are skilful in confirming the tenets or doctrinals of theIr own church by many thIngs, and thIs even to persuasIOn that It IS so,
