@@ -4,6 +4,14 @@ By Hugo Ljungberg Odhner
 :toc:
 :toclevels: 2
 :showtitle:
+// additions for the PDF:
+:reproducible:
+:listing-caption: Listing
+//:source-highlighter: rouge
+// Uncomment next line to add a title page (or set doctype to book)
+:doctype: book
+:title-page:
+:pdf-page-size: Letter
 
 
 Swedenborg Foundation, Inc.
