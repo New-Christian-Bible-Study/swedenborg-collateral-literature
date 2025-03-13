@@ -1,0 +1,1 @@
+Nothing to see here quite yet as we're in early stages of organizing and prototyping and testing toward a collaborative effort to proofread, edit, and clean up some of our raw sources of collaborative literature.
