@@ -23,6 +23,8 @@ By Hugo Ljunberg Odhner - Bryn Athyn, Pennsylvania
 
 "Of the Lord's mercy I too have been permitted to see the Lord's Word in its beauty in the internal sense, and this many times: not as it is when the words are being explained as to the internal sense in detail, but with all things both in general and in particular brought together into a single series or connection, which one can call a seeing of a heavenly paradise from the earthly one." - Swedenborg, in Arcana Coelestia, par.1772 {1}
 
+<<<
+
 == Preface
 
 It is proposed in these pages to present a survey of the "Arcana Coelestia," the most comprehensive of all theological works written by Emanuel Swedenborg, the Scribe of the Lord in His second advent.
@@ -41,7 +43,7 @@ Our present survey omits all these doctrinal sections which can be read separate
 
 A few words may not be amiss about the work itself. It is amply clear, from evidence presented by the late Dr. Alfred Acton*), that Swedenborg commenced the writing of the Arcana about the first day of December, in the year 1748. The first volume was published in September 1749, and the final volume in 1756. The work was thus commenced in London after he had established himself in permanent lodgings. Here he remained to write and supervise the printing of the first volume. When this task was finished he spent the fall and winter in Holland and in Aix-la-Chapelle preparing the second volume, and then returned to Stockholm where he spent the next seven years mainly on the completion of the manuscript of the Arcana which he sent to London to be printed.
 
-#footnote -
+#footnote +
 *  See "Introduction to the Word Explained," Bryn Athyn, Pa., 1927, pages 130-135
 
 Swedenborg did not place his name on the title page. {3} The work was published anonymously. It was mainly a revelation of the spiritual sense of the Word. Yet between the chapters, he interjects certain information which he had gathered from his intercourse with spirits and angels, and many doctrinal treatments of varied subjects. The title of the first volume thus reads, in free translation:
@@ -56,6 +58,8 @@ It is clear from the preface that the work which follows is presented to the wor
 The first teaching, prefaced (in no. 14) to the expositions that follow, is the announcement that by the name 'LORD' used throughout the work, is meant the Savior of the world, Jesus Christ, and He only; for He alone is acknowledged and adored in all the heavens as the God of heaven and earth.
 
 With this brief introduction, we now proceed to a summary of the teachings of the internal sense of the books of Genesis and Exodus, which in the Arcana Coelestia are expounded chapter by chapter, phrase by phrase, and sometimes word by word. {5}
+
+<<<
 
 == I. The Prehistoric Churches 
 
@@ -144,6 +148,8 @@ It is here, in Shinar (or Chaldea), that we find the descendants of Eber - decli
 And for that reason there could be a new beginning (of which we hope to speak next week). For Terah took his son Abram and Lot his grandson and Sarai, Abram's wife, and left Chaldea and settled in Haran in Syria. This represented an instruction in the external rites and traditions of the Second Ancient Church - externals which had once contained a true spiritual faith.
 
 It was "the end of idolatry and the beginning of a representative church through Abram" (AC 1375). {18}
+
+<<<
 
 == II. The History Of Abram 
 
@@ -284,6 +290,8 @@ In the Lord, the union of the Divine Essence with the Human essence proceeded by
 
 The spiritual among men can be sanctified and adopted only by the appearing of the Lord in His Divine Human in the rational appearances of doctrine - as Isaac unbound. {35} For in the seed of Abraham should all the nations of the earth be blessed, even those who are outside of the church (AC 2853). {36}
 
+<<<
+
 == III. The Story Of Isaac 
 
 === The Burial of Sarah
@@ -373,6 +381,8 @@ Yet the Lord has been laboring from man's infancy to prepare for regenerate life
 It is by such a process that man's Natural is regenerated, and good and truth are reconciled and conjoined in his conscious mind. The life - stories of Esau and Jacob (which we propose to trace in succeeding chapters) depict this conjunction. Both of these brothers undergo a change of character. From bitter rivals they eventually become friends. And it is so in the natural mind of the regenerating man of the spiritual church. There is a constant rivalry and conflict between affection and thought, between what we feel as 'good' and what we realize as 'true.' And this struggle for predominance is the more disturbing because our impulses - though irresponsible and misleading - are not all evil or wrong. {46} They have an element of good in them, answering to our bodily hunger and thirst. And our thought from doctrine is not always wholly true. It contains error and conceit and undue ambition: yet it must be given the priority for a season, the while it is tested and purified.
 
 So it is with man. The Arcana treats of human regeneration to illustrate the process of the Lord's preparation of His Natural for glorification. His natural Human contained the same hereditary elements as man's natural, and must be reduced into order in the same manner. Yet the differences were that the Lord perceived all the states of His assumed heredity as not His own; that He "was in all points tempted like as we are, yet without sin" (Heb. 4: 15); that in ordering and purifying those states He laid out the patterns for man's regeneration; and that in the final outcome He was not made new, as men are by regeneration, but made altogether Divine, even as to the very vessels of life (AC 3318e). {47}
+
+<<<
 
 == IV. Jacob's Sojourn In Syria 
 
@@ -465,6 +475,8 @@ Thus it is in man's regeneration. In the glorification of the Lord's Natural, th
 signified by Laban, also came to His perception. For He procured for Himself those goods and truths by which He made His Natural Divine by means, or by mediation of human states which were based on His heredity from the mother and were aroused by contacts with men, spirits, and angels which He - by His own power - summoned to Himself so far as they could be of service in revealing the nature of His human inheritance and thus the ways by which mankind could be regenerated. (A. 4065, 4075) Yet the Lord took nothing of good or truth from men and nothing from angels. In conjoining His Natural with His Divine Rational He separated Himself from all human states and at last expelled them. But that this was not done at once is clear from the fact that Jacob's long journey* from Laban's house to the camp of Isaac had to be slow and gradual.
 * The distance must have been considerably over four hundred miles. {60}
 
+<<<
+
 == V. Jacob's Home Journey 
 
 === Jacob Prepares to Meet
@@ -538,6 +550,8 @@ If we recall that Jacob signifies the External Natural and Israel signifies the 
 
 The Arcana states that these things are so obscure to most people as to be scarcely intelligible, but that because they make up the internal sense of the Word they must be laid open. "The time will come when there will be enlightenment" (AC 1402). The difficulties would seem to lie in the terminology. Yet the real reason for the obscurity lies not in the terms but in the fact that few are solicitous to understand the things of heaven, and still fewer are in genuine charity and thus the distinctions between spiritual states are not perceived (AC 4286). {70}
 
+<<<
+
 == VI. Benjamin And Joseph 
 
 === The Spiritual Significance of Benjamin
@@ -609,6 +623,8 @@ Hence we read that it was through this butler that Joseph was eventually release
 The supreme sense within the story of the Butler and the Baker is therefore an account of how the Lord glorified His very corporeal human. Man cannot regenerate as to his material body, nor as to his external sensual life (AC 5079). "The earthly corporeal is no longer of any use to him when he is in another world where there are other functions and other powers and abilities" for which the nature of his spiritual body is adapted. Therefore "no man rises again in the body with which he was clothed in the world; but the Lord alone so arose, and this because He glorified His body, or made it Divine, while He was in the world." He "made the very corporeal in Himself Divine, as well its sensuals as their recipients; wherefore He rose again from the sepulchre with His body..." (AC 5078).
 
 It is thus clear that in the glorification of the Lord's Natural He did not reject the body, with its senses; for this was the ultimate Human which He glorified and made Divine. But what He rejected was the affections and desires of the sensual will and the fallacious conclusions to which the Sensual was liable (AC 5094). {81}
+
+<<<
 
 == VII. Joseph's Rise To Power 
 
@@ -697,6 +713,8 @@ somewhat paradoxically - is found in the fact that the modes by which the Lord o
 
 The Lord thus visualized in Himself all the states of human regeneration. Unless the Lord had done this, and in doing it had disclosed the true order both of glorification and of regeneration before the angelic hosts and the spirits who attended Him, no man or spirit of the "spiritual" genius or the "spiritual" church - that is, no man whose will was pervert from heredity - could possibly have been saved. For the heavens must be ordered according to this truth which proceeded from the Divine Human, if they are to serve the Lord as media in regenerating men on earth. Regeneration is the introduction of man's spirit or mind into angelic societies. Without the mediation of such societies there can be no spiritual thought and indeed no rebirth of man's spirit. Before the Advent the angels of the Lord's spiritual kingdom and all spirits of the spiritual genius were in a state of arrested development. It was to present the order of the Lord's glorification and man's regeneration before the angels, that the Messianic prophecies were given after the fall of the most ancient church and that the Hebrew Word was written in such a way that the internal sense might describe the successive steps of how the Lord put off the maternal human and put on the Divine (AC 2523). Yet when perception failed among the spiritual, the power of such prophecy waned. And the Lord had to come to unite His Human Essence with His Divine Essence and by this restore to the spiritual angels and to men on earth the ability to understand and perceive what is good and true (AC 2776).  {94}
 
+<<<
+
 == VIII. Israel In Egypt
 
 The Lord did not only regenerate His Human, but He also glorified Himself (AC 3138). His work of redemption necessitated the union of His Human to the Divine. It is this unition which is represented in the story of Joseph, in its supreme sense. Joseph here represents "the Lord's internal Human before it was fully glorified" (AC 5417). This was called "the celestial of the spiritual from the natural" (AC 5307), or the good of truth in the rational. With angels and regenerate men, there may be born a state of such description, which answers to the internal of the spiritual heaven and is based on the exterior rational. With men, this state acts as the internal of conscience, which is formed from truths of doctrine that are lived from affection and are then perceptible only as a vague affection, a leading as of conscience.
@@ -781,6 +799,8 @@ Each consummated church or merely natural state of man is characterized by these
 
 And now the spiritual sense is unfolded. Swedenborg closes the exposition of the internal sense of Genesis with the words: "It has been dictated to me from heaven" (AC 6597). {106}
 
+<<<
+
 == IX. The Oppression 
 
 === Review of Genesis
@@ -842,6 +862,8 @@ Moses was not a man of words. But his brother Aaron was appointed to be his spok
 "mouth," to plead with Israel and to demand liberty from Pharaoh. Aaron was therefore brought into the wilderness to meet Moses. This meeting is of paramount spiritual importance. For Aaron represents the Word in its outer perceptible form as Divine truth mediated and accommodated in human appearances, the written Word of revelation in its literal veilings of history and doctrine. Such truth can be accepted by any man merely because it is the traditional belief of his church and is taught by learned and enlightened men. Such truth existed with the prophets of Israel, who received dictation from spirits, without having any perception of spiritual ideas. Alone, such mediate truth is only hearsay; and while man is thereby held in a salvable state if he is in simple obedience yet it has no power to redeem man's soul from spiritual captivity. Indeed, it may become mere idolatry, as we see from a later incident, when Moses was detained on Mount Sinai and Aaron made the people dance about a golden calf.
 
 To become a power for redemption, Moses and Aaron must act together. Aaron must meet Moses and be instructed of him. The Word and the doctrine must testify to the law Divine that is secretly operating as the inner order in heaven and the world and immediately inflows and governs all things. If a man has an affection of truth - a love which results from the immediate influx of Divine truth into the will - an affection of knowing truth for the sake of truth (not reputation) and for the sake of life (not selfish gain), then he is also given a perception whether what he is taught is true: {116} and he would then see in the Word and in the doctrine innumerable details from the spiritual sense of which the Word is the "mouth"; and he would then perceive a presence of the Lord in the Word. Aaron and Moses would then embrace and kiss each other. The mediate influx through the understanding would meet the immediate influx of truth through the will. {117}
+
+<<<
 
 == X. The Exodus 
 
@@ -935,6 +957,8 @@ Yet with the heat and burden of the day, (which comes from man's self-conscious 
 
 No manna fell on the Sabbath, and the rain of manna entirely ceased after the Israelites entered Canaan (AC 8539). For the 'good of truth' is procured by means of truth while the spirit of man is as yet a nomad, subject to temptations. And this truth comes to man with the immediate Divine authority of the Word, as was symbolized by Moses when at the Lord's command he brought water out of the rock at Horeb (AC 8582). {131}
 
+<<<
+
 == XI. Before The Mount Of God 
 
 === On the Way to Sinai
@@ -974,6 +998,8 @@ Even the plain doctrine of the Writings is "hid from the wise and revealed unto 
 Moses must set bounds around the mountain, lest the people or the common priests so much as touch it. Only Moses, and Aaron - representing intermediaries who were in a common perception of celestial good and could receive something of an influx from the inmost heaven, were allowed to come up, when the trumpet sounded long. "The extension of the life of those who are of the spiritual church" must be no further than into "the spiritual spheres of good" or into the second heaven, not to the third. For by inserting himself into celestial societies, or claiming celestial qualities, from cupidities of pride or envy or self-confidence, his spiritual eyes would be blinded and his affections destroyed as if by fire, and his faith and happiness would perish (AC 8794-8801).
 
 Instead, the people must wash their garments and be sanctified; to signify that man's interiors must be veiled over, if the Lord is to withhold them from evils. For the old will must be separated so as not to appear. It contains from heredity the undisclosed, slumbering evils of many past generations, which would be aroused by an adventurous approach to celestial good (AC 8806, 8945). {137}
+
+<<<
 
 == XII. The Law Of God 
 
@@ -1023,6 +1049,8 @@ From these teachings we may understand why the Lord, having spoken the ten comma
 {142}
 
 All this explains the necessity of the Divine truths of the internal sense being accommodated in the external form of ten commandments which required the shunning of certain evil acts, acts which yet are the symbolic forms of all the interior evils of the hells which lie latent in human minds. {143}
+
+<<<
 
 == XIII. The Judgments And The Statutes
 
@@ -1116,6 +1144,8 @@ These laws about cattle, in their spiritual sense, all describe how the regenera
 This is involved in a law which ordains that a cattle thief must make amends by repaying five oxen for an ox or four sheep for a sheep. In the spiritual sense the theft of a sheep means an alienation of an interior good, which belongs to a man's spiritual life. Such good, or charity, if it exists in a man, is in the interior mind and cannot come to man's sensation in this life although it can be perceived as "a contented mind" - that is, a mind contented in the Lord's truth and provisions. When evil - especially in temptations - takes away such a state of interior contentment and gratitude, it may seem as if it could never return. Yet the fact is that it can be restored fully and completely. For although interior good can be snatched away it is really never lost, for its abode is in man's interiors where evil has no power to destroy "where neither moth nor rust doth corrupt and where thieves do not break through nor steal." The theft of a sheep was therefore amended by a fine of four sheep; and this because 'four' in the symbolic language of the Word means "full conjunction" after temptation (AC 9103).
 
 No man or spirit can permanently harm the soul or spiritual mind of another. But it is quite another matter in the case of the natural mind. Here men can do permanent injury as well as give assistance to their neighbor. The Hebrew law therefore provided that whoever stole an ox must repay five oxen. Five, strangely enough, signifies in spiritual terms, less than four! Five signifies something of 'remains,' and even 'a sufficiency,' or 'much' but never fullness. We can never make up fully any hurt we may have caused to the natural minds or natural affections of others. We cannot make up to our children the impairments due to our neglects or mistakes, witting or unwitting. We so easily injure each other - steal good natural delights from others by injecting evil delights; and even regeneration cannot fully restore the damage, for at best the injuries remain as scars which have grown callous (AC 9103). Yet we can compensate richly, in many ways. And as parents we must not forget that the vicious ox must not be tolerated in ourselves or our children. But we must leave the other oxen to graze and grow up as calves of the stall. The compensation for our mistakes will come when we lead the young to influences which are not from our own proprium but are from the Word and Doctrine of the Lord, and when we uphold ideals that are higher than our own faulty attainments. {152}
+
+<<<
 
 == XIV. The Community Of The Mind
 
@@ -1258,6 +1288,8 @@ is then inscribed on both his understanding and his will."
 
 Yet "the Word in the letter is Divine truth in the ultimate of order." Man is in the ultimate of order, in which interiors terminate and rest, as a house on its foundation. "All who are in heaven are instructed by the Lord from truth Divine which is with man, thus from the Word. " "This is the reason why it is always provided by the Lord that there should be a church on earth, in which Divine truth may be in its ultimate. This is an arcanum as yet known to no one . ." "Let all therefore beware lest they do injury to the Word in any way. For they who do injury to the Word do injury to the Divine itself" (AC 9430). {163}
 
+<<<
+
 == XV. The Tabernacle And The Priesthood 
 
 === The Lord's Dwelling Place
@@ -1390,6 +1422,8 @@ And in this connection we find the reminder that the Lord alone can order and di
 Finally Moses is ordered to make a laver of copper so that the priests might wash before performing their sacrifices or ministering in the holy place (AC 10235). This of course was placed in the court, since it is in the natural mind that all spiritual purification is effected. Man shuns his evils and falsities in his conscious thinking - in the externals of his thought. And then the Lord can cleanse his unconscious interiors from the lusts of evil (AC 10236f, 10240). Water signifies the truth of faith by which he can be withdrawn from his evils. And yet the purification of the natural and sensual mind is the last state of his regeneration. For the interior endeavors to seek spiritual life are first established in his rational - in the free choice of his rational mind. This is the first to regenerate. And the Lord therefore stores up in our mind many states of celestial and spiritual remains before our natural character can be reduced into real correspondence. He builds, unless we prevent it, an ark and a holy place and prepares a priesthood of holy states among our errant thoughts; and then at last can we begin the continual ministry of worship
 {173} the life-long task of purifying our natural mind by the sacrifices of a broken and contrite heart (AC 10239). {174}
 
+<<<
+
 == XVI. The Tables Of The Testimony 
 
 === Instructions for Israel
@@ -1509,6 +1543,8 @@ The Arcana does not expound the spiritual sense of these last chapters of Exodus
 Only then can the Tabernacle be reared around the sacred ark of the Law as the inmost, to await the presence of the Lord, with an anointed priesthood ready to minister before Him.
 
 And so at last the cloud covered the tent and the glory of the Lord filled the dwelling. When that cloud lifted it was a sign for Israel to journey on, on their nomad way to face new and unknown states to come. But as long as the sign of Jehovah's protecting presence lingered upon the tabernacle, as a cloud by day and a fire by night, Israel dwelt safely. For the cloud and the glory was the token of the Word in its letter and its spirit, through which there is a protection from heaven and conjunction with God. {185} Appendix 
+
+<<<
 
 == Appendix
 
