@@ -1,5 +1,5 @@
 = Survey of the Arcana Coelestia
-By Hugo Ljunberg Odhner - Bryn Athyn, Pennsylvania
+By Hugo Lj. Odhner - Bryn Athyn, Pennsylvania
 :toc:
 // :toc-placement: preamble
 :toclevels: 2

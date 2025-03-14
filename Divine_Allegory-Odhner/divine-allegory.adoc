@@ -1,6 +1,6 @@
-= The Divine Allegory -
+= The Divine Allegory +
 The Story of the Peoples and Lands of Scripture and Their Spiritual Significance as Revealed in the Writings of Emanuel Swedenborg
-By Hugo Ljungberg Odhner
+By Hugo Lj. Odhner
 :toc:
 :toclevels: 2
 :showtitle:
@@ -28,13 +28,13 @@ Copyright, 1954, by Hugo Lj. Odhner
 
 MAPS AND DIAGRAMS
 
-Correspondences of the Bible Lands Frontispiece
-The Hebrew World 7, 8
-Ancient Races of Man 15
-Theory of Post-Glacial Migrations 21
-Ancient Migrations in the Bible Lands 45
-Comparative Chronologies of Egypt and Canaan 54
-Correspondences of the Twelve Tribes 80
+Correspondences of the Bible Lands Frontispiece +
+The Hebrew World 7, 8 +
+Ancient Races of Man 15 +
+Theory of Post-Glacial Migrations 21 +
+Ancient Migrations in the Bible Lands 45 +
+Comparative Chronologies of Egypt and Canaan 54 +
+Correspondences of the Twelve Tribes 80 +
 
 "These things are an allegory."
 Paul, in Galatians 4:24
@@ -47,10 +47,9 @@ called the heavenly Canaan' and the heavenly Jerusalem'; and that
 Paradise has a similar meaning."
 
 "No one can know the spiritual sense of the Word except form the
-science of correspondences."
+science of correspondences." -Swedenborg
 
-Swedenborg
-
+<<<
 
 == THE DIVINE ALLEGORY
 
@@ -199,6 +198,7 @@ Hebrew and the Greek - and encourage a more correct translation than
 the present versions, which still speak, in places, in the tones of old
 church theology.
 
+<<<
 
 == BEYOND HISTORY
 
@@ -897,6 +897,7 @@ truth which they had, thus incurring a dreadful spiritual peril (AC
 transference of ideas, sometimes calls them "descendants of Seth" (WE
 1563).
 
+<<<
 
 == NATIONS OF THE ANCIENT CHURCH
 
@@ -1439,6 +1440,7 @@ Shaddai, bidding him to forsake the house of his father and his
 kinsfolk and promising him untold blessings and a great national
 future, if he would settle in the land of Canaan.
 
+<<<
 
 == THE PATRIARCHAL PERIOD
 
@@ -1589,6 +1591,7 @@ his God who was to purge this region from disorderly cults and make it
 serve as a holy land of prophecy and a means for renewed conjunction
 with Himself.
 
+<<<
 
 == CANAAN AND EGYPT
 
@@ -2389,6 +2392,7 @@ suffer much mental anxiety. But at the last judgment these "souls under
 the altar" (Rev. (6:9-11) are released as by a spiritual Exodus and are
 led into heaven (AC 7932a; AR 325, 884).
 
+<<<
 
 == THE CONQUEST OF CANAAN
 
@@ -3192,6 +3196,7 @@ be slain only by the smooth stones which genuine love seeks out from
 the water-brooks of Divine Revelation-stones of truth, well polished by
 the uses of life.
 
+<<<
 
 == THE NORTHERN TRIBES
 
@@ -3579,6 +3584,7 @@ things supports the spiritual uses of the church for their own sakes
 church and adulterates its goods and its truths and breaks up the
 marriage-bonds of charity and faith.
 
+<<<
 
 == JOSEPH AND BENJAMIN
 
@@ -3918,6 +3924,7 @@ streams, and cut-down groves. Back and forth across its rocky trails
 passed the armies of Judah and Israel in their age-long internecine
 strife.
 
+<<<
 
 == ISRAEL AMONG THE NATIONS
 
@@ -4352,6 +4359,7 @@ their destinies is the spiritual issue which centers around the Church:
 the issue how far their actions can assist the end of the Divine
 providence, assist in the chastisement and purification, or in the
 liberation and eventual growth, of the kingdom of the Lord on earth.
+<<<
 
 == THE LAND OF THE GOSPEL
 
@@ -4545,6 +4553,7 @@ man's usefulness.
 
 //[Blank page]
 
+<<<
 
 == BIBLIOGRAPHY
 
