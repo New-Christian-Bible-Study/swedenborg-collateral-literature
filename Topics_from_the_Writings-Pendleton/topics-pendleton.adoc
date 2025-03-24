@@ -2583,7 +2583,9 @@ John is variously represented, but the representations are essentially one. He i
 
 == INDEX OF SUBJECTS
 
-Note: page numbers are no longer valid. They refered to the original printed book of 249 pages thru the end of this index.
+// Decision to be made here
+Note: page numbers are no longer valid. They refered to the original printed book of 249 pages thru the end of this index. + 
+Your Search function should suffice.
 
 Abstinence, Temperance better than 87 +  
 Abstinence, Total 112 +  
