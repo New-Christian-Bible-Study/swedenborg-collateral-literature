@@ -1,7 +1,8 @@
 = Notes on Divine Providence
 a lecture series by Andy Dibb
+:toc:
 :toclevels: 2
-// note that Table of Contents is exported to EPUB and PDF for use by their reader applications, without being printed into the visible body content. The PDF should have a printed TOC with page numbers for uses where it will be printed on paper. Best default is probably to include a :toc: directive.
+// note that Table of Contents is exported to EPUB and PDF for use by their reader applications, with or without being printed into the visible body content. The PDF should have a printed TOC with page numbers for uses where it will be printed on paper. Best default is probably to include a :toc: directive.
 
 == Introduction
 
