@@ -1,14 +1,15 @@
-By
+= Essays on The Lord's Prayer
+By Hugo Lj. Odhner
+:toc: preamble
+// here in the header should be installed any meta-data for the published formats
+// page breaks '<<<' have been inserted before all new chapters
 
-Hugo Lj. Odhner
-
-General Church Publication Committee
-
-Bryn Athyn, Pa.
-
+General Church Publication Committee + 
+Bryn Athyn, Pa. + 
 1972
 
 CONTENTS
+// preserve these contents for their numerical association with the Selected Readings below 
 
 Preface + 
 The Lord's Prayer according to Matthew 6:9-13; Luke 11:2-4 + 
@@ -29,43 +30,47 @@ This little volume is prepared for private reading or for use in public worship.
 
 The subject of the Lord's Prayer is not treated of consecutively in any one place in the Writings, but is often referred to in whole or in part, as is made clear in the Pott's Swedenborg Concordance under the heading "Lord's Prayer."
 
-The outstanding importance of the Lord's prayer is shown in statements such as these: "There are more things in the contents of that prayer than the universal heaven is capable of comprehending" (AC 6619).
-"Prayer, regarded in itself, is speech with God. If a man prays from love and faith, and concerning heavenly and spiritual things only, then there arises in the prayer something like a revelation which shows itself in his affection as hope, consolation and something of internal joy" (AC 2535). And certain angels stated, "We in heaven read that prayer daily" (TCR 113:6).
+The outstanding importance of the Lord's prayer is shown in statements such as these: "There are more things in the contents of that prayer than the universal heaven is capable of comprehending" (AC 6619). + 
+"Prayer, regarded in itself, is speech with God. If a man prays from love and faith, and concerning heavenly and spiritual things only, then there arises in the prayer something like a revelation which shows itself in his affection as hope, consolation and something of internal joy" (AC 2535). + 
+And certain angels stated, "We in heaven read that prayer daily" (TCR 113:6).
 
 For the sake of completeness a copy of the two versions of the Lord's Prayer is appended on page iii.
-
+// Attention here, above and below, for page number refs.
 And in order to facilitate the use of these Scripture passages in worship, a selection of lessons from the threefold Word is also inserted on page iv.
 
 I am indebted to Lennart Alfelt for preparing the manuscript for the press.
 
 Hugo Lj. Odhner Bryn Athyn, Pennsylvania April 1972
 
-THE LORD'S PRAYER
+<<<
 
-Our Father, who art in the heavens, hallowed be Thy name. Thy kingdom come. Thy will be done, as in heaven so upon the earth. Give us this day our daily bread. And forgive us our debts, as we also forgive our debtors. And lead us not into temptation, but deliver us from evil. For Thine is the kingdom, and the power, and the glory, forever. Amen. Matthew 6:9-13
+== THE LORD'S PRAYER
 
-And it came to pass, that, as he was praying in a certain place, when he ceased, one of his disciples said unto him, Lord, teach us to pray, as John also taught his disciples.
+Our Father, who art in the heavens, hallowed be Thy name. Thy kingdom come. Thy will be done, as in heaven so upon the earth. Give us this day our daily bread. And forgive us our debts, as we also forgive our debtors. And lead us not into temptation, but deliver us from evil. For Thine is the kingdom, and the power, and the glory, forever. Amen. (Matthew 6:9-13)
 
-And he said unto them, When ye pray, say, Our Father who art in the heavens, Hallowed be thy name. Thy kingdom come. Thy will be done, as in heaven, so in earth.
-
+And it came to pass, that, as he was praying in a certain place, when he ceased, one of his disciples said unto him, Lord, teach us to pray, as John also taught his disciples. + 
+And he said unto them, When ye pray, say, + 
+Our Father who art in the heavens, Hallowed be thy name. Thy kingdom come. Thy will be done, as in heaven, so in earth.
 Give us day by day our daily bread.
-
-And forgive us our sins; for we also forgive every one that is indebted to us. And lead us not into temptation; but deliver us from evil. Luke 11:1-4
+And forgive us our sins; for we also forgive every one that is indebted to us. And lead us not into temptation; but deliver us from evil. (Luke 11:1-4)
 
 SELECTED READING FOR SERVICES
-
-Text Old Test., etc. New Testament Writings 1 Luke 11:1 Psalm 102 Luke 11:1-13 AE 815:10 (part)
-2 Luke 11:2 Isa. 64 Matt. 6:1-21 AC 8705:4, 5 (part)
-3 Luke 11:2 Psalm 99:1-3 Mark 9:33-50 DP 230, 231
-4 Luke 11:2 Dan. 7:1-3, 9-28 John 18:33-19:4 AE 726:2
-5 Luke 11:2 Deut. 11:18-29 Matt. 26:36-46 AC 2447:2, 3
-6. Matt. 6:11 Psalm 78:1-4, 12-25 John 6:1-14 AC 8478, 8480 (parts)
-7 Matt. 6:12 Gen. 45:1-15 Matt. 18:21-35 AC 3014:3, 4
-8 Luke 11:4 Isa. 45:1-19 Matt. 10:24-39 AC 6324-6325
-9 Luke 11:4 Psalm 44 Matt. 11:11-30 AE 1164 (2, 3)
+// reference the Contents above for associating the numerical "chapter"s
+Text Old Test., etc. New Testament Writings + 
+1 Luke 11:1 Psalm 102 Luke 11:1-13 AE 815:10 (part) + 
+2 Luke 11:2 Isa. 64 Matt. 6:1-21 AC 8705:4, 5 (part) + 
+3 Luke 11:2 Psalm 99:1-3 Mark 9:33-50 DP 230, 231 + 
+4 Luke 11:2 Dan. 7:1-3, 9-28 John 18:33-19:4 AE 726:2 + 
+5 Luke 11:2 Deut. 11:18-29 Matt. 26:36-46 AC 2447:2, 3 + 
+6. Matt. 6:11 Psalm 78:1-4, 12-25 John 6:1-14 AC 8478, 8480 (parts) + 
+7 Matt. 6:12 Gen. 45:1-15 Matt. 18:21-35 AC 3014:3, 4 + 
+8 Luke 11:4 Isa. 45:1-19 Matt. 10:24-39 AC 6324-6325 + 
+9 Luke 11:4 Psalm 44 Matt. 11:11-30 AE 1164 (2, 3) + 
 10 Matt. 6:13 Rev. 5 Matt. 6:1, 5-15 AE 726:1
 
- THE MEANING OF PRAYER
+<<<
+
+== THE MEANING OF PRAYER
 
 Lord, teach us to pray, as John also taught his disciples. Luke 11:1.
 
@@ -110,9 +115,9 @@ How great the need of man for these interludes of prayer, whereby our disordered
 
 Yet it is not we that can lay up that heavenly treasure, but the Lord, unbeknownst to us. And it is not the vain repetitions of the heathen, nor the prayers of our own fickle will that can call forth the responses of heaven: but only those petitions which accord with the prayer of the kingdom, the Lord's prayer, the prayer taught by Him whose is the kingdom and the power and the glory, forever.
 
- II
+<<<
 
-OUR FATHER
+== OUR FATHER
 
 And He said unto them, When ye pray, say, Our Father who art in the heavens... Luke 11:2
 
@@ -155,9 +160,9 @@ As our Father; not as my Father. There is no worship of God from a spirit of sel
 
 Every man thus prays to his Father in his heavens: opening his heart to the source of his life, to the influx of his ruling love whatever this may be. He prays either to the finite and futile god which he has himself set up in his own frail image, or to the true God who has revealed the Divine pattern of human life and who taught us to pray in His name, for the fulfilment of His will.
 
- III
+<<<
 
-HALLOWED BE THY NAME
+== HALLOWED BE THY NAME
 
 Our Father, who art in the heavens, hallowed be Thy name! Luke 17:2
 
@@ -202,9 +207,9 @@ All good things and true, even the lowest and the least in human life, are inscr
 
 Therefore the Lord said, "He that overcometh, upon him will I ... write the name of My God, and the name of the city of My God, the New Jerusalem which cometh down out of heaven from My God, and...My new name" (Rev. 3:12). The "name" of God is Truth: this the Lord, in His Human, speaks of as "My God,"--His Truth, His Law. For His "new name," which is to be hallowed, is the law of human life that was glorified in Him and revealed in the holy structure of Divine Doctrine which is the New Jerusalem, where He is seen as the Divine Human, as Divine love in Human Form.
 
- IV
+<<<
 
-THY KINGDOM COME
+== THY KINGDOM COME
 
 Thy kingdom come! Luke 12:2
 
@@ -255,9 +260,9 @@ It is one of the marvels of heaven that the angels, who have the kingdom of heav
 
 The Lord's kingdom must be within, in the realm of the loves that continually resist evil and falsity and form the interior motives which fashion our lives. Yet the kingdom will not come within us except so far as we, while on earth, seek to promote its establishment in the uses about us. Outside of us, it exists as the Specific Church (which guards and teaches the Heavenly Doctrine) and in a wider and vaguer sense the Church Universal. Our prayer would be futile if we fail to respond--each in our own way and according to our abilities--to the needs of the Church and to the call for understanding and mutual charity through which the government of the Lord may be established, as in heaven, so upon the earth.
 
- V
+<<<
 
-THY WILL BE DONE
+== THY WILL BE DONE
 
 Thy kingdom come, Thy will be done, as in heaven so upon the earth. Luke 11:2
 
@@ -304,9 +309,9 @@ But in the spiritual world (as also inmostly in the realm of human motives) such
 
 After death, this chosen love which rules man's will becomes free in its exercise and expression and guides the development of his intelligence and usefulness under the marvellous government of spiritual laws whereby all spirits are consociated according to their inner character. Our prayer must always he that the will of the Lord may increasingly be done on earth--that liberation from merely natural bonds may be granted only so far as this may be consistent with the freedom of the race, and so far as evil and its license will in time lessen. This is the hunger of every faithful heart: that the time may come when charity and worship, mutual love and the love of truth and use, and conjugial love with its innocence and peace, may find its abode as in heaven so upon earth.
 
- VI
+<<<
 
-OUR DAILY BREAD
+== OUR DAILY BREAD
 
 Give us this day our daily bread. Matthew 6:31
 
@@ -350,9 +355,9 @@ But where there is no spiritual conscience to hold the love of pleasure in leash
 
 In heaven it is not so. The angels do not care for the past nor think with concern about things to come. In this lies their happiness, that they live content in the present (AC 2493). And this is one of the secrets of life. If we look for our duties and opportunities in the present, we shall find our delights there also. And the Lord, who is the First and Last, shall care for our tomorrows even as He gives us bread for today.
 
- VII
+<<<
 
-FORGIVENESS
+== FORGIVENESS
 
 And forgive us our debts, as we also forgive our debtors. Matthew 6:12
 
@@ -406,9 +411,9 @@ Without such a frank trust in others, and such a mutual confession of constant f
 
 The giving and the return seem at times unequal. But the Lord knows otherwise. For the internal reception of love is only according to the return. Only when we return love for love can we really receive love. Only as we forgive can we be forgiven.
 
- VIII
+<<<
 
-TEMPTATION
+== TEMPTATION
 
 And lead us not into temptation. Luke 11:4
 
@@ -455,9 +460,9 @@ And the Lord--in His second advent--has now uncovered and rendered impotent the 
 
 For the time is coming when spiritual temptation will again and increasingly become the means of opening the channels of influx from heaven. During temptations, man, being in externals, perceives only the evil things which the spirits inject. But when the combat is past man enters undeserving--into the fruits of victory. His spirit is admitted among angels, and joy and consolation inflow and fill even his natural mind which is humbled and content. His cup of life runneth over. And of him who holds fast to the Lord during temptations, this promise is given: "Him that overcometh will I make a pillar in the temple of My God, and he shall go no more out; and I will write upon him the name of My God and the name of the city of My God, the New Jerusalem which cometh down out of heaven from My God: and My new name."
 
- IX
+<<<
 
-DELIVERANCE
+== DELIVERANCE
 
 But deliver us from evil. Luke 11:4
 
@@ -506,9 +511,9 @@ Yet this deliverance from the chains of the past, and the breaking, one by one, 
 
 For where the treasure is, there shall the heart be also. Deliverance from evil means more than an empty freedom. It means new loyalties, new bonds of one's own choosing. It means a spiritual home, a place in our Father's house, wherein the Divinely taught prayer is fulfilled: a heaven of mercy and freedom where the Lord's truth rules and His will is done, as in heart so in life; where there is no lack, and sin is forgiven and temptation removed and the love of truth has made us free from the allurements of evil; a heaven which is His kingdom, established by His power for our salvation but to His eternal glory.
 
- X
+<<<
 
-THE KINGDOM, POWER AND THE GLORY
+== THE KINGDOM, POWER AND THE GLORY
 
 For Thine is the kingdom and the power and the glory, for ever. Amen. Matthew 6:13
 
@@ -542,7 +547,7 @@ We are apt to think of heaven from externals, as another more perfect natural wo
 
 The Lord is constantly leading man away from mere appearances and toward the inner realities. For man's road to heaven is devious, leading through many apparent heavens of illusion and phantasy. The kingdom for which he prays is not always the Lord's. The name he desires to hallow is not always that of the Divine Word. The bread for which he petitions is not always that for which his state is ready. He asks forgiveness while hatred and envy still smoulder in his breast. With his lips he prays to be excused from temptation although his wandering gaze is still seeking it out. He cries, "Deliver us from evil," yet is blind to his own faults.
 
-Nevertheless, whenever man stumbles, the Lord seeks to raise him up, providing him with the revealed Word as a staff and a lamp; when man falters, the Lord gives him a new vision of paradiseas if it were closely ahead shows him a glimpse of the glory and power of heaven. Yet, so long as a man looks upon this heaven as a regard to be earned by his own merit, he can see only the portals of the kingdom, the outskirts of paradise. He sees only the natural heaven, where salvation indeed awaits, but not angelic life in its power and glory. For to follow the Lord for the sake of reward brings with it the seeds of self-glorification and blindness, which detract from the contentment of angelic life; the contentment which springs from a knowledge of self and from a profound humiliation such as is expressed in the words that are added to the Lord's Prayer in the Gospel according to Matthew: "For Thine is the kingdom, and the power, and the glory."
+Nevertheless, whenever man stumbles, the Lord seeks to raise him up, providing him with the revealed Word as a staff and a lamp; when man falters, the Lord gives him a new vision of paradise as if it were closely ahead shows him a glimpse of the glory and power of heaven. Yet, so long as a man looks upon this heaven as a regard to be earned by his own merit, he can see only the portals of the kingdom, the outskirts of paradise. He sees only the natural heaven, where salvation indeed awaits, but not angelic life in its power and glory. For to follow the Lord for the sake of reward brings with it the seeds of self-glorification and blindness, which detract from the contentment of angelic life; the contentment which springs from a knowledge of self and from a profound humiliation such as is expressed in the words that are added to the Lord's Prayer in the Gospel according to Matthew: "For Thine is the kingdom, and the power, and the glory."
 
 Therefore the Lord does not cease leading man onward through the ultimate heaven into the spiritual and, if possible, into the celestial state itself. And this is the reason why the Lord has now come "in the clouds of heaven with power and great glory," revealing the spiritual and the celestial meanings hitherto concealed in the Holy Scripture:
 and has raised up His New Church, the New Jerusalem, the crystal city of Truth "having the glory of God." (Rev. 21:11)
