@@ -1,6 +1,6 @@
 = Saul, David and Solomon - The parable of three kings
 By Hugo Lj. Odhner
-:toc: preamble
+include::../template-attributes.adoc[]
 
 General Church Publication Committee + 
 Bryn Athyn, Pennsylvania + 

@@ -1,6 +1,6 @@
 = Essays on the Ten Commandments
 By Hugo Lj. Odhner
-:toc: preamble
+include::../template-attributes.adoc[]
 
 By Hugo Lj. Odhner +
 General Church Publication Committee +

@@ -1,8 +1,6 @@
 = Essays on The Lord's Prayer
 By Hugo Lj. Odhner
-:toc: preamble
-// here in the header should be installed any meta-data for the published formats
-// page breaks '<<<' have been inserted before all new chapters
+include::../template-attributes.adoc[]
 
 General Church Publication Committee + 
 Bryn Athyn, Pa. + 
