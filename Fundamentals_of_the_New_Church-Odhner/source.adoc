@@ -1,157 +1,91 @@
+= Fundamentals of the New Church - A Series of Addresses
+By Hugo Lj. Odhner
+:toc: preamble
+:toclevels: 2
 
-A Series of Addresses
-
-By
-
-Hugo Lj. Odhner
-
-Bryn Athyn
-
-Pennsylvania
-
+By Hugo Lj. Odhner + 
+Bryn Athyn + 
+Pennsylvania + 
 1947
 
-C O N T E N T S
-
-INTRODUCTION
-
-I. GOD THE CREATOR
-
-The Existence of God
-
-Gods Essence, Quality, and Power
-
-The Creation of the Universe
-
-II. THE LORD THE REDEEMER
-
-Sin, Truth, and Prophecy
-
-The Divine Incarnation
-
-Some Laws implied in the Advent
-
-The Lords States of Humiliation and of Glorification
-
-The Divine Trinity
-
-III. THE NATURE AND DESTINY OF MAN
-
+----
+C O N T E N T S + 
+INTRODUCTION + 
+I. GOD THE CREATOR + 
+The Existence of God + 
+Gods Essence, Quality, and Power + 
+The Creation of the Universe + 
+II. THE LORD THE REDEEMER + 
+Sin, Truth, and Prophecy + 
+The Divine Incarnation + 
+Some Laws implied in the Advent + 
+The Lords States of Humiliation and of Glorification + 
+The Divine Trinity + 
+III. THE NATURE AND DESTINY OF MAN + 
 What is Man?
-
-Immortality
-
-Mans Equipment for Eternal Life
-
-Death, the Gateway of the Spiritual World
-
-The World of Spirits
-
-The Nature of the Spiritual World
-
-Judgment and Instruction
-
-The Hells
-
-The Heavenly Kingdom
-
-IV. THE WORDTHE MEANS OF SALVATION
-
-Primeval Revelation
-
-The Need for a Written Revelation
-
-The Inspired Scriptures
-
-Accommodations of Truth
-
-The Uses of Correspondences
-
-The Spiritual Sense of the Word
-
-The Word in its Fullness
-
-Revelation of the Spiritual Sense
-
-V. HEREDITY, MORAL GROWTH, AND REPENTANCE
-
-Mans Evil Heredity
-
-Mens Moral Development
-
-The Functions of Remains and of Natural Good
-
-Repentance
-
-VI. REFORMATION AND TEMPTATION
-
-Reformation: A Preparation for Regeneration
-
-The State of Reformation
-
-Temptations
-
-VII. REGENERATION AND THE LIFE OF CHARITY
-
-The New Birth
-
-The New Life of Charity
-
+Immortality + 
+Mans Equipment for Eternal Life + 
+Death, the Gateway of the Spiritual World + 
+The World of Spirits + 
+The Nature of the Spiritual World + 
+Judgment and Instruction + 
+The Hells + 
+The Heavenly Kingdom + 
+IV. THE WORDTHE MEANS OF SALVATION + 
+Primeval Revelation + 
+The Need for a Written Revelation + 
+The Inspired Scriptures + 
+Accommodations of Truth + 
+The Uses of Correspondences + 
+The Spiritual Sense of the Word + 
+The Word in its Fullness + 
+Revelation of the Spiritual Sense + 
+V. HEREDITY, MORAL GROWTH, AND REPENTANCE + 
+Mans Evil Heredity + 
+Mens Moral Development + 
+The Functions of Remains and of Natural Good + 
+Repentance + 
+VI. REFORMATION AND TEMPTATION + 
+Reformation: A Preparation for Regeneration + 
+The State of Reformation + 
+Temptations + 
+VII. REGENERATION AND THE LIFE OF CHARITY + 
+The New Birth + 
+The New Life of Charity + 
 VIII. THE CONJUGIAL LIFEI.
-
-The Holiness of Marriage
-
-The Love of Sex
-
-The Meeting of Souls
-
-Marriage and the Wisdom of Life
-
+The Holiness of Marriage + 
+The Love of Sex + 
+The Meeting of Souls + 
+Marriage and the Wisdom of Life + 
 IX. THE CONJUGIAL LIFEII.
-
-Husband and Wife
-
-Courtship and Betrothal
-
-Conjunction in marriage
-
-The Love of Offspring
-
-The Preservation of Marriage
-
-X. THE DIVINE PROVIDENCE AND ITS LAWS
-
-The Lords Government
-
-The Laws of the Divine Providence
-
-XI. THE SUCCESSIVE DISPENSATIONS AND THE LAST JUDGMENT
-
-The Racial Man
-
-The Preparatory Dispensations
-
-The Necessity of a Church
-
-The Judgment on the Churches
-
-The Consummation of the Age
-
-XII. THE SECOND ADVENT AND THE NEW CHURCH
-
-The Spiritual Advent of the Lord
-
-The New church at First among a Few
-
-The External Church
-
-The Church Universal and the Church Specific
-
-The New Church as the Crown of the Churches
-
+Husband and Wife + 
+Courtship and Betrothal + 
+Conjunction in marriage + 
+The Love of Offspring + 
+The Preservation of Marriage + 
+X. THE DIVINE PROVIDENCE AND ITS LAWS + 
+The Lords Government + 
+The Laws of the Divine Providence + 
+XI. THE SUCCESSIVE DISPENSATIONS AND THE LAST JUDGMENT + 
+The Racial Man + 
+The Preparatory Dispensations + 
+The Necessity of a Church + 
+The Judgment on the Churches + 
+The Consummation of the Age + 
+XII. THE SECOND ADVENT AND THE NEW CHURCH + 
+The Spiritual Advent of the Lord + 
+The New church at First among a Few + 
+The External Church + 
+The Church Universal and the Church Specific + 
+The New Church as the Crown of the Churches + 
 SUPPLEMENT: A Brief History of the New Church
+----
 
-INTRODUCTION
+// Note: the Brief History Supplement is not evident
+
+<<<
+
+== INTRODUCTION
 
 Certain fundamental doctrines enter into all religious instruction in the New Church. Yet it is of value from time to time to set forth these general teachings in a systematic fashion, so as to give to all a proper balance and weight. It is also useful to review our doctrines to test our understanding of their truth and consistency and to see them in contrast to the opposite falsities.
 
@@ -163,9 +97,9 @@ There is also mention of four essentials of the Churchthe knowledge
 
 These essentials enter into all the doctrines of the Church. The doctrines themselves are the fundamentals or foundations of the New Church, and are symbolized by the foundations of the New Jerusalem, fashioned of twelve kinds of precious stones. So far as these basic doctrines are founded in a mans affections, they will rise into mighty walls of salvation and give entire protection against the influx of evils and falsities from hell.
 
-I. GOD THE CREATOR
+== I. GOD THE CREATOR
 
-The Existence of God
+=== The Existence of God
 
 The first of the church is the knowledge that there is a God and that He is to be worshiped. His first quality to be known is that He created the universe and that the created universe subsists from Him (AC 6879).
 
@@ -221,7 +155,7 @@ When the true knowledge of God has been so contorted by false conceptions that i
 
 * * *
 
-Gods Essence, Quality, and Power.
+=== Gods Essence, Quality, and Power.
 
 As already indicated, there are those who believe that human reason unaided can arrive at the idea that there is a God. But actually, what reason can prove it at best only the existence of a First Cause or an unlimited or infinite something which is the origin of all finite things. And such reasonings by themselves and up by regarding this First Cause as an inexhaustible ocean of blind energy or as identical with the interiors of nature.
 
@@ -275,7 +209,7 @@ Thus mans eternal destiny is determined on earth, for good or for ill. For ill, 
 
 * * *
 
-II. THE LORD THE REDEEMER
+== II. THE LORD THE REDEEMER
 
 Sin, Truth, and Prophecy
 
@@ -368,7 +302,7 @@ The Holy Spirit is present as the Spirit or spiritual sense within the Word. The
 
 To the New Church, the Lord comes in the Writings as the Spirit of truth which shall lead to all truth; of which He said, I will not leave you comfortless; I will come unto you (John 14:16, 17).
 
-III. THE NATURE AND DESTINY OF MAN
+== III. THE NATURE AND DESTINY OF MAN
 
 What is Man?
 
@@ -499,7 +433,7 @@ This call for eternal service in the realm of the spirit is the end of creation,
 
 * * *
 
-IV. THE WORDTHE MEANS OF SALVATION
+== IV. THE WORDTHE MEANS OF SALVATION
 
 The end and object of creation is a heaven from the immortal spirits of men. But although this is the destiny appointed for every man, he is free to accept or refuse the means by which heaven is reached and by which conjunction with God and an attunement of mans will to the Divine laws are attained. No such conjunction is possible unless God in some manner reveals Himself to men and makes known the purposes of mans immortal life.
 
@@ -604,7 +538,7 @@ The doctrine which is drawn from the sense of the letter of the Word is the doct
 
 * * *
 
-V. HEREDITY, MORAL GROWTH, AND REPENTANCE
+== V. HEREDITY, MORAL GROWTH, AND REPENTANCE
 
 Mans Evil Heredity
 
@@ -683,7 +617,7 @@ Repentance is the beginning of the long process of reformation and regeneration.
 
 * * *
 
-VI. REFORMATION AND TEMPTATION
+== VI. REFORMATION AND TEMPTATION
 
 Reformation: a Preparation for Regeneration
 
@@ -777,7 +711,7 @@ The result of the whole process of Reformation, with its struggles and fluctuati
 
 * * *
 
-VIII. REGENERATION, AND THE LIFE OF CHARITY
+== VII. REGENERATION, AND THE LIFE OF CHARITY
 
 The New Birth
 
@@ -862,7 +796,7 @@ The whole of regeneration looks to the purification of the natural man and the r
 
 * * *
 
-VIIITHE CONJUGIAL LIFEI
+== VIII. THE CONJUGIAL LIFE I
 
 The Holiness of Marriage
 
@@ -946,7 +880,7 @@ For this reason wisdomas the parent of conjugial lovecannot come into existence 
 
 * * *
 
-IX. THE CONJUGIAL LIFEII
+== IX. THE CONJUGIAL LIFE II
 
 Husband and Wife
 
@@ -1034,7 +968,7 @@ Conjugial love, with its companion love, the love of offspring, cannot come into
 
 * * *
 
-X. THE DIVINE PROVIDENCE AND ITS LAWS
+== X. THE DIVINE PROVIDENCE AND ITS LAWS
 
 The Lords Government
 
@@ -1126,7 +1060,7 @@ To account and love these laws of His providence and to cooperate with them is t
 
 * * *
 
-XI. THE SUCCESSIVE DISPENSATIONS AND THE LAST JUDGMENT
+== XI. THE SUCCESSIVE DISPENSATIONS AND THE LAST JUDGMENT
 
 The Racial Man
 
@@ -1222,7 +1156,7 @@ Judgment is wrought by truth. The Lord came to judgment as the Son-of-Man, as th
 
 * * *
 
-XII. THE SECOND ADVENT AND THE NEW CHURCH
+== XII. THE SECOND ADVENT AND THE NEW CHURCH
 
 The Spiritual Advent of the Lord
 
@@ -1270,8 +1204,7 @@ The External Church
 One of the grave falsities of the consummated church is the belief that man is justified and saved by faith alone, without the works of charity. This falsity cannot be eradicated except by a life according to the Lords commandments, or according to His truths of doctrine; a life of daily repentance and usefulness.
 
 This principlethat our religious confession must be carried out in lifenecessarily means that the Church itself must be not only an internal church but at the same time an external church. It must have not only a soul but a body an external organization for the performance of those common uses of worship and instruction by which it may become an instrument of the Divine providence for the salvation of souls. The essential structure of such an external church (or organization of the church) is indicated in the Heavenly Doctrine. The office called the priesthood should govern those things with men that relate to heaven, and thus be responsible for ecclesiastical affairs; and among priests as among civil magistrates there must be subordination, lest any one from caprice or ignorance should permit evils which are contrary to order. Priests should teach the people and by truths lead them towards the good of life, but ought to compel no one to believe, nor claim any authority over the souls of men whose interior states they cannot know
-(HD 311-318). They should teach according to the doctrine of their church, but place the final authority of truth in the Word. They and their people alike should not put their trust in the decisions of any council or on any man-made creed, but seek enlightenment from the revealed truth of the Word where the Lord Himself speaks to men (HD
-315; TCR 489, 621).
+(HD 311-318). They should teach according to the doctrine of their church, but place the final authority of truth in the Word. They and their people alike should not put their trust in the decisions of any council or on any man-made creed, but seek enlightenment from the revealed truth of the Word where the Lord Himself speaks to men (HD 315; TCR 489, 621).
 
 Beyond these fundamental teachings respecting the order of the external church, such is said in the Writings which throws light on how the cooperation of the laity with the clergy can be organized, how the worship of the church can be conducted, how the church can care for the instruction of its children, further the advance of its people in the understanding of the Word, and labor in the promulgation of its message. In the application of the doctrine to these uses, practical experience and the wisdom and illustration which the performance of such uses bring, are necessary; and as history has already shown, the receivers of the Writings have organized widely different types of church-bodies and have in different states and times conceived their duties in various ways and with different degrees of visible results.
 
@@ -1303,8 +1236,7 @@ Even so, it is among the remnant in Christian lands that the New Church is first
 
 In the meantime, the New Church, although its earthly organizations be small and its first state external, will suffice to serve as the vital organs of the Lords universal church, which nearly expired because of the failure of the former Christian Church (AR 476). The New Church is called the New Christian Church or a New Church truly Christian. By its establishment as distinct from the old, the Christian Church ... which is now at an end may be said to rise again and as it were revive and draw breath through heaven from the Lord (Coro. 1; CL 532). For with the revelations of the Second Advent Christianity itself is only now beginning to dawn (TCR 700).
 
-And because the New Church in the spiritual world will draw to itself all those from Christendom who approach the Lord and perform repentance, it may be said that these constitute a universal New Church; which is signified by the seven churches in the Apocalypse (AR
-69, 87, 88). In the sight of heaven, all those from whom a New Church can be formedand who are thus potentially of the New Churchbelong to the universal New Church; even as our own children are prospectively of the New Church.
+And because the New Church in the spiritual world will draw to itself all those from Christendom who approach the Lord and perform repentance, it may be said that these constitute a universal New Church; which is signified by the seven churches in the Apocalypse (AR 69, 87, 88). In the sight of heaven, all those from whom a New Church can be formedand who are thus potentially of the New Churchbelong to the universal New Church; even as our own children are prospectively of the New Church.
 
 Yet no man or spirit can perform the functions of the specific church until he comes to acknowledge the Lord in His Second Advent and by the power of the Heavenly Doctrine renounces the evils of his heredity and the falsities of the former churches.
 
