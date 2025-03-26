@@ -1,85 +1,13 @@
 = Fundamentals of the New Church - A Series of Addresses
 By Hugo Lj. Odhner
-:toc: preamble
-:toclevels: 2
+include::../template-attributes.adoc[]
 
 By Hugo Lj. Odhner + 
 Bryn Athyn + 
 Pennsylvania + 
 1947
 
-----
-C O N T E N T S + 
-INTRODUCTION + 
-I. GOD THE CREATOR + 
-The Existence of God + 
-Gods Essence, Quality, and Power + 
-The Creation of the Universe + 
-II. THE LORD THE REDEEMER + 
-Sin, Truth, and Prophecy + 
-The Divine Incarnation + 
-Some Laws implied in the Advent + 
-The Lords States of Humiliation and of Glorification + 
-The Divine Trinity + 
-III. THE NATURE AND DESTINY OF MAN + 
-What is Man?
-Immortality + 
-Mans Equipment for Eternal Life + 
-Death, the Gateway of the Spiritual World + 
-The World of Spirits + 
-The Nature of the Spiritual World + 
-Judgment and Instruction + 
-The Hells + 
-The Heavenly Kingdom + 
-IV. THE WORDTHE MEANS OF SALVATION + 
-Primeval Revelation + 
-The Need for a Written Revelation + 
-The Inspired Scriptures + 
-Accommodations of Truth + 
-The Uses of Correspondences + 
-The Spiritual Sense of the Word + 
-The Word in its Fullness + 
-Revelation of the Spiritual Sense + 
-V. HEREDITY, MORAL GROWTH, AND REPENTANCE + 
-Mans Evil Heredity + 
-Mens Moral Development + 
-The Functions of Remains and of Natural Good + 
-Repentance + 
-VI. REFORMATION AND TEMPTATION + 
-Reformation: A Preparation for Regeneration + 
-The State of Reformation + 
-Temptations + 
-VII. REGENERATION AND THE LIFE OF CHARITY + 
-The New Birth + 
-The New Life of Charity + 
-VIII. THE CONJUGIAL LIFEI.
-The Holiness of Marriage + 
-The Love of Sex + 
-The Meeting of Souls + 
-Marriage and the Wisdom of Life + 
-IX. THE CONJUGIAL LIFEII.
-Husband and Wife + 
-Courtship and Betrothal + 
-Conjunction in marriage + 
-The Love of Offspring + 
-The Preservation of Marriage + 
-X. THE DIVINE PROVIDENCE AND ITS LAWS + 
-The Lords Government + 
-The Laws of the Divine Providence + 
-XI. THE SUCCESSIVE DISPENSATIONS AND THE LAST JUDGMENT + 
-The Racial Man + 
-The Preparatory Dispensations + 
-The Necessity of a Church + 
-The Judgment on the Churches + 
-The Consummation of the Age + 
-XII. THE SECOND ADVENT AND THE NEW CHURCH + 
-The Spiritual Advent of the Lord + 
-The New church at First among a Few + 
-The External Church + 
-The Church Universal and the Church Specific + 
-The New Church as the Crown of the Churches + 
-SUPPLEMENT: A Brief History of the New Church
-----
+
 
 // Note: the Brief History Supplement is not evident
 
@@ -89,8 +17,7 @@ SUPPLEMENT: A Brief History of the New Church
 
 Certain fundamental doctrines enter into all religious instruction in the New Church. Yet it is of value from time to time to set forth these general teachings in a systematic fashion, so as to give to all a proper balance and weight. It is also useful to review our doctrines to test our understanding of their truth and consistency and to see them in contrast to the opposite falsities.
 
-In attempting such a review we are immediately faced with the question, What are the fundamentals of the New Church? The Writings give the doctrines in differing order and series. The essentials of the New Church are given as two, the acknowledgment of the Lord or the worship of Him in His Divine Human, and, a life according to the precepts of the Decalogue (AR 491, 529, etc.). Sometimes the acknowledgment of God, and repentance are classed as the two universals of religion (DP
-340:2). The two essentials are also mentioned as (1) that the Human of the Lord is Divine, and (2) that love to the Lord and charity towards the neighbor make the church (AC 4723).
+In attempting such a review we are immediately faced with the question, What are the fundamentals of the New Church? The Writings give the doctrines in differing order and series. The essentials of the New Church are given as two, the acknowledgment of the Lord or the worship of Him in His Divine Human, and, a life according to the precepts of the Decalogue (AR 491, 529, etc.). Sometimes the acknowledgment of God, and repentance are classed as the two universals of religion (DP 340:2). The two essentials are also mentioned as (1) that the Human of the Lord is Divine, and (2) that love to the Lord and charity towards the neighbor make the church (AC 4723).
 
 There is also mention of four essentials of the Churchthe knowledge
 (cognition) of God, the knowledge of the goods of charity, the knowledge of the truths of faith, and a life according to them (Canons, Rdn i. 7).
@@ -169,8 +96,7 @@ For Lifethe original Substanceis not motion or energy, but is Love and Wisdom, t
 
 But Love creates only by Wisdom. Love is wise. The thought may occur that love as we know it is not always wise, but is impulsive, unrestrained, blind, passionate, and floundering,reaching out for foolish satisfactions which end in disaster and destroy what it seems to create. But true love is not blind, nor is it impatient or ungoverned by wisdom. And the Divine Love is a one with its Wisdom. Wisdom is its form, its law, its mode of action; and thus Wisdom carries out what Love conceives. The Divine Wisdom may therefore be seen to proceed from the Divine Love as the creative law and order which forms all finite things, and rules them.
 
-This is a fundamental idea about God the Creator; God is Order itself. He is also omnipotentall-powerful to carry out His love. But, many have asked, how can God be omnipotent if He is tied to laws of order? Such questions spring from the absurdities of human concepts of love and of power. God is not an arbitrary tyrant who delights in fulfilling every fickle whim for the sake of the pleasant sense of His power, and who changes the laws to suit the moment. This is the way of disorderly love, an ignorant love which is flouted by its own plans. God is not ignorant. He is omniscient, all-knowing. He has infinite foresight of all things, all possible things, from eternity to eternity,knows all things (even the most trivial or minute) which are according to order, and thus also what is done or will be done contrary to that order (TCR
-60-62).
+This is a fundamental idea about God the Creator; God is Order itself. He is also omnipotentall-powerful to carry out His love. But, many have asked, how can God be omnipotent if He is tied to laws of order? Such questions spring from the absurdities of human concepts of love and of power. God is not an arbitrary tyrant who delights in fulfilling every fickle whim for the sake of the pleasant sense of His power, and who changes the laws to suit the moment. This is the way of disorderly love, an ignorant love which is flouted by its own plans. God is not ignorant. He is omniscient, all-knowing. He has infinite foresight of all things, all possible things, from eternity to eternity,knows all things (even the most trivial or minute) which are according to order, and thus also what is done or will be done contrary to that order (TCR 60-62).
 
 The Lord exercises His Omnipotence according to the laws of His Love, and thus according to the laws of His order, which (He foresees) will fulfill the end to which His Love looks. The Lord never departs from His own laws. He cannot do evil. He cannot act contrary to His own Love. Certainly this cannot be called a limitation on His Love. But there is one law of His Love which ordains that men shall be created in the likeness of God, in that man should have freedom in spiritual things, freedom to choose a love of his own, and act from it within the compass of the spiritual and natural laws of the universe. This law of the permission of evil may seem as a limitation upon the Lords omnipotence. But is so appears only to those who do not comprehend the quality of love. For love does not use its power to compel except so far as it is necessary in order to protect the freedom of others. Order is necessary for freedom to exist. The laws of God within the whole structure of creation al look to the end that the Divine love may be returned in freedom or not at all.
 
@@ -178,7 +104,7 @@ It was in order that he might be free to respond to the Lords Love that man was 
 
 * * *
 
-The Creation of the Universe
+=== The Creation of the Universe
 
 In order that a just idea might be gained of the universe created by God, the Writings stress the following universal truths* as prerequisite:
 
@@ -190,8 +116,7 @@ In order that a just idea might be gained of the universe created by God, the Wr
 
 3. These suns are the source of their respective worlds. All things which are from the Sun of heaven are substantial and are called spiritual; while all things from the sun of nature are material and are called natural.
 
-4. In each world there are three discrete degrees, called degrees of height, and thence three degrees of atmosphere, as well as derivative substances (or, in the natural world, matters) of three degrees (DLW
-302). In the spiritual world these three degrees are the planes for three discrete heavens; and these answer to the three degrees within every human mind.
+4. In each world there are three discrete degrees, called degrees of height, and thence three degrees of atmosphere, as well as derivative substances (or, in the natural world, matters) of three degrees (DLW 302). In the spiritual world these three degrees are the planes for three discrete heavens; and these answer to the three degrees within every human mind.
 
 5. There is a correspondence between those things which are in the spiritual world and those things which are of the natural world; so that spiritual things can inflow and vivify the corresponding natural things.
 
@@ -211,7 +136,7 @@ Thus mans eternal destiny is determined on earth, for good or for ill. For ill, 
 
 == II. THE LORD THE REDEEMER
 
-Sin, Truth, and Prophecy
+=== Sin, Truth, and Prophecy
 
 The entrance of sin into the world came as a perversion of the Divine order. It came as an act of free choices by men, even as is described in the symbolic story of Adam and Eve whotempted by the Serpentate of the forbidden tree. The Serpent was the symbol of mans sensual nature which rose into opposition against his reason and inner perception. And it is then said that Jehovah God cursed the Serpent, and foretold that the Seed of the Woman would bruise its head although the Serpent would bruise His heel. The Writings explain that this was the first prophetic intimation that the Lord would descend and be born on earth from a woman, and thus overcome the hells.
 
@@ -230,12 +155,11 @@ Truth can however be present even if it is not comprehended. The laws of nature 
 
 The power of the Messianic prophecies was such that the roving hordes of evil spirits in the world of spirits were held under the threat of imminent judgment. Through prophecy, good spirits gain sufficient truth to protect them against the persuasions of the hells. Yet this could be continued only so long as there were human minds on earth who saw glimpses of genuine truth within the rituals and representations of the church and the Word. The Word had to be received by men in their minds, if the truths of prophecy were to have any power and meaning in the world of spirits.
 
-The time came when this was no longer possible; when there was not even any natural good from a spiritual origin, among men (Ath. Cr. 49; AC
-10355); when there was no reception of the Divine truth in the ultimate degree with any in the Jewish church (Ath. Cr. 177). The minds of men were closed to the Divine presence. Prophecy had lost its power. The Lord could not set by inspiring prophets. He could find a dwelling-lace only in that lowest corporeal plane which is ruled not from the minds of men but from their inmost soul which is above their consciousness and their power to pervert. This we see as the final reason why the Word was made fleshwhy the Lord assumed a body in the virgin womb of Mary, a Jewess of Nazareth in Galilee.
+The time came when this was no longer possible; when there was not even any natural good from a spiritual origin, among men (Ath. Cr. 49; AC 10355); when there was no reception of the Divine truth in the ultimate degree with any in the Jewish church (Ath. Cr. 177). The minds of men were closed to the Divine presence. Prophecy had lost its power. The Lord could not set by inspiring prophets. He could find a dwelling-lace only in that lowest corporeal plane which is ruled not from the minds of men but from their inmost soul which is above their consciousness and their power to pervert. This we see as the final reason why the Word was made fleshwhy the Lord assumed a body in the virgin womb of Mary, a Jewess of Nazareth in Galilee.
 
 * * *
 
-The Divine Incarnation
+=== The Divine Incarnation
 
 Thus, in the fullness of time, the Lord Godwho was called Jehovah in the Scriptureassumed flesh and was born into the world and lived among men as Jesus Christ, the only-begotten Son of God. The Father which begat Him was the infinite Divine Being, or, what is the same, the Divine Love itself.
 
@@ -249,21 +173,21 @@ After this complete glorification and union with the Divine, the Lord was no lon
 
 * * *
 
-Some Laws, Implied in the Advent
+=== Some Laws, Implied in the Advent
 
 The birth of the Lord into the world cannot be understood except in the light of certain universal laws.
 
-1. The first is the law that all life tends by a continual endeavor to express itself in ultimates, or in the lowest and last things of creation. This is true of all degrees of the spiritual world, which is the Source of every soul, the plant soul, the souls of animals, and the souls of men. These souls are spiritual forms receptive of life, and their constant endeavor is to produce uses which ultimately represent the affection or spiritual conatus which is their origin and potentiality. The same is true of every affection and thought in a mans mind. It desires to clothe itself in deeds and words; desires to mold ultimates into its own image, in order to be received and to attain permanency and perpetuity.
+`1.` The first is the law that all life tends by a continual endeavor to express itself in ultimates, or in the lowest and last things of creation. This is true of all degrees of the spiritual world, which is the Source of every soul, the plant soul, the souls of animals, and the souls of men. These souls are spiritual forms receptive of life, and their constant endeavor is to produce uses which ultimately represent the affection or spiritual conatus which is their origin and potentiality. The same is true of every affection and thought in a mans mind. It desires to clothe itself in deeds and words; desires to mold ultimates into its own image, in order to be received and to attain permanency and perpetuity.
 
 If such is the case with finite states and forms of life, the origin of this endeavor is to be found in the Divine itself. The Divine created the world that there might be a reception of the Divine love and a revelation of the Divine truth, the Divine Human form. In mankind, this Divine Human found an image and a likeness, a reception and a representation, so long as the Divine order of creation was maintained. But when, on our earth, this order no longer could be found, the Divine had no basis for its section, unless it followed the way of its own order and assumed flesh in the ultimates of the world and by this means expressed the essence of its Love by giving itself unstintingly for the salvation of the race and by revealing itself as the Divine Man who showed men the laws of truly human life.
 
-2. The second universal truth which assists us to grasp the significance of the Incarnation, is that which discloses that the human race on all the innumerable planets of the universe isin the Lords sight, and thus trulya Grand Human Form, in which the inhabitants of each earth have their specific functions for the whole. Each race has its peculiar genius and potential uses. Any of these planetary types of men may fall into evil and sin. Each is led, instructed, and protected in a different way, and has its own heavens and (if needs be) its own hells. Yet, because the spiritual world is not in space and time, there is a communion between all, and an interchange of influences. The mutual functions may be described as those of the organs or uses of one human being. The race on our earthby the Fallforsook its celestial function and its genius became such that it can serve only as the external senses that serve the body and mind of man. This earth therefore has assumed an ultimate useits inhabitants being initiated into natural truths and natural sciences in a unique way (SD 4663:11). Therefore Divine revelation here took the aspect of a written Word, which by its correspondences passes even into the heavens, and by this means its truths of faith can be communicated to the angels of other earths. Those among men who bring with them into the other world the knowledges of truth and good from our Word can serve as ministries for the instruction of others in the vast spiritual universe who may come into a need for the knowledge of God as incarnate Truthor as Divine Natural Truth. If the Lords choice of our earth for His Incarnation was a sign of His love of this earth above otherson the principle that those are best loved to whom most is forgiventhen the Lord indeed has loved our earth more than others (SD 1531). Yet this is said especially in view of the fact that our race can be in natural truths which are the ultimate foundation in which the spiritual and celestial truths of heaven can be enrooted that order may be perfect.
+`2.` The second universal truth which assists us to grasp the significance of the Incarnation, is that which discloses that the human race on all the innumerable planets of the universe isin the Lords sight, and thus trulya Grand Human Form, in which the inhabitants of each earth have their specific functions for the whole. Each race has its peculiar genius and potential uses. Any of these planetary types of men may fall into evil and sin. Each is led, instructed, and protected in a different way, and has its own heavens and (if needs be) its own hells. Yet, because the spiritual world is not in space and time, there is a communion between all, and an interchange of influences. The mutual functions may be described as those of the organs or uses of one human being. The race on our earthby the Fallforsook its celestial function and its genius became such that it can serve only as the external senses that serve the body and mind of man. This earth therefore has assumed an ultimate useits inhabitants being initiated into natural truths and natural sciences in a unique way (SD 4663:11). Therefore Divine revelation here took the aspect of a written Word, which by its correspondences passes even into the heavens, and by this means its truths of faith can be communicated to the angels of other earths. Those among men who bring with them into the other world the knowledges of truth and good from our Word can serve as ministries for the instruction of others in the vast spiritual universe who may come into a need for the knowledge of God as incarnate Truthor as Divine Natural Truth. If the Lords choice of our earth for His Incarnation was a sign of His love of this earth above otherson the principle that those are best loved to whom most is forgiventhen the Lord indeed has loved our earth more than others (SD 1531). Yet this is said especially in view of the fact that our race can be in natural truths which are the ultimate foundation in which the spiritual and celestial truths of heaven can be enrooted that order may be perfect.
 
 The advent of the Lord on earth was therefore His advent not only to those who beheld Him in the world, or only to the succeeding generations who learn of it through the Gospels, but also to the entire spiritual world of every earth. The advent of the Lord in every case is the coming of the Divine Truth about the Divine Human, as revealed in historical fact before the natural minds of men.
 
 Nor is there any essential difference between the seeing of the Lord by the twelve apostles and the seeing of the Lord through the Word by our natural understanding. In every case it is the mind, not the body, that sees.
 
-3. But if we are to grasp the meaning of the Incarnation it is also necessary to understand that the urgent need for its accomplishment depended on the conditions in the spiritual world at the time of the Advent. The object of the Lords coming was to restore freedom among the spirits in that world, to subjugate the hells, and to order the heavens. For at that time evil spirits had gained dominion in the world of spirits and had established strongholds at the gates of heaven.
+`3.` But if we are to grasp the meaning of the Incarnation it is also necessary to understand that the urgent need for its accomplishment depended on the conditions in the spiritual world at the time of the Advent. The object of the Lords coming was to restore freedom among the spirits in that world, to subjugate the hells, and to order the heavens. For at that time evil spirits had gained dominion in the world of spirits and had established strongholds at the gates of heaven.
 
 It might be supposed that the hells could have been subjugated by a direct act of Omnipotence or by the power of the angelic hosts entered upon the devils who had erupted from their hells and were establishing their persuasive rule over the spirits before the Advent exhorted a powerful influenceprotecting the simple and limiting the extent to which the evil could dominate over the world of spirits and thus over men. Yet the heavens also are from mankind and are not pure nor exempt from failure. And it was a questions not of actual power but of wisdom in its use. The Lord might indeed exert His omnipotent agencies over the hells directly, but His mercy demanded that it be done in such a manner that the self-life of the devils was not annihilated but that their freedom also should be preserved; so that they might be convicted in their own eyes and that their choice of a life in hell be their own choice which they would prefer to any other even though it involved their eternal confinement. Only such a judgment could be decisive and permanent. And such a judgment could not come by mere exertion of force.
 
@@ -273,7 +197,7 @@ In the normal course of events, evil spirits are judged and unmasked so far as t
 
 * * *
 
-The Lords States of Humiliation and Glorification
+=== The Lords States of Humiliation and Glorification
 
 The Lordthe Divine Spiritwas born as a man. His DivinityHis Divine conceptionwas not even recognized, except by a few, until years had passed. If immediate recognition had been His desire, He might have come down from heaven visibly, assuming a body from the elements; come with stupendous miracles to compel faith and obedience. But not so. He was born in poverty, in naked innocence. His lifein great partwas spent in obscurity. His public mission was one of teaching. What miracles of healing and of extraordinary power He performed were reserved for those in dire need and done before those who already had faith in Him.
 
@@ -291,7 +215,7 @@ It is told in the Writings that the Lord, by glorifying the Human in the world, 
 
 * * *
 
-The Divine Trinity
+=== The Divine Trinity
 
 That the Lord God thus made visible was to be the object of our worship was never doubted in the early Apostolic Church. In Jesus Christ, the teaching was, dwelleth the fullness of Deity as in its Body (Col. 2:9)
 Through Him the Divine is to be approached. He had said to Philip, He that hath seen the Father (John 14:9). In Him the Human Essence was made identical with the Divine Essence. But while He was yet in the world, before the Human was fully glorified, it was said that the Holy Spirit is the Spirit of truth which proceeds from the Lords glorified Human, revealing the Mind of God-Man to men and giving them enlightenment.
@@ -304,7 +228,7 @@ To the New Church, the Lord comes in the Writings as the Spirit of truth which s
 
 == III. THE NATURE AND DESTINY OF MAN
 
-What is Man?
+=== What is Man?
 
 It is fundamental to the thought of the New Church that man is an immortal being destined to live forever in the spiritual world. He is essentially a spirit clothed while on earth with a material body.
 
@@ -318,7 +242,7 @@ The prolonged infancy of man is a significant indication of the real purpose of 
 
 * * *
 
-Immortality
+=== Immortality
 
 The Writings teach that the end of creation is a heaven from the human race. Indeed, the most primitive races of man have had the faith in survival after death. Every Divine revelation has taughtor taken for grantedmans immortality. If it were not so, the Lord said, I would have told you! (John 14:2). Even reason, if at all enlightened, rebels at the thought that the human mind should be dissipated just at the point where it has gathered the real fruits of the wisdom of life and recognized the deeper objective of existence. Reason admits that an unending life on earth could never answer the aspirations of man for a better lifeeven as Paul wrote, Flesh and blood cannot inherit the kingdom of God (I Cor. 15:50). The mind beats its pinions of thought against the prison walls of the world, as if sensing a brighter, freer realm beyond the confines of space and time.
 
@@ -333,7 +257,7 @@ This, then, is one of the reasons for a written Revelation being given on this e
 
 * * *
 
-Mans Equipment for Eternal Life
+=== Mans Equipment for Eternal Life
 
 Since heaven is mans intended destiny, his mind is so equipped that it may prepare itself while on earth for a life in heaven. Indeed it is ordered in discrete degrees, like a Jacobs ladder which reaches from earth even to the throne of God.
 
@@ -345,7 +269,7 @@ Such is the complete preparation for heavena process which the doctrine describe
 
 * * *
 
-Death, the Gateway of the Spiritual World
+=== Death, the Gateway of the Spiritual World
 
 Mans body of matter was never part of his real self, nor did it ever live. That which lives in the body is the spirit and within this the soul. The death which men fear so much is but the discarding of that material vestment which accommodated the spirit to the world of fixed spaces and times and thereby compelled the spirit to continual necessities of being in contact with varieties not of its own choosing, limiting its greater freedom, that of a spiritual choice.
 
@@ -363,7 +287,7 @@ But spirits who are rational and endowed with common sense readily receive instr
 
 * * *
 
-The World of Spirits
+=== The World of Spirits
 
 The first discovery which they make is that in the innumerable communities of the vast World of Spirits there are parallels of every type of human activity. Man remains man after death. He has not only a similar human form, with all its organs and members, the same senses
 (now far more keen), and a similar outward environment with plants and animals, cities, lakes and mountains; but he also retains his former instinctive yearnings and desires. He has not lost his sex, nor his faculties and characteristics of mind, nor his special interests and loyalties. His former habits still drive him towards familiar routines. His faith is unchangedand he naturally drifts into association with those of his natural or racial genius and his religious confession.
@@ -377,7 +301,7 @@ It is a city of transients. For the World of Spirits is intermediate between Hea
 
 * * *
 
-The Nature of the Spiritual World
+=== The Nature of the Spiritual World
 
 Here we must of necessity digress somewhat to consider briefly the nature of the spiritual world. The Writings assure us above all that it is a real world. It was created by the Lord Himself for a twofold purpose. It ison the one handthe creative cause of all natural things and the source of all spiritual things. On the other hand, it is the abode for the spirits of men. Let us not imagine, with the s. c. idealists, that the spiritual world, with all that it contains, is simply a projection of human thought or some sort of a dream in the mind of God. It is substantial. It is the framework and substance in which the heavens are laid in ordered degreesfrom the Spiritual Sun, through the three atmospheres, down into the ultimates of heaven. It is the substance out of which the souls and minds of men are woven.
 
@@ -393,7 +317,7 @@ The spirits in the World of Spirits arein varying degreesin states which resembl
 
 * * *
 
-Judgment and Instruction
+=== Judgment and Instruction
 
 It is not of order that a spirit should remain long (or for more than a year) in the state of his externals, but that his externals should as soon as possible come to correspond to his internals. The spirit behaves in the other life as his mind did in this world. Yet as his ruling love comes to realize its freedom in the World of Spirits, it casts off the many mental inhibitions which training and prudence and heredity had imposed. The spirit then feels as if he had entered a new state of wakefulness, and as if he had passed from darkness into light. If he has endeavored to act from conscience and charity, he now is moved by interior affections and feels a profound blessedness. And he grows in bodily grace and beauty. A new understanding enlightens his tasks, which he sees as symbols or forms of spiritual uses that look to the promotion of charity and of spiritual insight.
 
@@ -405,7 +329,7 @@ The abode in the World of Spirits at this day may not last more than from twenty
 
 * * *
 
-The Hells
+=== The Hells
 
 By hell, the Writings do not mean a place of material firea lake of burning brimstonewhere condemned souls are tortured eternally by a crew of devils presided over by the dread Satan, prince of the world. For Satan, or the Devil, is but a symbol of all the hells. But hell is the final abode of those spirits who on earth had confirmed themselves in the love of self and thus in the lusts of dominating and of possessing the goods of others. Such spirits make their own hell. For hell, like heaven, is within us. It is a state, not a place; a state wherein spirits delight to live in adulteries and thefts and deceits, in lying and envy, and in the insane phantasies that such lusts engender. It is a state of continual rebellion against God and of hatred towards all who are in good or in innocence, whom the wicked seek to seduce into evil and mislead by falsities.
 
@@ -415,7 +339,7 @@ The devils, like men, live in societies. But their evil delights and disordered 
 
 * * *
 
-The Heavenly Kingdom
+=== The Heavenly Kingdom
 
 Hell is derived from self. But it is the Divine of the Lord which makes heaven. Those only enter heaven who gratefully accept the Lords offered provisions for their happiness. The angels are of many kinds and classes. Someindeed a large partare infants or children who have died as such and have been reared in heaven. The rest are men and women who sought with sincerity to live according to the love of God as they know themlaws of mercy, charity, and justiceand who shunned evils as sins against God.
 
@@ -437,7 +361,7 @@ This call for eternal service in the realm of the spirit is the end of creation,
 
 The end and object of creation is a heaven from the immortal spirits of men. But although this is the destiny appointed for every man, he is free to accept or refuse the means by which heaven is reached and by which conjunction with God and an attunement of mans will to the Divine laws are attained. No such conjunction is possible unless God in some manner reveals Himself to men and makes known the purposes of mans immortal life.
 
-Primeval Revelation
+=== Primeval Revelation
 
 There are those who believe that God has revealed His essential qualities in His very worksthat is, in Nature and especially in Man who was formed in His image and likeness. This was indeed true in most ancient times on our earth, and is still true with untold races of mankind on distant planets. So long as men remained in the order of their first creation, they were aware of the presence of the Divine Creator, felt themselves as vessels receptive of His inflowing life, and saw in each other, and in human virtues, continual representations of His love and His wisdom. In Nature they saw reflections of the human form. It spread about them as a vast theater which depicted the manifold uses and states of a celestial life. The Divine law was written in their hearts, and their reason was the spontaneous and willing means to carry out the implications of the order in which they were born.
 
@@ -447,7 +371,7 @@ It might be imagined that this state of spontaneous perception took away somethi
 
 * * *
 
-The Need for a Written Revelation
+=== The Need for a Written Revelation
 
 Unless communication with heaven had been restored by some other mode, mankind would have destroyed itself utterly. Mans spiritto be sane and wholesomemust somehow breathe the air of heaven and receive of its light. When his will became so corrupt by very birth that it was unmoved by the influx of heaven, there was no salvation for man unless the understanding could be instructed in spiritual truth and take over the government of his life from the evil will.
 
@@ -461,7 +385,7 @@ Such a mediate revelation as was provided through the written Word surpassedfor 
 
 * * *
 
-The Inspired Scriptures
+=== The Inspired Scriptures
 
 The Word was written from Divine inspiration. By this is meant that the Lord utilized the contents of the minds of certain men for the construction of a special series of ideas and words,a series which was so ordered as to reflect the order of heaven, which is the Divine order. The human writer of the sacred text was in each case specially appointed and prepared for his office. He may or may not have understood what he was writing. In no case did he understand more than the general meaning of it. His mind was but a storehouse from which the Lord drew forth the symbolsthe ideas and wordsneeded to instruct men and angels, each according to their capacity. In some cases, the prophet might first be introduced into a partial vision of the spiritual world. In other cases, he was simply directed by an unseen voice to write as if from dictation. At other times, he might write as if of his own choice, yet completely submissive to a Divine leading.
 
@@ -471,7 +395,7 @@ This epic of Divine redemption, with its fulfillment of Gods plan for mankind, a
 
 * * *
 
-Accommodations of Truth
+=== Accommodations of Truth
 
 Yet it is a law of human life that truth cannot be received except by degrees and in forms adapted to the states and uses of men. A child cannot be instructed in all the matters of adult life, but is taught only gradually, as his knowledge accumulates and his reason mature and so far as he can make use of the new knowledge. For new truth brings with it new responsibilities. Truth given to immature or unprepared or unworthy states is likely to be profaned and perverted or set to wrongful use. Give not that which is holy unto the dogs, neither cast ye your pearls before swine. Truth is holy, and must be protected from misunderstanding and abuse. Interior truths are therefore not given to men until the general truths in which they are concealed are first accepted.
 
@@ -483,7 +407,7 @@ Truth finds protection in symbolism. Therefore the Word was written in correspon
 
 * * *
 
-The Uses of Correspondences
+=== The Uses of Correspondences
 
 Correspondential writing had three purposes. To those who had something of perception, from a love of truth and good, it was a means of conveying spiritual truths; for where love is there comes also a perceptive understanding. This was the case when the Ancient Church was in its purity. On the other hand, the veiling of representatives protected the truth against profanation at the hands o the impious and the worldly, and also prevented those in simple, immature states from any deeper understanding than they could bear. Even the Lord, who spoke to the multitudes in parables, explained His meaning to the disciples in proverbs or similitudes; saying however, I have yet many things to say unto you, but ye cannot bear them now.... The time cometh when I
 will no more speak unto you in proverbs, but will show you plainly about the Father (John 16;12, 25).
@@ -495,7 +419,7 @@ This taken place by means of correspondences. For the conjunction of love, altho
 
 * * *
 
-The Spiritual Sense of the Word
+=== The Spiritual Sense of the Word
 
 The Wisdom of God which inspired the writings of the Word, still lodges in its pages. It is present there as a continuous prophecy of the heavenly life, and of the life of the incarnate Lord. The testimony of Jesus is the Spirit of prophecy (Rev. 19;10). This internal or spiritual sense is what the Lord referred to whenbeginning with Moses and all the prophetsHe expounded unto His disciples in all the Scriptures the things concerning Himself (Lev. 24:27); and when He said, It is the Spirit that quickeneth; the flesh profiteth nothing. The words that I speak unto you, they are Spirit and they are life
 (John 6:63). Without that Spirit, the Scriptures would contain only the words of men, and would not have the power to conjoin mankind with heaven.
@@ -506,12 +430,11 @@ The question went unanswered until it was revealed for the New Church that the W
 
 * * *
 
-The Word is in its Fullness in the Sense of the Letter
+=== The Word is in its Fullness in the Sense of the Letter
 
 The books thus stamped with the mark of Divine authorship are so written as to be fully impaired and therefore holy in their very wording. Although the Writings reveal the spiritual sense of this Word and disclose the heavenly doctrine latent within its letter, and present this internal sense and this heavenly doctrine in complete and distinct statements Divinely inspired and authorized; yet they in no wise impugn or minimize the literal sense of the Word as the ultimate lodgment of the Divine truth. The celestial and spiritual senses are not the Word, we read, without the natural sense, for they are like spirit and life without a body (TCR 214). The Divine truth is in its fullness, its holiness, and its power in the sense of the letter of the Word. The natural sense ... is the containant, the basis, and the firmament of its spiritual and celestial senses. And in the sense of the letter the superior senses are together in simultaneous order. Therefore there is conjunction with the Lord and consociation with the angels, by the sense of the letter of the Word (TCR 234).
 
-Spiritually viewed, the Word is an inseparable unity. To separate the spiritual sense from its literal sense and to place authority in the sensual appearances of Scripture, results in all manner of heresies and misunderstandings such as have caused a creeping spiritual paralysis in Christendom. To deny the power and holiness of the literal sense and seek to build a New Church on the spiritual sense alone, would be to build a house without a foundation or a mind without a body to protect it (TCR 213). Therefore Swedenborg was commissioned to teach the doctrines of the New Church through the Word, and he testifies that he received the things which pertained to these doctrines, not from any angel, but from the Lord Himself, and this while he read the Word (TCR
-779).
+Spiritually viewed, the Word is an inseparable unity. To separate the spiritual sense from its literal sense and to place authority in the sensual appearances of Scripture, results in all manner of heresies and misunderstandings such as have caused a creeping spiritual paralysis in Christendom. To deny the power and holiness of the literal sense and seek to build a New Church on the spiritual sense alone, would be to build a house without a foundation or a mind without a body to protect it (TCR 213). Therefore Swedenborg was commissioned to teach the doctrines of the New Church through the Word, and he testifies that he received the things which pertained to these doctrines, not from any angel, but from the Lord Himself, and this while he read the Word (TCR 779).
 
 Swedenborg was indeed intromitted into the spiritual world, and learned its arcana from the mouth of angels as well as from his own exploration. The opening of his spiritual senses enabled him to observe the full workings o the law of correspondences by which the Word was written, and to see the actual fulfillment in the other life of the prophesies about the last judgment, as well as to understand the spiritual states, the development of which are described in the internal sense of the Word. Yet his Writings were the product of a Divine inspiration, and the doctrine was given him while he read the Word and perceived its spiritual contents in their series. For every verse of the Scriptures, he found, communicated with one or more angelic societies.
 
@@ -522,7 +445,7 @@ cannot, for it is sealed (Isa. 29:11).
 
 * * *
 
-Revelation of the Spiritual Sense
+=== Revelation of the Spiritual Sense
 
 The letter killeth, but the Spirit giveth life (2 Cor. 3:6). The Word cannot be understood except by doctrine drawn therefrom. The naked spiritual teachings of the Word can indeed be seen by all, but they are not connected into a doctrine of genuine truth, a doctrine of love and charity, except with those who are in an affection of spiritual truth. And isolated truthsas matters of knowledgemay be wrongly joined up so as to defeat the ends of charity and confuse the mind, leading into actual falsities wherever evil affections or merely worldly states become dominant. The love of self and the world, and especially the love of exercising power from self, generated such falsities in the Christian Church, and thus caused the Word to be sealed with seven seals. It is the evils and falsities of men that seal up the Word with seals that only the Lord can open.
 
@@ -540,12 +463,11 @@ The doctrine which is drawn from the sense of the letter of the Word is the doct
 
 == V. HEREDITY, MORAL GROWTH, AND REPENTANCE
 
-Mans Evil Heredity
+=== Mans Evil Heredity
 
 Among the truths which are openly taught and constantly stressed even in the literal sense of Scripture is the truth concerning mans need of repentance. Isaiah the prophet exhorted his people, Cease to do evil, learn to do well. The Lord instructed His disciples to preach repentance and remission of sins to all nations. And the Writings state that repentance is the first thing of the church with man. But in the Writings these truths which make up the practical message in all former revelations are brought together into a doctrine which explains the reasons why repentance is so necessary, and the stages by which it can be accomplished.
 
-The teaching of the New Church is, that at this day man is born to evils of every kind, and that, unless he begins to remove them by actual repentance, he remains in them and cannot be saved. Unless man performs repentance, he remains in the sins into which he was born (TCR
-520; AR 224:6).
+The teaching of the New Church is, that at this day man is born to evils of every kind, and that, unless he begins to remove them by actual repentance, he remains in them and cannot be saved. Unless man performs repentance, he remains in the sins into which he was born (TCR 520; AR 224:6).
 
 The sins into which man is born do not mean sins in the sense of final guilt. It is indeed said that everyone has the guilt of evil from heredity, because guilt is predicated of the will; and the hereditary will is evil, and man feels it as his own (CL 448, 493e). But the expression refers back to the old Christian dogma of original sin, which supposed that Adams sin caused all his descendants to be cursed in the eyes of God, and to be held equally guilty for the trespass of their progenitor. To offset this belief, some Christians have instead insisted that every soul is born pure and innocent and undermined towards either sin or holiness.
 
@@ -561,7 +483,7 @@ This is the great marvel of human life. Animals have no power to change the ruli
 
 * * *
 
-Mans Moral Development
+=== Mans Moral Development
 
 Man is born corporeal and sensual. The appetites and impulses of his body dominate him. And as long as this is the case, he is living an almost animal life, and would continue to do so unless he were taught and trained by others. But this training by which he is fitted for life in the human family is at first very superficial and does not change his will. It is effected by appeals to his self-love, by fears and penalties, by rewards, and by the promise of a gratification of his various instincts. He learns to compel himself from the love of rewards and the dread of punishment. He learns how to get along with others by falling in with the demands of customs and obeying those in authority, he becomes mannerly and orderly, and conforms to social disciplines. He does as others do, whether this be good or bad. He forms habits, and takes pride in them. He enjoys the praise and approbation of others and grows in self-respect.
 
@@ -571,7 +493,7 @@ This is the story of the normal development of all men from infancy to adult age
 
 * * *
 
-The Functions of Remains and Natural Good
+=== The Functions of Remains and Natural Good
 
 Yet even the attainment of superficial human good by the self-control of moral life is not from mans hereditary nature, but from truth. And truth, natural intelligence and reason, are gifts of God. They stem from the inborn faculties of freedom and rationality. And they develop on the basis of those secret states of infancy which the Writings call remains of good and truthstates of delight stored interiorly in the mind when the man is unaware and when he is surrounded by attending angels. These states of remains are the first beginnings of mans understandingand are later reinforced by instruction in religious truths. They arelike all truthsloaned to man, and man thinks from them feeling as if he thought from himself. Therefore they give him freedom to resist selfish impulses, and to curb his evil will by rational and moral controls. Through them man can also receive, in the inmosts of his thought, an influx of the love of truth, which can serve as the seed of a possible regeneration, of a new motivation, a new will.
 
@@ -583,7 +505,7 @@ The moral life, without a spiritual good to inspire it, is but a purposeless, tr
 
 * * *
 
-Repentance
+=== Repentance
 
 Let it be clear from the outset that Repentance is not the more suppression of evil. A merely moral man can suppress his evils because they offend others whose good opinion he courts and whose welfare is tied in with his own. Grosser evils are frequently shunned even by a wicked man because they are ugly and go counter to his own particular natural goods or temperamental tastes. Ones own more favored evils are often repressed from fear, and may lie for years under the surface of the mind, awaiting an opportunity to satisfy their lust. If they are disguised by pretended sincerity, cunning and duplicity, they turn into deceit or hypocrisy which eat out the inmost marrows of the natural mind and even violate the remains which were provided for mans salvation.
 
@@ -619,14 +541,13 @@ Repentance is the beginning of the long process of reformation and regeneration.
 
 == VI. REFORMATION AND TEMPTATION
 
-Reformation: a Preparation for Regeneration
+=== Reformation: a Preparation for Regeneration
 
 The Lord gives the doctrine of Regeneration as a fundamental teaching of religion. Except a man be born again, He told Nicodemus, he cannot see the kingdom of God. But Nicodemus did not understand, and objected that this was an impossibility; a man could not enter a second time into his mothers womb and be born! Jesus rebuked him, saying, Art thou a master of Israel, and knowest not these things?.... If I have told you earthly things and ye believe not, how shall ye believe if I tell you heavenly things? (John 3).
 
 The Lord spoke to the Jews in parables, using earthly similes to describe spiritual things. The Psalmist had prayed, Create in me a clean heart, O God, and renew a firm spirit within me. The Lord compared this creation of a new heart and spirit to a new birth, the formation of a new ruling love, a new personality, an utterly different character, based not on self will but upon truth, which He symbolized by water and especially by the water of Baptism: Except a man be born of water and of the spirit, he cannot enter the kingdom of God.
 
-The heavenly things involved in this comparison are now laid open in the Heavenly Doctrine of the New Church. It is shown that there are actually two states or two processes by which mans spirit is created anew. Both of them together are sometimes called Regeneration. Yet when considered separately the first state is to be called Reformation, and only the second state is to be named Regeneration. Reformation is described as a progress from a natural state towards a spiritual state, or an ascent by truths to the good of truth. In the second sate, properly called Regeneration, the good thus formed descends into the natural man so that man becomes spiritual-natural, and thinks truths from good (TCR 576). Reformation is thus primarily concerned with the understanding; Regeneration is primarily concerned with the will (TCR
-587).
+The heavenly things involved in this comparison are now laid open in the Heavenly Doctrine of the New Church. It is shown that there are actually two states or two processes by which mans spirit is created anew. Both of them together are sometimes called Regeneration. Yet when considered separately the first state is to be called Reformation, and only the second state is to be named Regeneration. Reformation is described as a progress from a natural state towards a spiritual state, or an ascent by truths to the good of truth. In the second sate, properly called Regeneration, the good thus formed descends into the natural man so that man becomes spiritual-natural, and thinks truths from good (TCR 576). Reformation is thus primarily concerned with the understanding; Regeneration is primarily concerned with the will (TCR 587).
 
 Yet these two states are parts of one whole process. We are assured that a man who in this life commences a spiritual reformation, will after death be able to conclude the process by entering the state of regeneration (TCR 571). It is noted that if a man, by combat against evil as sins, has in this world acquired something spiritual, be it ever so little, he is saved; and his uses afterwards grow as a grain of mustard seed develops into a tree (D. Love xviii).
 
@@ -638,8 +559,7 @@ All can be regenerated, each according to his state. This state must be one of w
 
 The Arcana Coelestia describes the regeneration of a man of the spiritual church as follows:
 
-He is first instructed in the truths of faith and then he is held by the Lord in an affection of truth. The good of faith, which is charity towards the neighbor, is at the same time insinuated into him, but in such a way that he is scarcely aware of it; for it lies hidden in the affection of truth, and this to the end that the truth which is of faith may be conjoined with the good which is of charity. As time goes on, the affection of truth ... increases, and the truth is regarded for the sake of the end, that is, for the sake of good, or ... for the sake of life, and this more and more. Thus is truth insinuated into good, and when this takes place the man imbues himself with the good of life according to the truth that has been insinuated; and so he acts, or seems to himself to act, from good. Previous to this time, the truth of faith was the principal, but afterwards the good of life becomes so. When this is the case the man is regenerate. But he is regenerate according to the quality and the amount of the truth that has been insinuated in good; and when truth and good act as one, he is regenerate according to the quality and the amount of the good... (AC
-2979).
+He is first instructed in the truths of faith and then he is held by the Lord in an affection of truth. The good of faith, which is charity towards the neighbor, is at the same time insinuated into him, but in such a way that he is scarcely aware of it; for it lies hidden in the affection of truth, and this to the end that the truth which is of faith may be conjoined with the good which is of charity. As time goes on, the affection of truth ... increases, and the truth is regarded for the sake of the end, that is, for the sake of good, or ... for the sake of life, and this more and more. Thus is truth insinuated into good, and when this takes place the man imbues himself with the good of life according to the truth that has been insinuated; and so he acts, or seems to himself to act, from good. Previous to this time, the truth of faith was the principal, but afterwards the good of life becomes so. When this is the case the man is regenerate. But he is regenerate according to the quality and the amount of the truth that has been insinuated in good; and when truth and good act as one, he is regenerate according to the quality and the amount of the good... (AC 2979).
 
 This teaching shows that regeneration is essentially a marriage of good and truth in mans mind. Truth is received, first because it is truth, then because it has good as an end; this good then visibly shows itself in the truth and man acts and thinks from it. Man is regenerate not from truth, nor from good, but from these two so far as they are conjoined.
 
@@ -649,12 +569,11 @@ But although these two statesReformation and Regenerationare in a manner involve
 
 * * *
 
-The State of Reformation
+=== The State of Reformation
 
 The state of Reformation is a state of instruction. Most of those who are connected with a church are indeed instructed in truths and goods of spiritual life in childhood, and begin to be reformed; but as soon as they reach adolescence they are likely to suffer themselves to be carried away by the world. Thus they may never reach the state of real Repentance (AC 5280). There is no real Reformation unless the truths which man has learnt are elevated into something of the light of heaven.
 
-It is indeed provided that every man, good or evil alike, shall have the faculty of elevating his understanding by means of truths almost into the light in which the angels of heaven are, so that he may see what he ought to will. Every man is also furnished with the germ or beginning of a new will, through the celestial states of innocence and love which are insinuated in tender years, and are called remains (AC
-1555). These shy and elusive states withdraw themselves as the child grows up, yet they remain as an unconscious plane through which the Lord can operate and which can be stirred up to favor truths and to vivify them with affectionthus producing an affection of truth from which man can act should he so wish (AC 1050, 1906, 561, 5342).
+It is indeed provided that every man, good or evil alike, shall have the faculty of elevating his understanding by means of truths almost into the light in which the angels of heaven are, so that he may see what he ought to will. Every man is also furnished with the germ or beginning of a new will, through the celestial states of innocence and love which are insinuated in tender years, and are called remains (AC 1555). These shy and elusive states withdraw themselves as the child grows up, yet they remain as an unconscious plane through which the Lord can operate and which can be stirred up to favor truths and to vivify them with affectionthus producing an affection of truth from which man can act should he so wish (AC 1050, 1906, 561, 5342).
 
 This spiritual affection of truth is the essential thing in the state of Reformation. For it thirsts for spiritual truths. It rebuilds the rational mind, reconstructs it in a city of truth, a citadel of defense against the irresponsible whims of the mans conceit and the more formidable assaults of false doctrines, worldly principles, and sensual imaginations.
 
@@ -676,12 +595,11 @@ The state of Reformation is not intended as an and in itself. If it is not arres
 
 It follows from this that no one can be reformed in states which do not spring from rationality and liberty (DP 130-144). Man is neither free nor rational if possessed by fear or if his mind is diseased or excessively disturbed by sickness or misfortune, or if he is in ignorance or in a state when he is blinded by some passion. In such states he may indeed confirm the truths to which he has already assented, but he cannot enter upon reformation (DP 142, AC 8981).
 
-Reformation requires not only knowledge of spiritual truth but an elevation of the thought into spiritual light. And this is possible only in a rational mind, and from an affection of truth. It is also taught that man is reformed by the admission of his thoughts into the societies of heaven, although neither man nor angels are aware that this occurs, since mans thought is natural and the thought of the angels is spiritual, and those make one only by correspondence (AE
-1093e).
+Reformation requires not only knowledge of spiritual truth but an elevation of the thought into spiritual light. And this is possible only in a rational mind, and from an affection of truth. It is also taught that man is reformed by the admission of his thoughts into the societies of heaven, although neither man nor angels are aware that this occurs, since mans thought is natural and the thought of the angels is spiritual, and those make one only by correspondence (AE 1093e).
 
 * * *
 
-Temptation
+=== Temptation
 
 As reformation progresses, man is held by the Lord as to his internal in good and in truth. But as to his external he is let into his evils and falsities, consequently among informal spirits who wish to live in mans evil delights. For the knowledges of faith have usually been introduced into mans mind by natural and hereditary affections which stem from evil loves. Spiritual truth cannot be conjoined with such loves. Such truth, therefore, is withdrawn from the conscious thought when even evil and corporeal loves are excited and begin to swamp the mind with all manner of falsities; and it appears to man as if his truths are taken away and exterminated (AC 5270, 5280). The affections of truth (which man has from remains of innocence) are then aroused by the attendant angels, and he feels himself in great anxiety, and as if inundated by a sensual lumen in which truths do not appear.
 
@@ -702,8 +620,7 @@ Those who are ignorant of spiritual truths, and thus children and pagans, cannot
 
 He who is tempted in the world is not tempted after death (AR 185). But all who have lived well in the world according to their religion, yet have been in falsities of doctrine and therefore have not been admitted into temptations in this life, are instructed after death, and then in differing measure undergo temptations or vastations by which falsities or appearances are dispelled and genuine truths implanted, and thus may normally progress into their own degree of regenerate life. On the other hand, the wicked, who are in falsities of evil, are not tempted by evil or falsity but are drawn to the delights of hell like a bee to honey (AE 474, 452).
 
-Temptations, in which men compel themselves to resist evil and its falsities, in time are displaced by an internal aversion to evil. Evil then loses its power to tempt, and can only continue to infest through appearances and fallacies (AC 7474). Only after man becomes regenerate can he rest from his labors. The life of heaven is called a Sabbath, for there the affections of truth and good keep evil at a distance (AE
-1164).
+Temptations, in which men compel themselves to resist evil and its falsities, in time are displaced by an internal aversion to evil. Evil then loses its power to tempt, and can only continue to infest through appearances and fallacies (AC 7474). Only after man becomes regenerate can he rest from his labors. The life of heaven is called a Sabbath, for there the affections of truth and good keep evil at a distance (AE 1164).
 
 * * *
 
@@ -713,7 +630,7 @@ The result of the whole process of Reformation, with its struggles and fluctuati
 
 == VII. REGENERATION, AND THE LIFE OF CHARITY
 
-The New Birth
+=== The New Birth
 
 It is a universal truth that there can be no generation or birth of anything new, except from a marriage, or a conjunction. This applies also to mans spiritual life. The earlier stages of mans spiritual developmentthose stages which the Writings embrace within the term Reformationall look forward to a marriage of good and truth within his mind. Reformation begins with instruction in the truths of religion and proceeds through states of temptation until an influx of good (which is made possible because of hidden remains) is received in the understanding and manifests itself there as a new purpose, an end of good. From this new purpose the truths of the mind are loved not only for themselves but for the sake of the uses which they promise and the new life which they make possible.
 
@@ -738,7 +655,7 @@ The spiritual truth, or regeneration, involves therefore a certain separation fr
 
 * * *
 
-The New Life of Charity
+=== The New Life of Charity
 
 So far, we have endeavored to picture how Regeneration comes about; using the symbolism which describes it as a new birth, which parallels the development of the states of mans spirit. But the Writings show that the new spirit seeks embodiment in the naturalseeks to express itself in the natural mind and in a new kind of life among other men in the natural world.
 
@@ -753,8 +670,7 @@ With this in view, the doctrine of charity teaches that every one must procure f
 But what is charity? Genuine charity, the Writings disclose, is to believe in the Lord, and from the Lord to love justice and do justice from judgment, acting justly and uprightly in all ones work (TCR 459).
 
 Let us note that justice must be exercised with judgment. Judge not from the appearance, the Lord said, but judge a righteous judgment
-(John 7:24). Judgment takes account of the neighbors needs and considers consequences. Charity must be intelligent. It cannot act the same to all. A man without judgment may do evil by good deeds; and it is possible, by acts which appear as evilas by punishingto do good (TCR
-459). A man without judgment, may contract an interior friendship for another without knowing his quality, and thus be seduced into a mental bondage which is difficult to break even after death (TCR 446-449).
+(John 7:24). Judgment takes account of the neighbors needs and considers consequences. Charity must be intelligent. It cannot act the same to all. A man without judgment may do evil by good deeds; and it is possible, by acts which appear as evilas by punishingto do good (TCR 459). A man without judgment, may contract an interior friendship for another without knowing his quality, and thus be seduced into a mental bondage which is difficult to break even after death (TCR 446-449).
 
 Therefore Charity regards every man as a neighbor, who is to be loved according to the quality of his good. Charity loves to promote good and truth, and this it loves in others. Hence there are kinds and degrees of charity. Only after death do the affections of a mans will and his consequent thoughts become clearly evident, yet here on earth the neighbor should be loved so far as he manifests good and acts sincerely in his uses. To love the good in others is to love the Lord who alone is the source of all good.
 
@@ -798,7 +714,7 @@ The whole of regeneration looks to the purification of the natural man and the r
 
 == VIII. THE CONJUGIAL LIFE I
 
-The Holiness of Marriage
+=== The Holiness of Marriage
 
 It is a fundamental in New Church thinking to regard marriage as most holy. Marriages on earth are in the sight of the angels of heaven most holy because they are the seminaries (or nursery gardens) of the human race and thus also the seminaries of the heavenly kingdom; wherefore they must in nowise be violated, for thereby heaven is closed up to man. Marriages are holy also because they are from a spiritual origin, which is the marriage of good and truth (HH 384, 385).
 
@@ -825,7 +741,7 @@ From its origin and its correspondence, conjugial love is celestial, spiritual, 
 
 * * *
 
-The Love of the Sex
+=== The Love of the Sex
 
 The cynics of this age would trace this noblest of all loves to the smoldering fibers of the flesh, to the inborn love of the sex which men have in common with animals. They say that men have but idealized the physical mating instinct, covered its crudities with a veneer of formality and courtesy, surrounded it with pomp and ceremony, legalized it with regulations and traditions, institutionalized it to meet the needs of society and state; but maintain that at bottom it is but a chemical attraction.
 
@@ -839,13 +755,12 @@ This is the case with the natural love of the sex. It has become pervert and sel
 
 * * *
 
-The Meeting of Souls
+=== The Meeting of Souls
 
 Conjugial love is the love of one of the other sex and it cannot be divided. No others can come into this love but those who approach the Lord, love the truths of the Church, and do its goods. All marriages of love truly conjugial are provided by the Lord and foreseen by Him. It is not hidden from the Lord who shall become eternal partners in heaven. Therefore it is said in the doctrine that conjugial pairs are born and that they are emotionally educated for their marriage under the Lords auspices, although they know it not. And when they then meet after their states have ripenedmeet as if by chancethey come to feel
 (as if by a certain instinct or inner dictate) that they belong to each other. Love as it were meets love and makes itself known, and instantly conjoins the souls and afterwards the minds and so leads them toward betrothal and marriage. For the Lord opens their internal similitudes so that they may recognize each other (CL 229, 44, 316:3).
 
-Thus it may happen on earth, or if not here, in the other life (CL
-229). Yet on earth, this meeting of souls is more difficult. The internal similitude is hidden by the chance circumstances of the world and the flesh, by the absence of external attractiveness, by differences in manners and social station. Men and women are allured by wealth or outward charm; their internal perceptiveness of love is blunted by unchastities or confused by sudden bodily passions or infatuations. The marriage choice is often restricted within a narrow circle of acquaintances; so that earthly marriages at this day are for the most part external, and are dissolved after death when the character of each is disclosed. Only those who from early youth had prayed the Lord for a truly conjugial partner and had spurned and rejected wandering lusts as an offense to their nostrils, can hope to retain the perception by which spiritual similitudes can be recognized on earth (CL 49).
+Thus it may happen on earth, or if not here, in the other life (CL 229). Yet on earth, this meeting of souls is more difficult. The internal similitude is hidden by the chance circumstances of the world and the flesh, by the absence of external attractiveness, by differences in manners and social station. Men and women are allured by wealth or outward charm; their internal perceptiveness of love is blunted by unchastities or confused by sudden bodily passions or infatuations. The marriage choice is often restricted within a narrow circle of acquaintances; so that earthly marriages at this day are for the most part external, and are dissolved after death when the character of each is disclosed. Only those who from early youth had prayed the Lord for a truly conjugial partner and had spurned and rejected wandering lusts as an offense to their nostrils, can hope to retain the perception by which spiritual similitudes can be recognized on earth (CL 49).
 
 Yet for the guidance of those who are poised before the choice of a lifes partner the Lord provides the doctrine of Similitudes.
 
@@ -859,7 +774,7 @@ These, and many other teachings which warn against marriages with those of a dif
 
 * * *
 
-Marriage and the Wisdom of Life
+=== Marriage and the Wisdom of Life
 
 Internal similitudes is not the only indication which influences the marriage choice. There are also external qualities which bring partners together, common tastes and habits, common standards of culture and manners, educational background, and complementary virtues and abilities which make for a perfection in the mutual life. Where differences of inclinations amount to dissimilitude and consequent antipathy, no marriage is likely to ensue. But many external diversities due to heredity, companionship, education, and imbibed opinions, can be tempered and in time conjoined by various means: by a mutual desire on the part of married partners to leave the other in freedom; by accommodation to the desires of the other; by mutual help and confidence; by courtesy, by faithfulness, by a common love of infants and care of children; and (above all) by conformity in the things of the Church (CL 228).
 
@@ -882,7 +797,7 @@ For this reason wisdomas the parent of conjugial lovecannot come into existence 
 
 == IX. THE CONJUGIAL LIFE II
 
-Husband and Wife
+=== Husband and Wife
 
 Neither man nor woman is a complete being. The Lord created the race male and female, to be fruitful and multiply and fill the earth and subdue it. It must in no wise be thought that sex is any physiological accident. Nothing is accomplished in the universal world without the cooperative section of an active and a passive, and all things therefore have reference to good and to truth, or to the male principles and the female principal, or to heat and to light.
 
@@ -906,7 +821,7 @@ Whether a man finds his partner or not while on earth, it is the sphere of the c
 
 * * *
 
-Courtship and Betrothal
+=== Courtship and Betrothal
 
 The fact that woman is born a form and receptacle of conjugial love
 (which is directed only to one of the sex) inclines her to the virtue of modesty which makes it unbecoming for her to speak of love or declare her love until it is earnestly solicited. Choice, or the initiation of courtship, belongs to the man, who from understanding and judgment must recognize the partners suitability if he is to feel free in the choice (CL 296). But to women belongs the right of free consent, and also a prudence which secretly and modestly invites the addresses of their favored suitor. Yet daughters, as they come into marriageable age and even later, are wise to consult their parents before consenting to their ardent suitors, not only because this is their protection against men of whose character they cannot judge, but also because it is a protection against themselves; for their love as yet waits upon the longings of their senses rather than upon desires springing from a chastened mind (CL 299).
@@ -917,7 +832,7 @@ And to safe-guard the order by which conjugial lovewhen it has reached the stage
 
 * * *
 
-Conjunction in Marriage
+=== Conjunction in Marriage
 
 Throughout married life, there must be continual returns to the betrothal state, in that there are continually new and more interior openings of the minds of the partners, and new elevations of conjugial love, which must be nourished and replenished from within. This is possible in marriage as nowhere else. For here man and woman each contribute the special functions for which their minds were created:
 the man, by rational wisdom can see new truths in superior light, and the woman, by an elevation of her love into spiritual heat, can feel its delights in his light, and move his intelligence with her warmth so as to ripen it into moral and spiritual wisdom (CL 188, 198).
@@ -930,7 +845,7 @@ A conjugial marriage is an alternate conjunction, in which the life of one is in
 
 * * *
 
-The Love of Offspring
+=== The Love of Offspring
 
 That which more than anything else consociates and gathers into one the souls and lives of married partners, is the common care of children. This is the most powerful bond of partners even where conjugial love has vanished. The wife has responsibility especially for the rearing of young children and for the instruction of daughters up to the age of marriage, while the husband must instruct his sons from childhood through puberty and up to the time that they become their own masters. But these duties cannot be divorced but require the mutual counsel and support of both parents. Where there is disagreement between them, the respect of the children may be lost and the moral and domestic order may be shattered. The realization of this danger has saved many a home from being broken up, and has led to new and successful efforts on the part of the parents to turn a waning love into a fruitful friendship which survives the critical years of middle age and paves the way for tranquility in their declining years.
 
@@ -938,22 +853,19 @@ The Writings make perfectly clear that the first end of conjugial love is procre
 
 All the disorders of an evil world originate from mans desire to enjoy the delights or rewards of uses which they have not performed. Yet the laws of the Divine providence cannot be thwarted; and the delights that are stolen will eventually be turned into weariness, grief, or torment. The frequent endeavor manifested at this day to enter into marriages wherein offspring is not desired, shows how far the human race has traveled away from the ancient wisdom of life, and from the first command of God to man, Be fruitful and multiply and fill the earth.
 
-But marriage is not only for this world. Procreation of new human beings is possible only on earth. But marriage truly conjugial is for eternity. Even on earth, procreation of children usually ceases in middle age; and there are many couples who are denied children. Certainly conjugial love and the eternal purpose of marriage does not cease because of the absence of natural offspring. A lovely companionship of souls and minds continues and increases even after natural usefulness is drawing to an end. And those who are spiritual look to union as an end and, in that union, to spiritual rest and pleasantness and to the beginning of new states of wisdom and love in which the life of the Lord can be received in ever-greater measure (CL
-368).
+But marriage is not only for this world. Procreation of new human beings is possible only on earth. But marriage truly conjugial is for eternity. Even on earth, procreation of children usually ceases in middle age; and there are many couples who are denied children. Certainly conjugial love and the eternal purpose of marriage does not cease because of the absence of natural offspring. A lovely companionship of souls and minds continues and increases even after natural usefulness is drawing to an end. And those who are spiritual look to union as an end and, in that union, to spiritual rest and pleasantness and to the beginning of new states of wisdom and love in which the life of the Lord can be received in ever-greater measure (CL 368).
 
 The Writings speak of such new states of perception and illustration as spiritual offspring, born from the conjunction of the thoughts and affections of the partners. New concepts of use and wisdom in angelic minds are new vessels receptive of the Lords life as truly as new born babes on earth, and are indeed new centers into which heavenly happiness can be poured by the Divine love.
 
 * * *
 
-The Preservation of Marriage
+=== The Preservation of Marriage
 
-It is said of the conjugial of one man with one wife that it is the ornament of human life and the shrine of the Christian religion (CL
-457). The true home is the nursery of all that is precious and good and tender in human life, and is the center of all virtues. If religion does not there find its shrine, it will soon perish from the earth. But the home is also the unit and beginning of society with all its uses. Every commonwealth therefore in some measure recognizes the need to surround the institution of marriage with laws which shall preserve the rights and responsibilities of the family, and prevent the disruption of the home.
+It is said of the conjugial of one man with one wife that it is the ornament of human life and the shrine of the Christian religion (CL 457). The true home is the nursery of all that is precious and good and tender in human life, and is the center of all virtues. If religion does not there find its shrine, it will soon perish from the earth. But the home is also the unit and beginning of society with all its uses. Every commonwealth therefore in some measure recognizes the need to surround the institution of marriage with laws which shall preserve the rights and responsibilities of the family, and prevent the disruption of the home.
 
 It must be admitted that marriage is not a magical formula for happiness. Yet marriage, by its very nature, must be a covenant for life, and this even where the love which led to the marriage is not a truly conjugial love. Marriage involves an irrevocable change of state in mind and body, and leaves marks and memories which can never be expunged. It means assumption of responsibilities for partner and for children that cannot be shaken off. More important and fruitful than any chosen life-time profession, marriage is an honorable state in which two human beings lay down their inner defenses in confidence of the others pledge of loyalty and cooperation. The laws of most states, which permit divorce only where there is proof of gross marital infidelity or sexual evil. For it is of common perception that the looser the bonds of marriage are made, and the less risk mismating involves, the more readily will people rush into unfortunate and thoughtless unions and the more will marriage be deprived of its dignity, of its humane motional depth, and of its value as a stabilizer of the social conscience. And the Writings therefore state: It is from the Divine law that it is not lawful to put away ones wife and marry another except on account of scortation; and it is from rational law because this is founded upon the spiritual... (CL 276). Rational law comes from common sense which flinches at the prospect of such human wreckage as bestrews the path of divorce.
 
-It is easy, through ones sympathy for the mismated, to be led away from the recognition of the fundamental necessity that matrimonies in the world are to continue to the end of life. But the Writings show the necessity, usefulness, and truth, that conjugial love, where it is not genuine, is yet to be affected, so as to make it appear as genuine (CL
-276). Indeed, there is no love with men or even with angels, which is so pure that it is utterly untouched by the shadows of selfishness and unchastity. Where love fails or cools, duty and honor and justice must take its place, and prudence and judgment must stand on guard. Prudent simulations of conjugial friendships may spring from charity and differ entirely from hypocrisies. But in extreme cases a marriage may be preserved by a temporary separation, which looks to a change of state and an eventual reconciliation. With married partners, their resourcefulness in restoring the ravages of wounded pride or headless actions, of conflicting tastes and opposing opinions, goes hand in hand with the growth of their moral wisdom and their spiritual regeneration. And however deep the love of truly conjugial partners, we must admit of situations in this world where the pressure of cruel circumstances, the failure of health, and the limitations of human understanding, may require the utmost patience and tolerance before the partners can surmount the distressing walls which hide their minds from each other even while their souls may be in an inner communion.
+It is easy, through ones sympathy for the mismated, to be led away from the recognition of the fundamental necessity that matrimonies in the world are to continue to the end of life. But the Writings show the necessity, usefulness, and truth, that conjugial love, where it is not genuine, is yet to be affected, so as to make it appear as genuine (CL 276). Indeed, there is no love with men or even with angels, which is so pure that it is utterly untouched by the shadows of selfishness and unchastity. Where love fails or cools, duty and honor and justice must take its place, and prudence and judgment must stand on guard. Prudent simulations of conjugial friendships may spring from charity and differ entirely from hypocrisies. But in extreme cases a marriage may be preserved by a temporary separation, which looks to a change of state and an eventual reconciliation. With married partners, their resourcefulness in restoring the ravages of wounded pride or headless actions, of conflicting tastes and opposing opinions, goes hand in hand with the growth of their moral wisdom and their spiritual regeneration. And however deep the love of truly conjugial partners, we must admit of situations in this world where the pressure of cruel circumstances, the failure of health, and the limitations of human understanding, may require the utmost patience and tolerance before the partners can surmount the distressing walls which hide their minds from each other even while their souls may be in an inner communion.
 
 Conjugial simulations, which seek to preserve friendship even when the proprial affections ride high, are necessary especially for the sake of children who judge of their parents mutual love by superficial appearances (CL 286). It is however noted in the Writings that almost every wife loves the bonds of marriage if only the men love those bonds
 (CL 217). And the wife is therefore careful to dispel the clouds of intranquillity in the home, where her husband seeks an asylum from the worries of his daily occupation. In this, a man is at the mercy of his wife, who can wilt his spirit with a hard look or endanger his very health with domestic confusion. The special incentive for every man to establish a home of his own and to preserve a decorous friendship with his family is his peculiar need for a tranquillity of mind which can be offered nowhere else (CL 285).
@@ -970,7 +882,7 @@ Conjugial love, with its companion love, the love of offspring, cannot come into
 
 == X. THE DIVINE PROVIDENCE AND ITS LAWS
 
-The Lords Government
+=== The Lords Government
 
 Belief in God as Creator would be a barren and meaningless unless we had the faith that this our God is continually present in His universe, maintaining it and ruling it, and that He provides with infinite foresight for every one of His creatures.
 
@@ -1002,7 +914,7 @@ It is by spiritual laws that the heavens were created from the spiritual Sun by 
 
 * * *
 
-The Laws of the Divine Providence
+=== The Laws of the Divine Providence
 
 Yet, under the heading of the Laws of the Divine Providence, the Writings list certain principles or standards of Divine action whereby the Lord endows man with freedom and also protects man in its exercise. These laws have hitherto been hidden in the wisdom of angels, but are now revealed to the New Church.
 
@@ -1016,8 +928,7 @@ To enable man so to think if he pleases, the Lord endows man with the two facult
 
 Mans feeling of responsibility and his ability to receive life, rest on the sensation and perception that life is in him and that he acts as of his own power. Therefore it is also a law of Providence that man should not feel how good and truth inflow from the Lord or how evil and falsity flow in from hell, nor perceive from any sensation how the Divine providence operates within him (AE 1153). He cannot at this day even see beyond the veil that separates this world from the next, lest he loses the sense of freedom. Nor is he allowed to see the future, or observe the leading of Providence except from the past (DP 175-190).
 
-There are many other things that are hidden to man. Even as he has no conscious part in the processes by which the food is digested in his body and by which his blood is constantly being purified, so neither does he know what goes on in the interiors of his mind. His responsibility is confined to the shunning of evils that present themselves as intentions in the conscious mind or in the externals of his thoughts. If man puts away evils as sins in the external man, the Lord is able to cleanse man from the lusts that lodge unconsciously in the internal of his thought. This, too, is a law of Providence (DP
-100ff).
+There are many other things that are hidden to man. Even as he has no conscious part in the processes by which the food is digested in his body and by which his blood is constantly being purified, so neither does he know what goes on in the interiors of his mind. His responsibility is confined to the shunning of evils that present themselves as intentions in the conscious mind or in the externals of his thoughts. If man puts away evils as sins in the external man, the Lord is able to cleanse man from the lusts that lodge unconsciously in the internal of his thought. This, too, is a law of Providence (DP 100ff).
 
 Another law is that man should not be compelled by external means to believe and love the things of religion. For no one is interiorly reformed because of miracles and signs, or by visions of the dead, or by threats and punishments. These induce only a temporary and external effect; they compel by creating fear or irrational persuasion. Reformation cannot take a start in states which do not spring from rationality and libertyas in states of emotional stress and panic, of misfortune or disease, of ignorance and mental blindness. But self-compulsion is necessary for reformation; and in this man reaches the summit of freedom, for he then begins to act from his interior man.
 
@@ -1062,7 +973,7 @@ To account and love these laws of His providence and to cooperate with them is t
 
 == XI. THE SUCCESSIVE DISPENSATIONS AND THE LAST JUDGMENT
 
-The Racial Man
+=== The Racial Man
 
 In the eyes of the Creator, all mankind on all the earths of the universe constitutes one collective Man. In this universal Grand Man the various races on the numberless globes of creation each have a function or use, as do the various organs and parts in the human body. For it is not external shape, but living functions, that make up the human form. And even as nature, with all its varieties, is the same in greatests and leasts, so a society of men, be it great or small, is in the human form, when spiritually regarded. As to spiritual uses, all men on all the earths are parts of one spiritual economy, one spiritual world where there are no boundaries of physical space such as separate the planets of the natural world.
 
@@ -1074,7 +985,7 @@ Even as the Divine providence of the Lord leads every individual through the yea
 
 * * *
 
-The Preparatory Dispensations
+=== The Preparatory Dispensations
 
 The Writings explain that this record of Scripture begins in allegory, which was the usual style of writing among the ancients; continues mainly as historical narrative; and ends up in prophecy. In its spiritual sense it traces the rise and fall of four great preparatory dispensations or churches which have existed on this earth and which represent the development of mankinds religious life; and also the up-building of the heavens from our earth into their full and nature form. With respect to the heavens regarded as a whole, or as a Grand Man, this growth marked a constant progress towards completionlike that of a man who is conceived and born, educated and taught, until he comes into intelligence and wisdom and begins his regeneration (AE 641). But with reference to the church on earth, it is a story of the Lords efforts, renewed again and again, to lead a backsliding race towards a more abundant spiritual life.
 
@@ -1094,7 +1005,7 @@ With that remnant among the Jews who recognized the Lord as the Christ, the Son 
 
 * * *
 
-The Necessity of a Church
+=== The Necessity of a Church
 
 There have been many religions and many churches and cults in the world; and there still are. Yet all derive their origin and character from one or more of these four specific churches or dispensations. For these four stem from Divine revelations, by which Divine truth was given in variant forms adapted for reception by men in differing states. It is neither possible nor necessary for mens salvation to have all the world receive the same religious faith; for whoever there is something of an acknowledgment of a God and of a life of kindness or charity there are the means of salvation for men in simple states; and only by the permission of ignorance and of falsities can men be protected by Providence from a responsibility which they cannot bear or from the evils of profanation. On the other hand, it is also of imperative and essential importance that at all times there be on earth a church which has the truth of Divine revelation; a church Divinely commissioned and in possession of knowledge concerning God. For only if there be at least a nucleus or a remnant of such a churchwhere God is known and where there is a life according to His commandmentscan the communion of the Lord and heaven with the human race on earth be maintained. And without such communion the race would perish in a maelstrom of violence (AC 407, 468, 530, 931, 4423; AR 533; AE 665).
 
@@ -1108,7 +1019,7 @@ From these considerations it may be seen that it is of imperative need that ther
 
 * * *
 
-The Judgment on the Churches
+=== The Judgment on the Churches
 
 Quite contrary are the conditions in the spiritual world when and if a church on earth no longer carries out its functions of spiritual judgment. This occurs when men cease to examine their own evils and to shun such evils as sins against God. For by the neglect of repentance the minds of men are dulled to the understanding of the Lords revealed doctrine and instead turn the Word ingeniously to confirm their own opinions and to condone their evils. The result is that ambitious men, in the name of religion, seize the reins of power in the church; and, after death, as evil spirits posing to be angels of light, they begin to establish strongholds at the very gates of heaven and marshal a horde of their own like to exert influence over simple spirits whom they mislead with false doctrines and control by fear or false promises.
 
@@ -1134,7 +1045,7 @@ This was the last judgment predicated in the book of Revelation, wherein John te
 
 * * *
 
-The Consummation of the Age
+=== The Consummation of the Age
 
 For the understanding of such prophecies it must be known first of all that a last judgment does not involve the destruction of the earth or of the visible world. The Scripture in the original tongues speaks often of the foundation of world but never of any and of the world; the phrase erroneously so rendered in the King James version* is instead to be translated (as in the Revised Version) the consummation of the age.
 
@@ -1158,7 +1069,7 @@ Judgment is wrought by truth. The Lord came to judgment as the Son-of-Man, as th
 
 == XII. THE SECOND ADVENT AND THE NEW CHURCH
 
-The Spiritual Advent of the Lord
+=== The Spiritual Advent of the Lord
 
 It is a fundamental acknowledgment of the New Church that the Lord has made His Second Advent.
 
@@ -1182,7 +1093,7 @@ But of this city New Jerusalem it is also said that it was prepared as a bride a
 
 * * *
 
-The New Church at First Among a Few
+=== The New Church at First Among a Few
 
 The New Church exists wherever the new Divine revelation is received in mind and life, and thus with those who recognize that in this heavenly doctrine the Lord is present in His second advent, teaching and leading for the establishment of His kingdom.
 
@@ -1190,8 +1101,7 @@ As was the case with the Christian Church, which started with a remnant of the J
 
 Elsewhere we are told that the interior truths of a new revelation are not immediately received, but only after a considerable lapse of time, or not until all things in the spiritual world had been reduced to order, so that menwhose states depend on that ordercould understand and perceive the goods of love and the truths of doctrine (AE 670).
 
-The reason for the slow growth of the church is also stated when it is said that the falsities of the former church must first be removed, for truths cannot be received and implanted until falsities are removed (AR
-547). Moreover, the doctrine of the New Church, which is the doctrine of love and charity, cannot be acknowledged and received except by those who are interiorly affected by truths, and thus by such as have not destroyed their intellectual faculty by the loves of self and the world. Finally, the New Church on earth grows only according to its increase among spirits in the world of spirits, spirits of various religious creeds who have on earth been in the spiritual affection of truth (AE 732).
+The reason for the slow growth of the church is also stated when it is said that the falsities of the former church must first be removed, for truths cannot be received and implanted until falsities are removed (AR 547). Moreover, the doctrine of the New Church, which is the doctrine of love and charity, cannot be acknowledged and received except by those who are interiorly affected by truths, and thus by such as have not destroyed their intellectual faculty by the loves of self and the world. Finally, the New Church on earth grows only according to its increase among spirits in the world of spirits, spirits of various religious creeds who have on earth been in the spiritual affection of truth (AE 732).
 
 As was pointed out previously, the spiritual function of a church can be carried out even though its number are few, so long as those few are faithful to their trust. The most obvious of the uses of the New Church is to receive, cherish, and maintain the Heavenly Doctrine which is its Divine charter and the reason for its distinct existence. And since the Word does not make the church, but the understanding of it, it may be said that the church is such as is the soundness and purity of the doctrine that is taught in it (TCR 243, 245). This distinctive mission of the New Church implies that the first danger which threatens it is the admixture of the falsities which destroyed the former church with the doctrines revealed to the New Church. The New Church descends from the new heaven, not in a moment but so far as the falsities of the former church are eradicated. And this can be done only the raising up of a new clergy and the establishment of a church-body dedicated to the preservation and promulgation of the doctrine in its integrity. No one putteth new wine into old bottles; also the bottles break and the wine is spilled (TCR 784). And if the faith of the New Church is commingled in the mind of a man with the faith of the old church such collision and conflict ensue that his spiritual life is endangered. It is as when owls and doves are hatched in the same nest (BE 102).
 
@@ -1199,7 +1109,7 @@ A new Divine revelation necessarily effects a spiritual judgment in both worlds 
 
 * * *
 
-The External Church
+=== The External Church
 
 One of the grave falsities of the consummated church is the belief that man is justified and saved by faith alone, without the works of charity. This falsity cannot be eradicated except by a life according to the Lords commandments, or according to His truths of doctrine; a life of daily repentance and usefulness.
 
@@ -1212,7 +1122,7 @@ Yet the work of the Church cannot be measured by visible results. It is right th
 
 * * *
 
-The Church Universal and the Church Specific
+=== The Church Universal and the Church Specific
 
 In the Lords view there is only one fold. For all the angelic heavens are before Him as one Grand Man; and the Lords kingdom on the earth is conjoined with that heavenly Man as the externals of the body are conjoined with its interiors.
 
@@ -1242,7 +1152,7 @@ Yet no man or spirit can perform the functions of the specific church until he c
 
 * * *
 
-The New Church as the Crown of the Churches
+=== The New Church as the Crown of the Churches
 
 The New Church struggles for survival in a sinful world as amidst a wilderness, protected from persecution because of its apparent insignificance.
 

@@ -1,0 +1,14 @@
+:toc: preamble
+:toclevels: 2
+:showtitle:
+// additions for the PDF:
+:reproducible:
+:listing-caption: Listing
+//:source-highlighter: rouge
+// Uncomment next line to add a title page (or set doctype to book)
+:doctype: book
+//:title-page:
+// Uncomment next line to set page size (default is A4)
+:pdf-page-size: Letter
+// end of template attributes
+
