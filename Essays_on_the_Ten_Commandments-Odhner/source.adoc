@@ -1,22 +1,15 @@
-Essays on the Ten 
-Commandments 
+= Essays on the Ten Commandments 
+Odhner, Hugo Lj.
+:toc: preamble
 
-Odhner, Hugo Lj. 
-
-      1972 
-
- 
- 
- 
- 
-By Hugo Lj. Odhner 
+By Hugo Lj. Odhner 
 General Church Publication Committee 
 Bryn Athyn, Pa. 
 1972 
 
  
  
-Preface 
+== Preface 
 
 This little volume is prepared for private reading or for use in public worship. 
 
@@ -50,7 +43,7 @@ April 1971
  
  
  
-The Ten Commandments from Exodus 
+=== The Ten Commandments from Exodus 
 
 And God spake all these words, saying: 
 
@@ -103,7 +96,7 @@ Exodus 20:1-17
  
  
  
-The Ten Commandments from Deuteronomy 
+=== The Ten Commandments from Deuteronomy 
 
 Hear, O Israel, the statutes and judgments which I speak in your ears this day, that ye may 
 learn them, and keep and do them. 
@@ -145,20 +138,7 @@ Thou shalt not covet thy neighbor's wife.
 Thou shalt not covet thy neighbor's house, his field, or his manservant, or his maidservant, his 
 ox, or his ass, or anything that is thy neighbor's. 
 
-6 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Deuteronomy 5:1,6-22 
+Deuteronomy 5:1,6-22 
 
 Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind. 
 This is the first and great commandment. And the second is like unto it, thou shalt love thy 
@@ -172,15 +152,7 @@ another.
 
 John 13:34,35 
 
-7 
-
- 
- 
- 
- 
- 
- 
-Selected Readings for Services 
+=== Selected Readings for Services 
 
 Text  Old Testament, etc.  New Testament 
 
@@ -286,14 +258,9 @@ Matt. 18:1-20
 
 TCR 400:8-10 
 
-8 
+<<<
 
- 
- 
- 
- 
- 
-1 The Law Against Graven Images 
+== 1 The Law Against Graven Images 
 
 Thou shalt have no other gods before my face. Thou shalt not make unto thee any graven 
 image, or any likeness of anything that is in the heaven above, or that is in the earth beneath, or 
@@ -527,16 +494,9 @@ what is from Him. None there can accept worship for himself or bow down to any h
 But from this first law of heaven, the neighbor is loved according as he is a willing medium for 
 the Divine uses which the Lord performs for the perfection of angelic happiness. 
 
-13 
+<<<
 
- 
- 
- 
- 
- 
- 
- 
-2 The Law Against Blasphemy 
+== 2 The Law Against Blasphemy 
 
 Thou shalt not take the name of JEHOVAH thy God in vain; for the Lord will not hold him 
 innocent, that taketh His name in vain. 
@@ -791,10 +751,9 @@ widening perception of all things of life as sacred to a Divine purpose is that 
 true wisdom of innocence to men, and which will lead the Church to the fulfilment of its eternal 
 prayer: "Hallowed be Thy name." 
 
-19 
+<<<
 
- 
-3 The Law Concerning The Sabbath 
+== 3 The Law Concerning The Sabbath 
 
 Remember the Sabbath Day to keep it holy. Six days shalt thou labor and do all thy work; but 
 the seventh day is the Sabbath of the Lord thy God; in it thou shalt not do any work, thou, nor 
@@ -1066,12 +1025,9 @@ reads, into this internal peace - which is meant in the celestial sense of the c
 those come who are received into the New Church which the Lord is at this day instituting" (TCR 
 303). 
 
-25 
+<<<
 
- 
- 
- 
-4 The Commandment with a Promise 
+== 4 The Commandment with a Promise 
 
 Honor thy father and thy mother: that thy days may be long upon the land which the Lord thy 
 God giveth thee. 
@@ -1324,10 +1280,9 @@ Parents. Only if we do that work wisely can we hope to retain a due measure of o
 affections not only on earth but to eternity, and thus be less unworthy of their honor and their 
 love. 
 
-31 
+<<<
 
- 
-5 The Sanctity Of Life 
+== 5 The Sanctity Of Life 
 
 Thou shalt not kill. 
 
@@ -1552,15 +1507,9 @@ must obey the Divine Omnipotence which dictates the law, "Thou shalt not kill." 
 cannot kill truth or good - cannot lead a soul into spiritual death except he himself so desires. 
 The Lord God Jesus Christ rules, and against His Truth the power of hell shall not prevail. 
 
-36 
+<<<
 
- 
- 
- 
- 
- 
- 
-6 The Law Against Adultery 
+== 6 The Law Against Adultery 
 
 Thou shalt not commit adultery 
 
@@ -1824,11 +1773,9 @@ against the subtle infestations of evil. He rules the genii and spirits of hell,
 fought the battle and redeemed His Bride at last, there shall be everlasting peace and internal 
 blessedness of life in the New Jerusalem. 
 
-42 
+<<<
 
- 
- 
-7 The Precept Against Theft 
+== 7 The Precept Against Theft 
 
 Thou shalt not steal. 
 
@@ -2087,10 +2034,9 @@ into ashes in their mouths, and who glory when they have deceived others, only t
 that they have cheated only themselves. From this lot may heaven protect us, and lead us early 
 to accept the gift and guidance of His Holy Spirit. 
 
-48 
+<<<
 
- 
-8 False Witness 
+== 8 False Witness 
 
 Thou shalt not bear false witness against thy neighbor. 
 
@@ -2329,13 +2275,9 @@ to shun our evils as sins. Then we shall be nearer heaven. For heaven with its p
 descend into human life only where the mouth may speak with unreserved frankness from a 
 heart that is penitent, humble, sincere and fearless, having nothing to conceal. 
 
-53 
+<<<
 
- 
- 
- 
- 
-9 The Love Of The World 
+== 9 The Love Of The World 
 
 Thou shalt not covet thy neighbor's house. 
 
@@ -2590,11 +2532,9 @@ house of the Lord. It is built by the Lord as His abode - an abode in which our 
 guest Let us pray that we may ever freely grant Him room, and not covet for ourselves our 
 Neighbor's House. 
 
-59 
+<<<
 
- 
- 
-10 The Love Of Self 
+== 10 The Love Of Self 
 
 Thou shalt not covet thy neighbor's house; thou shalt not covet thy neighbor's wife, nor his 
 manservant, nor his maidservant, nor his ox, nor his ass, nor anything that is thy neighbor's. 
