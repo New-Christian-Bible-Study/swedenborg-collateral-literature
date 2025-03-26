@@ -2,9 +2,9 @@
 Odhner, Hugo Lj.
 :toc: preamble
 
-By Hugo Lj. Odhner 
-General Church Publication Committee 
-Bryn Athyn, Pa. 
+By Hugo Lj. Odhner + 
+General Church Publication Committee + 
+Bryn Athyn, Pa. + 
 1972 
 
  
@@ -36,8 +36,6 @@ Bryn Athyn, Pennsylvania +
 April 1971 
 
 
- 
- 
 === The Ten Commandments from Exodus 
 
 And God spake all these words, saying: 
@@ -77,20 +75,8 @@ nor his ass, nor anything that is thy neighbor's .
 
 Exodus 20:1-17 
 
-5 
+<<<
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
 === The Ten Commandments from Deuteronomy 
 
 Hear, O Israel, the statutes and judgments which I speak in your ears this day, that ye may 
@@ -149,7 +135,7 @@ John 13:34,35
 
 === Selected Readings for Services
 _is an unresolved table_
-
+// preserve for now; maybe insert image? but could be a table?
 ////
 Text  Old Testament, etc.  New Testament 
 
@@ -298,16 +284,7 @@ within the One God, and in the introduction of saints and relics into Christian 
 shown in the spreading modern idea - the supreme blasphemy - that man is not created into the 
 image of God, but that mankind has created its god or gods into the image of man! Nay, the 
 same tendency is shown in the story of all our individual lives, in that we tend to idolize 
-whatever reflects the image of our own desires. 
-
-9 
-
- 
- 
- 
- 
- 
-* * * * * * * 
+whatever reflects the image of our own desires.  * * * * * * * 
 
 In the obvious and literal sense, the first commandment teaches that no man, dead or alive -no 
 spirit, no angel, no demon - must be worshipped, but only Jehovah, who is the Only God, known 
@@ -348,18 +325,7 @@ anything finite and created with the Divine! or to worship what is but the garme
 Lord Himself! 
 
 And therefore we are taught that the celestial or inmost sense of the first precept is that the Lord 
-is infinite and eternal, the First and the Last, omnipresent and omniscient and omnipotent: that 
-
-10 
-
- 
- 
- 
- 
- 
- 
- 
-He is Love and Wisdom in their very essence and origin! that His substance is infinite Love and 
+is infinite and eternal, the First and the Last, omnipresent and omniscient and omnipotent: that  He is Love and Wisdom in their very essence and origin! that His substance is infinite Love and 
 His form is infinite and eternal Wisdom; thus that He is Life itself. It is so that we may 
 understand that He is the source of all human qualities, and therefore is the Only Man whose 
 gifts of life can alone make us human. 
@@ -400,16 +366,7 @@ may lead men into increasing mental darkness. A truth must be a statement of the
 part to the whole. We recognize this when we dismiss some statement as a half-truth or as 
 'mere propaganda'. And the whole truth cannot be seen except from the Lord. Even the best 
 knowledge of the laws of the universe is mere idolatry - worship of Nature - unless thought of as 
-the laws of the Lord's wisdom and mercy. 
-
-11 
-
- 
- 
- 
- 
- 
-And this is true also of those truths of civil and moral and spiritual life which are contained in 
+the laws of the Lord's wisdom and mercy.  And this is true also of those truths of civil and moral and spiritual life which are contained in 
 Divine Revelation. They become fallacies unless seen in the light in which the Lord presents 
 them in His Word, fallacies if taken apart from the Divine purpose. Literal statements from the 
 Word - such as the recital about the creation of nature's kingdoms in six days - can be turned 
@@ -449,15 +406,7 @@ because truth is then seen not as man's wisdom but as the Lord's.
 Man's self-intelligence and natural delight of confirming what is agreeable to his vanity, are 
 indeed tools by which truths are hammered and fashioned into "graven images," or moulded by 
 the flame of our cupidity into a "molten image." It is so that every false doctrine is raised up as a 
-rival to the One God, and its adherents come to worship the spirit of evil and of deceit. 
-
-12 
-
- 
- 
- 
- 
-But the Divine command continues: "Thou shalt not make unto thee ... any likeness of anything 
+rival to the One God, and its adherents come to worship the spirit of evil and of deceit.  But the Divine command continues: "Thou shalt not make unto thee ... any likeness of anything 
 that is in the heavens above or that is in the earth beneath or that is in the waters under the 
 earth; thou shalt not bow down thyself to them, nor serve them." To the Jews this was a severe 
 but necessary restriction, ostracizing the plastic arts. But the purpose with this precept was to 
@@ -535,15 +484,7 @@ minds and spirits. For it was not the name only, but all the conditions and need
 mankind both on earth and in the heavens, which called forth the miracle. And although such 
 miracles do not occur in the same manifest ways at this day, yet the power of the Lord's name is 
 not lessened. He grants men whatsoever they pray "in His name," and "when two or three are 
-gathered together in His name," He is in the midst of them. 
-
-14 
-
- 
- 
- 
- 
-But let us reflect on the meaning of this 'name.' A name is that which makes a man known to us. 
+gathered together in His name," He is in the midst of them.  But let us reflect on the meaning of this 'name.' A name is that which makes a man known to us. 
 It means his fame and reputed qualities, his influence among men, his power, his abilities to 
 perform uses. When a spirit enters into eternal life, his earthly name and fame arc forgotten, and 
 a new name is given him, by which his real qualities are described in the spiritual language of 
@@ -584,18 +525,7 @@ discernment of what holiness was.
 But we, in the New Church, are given to know what is holy. We know that the Word is the holy 
 ultimate of Divine order upon earth; that upon it the Lord has put His name, and that He dwells 
 within His Word and is present in its sacred teachings to bend our affections heavenward and to 
-strengthen our faith in Him. 
-
-15 
-
- 
- 
- 
- 
- 
- 
- 
-When the Pharisees had suggested that Jesus drove out evil spirits by the power of Beelzebub; 
+strengthen our faith in Him.  When the Pharisees had suggested that Jesus drove out evil spirits by the power of Beelzebub; 
 and when they thus denied His Divine power - His Divine Spirit and Soul - the Lord replied by 
 saying, "All manner of sin and blasphemy shall be forgiven unto men, but the blasphemy against 
 the Spirit shall not be forgiven unto men. And whosoever speaketh a word against the Son of 
@@ -636,17 +566,7 @@ can then be stirred only by the fires of evil. The celestial sense of the Second
 therefore is, not to deny the Divinity of the Lord's Human. For with this denial angelic spheres 
 depart from the interiors of man's mind. 
 
-* * * * * * * 
-
-16 
-
- 
- 
- 
- 
- 
- 
-Much may be read in the Writings concerning profanation. In its most direful and interior form - 
+* * * * * * *  Much may be read in the Writings concerning profanation. In its most direful and interior form - 
 which the whole force of Divine Providence seeks to prevent - it is the deliberate mingling of evil 
 affections and falsities of evil with the holy things of good and truth. Those who become such 
 profaners are excluded not only from heaven but from hell, until their minds and spiritual bodies 
@@ -687,16 +607,7 @@ together with a desire to continue to resist evils, there is not only protection
 but also the promise of spiritual progress, and an interior joy in the worship of the Lord. 
 
 The Gospel of the Second Advent of the Lord is one of great joy. As long as the children of the 
-bridechamber have the Bridegroom amongst them, they cannot fast. Humiliation before the 
-
-17 
-
- 
- 
- 
- 
- 
-Lord, reverence of His name, does not imply a condemnation of the wholesome human delights 
+bridechamber have the Bridegroom amongst them, they cannot fast. Humiliation before the  Lord, reverence of His name, does not imply a condemnation of the wholesome human delights 
 of mind and body, or an abstinence from lighthearted relaxation. Indeed, among the diversions 
 of charity the Doctrine mentions "decorous wit" and harmless humor. 
 
@@ -737,16 +648,7 @@ because they come from the Lord, and are basic to salvation - the means and cond
 which eternal life is acquired. Chief among these is the freedom of others - which is given from 
 the Lord and is an intrinsic part of His order, a part of His wonderful name. For that which is not 
 ours, belongs in reality to the Lord; and that which is ours only seems to be our own. This 
-widening perception of all things of life as sacred to a Divine purpose is that which can bring the 
-
-18 
-
- 
- 
- 
- 
- 
-true wisdom of innocence to men, and which will lead the Church to the fulfilment of its eternal 
+widening perception of all things of life as sacred to a Divine purpose is that which can bring the  true wisdom of innocence to men, and which will lead the Church to the fulfilment of its eternal 
 prayer: "Hallowed be Thy name." 
 
 <<<
@@ -792,15 +694,7 @@ be hereafter, and ensure that we get along well here on earth!"
 This prevalent attitude arises from the fact that the natural man from himself does not love 
 anything except corporeal and material things, or - what the Doctrine classes under the two 
 heads - Self and the World. And what one does not love, one wants to forget. If we look back 
-into the past, we see in every nation two opposing tendencies. One is the irrepressible need for 
-
-20 
-
- 
- 
- 
- 
-religious comfort, the craving of the soul for some spiritual acknowledgment of God, and the 
+into the past, we see in every nation two opposing tendencies. One is the irrepressible need for  religious comfort, the craving of the soul for some spiritual acknowledgment of God, and the 
 afterlife, and of human duty; and the other is the desire of men to evade the conditions of 
 salvation, and make the demands of religion easier - a desire which comes from the natural 
 man which does not take any delight in spiritual things, and thus gradually wants to substitute 
@@ -842,16 +736,7 @@ but to the sacred use of such a day to us.
 We are not merely commanded to remember that the Sabbath Day, thus sanctified and 
 appointed, is holy. But we are given the responsibility to keep it holy. It is holy, that is, it has a 
 holy use and a holy significance, whether we remember it or forget about it; but we are to see to 
-it that we act and think in accordance with its holiness. "The Sabbath is made for man" - for his 
-
-21 
-
- 
- 
- 
- 
- 
-use, for the sake of his betterment, his reformation, his regeneration into spiritual life. It is 
+it that we act and think in accordance with its holiness. "The Sabbath is made for man" - for his  use, for the sake of his betterment, his reformation, his regeneration into spiritual life. It is 
 necessary to have a time when we can cut ourselves clean away from this world's compelling 
 worries and from the thoughts of natural life, and give an opportunity for our spiritual minds to be 
 set free - that is, when the spiritual states, that are present as we may hope inmostly in all that 
@@ -892,15 +777,7 @@ self-consciousness, the rebellion, the anxieties - of the natural man. This is w
 to angelic blessedness. Even on earth - the Writings say - those who are in a life of love and 
 charity also desire to observe the Sabbath holily, for "nothing is sweeter to [such men] than to 
 worship the Lord and to glorify Him every day" (AC 1798:3). Piety thus is a sign of charity 
-(Charity, chapter viii). The inward desire to worship Him is constantly present, and they welcome 
-
-22 
-
- 
- 
- 
- 
-the opportunity to do so, fully and thus freely, and with both body and mind, when the Sabbath 
+(Charity, chapter viii). The inward desire to worship Him is constantly present, and they welcome  the opportunity to do so, fully and thus freely, and with both body and mind, when the Sabbath 
 comes. Such truly remember the Sabbath Day to keep it holy. 
 
 When the Lord bids us to Remember, it behooves us to study what this injunction may mean! It 
@@ -942,17 +819,7 @@ man's mind, so that his whole spiritual body can thus "become light" with one wh
 single. 
 
 Remember the Sabbath Day! Keep the Sabbath Day, and what it stands for, constantly in the 
-thought; make it one with the love, the will; make it the Inmost of the mind! The Third 
-
-23 
-
- 
- 
- 
- 
- 
- 
-Commandment goes on to suggest what the Sabbath Day signifies in the sight of heaven, and 
+thought; make it one with the love, the will; make it the Inmost of the mind! The Third  Commandment goes on to suggest what the Sabbath Day signifies in the sight of heaven, and 
 what it should signify to men. It tells that the Lord made heaven and earth, the sea, and all their 
 contents, in six days, and rested from His labors on the seventh, and thus that the seventh 
 should be a day of rest unto the Lord, in which no labor may be done. It was as if this day was a 
@@ -993,15 +860,7 @@ Churchman must see to it that the Sabbath Day is not only a time but a state, a 
 peace and holy faith, which by the Lord's mercy is preserved in the inmosts of the regenerating 
 man's mind. That state must be expressed in the natural mind. It must come forth into reflection, 
 and whenever it does so come forth the labors and anxieties of temptation, doubt, and 
-impatience must be quieted and put aside, our earthly prudence and conceit and disorderly 
-
-24 
-
- 
- 
- 
- 
-imaginations must yield, and reverence and worship must fill our minds and prepare a place 
+impatience must be quieted and put aside, our earthly prudence and conceit and disorderly  imaginations must yield, and reverence and worship must fill our minds and prepare a place 
 before the Lord. 
 
 This is indeed the manner of man's regeneration the way in which the natural and conscious 
@@ -1065,15 +924,7 @@ and women who are inspired with justice and endowed with true judgment and are a
 upon their elders with sincere honor and with a love which understands and approves what they 
 have striven to do. The foundations of all government, all true citizenship, all social order, is thus 
 laid in the home; and there also begins the concept of love to the neighbor which is the theme of 
-the second table of the Decalogue. 
-
-26 
-
- 
- 
- 
- 
-It is therefore spiritually right to honor our natural parents in so far as those parents bring to their 
+the second table of the Decalogue.  It is therefore spiritually right to honor our natural parents in so far as those parents bring to their 
 offspring the gifts of heaven - the sphere of the conjugial life, the ideas of the spiritual faith, the 
 sanctities of worship, and the first formulations of a concept of charity in a moral life. For 
 whatever of good, of religion, or of human worth and wisdom, the child receives, albeit in 
@@ -1113,15 +964,7 @@ teaching, "for one is your Father which is in heaven" (Matthew 23:9), "and all y
 therefore called "a child of God"; an expression which, if rightly understood, involves the 
 profound truth that man's whole being must be seen to be totally dependent on the Lord who is 
 the eventual source of all his power and life, and this even in the least things of thinking and 
-acting. 
-
-27 
-
- 
- 
- 
- 
-Nor is it difficult to understand that the Church is our spiritual mother (see Matt. 12:46-50.) Not 
+acting.  Nor is it difficult to understand that the Church is our spiritual mother (see Matt. 12:46-50.) Not 
 only is the Church again and again described as the Wife or the Bride of the Lord - joined to Him 
 in a holy union of spiritual love and service; but it is the Church which at Baptism receives us 
 into her arms, and throughout childhood and youth feeds our spirits with proper food and clothes 
@@ -1163,14 +1006,7 @@ this as their spiritual Mother.
 
 It must be seen that the true love of the Lord as the Heavenly Father, the Provider and Giver of 
 all good, is present in the love of the Kingdom of the Lord, and causes a true love of the 
-neighbor. And the essential within our love of the Church is not a love of persons, but a love of 
-
-28 
-
- 
- 
- 
-the Truth of revelation. Our Father is thus the Divine Good, and our Mother is the Divine Truth. 
+neighbor. And the essential within our love of the Church is not a love of persons, but a love of  the Truth of revelation. Our Father is thus the Divine Good, and our Mother is the Divine Truth. 
 What could more universally claim our honor? Not only while we are children, but as adults, and 
 if God pleases, as angels to eternity, the fourth precept will shine before us as a holy duty and 
 an eternal condition for that Divine promise, "that thy days may be long upon the land which the 
@@ -1212,17 +1048,7 @@ of "faith alone," and eventually - if not checked - it will lead away from the t
 longer any honor for the true Father and Mother. 
 
 We cannot learn to honor what is good and true, and at the same time embrace and respect the 
-evil and the false. Each of the Divine commandments has an opposite sense; or an application 
-
-29 
-
- 
- 
- 
- 
- 
- 
-to evil conditions. And so we meet with a group of teachings in the Word like those already 
+evil and the false. Each of the Divine commandments has an opposite sense; or an application  to evil conditions. And so we meet with a group of teachings in the Word like those already 
 quoted. For the Lord said: "I am come to set a man at variance against his father, and the 
 daughter against her mother, and the daughter-in-law against her mother-in-law, and a man's 
 foes shall be they of his own household. He that loveth father or mother more than Me is not 
@@ -1264,14 +1090,7 @@ learn to shun the evils of our mortal inheritance and turn to our heavenly Fathe
 the power to become truer representatives of their functions. For the New Churchman must 
 never forget that he is but the guardian, the appointed trustee, in the work of rearing and caring 
 for the young. The Lord has given this work to parents to do, according to the laws of 
-Providence. The honor due to parents is not theirs to refuse. But the Church is alone the real 
-
-30 
-
- 
- 
- 
-mother; and it follows from our belief in the New Church as the Wife of the Lamb, that our 
+Providence. The honor due to parents is not theirs to refuse. But the Church is alone the real  mother; and it follows from our belief in the New Church as the Wife of the Lamb, that our 
 children have been given to us in order that this Spiritual Mother may feed them, and that we 
 should assist rather than make difficult the transfer of our children's affections to their Heavenly 
 Parents. Only if we do that work wisely can we hope to retain a due measure of our children's 
@@ -1319,19 +1138,7 @@ heaven, yea, in hell also, does the law against killing hold good.
 
 The civil law of every country forbids murder; and under this law there are also enactions 
 against assault, brutality, and criminal carelessness or negligence, whereby the lives, health, or 
-reasonable wellbeing of the neighbor might be endangered or injured. 
-
-32 
-
- 
- 
- 
- 
- 
- 
- 
- 
-But the civil law, or civil society, for the sake of its own welfare, is also interested to prevent 
+reasonable wellbeing of the neighbor might be endangered or injured.  But the civil law, or civil society, for the sake of its own welfare, is also interested to prevent 
 other injuries to human life. There are laws against libel - against any efforts to kill a man's 
 reputation, to destroy his honor, or to bring evil upon his good name. The Heavenly Doctrine 
 informs us clearly upon this point, stating that "fame and life with many go hand in hand" (TCR 
@@ -1373,14 +1180,7 @@ charity also causes a man to hesitate in making judgments in matters outside his
 illustration, and to realize that where Providence has not clearly set him up as judge the better 
 rule is to heed the Lord's warning, "Judge not, that ye be not judged." The good name, the 
 usefulness, the civic and social life and happiness of our neighbor are, in Providence, entrusted 
-to us to hold in honor, and to preserve from damage of evil tongue and unconsidered word. 
-
-33 
-
- 
- 
- 
-To kill means to destroy, partly or wholly. The Jews, in their time, took the commandment to 
+to us to hold in honor, and to preserve from damage of evil tongue and unconsidered word.  To kill means to destroy, partly or wholly. The Jews, in their time, took the commandment to 
 mean that he who killed another was liable to punishment in this world. But the Lord widened 
 the idea. He showed that the anger of hatred is essential murder, and that one who, without 
 cause, or rashly, is angry with his brother, and from confirmed anger acts contemptuously 
@@ -1421,16 +1221,7 @@ morbid, lurid light of phantasy which sees all things in "red" -i.e., in a false
 
 It is well to know what the anger of hatred is, for it must be shunned and controlled and removed 
 if man is ever to enjoy the light of heaven and live in the Lord's kingdom. For anger is from the 
-love of self - from the intolerance which comes from the love of indulging one's desire to rule 
-
-34 
-
- 
- 
- 
- 
- 
-over others, or of having one's own way in spite of the opposing rights of others. This anger 
+love of self - from the intolerance which comes from the love of indulging one's desire to rule  over others, or of having one's own way in spite of the opposing rights of others. This anger 
 flames out against all who differ, or who limit the man's delight and do not favor him; and it 
 breeds revenge and cruelty. To shun as murder everything of hatred and enmity, or internal 
 envy and grudge, is to obey the spiritual-moral sense of the fifth precept. 
@@ -1472,15 +1263,7 @@ Church, by appearing to take away from men their spiritual freedom.
 
 This effort of hell is real murder. But it is achieved only with man's consent and desire. It may 
 not appear to be murder when men here on earth inject scandals against some truth of religion, 
-or some means of salvation - when they contrive to create aversion for the things of worship and 
-
-35 
-
- 
- 
- 
- 
-instruction - and thus by subtle and apparently trivial methods turn men away from God, from 
+or some means of salvation - when they contrive to create aversion for the things of worship and  instruction - and thus by subtle and apparently trivial methods turn men away from God, from 
 religion, and from heaven. But this is the soul of all the hatred and anger and revenge of hell. 
 
 And therefore, in the Word of God, the signs of the end of the age when the judgment would 
@@ -1547,16 +1330,7 @@ such a law as the sixth precept - "Thou shalt not commit adultery" - it becomes 
 civil power can effect anything of permanent value except so far as this effort is upheld by the 
 state of religion among its citizens. And even where religion rules, it is relatively easier to follow 
 the ideals of the Church and the dictates of its thought and doctrine, when these coincide with 
-the current opinion of the world. 
-
-37 
-
- 
- 
- 
- 
- 
-Public crimes, which threaten society with immediate consequences, are generally publicly 
+the current opinion of the world.  Public crimes, which threaten society with immediate consequences, are generally publicly 
 condemned. But personal evils - such as relate to the relation and mutual attitude of the sexes, 
 and whose consequences are at first private and thus less apparent - are not so popularly 
 condemned. Here, therefore, the battle is more severe. Man has to fight, in silence, an individual 
@@ -1598,15 +1372,7 @@ We cannot here dwell on the uses of the marriage of conjugial love, on the regen
 of the conjugial life, on the educative value of a home which is built up around a love of the 
 Lord, a conjugial love between parents, and thus a love of offspring. Nor can we more than refer 
 to the felicity and delights which only truly conjugial love can give, and the protection against 
-hell which such love guarantees (AE 999). So important is the knowledge of these things to the 
-
-38 
-
- 
- 
- 
- 
-New Church of the present and to the world of the future, that an entire volume of revealed 
+hell which such love guarantees (AE 999). So important is the knowledge of these things to the  New Church of the present and to the world of the future, that an entire volume of revealed 
 doctrine is devoted to the virtual exposition of the Sixth Commandment, under the title of 
 Conjugial Love. Without the inspiration of that God-given work, the New Church could not hope 
 to survive through the temptations of the present world. Without the reverent reading of that 
@@ -1648,15 +1414,7 @@ infants it should mean Innocence and Charity. To children it should mean Purity 
 behavior toward the opposite sex) Courtesy and Obedience, Tenderness and Friendship and 
 Chivalry. To the adolescent youth it must mean an open-minded confidence in his or her 
 parents and thoughtful consideration of their guidance; it must mean responsible self-control in 
-the face of unknown temptations, modesty, and mutual respect between the sexes, and a 
-
-39 
-
- 
- 
- 
- 
-deepening reverence towards marriage; it must mean the cultivation of a wholesome idealism 
+the face of unknown temptations, modesty, and mutual respect between the sexes, and a  deepening reverence towards marriage; it must mean the cultivation of a wholesome idealism 
 which leads to an aversion against what is immoral or unhealthy, and to an avoidance of evil 
 companionship. To the young man and the young woman, the sixth commandment means 
 especially the need for a religious ideal in their relations to those of the other sex, whether in 
@@ -1698,13 +1456,7 @@ Heavenly Doctrine. Only by obedience not half-hearted part-obedience, but full a
 consent, evidenced and supported by a research of the laws of Conjugial Love, a study of the 
 Lord's conditions for granting true love - only by such unquestioning obedience is a sphere of 
 innocence established in the church -a sphere from heaven, which, in its essence, is so 
-powerful that the gates of hell shall not prevail against it and evil spirits will flee from it. In this 
-
-40 
-
- 
- 
-atmosphere of loyalty to the Doctrine, the fulfillment shall come of the promise given, that those 
+powerful that the gates of hell shall not prevail against it and evil spirits will flee from it. In this  atmosphere of loyalty to the Doctrine, the fulfillment shall come of the promise given, that those 
 (only) will appropriate conjugial love to themselves who will be received by the Lord into the 
 New Church which is the New Jerusalem (CL 43). 
 
@@ -1744,16 +1496,7 @@ The higher virtues of love to God and to fellow-men all cohere within conjugial 
 their opposites which cohere within adultery, and which indeed lead to abominable perversions 
 in hell. The most obvious sin within adultery is of course the breaking of the sacred marriage 
 promise, which initiated the conjugial life by an assurance of its continuance beyond the end of 
-life. Without a looking to eternity, conjugial love and conjugial unity can never be achieved. 
-
-41 
-
- 
- 
- 
- 
- 
-In inward aspect adultery causes other bonds, other covenants, to be broken; heavenly 
+life. Without a looking to eternity, conjugial love and conjugial unity can never be achieved.  In inward aspect adultery causes other bonds, other covenants, to be broken; heavenly 
 covenants which, when broken, lead to separations far more terrible than that of two human 
 beings from each other, or the breaking up of homes. For by adultery man separates himself 
 from heaven, and from the Lord, and from the goods and truths of the Church. This separation, 
@@ -1812,16 +1555,7 @@ And thus the general state of a people will itself determine the distribution of
 property, whether this be wise or foolish, whether it be just or unjust. And nothing can make for 
 a wise distribution except the knowledge of the degrees of uses and the proper subordination of 
 uses among themselves. And this perception does not come except the people learn wisdom - 
-learn to value that which is of the greatest and deepest use above what is trivial and accessory. 
-
-43 
-
- 
- 
- 
- 
- 
-We have dwelt upon these general truths because at this day the Divine precept, "Thou shalt 
+learn to value that which is of the greatest and deepest use above what is trivial and accessory.  We have dwelt upon these general truths because at this day the Divine precept, "Thou shalt 
 not steal," is being universally challenged, and with it the right of individual ownership. It is 
 complained that there is no justice in the distribution of wealth; yet this complaint is often not 
 accompanied by the desire to curb the love of the world which, prodded by selfishness, has 
@@ -1863,14 +1597,7 @@ sake of use, and that Providence is still the administrator. It would be true th
 invented that right, another man might lawfully challenge it. For man of himself has no rights, no 
 inherent dignities; what we speak of as "human rights" are really rights pertaining to the uses 
 and functions which we exercise or are learning to exercise. When thefts and misappropriations 
-are shunned as sins against God, an acknowledgment is implied that it is not for man to say "I 
-
-44 
-
- 
- 
- 
-may" when the Lord commands "Thou shalt not steal"; for unless we so confess the Lord's right 
+are shunned as sins against God, an acknowledgment is implied that it is not for man to say "I  may" when the Lord commands "Thou shalt not steal"; for unless we so confess the Lord's right 
 to command, we steal the Divine powers that are His. 
 
 Frequently it has been brought in as a matter of grave doubt whether a man can, at this day and 
@@ -1911,15 +1638,7 @@ by constant disapprovals, insinuations and faultfinding; we can steal or destroy
 defamation or slander or unwarranted accusations. We can steal the dignity from a person's 
 office or use by a distorted sense of humor; or we can ascribe to ourselves the honor which 
 really belongs to our use. We can rob people of their freedom; divert to ourselves the praise 
-which should be theirs; yea, we can squander the future of our children by depriving them of a 
-
-45 
-
- 
- 
- 
- 
-right education; or gamble away the salvation of our immortal souls which yet belong to the Lord 
+which should be theirs; yea, we can squander the future of our children by depriving them of a  right education; or gamble away the salvation of our immortal souls which yet belong to the Lord 
 alone. 
 
 The mention of this latter possibility leads us away from the natural and into the spiritual sense 
@@ -1961,16 +1680,7 @@ not trust Him and His leading, but only trust themselves; and also when they thi
 be saved and inherit heaven because of their own merit or righteousness. 
 
 All the evils that have been mentioned and many others are involved and are thus interiorly 
-contained within the evil of stealing. The very act of theft, be the stolen object ever so trivial, 
-
-46 
-
- 
- 
- 
- 
- 
-gives a basis in the natural mind for the influx of all the hells which are in the various evils that 
+contained within the evil of stealing. The very act of theft, be the stolen object ever so trivial,  gives a basis in the natural mind for the influx of all the hells which are in the various evils that 
 have been described. For this reason, and because of this internal connection, stealing leads to 
 deceit and to lying and to all other evils. And while it is true that a man as long as he lives in the 
 world still retains the capacity to repent if he wishes to exert this power; and while we can 
@@ -2012,15 +1722,7 @@ aggressive, if evil lusts are given sway, if the mind dwells on evil desires; th
 infest and consume the remains of good and truth, or rather, pervert them and invert them, so 
 that evils and falsities come to occupy the interiors which the Lord destined for His own abode. 
 This is done especially where deceit is present. And it causes a spiritual theft, an invasion of the 
-spirit of man, a burglary committed against the treasures of the kingdom of heaven before these 
-
-47 
-
- 
- 
- 
- 
-have been so confirmed and appropriated by regeneration that "moth and rust" could not corrupt 
+spirit of man, a burglary committed against the treasures of the kingdom of heaven before these  have been so confirmed and appropriated by regeneration that "moth and rust" could not corrupt 
 them nor "thieves break through and steal." The result is an alienation of the truths and goods of 
 remains. All evil is therefore a theft by man's self-will and a usurpation by man of that holy place 
 within the natural mind of man which the Lord had reserved for Himself, for His abode, His 
@@ -2073,16 +1775,7 @@ he is then bearing false witness about himself and about the evils which infest 
 made evil to appear good; has persuaded himself that it was orderly. And what a man has once 
 and for all made himself believe to be allowable, that he continually commits in the secrecy of 
 his own heart. He can in no way be led away from evil so confirmed, unless his eyes should be 
-opened to the monstrous fact that he is living as "the witness of a lie." 
-
-49 
-
- 
- 
- 
- 
- 
-The evil of lying, which is committed in the understanding of man and thence in his speech, is 
+opened to the monstrous fact that he is living as "the witness of a lie."  The evil of lying, which is committed in the understanding of man and thence in his speech, is 
 therefore especially dangerous because it confirms and establishes his evils of intention or act. 
 And because of this its terrible consequence, falsehood must be regarded as an interior evil to 
 be guarded against continually, whatever forms it may take, lest it become habitual and 
@@ -2123,14 +1816,7 @@ consecrated to truth, and must neither be insincerely given, nor lightly broken.
 treacherous foundation one's life must have if, from the very beginning, insincerity and guile 
 undermine and weaken one's faith even in oneself! - if the consciousness of being guilty of 
 falsehood is inwardly fretting his mind! Inevitably there comes the need of constant 
-dissemblance, and there develops an almost subconscious effort to rear a structure of other lies 
-
-50 
-
- 
- 
- 
-to cover up those first uttered, until man instinctively begins to believe in some of his own 
+dissemblance, and there develops an almost subconscious effort to rear a structure of other lies  to cover up those first uttered, until man instinctively begins to believe in some of his own 
 distortions of the truth. 
 
 It may appear from what has been said that the duties of parents are difficult. For they cannot 
@@ -2171,16 +1857,7 @@ alleged doings and especially the faults of others.
 Even in the Jewish Church the moral import of this commandment was seen. For - how can any 
 social effort be brought to fruition if the atmosphere of a community is poisoned by cynicism, 
 suspicion, and mistrust, and if we are inclined to watch for the failings of others? How can frank 
-friendship exist where there is mutual fear that the confidences of intimacy will be abused? 
-
-51 
-
- 
- 
- 
- 
- 
-Even though gossip be innocent with many - and born of friendly interest - yet it is often used as 
+friendship exist where there is mutual fear that the confidences of intimacy will be abused?  Even though gossip be innocent with many - and born of friendly interest - yet it is often used as 
 the highway of slander. It is well for us to reflect on the sentiment of the Apostle James, that the 
 tongue is boastful, "poisonous," and, though little, is "unruly" and "hard to tame"; able to cause 
 vast destruction, even as a small spark can set a world afire, so long as fuel is abundant (James 
@@ -2222,16 +1899,7 @@ self-examination and constant repentance.
 
 "Every one that doeth evil hateth the light, neither cometh to the light, lest his deeds should be 
 reproved" (John 3:20). If we should enter into the spiritual meaning of the eighth precept, we 
-should find that those words of the Lord are the very words of judgment upon the evil after 
-
-52 
-
- 
- 
- 
- 
- 
-death. Those whose deeds are evil will flee from the truth, will hate the truth, will prefer to live on 
+should find that those words of the Lord are the very words of judgment upon the evil after  death. Those whose deeds are evil will flee from the truth, will hate the truth, will prefer to live on 
 as if the truth was merely a dream - an unreality. Thus they choose the life of phantasy - the life 
 of hell - the life of their self-love. 
 
@@ -2316,16 +1984,7 @@ now calls and invites all that have ears to hear. This new doctrine - which is t
 received among the angels - teaches that man can be regenerated only if he actually repents, 
 not merely of the evils he has committed by word and deed, but of the evils that lie hidden in his 
 spirit as lusts or evil desires. By repentance is meant acknowledgment of an evil, resistance to 
-it, and discontinuance of it with prayer to the Lord for help. For when man in his natural thought 
-
-54 
-
- 
- 
- 
- 
- 
-resists and repents of evils, the Lord by Divine power will remove the lusts of evil from the 
+it, and discontinuance of it with prayer to the Lord for help. For when man in his natural thought  resists and repents of evils, the Lord by Divine power will remove the lusts of evil from the 
 internal man; which is done by His separating man's spirit or mind from the societies of evil 
 spirits which inspire such lusts. The evil that man has longed for and lusted for before 
 repentance indeed still remains organically with man as scars in his mind; but these evil forms 
@@ -2367,15 +2026,7 @@ performs, such character as he possesses. These must be acknowledged as justly h
 be content with whatever of mental peace the Lord has bestowed on us - content with the 
 spiritual lot which is to be ours, and utterly trustful in the justice of Providence. We should 
 gradually learn to strive for heaven, not as for a reward, but as for a kingdom of such uses as 
-can only be performed in purity of heart. 
-
-55 
-
- 
- 
- 
- 
-And because this commandment inculcates a new love, of uses rather than of rewards, of 
+can only be performed in purity of heart.  And because this commandment inculcates a new love, of uses rather than of rewards, of 
 heaven rather than of the world, therefore the Heavenly Doctrine gives us to know that the 
 inward contents of the precept against coveting the neighbor's house specifically is, that one 
 must beware lest the evils springing from the love of the world become of one's will and thus 
@@ -2414,17 +2065,7 @@ evils instead of opposing them as sins against God.
 And from without, that is, from the world, come constant allurements and temptations, stirring 
 the thoughts and opening the mind to a new influx of some lust from the evil will; or, what is the 
 same, from hell. The evil will of the hereditary proprium is but a dead thing, were it not for the 
-fact that it is an organ moved and controlled from hell. 
-
-56 
-
- 
- 
- 
- 
- 
- 
-Man cannot always avoid coming into contact with evil. He cannot prevent evil at times from 
+fact that it is an organ moved and controlled from hell.  Man cannot always avoid coming into contact with evil. He cannot prevent evil at times from 
 entering his thoughts, and inviting the influx of hell. Indeed it is only so that he can become 
 acquainted with the horror of evil - and come to realize its power - its tyranny, its merciless 
 cruelty and ugliness. It is only so that evil can be recognized for what it is, and that man can 
@@ -2466,15 +2107,7 @@ consent to the thoughts which our hereditary inclinations would have us entertai
 guests. 
 
 For what is retained in the thought of man - what is kept active for long, what is not rejected but 
-is accepted with some delight excused and held agreeable - that enters and forms his will. If it is 
-
-57 
-
- 
- 
- 
- 
-good and true it forms the new regenerate will, but if evil it forms, in man's consciousness, an 
+is accepted with some delight excused and held agreeable - that enters and forms his will. If it is  good and true it forms the new regenerate will, but if evil it forms, in man's consciousness, an 
 evil will which is at one with that old evil hereditary will which was, by the Lord's mercy, at first 
 closed off for the sake of man's freedom. Man must beware against thus allowing the love of the 
 world to stretch forth its lusts like tentacles from the old will into the understanding, and there 
@@ -2516,16 +2149,7 @@ sin against Him - a denial of His mercy and continual watchful providence. It is
 against Him. It contains at bottom a fretting hatred against the Lord the Creator for not making a 
 different universe - a world where we could always be supreme. The lust of worldliness is envy 
 against the Lord's claim upon us for a place in our lives and in our minds and hearts - envy 
-against Him as our supreme Neighbor. 
-
-58 
-
- 
- 
- 
- 
- 
-The human mind - which is so fearfully and wonderfully made, so curiously wrought - is the 
+against Him as our supreme Neighbor.  The human mind - which is so fearfully and wonderfully made, so curiously wrought - is the 
 house of the Lord. It is built by the Lord as His abode - an abode in which our spirit is but a 
 guest Let us pray that we may ever freely grant Him room, and not covet for ourselves our 
 Neighbor's House. 
@@ -2573,16 +2197,7 @@ or the lust of possessing the goods of another, the Tenth Commandment in effect 
 must not will, or be eager, to rule over our neighbor to his detriment (AE 1021:2). 
 
 Much emphasis is laid in the Heavenly Doctrine upon the fact that all evils come from two roots 
-or springs, and these are the evil Love of the World and the evil Love of Self. Even if man's life 
-
-60 
-
- 
- 
- 
- 
- 
-were ever so faultless; even if he -like the rich young man of the Gospel story -had conducted 
+or springs, and these are the evil Love of the World and the evil Love of Self. Even if man's life  were ever so faultless; even if he -like the rich young man of the Gospel story -had conducted 
 himself in entire obedience to the first eight commandments, as to his outward behavior; even if 
 he, as Paul suggested (I Cor. xiii), spake with the tongues of men and angels, understood all 
 mysteries and all knowledge; even if he bestowed all his goods to feed the poor, and gave his 
@@ -2624,17 +2239,7 @@ No word has been so much abused as the word LOVE; nor so much misunderstood. Tha
 misunderstanding strikes at the very roots of human happiness. Its tragic reflections are seen in 
 the many disillusionments of life - friendships that fail, marriages that go to wreck, associations 
 that are found to have no soul. But the wisdom of life - at this day - is at its low ebb. It is lost, 
-and has to be learnt anew; because it is thought that "to love one's own in another" is love! And 
-
-61 
-
- 
- 
- 
- 
- 
- 
-the heavenly teaching is therefore now given: that love is to feel the delight of another as delight 
+and has to be learnt anew; because it is thought that "to love one's own in another" is love! And  the heavenly teaching is therefore now given: that love is to feel the delight of another as delight 
 in one's self (DLW 47); or to be happy when others are happy. So often it is said that someone 
 loves another when this other person pleases him - as that a man loves a maid when he likes 
 her beauty and grace of mind and body, and enjoys her conversation, her cheerfulness and 
@@ -2676,16 +2281,7 @@ evil loves when they come to our apprehension:
 It appears that Swedenborg, already in the year 1749 (eight years before the Last Judgment), 
 was observing how the spirit-world, increasingly congested with evil spirits, was becoming 
 worse and worse, and how it turned all the influences of heaven into evil, instead of transmitting 
-them unperverted to mankind on earth. Certain spirits then blamed their evils upon the general 
-
-62 
-
- 
- 
- 
- 
- 
-ruling state of evil, saying in effect, "How can we be good if the rest are evil?" and adding that 
+them unperverted to mankind on earth. Certain spirits then blamed their evils upon the general  ruling state of evil, saying in effect, "How can we be good if the rest are evil?" and adding that 
 since everything is from influx, men would not be in fault for the evil they do on earth. 
 Swedenborg was then inspired to reply to their reasoning, that evils active in the world of spirits 
 and thus inspired into men's minds were appropriated to men because men were persuaded 
@@ -2727,14 +2323,7 @@ The love of self displays its potency for evil in manifold ways. With the politi
 the ruler, it takes the form of a love of worldly dominion which drugs itself with a sense of power 
 and self-importance, and is unsatisfied as long as its tyranny is opposed. Whether it persuades 
 by the sword or by material wealth or by fear or ignorance or by an appeal to the gain and 
-self-interest of other men, it imposes its own order under the pretext of expediency. It is 
-
-63 
-
- 
- 
- 
-contemptuous of weakness, pitiless and blind to human misery. It rushes on insanely, heedless 
+self-interest of other men, it imposes its own order under the pretext of expediency. It is  contemptuous of weakness, pitiless and blind to human misery. It rushes on insanely, heedless 
 that it leaves the world in ruins. It reckons with no borders, no treaties, no principles of equity. 
 And its spirit is the same whether its domain is confined within four walls or extended over a 
 continent, whether it exercises its control openly or by subtle and hidden methods, and whether 
@@ -2775,18 +2364,7 @@ away the power of thought and the understanding of truth, and induces a stupor i
 428). Such persuasion is seldom possible on earth; but still the love of dominion - even here - 
 urges men continually to persuade others and to make them surrender their own free will, their 
 own reason, their own initiative, and their own delight of being in free choice and in free 
-cooperation with the Lord. 
-
-64 
-
- 
- 
- 
- 
- 
- 
- 
-To shun the lusts of the love of self means therefore that we should not begrudge the fullest 
+cooperation with the Lord.  To shun the lusts of the love of self means therefore that we should not begrudge the fullest 
 freedom of thought and will to the neighbor, and do nothing which will cause him to surrender to 
 us the rational life of his mind. It means that we should preserve in the neighbor that precious 
 appearance that he lives as if from himself, for upon this all his delight of life and of use rests. 
@@ -2808,11 +2386,4 @@ The evils of coveting are, therefore, sins against God. He who shuns them as suc
 himself, shuns inwardly all the evils mentioned in the Decalogue. And the celestial covenant 
 which the ten precepts are given to protect, will then be inscribed upon his spirit, and stored 
 there within the curtains of his mind, as in an Ark of gold. And God Himself shall dwell with him, 
-and be his God. 
-
-65 
-
- 
- 
- 
-
+and be his God.  
