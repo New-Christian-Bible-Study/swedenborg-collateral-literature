@@ -1,6 +1,6 @@
 # Editing Environment Setup
 
-The environment for editing the concordance files is shown below.
+The environment for editing the concordance files is shown below. It's the same for the collateral-literature files.
 
 ![](../images/swconcord-editing.png)
 
