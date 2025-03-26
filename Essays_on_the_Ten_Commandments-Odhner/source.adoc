@@ -24,23 +24,18 @@ meaning is laid clear in the setting of chapter twenty of the book of Exodus (no
 Further explanations are given in The Doctrine of Life, 53-91 and nos. 108ff., in The Doctrine of 
 the Sacred Scripture 67, and in The Divine Providence nos. 329 ff., etc. 
 
-For the sake of completeness a copy of the two versions of the Commandment are prefaced 
-(pages 5-7). 
-
+__For the sake of completeness a copy of the two versions of the Commandment are prefaced 
+[line-through]#(pages 5-7).#
+// NOTE: page numbers above and below are no longer valid
 And in order to facilitate the use of these Scripture passages in worship, a selection of lessons 
-from the threefold Word is also given on p. 8. 
+from the threefold Word is also given [line-through]#on p. 8.# __
 
 Hugo Lj. Odhner 
 
-Bryn Athyn, Pennsylvania 
+Bryn Athyn, Pennsylvania + 
 April 1971 
 
-4 
 
- 
- 
- 
- 
  
  
 === The Ten Commandments from Exodus 
@@ -152,8 +147,10 @@ another.
 
 John 13:34,35 
 
-=== Selected Readings for Services 
+=== Selected Readings for Services
+_is an unresolved table_
 
+////
 Text  Old Testament, etc.  New Testament 
 
 Writings 
@@ -257,6 +254,7 @@ Rev. 18:1-21
 Matt. 18:1-20 
 
 TCR 400:8-10 
+////
 
 <<<
 
