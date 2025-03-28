@@ -1,11 +1,13 @@
-January 9, 1953
+= Application of Doctrine
+By George De Charms
+include::../template-attributes.adoc[]
+
+// need body as preamble before contents
+{empty}
+
+== I. INTRODUCTION.
+January 9, 1953 + 
 February 23, 1971
-
-DOCTRINAL LECTURE
-
-By Bishop George de Charms
-
-I. INTRODUCTION.
 
 I. The faith or the New Church is based on the conviction that in the Theological Writings of Emanuel Swedenborg the Lord Jesus Christ has fulfilled His promise to come again that He may be visibly present with men to teach them and to lead them in paths or true happiness and lasting peace.
 
@@ -220,20 +222,16 @@ b. But what the Writings mean by an attitude of internal humility is something n
 
 c. We shall endeavor at our next class to show, at least to some degree, just what that difference is.
 
-Readings: HH 351.
-
-Music: Doxology 17-398
-
+Readings: HH 351. + 
+Music: Doxology 17-398 + 
 Hymn 22-442 (Verse 1, 3)
 
-January 16, 1953
+<<<
+
+== II. THE SPIRIT OF HUMILITY.
+January 16, 1953 + 
 March 8, 1971
 
-DOCTRINAL LECTURE
-
-THE APPLICATION OF DOCTRINE.
-
-II. THE SPIRIT OF HUMILITY.
 
 I. The Writings plainly teach that the very first requirement or religion is a spirit or humility.
 
@@ -441,14 +439,11 @@ The essence or the faith of the New Church is truth from the Word.
 
 And the existence or the faith of the New Church is spiritual sight, in accordance with truths, conviction, acknowledgment inscribed on the mind.
 
-January 23, 1953
+<<<
+
+== III. CONFIDENCE IN THE LORD.
+January 23, 1953 + 
 March 23, 1971
-
-DOCTRINE LECTURE.
-
-THE APPLICATION OF DOCTRINE.
-
-III. CONFIDENCE IN THE LORD.
 
 I. We have said that an attitude or internal humility is the very first essential or a truly religious life. But the Writings teach that genuine humility must be accompanied by a deep sense of confidence in the Lord, and by an abiding trust in the dispensations or His Providence.
 
@@ -658,13 +653,10 @@ Pittsburgh, Pa., September 27, 1963
 
 AE 759:2: ...It is granted to the men or the New Church, that is called the Holy Jerusalem, to behold the truths that are in the Word, not sensually, that is, according to appearances, but spiritually, that is, according to their essences; for this reason the internal sense of the Word, which is spiritual and is solely for those who will be of that Church, has been disclosed.... All who are of that Church have the understanding enlightened, and from this they are able to see truth from the light of truth, that is, whether a thing be true or not true. Because they see truth in this say they acknowledge it, and receive it with the affection which is of the will. By this the truths they have are made spiritual; and in consequence, the spiritual mind which is above the natural mind, is opened with them, and when this is opened it receives angelic sight, which is the sight or truth itself from its own light.
 
+<<<
+
+== IV. THE LOVE OF SPIRITUAL TRUTH.
 April 20, 1971
-
-DOCTRINAL LECTURE.
-
-THE APPLICATION OF DOCTRINE.
-
-IV. THE LOVE OF SPIRITUAL TRUTH.
 
 I. We have pointed out that if the Lord is to be truly seen and known, loved and worshiped, two things are necessary: He must come to man by means of a Divine revelation, and man must freely come to Him seeking instruction and guidance.
 
@@ -889,14 +881,11 @@ TCR 282: There is not a nation in the, whole world which does not know that it i
 
 TCR 289: In the spiritual and celestial senses the Decalogue contains universally all the precepts of doctrine find life, thus all things or faith and charity, because the Word in each and all things or the sense or the letter, or in general and in every part or it, conceals two interior senses, one celled the spiritual sense, and the other the celestial.... And because the Word in general and in every part of it is so constituted, the Ten Commandments or the Decalogue must needs be explained according to these three senses, called the natural, the spiritual, and the celestial.
 
-April 4, 1971
+<<<
+
+== V. THE REMOVAL OF EVIL. (1)
+April 4, 1971 + 
 February 20, 1953
-
-DOCTRINAL LECTURE
-
-THE APPLICATION OF DOCTRINE
-
-V. THE REMOVAL OF EVIL.
 
 I. We have said that the New Church is to be distinguished from all other religions by a love of spiritual truth.
 
@@ -1076,25 +1065,14 @@ AC 9938: ...The gifts that were offered in the Jewish Church, and which were chi
 
 AC 9452: The Lord regenerates man from Divine mercy. This is done from his infancy dean to the last of his life in the world, and afterward to eternity. Thus it is from Divine mercy that the Lord withdraws man from evils and falsities, and leads him to the truths of faith and goods of love, and afterwards keeps him in these. And after this, in Divine mercy He raises him to Himself in heaven, and makes him happy. All this is what in meant by the forgiveness or sins from mercy. They who believe that sins are forgiven in any other way are quite mistaken....
 
-DOCTRINAL LECTURE
+<<<
 
-THE: APPLICATION OF DOCTRINE
+== VI. THE REMOVAL OF EVIL (2)
+Delivered: Bryn Athyn, Pa., February 27, 1953 + 
+New York, N. Y., April 14, 1957 + 
+Rockford, Ill., October 7, 1958 + 
+February 27, 1953. May 4, 1971 + 
 
-VI. THE REMOVAL OF EVIL (2)
-
-Delivered: Bryn Athyn, Pa., February 27, 1953
-
-New York, N. Y., April 14, 1957
-
-Rockford, Ill., October 7, 1958
-
-February 27, 1953. May 4, 1971
-
-DOCTRINAL LECTURE.
-
-THE APPLICATION OF DOCTRINE.
-
-VI. THE REMOVAL OF EVIL (2)
 
 I. At our last class we stressed the teaching or the Writings as to what evil really is, or what makes an evil to be a sin against God and by comparison we showed how greatly this teaching differs from that to be found in other religions. And this evening we would consider the question as to how evils or sin may be overcome end removed.
 
@@ -1279,8 +1257,7 @@ d. And these are the evils against which those who belong to the New Church are 
 
 e. And as this is done, we have the Divine promise that the Lord, in a thousand miraculous ways, will deliver mankind from the power of evil, and will establish His heavenly kingdom in the hearts of men, that; they may come at last into the peace, security, and happiness of genuine charity and mutual love.
 
-f. Then indeed will the prophecy be fulfilled: Behold, the tabernacle of God is with men and He will dwell with them, and they shall be His people, and God Himself shall be with them, and be their God
-(Revelation 21:3).
+f. Then indeed will the prophecy be fulfilled: Behold, the tabernacle of God is with men and He will dwell with them, and they shall be His people, and God Himself shall be with them, and be their God (Revelation 21:3).
 
 Reading: AC 9938, 9452. Music: Hymns 70-499
 
