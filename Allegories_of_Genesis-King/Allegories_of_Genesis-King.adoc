@@ -1,138 +1,12 @@
-Allegories of Genesis 
-
-By Thomas A. King 
-
-1922 
-
+= Allegories of Genesis 
+By Thomas A. King 1922 
+include::../template-attributes.adoc[]
+ 
+//no prelude
+{empty}
  
  
- 
- 
- 
-Contents 
-
-The First Day of Creation
-
-The Second Day of Creation
-
-The Third Day of Creation
-
-The Fourth Day of Creation
-
-The Fifth Day of Creation
-
-The Sixth Day of Creation
-
-The Sabbath Day of Creation
-
-The Creation of Adam
-
-The Garden Eastward in Eden
-
-The River of Eden Parted Into Four Heads
-
-The Sleep of Adam: the Creation of Eve
-
-The Serpent of Eden
-
-The Curse Upon the Serpent, the Woman and the Ground
-
-The Expulsion from Eden
-
-The Offerings of Cain and Abel
-
-The Death of Abel: Cain a Fugitive and Vagabond
-
-Cain in the Land of Nod: the Birth of Enoch
-
-The Birth of Seth: His Descendants: Enoch's Walk With God
-
-The Sons of God: the Daughters of Men: the Giants of the Ancient World
-
-The Building of the Ark: the Clean and the Unclean Beasts
-
-The Flood: Noah and His Family Saved
-
-The Noetic Church: the Abating of the Waters: the Resting of the Ark on the Mountain
-
-The Raven and the Dove
-
-The Bow in the Cloud
-
-Noah's Vineyard: His Drunkenness and His Exposure
-
-The Sin of Ham: the Curse on Canaan
-
-The Generations of Shem, Ham and Japheth
-
-Nimrod and the Beginning of His Kingdom
-
-The Journey from the East: the Tower of Babel and the Confusion of Tongues
-
-4 
-
-7 
-
-10 
-
-13 
-
-16 
-
-19 
-
-22 
-
-25 
-
-28 
-
-31 
-
-34 
-
-37 
-
-40 
-
-43 
-
-47 
-
-50 
-
-53 
-
-56 
-
-59 
-
-62 
-
-65 
-
-68 
-
-71 
-
-74 
-
-77 
-
-80 
-
-83 
-
-86 
-
-89 
-
- 
- 
- 
- 
- 
-The First Day of Creation 
+== The First Day of Creation 
 
 Gen 1:1-5 
 
@@ -250,7 +124,7 @@ and there was light."
  
  
  
-The Second Day of Creation 
+== The Second Day of Creation 
 
 Gen 1:6-8 
 
@@ -355,7 +229,7 @@ Regeneration—the new life—that must be her aim. For this the Word, the Doctr
 means of grace, exist. 
 
  
-The Third Day of Creation 
+== The Third Day of Creation 
 
 Gen 1:9-13 
 
@@ -450,7 +324,7 @@ communicates to us the inward joy of heaven in a peace that passes all understan
 unspeakable and full of glory. 
 
  
-The Fourth Day of Creation 
+== The Fourth Day of Creation 
 
 Gen 1:14-19 
 
@@ -547,7 +421,7 @@ the Divine guidance of the human lives that are committed to Him whose watchful 
 withdrawn from His child. 
 
  
-The Fifth Day of Creation 
+== The Fifth Day of Creation 
 
 Gen 1:20-23 
 
@@ -644,7 +518,7 @@ high and holy human quality that He calls "man."
 
  
  
-The Sixth Day of Creation 
+== The Sixth Day of Creation 
 
 Gen 1:24-31 
 
@@ -752,7 +626,7 @@ operating and you co-operating, make man—the spiritual man in you, who as he c
 power, will have dominion over all lower things, subduing and bringing them into order." 
 
  
-The Sabbath Day of Creation 
+== The Sabbath Day of Creation 
 
 Gen 2:1-4 
 
@@ -860,7 +734,7 @@ day." For when the Sabbath of regeneration dawns, the work is done; and one unen
 spiritual peace and joy reigns in the purified soul. 
 
  
-The Creation of Adam 
+== The Creation of Adam 
 
 Gen 2:5-7 
 
@@ -961,7 +835,7 @@ innocent, yet wise life in the hearts, and revelation was the voice of the heave
 souls. 
 
  
-The Garden Eastward in Eden 
+== The Garden Eastward in Eden 
 
 Gen 2:8-9 
 
@@ -1067,7 +941,7 @@ garden, but to turn to it and seek to enter into heavenly things from self would
 death. Thus it was said: "In the day thou eatest thereof, thou shalt surely die." 
 
  
-The River of Eden Parted Into Four Heads 
+== The River of Eden Parted Into Four Heads 
 
 Gen 2:10-17 
 
@@ -1188,7 +1062,7 @@ reached and affected by the wisdom of the Lord which thus adapted itself to ever
 being. 
 
  
-The Sleep of Adam: the Creation of Eve 
+== The Sleep of Adam: the Creation of Eve 
 
 Gen 2:18-25 
 
@@ -1300,7 +1174,7 @@ not ashamed." There was no guilt up to this point. It was only the beginning of 
 on until the Lord came. 
 
  
-The Serpent of Eden 
+== The Serpent of Eden 
 
 Gen 3:1-13 
 
@@ -1406,7 +1280,7 @@ Conscience took the place of perception. They knew they were naked. Eden closed 
 and they were "sent forth to till the ground from whence they were taken. 
 
  
-The Curse Upon the Serpent, the Woman and the Ground 
+== The Curse Upon the Serpent, the Woman and the Ground 
 
 Gen 3:14-21 
 
@@ -1510,7 +1384,7 @@ law, the law expressed by St. Paul where he says: "Work out your soul's salvatio
 trembling." Only in this way can we expect to procure and eat of the bread of life. 
 
  
-The Expulsion from Eden 
+== The Expulsion from Eden 
 
 Gen 3:22-24 
 
@@ -1682,7 +1556,7 @@ the life of religion to consist in that principle of charity that as St. Paul sa
 and is not puffed up." 
 
  
-The Offerings of Cain and Abel 
+== The Offerings of Cain and Abel 
 
 Gen 4:1-6 
 
@@ -1785,7 +1659,7 @@ charity was acceptable to the Lord; and the Abelites must have experienced in th
 sweetness of their communion in worship, with their good and Divine Father in heaven. 
 
  
-The Death of Abel: Cain a Fugitive and Vagabond 
+== The Death of Abel: Cain a Fugitive and Vagabond 
 
 Gen 4:7-15 
 
@@ -1899,7 +1773,7 @@ inflictions. They came as the result of the rejecting and slaying of the princip
 shall slay the wicked." 
 
  
-Cain in the Land of Nod: the Birth of Enoch 
+== Cain in the Land of Nod: the Birth of Enoch 
 
 Gen 4:16-17 
 
@@ -2016,7 +1890,7 @@ vicarious atonement, and the imputed righteousness of Christ, whereby the sinner
 mere faith alone, is the city Cain built for his son in Protestant Christianity. 
 
  
-The Birth of Seth: His Descendants: Enoch's Walk With God 
+== The Birth of Seth: His Descendants: Enoch's Walk With God 
 
 Gen 4:18-26 
 
@@ -2130,8 +2004,7 @@ Lord for the use of a new church that was to arise. The preservation of these sa
 is what is meant by God taking Enoch. 
 
  
-The Sons of God: the Daughters of Men: the Giants of the Ancient 
-World 
+== The Sons of God: the Daughters of Men: the Giants of the Ancient World 
 
 Gen 5:1-32 
 
@@ -2241,7 +2114,7 @@ which succeeded the Adamic church, was formed among those who had never been a r
 of the Most Ancient church. 
 
  
-The Building of the Ark: the Clean and the Unclean Beasts 
+== The Building of the Ark: the Clean and the Unclean Beasts 
 
 Gen 6:1-7:5 
 
@@ -2367,7 +2240,7 @@ is!
  
  
  
-The Flood: Noah and His Family Saved 
+== The Flood: Noah and His Family Saved 
 
 Gen 7:6-24 
 
@@ -2469,7 +2342,7 @@ beautifully described in the allegory: "And the ark rested in the seventh month,
 seventeenth day of the month, upon the mountains of Ararat." 
 
  
-The Noetic Church: the Abating of the Waters: the Resting of the 
+== The Noetic Church: the Abating of the Waters: the Resting of the 
 Ark on the Mountain 
 
 Gen 8:1-5 
@@ -2569,7 +2442,7 @@ come to them. How beautifully the Divine allegory tells us of it: "And the Ark r
 mountains of Ararat." What a beautiful ending! 
 
  
-The Raven and the Dove 
+== The Raven and the Dove 
 
 Gen 8:6-12 
 
@@ -2690,7 +2563,7 @@ the truth found a resting place in the hearts of the people. It disappeared as t
 goodness which it produced. 
 
  
-The Bow in the Cloud 
+== The Bow in the Cloud 
 
 Gen 8:13-9:17 
 
@@ -2803,7 +2676,7 @@ the promise that in the end the two minds in him will be harmonized and act as o
  
  
  
-Noah's Vineyard: His Drunkenness and His Exposure 
+== Noah's Vineyard: His Drunkenness and His Exposure 
 
 Gen 9:18-23 
 
@@ -2911,7 +2784,7 @@ its career. So of Noah. His nakedness was the coming to the surface of the inwar
 which the Ancient Church had fallen. 
 
  
-The Sin of Ham: the Curse on Canaan 
+== The Sin of Ham: the Curse on Canaan 
 
 Gen 9:24-29 
 
@@ -3025,7 +2898,7 @@ their corrupt worship that were long afterwards destroyed by the Jews when they 
 possess the land of Canaan. 
 
  
-The Generations of Shem, Ham and Japheth 
+== The Generations of Shem, Ham and Japheth 
 
 Gen 10:1-7 
 
@@ -3149,7 +3022,7 @@ Thus it is of the descent and propagation of religious doctrines and forms of wo
 us in the story of the generations of the three sons of Noah. 
 
  
-Nimrod and the Beginning of His Kingdom 
+== Nimrod and the Beginning of His Kingdom 
 
 Gen 10:8-32 
 
@@ -3258,8 +3131,7 @@ against Nimrod. Let us therefore cling to the Internal things of the church and 
 forms as the formalities of religion. 
 
  
-The Journey from the East: the Tower of Babel and the Confusion 
-of Tongues 
+== The Journey from the East: the Tower of Babel and the Confusion of Tongues 
 
 Gen 11:1-32 
 
