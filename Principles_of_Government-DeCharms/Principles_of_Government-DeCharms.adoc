@@ -1,12 +1,15 @@
-By GEORGE DE CHARMS
+= Principles of Government
+By George De Charms
+include::../template-attributes.adoc[]
 
-Published by THE ACADEMY BOOK ROOM
+
+Published by THE ACADEMY BOOK ROOM + 
 Bryn Athyn, Pennsylvania 1960
 
-COPYRIGHT, 1960, BY
-THE ACADEMY OF THE NEW CHURCH
-First Printing January 1960
-PRINTED IN UNITED STATES OF AMERICA BY
+COPYRIGHT, 1960, BY + 
+THE ACADEMY OF THE NEW CHURCH + 
+First Printing January 1960 + 
+PRINTED IN UNITED STATES OF AMERICA BY + 
 PITCAIRN LITHO CO., PHILADELPHIA, PENNA.
 
 ACKNOWLEDGMENTS
@@ -25,7 +28,11 @@ KEY TO REFERENCES
 
 TO THE WRITINGS OF THE NEW CHURCH
 
-AC Arcana Coelestia. AE Apocalypse Explained. CL Conjugial Love. HH Heaven and Hell. TCR True Christian Religion.
+AC Arcana Coelestia. + 
+AE Apocalypse Explained. + 
+CL Conjugial Love. + 
+HH Heaven and Hell. = 
+TCR True Christian Religion.
 
 PREFACE
 
@@ -35,18 +42,8 @@ Nothing has happened since then to modify that conviction. We are grateful, ther
 
 George de Charms.
 
-CONTENTS
 
-I. INTRODUCTION 1
-II. THE NATURE OF DIVINE GOVERNMENT 13
-III. DIVINE GOVERNMENT IN HEAVEN AND HELL 23
-IV. DIVINE GOVERNMENT ON EARTH 35
-V. THE THEORY OF DEMOCRACY 46
-VI. ECCLESIASTICAL GOVERNMENT 60
-
-CHAPTER I
-
-INTRODUCTION
+== CHAPTER I - INTRODUCTION
 
 Because of the present world-wide struggle between two completely opposite political ideologies there is widespread interest in the subject of government. In spite of the fact that two world wars have been fought presumably to make the world safe for democracy there is great uncertainty and confusion of thought as to what democracy really is. The Soviet rulers claim that their government is democratic, but they can do so only by giving the term an altogether different meaning from that which is generally understood by the Western nations. Even among these nations the definition of the term has been greatly obscured because it has been interpreted so differently in different countries. What is lacking is a common understanding of basic principles. There is no agreement as to the origin of government. There is wide difference of opinion as to whence the authority to govern is rightly derived. What is the real purpose of government, and what are its limitations! These are questions to which no one has a wholly satisfactory answer.
 
@@ -84,9 +81,9 @@ It is the kind of government that Swedenborg describes as existing on other plan
 
 So far as is revealed, monarchy, the government of hereditary kings, exists only on our earth. It arose with the decline of the Ancient Church, and its adoption is spoken of as a sign of retrogression. Yet it was Divinely sanctioned, and proved to be of great service through a period of the worlds history after patriarchal government ceased to be appropriate to the needs of the great majority of mankind. In its highest development, under a benevolent ruler who was wise and God-fearing, monarchical government was truly representative of the Lords kingdom. That is why it was established by the Lord with the Jewish and Israelitish nations, and was incorporated into the Word of the Old Testament. For the same reason the rule of princes could be retained in the heavenly societies formed from those who had lived under a monarchical form of government on earth.*
 
-Monarchy, and especially absolute monarchy, is similar to patriarchal government in that it is paternalistic. It is adapted to states of willing obedience from loyalty rather than from rational judgment. It is based on the acknowledgment of authority, and in the last analysis, of Divine authority. For that reason the king came to be regarded as the anointed of Jehovah or as one who governed by Divine right.
-
 * See AC 5044; 3; CL 11, 15, 266; TCR 76.
+
+Monarchy, and especially absolute monarchy, is similar to patriarchal government in that it is paternalistic. It is adapted to states of willing obedience from loyalty rather than from rational judgment. It is based on the acknowledgment of authority, and in the last analysis, of Divine authority. For that reason the king came to be regarded as the anointed of Jehovah or as one who governed by Divine right.
 
 In the degree that this absolute power was later restricted by the will of the people as expressed through their chosen representatives, kingly government lost its distinctive character and approached more nearly to the form of a republic or a democracy. A constitutional monarchy is a combination of monarchy, on the one hand, and representative government on the other.
 
@@ -100,9 +97,7 @@ However, if we are to see clearly the true principles of government we must firs
 
 We can, of course, present only a Very brief, partial, and imperfect survey of the subject, based upon personal reflections which have resulted from our study of the Writings.
 
-CHAPTER II
-
-THE NATURE OF DIVINE GOVERNMENT
+== CHAPTER II - THE NATURE OF DIVINE GOVERNMENT
 
 All who believe in God, however various their ideas of God may be, unite in confessing that He governs the universe of His creation. It is quite impossible to conceive of one who creates, sustains and preserves all things, yet who does not control or govern. In the practical conduct of human affairs on the plane of civil and political life, however, this confession is for the most part little more than a pious abstraction. Having made it, men promptly ignore it and proceed exactly as if it were not so. It is obvious that in spite of the universality of the Divine government there is imperative need in every form of human society for government by men. In the common view this means that certain chosen individuals must be regarded as having a recognized right to command obedience from others, as if God had ceded to them a part of His own government, or had relinquished into their hands a portion of His power. It may be supposed that this authority is an immediate gift by Divine selection or appointment, as with hereditary kings, or with dictators who imagine that they have been Divinely commissioned;
 
@@ -147,9 +142,7 @@ The special point that we wish to make here is that all government belongs to th
 
 For the sake of this end he must continually restrain his own will, and subordinate it to the rule of Divine law. So far as this is done, and no further, the Lord can govern through him. This is the first and most important principle of all human government, both civil and ecclesiastical.
 
-CHAPTER III
-
-DIVINE GOVERNMENT IN HEAVEN AND IN HELL
+== CHAPTER III - DIVINE GOVERNMENT IN HEAVEN AND IN HELL
 
 We have stressed the point that the supreme end of all Divine government is the protection of mans spiritual freedom, his freedom to accept or to reject Divine guidance, and thus to keep the law of God from love rather than from necessity. To realize this truth, and to appreciate its implications, is the very first essential of any genuine understanding of the Divine government. It offers the only rational explanation of the Divine Providence, which otherwise appears to human sight so inexplicable and so self-contradictory. It explains why evil, once confirmed in mans mind, can be removed only by a slow process, if at all. It enables us to understand why the Lord is so long-suffering, so willing to tolerate, even for centuries, falsities of religion and evils of life with men, showing infinite patience with their states of ignorance and perversity. It explains why the Divine power is apparently limited, and why it is impossible even for omnipotence to save all men by any arbitrary act that would compel belief or suddenly remove the evils from which the race is suffering.
 
@@ -197,9 +190,7 @@ Its power must be constantly maintained by cruelty, or the threat of cruelty tha
 
 Let it be noted, however, that these external bonds are never imposed by the Lord. In spite of the apparent difference, His government is interiorly the same in hell as it is in heaven. It is government by influx--unseen, calm, powerful, irresistible in its purpose to protect the good, to maintain internal freedom, and by directing the balance of evil forces, to prevent the evil from increasing beyond the bounds of use. Against this supreme government of the Lord, evil has no power. He who has reduced the hells into order and holds them in perpetual subjection to His will controls the destiny of the race and overrules the selfish designs of men and spirits. Because He leads the good by open teaching and the self-compulsion of conscience, and leads the evil by an imperceptible bending of the evil will toward external order and obedience to law, and at the same time by controlling the balance of power, the Lord alone reigns, and His Divine will prevails.
 
-CHAPTER IV
-
-DIVINE GOVERNMENT ON EARTH
+== CHAPTER IV - DIVINE GOVERNMENT ON EARTH
 
 Although Divine government appears so different in its application to the varying states of men, it is actually the same for all. We have noted how opposite, in outward seeming, is the Lords government in heaven from that in hell. In heaven it is almost invisible, insomuch that it scarcely appears to be government at all: this because it is effected through the truth of the Word, which is gladly received and willingly obeyed. The angels accept its guidance freely, of their own choice. Where this is the case each one appears to be his own governor. Those who are in positions of government demand no obedience. They rule, not by command, but by instruction, making the truth of the Word clear to those who are in obscurity with reference to it. When this is done, those who are taught respond to the truth from affection, with gratitude for the enlightenment received and without any sense of external compulsion. Such is what the Writings call government by influx.
 
@@ -244,9 +235,7 @@ Others look to him for leadership. They expect him to make vital decisions. Inde
 
 Whether this new government is better or worse it is one that can be made to promote the secret purposes of the Divine Providence. Because in this way the Lord always controls the destiny of the human race, to say that the Lord is the only real governor is not a pious abstraction; it is the veritable and constant truth. We should rejoice to have it so, and the continual endeavor of both the governor and the governed should be to co-operate with this Divine will and law, for only to this extent is wise government possible.
 
-CHAPTER V
-
-THE THEORY OF DEMOCRACY
+== CHAPTER V - THE THEORY OF DEMOCRACY
 
 It is astonishing that in the midst of a gigantic world struggle to preserve and extend democratic institutions we should find such great confusion as to what democracy really is. Definitions of it are legion, most of them being expressed in terms of the end or goal that democracy seeks to attain. Thus it is defined as government by all the people as contrasted with government by an individual or by a small group. It is defined as a government based on the proposition that all men are created equal, and that the state exists for the benefit of all its citizens. It is defined as a government that exalts the dignity and worth of the individual, and protects his personal rights, providing equal opportunity for all to enjoy life, liberty, and the pursuit of happiness. It is defined as a government that recognizes no special privilege, accords preference to no group, class, or section, but looks to the common good of all. It is defined as a government that guards the ramparts of liberty against the encroachment of any civil authority--one that insures freedom of religion, freedom of speech and of the press, freedom of peaceable assembly, freedom from search and seizure without due warrant, and freedom of trial by ones peers.
 
@@ -293,9 +282,7 @@ We conclude that democracy, in our modern world, and where public education is s
 
 it cannot be inherited or passed down by tradition, for it is not a man made thing, but an immediate gift of God to each individual, a gift that ceases to be freedom unless each one labors for it, fights for it, and thus appears to achieve it for himself.
 
-CHAPTER VI
-
-ECCLESIASTICAL GOVERNMENT
+== CHAPTER VI - ECCLESIASTICAL GOVERNMENT
 
 In The New Jerusalem and Its Heavenly Doctrine no. 311, we read: There are two things which ought to be in order with men, namely, the things which are of heaven, and the things which are of the world. The things which are of heaven are called ecclesiastical, and those which are of the world are called civil. Here it is clearly indicated that the church and the state should be distinct, because they are related to one another as are the things of heaven to the things of the world. But how is this to be understood? The church, as well as the state, exists on earth. It is an organization of men living in the natural world, confronted with all the problems and the necessities of natural life. How can such an organization be identified with the things which are of heaven?
 
