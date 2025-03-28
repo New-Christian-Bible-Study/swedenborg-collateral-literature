@@ -4,12 +4,18 @@ include::../template-attributes.adoc[]
 
 // need body as preamble before contents
 {empty}
+// outline use is tricky, levels 1 and 2 use UCletters as cannot separate Roman Numerals. Level 3 is digits; Level 4 is lower case characters, but not strictly sequential. It works to markup the Roman Numerals as `code`. But the lower case letter sequence is forced by AsciiDoctor to be sequential. I've no idea (nor have studied) why the original isn't.
+
+// note how the output processors for pdf and epub handled the outlining entirely differently (and both independently)
+
+// we could codeblock the original outline designations; not sure that any of it matters in the end; may learn something by reading through it.
+
 
 == I. INTRODUCTION.
 January 9, 1953 + 
 February 23, 1971
 
-I. The faith or the New Church is based on the conviction that in the Theological Writings of Emanuel Swedenborg the Lord Jesus Christ has fulfilled His promise to come again that He may be visibly present with men to teach them and to lead them in paths or true happiness and lasting peace.
+`I`.The faith or the New Church is based on the conviction that in the Theological Writings of Emanuel Swedenborg the Lord Jesus Christ has fulfilled His promise to come again that He may be visibly present with men to teach them and to lead them in paths or true happiness and lasting peace.
 
 A. The purpose of His coming is to establish His Kingdom on the earth as well as in the heavens.
 
@@ -79,7 +85,7 @@ x. We would propose therefore to present a few reflections on this subject in an
 
 y. To this end we would examine a few specific teachings, contrast them with parallel ideas prevalent in the Christian world and analyze just what their impact upon our actual life is intended to produce.
 
-II. As a general introduction to the subject we would ask ourselves this evening, what do the Writings really mean when they say, All religion is or life find the life or religion is to do that which is good?
+`II`. As a general introduction to the subject we would ask ourselves this evening, what do the Writings really mean when they say, All religion is or life find the life or religion is to do that which is good?
 
 A. Surely this is something that we spontaneously recognize as true.
 
@@ -233,7 +239,7 @@ January 16, 1953 +
 March 8, 1971
 
 
-I. The Writings plainly teach that the very first requirement or religion is a spirit or humility.
+`I`. The Writings plainly teach that the very first requirement or religion is a spirit or humility.
 
 A. On reflection, every one spontaneously recognizes that this is true.
 
@@ -249,7 +255,7 @@ a. It is in regard to these concepts that the teaching of the Writings is altoge
 
 b. If we are rightly to apply the New Church doctrine of humility to our lives, we must clearly understand just wherein it is new and different.
 
-II. While every religion has its own particular idea or what is involved in humility, from the standpoint of both doctrine and ritual, we note three distinct attitudes toward a religious life that markedly qualify the concept. These are exemplified in the Jewish Church, in the medieval Christian Church, and in many sects of modern Christianity, respectively.
+`II`. While every religion has its own particular idea or what is involved in humility, from the standpoint of both doctrine and ritual, we note three distinct attitudes toward a religious life that markedly qualify the concept. These are exemplified in the Jewish Church, in the medieval Christian Church, and in many sects of modern Christianity, respectively.
 
 A. In the Jewish Church the life of religion was almost completely identified with traditional customs, and with the meticulous observance of ritualistic forms.
 
@@ -345,7 +351,7 @@ d. In addition there is constant teaching of the importance of acknowledging the
 
 e. But aside from this, humility has largely ceased to be regarded as a virtue to be prized and cultivated.
 
-III. Superficially viewed, the teaching of the Writings can easily be mistaken for a throwback to the thought of the Middle Ages; but further examination will show that this is by no means the case. That teaching differs radically from both the medieval and the modem concepts or humility.
+`III`. Superficially viewed, the teaching of the Writings can easily be mistaken for a throwback to the thought of the Middle Ages; but further examination will show that this is by no means the case. That teaching differs radically from both the medieval and the modem concepts or humility.
 
 A. The Writings seats that man is indeed born into evils of every kind, and that his native will is irredeemably corrupt.
 
@@ -445,7 +451,7 @@ And the existence or the faith of the New Church is spiritual sight, in accordan
 January 23, 1953 + 
 March 23, 1971
 
-I. We have said that an attitude or internal humility is the very first essential or a truly religious life. But the Writings teach that genuine humility must be accompanied by a deep sense of confidence in the Lord, and by an abiding trust in the dispensations or His Providence.
+`I`. We have said that an attitude or internal humility is the very first essential or a truly religious life. But the Writings teach that genuine humility must be accompanied by a deep sense of confidence in the Lord, and by an abiding trust in the dispensations or His Providence.
 
 A. The one indeed is the compliment or the other.
 
@@ -485,7 +491,7 @@ a. We who knows the laws or physics, or of chemistry, can use those laws success
 
 b. So also, just to the degree that the nature or God, and the Divinely ordained laws or spiritual life, are rightly known and understood, a life according to those laws will lead to the blessings or regeneration and eternal happiness.
 
-II. The religions of the world are founded upon a blind faith in an invisible god.
+`II`. The religions of the world are founded upon a blind faith in an invisible god.
 
 A. Primitive peoples identify God with the forces of nature, which to them are invisible, and utterly mysterious.
 
@@ -541,7 +547,7 @@ d. Such a God is altogether unapproachable, unresponsive, incapable or loving or
 
 e. It cannot be otherwise because no finite mind can possibly even imagine the Infinite.
 
-III. What then is a seeing faith? How can we know who God really is, and what are His Divine qualities and attributes? How can we know the laws or His Providence, whereby He guards man, protects his spiritual life, forms his mind and his heart for heaven? How can we know these things in such a way as to have trust and confidence in what is actually true, in what really exists?
+`III`. What then is a seeing faith? How can we know who God really is, and what are His Divine qualities and attributes? How can we know the laws or His Providence, whereby He guards man, protects his spiritual life, forms his mind and his heart for heaven? How can we know these things in such a way as to have trust and confidence in what is actually true, in what really exists?
 
 A. Because the Infinite transcends all finite comprehension, no man can possibly discover God for himself.
 
@@ -658,7 +664,7 @@ AE 759:2: ...It is granted to the men or the New Church, that is called the Holy
 == IV. THE LOVE OF SPIRITUAL TRUTH.
 April 20, 1971
 
-I. We have pointed out that if the Lord is to be truly seen and known, loved and worshiped, two things are necessary: He must come to man by means of a Divine revelation, and man must freely come to Him seeking instruction and guidance.
+`I`. We have pointed out that if the Lord is to be truly seen and known, loved and worshiped, two things are necessary: He must come to man by means of a Divine revelation, and man must freely come to Him seeking instruction and guidance.
 
 A. However fully and plainly Divine truth is set forth in human language, it will not bring the Lord present unless man responds with an eager desire to learn and understand what the Lord says.
 
@@ -778,7 +784,7 @@ b. This is the truth that is to be loved and sought in the New Church.
 
 c. By this love and this search the New Church is to be distinguished from all other religions.
 
-II. In the common thought of the day, spiritual truth is regarded as a sort of abstract theology, an esoteric philosophy concerning God and the future existence of man beyond the grave, the pursuit of which is possible only to a special class of people who unaccountably have a flair for it. It is conceived to have little or no bearing upon earthly things, nor upon the pressing practical problems or everyday life.
+`II`. In the common thought of the day, spiritual truth is regarded as a sort of abstract theology, an esoteric philosophy concerning God and the future existence of man beyond the grave, the pursuit of which is possible only to a special class of people who unaccountably have a flair for it. It is conceived to have little or no bearing upon earthly things, nor upon the pressing practical problems or everyday life.
 
 A. Modern Christian thinkers look back with contempt upon the other-worldly philosophy of the middle ages, when men were so absorbed in religious speculations that they neglected almost entirely the demands or the body and the world.
 
@@ -887,7 +893,7 @@ TCR 289: In the spiritual and celestial senses the Decalogue contains universall
 April 4, 1971 + 
 February 20, 1953
 
-I. We have said that the New Church is to be distinguished from all other religions by a love of spiritual truth.
+`I`. We have said that the New Church is to be distinguished from all other religions by a love of spiritual truth.
 
 A. This is the truth that has hitherto lain concealed beneath the dark sayings, the historic narratives, and the parables of the Old and New Testaments.
 
@@ -905,7 +911,7 @@ x. The sole purpose for which the laws of spiritual life are revealed, is that b
 
 y. There is no other means by which this end can be accomplished.
 
-II. Of course the professed purpose of every religion is to combat and overcome evil, and thus to redeem mankind from the bondage of sin. But religions differ widely in their concept or what evil is, and of how it is to be removed. In regard to these two things the teaching of the Writings is in marked contrast to that round in other religious faiths.
+`II`. Of course the professed purpose of every religion is to combat and overcome evil, and thus to redeem mankind from the bondage of sin. But religions differ widely in their concept or what evil is, and of how it is to be removed. In regard to these two things the teaching of the Writings is in marked contrast to that round in other religious faiths.
 
 A. In general it may be said that those things are commonly regarded as evil which are thought to be in any way injurious to the welfare of human society.
 
@@ -977,7 +983,7 @@ x. For this reason we find outward infractions of the Ten Commandments that are 
 
 y. Where does the evil really lie? Surely not in the outward form, but in violating the inner essence of these Commandments.
 
-III. The Writings teach that the Divine Providence, in all that it does, has regard primarily to what in eternal, and to temporal things only so far as they contribute to eternal ends. This, because that which is eternal IS, and that which passes away in time, relatively IS
+`III`. The Writings teach that the Divine Providence, in all that it does, has regard primarily to what in eternal, and to temporal things only so far as they contribute to eternal ends. This, because that which is eternal IS, and that which passes away in time, relatively IS
 NOT.
 
 A. Good, in its very essence, is that which is in accord with the will of God, and which thus promotes the final end and purpose or His Providence, and evil, in its very essence, is that which is contrary to the Divine will, and which opposes and interferes with His Providence.
@@ -1074,7 +1080,7 @@ Rockford, Ill., October 7, 1958 +
 February 27, 1953. May 4, 1971 + 
 
 
-I. At our last class we stressed the teaching or the Writings as to what evil really is, or what makes an evil to be a sin against God and by comparison we showed how greatly this teaching differs from that to be found in other religions. And this evening we would consider the question as to how evils or sin may be overcome end removed.
+`I`. At our last class we stressed the teaching or the Writings as to what evil really is, or what makes an evil to be a sin against God and by comparison we showed how greatly this teaching differs from that to be found in other religions. And this evening we would consider the question as to how evils or sin may be overcome end removed.
 
 A. The idea that this can be accomplished by some form or ritual observance is common to all religions, and its origin may be traced to the very damn or history.
 
@@ -1141,7 +1147,7 @@ y. While others make light of these formalities, and place sole reliance upon ho
 
 z. Often these suppose that they can make amends for sin by acts or kindness, benevolence, and mercy, which as it were balance or cancel out ones misdeeds.
 
-II. In striking contrast to those ideas is the teaching of the Writings as to how evils may be removed, and sins forgiven.
+`II`. In striking contrast to those ideas is the teaching of the Writings as to how evils may be removed, and sins forgiven.
 
 A. In the first place, we are taught that there is no such thing as a vicarious atonement.
 
