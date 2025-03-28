@@ -18,7 +18,7 @@ cat $biblist |
 			target="${destdir}/${title}-${pen}"
 			printf "$target .... "
 			if mkdir ${target}
-				then lynx -dump "$archive" >$target/${title}-${pen}.asc && \
+				then lynx -dump "$src" >$target/${title}-${pen}.asc && \
 				echo "succeeded"
 			else echo "failed / pre-exists"
 			fi
