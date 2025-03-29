@@ -1,22 +1,18 @@
-Rt. Rev. Peter M. Buss
+= Selected Papers and Addresses
+By Rt. Rev. Peter M. Buss
+:toclevels: 3
+include::../template-attributes.adoc[]
+:toclevels: 3
+// I don't think the toclevels overrode the include ??
 
 2008
 
-Table of Contents
 
-Sermons on Marriage
+<<<
 
-1. All the Paths of the Lord 2. Friendship in Marriage 3. Tenderness in Marriage 4. The Lost Ideal 5. You Cant Take Love for Granted
+== Sermons on Marriage
 
-Education
-
-6. The Soul and Its Truths 7. The Human Mind 8. The Sensuous Degree of the Natural Mind 9. Images 10. The Rational: General Description 11. The Rational: The First Rational 12. The Rational: The Reformation of the Rational 13. The Learner and the Lord
-
-Miscellaneous Addresses
-
-14. Baptism as a Requirement for Membership in the General Church 15. Elijah and the Drought: the Establishment of Faith 16. The Perfect Complement of Male and Female 17. When His Covenant is Broken what should the Church do?
-
-ALL THE PATHS OF THE LORD
+=== ALL THE PATHS OF THE LORD
 
 A Sermon by the Rt. Rev. Peter M. Buss
 
@@ -81,8 +77,7 @@ Now it shall come to pass in the latter days That the mountain of the Lords hous
 
 Amend your ways - Jer. 7:5-7
 
-For if you thoroughly amend your ways and your doings, if you thoroughly execute judgment between a man and his neighbor, if you do not oppress the stranger, the fatherless, and the widow, and do not shed innocent blood in this place, or walk after other gods to your hurt, then I will cause you to dwell in this place, in the land that I
-gave to your fathers forever and ever.
+For if you thoroughly amend your ways and your doings, if you thoroughly execute judgment between a man and his neighbor, if you do not oppress the stranger, the fatherless, and the widow, and do not shed innocent blood in this place, or walk after other gods to your hurt, then I will cause you to dwell in this place, in the land that I gave to your fathers forever and ever.
 
 The voice of Him that cries in the wilderness - Is. 40:3
 The voice of one crying in the wilderness: Prepare the way of the LORD; make straight in the desert a highway for our God.
@@ -100,7 +95,7 @@ HH 519: After this each one is led by the Lord into his own society, which is al
 
 All the paths of the Lord....
 
-FRIENDSHIP IN MARRIAGE
+=== FRIENDSHIP IN MARRIAGE
 
 A Sermon by the Rev. Peter M. Buss, Sr.
 
@@ -155,7 +150,7 @@ Lessons:
 2. CL 162
 3. CL 214
 
-General References to Friendship in Marriage
+==== General References to Friendship in Marriage
 
 1. Its use, especially in the first years of marriage: CL 162; 214; 334.
 
@@ -179,7 +174,7 @@ Love prior to friendship is similar to love for any of the opposite sex, and aft
 
 CL 162: The union (between husband and wife) takes place gradually from the first days of marriage, and in people who are in a state of truly conjugial love, it becomes deeper and deeper to eternity. The first heat in marriage does not join two people together, because it draws its character from a love for the opposite sex, which is a love belonging to the body and on that account to the spirit. And whatever is in the spirit as a result of the body does not last long. But love that is in the body as a result of the spirit does last. Love belonging to the spirit, and to the body as a result of the spirit, is insinuated into the souls and minds of married partners together with friendship and mutual trust. When friendship and mutual trust join together with the first love in marriage, conjugial love results, which opens the partners hearts and inspires in them the sweet enjoyments of love, and this more and more deeply as friendship and trust are added to the original love, and as that original love enters into this friendship and trust and they into it.
 
-TENDERNESS IN MARRIAGE
+=== TENDERNESS IN MARRIAGE
 
 A Sermon by the Rt. Rev. Peter M. Buss
 
@@ -247,7 +242,7 @@ Those who have lived together in love truly conjugial are not actually separated
 
 The atmosphere of love emanating from a wife who is tenderly loved, in heaven is perceived as sweetly fragrant, considerably more delightful than the one which is perceived in the world by a newly married husband in the first days of marriage. CL 171.
 
-THE LOST IDEAL
+=== THE LOST IDEAL
 
 A Sermon by the Rev. Peter M. Buss
 
@@ -259,8 +254,7 @@ The work entitled Conjugial Love states the ideal as it was in the beginning, in
 
 All these things spring from conjugial love, because in the total communion between two, in which love of self becomes a servant, and love of the consort is the master, in which two hearts go outwards, and do not turn in towards themselves, there is the perfect resting place into which the love of God can descend.
 
-Most of the world accepts these ideals, for a time. When two people fall in love, and during the first days of marriage, nothing seems more natural to them than that all the happy states of life will spring from their love. If there has been some order in their preparation for marriage, especially through the teachings of the Writings, then in those first days they are moved by the greatest reality in creation. A
-window has opened in heaven; through it they have caught a glimpse of eternal happiness, out of it has poured a measure of conjugial love.
+Most of the world accepts these ideals, for a time. When two people fall in love, and during the first days of marriage, nothing seems more natural to them than that all the happy states of life will spring from their love. If there has been some order in their preparation for marriage, especially through the teachings of the Writings, then in those first days they are moved by the greatest reality in creation. A window has opened in heaven; through it they have caught a glimpse of eternal happiness, out of it has poured a measure of conjugial love.
 
 The lost ideal is something that we see a few years later, when the first excitement has worn off marriage. We are not speaking here of the lack of love patent in ill-formed marriages, nor of these unions which are no longer of love, but are a partnership for the sake of the children. But it is necessary to speak of the many people who say they are still in love; but love to them is very different from the ideal of which the Word speaks. That is a lost ideal; love has become something far more earthly, far less uplifting, far more cynical, far less pure.
 
@@ -306,7 +300,7 @@ The contrary happens, however, when natural heat is separated from spiritual hea
 
 It is apparent from this what spiritual coldness is - that it is the absence and loss of spiritual heat.
 
-YOU CANT TAKE LOVE FOR GRANTED
+=== YOU CANT TAKE LOVE FOR GRANTED
 
 A sermon by the Rt. Rev. Peter M. Buss
 
@@ -339,8 +333,7 @@ This is because if a thing is to last it has to be recreated constantly (CL 86, 
 
 Why does the Lord require that love be renewed each day? Because the one thing that we have that is truly our own is freedom of choice. When we choose something it becomes ours. We dont exercise that choice once and not again. We feel life as our own because we exercise choice all the time. The Lord wants us to choose love again, and again and again, and in each choice to find our blessedness. More than anything He wants us to choose, again and again, to love that one person who will be closer to us than anyone else.
 
-There is another reason for this aspect of love. When we fall in love with someone we are far from perfect. There is someone else we love a great deal - ourselves. Love of self is actually the opposite of true marriage love, and if we dont actively choose, and continue to choose conjugial love, we revert to the natural state into which we were born
-- loving ourselves the most.
+There is another reason for this aspect of love. When we fall in love with someone we are far from perfect. There is someone else we love a great deal - ourselves. Love of self is actually the opposite of true marriage love, and if we dont actively choose, and continue to choose conjugial love, we revert to the natural state into which we were born - loving ourselves the most.
 
 We must not take love for granted. Yet, people may ask, shouldnt we expect some gratitude for past kindness? Doesnt the care of the past mean anything in the present? The Writings for the New Church certainly speak of such gratitude. A husband, for example, regards his wife with kindness and favor, because she bore their children, and fed and cared for them with unwearying care (CL 284). Yes, we owe a debt of gratitude for past kindness. But that is very different from expecting gratitude for past kindness! For a husband to feel gratitude is proper. For a wife to require it is less so, and certainly she must not trade on it.
 
@@ -374,12 +367,14 @@ But even the Amazon needs to be replenished at its source. By our acts of choice
 
 Lessons: Ezekiel 18; CL 183:3; TCR 347:3.
 
-THE SOUL AND ITS TRUTHS
+<<<
 
-An address by the Rt. Rev. Peter M. Buss
+== Education
 
-Ed Council
+=== THE SOUL AND ITS TRUTHS
 
+An address by the Rt. Rev. Peter M. Buss + 
+Ed Council + 
 June 23, 2004
 
 How do you prove religious truths? There is no proof. You cannot see God, visit the after-life, prove that married love is eternal, that the souls of men and women are eternally different and perfectly complementary.
@@ -390,24 +385,35 @@ How do we choose what is good? What power can cause us to choose the inconvenien
 
 How do little children respond to truths and see that they are good? Well, we might say, they tend to believe what trusted adults tell them. True. Or, we may say, the angels give them a delight in truths. Very true. But the deepest secret lies in their own souls. The thing the Writings call intellectual truth or celestial truth is speaking to them when they hear the truth their teachers speak. Perception is teaching them.
 
-What do we mean by the soul?
+==== What do we mean by the soul?
 
 In general the Latin word refers to what is living, and thus often to the spirit that lives after death (DLW 394; cf 379; 383). In one passage the Writings say that the soul of something is just whatever gives it life. Thus the soul of the body is its spirit, for from this the body lives. But the soul of the spirit is still more internal life, from which it has wisdom and understanding (AC 2930).
 
 The way I plan to use this term is that the soul is the inmost part of us, that unpervertable entrance of the Lord into us. This is the way the term is used very often, as for example in the following passage. Every person consists of three components which follow in order in him:
 soul, mind, and body. The inmost one is his soul. The intermediate one is his mind. And the outmost one is his body. Everything that flows into a person from the Lord flows first into his inmost component, which is the soul, and descends from there into his intermediate component, which is the mind, and through this into his outmost component, which is the body (CL 101; cf. 158; 206, et al).
 
-The degrees of creation
+<<<
 
-There are three amazing passages in The Arcana Coelestia which speak of the way in which the Lord creates human life on different levels, and how He accommodates Himself to them. The following diagram is an interpretation of AC 1999, 7270 and 8443.
+==== The degrees of creation
 
-THE SIX DEGREES OF TRUTH DIVINE IN CREATION: WHAT DEGREE OF THE MIND IS
-IN EACH
+There are three amazing passages in The Arcana Coelestia which speak of the way in which the Lord creates human life on different levels, and how He accommodates Himself to them. The following - _*diagram* (not reproduced here)_ - is an interpretation of AC 1999, 7270 and 8443.
 
-FIRST: In the first radiant belt, above the heavens The human internal, or soul SECOND: In the second radiant belt, above the heavens The truth from the internal, or intellectual truth. Not conscious THIRD: In the celestial heaven The celestial or inmost rational FOURTH: In the spiritual heaven The spiritual or interior rational
+THE SIX DEGREES OF TRUTH DIVINE IN CREATION: WHAT DEGREE OF THE MIND IS IN EACH
 
-FIFTH: In the natural heaven The genuine natural rational or the external rational SIXTH: On earth - specifically in the Word and thus in the church The natural, divided into three degrees or planes:
-A. The merely natural rational B. The middle natural C. The sensual
+FIRST: In the first radiant belt, above the heavens The human internal, or soul 
+
+SECOND: In the second radiant belt, above the heavens The truth from the internal, or intellectual truth. Not conscious 
+
+THIRD: In the celestial heaven The celestial or inmost rational 
+
+FOURTH: In the spiritual heaven The spiritual or interior rational
+
+FIFTH: In the natural heaven The genuine natural rational or the external rational 
+
+SIXTH: On earth - specifically in the Word and thus in the church The natural, divided into three degrees or planes: + 
+A. The merely natural rational + 
+B. The middle natural + 
+C. The sensual
 
 The Writings teach that the Divine flowing from the Lord is at first too full of love and wisdom to be received by any conscious thought and feeling. Therefore, in the heaven of human internals (AC 1999) or the two radiant belts around the spiritual sun (AC 7270) there are degrees of life which are not conscious, but through which the Lord acts into us. These are the realms of the soul.
 
@@ -419,9 +425,9 @@ It is the soul that makes the body. Think of the incredible way in which the bod
 
 The soul is not life itself, but the first receptacle (AC 1999, 1940; 2004; 2019; 2025:4). He gives life to us as if it were our own (AC 1594:5). The soul is a form of all things pertaining to love, and all things pertaining to wisdom. Being the inmost human, it is the person himself, and therefore its form is the human form in all fullness and perfection. Yet it is not life but the nearest receptacle of life from God, and thus the dwelling-place of God (CL 315).
 
-All the love and all the wisdom....
+==== All the love and all the wisdom....
 
-Therefore the soul is most loving and most wise. All the love of which we are capable has been written on our souls. That love has truth within it, married to it. It is called celestial truth, and is represented by Sarah in the Word, while Abraham represents celestial good. Celestial truth is said to be beauty itself (AC 1470; cf 1598).
+Therefore the soul is most loving and most wise. All the love of which we are capable has been written on our souls. That love has truth within it, married to it. It is called celestial truth, and is represented by Sarah in the Word, while Abraham represents celestial good. Celestial truth is said to be beauty itself (@AC 1470; cf 1598).
 
 This love and wisdom - though separated as they flow on down (See ISB 8) - unceasingly look for an opportunity to be received in the mind. For until we willingly receive it, a love from the soul is not ours, but is in potential.
 
@@ -431,7 +437,7 @@ And what about our reception of truth? Well, living truth is from the soul. Know
 
 In summary, the soul is constantly seeking for a home for its loves and insights in the mind. To that end it inflows into true affections and vivifies them, and into knowledges which are genuine and gives them life. This is the meaning of the strong statement in the Writings that all instruction is simply an opening of the way for heavenly things to inflow. When the receptacles are there in the mind, the soul flows down and gives them life (AC 1495) That is an essential principle of our educational philosophy. We dont teach. We open the way for the Lord to teach through the souls of our students.
 
-Poor education
+==== Poor education
 
 When there is disorder in the mind, the soul wont support it, and separates itself from it. One passage simply points out that all external loves, if considered to be paramount, try then to dominate higher ones, and the higher ones wont allow it. They withdraw (CL 235). The soul wont be ruled by the mind, so it cannot send down its messages, and this - a frightening, and inevitable consequence - produces separation from the Lord (AC 1999:3). The soul can look down on disorder in the mind and dissents and disagrees with it (AC 1999).
 
@@ -449,7 +455,7 @@ Perhaps one may also say that the soul leads from without when there is disorder
 
 The important thing to realize is that the soul is always seeking to express itself in the mind and body. A persons soul, being in the marriage of good and truth, is not only in a perpetual striving for union but also in a perpetual striving to be fruitful and produce a likeness of itself (CL 355). When it can, there is peace. If it cant, then there cannot be peace.
 
-Application to education
+==== Application to education
 
 The love of the soul is turned into the natural delight in learning with a little child (AC 1472; 1480). This is because learning is a means to the end of charity. Or, as the Writings say, learning produces first the ability to think, then the power to see the use of a truth, and finally the power to use it (AC 1487).
 
@@ -495,160 +501,153 @@ The education of our children in the truth - any truth, whether natural or spiri
 
 This is our dream. And in seeing the effect on the minds of those we teach we find our reward. Whoever gives to one of these little ones only a cup of cold water in the name of a disciple, truly I say to you, he shall by no means lose his reward (Matthew 10:42).
 
-THE HUMAN MIND
+<<<
+
+=== THE HUMAN MIND
 
 Definitions
 
-1. It is the spirit see DP 196; 299; cf. DLW 199, 386, 387
-
+1. It is the spirit. see DP 196; 299; cf. DLW 199, 386, 387
 2. Its laws are those of the spiritual world DP 299, 300. Cf. DP 307
-
 a. Notice how the mind obeys those laws - time flies when youre having fun. The wish for spiritual distance. Turning our backs on the Lord - people forget Him or eternity soon after coming into eternity.
-
 b. Positives - the ability of the mind to feel close to a far off loved one.
-
 c. The mind is never old - for its laws are eternal.
-
-3. The mind is spiritual, and the body is its external. Cf. ISB 14; HH
-356.
-
+3. The mind is spiritual, and the body is its external. Cf. ISB 14; HH 356.
 a. The term natural refers to
-
 4. It is the intermediate between the soul and the body CL 101; ISB 8e
-
 5. It is made up of will and understanding. DLW 372 et al.
-
 a. These are now separated, but in the other world they are conjoined again HH 425; AC 8250.
 
 What makes up the mind?
 
-1. Spiritual substances. DLW 257. 2. Made up, not of 102-odd elements, but of our loves and truths DLW
+1. Spiritual substances. DLW 257.
+2. Made up, not of 102-odd elements, but of our loves and truths DLW
 372; cf. DP 326:3; AC 4390
 3. Our affections and thoughts. ISB 8
 4. The human mind is nothing but a form of Divine good and Divine truth spiritually and naturally organized. TCR 224
 5. The truth of faith and the good of charity constitute his more interior mind AC 6158. 6. The soul is a superior spiritual substance, and receives influx immediately from God; the mind, an inferior spiritual substance, receives it from God mediately through the spiritual world. ISB 8e. 7. Thus there are three influences on the mind: the soul, the spiritual world, and the natural world. ISB 8.
-
 a. Note the term natural nearly always refers to what comes to us through our senses, or through our heredity.
-
-b. The term spiritual means what is living. It has spirit within it. DP
-321.
+b. The term spiritual means what is living. It has spirit within it. DP 321.
 
 So what does this mean?
 
-1. Think of knowledges as real substances. 2. They gather around affections. Bound into bundles around affection TCR 38.
-
+1. Think of knowledges as real substances.
+2. They gather around affections. Bound into bundles around affection TCR 38.
 a. The initial way we learn of something is from many different sources. Affections pull them together
-
-b. First natural affections, later spiritual affections. 3. The mind has extension. It is like a landscape. When you learn new things, a new field opens up, and it grows grass and trees and flowers, and is peopled with animals and birds. 4. Think of a little childs mind as an empty space.
-
+b. First natural affections, later spiritual affections.
+3. The mind has extension. It is like a landscape. When you learn new things, a new field opens up, and it grows grass and trees and flowers, and is peopled with animals and birds.
+4. Think of a little childs mind as an empty space.
 a. At first, its goods are a delight in toys, a love for his parents, a need for security, etc.
-
 b. Note the hierarchy. Even to a little child, the security and love are more important than the toys.
-
-c. As it learns, it receives fields into its mental landscape. 5. Journey to Brazil, Japan. A new field, a new set of affections and thoughts 6. Get married, have a child, become grandparents, retire. Each opens up new vistas. 7. And when we are being regenerated, new loves are born of the Lord from within, creating new realms.
-
+c. As it learns, it receives fields into its mental landscape.
+5. Journey to Brazil, Japan. A new field, a new set of affections and thoughts
+6. Get married, have a child, become grandparents, retire. Each opens up new vistas. 7. And when we are being regenerated, new loves are born of the Lord from within, creating new realms.
 a. For behold, I create new heavens and a new earth.
 
 Can the mind be organized around the wrong affections?
 
-1. Yes, indeed. We can learn the truths of the Writings because we are vain and we are proud of ourselves above others. Then those truths gather around a selfish, maybe an evil affection. 2. Think of the great scientists who have used science for evil. 3. Such a mind, instead of being a heaven in least form, is a hell.
+1. Yes, indeed. We can learn the truths of the Writings because we are vain and we are proud of ourselves above others. Then those truths gather around a selfish, maybe an evil affection.
+2. Think of the great scientists who have used science for evil.
+3. Such a mind, instead of being a heaven in least form, is a hell.
 
 Memory
 
 1. All memories are the storehouse of a sense impression (or a thought)
-together with the affection that belongs to it. 2. Note that through regeneration the memory is reorganized. We learned for bad reasons, and then the truths are shaken up and rearranged around good affections.
+together with the affection that belongs to it.
+2. Note that through regeneration the memory is reorganized. We learned for bad reasons, and then the truths are shaken up and rearranged around good affections.
 
 Degrees of the Mind
 
 1. The mind is composed of discrete degrees of life
-
 a. Delight in friendship is natural
-
 b. Delight in love is spiritual
-
 c. Things that belong to friendship are natural - communication, trust, shared ideas about values of this earth
-
 d. Those that belong to love are spiritual - are not really articulate on this earth.
-
-e. Degrees of attraction to the opposite sex. 2. Most general are natural, spiritual, celestial. cf. DLW 222, 236; 186, et al. 3. There are three degrees of the natural, and they are opened by education. 4. The higher degrees are opened by regeneration. DLW 237; CL 305. 5. Note that the natural degree cannot flow into or order the higher degree, but the reverse can happen! It is called regeneration
-
-a. A natural illustration: the rational mind can see that the sun doesnt set (while still enjoying the appearance that it does); but as Galileo found to his cost, the sensuous mind can only see the evidence on its level of thought. 6. The three degrees of the mind correspond to the three heavens. DLW
-186; 239. 7. The spiritual mind is closed because of hereditary evil. It has to be opened by regeneration. DLW 269, 138, 270
+e. Degrees of attraction to the opposite sex.
+2. Most general are natural, spiritual, celestial. cf. DLW 222, 236; 186, et al.
+3. There are three degrees of the natural, and they are opened by education.
+4. The higher degrees are opened by regeneration. DLW 237; CL 305. 
+5. Note that the natural degree cannot flow into or order the higher degree, but the reverse can happen! It is called regeneration
+a. A natural illustration: the rational mind can see that the sun doesnt set (while still enjoying the appearance that it does); but as Galileo found to his cost, the sensuous mind can only see the evidence on its level of thought.
+6. The three degrees of the mind correspond to the three heavens. DLW 186; 239.
+7. The spiritual mind is closed because of hereditary evil. It has to be opened by regeneration. DLW 269, 138, 270
 8. How are the degrees of the mind opened? By receiving terminations into themselves. AC 5145.
 
 Summary
 
-1. The whole education process is to allow the mind to assume an ordered form. If it comes to adult life in such a form, then it is prepared for regeneration. 2. The affections around which truths are arranged in the natural mind will be orderly, natural affections. These affections will have affinity for each other. 3. The truths in the interior mind will be remains, ordered around heavenly affections for truth. Inmostly there will be affections for good. 4. Through obedience to the Lord, and the temptations that follow, those natural affections become re-ordered around the spiritual affections which flow from within.
-
+1. The whole education process is to allow the mind to assume an ordered form. If it comes to adult life in such a form, then it is prepared for regeneration.
+2. The affections around which truths are arranged in the natural mind will be orderly, natural affections. These affections will have affinity for each other.
+3. The truths in the interior mind will be remains, ordered around heavenly affections for truth. Inmostly there will be affections for good.
+4. Through obedience to the Lord, and the temptations that follow, those natural affections become re-ordered around the spiritual affections which flow from within.
 a. Note that there are spiritual affections hidden inside natural ones, because the natural ones correspond to spiritual ones!
-
 b. The negative natural affections will be cast out. This is the story of the butler and the baker in Egypt.
-
 5. Finally, this means that we cannot teach a spiritual truth! We can teach a natural truth which contains a spiritual one within, but only the Lord can inspire that life of truth from within and make it spiritual, living, in another persons mind! DLW 237; AC 3185; 3207; cf. AC 5580, et al.
 
 The Sensuous Degree of the Mind
 
 It is the lowest plane of the human mind
 
-1. It is not the actual sensing of things from the world. That is something the body does, and the experience is called the corporeal. 2. The sensuous is spiritual. AC 1718. It is formed from the sensations from the body. AC 5157, 4570. 3. That part of us which knows about, thinks of, and delight in the things of this world. AC 5094, 6844. 4. It is the source of communication between both world, for it is spiritual, but its ideas are material. AE 543. 5. It is the natural world for a person. Our idea of Singapore is what is in our sensuous mind, not the real Singapore. We make up out minds about Austria based on what we know (or what we can learn) about that country, not on the real Austria. 6. Yet although the sensuous mind takes its quality from nature, it takes its life from the soul. 7. Sensuous thought and affection arise out of the determination of the soul to the things of sense. AC 1436, 5094.
+1. It is not the actual sensing of things from the world. That is something the body does, and the experience is called the corporeal.
+2. The sensuous is spiritual. AC 1718. It is formed from the sensations from the body. AC 5157, 4570.
+3. That part of us which knows about, thinks of, and delight in the things of this world. AC 5094, 6844.
+4. It is the source of communication between both world, for it is spiritual, but its ideas are material. AE 543.
+5. It is the natural world for a person. Our idea of Singapore is what is in our sensuous mind, not the real Singapore. We make up out minds about Austria based on what we know (or what we can learn) about that country, not on the real Austria.
+6. Yet although the sensuous mind takes its quality from nature, it takes its life from the soul.
+7. Sensuous thought and affection arise out of the determination of the soul to the things of sense. AC 1436, 5094.
 
 The contents of the sensuous mind
 
 1. Sensuous truths: The various natural things (or studies) that are called physics. TCR 402:15.
-
 a. Note that not just the things themselves but the study of them is of the sensuous
-
 b. Thus after death we lose our memory of material ideas, and with it the knowledge of science and of language. AC 2477-2480.
-
 c. So in our educational process, let us distinguish between the subject matter and the principles of thought. The one may be sensuous, the other rational.
-
 d. And sensuous knowledge can be a containant of spiritual truth.
-
 2. Sensuous goods: The delights of the senses and of the body. TCR
 402:15.
-
 a. These goods are perverted, and cannot be restored. They have to be replaced by good affections, flowing from within, in the understanding.
-
 b. Note that the affection for studying a subject may be peculiar to the understanding, and thus natural not spiritual. For it is in the understanding. Hereditary evil may be in it, but it may be removed. This affection can be inspired by remains.
-
 c. So what are the son-savable affections? Those delights that come to us through the senses, which we seek out again. Our first response is always negative.
-
 3. Summary: When the Writings speak of the sensuous person they refer
-
 a. To a person whose concentration is determined entirely to the knowledges and delights that come from the sensuous; or
-
 b. To that realm of the mind whose function it is to concentrate on these things.
 
 The Writings are not puritanical. They dont condemn sensuous pleasure or knowledge
 
-1. There is that in all of us which is tempted to do so. 2. This is a mistake, because the Lord gave us this level of the mind. AC 995. 3. The purpose declares the quality of sensuous things. AC 995; cf. AC
-2204; SE 5552. 4. Heaven rests upon the natural world as a house on its foundation. SE
-5552.
-
+1. There is that in all of us which is tempted to do so.
+2. This is a mistake, because the Lord gave us this level of the mind. AC 995.
+3. The purpose declares the quality of sensuous things. AC 995; cf. AC
+2204; SE 5552.
+4. Heaven rests upon the natural world as a house on its foundation. SE 5552.
 a. Thus our heaven rests on our sense of this world - in our sensuous, in our memories
-
 b. All the interior thoughts and feelings are enacted through that mind AC 4009, 5165, 9216.
-
 c. Without the sensuous plane all spiritual effort and thought, and thus all rational efforts and thoughts would be dispersed. AC 9216.
-
-d. How do we know a friend? From the actions, words, gestures, etc, that come through his sensuous. They come from his interiors, but through the sensuous. 5. So the sensuous of a good person perceives what is true and senses what is good. It even sifts out those things not true and not good. It is the place where goods and truths are perceived and felt in their fullness. AC 9726.
-
-a. Another description: it contains all the vessels for love and thought: its delights are the vessels for love, and its thoughts the vessels for truth. AC 1435. 6. So the sensuous is the essential containant for all interior levels. Nothing is possible in a persons thought, even to the deepest secret of faith, that is not attended with a sensuous idea. AC 3310; cf. 1435; 2553, 3098; 5114; 5130.
-
-a. Of course we dont always notice the sensuous image. 7. They are the basis for interior ideas. Cf. A father; the hands of the Lord. Even the angels have the idea of God in a human shape. AC
-7211. 8. So the Word is written in sensuous imagery, for all interior ideas are there at once. AE 71:4. 9. The sensuous is thus used for seeing inwardly. e.g. The Lord is my Shepherd... He leads me beside the still waters; He restores my soul. AC 5165. 10. It becomes a plane of fixity. SE 5552; SE min. 4645, 4646.
-
+d. How do we know a friend? From the actions, words, gestures, etc, that come through his sensuous. They come from his interiors, but through the sensuous.
+5. So the sensuous of a good person perceives what is true and senses what is good. It even sifts out those things not true and not good. It is the place where goods and truths are perceived and felt in their fullness. AC 9726.
+a. Another description: it contains all the vessels for love and thought: its delights are the vessels for love, and its thoughts the vessels for truth. AC 1435.
+6. So the sensuous is the essential containant for all interior levels. Nothing is possible in a persons thought, even to the deepest secret of faith, that is not attended with a sensuous idea. AC 3310; cf. 1435; 2553, 3098; 5114; 5130.
+a. Of course we dont always notice the sensuous image.
+7. They are the basis for interior ideas. Cf. A father; the hands of the Lord. Even the angels have the idea of God in a human shape. AC 7211.
+8. So the Word is written in sensuous imagery, for all interior ideas are there at once. AE 71:4.
+9. The sensuous is thus used for seeing inwardly. e.g. The Lord is my Shepherd... He leads me beside the still waters; He restores my soul. AC 5165.
+10. It becomes a plane of fixity. SE 5552; SE min. 4645, 4646.
 a. Why? Because on earth we decide either to let good interiors terminate in it or bad ones.
-
 b. The same sight can arise good feelings in a good person, and evil ones in an evil one. - a baby, a beautiful car, a lovely person.
-
 c. The one we choose on earth becomes the one we will choose forever.
 
 Summary points
 
-1. Hereditary evil affects us in that all our sensuous feelings turn to evil 2. Also, all our learning has something of hereditary evil in its motivation - unless remains are active 3. Thus the quality of our sensuous feelings need to receive new life from within from the Lord 4. This is not done by afflicting the flesh - regarding all sensuous feelings as evil, but by guiding it - allowing the enjoyment of the sensuous in the light of the Lords Word 5. The deepest remains are instilled on the basis of sensuous delights! They are what replace those delights. 6. They are formed in the understanding 7. The delight in learning with a little child is nearly always from remains, not heredity. 8. The delight in sensuous pleasures with a little child is from remains; but gradually the perverted sensuous will take over, forcing a reorganization around conscience. 9. When conscience gives permission, sensuous pleasures may be enjoyed as the Lord intended them to be. 10. When the Lord makes us celestial, then we will be able to respond instinctively to sensuous impulses.
+1. Hereditary evil affects us in that all our sensuous feelings turn to evil
+2. Also, all our learning has something of hereditary evil in its motivation - unless remains are active
+3. Thus the quality of our sensuous feelings need to receive new life from within from the Lord
+4. This is not done by afflicting the flesh - regarding all sensuous feelings as evil, but by guiding it - allowing the enjoyment of the sensuous in the light of the Lords Word
+5. The deepest remains are instilled on the basis of sensuous delights! They are what replace those delights.
+6. They are formed in the understanding
+7. The delight in learning with a little child is nearly always from remains, not heredity.
+8. The delight in sensuous pleasures with a little child is from remains; but gradually the perverted sensuous will take over, forcing a reorganization around conscience.
+9. When conscience gives permission, sensuous pleasures may be enjoyed as the Lord intended them to be.
+10. When the Lord makes us celestial, then we will be able to respond instinctively to sensuous impulses.
 
-THE SENSUOUS DEGREE OF THE NATURAL MIND
+=== THE SENSUOUS DEGREE OF THE NATURAL MIND
 
 Notes, with applications to education, by the Rt. Rev. Peter M. Buss
 
@@ -660,93 +659,101 @@ For the general levels of the mind, and for the way in which the sensuous mind i
 
 The Writings are not puritanical. They dont condemn sensuous pleasure or knowledge
 
-1. Religious people can have a tendency to condemn all sensual things 2. This is a mistake, because the Lord gave us this level of the mind. AC 995. 3. The purpose declares the quality of sensuous things. AC 995; cf. AC
-2204; SE 5552. 4. Heaven rests upon the natural world as a house on its foundation. SE
-5552; AC 9216
-5. So the sensuous of a good person perceives what is true and senses what is good. It even sifts out those things not true and not good. AC
-9726. 6. It is the essential containant for all interior levels. Nothing is possible in a persons thought, even to the deepest secret of faith, that is not attended with a sensuous idea. AC 3310; cf. AC 1435, 2553, 3098, 5114, 5130. 7. It is the basis for interior ideas. 8. The Word is written in sensuous imagery, for all interior ideas are there at once. AE 71:4
-9. The sensuous is used for seeing inwardly. e.g. The Lord is my Shepherd. AC 5165. 10. It becomes a plane of fixity in the world to come SE 5552; SE min. 4645, 4646. 11. The Divine truth proceeding from the Lord flows into everyone, through his interiors into the exteriors, even into the external sensuous... and calls forth everywhere things correspondent in their order; in the sensuous, things correspondent such as appear in the world and upon the earth. AC 6948.
+1. Religious people can have a tendency to condemn all sensual things
+2. This is a mistake, because the Lord gave us this level of the mind. AC 995.
+3. The purpose declares the quality of sensuous things. AC 995; cf. AC 2204; SE 5552.
+4. Heaven rests upon the natural world as a house on its foundation. SE 5552; AC 9216
+5. So the sensuous of a good person perceives what is true and senses what is good. It even sifts out those things not true and not good. AC 9726.
+6. It is the essential containant for all interior levels. Nothing is possible in a persons thought, even to the deepest secret of faith, that is not attended with a sensuous idea. AC 3310; cf. AC 1435, 2553, 3098, 5114, 5130.
+7. It is the basis for interior ideas.
+8. The Word is written in sensuous imagery, for all interior ideas are there at once. AE 71:4
+9. The sensuous is used for seeing inwardly. e.g. The Lord is my Shepherd. AC 5165.
+10. It becomes a plane of fixity in the world to come SE 5552; SE min. 4645, 4646.
+11. The Divine truth proceeding from the Lord flows into everyone, through his interiors into the exteriors, even into the external sensuous... and calls forth everywhere things correspondent in their order; in the sensuous, things correspondent such as appear in the world and upon the earth. AC 6948.
 
 The Perversion of the Sensuous
 
-1. The sensuous tells you that its feelings are good because they feel good. The Writings say you cannot trust those instinctive reactions. They lead us towards evil. Only those sensuous delights which are under the control of conscience can be enjoyed. 2. Celestial people had their sensuous in order. It responded to the internal. AC 245. 3. Nowadays the proprium resides in the sensuous. Why? Because there we have the most complete sensation of self-life. SE 5464:8
-4. Thus when people turned to evil they turned to the sensuous, which is the easiest place to feel delights apart from the Lord. AC 6948. People do the same today. 5. The result: Most people today are merely sensuous. AC 4330. 6. Its effect is to prompt us to indulge ones natural inclination, to live for self and the world, but not for others unless they favor self and its pleasures. AC 6201. 7. Note that to escape the prompting of the sensuous we are urged to think of eternal life. AC 6201. The influence of the sensuous spirits is to remove such thought, and to make us averse to thinking of eternal life! Ibid. 8. The story of the fall is the story of the victory of the sensuous over the rational, and how it became condemned.
+1. The sensuous tells you that its feelings are good because they feel good. The Writings say you cannot trust those instinctive reactions. They lead us towards evil. Only those sensuous delights which are under the control of conscience can be enjoyed.
+2. Celestial people had their sensuous in order. It responded to the internal. AC 245.
+3. Nowadays the proprium resides in the sensuous. Why? Because there we have the most complete sensation of self-life. SE 5464:8
+4. Thus when people turned to evil they turned to the sensuous, which is the easiest place to feel delights apart from the Lord. AC 6948. People do the same today.
+5. The result: Most people today are merely sensuous. AC 4330.
+6. Its effect is to prompt us to indulge ones natural inclination, to live for self and the world, but not for others unless they favor self and its pleasures. AC 6201.
+7. Note that to escape the prompting of the sensuous we are urged to think of eternal life. AC 6201. The influence of the sensuous spirits is to remove such thought, and to make us averse to thinking of eternal life! Ibid.
+8. The story of the fall is the story of the victory of the sensuous over the rational, and how it became condemned.
 
 The thought proper to the mere sensuous
 
-1. This is with the person who thinks from what is sensuous. AC 7693. 2. When we think from the sensuous, things appear otherwise than as they are. AC 6948. Because therefore truths of faith are above the sensuous, and appear different, they are rejected. 3. The light from which the sensuous thinks is called lumen instead of lux. It illuminates the appearance rather than the reality. AC 6948; cf. 6310
-4. What states in us encourage merely sensuous life? Greed, adultery, pleasure for its own sad, and disgraceful idleness. AC 6310. 5. There are states not so evil which can also encourage it:
+1. This is with the person who thinks from what is sensuous. AC 7693.
+2. When we think from the sensuous, things appear otherwise than as they are. AC 6948. Because therefore truths of faith are above the sensuous, and appear different, they are rejected.
+3. The light from which the sensuous thinks is called lumen instead of lux. It illuminates the appearance rather than the reality. AC 6948; cf. 6310
+4. What states in us encourage merely sensuous life? Greed, adultery, pleasure for its own sad, and disgraceful idleness. AC 6310.
+5. There are states not so evil which can also encourage it:
 specifically the failure to cultivate rational thought. AC 6311
 6. The fact, however, that a person is learned does not mean he/she is not sensuous. Such people, once they have attained their personal goals live more sensuously than others. AC 6310. The learned seem very clever because sensuous things are their intellectual tools, and they appear very clearly to the natural of all of us. AC 5700
-7. A quality of the sensuous that we can observe in ourselves and others - and in little children, of course - the tendency to judge from experience and memory, not from perception or reason. This leads to an outward sense of what is just, not a living one. AC 9127, 6839. 8. In a merely sensuous person the rational is kind of merged with the sensuous and does its bidding. AC 1935. 9. Merely sensuous people are tempted to enjoy scandalous ideas about heavenly and Divine things, and also things filthy and foul. AC 6201, 6310
+7. A quality of the sensuous that we can observe in ourselves and others - and in little children, of course - the tendency to judge from experience and memory, not from perception or reason. This leads to an outward sense of what is just, not a living one. AC 9127, 6839.
+8. In a merely sensuous person the rational is kind of merged with the sensuous and does its bidding. AC 1935.
+9. Merely sensuous people are tempted to enjoy scandalous ideas about heavenly and Divine things, and also things filthy and foul. AC 6201, 6310
 
 What do merely sensuous people think about religion?
 
-1. Those who have once known the things of the spiritual world and rejected them become sensuous. AC 6971. This applies to those in the New Church, but also to others. DP 254. 2. With such, there is no longer heavenly light, although there may be the memory of a time when they had that light. AC 6971
+1. Those who have once known the things of the spiritual world and rejected them become sensuous. AC 6971. This applies to those in the New Church, but also to others. DP 254.
+2. With such, there is no longer heavenly light, although there may be the memory of a time when they had that light. AC 6971
 3. Such people can use the forms of truth, but they do not see its reality. AR 692; AC 5089; cf. SE 805
 4. Sensuous people can confirm a tenet of their religion - whether it is right or not - but they cannot see if it is right! AC 6222; cf. AC
 544
-5. All spiritual truth is merely natural with them. DLW 261; AC 6844. 6. Basic principle: sensuous sight cant see the things above it, so it denies them. AC 2196
+5. All spiritual truth is merely natural with them. DLW 261; AC 6844.
+6. Basic principle: sensuous sight cant see the things above it, so it denies them. AC 2196
 7. While the imagery of the Old Testament is for children and for the simple, it is also for those who are in the loves of self and the world. They think in these negative images, and can only be led from there as a starting point. AC 8781, 3425, 3605, 4180, 2395.
 
 Yet there are good sensuous people
 
 1. They obey the Lord, but dont understand His purposes. AE 714:29; AC
-926; AE 342b. They can understand civil order but not spiritual order 2. There are an immense number of such in the spiritual world. AE 342b 3. They understand the literal commandments, such as Thou shalt not kill, but not the inner burden cf. AC 6839. 4. They are saved because they are willing to obey the Lord. AE 375.
+926; AE 342b. They can understand civil order but not spiritual order
+2. There are an immense number of such in the spiritual world. AE 342b
+3. They understand the literal commandments, such as Thou shalt not kill, but not the inner burden cf. AC 6839.
+4. They are saved because they are willing to obey the Lord. AE 375.
 
 How do we rise above the sensuous?
 
 1. Remember it always drags us down. AC 6312, 6845
 2. So the spiritual person has to fight it - by rising above it. AC
 6313
-3. Then he can enjoy it because he can see how it is to be enjoyed. AC
-6954
-4. Then the Lord can temper it and make it somewhat innocent. AC 5130e. 5. However, note that the sensuous is put in order by the Lord in states of innocence. AC 7442, 5125
+3. Then he can enjoy it because he can see how it is to be enjoyed. AC 6954
+4. Then the Lord can temper it and make it somewhat innocent. AC 5130e.
+5. However, note that the sensuous is put in order by the Lord in states of innocence. AC 7442, 5125
 6. When good people sink into sensuous things, the angels protect them, and raise them up when they are in danger of rejecting or profaning their values. AC 6315, 5159
-7. Remember, it is the sensuous things of the will that cannot be put in order. The sensuous things of the understanding can be reorganized. AC 5072, 5157. Some applications to education
+7. Remember, it is the sensuous things of the will that cannot be put in order. The sensuous things of the understanding can be reorganized. AC 5072, 5157.
 
-1. Combine the teachings about heredity, innocence, and the sensuous, and you have the New Church principles for the education of infants - that is, up to age ten. 2. Heredity and the sensuous: Even innocent little children will respond inappropriately to the sensuous the moment heredity appears
+Some applications to education
 
+1. Combine the teachings about heredity, innocence, and the sensuous, and you have the New Church principles for the education of infants - that is, up to age ten.
+2. Heredity and the sensuous: Even innocent little children will respond inappropriately to the sensuous the moment heredity appears
 a. Distinguish between the tremendous delight a child has in the sensuous (e.g. loving a toy so much she cant let go of it); and the excessive delight (e.g. responding with anger to a child who is playing close by)
 3. Innocence and the sensuous. When there is innocence, the highest angels need to use the sensuous to inspire their most holy delights. This is because:
-
 a. Sensuous things correspond to celestial things
-
 b. There is nothing between the sensuous and the celestial angels to impede their influx
-
 c. There is no deliberate evil - which matches the state of the celestial angels
-
-d. Higher levels are - until the person is totally regenerated - more consciously of thought than of affection, and so attract spiritual angels 4. The world, and external images are powerful in connecting with the heavens - although some sphere of innocence must be present as well. That is why the externals in worship are so important - beauty (candles), a lovely copy of all books of the Word, and so on 5. Sensuous teaching and the letter of the Word
-
+d. Higher levels are - until the person is totally regenerated - more consciously of thought than of affection, and so attract spiritual angels
+4. The world, and external images are powerful in connecting with the heavens - although some sphere of innocence must be present as well. That is why the externals in worship are so important - beauty (candles), a lovely copy of all books of the Word, and so on
+5. Sensuous teaching and the letter of the Word
 a. The stories of the Old Testament - the actual stories - appeal to the sensuous
-
 b. The angels are present in them
-
 c. They are present even in the negative things! Note that the sensuous is not troubled by the violent things in the Old Testament. It might have been in the Most Ancient Church, but not today
-
 d. It is very important to teach what the letter says - dont change it.
-
 e. Use the name Jehovah in preference to the Lord when teaching these stories
-
 f. In general we will not need to contradict the letter of the Word, even when it is teaching about the Lords anger, etc.
-
-g. Why? Because the sensuous is not necessarily consistent! It does not see the contradictions between the New Testament and the Old. 6. What does an infant learn with eagerness and believe? AC 5135
-
+g. Why? Because the sensuous is not necessarily consistent! It does not see the contradictions between the New Testament and the Old.
+6. What does an infant learn with eagerness and believe? AC 5135
 a. There is a God and He is one
-
 b. He made everything
-
 c. He rewards the good and punishes the evil - there is a heaven and a hell
-
 d. The life after death lasts forever
-
 e. We should pray every day in a humble way
-
 f. Keep the Sabbath, honor parents, do not commit adultery, kill, steal, etc.
-
 g. This is the basis for our Kindergarten and First Grade religion curricula.
 
-IMAGES
+=== IMAGES
 
 An Address to the General Church In-Service Banquet, February 9, 1984
 by the Rev. Peter M. Buss
@@ -855,7 +862,7 @@ Finally, I hope we will look at the many elements in the New Testament. Bishop d
 
 There is such a wealth of beauty waiting to be seen. In our teaching we must seek for affections in every level of the mind. That is an art and art, I would suggest in closing, finds its expression in images in this creative medium of the mind.
 
-THE RATIONAL: GENERAL DESCRIPTION
+=== THE RATIONAL: GENERAL DESCRIPTION
 First in a Series of talks to the General Faculty By the Rev. Peter M. Buss
 
 October, 1985
@@ -983,7 +990,7 @@ The Writings do not teach that truth is determined by those who are skilled in k
 
 The potential for human life exists because we are gifted by the Lord with the power to see what is true and good. Our education seeks to foster that power in all that it does. Whether it is teaching first grade children how to read or tenth graders how to wrestle with Algebra I or college students to confront the mysteries of Physics, we are helping them to use that human faculty which will bring them closer to, and make them more like their God. All human good, all human creativity, and all human accomplishment will finally be measured by the standard of rational good - did it promote the love of God and of the neighbor? Our ability to measure knowledge, and people, and human events in this way is the rational sight of truth.
 
-THE RATIONAL: THE FIRST RATIONAL
+=== THE RATIONAL: THE FIRST RATIONAL
 
 Second in a Series of Talks to the General Faculty by the Rev. Peter M. Buss
 
@@ -1067,7 +1074,7 @@ You shall know the truth, and the truth shall make you free.
 
 And it is only in the New Church, where the doctrine of genuine truth - the perfect order of truth - has been revealed, that such education is possible on earth today. No more important effort in human education exists - and the principle is exactly the same in our evangelization efforts in our church.
 
-THE RATIONAL: THE REFORMATION OF THE RATIONAL
+=== THE RATIONAL: THE REFORMATION OF THE RATIONAL
 
 Third in a Series of Talks to the General Faculty on the Rational by the Rev. Peter M. Buss
 
@@ -1195,7 +1202,7 @@ And the two marvelous things about this process in all of learning are (1) that 
 
 For the rational is the creative faculty of the mind. It is this which causes truth to be seen, and which harmonizes and orders the ideas in the mind. It is for the cause of rational good - the good of service - that we have the power to read books or chop wood accurately or make watches or teach fractious kids Latin. In each of these endeavors the ability to see and be affected by truth is the guiding light, and the need to love others outside of ourselves is the force that moves us. These are rational truth and good - human nature itself, and the image and likeness of God.
 
-THE LEARNER AND THE LORD
+=== THE LEARNER AND THE LORD
 
 An Address to the Education Council by the Rt. Rev. Peter M. Buss
 
@@ -1280,51 +1287,31 @@ The simple ideas which we here on earth have of man are the primary ones which t
 
 A few of the types under which He is seen
 
-i. A loving heavenly Father (K/1)
-
-ii. Creator (2)
-
-iii. Redeemer (3)
-
-iv. Hero of War (4)
-
-v. King (5)
-
-vi. Governing the evil (6)
-
-vii. On earth (7/8)
+. A loving heavenly Father (K/1)
+. Creator (2)
+. Redeemer (3)
+. Hero of War (4)
+. King (5)
+. Governing the evil (6)
+. On earth (7/8)
 
 Some others
 
-i. A revelator
-
-ii. A forgiving or merciful God
-
-iii. A Shepherd
-
-iv. An angry God
-
-v. An avenging God
-
-vi. A punishing God
-
-vii. One who leads us
-
-viii. A patient God
-
-ix. A God who grieves
-
-x. A God who suffers
-
-xi. A balanced God: love and wisdom always together
-
-xii. A joyful God
-
-xiii. A healing God
-
-xiv. A disapproving God
-
-xv. One who has answers to all questions.
+. A revelator
+. A forgiving or merciful God
+. A Shepherd
+. An angry God
+. An avenging God
+. A punishing God
+. One who leads us
+. A patient God
+. A God who grieves
+. A God who suffers
+. A balanced God: love and wisdom always together
+. A joyful God
+. A healing God
+. A disapproving God
+. One who has answers to all questions.
 
 You can make your own lists. But in every subject we teach we should ask what human picture of our God we are presenting to our children. Can we, if we teach poorly, present a picture which is not in harmony with the Word? Can we, if we are conscientious, enhance the sense of their heavenly Father with each subject we teach?
 
@@ -1378,7 +1365,11 @@ In this paper I have emphasized the lower images of the Lord - those found prima
 
 Finally, let us remember the definition of instruction which W. F. Pendleton alluded to in an address seventy years ago. Instruction may be defined as causing the mind to see that which before was unseen, to know that which before was unknown (Op. Cit, p. 68). We need to lead our students on from one vision of the Lord to an ever deeper and higher one. Let them feel that they can never be satisfied, that there is always something far more wonderful to learn about the Lord. Let him who glories glory in this, that he understands and knows Me, that I am the Lord, who exercises lovingkindness, judgment, and justice in the earth. For in these I delight, says the Lord (Jer. 9:24).
 
-BAPTISM AS A REQUIREMENT FOR MEMBERSHIP IN THE GENERAL CHURCH
+<<<
+
+== Miscellaneous Addresses
+
+=== BAPTISM AS A REQUIREMENT FOR MEMBERSHIP IN THE GENERAL CHURCH
 
 An Address to the Council of the Clergy
 
@@ -1409,7 +1400,7 @@ The following is a summary of some questions which they raised.
 
 6. It seems that those who are baptized as infants have a more casual way of committing to the church of their own free will. They can ignore the rite of confirmation of baptism or confession of faith, which is strongly recommended in the church, and simply sign a membership application form. By contrast, those seeking adult membership from other church bodies have a soul-searching challenge, if they find baptism into the New Church hard to accept.
 
-To these items I might add two which I have heard quite often.
+ To these items I might add two which I have heard quite often.
 
 7. Some people have family relationships or precious associations surrounding their earlier church. They feel that they are betraying these things. For example, it may be an uncle who performed the baptism, or perhaps a beloved sister who acted as godparent. In many cases, family members are unhappy with a persons conversion to the New Church, and the act of baptism seems such a rejection of his or her former affiliation that this is what they focus on more than anything else.
 
@@ -1671,7 +1662,7 @@ We have all had the privilege of performing baptisms for adults, and of rejoicin
 
 New Church baptism heralds a persons entrance into the Lords church, on earth and in heaven, if the newly baptized person does what the ceremony represents. Yes, it is a time of nostalgia also, for the person may be saying goodbye to earlier states, many of which were happy. But it is a movement towards a new destiny, not just for the person, but for this world, a destiny which is a part of the Lords Divine Providence. It is a time for rejoicing.
 
-ELIJAH AND THE DROUGHT: THE ESTABLISHMENT OF FAITH
+=== ELIJAH AND THE DROUGHT: THE ESTABLISHMENT OF FAITH
 
 Reflections on the New Church in the Wilderness
 
@@ -1730,7 +1721,7 @@ Elijah said to the woman, Give me your son. He was dead in her arms. It must hav
 
 The boy was carried upstairs to a private room, which represents the interiors of the mind. It is through seeing the deeper burden of truth, through allowing the Word to breathe life into the doctrine that we learn to have confidence in the power of the church. It will grow. It will prosper. We will allow the Lord to do His work in His own way.
 
-***********
+***
 
 Then comes the great story of I Kings, chapter 18. The drought is in its third year. Elijah was sent to Ahab so that rain could come upon the earth. Interestingly, Elijah didnt go to Ahab. The king and his chief servant, Obadiah, were searching for water anywhere in the land. Ahab had gone one way and Obadiah the other, the wicked king and the good servant going in opposite directions for the same purpose. Evil people and good alike seek for truth, but for different ends.
 
@@ -1747,10 +1738,7 @@ It seems silly, but it is true. Many of our arguments are about this imbalance, 
 That is one reason the church stays in the wilderness.
 
 The simple principle about the churchs stay in the wilderness is this:
-WHEN EITHER LOVE OR TRUTH IS EMPHASIZED TOO MUCH THEN THE CHURCH IS NOT
-READY TO GROW - IN US, IN OUR CHILDREN, IN NUMBERS. ONLY WHEN THEY ARE
-IN BALANCE CAN WE FULFILL OUR DESTINY AS A CHURCH. AND THEY CAN BE IN
-BALANCE ONLY WHEN THEY ARE JOINED IN USEFULNESS.
+WHEN EITHER LOVE OR TRUTH IS EMPHASIZED TOO MUCH THEN THE CHURCH IS NOT READY TO GROW - IN US, IN OUR CHILDREN, IN NUMBERS. ONLY WHEN THEY ARE IN BALANCE CAN WE FULFILL OUR DESTINY AS A CHURCH. AND THEY CAN BE IN BALANCE ONLY WHEN THEY ARE JOINED IN USEFULNESS.
 
 We could also state it this way. When good and truth are joined in equal measure, the church will come forth out of the wilderness. Any extra truth has to pass away, because it is not of the will. Any extra good will pass away, because only good which is joined to truth is genuine good.
 
@@ -1780,14 +1768,14 @@ How do these reflections help us as we start a new year in the Academy?
 
 2. Yet a church in the wilderness has good things it can do. The stories of Elijah have happy endings. He is kept safe. He saves the widow woman and her son. He triumphs over Baal in the most devastating expose that a false religion has ever faced. The people confess Jehovah, the land is deluged with life-giving rain.
 
-3. There is an imbalance in our church when we act from love and gratitude that the Lord has given us this religion, yet we cling to false notions. Our love is not matched by equal truth. In that state some progress is made. Some good feelings - deep ones and external ones (represented by the flesh and bread) are given to us.
-
+3. There is an imbalance in our church when we act from love and gratitude that the Lord has given us this religion, yet we cling to false notions. Our love is not matched by equal truth. In that state some progress is made. Some good feelings - deep ones and external ones (represented by the flesh and bread) are given to us. +  
+ + 
 The weakness of this state is that we are not seeing genuine truth, and that we will tend to slip into feelings of self-righteousness, wanting rewards for our good deeds. When this motive surfaces in our church, it is a sign that we need to turn ourselves to the truth, and see more deeply than presently we are seeing. We do this when we spiritually feed the prophet first - searching in the Word to find what the Lord wants us to do each day, in each situation.
 
 4. The state of truth is ushered in when we reel our need for it. The widow represents a longing for truth, and a sense or the lack of it. To this state the Word speaks, and it gives us enough for each day. It keeps the church alive.
 
-5. The problem with the state of truth is that, because we are studying and seeing principles, we begin to think that we need to take charge of the church, we need to protect it, we are strong because we have the Writings. As we slip into this feeling, we will face disillusionment, and our doctrine will seem to be lifeless, powerless to build the dream we longed for.
-
+5. The problem with the state of truth is that, because we are studying and seeing principles, we begin to think that we need to take charge of the church, we need to protect it, we are strong because we have the Writings. As we slip into this feeling, we will face disillusionment, and our doctrine will seem to be lifeless, powerless to build the dream we longed for. + 
+ + 
 We need to relinquish the church into the Lords hands once more, to look more deeply and see that He provides in ways we cannot possibly envision. We need to believe that if we allow our understanding to be carried up by the Word it will come alive once more.
 
 6. There will be a sense of urgency in our church when good and truth are united, in equal measure, in uses. When we learn an ideal and set out right away to put it to work, then truth may be joined to good in equal measure. When we have a good feeling and it causes us to search for the truth that can best express it, and use it, then good is joined to truth in equal measure. Then we will not have mushy good, or harsh truth.
@@ -1796,83 +1784,76 @@ It is into this state that the fire of Jehovah can fall and permeate all that we
 
 As we go through a school year we will find these many different states in ourselves, in the Academy as a whole, in the students. For we are a church in the wilderness. But a land of beauty awaits us. It is certain, the Writings promise us, that the New Church, which is the New Jerusalem, will exist, because it is foretold.... And it is also certain that the falsities of the former church must first be removed (AR 547). Our first step is to understand the challenges that the Lord has offered the infant New Church, so that in facing them, we may allow the Lord to keep His promise.
 
-THE PERFECT COMPLEMENT OF MALE OF FEMALE
+=== THE PERFECT COMPLEMENT OF MALE OF FEMALE
 
 2004
+
+CAUTION: _NOTE: This was probably a table, with the A,B series of complementary principles on the left; and a sequential numbered series on the right; with each number having supporting CL citations.
+I haven't tried to sort it out yet, but the numbers run right through the letters. ... i.e. 5, B, 6 which does not fit an ordered list_
 
 A. Some basic principles
 
 1. It is hard for a man to talk about womens qualities. When Swedenborg spoke of feminine wisdom he allowed the wives in heaven to speak.
 
-CL 166: Because these are among things kept secret by wives, it is not appropriate for me to reveal them in their particulars. It is, however, appropriate for wives themselves, and therefore I have included at the end of several chapters four narrative accounts in which wives themselves reveal them.
+a. CL 166: Because these are among things kept secret by wives, it is not appropriate for me to reveal them in their particulars. It is, however, appropriate for wives themselves, and therefore I have included at the end of several chapters four narrative accounts in which wives themselves reveal them.
 
-CL 169: But these things I report as they were told me; see the two relations by the seven wives sitting in the rose garden (n. 293, 294).
+b. CL 169: But these things I report as they were told me; see the two relations by the seven wives sitting in the rose garden (n. 293, 294).
 
 2. We live in a culture which emphasizes the understanding more than the will, thus a masculine perspective more than a feminine one.
 
-CL 83: Good does not appear in the light of the understanding as does truth. Therefore knowledge of it has concealed and eluded investigation. And since, from this cause, good is among things unknown, no one could conjecture that there is a marriage between it and truth.
+a. CL 83: Good does not appear in the light of the understanding as does truth. Therefore knowledge of it has concealed and eluded investigation. And since, from this cause, good is among things unknown, no one could conjecture that there is a marriage between it and truth.
 
-CL 126: It appears as though truth was the primary thing of the church because it is its first in time. It is from this appearance that prelates of the church have given the palm to faith which pertains to truth, rather than to charity which pertains to good.... Therefore, as regards any knowledge of what they are, the good of charity and the affection of the will lie hidden away as though in a tomb, and by some, earth is thrown over them as over the dead, lest they rise again.
+b. CL 126: It appears as though truth was the primary thing of the church because it is its first in time. It is from this appearance that prelates of the church have given the palm to faith which pertains to truth, rather than to charity which pertains to good.... Therefore, as regards any knowledge of what they are, the good of charity and the affection of the will lie hidden away as though in a tomb, and by some, earth is thrown over them as over the dead, lest they rise again.
 
-AC 2417:8: The doctrine of charity has been lost. [This is a primary cause for a lack of appreciation of the feminine viewpoint even with women!]
+c. AC 2417:8: The doctrine of charity has been lost. [This is a primary cause for a lack of appreciation of the feminine viewpoint even with women!]
 
 3. The marriage between a woman and a man descends from the marriage of good and truth. Why is this point important? Because the Writings say that a woman receives conjugial love directly from the Lord. This means that she receives the love of conjoining good and truth in use! Her inmost form is the love of conjunction of these two halves of creation. This manifests itself, lower down, in a love of marriage. More on this later. Upon this principle depends our understanding of the distinctive feminine contribution in all arenas of human life.
 
 4. Eternally complementary.
 
-CL 33: Masculinity in the male is masculine in every part, even in the least part of his body, also in every idea of his thought, and in every bit of his affection. So too with femininity in the female.
+a. CL 33: Masculinity in the male is masculine in every part, even in the least part of his body, also in every idea of his thought, and in every bit of his affection. So too with femininity in the female.
 
-HH 369: Everyone, whether man or woman, possesses understanding and will; but with the man the understanding predominates, and with the woman the will predominates, and the character is determined by that which predominates.
+b. HH 369: Everyone, whether man or woman, possesses understanding and will; but with the man the understanding predominates, and with the woman the will predominates, and the character is determined by that which predominates.
 
 5. There has to be equality.
 
-HH 369: Yet in heavenly marriages there is no predominance; for the will of the wife is also the husbands will, and the understanding of the husband is also the wifes understanding, since each loves to will and to think like the other.... Thus are they conjoined into one. This conjunction is actual conjunction, for the will of the wife enters into the understanding of the husband, and the understanding of the husband into the will of the wife, this especially when they look into one anothers faces.
+a. HH 369: Yet in heavenly marriages there is no predominance; for the will of the wife is also the husbands will, and the understanding of the husband is also the wifes understanding, since each loves to will and to think like the other.... Thus are they conjoined into one. This conjunction is actual conjunction, for the will of the wife enters into the understanding of the husband, and the understanding of the husband into the will of the wife, this especially when they look into one anothers faces.
 
-CL 125: It is a common saying in the church [said by Paul] that, as the Lord is the head of the church, so the husband is the head of the wife. But the Lord is the head of the church, and man, man and woman, and still more husband and wife together, are the church.
+b. CL 125: It is a common saying in the church [said by Paul] that, as the Lord is the head of the church, so the husband is the head of the wife. But the Lord is the head of the church, and man, man and woman, and still more husband and wife together, are the church.
 
-CL 331:2, 3: If a man loves his intelligence in himself, that intelligence becomes the receptacle of his own love; and the love of what is ones own, being unable to tolerate an equal, never becomes conjugial, but so long as it prevails, it remains scortatory. [Note that it is a selfish and inherently unclean love that wants superiority.]
+c. CL 331:2, 3: If a man loves his intelligence in himself, that intelligence becomes the receptacle of his own love; and the love of what is ones own, being unable to tolerate an equal, never becomes conjugial, but so long as it prevails, it remains scortatory. [Note that it is a selfish and inherently unclean love that wants superiority.]
 
 B. Complementary qualities (1): the soul of each
 
 6. The soul, the deepest being of a man is the love of growing wise, or truth from good.
 
-CL 32: The inmost quality in masculinity is love, and its veil wisdom, or in other words, it is love veiled over with wisdom; while the inmost quality in femininity is that same wisdom, the wisdom of masculinity, and its veil the love resulting from it.
+a. CL 32: The inmost quality in masculinity is love, and its veil wisdom, or in other words, it is love veiled over with wisdom; while the inmost quality in femininity is that same wisdom, the wisdom of masculinity, and its veil the love resulting from it.
 
-CL 90: In the subjects of the animate kingdom, the truth of good or truth from good is masculine.... The male is born to become understanding (also CL 159).
+b. CL 90: In the subjects of the animate kingdom, the truth of good or truth from good is masculine.... The male is born to become understanding (also CL 159).
 
-CL 88: There are two loves with the male, of which the one, which is prior, is the love of becoming wise, and the other, which is posterior, is the love of wisdom. But this latter love, if it remains with the man, is an evil love and is called pride or the love of self-intelligence. This love was taken from man lest it destroy him, and was transcribed into woman that it might become conjugial love which reintegrates him, and that this was foreseen from eternity.
+c. CL 88: There are two loves with the male, of which the one, which is prior, is the love of becoming wise, and the other, which is posterior, is the love of wisdom. But this latter love, if it remains with the man, is an evil love and is called pride or the love of self-intelligence. This love was taken from man lest it destroy him, and was transcribed into woman that it might become conjugial love which reintegrates him, and that this was foreseen from eternity.
 
-7. The soul, the deepest being of a woman is conjugial love, or the love of conjoining good and truth.
-
+7. The soul, the deepest being of a woman is conjugial love, or the love of conjoining good and truth. + 
 Please note that this next passage is talking about the most universal sphere which flows from the Lord into all created things. No more vital influx from the Lord exists. It is called the sphere of conjugial love. Because it is the most universal, it clearly means, the sphere of the love of conjoining good and truth. Think about that: From the Lord as the Sun of heaven there is this powerful conjunctive force, proceeding, to unite the two parts of creation. Into whom does it flow directly?
+a. CL 223: This sphere is received by the female sex and through this sex is transferred into the male sex. The masculine is intellectual and the feminine voluntary, and an intellectual form cannot grow warm with conjugial heat from itself but only from the conjunctive heat of one in whom that heat has been implanted by creation.
+b. CL 160: Women are born loves, but men, with whom they unite themselves that they may be loved in return, are receptions. Moreover, love is continually working.
+c. CL 161: There is nothing of conjugial love [we may read, the love of conjoining good and truth into the heavenly marriage as well as the love of true marriage] with men, nor even of love of the sex, but only with wives and women. [Note, not just wives!] Wives are loves and men receptions.
+d. Complementary (II): perception with men and with women
+e. Perception with men is from rational wisdom, or from truth that is learned, understood, and perceived from good.
+f. CL 168: It is masculine to perceive from the understanding. The understanding perceives things which are above the body and beyond the world, it being to these that rational and spiritual sight extends; while love does not go beyond what it feels.
+g. CL 102: Rational wisdom perceives the truths and goods which appear interiorly in a person, not as his own but as flowing in from the Lord.
+h. CL 165: Rational wisdom is proper to the understanding of men and climbs into a light in which women are not.
+i. CL 90: The affection of the male is an affection for learning, understanding, and being wise the affection of learning in boyhood, the affection of understanding in adolescence and young manhood, and the affection of being wise from this manhood to old age.... His innate disposition inclines to the formation of an understanding.
 
-CL 223: This sphere is received by the female sex and through this sex is transferred into the male sex. The masculine is intellectual and the feminine voluntary, and an intellectual form cannot grow warm with conjugial heat from itself but only from the conjunctive heat of one in whom that heat has been implanted by creation.
+8. Perception with women is from a wisdom inherent within her love. Note that the Writings usually speak of this perception in the married state, but three passages (CL 21, 44 and 156e) make it clear that they have this perception in their dealings with people at large, and that they have it before marriage also.
 
-CL 160: Women are born loves, but men, with whom they unite themselves that they may be loved in return, are receptions. Moreover, love is continually working.
+a. CL 166: In order that this union may be achieved, a wife is given a perception of her husbands affections, and also the highest prudence in knowing how to moderate them.
 
-CL 161: There is nothing of conjugial love [we may read, the love of conjoining good and truth into the heavenly marriage as well as the love of true marriage] with men, nor even of love of the sex, but only with wives and women. [Note, not just wives!] Wives are loves and men receptions.
+b. CL 168: It is masculine to perceive from the understanding, and feminine to perceive from love. What pertains to light is seen and what pertains to heat is felt. This perception is the wifes wisdom, and it is not possible with the man, nor the mans rational wisdom with the wife.
 
-C. Complementary (II): perception with men and with women
+c. CL 156e: They then said: Every man has five senses; but we have in addition a sixth sense, being the sensation of all the delights of the husbands conjugial love. We then discern them as exquisitely and distinctly as the ear discerns the modulations of song.
 
-8. Perception with men is from rational wisdom, or from truth that is learned, understood, and perceived from good.
-
-CL 168: It is masculine to perceive from the understanding. The understanding perceives things which are above the body and beyond the world, it being to these that rational and spiritual sight extends; while love does not go beyond what it feels.
-
-CL 102: Rational wisdom perceives the truths and goods which appear interiorly in a person, not as his own but as flowing in from the Lord.
-
-CL 165: Rational wisdom is proper to the understanding of men and climbs into a light in which women are not.
-
-CL 90: The affection of the male is an affection for learning, understanding, and being wise the affection of learning in boyhood, the affection of understanding in adolescence and young manhood, and the affection of being wise from this manhood to old age.... His innate disposition inclines to the formation of an understanding.
-
-9. Perception with women is from a wisdom inherent within her love. Note that the Writings usually speak of this perception in the married state, but three passages (CL 21, 44 and 156e) make it clear that they have this perception in their dealings with people at large, and that they have it before marriage also.
-
-CL 166: In order that this union may be achieved, a wife is given a perception of her husbands affections, and also the highest prudence in knowing how to moderate them.
-
-CL 168: It is masculine to perceive from the understanding, and feminine to perceive from love. What pertains to light is seen and what pertains to heat is felt. This perception is the wifes wisdom, and it is not possible with the man, nor the mans rational wisdom with the wife.
-
-CL 156e: They then said: Every man has five senses; but we have in addition a sixth sense, being the sensation of all the delights of the husbands conjugial love. We then discern them as exquisitely and distinctly as the ear discerns the modulations of song.
-
-CL 156e: [In this passage the wives of heaven were immediately perceptive of Swedenborgs state, even though they had never met him before!] The wives looked searchingly into my eyes, and I asked why. They said, We are able exquisitely to see what your inclination is in respect to love of the sex, and hence what your affection, and from this what your thought; and we see that you are meditating on it intensely but yet chastely.
+d. CL 156e: [In this passage the wives of heaven were immediately perceptive of Swedenborgs state, even though they had never met him before!] The wives looked searchingly into my eyes, and I asked why. They said, We are able exquisitely to see what your inclination is in respect to love of the sex, and hence what your affection, and from this what your thought; and we see that you are meditating on it intensely but yet chastely.
 
 D. Complementary (III): wisdom with both
 
@@ -1956,7 +1937,7 @@ Note that friendship implies also trustworthiness, and communication.
 
 CL 81e: After His advent, conjugial love will be raised up anew by the Lord, such as it was with the ancient peoples; for this love is from the Lord alone and is with those who are made spiritual by Him through the Word.
 
-WHEN HIS COVENANT IS BROKEN WHAT SHOULD THE CHURCH DO?
+=== WHEN HIS COVENANT IS BROKEN WHAT SHOULD THE CHURCH DO?
 
 Council of the Clergy 1993
 
@@ -2012,7 +1993,7 @@ How does a thief become reclaimed by the civil society? He serves his punishment
 
 How does a person earn acceptance after a moral transgression? That is the question before us. Can we, as a church, extend the hand of forgiveness and understanding, and yet ensure that we are not saying, Oh, you did this terrible thing, but never mind: the Lords laws are not important anyway.
 
-The Lords Second Covenant
+==== The Lords Second Covenant
 
 In the halcyon days of the Most Ancient Church there was the true covenant with the Lord - that of love (AC 1055, 655, 1038).
 
@@ -2024,15 +2005,13 @@ We all break that covenant. In that sense we are all sinners, sick people in nee
 
 I have used the example of two friends who were close all their lives. They built a business together, on trust. Then one began to overspend his income, and in order to cover his losses he began embezzling money from the company. Inevitably he was discovered, and the partnership dissolved in bitterness.
 
-Some years later, having realized how badly he behaved, he came back to his friend and said, I was terribly wrong. But weve been so close, and so have our families. Can we try to rebuild what I destroyed? For the sake of their friendship, and because he and his family had been grieving, the innocent friend agreed.
+Some years later, having realized how badly he behaved, he came back to his friend and said, I was terribly wrong. But we've been so close, and so have our families. Can we try to rebuild what I destroyed? For the sake of their friendship, and because he and his family had been grieving, the innocent friend agreed.
 
-What would the new partnership between them be like? It would be different, wouldnt it, from the one that had been broken. Now they would probably work out a careful agreement. Perhaps they would hire lawyers to protect each of them. There would be checks and balances in all the financial dealings of the company, to guard against the weakness that the one partner had shown.
+What would the new partnership between them be like? It would be different, wouldn't it, from the one that had been broken. Now they would probably work out a careful agreement. Perhaps they would hire lawyers to protect each of them. There would be checks and balances in all the financial dealings of the company, to guard against the weakness that the one partner had shown.
 
 What does the Lord do when we break His first covenant? What does He do when we have done evil? I think we can sum it up in two sentences. He says, You have done wrong. I have a way to help you to stop doing wrong. His mercy goes to work!
 
-Which brings us to the Second Covenant. But this is the covenant that I
-will make with the house of Israel: After those days, says Jehovah, I
-will put My law in their inward parts, and write it on their hearts; and I will be their God, and they shall be My people (Jer. 31:33). Note that He doesnt say He will put His love in their inward parts. Its His law. He says that He will be their God: for God means the government of His truth.
+Which brings us to the Second Covenant. But this is the covenant that I will make with the house of Israel: After those days, says Jehovah, I will put My law in their inward parts, and write it on their hearts; and I will be their God, and they shall be My people (Jer. 31:33). Note that He doesnt say He will put His love in their inward parts. Its His law. He says that He will be their God: for God means the government of His truth.
 
 We know this teaching well: when love is rejected, the Lord provides His new covenant by means of His truth. The True Christian Religion explains this in the section on redemption.
 
@@ -2042,7 +2021,7 @@ The falsities and evils in which all hell was and always is could have been assa
 
 We might add therefore that today no church can be built up in any human being except by the same means - by the power of truth.
 
-A beautiful set of teachings is found in the explanation of the Lords intercession. The Lord explains that there is intercession in all love and mercy. He who loves or feels compassion continually intercedes (AC 8573). But when that love is rejected, then it is by means of truth that intercession takes place. The Divine truth which proceeds from the Lord continually intercedes... because it proceeds from the Divine love (AC 8573). The Divine truth... is nearest to the Divine good.... Mediation is effected through it, because by means of it access is given to the Divine good (AC 8705). The passage observes that the Lord glorified His Human because no one can come close to Him unless they see Him as a Man; for no one can be conjoined through love with the Divine itself except by means of such an idea (Ibid.).
+A beautiful set of teachings is found in the explanation of the Lord's intercession. The Lord explains that there is intercession in all love and mercy. He who loves or feels compassion continually intercedes (AC 8573). But when that love is rejected, then it is by means of truth that intercession takes place. The Divine truth which proceeds from the Lord continually intercedes... because it proceeds from the Divine love (AC 8573). The Divine truth... is nearest to the Divine good.... Mediation is effected through it, because by means of it access is given to the Divine good (AC 8705). The passage observes that the Lord glorified His Human because no one can come close to Him unless they see Him as a Man; for no one can be conjoined through love with the Divine itself except by means of such an idea (Ibid.).
 
 The Lord always offers the hand of love. When it is struck aside, He offers His other hand - truth, which comes between us and the consequences of our sin; truth, which provides a way back to the Divine love. This is the new covenant. It creates a new bond between the Lord and anyone who has fallen.
 
@@ -2110,7 +2089,7 @@ Why is the resolution of this apparent paradox so important? Because it is hard 
 
 Accepting responsibility for our faults, and for changing them, is a key part of the new covenant.
 
-Aspects of the new covenant
+==== Aspects of the new covenant
 
 1. Two wills
 
