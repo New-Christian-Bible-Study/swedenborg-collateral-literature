@@ -1,31 +1,33 @@
+= Faith and Falsity
 A Series or Doctrinal Classes by Hugo Lj. Odhner
+include::../template-attributes.adoc[]
 
+////
 INDEX
 
-Class Number Subject of Class I  THE ONE TRUE FAITH
-II THE ORIGINS OF FALSITY
-III WHY MANY RELIGIONS
-IV HOW LEGEND BECOMES DOGMA
-V SAINTS, PRIESTS, AND SINNERS
-VI THE FIERY FLYING HYDRA
-VII THE JEWISH CHURCH
-VIII SENSUAL THOUGHT ABOUT THE AFTER-LIFE
-IX PAGAN INFLUENCES ON CHRISTENDOM
-X THE FALLACY OF AN INNER LIGHT
-XI CHRISTIAN SCIENCE AND THE DENIAL OF EVIL
-XII DIFFERENCES WITHIN THE CHURCH
-XIIII  THE SIGHT OF TRUTH
-XIV PRESERVING THE INTEGRITY OF DOCTRINE
+Class Number Subject of Class 
+== I - THE ONE TRUE FAITH
+== II - THE ORIGINS OF FALSITY
+== III - WHY MANY RELIGIONS
+== IV - HOW LEGEND BECOMES DOGMA
+== V - SAINTS, PRIESTS, AND SINNERS
+== VI - THE FIERY FLYING HYDRA
+== VII - THE JEWISH CHURCH
+== VIII - SENSUAL THOUGHT ABOUT THE AFTER-LIFE
+== IX - PAGAN INFLUENCES ON CHRISTENDOM
+== X - THE FALLACY OF AN INNER LIGHT
+== XI - CHRISTIAN SCIENCE AND THE DENIAL OF EVIL
+== XII - DIFFERENCES WITHIN THE CHURCH
+== XIIII - THE SIGHT OF TRUTH
+== XIV - PRESERVING THE INTEGRITY OF DOCTRINE
+////
 
-FAITH AND FALSITY
-
+FAITH AND FALSITY + 
 A Series or Doctrinal Classes by Hugo Lj. Odhner
 
-Class I
+== I - THE ONE TRUE FAITH
 
-THE ONE TRUE FAITH
-
-The purpose of this series of essays is to consider the importance, yea? the necessity, of a true faith, a true doctrine concerning God, concerning life and concerning the soul. Only a fool would maintain that one should put ones faith in what is not true. Common sense holds it self-evident that in worldly matters, when one is deluded by some falsity, misled by some deceptive appearance, or held in ignorance, one is courting disaster. In recent centuries there has been a feverish search for natural truth, for a better knowledge of the physical environment in which our lives are placed. In every generation, the process of technical education has been lengthened to keep pace with the widening horizons of experienced knowledge, it is known, gives power, a power needed in the competitive uses of society.
+The purpose of this series of essays is to consider the importance, yea, the necessity, of a true faith, a true doctrine concerning God, concerning life and concerning the soul. Only a fool would maintain that one should put ones faith in what is not true. Common sense holds it self-evident that in worldly matters, when one is deluded by some falsity, misled by some deceptive appearance, or held in ignorance, one is courting disaster. In recent centuries there has been a feverish search for natural truth, for a better knowledge of the physical environment in which our lives are placed. In every generation, the process of technical education has been lengthened to keep pace with the widening horizons of experienced knowledge, it is known, gives power, a power needed in the competitive uses of society.
 
 But in matters that concern man's ultimate destinies, that concern his relation to the Source of all life, or that concern his immortal life, his soul and the final objective of existence, a great lassitude has crept war men's minds. Despite much preaching from untold pulpits, there is a perceptible atmosphere of spiritual disillusionment overhanging the modern world. On the whole, people are seemingly satisfied with a life which looks no further then to the comforts of the body and the satisfactions of natural curiosity and social ambitions.
 
@@ -55,7 +57,7 @@ In the True Christian Religion we find a brief statement of this one true faith:
 
 But still the Heavenly Doctrine repeatedly explains that every man canif he willsbe saved. It is of the Lords Divine Providence that every nation has some religion; and the primary thing in every religion is to acknowledge that there is a God; otherwise it is not called a religion. And every nation that lives according to its religion, by refraining from doing evil because it is contrary to its god, receives something of the spiritual in its natural. Here the Writings appeal to common perception: When on hears some gentile say that he is unwilling to do this or that evil because it is contrary to his god, does one not say to oneself, Is not this man saved? It seems as if it could not be otherwise. Sound reason declares this to him (DP 322). And Swedenborg testifies, I have learned from much experience that men of every religion are saved, provided that by a life of charity they have received remains of good and of apparent truth.... The life of charity consists in thinking kindly of another, in wishing him well, and in perceiving joy in oneself from the fact that others also are saved (AC 2284).
 
-*******
+***
 
 It may appear that we are here faced with something of a paradox. On the one hand, there is only one saving faith, but this faith has perished in Christendom so that now there are none but false churches, in which there is no genuine truth remaining, and hence nothing but a blind faith. On the other handwhich is a matter of great rejoicingall men from every religion can be saved. And the questions then arise, How are they saved? andif they can be saved as easily as those who are in true faithwhat is the great and urgent need for the true faith? Why should it be written in the Canons of the New Church that through the faith of the church of the present day there is no conjunction with God and thence no salvation? and that unless a New Church exist, which shall abolish the faith of the Old Church ... no flesh can be saved?
 (Can., Trin. x.).
@@ -73,7 +75,7 @@ We must necessarily conclude from this that the worship of God as a Divine Human
 
 God cannot be comprehended except in human form, which is the only form that can manifest love and wisdom. Without being determined to the human form, the idea of the Divine would dissipate into a bleak infinity devoid of quality, as when the eye looks into space. And thus the thought would sink into natureand substitute its interior forces for God. Such a formless God cannot be worshiped or loved, for He would be invisible, and inconceivable except as an unknown power, bare and mechanical, without soul or purpose, without pity or compassion, love or wisdom (EU 7 and references).
 
-*******
+***
 
 But why is it that the idea of a Godand indeed a God Manis so inseparable from good that no good is genuine apart from the acknowledgment of God? Why is it that the Writings say that all those are evil who deny God (TCR 382), and that the charity of atheists is not merely spurious or hypocritical but non-existent, even if they live a life of philanthropy and conspicuous moral virtue? The good works of atheists is compared to bread made of ashes or fruit made of wax. They cannot be called charity, it is explained, because there is nothing of faith adjoined to it (TCR 453).
 
@@ -114,13 +116,8 @@ It is this inner predilectionoften almost unconsciousfor an acknowledgment of Go
 
 But even as this supreme concept of God-Man is implicit in all genuine good and thus unifies the race, so the rejection of that truth and the acceptance of untold falsities, become the means of destroying charity or rendering it merely natural, and thus dividing men and nations into dissenting groups which like the builders of the tower of Babelcan no longer speak the same tongue.
 
-FAITH AND FALSITY
 
-A Series or Doctrinal Classes by Hugo Lj. Odhner
-
-Class II
-
-THE ORIGINS OF FALSITY
+== II - THE ORIGINS OF FALSITY
 
 The doctrine of the New Church points out that good, if it be sincere and not inspired by self-love, predisposes man's mind to acknowledge truth when he learns it. Unless this were so, it would be difficult for us to conceive of Divine justice. For no man can enter heaven without accepting the truth; indeed, heaven is defined as a conjunction of good and truth. It is therefore necessary that those who are in good in which there is innocence should have the opportunity in the other world to be instructed in the faith of heaven if they had not known it while on earth. Man is equipped to recognize truthespecially the truth that God is and that He is oneby a universal influx into his soul, and by the inborn faculty of rationality. But still it is only from good, or a state of good affection, that man can acknowledge and receive the truth in his will and life.
 
@@ -194,13 +191,8 @@ Butand let this be our closing thoughtno man is judged by his ignorance. Thus th
 
 Those, however, who reject a God, are not excused. For their falsity is one that coheres with evil and with hell. The truth they reject and which they can find ample testimony to confirm, if they wished, from nature itself, is the fundamental truth which is essentially one with all goodi.e., implicit in all good. The atheist can regard nothing as sin, and after death will follow the call of his own will. He is not an atheist because of ignorance or intellectual quandaries, but because he has chosen self as god; and this is a one with the choice of evil instead of good (DLW 350).
 
-FAITH AND FALSITY
 
-A Series or Doctrinal Classes by Hugo Lj. Odhner
-
-Class III
-
-WHY MANY RELIGIONS
+== III - WHY MANY RELIGIONS
 
 The teaching of the Writings is that there is only one true faithfaith in the Lord Jesus Christ as the God of heaven and earth (TCR 379, 337). This was also the teaching of Paul who spoke of One Lord, one faith, one baptism, and said that the work of the ministry was for the edification of the church until we all come into the unity of the faith and the knowledge of the Son of God, and into a life perfected according to the measure of the age of the fullness of Christ (Eph. iv.). Since truth is one, true faith must be one. It cannot contradict itself.
 
@@ -270,13 +262,8 @@ It has been provided by the Lord that those who could not be reached by the Gosp
 
 For happiness lies not in being the greatest, either on earth or in the kingdom of heaven. In this world man of achievement look with something of envy upon those wholike childrencan find delight in simple joys, or who can be innocently oblivious to imperfections in themselves, in others, and in their surroundings. The mercy of the Lord is that man, as a vessel of life, may receive in the fullest abundance what he can use and appreciate. And with the same measure that ye mete withal, the Lord said, it shall be measured unto you again. Reception is according to use. Give, and it shall be given unto you; good measure, pressed down and shaken together and flowing over, shall men give unto your bosom (Luke 6:38).
 
-FAITH AND FALSITY
 
-A Series or Doctrinal Classes by Hugo Lj. Odhner
-
-Class IV
-
-HOW LEGEND BECOMES DOGMA
+== IV - HOW LEGEND BECOMES DOGMA
 
 In a living church the doctrinal opinions which become current are continually examined in the light of new studies of the Divine revelations which are acknowledged as the sole source of doctrine, being the Word of God given through prophets inspired with the Holy Spirit which leads to all truth.
 
@@ -288,20 +275,20 @@ The Christian Church, in its early days, was a genuine church. Yet from its crad
 
 Thus the faith of Christianity spread among many races and nations which were steeped in polytheism and ancient superstitions and which often were morally degraded. It was taken up not only by genuine converts but by a multitude of sectarians and by intellectuals and fanatics who sought to use its teachings to embellish various preconceived philosophized or mythical concepts of their own, and who were not willing to adopt the Gospels as their sole source of doctrine.
 
-In the first hundred years after the Lords resurrection, the Gospels as we know them were gradually accepted among Christians as Holy Scriptures which were read at public worship together with the Old Testament. But in the second and third centuries various sectarians began to flood the church with legends and false Gospels, purported to be written by the apostles and early disciples, and in some cases by Pontius Pilate. Some of these were intended to confirm the doctrines of those who held that the Lord came on earth only as a spiritual vision or phantasm. Others sought to fill in the events of the Lords life, while others were descriptive of visions of the apostles in the spiritual world, or prophetic visions of the end of the world. All were phantastic and fabulous in their nature and utterly unhistorical. Yet many were for a time accepted here and there at their face-value and regarded with reverence. Generally, however, they survived only among heretic sects, like the Ebiomites, Gnostics, and Manicheans. By the end of the second century we find the Four Gospels in a secure position,1
+In the first hundred years after the Lords resurrection, the Gospels as we know them were gradually accepted among Christians as Holy Scriptures which were read at public worship together with the Old Testament. But in the second and third centuries various sectarians began to flood the church with legends and false Gospels, purported to be written by the apostles and early disciples, and in some cases by Pontius Pilate. Some of these were intended to confirm the doctrines of those who held that the Lord came on earth only as a spiritual vision or phantasm. Others sought to fill in the events of the Lords life, while others were descriptive of visions of the apostles in the spiritual world, or prophetic visions of the end of the world. All were phantastic and fabulous in their nature and utterly unhistorical. Yet many were for a time accepted here and there at their face-value and regarded with reverence. Generally, however, they survived only among heretic sects, like the Ebiomites, Gnostics, and Manicheans. By the end of the second century we find the Four Gospels in a secure position,(*1)
 which the spurious quality of the sectarian rivals was generally recognized. Indeed when we read those apocryphal or spurious writings we must marvel at the simplicity and credulity of the people who took them for serious or authentic.
 
-1 James, the Apocryphal New Testament, Oxford 1924, p. xvi.
+*1 James, the Apocryphal New Testament, Oxford 1924, p. xvi.
 
-It might be thought that when Christianity had become firmly established, the invention of such legends would come to a stop. On the contrary, when the Church of Rome began to become dominant, and the Dark-Ages fell over the Christian world, new or embroidered versions of the Infancy Gospels, Passion Gospels, spurious acts and decretals, and false apocalypses continued to be fabricated. Documents of this kind, as a modern scholar points out, may be said to shade off gradually into the category of the Lives of the Saints.2 Even in the thirteenth century and even later, fanatical monks continued to imitate these ancient fables in new pious legends.
+It might be thought that when Christianity had become firmly established, the invention of such legends would come to a stop. On the contrary, when the Church of Rome began to become dominant, and the Dark-Ages fell over the Christian world, new or embroidered versions of the Infancy Gospels, Passion Gospels, spurious acts and decretals, and false apocalypses continued to be fabricated. Documents of this kind, as a modern scholar points out, may be said to shade off gradually into the category of the Lives of the Saints.(*2) Even in the thirteenth century and even later, fanatical monks continued to imitate these ancient fables in new pious legends.
 
-2 James, op. cit., p. xviii.
+*2 James, op. cit., p. xviii.
 
 This could not have been tolerated if the Roman Catholic Church had drawn its doctrine from the Word. But the position of the papal church did not encourage even the reading of the Word by its people, for fear that they might fall into heresy, i.e., might fail to see in the Word the particular doctrines which the Church had laid down as binding on the faith of the people: such doctrines as the vicarship of the pope, the invocation of saints, the veneration of images and relics, the division of the holy Eucharist, purgatory, indulgencies, etc., etc.
 
-Instead the Catholic Church ordains that there are two distinct means by which the message of Christ finds its way down to the Church of the present day. One is the inspired writings or the Scriptures, the other is the living teaching voice of the Church from the earliest times. The first is subordinate to the second as a dead page is subordinate to a living mind though they both contain the same thought, or, better, as the living author of a book is above the book....3 Thus the Catholic teaching is that Tradition is superior to the written Word. The Scriptures are not a book that is meant for teaching.
+Instead the Catholic Church ordains that there are two distinct means by which the message of Christ finds its way down to the Church of the present day. One is the inspired writings or the Scriptures, the other is the living teaching voice of the Church from the earliest times. The first is subordinate to the second as a dead page is subordinate to a living mind though they both contain the same thought, or, better, as the living author of a book is above the book....(*3) Thus the Catholic teaching is that Tradition is superior to the written Word. The Scriptures are not a book that is meant for teaching.
 
-3 Thomas B. Chetwood, S. J., God and Creation, 1928 ed., p. 44.
+*3 Thomas B. Chetwood, S. J., God and Creation, 1928 ed., p. 44.
 
 Of course, tradition is a vague term. Lots of fallacies are handed down by tradition. But the Catholic maintains that the Church is Divinethat its Councils can lay down the doctrine by approving the right tradition. In most cases, this means selecting as true what is most popularly acclaimed or favored. The voice of the Church is the voice of God. But the Catholic cannot deny that the councils themselves have often differed, and even condemned and anatheniatized each other. And so the final verdict must come through the Pope, the successor of Peter and vicar of Christ (see AE 1089e).
 
@@ -326,34 +313,34 @@ Since Christians early lost any concept of the truth that the Lord redeemed the 
 
 It is strange that at every occasion when the Lord addressed His mother, there is something of reproof in His words; except at the cross where He commands her into Johns charge with the words, Woman, behold thy son; and to the disciple, Behold thy mother. He never called her mother in the words cited in the Gospels, but always Woman. At the marriage at Cana He rebukes her attempt to urge Him. Of her later life, at the home of John, the disciple whom Jesus loved, and of her death, no record is preserved.
 
-But after a century or two, as Christianity spread in various pagan countries, the small knowledge about Mary was filled out by many legends which exalted her until she took a place in the popular mind almost of a goddess. It is notable that the position of Mary was not acknowledged to be superior to that of other saints until after the Nicean Council. In 428 A.D. the patriarch Nestorius of Constantinople objected to the title Mother of God which many applied to Mary. He maintained that Mary was mother only of the human nature of Christ; but his view were condemned at an Ecumenical Council in 431 and he was excommunicated and died in exile. In art, the figure of Mary with the Christ Child does not occur in the early centuries. But statues of the Egyptian goddess Isisthe Queen of Heaven and the Mother of Godwith her son Horus were popular in the Roman world, up to the fourth or fifth century, and (except for the characteristic infant look) any of them might easily have been taken for Madonna and Bambino. And when the population in the vicinity of such shrine became converted more or less suddenly to Christianity, the natural thing was to transform the worship of Isis and Horus into an adoration of the Virgin.4
+But after a century or two, as Christianity spread in various pagan countries, the small knowledge about Mary was filled out by many legends which exalted her until she took a place in the popular mind almost of a goddess. It is notable that the position of Mary was not acknowledged to be superior to that of other saints until after the Nicean Council. In 428 A.D. the patriarch Nestorius of Constantinople objected to the title Mother of God which many applied to Mary. He maintained that Mary was mother only of the human nature of Christ; but his view were condemned at an Ecumenical Council in 431 and he was excommunicated and died in exile. In art, the figure of Mary with the Christ Child does not occur in the early centuries. But statues of the Egyptian goddess Isisthe Queen of Heaven and the Mother of Godwith her son Horus were popular in the Roman world, up to the fourth or fifth century, and (except for the characteristic infant look) any of them might easily have been taken for Madonna and Bambino. And when the population in the vicinity of such shrine became converted more or less suddenly to Christianity, the natural thing was to transform the worship of Isis and Horus into an adoration of the Virgin.(*4)
 
-4 See Flinders Petrie, Egypt and Israel, London, 1912, pp. 137 et. seq.
+*4 See Flinders Petrie, Egypt and Israel, London, 1912, pp. 137 et. seq.
 
 Origen, who died about [?], is quoted by Catholics to have used some extravagant phrases, such as immaculate, about Mary. The earliest legend about her birth and infancyThe Book of James, now called Proto evangelismis thought to date from the second century. It is full of pious and inconsequential details but mentions no immaculate conception but pictures her as an exceptionally renowned child. It then embroiders the account of the annunciation and the Birth of Jesus. The legend about the Assumption of the VirginMarys death, burial, and the translation of her body to heavendates perhaps from the third century. It must be placed in connection with a number of legends which are of equally for tastic nature. The earliest texts are Egyptian. All are full of long, tedious discourses and instances of angelic interventions. The story in brief is that Mary bade John summon Peter and James, and, with the help of Mary Magdalene, now very old, spreads her burial linen on the ground, pouring spices on it. She lies down and prays to be delivered from the terrors of the next worldfrom the dragon Amanti and the river of fire. Jesus then appears on the chariot of the Cherubim and tells Death to come for her. When Mary sees the figure of Death, she leaps into the bosom of her Son. Her body is then buried. Later the tomb where it was hidden is opened and only a sweet odor is perceived, a voice being heard saying, Let no man take the trouble of seeking it (viz. the body) till the great day of the appearing of Christ.
 
 The earlier accounts go no further. Some accounts, dating from the 6th century,and they differ very widely, none of them making much senseadd that after a certain number of days the body would be taken up. Jesus descends in a chariot of fire and calls out, Mary, my mother, arise! And then the coffin opened and the body arose and embraced its own soul
 ... and they were united one with another. Jesus takes her into the chariot and angels go with them.
 
-As time goes on, the story is further elaborated. Some tell how all the apostles were borne to paradise in twelve chariots. More and more incredible historical details are used in the setting.5
+As time goes on, the story is further elaborated. Some tell how all the apostles were borne to paradise in twelve chariots. More and more incredible historical details are used in the setting.(*5)
 
-5 See James, op. cit., pp. 194-227.
+*5 See James, op. cit., pp. 194-227.
 
-*******
+***
 
 Let us not think that the leaders of Roman Catholicism demand of its people to believe the truth of all the conflicting details in this mass of legend. Stories of the saints, with all their equally unreasonable miracles and trivialities, have been encouraged as the diet of Catholics for ages. But the new dogma of the Assumption of the Virgin merely requires them to believe that the body of Mary was so transformed that it could be taken into heaven. Literalistic Christians have long maintained that the body of Enoch was so translated, for the sacred text says, And Enoch walked with God: and he was not; for God took him. The same they believe about Elijah, who went up by a whirlwind into heaven in a chariot of fire. That there is an internal sense to these statements of the Word is of course not known to Christians.
 
-The Catholics and the Protestant churches both subscribe to the Athanasian Creed which states that at the second coming of Christ all men shall rise again with their bodies to be judged. Thus the new Roman dogma only gives Mary a prior place in the resurrection. That the Catholics are quite literal in their interpretation of the biblical statements is clear from a text book used in their Colleges.6 This explains that the resurrection body will be very different from our mortal body, and that there will be plenty of room for all men who ever lived because such bodies, more ethereal in structure, could stand tier above tier on the air, all looking toward the Judge at His coming. Yet these risen bodieswhich Paul called spiritualare the same as the mortal bodies, and though perfected will enjoy the joys of the sense on a purified material earth. Hell, the Jesuit author believes, is probably under the surface of this renovated earth.
+The Catholics and the Protestant churches both subscribe to the Athanasian Creed which states that at the second coming of Christ all men shall rise again with their bodies to be judged. Thus the new Roman dogma only gives Mary a prior place in the resurrection. That the Catholics are quite literal in their interpretation of the biblical statements is clear from a text book used in their Colleges.(*6) This explains that the resurrection body will be very different from our mortal body, and that there will be plenty of room for all men who ever lived because such bodies, more ethereal in structure, could stand tier above tier on the air, all looking toward the Judge at His coming. Yet these risen bodieswhich Paul called spiritualare the same as the mortal bodies, and though perfected will enjoy the joys of the sense on a purified material earth. Hell, the Jesuit author believes, is probably under the surface of this renovated earth.
 
-6 Chetwood, op. cit., pp. 242 H, pp. 268 H.
+*6 Chetwood, op. cit., pp. 242 H, pp. 268 H.
 
 The resurrection body will be eternal, immune from disease, hunger, or death. It willwith the blessedbe purged of original sin. It will, they hold, be like Christs glorified body, so subtle that it can pass through material substance and will shine in brilliance. It will be so agile as to pass from place to place with the speed of thought. Its substance is unchanging, eternal. It will enjoy sounds and savors and fragrance, yet need no nourishment. It will not impede the spirit, but the soul can act also without its aid.
 
-But note that the souls or disembodied spirits of the dead, in Catholic belief, are indeed examined, judged and sentenced immediately after death. Those who die in actual mortal sin go to hell straightway, as is indicated in the parable of Dives and Lazarus. And the duly penitent who die in sanctifying grace, as soon as their sins and sins of omissions are purged in the fires of purgatory, are received into heaven and clearly behold God Himself in three divine persons.7 Where this heaven is, is not clearly taught, but it implies a companionship with angels created from the beginning, and an ecstatic state of continual worship, and the blessed souls will also meet those bound by ties of friendship or blood and be able to see objects of created beauty and purse knowledge.8
+But note that the souls or disembodied spirits of the dead, in Catholic belief, are indeed examined, judged and sentenced immediately after death. Those who die in actual mortal sin go to hell straightway, as is indicated in the parable of Dives and Lazarus. And the duly penitent who die in sanctifying grace, as soon as their sins and sins of omissions are purged in the fires of purgatory, are received into heaven and clearly behold God Himself in three divine persons.(*7) Where this heaven is, is not clearly taught, but it implies a companionship with angels created from the beginning, and an ecstatic state of continual worship, and the blessed souls will also meet those bound by ties of friendship or blood and be able to see objects of created beauty and purse knowledge.(*8)
 
-7 Op. cit. pp. 238 H.
+*7 Op. cit. pp. 238 H.
 
-8 Op. cit. pp. 268 H.
+*8 Op. cit. pp. 268 H.
 
 On this account it might be questioned why there should ever be any need of a resurrection of the body at the final judgment. Common sense has demanded a full and perfect life for the departed soul, and Catholic teaching has bowed to this human need. But sensual thinking finds no contentment in an eternal life unless the soul is rejoined to a body and given a final place of reward on earth. So Catholic dogma teaches a resurrection of the body.
 
@@ -361,7 +348,7 @@ The dominant idea of the eventual and of the world carries with it a peculiar co
 
 The idea of purgatory is called in the Writings a fable, a figment purely Babylonish and invented for the sake of gain (AR 784, 770; TCR 475e). No Scripture is found to support it. Yet it is one of the best known of all the doctrines of the Roman Church. Souls in purgatory, it is claimed, find relief from their pain when the faithful on earth pray for their release and pay the priests to say Masses for their souls. In the apocryphal Jewish book of Maccabees, prayers for the dead are briefly defended; and the Catholics still retain the Apocrypha as part of the Old Testament (2 Macc. xii.). But a system of professional praying is certainly not meant, and would be about as effective as the Tibetan prayer-wheels.
 
-*******
+***
 
 We have departed from our central topic only to illustrate its setting in the general thought of the Catholics. Mary is hailed as the Queen of Heaven, exalted above other mortals and above all saints. Ave Maria, Mother of God, pray for us is their daily petition. The intercession of Christ is not enough. Mary captivates the imagination and sympathy of multitudesthe suffering mother to honor, the pitying angel, someone to idealize and to flee and when faced with a brutal world or broken by disappointments, or when one feels like a helpless child in need of comfort.
 
@@ -371,27 +358,23 @@ The Writings exclude the Papists when they speak of the churches in the Christia
 
 Swedenborg met certain very deceitful spirits who ensnare by holy things and pious emotions, and it was shown that it is such spirits who rule the Pope and inspire into him a peculiar respiration which induces him to believe that he is prompted by the Holy Ghost, and turn innocent affections to serve the love of dominating (SD 3689, 3663). Thus a great many of the edicts of the Pope are from hell, although believed more holy than the precepts of the Word (AE 1033:3). Most of these papal bulls have as their interior and the extension of the dominion of the pope and his ministers over heaven and the world (AR 795:2). The delights are such that men will risk life, endure hardships, and sacrifice conjugial life, in order to taste them (Cf. SD 6010).
 
-*******
+***
 
 We will revert again to the subject of Mariolatry and the invocation of saints, and show how these practices and their implications contrast with our New Church doctrines. Here we will only cite an experience which Swedenborg had in the spiritual world:
 
 It was once given me to speak with Mary the mother. She passed by some time ago and appeared, in heaven above my head, in white raiment as of silk. And then she stopped a little while and said that she was the mother of the Lord, because He was born of her; but that when He became God He put off all the human which He had from her; and that she therefore worships Him as her God, and that she is not willing that any one should acknowledge Him for her Son, because in Him all is Divine (TCR 102).
 
-FAITH AND FALSITY
 
-A Series or Doctrinal Classes by Hugo Lj. Odhner
 
-Class V
-
-SAINTS, PRIESTS, AND SINNERS
+== V - SAINTS, PRIESTS, AND SINNERS
 
 In tracing the history of the new Roman Catholic dogma of the bodily assumption of the Virgin Mary, we noted that her exaggerated importance was traceable directly to the traditions which grew up in certain sections of the Christian Church, especially after the Nicean Council. But it is also true that Christians had but little idea of the spiritual meaning of the Lords sayings and early began to take literally the ornate symbolism that is employed in the Book of Revelation.
 
 For this reason it is quite natural that simple Catholics might believe that it is the Virgin Mary who is described in the Apocalypse in the vision of the celestial Woman who was clothed with the sun and had the moon under her feet and on her head a crown of twelve stars. (It is so that many paintings depict Mary.) The Catholic version of the Bible has a footnote which says that by allusion this description of the celestial Woman may be applied to our blessed Lady. She is described as giving birth to the male child who is to rule all nations with a rod of iron. But because of the context, both Catholics and Protestants concede that the Woman principally represents the Christian Church, which must pass through the wilderness of persecution before the day of its triumph. The Writings now reveal that it is the New Christian Church that is symbolized by the Womanthe New Church in heaven before it could be received in the world of spirits and among men. And the male child born of her signifies the doctrine of the New Church which was to descend from that heaven.
 
-That Mary is enthroned as the Queen of Heaven, Queen of angels and saints, is however not to be doubted by Catholics. It is her rightabove that of all other saintsto receive adoration.9 Other saints may be invoked and venerated, but the Virgin may be adored. This was made plain already in the year 787 by the second ecumenical Council to be held at Nicea. There it was also decreed that images and relics should be venerated.
+That Mary is enthroned as the Queen of Heaven, Queen of angels and saints, is however not to be doubted by Catholics. It is her rightabove that of all other saints to receive adoration.(*9) Other saints may be invoked and venerated, but the Virgin may be adored. This was made plain already in the year 787 by the second ecumenical Council to be held at Nicea. There it was also decreed that images and relics should be venerated.
 
-9 The Greek term is hyper dulia. Some Catholics shy at the word adoration, others point to the diverse meanings of worship.
+*9 The Greek term is hyper dulia. Some Catholics shy at the word adoration, others point to the diverse meanings of worship.
 
 The popular superstitions which the centuries nurtured were gradually adopted with modifications and brought into a compact and fully authorized system of thought and practice. The superstitious instincts of the people were so, it regularized and channeled into the service of the church. Central to this system was the falsity that the Godhead consisted of a trine of Divine Persons, co-eternal, each distinct, equally perfect, yet constituting One God, because they were one in essence although three as to person. Next in idea was the doctrine of original sinthat man, since Adam, are born in the guilt and stain of his sin and are thus shut out from the Beatific vision of God in heaven. But the second person of the Trinity redeemed man from the curse of original sin by paying the full ransom to eternal Justice taking upon Himself our deserved punishment by a death on the cross, and thus stoning, by proxy, for our racial guilt.
 
@@ -399,9 +382,9 @@ Only the Catholic Church suppliesit claimsthe means for a union of man with Jesu
 
 The grace of the sacraments remits the eternal punishment which is otherwise mans due. But man may sin after baptism, and thus be liable to temporal or temporary punishments, here and hereafter, on earth or in purgatory. Therefore the sacrament of Penance was established as a means by which grace could be restored after mortal sin, andsince about 1500 ADthe priests are authorized to forgive or to retain such sins as were confessed privately before them. The priest must decide what kind of sin has been committedwhether mortal or merely venialand what kind of restitution or penance should be imposed. He must decide whether the sinner is penitent or not; and then pronounce the words of absolution or not.
 
-The priest thus becomes the indispensable means of Gods forgiveness. But it is thoughtbecause Christ has infinite merit to bestow, because of His having satisfied Divine justice on the cross; and because the saints have accumulated far more merit in their holy lives than they need to earn heaven; therefore the Roman Church is in possession of a treasury of spiritual merits10 which the priesthood can distribute to needy souls according to circumstances. This is done by the granting of indulgences. By an indulgence is meant not the forgiveness of a sin, but the remission of the temporary punishment due to a sin. Only those free from mortal sin, and thus destined for heaven, are in good standing to receive an indulgence. It may be partial, covering the minor, or venial sins committed during a period of time, and this may be granted by a bishop. Or it may be a plenary indulgence issued by the Pope himself and remitting all the penalty that that soul is due to suffer in purgatory.
+The priest thus becomes the indispensable means of Gods forgiveness. But it is thoughtbecause Christ has infinite merit to bestow, because of His having satisfied Divine justice on the cross; and because the saints have accumulated far more merit in their holy lives than they need to earn heaven; therefore the Roman Church is in possession of a treasury of spiritual merits(*10) which the priesthood can distribute to needy souls according to circumstances. This is done by the granting of indulgences. By an indulgence is meant not the forgiveness of a sin, but the remission of the temporary punishment due to a sin. Only those free from mortal sin, and thus destined for heaven, are in good standing to receive an indulgence. It may be partial, covering the minor, or venial sins committed during a period of time, and this may be granted by a bishop. Or it may be a plenary indulgence issued by the Pope himself and remitting all the penalty that that soul is due to suffer in purgatory.
 
-10 The Thesaurus Meritorum.
+*10 The Thesaurus Meritorum.
 
 The theory of indulgencies is tied up with the concept of the vicarious atonement and the transfer of merita concept which seems utterly contrary to common sense. But it also involves the whole system of the invocation of saints.
 
@@ -425,7 +408,7 @@ Let us then reflect that the religions of the earth were the soil from which the
 
 And especially is this true as to the concept of God and the doctrine of the Divine Human. For this doctrine makes one with the doctrine of charity and love, with the understanding and use of the Word, and with the knowledge of the relationships of the two worlds in which our lives are placed. And it is according to the idea that we interiorly have of God, that we find a place in heaven.
 
-*******
+***
 
 This is the reason why the Writings analyze the Athanasian Creed which is the creed that is the basis of authority for the official theology of Christendom even today. On the other hand, this creed, which was the outcome of the fatal Council of Nicea, held in the year 325, is shown to establish as the center of Christian belief the faith in three Divine persons; from which all other falsities concerning the Lord, concerning redemption, freedom, predestination and salvation have sprung like a brood of monsters to destroy or pervert everything spiritual in the Church. But on the other hand, this creed is said to be true, provided only that for a trinity of Divine persons be substituted a trinity within the One Divine Person of the Lord, and provided that a distinction be made between the human from the mother and the Human from the Father (Doc. Lord, 57-59).
 
@@ -475,13 +458,9 @@ The material body which originally had been built of Marys substance had a finit
 
 He rent and dissolved the bonds of matterlimitations which the Divine Creator had imposed when out of His own substance He created the world! Hence it is reiterated that He rose indeed with His whole Body, but that this Body was not now material but Divine-substantial (Doc. Lord 35). He had always been Man in firsts, in primes, as alpha. But now His Human Essence is as His Divine. He now became Mane in ultimates, as the Divine Natural, the Omega.
 
-FAITH AND FALSITY
 
-A Series or Doctrinal Classes by Hugo Lj. Odhner
 
-Class VI
-
-THE FIERY FLYING HYDRA
+== VI - THE FIERY FLYING HYDRA
 
 The makers of dogmas have always had to take into account the fact that the men who compose the populaceif not always entitled to be called rationalare yet endowed with varying amounts of common sense. For this reason the Athanasian Creed was so constructed that, although it clearly taught three Divine persons, each of whom was equally God and Lord, ye it also satisfied the common perception of the simple by obscurely stating that the three constituted one God. This provided a loophole, a formula to point to in case of need.
 
@@ -493,7 +472,7 @@ There is a Providence in the fact that in the various creeds, symbols, confessio
 
 Thus the Catholics concede that although works are meritorious, no-one should attribute anything of merit to himself (BE 8). And the Protestants, who hold that good works are not necessary as a meritorious cause of salvation, and that faith alone lays hold of the blessing without works, will yet concede that charity and good works follow faith as the fruit comes from a tree (BE 12, 13). Such concessions give ample material to priests and ministers in their preaching a Christian morality and their advocacy of the Churchs participation in social service. It is accepted among all Christian leaders thatwhether it is faith alone or the grace of the sacraments or the meritorious works of man that take away the damnation of original sin and assure heavenly rewards,it is obvious that without morality and its various virtues both church and society would soon disintegrate. But it is also convenient that this stress on doing good and also the presence of other truths in the articles of their religion enable the old Christian Churches to hide the inherent falsities that lie, like monsters gnawing undisturbed at the root of their faith, and to divert attention from the theological inconsistencies by presenting an admirable moral program to the world. It is known that the most atheistical of ideologies hold out the lure of social improvements and moral justice to captivate and bribe the multitudes, and only by degrees reveal the cruel falsities whereby the few initiates hope to gain control. It is in these ruthless principles that the danger to mankind lies. Similarly, it is not the superficial inconsistences in Christian creeds that are harmful, but the hidden implications. The power of these unrecognized falsities lies especially in the confusion and obscurity that they create in human minds. They are so speciously worded that the simple reader is somehow relieved that they must be taken blindly, without real understanding (BE 59). But the falsities involved, although blindly accepted, are a continued invitation for man to avoid doing the works of spiritual repentance, to indulge in a disguised form of spiritual pride, to attribute injustice and evil to God, and to worship with the mouth only and not with the heart.
 
-*******
+***
 
 It is our intention, in this class, to examine one of the beliefs that have sprung from the idea of a God in three persons; namely, the belief that man is saved instantaneously by an act of immediate mercy apart from means. First it should be noted that the real falsities within the Christian Churches usually are not prominent until there is an effort towards missionary activities. These have not diminished, but increased tremendously, since the time of the last judgment. In Swedenborgs day it was reckoned that the Gentile and Mohametan population was ten times greater than the population of Christian Europe (DP 330:7). Now there are less than three Gentiles or Moslems to each nominal Christian. It is true that a humanitarian interest has spurred the establishment of mission sin foreign landsmissions which specialize in hygiene and education and social welfare. Yet the great zeal which is responsible for supporting extensive Christian missions in all parts of the globe is fed by the belief that without the church and the Gospel there is no salvation, but that all who are not baptized are necessarily facing eternal damnation.
 
@@ -545,7 +524,7 @@ A tremendously involved argument has enveloped the whole doctrine of predestinat
 
 As to the heathen, less mercy is shown by the Presbyterian Confession of Faith, Chap. x, No. 4) which declares that it is very pernicious and to be detested to maintain that the heathen are saved who have not professed the Christian religion, be they ever so diligent to frame their lives according to the light of nature and the law of that religion they do profess; seeing that even Christian ministers may not all be among the elect. But this view, being contrary to a common sense of justice, is not frequently preached, except to stir up missionary zeal. John Wesley and other prominent Christians, felt that no man had a right to sentence all the heathen and Mohametan world to damnation. Thus common perception modifies the logic of many a dogma.
 
-*******
+***
 
 The real truth is never difficult to recognize. Despite the strict dogma of salvation by faith alone, those who hold it could hardly dispute the simple statement of the Writings that religion is of life, and the life of religion is to do good. In fact, they might point to the tenet of their creed which notes that good works or charity follow upon their justifying faith like fruits from a tree, and are then not the works of obedience to the Law but works of the Spirit.
 
@@ -559,7 +538,7 @@ But the real correspondence is to mans spirit. The seed corresponds to the first
 
 The fruits are uses, the goods of charity, in which there is the promise of eternal life. Good works are thus the product of charity and faith, of good and truth.
 
-*******
+***
 
 Do the Writings then deny that man is corrupt and of himself incapable either of faith or charity? Do they assert that any good or truth can originate in man or come to him except by a gift of Divine Mercy and Grace?
 
@@ -569,13 +548,9 @@ From himselfhis own propriumman has nothing of good and nothing of truth. But th
 
 The conjunction with the Lord must be reciprocal and mutual (TCR 371). It is effected not by action and reaction, but by cooperations. Man receives the Lords action and operates as from himself; yea, of himself, from the Lord. It is from free choice that he can will and think and act from the Word, that is, from the word, or from such truth as he has. Such good, although done in freedom, is neither meritorious nor is it from self. If you do good from the Word, do you not do it from the Lord, from His own mouth and will? (TCR 506). Constantly, man is held in a spiritual equilibrium that he may feel life as his own and thus become responsible for its use. Only so can heavenly happiness ever mean anything to him. Only so can he interiorly harbor a true idea of the Lords love from a faith that springs from charity; and do good, not from himself, but from the Lord.
 
-FAITH AND FALSITY
 
-A Series of Doctrinal Classes by Hugo Lj. Odhner
 
-Class VII
-
-THE JEWISH CHURCH
+== VII - THE JEWISH CHURCH
 
 It is told in the Writings that the church on our earth, from most ancient times to the end of the Jewish Church, progressed like a man who is conceived, born, and grows up, and is then instructed and taught. The successive states of the church after the end of the Jewish Church, or from the time of the Lord to the present day; have been like those of a man who increases in intelligence and wisdom in the course of regeneration (AE 541). The parallel is here drawn with the normal states of a man as they develop. Nothing is said of the evil states which, by a perversion of the objectives of religion, accompanied their rise and caused their fall.
 
@@ -597,11 +572,11 @@ It is obvious that the benefits of such a one-sided conjunction would be mainly 
 
 The special use of the Jewish representatives was to defer the judgment upon the ancient church which still contained remnants of good. But the prophecies in the Word about the coming Messiah at the same time deterred evil spirits in the world of spirits by threatening a judgment if they should come into flagrant and open iniquities.
 
-*******
+***
 
 It has recently been charged that Swedenborg must have been influenced by the anti-Semitism current in his time as well as ours, to judge from the extreme severity of his description of the state of the Jews, both ancient and modern (AC 788, 9377). But after all he merely reports, by Divine sanction, on their spiritual desolation as this was apparent in the other life where nothing remains hidden. Thus he reports that many Jews who had nominally been converted to Christianity, internally mock at spiritual things; but so, of course, do many nominal Christians (AC 4847). And he repeatedly mentions Jews who have lived in mutual love and who had not any contempt for others. Such, after death, are sent to synagogues composed of converted Jews and are instructed (CLJ 80; A 3479; J post. 251, 293).
 
-*******
+***
 
 Strangely enough many Christians, though they are so condemnatory towards the Jewish race, of whose evils they are more conscious than their own, believe that the Jews were a holy nation and chosen by Jehovah because of their excellence, and that before the second advent of Christ the Jews will be converted and brought back to Canaan as certain prophecies would indicate when interpreted literally. Christians can believe this so far as they believe that the election and salvation of man are of immediate Divine mercy, however a man may live (AC 7051; AE 119).
 
@@ -625,11 +600,11 @@ But this people were not able to enter into interior things without either perve
 
 The Writings point out that as soon as the Lord came and taught love and faith in Himself, then that nation ... could no longer be kept in such ignorance as before, nor could they perform an unconscious use by means of their holy external, without their own evils and falsities being intermingled (AC 10500). Lest they should profane internal things by their sacrificial worship in that land wherein all places from most ancient times had been representative of celestial and spiritual things, they were driven out of the land of Canaan. Forty years after they had clamored to have the Lord crucified, His innocent blood was indeed visited upon them and their children. In the year 70 A. D. their temple and city were ruthlessly destroyed, and since then no sacrificial worship has been offered by the Jews. Their church had run its course. And the people of Israel became eventually scatted throughout many lands, living in ghettoes in Christian cities under the shadow of persecution, in a social ostracism that but increased their racial pride and their sense of destiny.
 
-*******
+***
 
 It must be remembered that the Lords first task was to save the lost sheep of the house of Israel. All His twelve apostles, and the multitudes which formed the nucleus of the Christian Church, were Jews. When the Lord redeemed mankind by restoring spiritual freedom, He also freed the Jewish race, the evil heredity of which He had assumed and combated in His Human. We must remind ourselves that all men born can be saved, and that none can be blamed for his heredity. Nor is any man to be judged by his race, but by his personal character, his struggles to resist evil where he sees it, and to serve the common good so far as he can recognize it. Yet it is well to reflect on the fact that the burden of heredity with a race may be such that it is of mercy that its people be withheld from faith in the Lord and in spiritual truth even though they may live in the midst of Christendom (AC 6963). Jews who from infancy are led to refuse to accept Christian faith do not profane when they speak against it (DP 228). These are not yet in a state of freedom, and their final opportunity will be offered them only in the world of spirits.
 
-*******
+***
 
 When Judaism recovered from the shock of its national destruction and the loss of the temple of Jerusalem, the rabbis centered the loyalty of the Jews around their Thorah, the Law, and their holy Scriptures. These became the center of every synagogue, however far and wide the Jewish colonies were scattered. As the dark ages fell upon Europe, and the flickering learning of Christendom survived only fitfully in occasional monasteries, the Jews in their ghettoes guarded their Scriptures jealously. Some of the Jews, as those in Spain, benefitted by the learning of the Arabs and Moors who had preserved the writings of the classical Greeks. Moses Maimonides, a physician of the 12th century, became famed as a philosopher, and revived among the Jews the hope of a bodily resurrection and eternal life according to the tradition of the Pharisees. But the fanatical zeal of the Catholic Church against all Jews and heretics forced Jewish learning underground, so that it fostered many fanatical and bizarre movements in which sorcery and magic, astrology and alchemy, mingled with rabbinical superstitions about the unseen powers of the spirit-world and lofty esoteric speculations about the Deity and creation and the archetypal Grand Man. One strange system, called the Kabbalah, was taken up by Christian scholars and mystics of the early renaissancemen like Mirandola, Reuchlin, von Nettesheim, Paracelsusand later by Bohme.
 
@@ -642,14 +617,14 @@ It was foreseen that the Christians, who were ignorant of the spiritual sense, w
 
 The reading of the Hebrew Word is thus still spiritually effective amongst the Jewsso far as they are in simple reverence. The Lord therefore said of them, This generation shall not pass away before all these things be fulfilled (Matthew 24:34); suggesting that the remnant of the worship of Israel is to have an end with the end of the Christian Church in Europe (AC 10497), oras is more likelynot until the people of the New Church can take up the uses which are involved in the reading of the Hebrew Word.
 
-*******
+***
 
 If Christians had lived as internal men ... that nation, like other nations, would have been cut off many ages ago (AC 3479). Note, that even the Jews of today are here referred to not as a race, but as a nation. Lately, to counter anti-Semitism and in condemnation of Nazi genocide, it has been the fashion to stress that the Jews could hardly be regarded as a race, since their original stock has been mingled with many breeds. Yet the Writings indicate that it is paternal heredity that is dominant, and also that the most potent thing to fashion a common heredity is Religion. The general image of Jacob and Judah still remains in their posterity, by which they may be distinguished from others, because they have hitherto adhered firmly to their religious principles (TCR 103).
 
-The Jews maintain that they are a people. Not a sect or denomination. Nor are they organized at this day into a church, but into groups of synagogues without any priesthood or any common head. Neither do they conduct any sacrifices, although the dietary laws are still observed widely. They are bound by no set creed, but by common memories, problems, hopes, and a strong sense of mission as a chosen people.11
+The Jews maintain that they are a people. Not a sect or denomination. Nor are they organized at this day into a church, but into groups of synagogues without any priesthood or any common head. Neither do they conduct any sacrifices, although the dietary laws are still observed widely. They are bound by no set creed, but by common memories, problems, hopes, and a strong sense of mission as a chosen people.(*11)
 Their religion consists of the worship of Jehovah as the one God, who is invisible, and in the punctual observance of certain feasts. The Jews are not agreed as to the existence of an afterlife. Somethe orthodoxbelieve in the coming of a personal Messiah, others in a Messianic Era in which Israel is to be restored.
 
-11 We draw freely from the article by Rabbi, P. S. Bomstein, Life Magazine, Sept. 11, 1950.
+*11 We draw freely from the article by Rabbi, P. S. Bomstein, Life Magazine, Sept. 11, 1950.
 
 The Zionist movement has now culminated in the formation of a national homeland on the soil of Palestine. The religious motivation for this return to Zion is somewhat confused. For since the Jews have been emancipated from the ghetto there has been a steady tendency toward secularization. The Reformed Jews have discarded traditions, liberalized the Sabbath laws, shaved their faces. They have forsaken their former pretense that Jesus Christ was a myth, and now rank Him beside Moses, as the greatest of Jews, a moral teacher without equal, whose Sermon on the Mount is the high peak of Israels idealism. But they reject the faith that He was the Messiah, or in any way Divine.
 
@@ -661,17 +636,13 @@ Yet the sense of sin has ever been strongly present among the Jews. There is no 
 
 God is conceived as invisible. Yet the human failings of revenge and repentance, of favoritism and vindictiveness, which are attributed to Him in the Old Testament, preserve something of the idea of a Divine Man with the simple. It also consoles the Jews with the belief that man is neither inherently sinful nor depraved. They consider that the flesh, with all its instinctive drives, are good. There is no hereditary evil, they say. Even desires that are called evil often have good results. The sex drive produces the family and the race. The acquisitive instinct builds homes and creates wealth for society.
 
-And the rewards of God lie first of all in long life and prosperity, not in the uses of a spiritual afterlife. The aim of the Jewish religion is stated to be morality.12 The Writings note that the Jewish Church was compared by the Lord to a fig tree, but one without fruit. The fig signifies genuine natural good, or the morality which springs from a spiritual origin. And however much natural emotion and human warmth and zeal be in an act, there is no genuine or spiritual charity until there is an acknowledgment of the Lord in His Divine Human. It was to reveal Himself as the visible God, of infinite love and wisdom, that He descended by the womb of the Jewish virgin, to manifest the Source and inner motivation of all true human good.
+And the rewards of God lie first of all in long life and prosperity, not in the uses of a spiritual afterlife. The aim of the Jewish religion is stated to be morality.(*12) The Writings note that the Jewish Church was compared by the Lord to a fig tree, but one without fruit. The fig signifies genuine natural good, or the morality which springs from a spiritual origin. And however much natural emotion and human warmth and zeal be in an act, there is no genuine or spiritual charity until there is an acknowledgment of the Lord in His Divine Human. It was to reveal Himself as the visible God, of infinite love and wisdom, that He descended by the womb of the Jewish virgin, to manifest the Source and inner motivation of all true human good.
 
-12 Religious Systems of the Word, London 1908, p. 595.
+*12 Religious Systems of the Word, London 1908, p. 595.
 
-FAITH AND FALSITY
 
-A Series or Doctrinal Classes by Hugo Lj. Odhner
 
-Class VIII
-
-SENSUAL THOUGHT ABOUT THE AFTER-LIFE
+== VIII - SENSUAL THOUGHT ABOUT THE AFTER-LIFE
 
 Despite the teachings of the churches, few men in Christendom believe that they will live after death (AC 5006:4). Few believe that there are spirits with them, or even that there are any spirits. The chief reason assigned for this prevalent condition, is that at this day there is no faith, because no charity (AC 5849).
 
@@ -695,7 +666,7 @@ Both Catholic and Protestant teachings about heaven are equally sensual. Sensual
 
 Ignorance of the state after death naturally breeds fantasy. Lack of any rational teaching encourages the imagination to roam at will. Heaven becomes merely the fulfilment of the cravings thwarted on earth, the satisfaction of natural affections, such as we see instanced in the mythologies among the heroes of Valhalla and the shades of the Elysian Fields! The idea of spiritual uses and the delights of charity in connection with such imagined heavens. And apart from sensual ideas of heaven, men have found it increasingly difficult to believe in the after-life at all, merely upon the say-so of the churches. They have demanded proofs in personal experience by which to confirm the very existence of spirits and angels. And as every church in the past, so the Christian Church began, from olden times, to give birth to various irresponsible sects which particularly catered to such a desire and purported to furnish sensual proofs of the presence of spirits.
 
-*******
+***
 
 Divine Revelation has consistently warned against this attempt of man to pray open the gates to the spiritual world. Regard not them that have familiar spirits, neither seek after wizards, it was written in the Mosaic law: There shall not be found among you anyone ... that useth divination, or an observer of times, or an enchanter, or a witch, or a charmer, or a consulter with familiar spirits, or a wizard, or a necromancer... (Lev. 19:31, 20:6, 27; Deut. 18:9-14). Such had to be punished with death. An almost impossible provision, this, which kept Israel alone in brave opposition to the combined superstitions of the East! Saul succumbed to temptation and asked counsel of the ghost of Samuel: But Isaiah later voiced the same prohibition when he said, When they shall say unto you, Seek unto them that have familiar spirits, and unto wizards that peep and mutter, should not a people seek unto their God? For the living unto the dead? To the law and to the testimony; if they speak not according to this word, it is because there is no light in them (Isa. 8:19-20).
 
@@ -717,7 +688,7 @@ Spiritualism as a religion, is of course founded on a sifting out of certain com
 
 The opposition to Spiritualism comes mainly from the Catholic Church, from many literalistic sects, from some of the clergy of more conservative churches, from orthodox scientists, and from skeptics everywhere. Each group has reasons of their own, doctrinal or practical. But as is usual in such opposition, eachin condemning the spiritistic movementdenounce much more, and reject the fundamental truths which that movement has misused and perverted. An instance is served by the attitude of those psychiatrists who from their studies of the psycho-pathic wards have contracted the habit of regarding all unusual human states as abnormal and due to mental disorder. Such men go further than to condemn the practice of spiritism because of its ill effects on the nervous system of its victims. They also regard all claims to spiritual intercourse as an indication of a disordered mind, and would classify even the visions of the prophets and disciples as sensory hallucinations due to paranoia, paraphrenia, or other forms of mental disease. And this attitude, born from a preconceived denial of the existence of a spiritual world or of its influx, precludes all further understanding of the distinctions between the orderly means by whichin the Lords providence, and according to His protecting lawsthe spiritual world could at times of need be opened to varying extent for prophets and seers who were to serve as his instruments of Divine revelation, and the disorderly enterprises by which men seek to pry into the unseen world and by which spirits seek to dominate and obsess human minds, when these are diseased or voluntarily submissive.
 
-*******
+***
 
 And here we must note that in the annals of Modern Spiritualism, whether written by its friends or its foes, the first chapter is usually devoted to Emanuel Swedenborg, who then is labeled as the foremost mystic and seer of modern times, or as the father of our knowledge of supernal matters. When the first rays of the rising sun of spiritual knowledge fall upon the earth they illuminated the greatest and highest human mind before they shed their light on lesser men. That mountain peak of mentality was this great reformer and clairvoyant medium, as little understood by his own followers as ever the Christ has been.... In order fully to understand Swedenborg one would need to have a Swedenborg brain, and that is not met with once in a century. So writes Arthur Conan Doyle, lately the leading champion and biographer of the movement. It is flattering to Swedenborg, if not to the New Church, which, it is said, has allowed itself to become a backwater instead of keeping its rightful place as the original source of psychic knowledge.
 
@@ -727,7 +698,7 @@ To the eyes of New Churchmen, this admission unwittingly reveals more than was i
 
 The only real information about the other world that has ever been given to men since known history began, comes from the Word and, especially, the Writings. And this knowledgemixed with all manner of superstition, contorted by Christian traditions and modified by wishful thinkinghas especially a fruitful haven in the imagination of the spiritist. This welter of information is in the mind, either of the medium or the questioner, at the seance. And so far as there is any clarity in the supposed answer, it comes from the Writings. Nothing new, nothing which adds in the slightest to the real comprehension of the life or order of the spiritual world, has ever been furnished by the wizards that peep and mutter!
 
-*******
+***
 
 The futility of seeking open intercourse with spirits, or sensual confirmation of a belief that our departed are still near us, is abundantly clear. But it also is well to note that the claims of the accomplishment of spiritualistic mediums go counter to many things said in the Writings.
 
@@ -753,13 +724,9 @@ The temptation is to deny that we need to walk that road; the temptation is to t
 
 But as for us, let us humbly recognize that the Lord enters into man through no other than an internal way, which is through the Word, and doctrine and preachings from the Word (@DP 131). For this way leads not down to a dependence on the senses and its fallacies, but up to the rational mind, where alone a man is free to see the spiritual things of heaven in light.
 
-FAITH AND FALSITY
 
-A Series or Doctrinal Classes by Hugo Lj. Odhner
 
-Class IX
-
-PAGAN INFLUENCES ON CHRISTENDOM
+== IX - PAGAN INFLUENCES ON CHRISTENDOM
 
 In the course of our discussion of Faith and Falsity it has been intimated that may of the falsities of Christian belief had a pagan origin. Since this fact is of great significance not only for the past but for the future, it deserves a further examination.
 
@@ -797,7 +764,7 @@ The matter may be clarified by the use of illustrations. Two atoms of Hydrogen a
 
 The very idea of creation implies the appearance of something new which had not existed before. Certainly the finite world came from something not finite. And in so far you might say that all creation is a creation out of nothing. Yet when we say this we refer to the emergence of a new quality a new type of reality which entirely depends on the original Divine substance yet acts as a substance of its own. In the creation of finite substance the Infinite, which is the only real substance, loses nothing of its infinity. Yet the substance of the created world can in no sense by identified with the Infinite or said to consist of the infinite substance, or possess any Divine or infinite attributes. Augustine and other Christians need therefore not have hesitated to acknowledge that God created the universe out of His own infinite substance, which is a one with His inexhaustible love, the ultimate reality which upholds all things.
 
-*******
+***
 
 The orient had a powerful influence upon the thought of the early Christian church. The sensual materialism which marked the Jewish view of life left its stamp upon Christian concepts of the last judgment and mans bodily resurrection, and a final heaven on this earth. This was only to some little extent modified to suit the loftier Greek philosophies when Paul and others explained that the resurrection body was really spirituala refined body of ethereal quality.
 
@@ -807,9 +774,9 @@ Certain types of mind are particularly prone to seek mystical experiences or to 
 
 It may be of interest to note that the word Theosophy means Divine wisdom, and carries no mystical connotation. It was in fact used by Robert Hindmarsh in 1784 when he organized the first group of English New Churchmen into the Theosophical Society. But the name was given quite a different meaning a century laterwhen Mme Helena Petrovna Blavatsky appeared in New York to found a miracle club and propagate the occult doctrines of a Tibetan brotherhood which she claimed to have visited.
 
-A New Church clergyman, in 1886,a Mr. Vetterling, ironically enough, the first stipendiary student of the Academybecame a contributor to her journal and laterunder the pseudonym Philangi Desahe wrote a book called Swedenborg the Buddhist13 in which he makes the preposterous claim that Swedenborg received most of his doctrines from telepathic suggestions of Buddhistic adepts. For he freely admits that Swedenborg did not read any Buddhistic or mystical authors. This is interesting, since Signe Toksvig, who recently wrote an elaborate biography of Swedenborg, also professes that Swedenborg received many of his revelations by thought-transference from these Tibetan adepts. It might be well, therefore to review the chief sources from which the theosophists and a dozen other mystical and esoteric sects, derive their inspirations.
+A New Church clergyman, in 1886,a Mr. Vetterling, ironically enough, the first stipendiary student of the Academybecame a contributor to her journal and laterunder the pseudonym Philangi Desahe wrote a book called Swedenborg the Buddhist(*13) in which he makes the preposterous claim that Swedenborg received most of his doctrines from telepathic suggestions of Buddhistic adepts. For he freely admits that Swedenborg did not read any Buddhistic or mystical authors. This is interesting, since Signe Toksvig, who recently wrote an elaborate biography of Swedenborg, also professes that Swedenborg received many of his revelations by thought-transference from these Tibetan adepts. It might be well, therefore to review the chief sources from which the theosophists and a dozen other mystical and esoteric sects, derive their inspirations.
 
-13 Swedenborg the Buddhist, or The Higher Swedenborgianism, its Secrets and Thibetan Origin. The Buddhist Swedenborgian Brotherhood, Los Angeles, 1887.
+*13 Swedenborg the Buddhist, or The Higher Swedenborgianism, its Secrets and Thibetan Origin. The Buddhist Swedenborgian Brotherhood, Los Angeles, 1887.
 
 The governing feature of the philosophies of India is the law of Karmathe thought that every creature at death remains as to the soul or character which he has formed by his own deeds, awaiting a transmigration or rebirth in a suitable form on earth. The desire of the soul is to find release from the bonds of flesh and matter with its illusions and this, Buddhism began to show, could he finally achieved only when manafter many reincarnationshas renounced all the desire of self-life, not only evil lust and corporeal pleasures, but all higher affections and wantseven the love of individual use or individual existence, so that his life merges with the Infinite whence it sprang and with which it was always identical.
 
@@ -824,7 +791,7 @@ Compared to these solemn endeavors of the orientals, the modern Theosophist seem
 
 There are, according to the ancient ideas revived in Theosophy, seven graded planes, the physical, the astral or psychic, the animating soul, the passions, the mind, the spiritual soul, and (highest of all) the pure spirit which is the first emanation of the One absolute and eternal principle. Each plane has its own sort of matter, and the claim is that the astral body of man extends twelve inches wider than the physical body. The physical body can be left behind by certain initiates or yogis; and you can learn during sleep from thought-forms that are continually given off from us. A departed soul need not be born again if it can instead possess the body of a dying person and so incarnate itself.
 
-*******
+***
 
 In our survey of some of these pagan intrusions into the thought of Christendom we have encountered many fantastic ideas and some enormous falsities which continue to influence the faith of our contemporaries. Yet we have also recognized certain teachings which bear a strong resemblance to truths given to Swedenborg by Divine revelation. It is this fact that causes many of the learned to class Swedenborg among the mystics, while others claim that he was influenced by neoplatonism and gnosticism. The theosophist concept of many planes of existencewhich was similarly taught in ancient Egyptis somewhat suggestive of the doctrine of discrete degrees.
 
@@ -834,19 +801,15 @@ Christians had in the Gospels no Divine revelation which could separate for them
 
 And it is to protect the men of the New Church from the persuasive fantasies of the mystic and the eclectic that the Lord has made His second advent in a doctrine of Divine truth addressed not to our fickle emotions but to the rational mind according to that heavenly doctrine that true illustration can come.
 
-FAITH AND FALSITY
 
-A Series or Doctrinal Classes by Hugo Lj. Odhner
 
-Class X
-
-THE FALLACY OF AN INNER LIGHT.
+== X - THE FALLACY OF AN INNER LIGHT.
 
 On October 30, 1748, Swedenborg made note in his Diary, that almost the whole world of spirits is wicked and enthusiastic, and sedulously anxious to obsess man.... This was written nine years before the Last Judgment, and written as an explanation why it would be most dangerous for spirits to speak with men, or for men to attend to the operations of spirits upon themselves. It was written at the close of some paragraphs describing Quaker spirits in the other life. Those of that religion, while on earth, continually thought about the Holy Spirit, and in their meetings they continually expected to be stirred up and led by the Holy Spirit; until they supposed that they spoke from the Holy Spirit. Yet in reality it was evil spiritsinflated with the pride of profane assumption and filled with foulest passionsthat sensibly moved them and made it seem that the persuasions stirred up from their own minds by the cupidities of the spirits, actually was the influx of the Holy Spirit. It even happened that they were excited and goaded to enormities by this spiritual fraud, disguised as piety. And when, on entering the other world, such men also enter into their own inner ideas and recognize the voice of the Holy Spirit as their own, they come to the insane conclusion that they are the Holy Spirit and, therefore, can do no wrong (S. D. 3781, 3775).
 
-The Quakers were but a small part of Christendom. Yet the established churches of Swedenborgs day were infiltrated with enthusiastic movements, some of which, like the Quakers, later crystallized into organized sects. Thus we recognize the Moravian Brethren, or Zinzendorfians; the Anabaptists; the Monnonites; the Wesleyans, or Methodists; and the Shakers, now a dwindling group.14 But in the course of the 18th century we find all the Protestant churches very deeply influenced by pietistic or quietistic ideas, which were characterized by a reliance on the Holy Spirit, and which ran like a hidden emotional current underneath the dull surface of the ecclesiastical orthodoxies.
+The Quakers were but a small part of Christendom. Yet the established churches of Swedenborgs day were infiltrated with enthusiastic movements, some of which, like the Quakers, later crystallized into organized sects. Thus we recognize the Moravian Brethren, or Zinzendorfians; the Anabaptists; the Monnonites; the Wesleyans, or Methodists; and the Shakers, now a dwindling group.(*14) But in the course of the 18th century we find all the Protestant churches very deeply influenced by pietistic or quietistic ideas, which were characterized by a reliance on the Holy Spirit, and which ran like a hidden emotional current underneath the dull surface of the ecclesiastical orthodoxies.
 
-14 In fact almost extinct, since they are celibates.
+*14 In fact almost extinct, since they are celibates.
 
 In a sense, these enthusiastic movements, which provided an active minority which dominated the world of spirits at that day, gained adherents here on earth because they stoodeach in their own wayfor a popular protest against the stiff formalism of the established churches which were all self-satisfied and smug and dictatorial, and already strait-jacketed by traditions. Many people wanted relief for their feelings, wanted to sing and shout and be natural; wanted to feel some ecstasy in their religious life. They came to regard the historic church as unspiritual, as cold and dead. They wanted to be moved by prophets instead of being shepherded by priests. Others, more sedate and proper and self-conscious, felt a need for a revival, wanted to be parts of some small, informal, intimate group which could feel itself guided and directly led by a continuously self-revealing Holy Spirit. They craved a personal message which would give sensual proof of Gods nearnesseven as the spiritists sought sensual demonstrations of the survival of the departed. If possible, they wanted to feel the Holy Ghost to come upon them, as had happened in the apostolic days of Christianity; and if true Christianity came back again, would there not also come a renewal of the age of miracles, with the gift of tongues, and of prophecy, and of healing in response to prayer?
 
@@ -864,14 +827,14 @@ It would be difficult to make those who accept the dogma of faith alone and elec
 
 That this is the case cannot with any certainty be confirmed except from the revelations which occur after death. On earth, no one can judge of the internal state of other individuals. Nonetheless, we see the doctrine of security openly embraced with much self-satisfied rejoicing especially in those churches which are called holinessmovements: whose membership is formed from those only who know that they are born of God, who are consciously regenerated, and thus are, they believe, in a state of entire sanctification.
 
-*******
+***
 
 But, you might say, these small sects, and even the larger church-bodies, which encourage the fallacy of such spiritual security, have only a small and dwindling influence on the worlds manner of thinking, and surely none at all of ours!
 
 If we so reason, we show signs of relying on an automatic security of a kinder sort! Besides, the facts are otherwise. The world has but translated religious dogma into a secular type of philosophy which we see cropping out in many diverse and contradictory forms everywhere, but which just as certainly discourages interior repentance, and which makes men live in just as deceitful a fools paradise of external decorum and natural good. In educational practice, it takes the form of a reliance on the fundamental goodness of the individual; in national affairs it becomes pacifism; in social contacts it comes out as snobbery an self-assurance and impulsiveness; and in business-like, as a trusting in hunches. It is, essentially, a confidence in ones own perfection or in ones own inner light and instinct, rather than in the convictions that are gradually formed from reason and Revelation, and in the wisdom that a man gathers from experience. It may seem a far cry to connect these popular frailties with the religious falsities of total sanctification and the desire to be obsessed by the Holy Ghost:
 yet the origin of both sets of practices lies with similar spirits in the other world.
 
-*******
+***
 
 In returning to our spiritual problems, let us pause in our broad denunciations. Let us rather ask: Is there not some truth behind the pervert doctrine of sanctification? Cannot a regenerate man tell, by some sign, that he is born anewborn not of the will of the flesh, but of God? Can he not know when he is enjoying the light of true illustration, and is in perception?
 
@@ -888,25 +851,25 @@ It is a distinct teaching of the Heavenly Doctrine that the man whose spiritual 
 
 Yet a man may, on reflection, realize when he has been in enlightenment, or in rational perception (A. C. 10551(2), 2171); realize it by contrast with other states. Even so, he can be deceived, for even in the reading of the Word, a light of confirming previous principles appears illusively like illustration. Man cannot with any certainty see how far along he is on the road to regenerate life, for at best his states fluctuate and he must make continually new beginnings; and indeed, something of this holds true to eternity.
 
-*******
+***
 
 The nature of man is such that he does not wish to question the light in which his mind is. What comes to him in such a light seems like a special revelation to him, and as such he will defend it and confirm it against the most weighty objections. For this light seems to come from within himself; and what he sees in it is felt as his own. On this account, all useful argument must cease when a person is unwilling to view a question in a light not his own, a different light. If he claims that his light is superior, comes from a superior learning, a higher, more interior viewpoint, he has gained, forthwith, a cheap victoryin his own sight. He is invulnerable to the severest logic, and covers himself with a cloak of invisibility. Reason, or Divine Revelation, have both lost their power over him. He retreats to that realm which philosophers agree to call Mysticism.
 
-*******
+***
 
 Jacob Bohme, the cobbler of Seidlitz, is among the most renowned of mystics. He said of his own writings, These writings transcend the horizon of intellectual reasonsings, and their interior significance cannot be grasped by speculation and argumentation: but it requires the mind to be in a god-like state, and illumined by the Spirit of God. This book comes forth not from reason but by the impulse of the Spirit. I am a very little spark of Gods light.
 
 In all ages and climes such mystics have been conscious of a light from within, as a supernatural source of knowledge, which the ancients called the Gnosis, knowledge acquired by super-conscious or transcendental processes. The Catholic church has had to throw their mantle of sanction over mysticism, in order to explain the many ecstatic states of their saints and recluses; indeed, the peak of such experiences they consider the beatific visionthe vision of the Godhead, vouchsafed after death to the perfect believer, but possible also to the chosen few on earth.
 
-This type of private pseudo-revelation is a mystical experience, a seeing of a vision which is uncommunicable and inexpressible, yet invariably colored by what the man already believed and knew; and what he knew, he could express. But the characteristic fruit of the mystics thought ripens through a negative way: he feels that he must somehow get away from self, and from others, retreat beyond thought itself, and merge with the light that floods him, until the soul, stripped of personality, stands face to face with a cheer, pure, absolute One, sundered from all two-ness and in Whom we must eternally sink from nothingness to nothingness. (I quote from Meister Eckhart.) God thus becomes the absolute Dark, the nameless Nothing,an empty God, a characterless and formless infinite, whether of motion or of quality, a God devoid of attributes.15
+This type of private pseudo-revelation is a mystical experience, a seeing of a vision which is uncommunicable and inexpressible, yet invariably colored by what the man already believed and knew; and what he knew, he could express. But the characteristic fruit of the mystics thought ripens through a negative way: he feels that he must somehow get away from self, and from others, retreat beyond thought itself, and merge with the light that floods him, until the soul, stripped of personality, stands face to face with a cheer, pure, absolute One, sundered from all two-ness and in Whom we must eternally sink from nothingness to nothingness. (I quote from Meister Eckhart.) God thus becomes the absolute Dark, the nameless Nothing,an empty God, a characterless and formless infinite, whether of motion or of quality, a God devoid of attributes.(*15)
 
-15 Rufus M. Jones, Spiritual Reformers, p. xxvii.
+*15 Rufus M. Jones, Spiritual Reformers, p. xxvii.
 
 Through their ecstatic states, the mystics usually came to the conclusion that the human soul or spirit was not wholly severed from God, but was a spark, an offshoot or branch of the Divine. What they saw from the light of the soulthey averwas the Divine seeing in them. Thus they confused the eye and the light. The human was merged in the Divine. Not I, the I that I am, know these things, wrote Bohme, but God knows them in me (apology to Tilken, ii. 72). It was a Divine self-knowledge. Theosophy, he said, is the self-knowledge of God in man! Which, I suppose, meant that God thus becomes conscious of Himself in man! (Cp. D. 6002, 6104).
 
 Thus we come back to the fallacy that we can feel the operation of the Holy Spirit in ourselves, and be obsessed by God; which is the original idea within the word enthusiastic which Swedenborg applies to the spirits who are invited by the Quakers and other sects. These put their trust in an inner light or the immediate personal teaching of the Holy Spirit; that this alone if followed and obeyed is sufficient for his salvation (thus apart from the word), and that the Light Within is the only light that anyone need follow (U. S. Rel. Census, 1926). This is substantially the same principle as that of the recent Oxford Group movement, or Buchmanism, which marshaled a vast following within all the churches before the second World War.
 
-*******
+***
 
 In the New Church we acknowledge the importance of what the Writings call enlightenment, or illustration. Illustration means the introduction of mans mind into the light of heaven, the light of the spiritual sun, which is identical with the Holy Spirit, or the Divine truth proceeding from the Divine Human. This spiritual light gives to angels and men the faculty to think, and the heat of heaven gives him the faculty to will. It follows from this that the Holy Sprit is perpetually present with every man, whether good or evil. Without it no man could live or think (Inv. 23, 57).
 
@@ -928,7 +891,7 @@ It has been cited, from the Writings, that man knows nothing of the opening of t
 
 Thus there developed the claim, with some, that a minister must teach from the truth of his spiritual goodwhich involved the conclusion that the Writings were not binding as authority if manfrom goodperceived a deeper truth. The later pseudo-celestialism of Thomas Lake Harris also annulled that authority by the assertion that Harris was a celestial, thought from celestial perception, and discovered a celestial sense in the Word which was subversive of Swedenborgs teachings and made spiritism allowable, the hells only temporary, the Lord a combination of Divine Masculine and Divine Feminine, etc., leading to blasphemies, scandals, and insanity. Dr. William H. Holcombe also preached Celestialism, believed that the world and the hells were being redeemed and made celestial by a subconscious influx. From this discretely higher ground, the spiritual states of other men could easily be judged, and catalogued. G. W. Christy, of New Orleans, and Chester E. Pond, of Philadelphia, were, like Harris, regarded as celestial men whose perceptions were sacred however startling and however they attacked each other! They spoke in unison in only one thing: that Swedenborg was only a herald of the new era, in which there was to be a reliance on private revelations by perception.
 
-*******
+***
 
 Those who demand private revelations, who seek guidance from an Inner Light, and who, in some other form, are carried away with widespread fallacy of relying on their state of illustration, become devoid of any real protection against such false prophets who say Lo, here is Christ, or there. For such would deceive the very elect. Behold, the Lord warned, I have told you before. Wherefore if they shall say unto you, Behold, he is in the desert: go not forth; Behold, he is in the secret chambers; believe it or not.
 
@@ -936,13 +899,9 @@ It is in the Word of Divine Revelation that the light of heaven is to be found, 
 
 Even the wisdom of the angels rests upon the Word with men. And let us note in conclusion, that although Swedenborg was consciously introduced into the spiritual world, and spoke with angels as one of them, it was not done for his sake, but for the sake of all the future; and it was note done by his being thrown into great ecstasies, but the prosaic mode of a sincere study of the Word in its literal sense. And the result was not a delirium of inexpressible things, not a poetic outpouring or an emotional appeal, but a well reasoned presentation of spiritual truths and laws in comprehensible factual statements which rational men may freely accept or freely deny.
 
-FAITH AND FALSITY
 
-A Series or Doctrinal Classes by Hugo Lj. Odhner
 
-Class XI
-
-CHRISTIAN SCIENCE AND THE DENIAL OF EVIL
+== XI - CHRISTIAN SCIENCE AND THE DENIAL OF EVIL
 
 The salvation offered by the Lord in His Second Advent is symbolized by the sturdy walls of the New Jerusalem,walls of jasper, clear as crystal, standing four-square on foundations garnished with every precious stone. Though the twelve gates of it would never be shut, there should enter into it nothing that defileth or maketh a life.
 
@@ -956,11 +915,13 @@ The latter part of the 19th century was the hey day of Materialism. Leading ligh
 
 Idealism is not a modern product. It was resorted to by some of the ancient Greeks to explain the paradox that life must be an unchanging One, yet it appears as multiform and changing. These therefore said that all things of sense were a delusionor a mental appearance. This premise was revived by Bishop Berkeley while Swedenborg was a young man. It was and is entertained by many philosophers with varying logical embroideries. But its most startling form is that of so-called Christian Science, the system discovered by Mrs. Mary Baker Eddy in 1866.
 
-Mrs. Eddy could not be called a philosopher, for her attempt to present her ideas logically or categorically frequently breaks down. In her chief book, Science and Health with key to the Scriptures (1875),16 she instead presents her discovery in a biographical setting, and claims that she had been prepared by God for the reception of this final revelation of the absolute divine Principle of scientific mental healing (S. H., p. 107). The book is written with dogmatic finality, yet with elusive vagueness in a flowing, impressionistic style which often relies on suggestion instead of grammar. It contains nothing essentially new, but borrows from many sources, weaving the whole together with emotional fervor to prove that man is but a reflection of Godthe compound idea of Godand therefore spiritual and perfect, incapable of sin, sickness, and death (p. 475). Nor can God, by whom man was evolved, engender the faculty or freedom to sin (p. 471).
+Mrs. Eddy could not be called a philosopher, for her attempt to present her ideas logically or categorically frequently breaks down. In her chief book, Science and Health with key to the Scriptures (1875),(*16) she instead presents her discovery in a biographical setting, and claims that she had been prepared by God for the reception of this final revelation of the absolute divine Principle of scientific mental healing (S. H., p. 107). The book is written with dogmatic finality, yet with elusive vagueness in a flowing, impressionistic style which often relies on suggestion instead of grammar. It contains nothing essentially new, but borrows from many sources, weaving the whole together with emotional fervor to prove that man is but a reflection of Godthe compound idea of Godand therefore spiritual and perfect, incapable of sin, sickness, and death (p. 475). Nor can God, by whom man was evolved, engender the faculty or freedom to sin (p. 471).
 
-16 References are to the 1934 edition unless otherwise noted.
+*16 References are to the 1934 edition unless otherwise noted.
 
-When Mrs. Eddys bookwhich is read as a second lesson in all Christian Science churchesstates that man was evolved by God, this does not mean that God has created the world as we know it, or man as an inhabitant of earth. What comes from God must be Divine and infinite, she assumes. God is Mind and man is His reflection which does everything that God does (p. 515). Man is the family name for all the ideas or thoughts of God (p. 515). Man can have no other substance or mind than God; mans consciousness and individuality are reflections of God or emanations from Him. Man and woman as coexistent and eternal with God forever reflect, in glorified quality, the infinite Father-Mother God (p. 515).17 (If there is here an approach to the idea of the Grand Man, it is very contorted and resembles that of many ancient mystics rather than the teaching in the Writings.) Somehow, the contradictory picture is presented of an infinite variety of immortal souls or beings emanating from God yet eternal, various yet all the same, distinct yet infinite, uncreate yet constituting a sort of creation by God, or a Divine progeny. Man is however, not identical with God. God alone is Spirit. Man is spiritual. 17 For the recurrent concept of a Divine Feminine, see SH pp. 332, 516, 517.
+When Mrs. Eddys bookwhich is read as a second lesson in all Christian Science churchesstates that man was evolved by God, this does not mean that God has created the world as we know it, or man as an inhabitant of earth. What comes from God must be Divine and infinite, she assumes. God is Mind and man is His reflection which does everything that God does (p. 515). Man is the family name for all the ideas or thoughts of God (p. 515). Man can have no other substance or mind than God; mans consciousness and individuality are reflections of God or emanations from Him. Man and woman as coexistent and eternal with God forever reflect, in glorified quality, the infinite Father-Mother God (p. 515).(*17) (If there is here an approach to the idea of the Grand Man, it is very contorted and resembles that of many ancient mystics rather than the teaching in the Writings.) Somehow, the contradictory picture is presented of an infinite variety of immortal souls or beings emanating from God yet eternal, various yet all the same, distinct yet infinite, uncreate yet constituting a sort of creation by God, or a Divine progeny. Man is however, not identical with God. God alone is Spirit. Man is spiritual. 
+
+*17 For the recurrent concept of a Divine Feminine, see SH pp. 332, 516, 517.
 
 On the other hand, mortal existence is a dream, and has no real entity (p. 250). The Father Mind is not the father of matter. Infinite Mind is the creator, and creation is the infinite image or idea emanating from this Mind. Thus all is Mind. And, of course, since Mind is God, all is God (p. 257).
 
@@ -972,7 +933,7 @@ We are left to conclude, then, that the thesis of Science and Health is merely t
 
 The occasion of Mrs. Eddys discovery of her leading principle was her own state of poor health. She was treated by Dr. Phneas P. Quimby who was practicing some system of mesmerism, or hypnotic cure. Dr. Quimby and one other of his disciples, a Dr. Warren Fels Evans, were both idealists and both acquainted with Swedenborgs Writings, but read Swedenborg from the Tulkite interpretation. The Tulkites, followers of Charles Augustus Tulk, were idealists, and held that God creates the world through man. Dr. Evans published a number of works on Mental Healing, even before Mrs. Eddy had published Science and Health. There is also independent testimony that Mrs. Eddy at one time was interested in the Writings of Swedenborg, according to the Rev. John Whitehead, who in 1907 published a book, entitled The Illusions of Christian Science, to which we are indebted for some of this information. Any New Church reader may indeed recognize in Mrs. Eddys writings familiar phrases and ideas suggestive of Swedenborgs own. But lest we should think that the Tulkite reading of Swedenborgs system was at all legitimate, and that the natural world could have been a projection of mans ideas, we note what is written in the work On The Last Judgment, n. 9: ...Man was last created; and what is created last (ultimo), that is the basis of all that precedes... The ultimate (or last) of creation is the natural world, including the terraqueous globe with all things on it. When these were finished, then man was created, and into him were collated all things of Divine order from firsts to lasts....
 
-*******
+***
 
 Dr. Quimbys treatments of Mrs. Eddy (then Mrs. Patterson) met with astonishing success. Her nervous ailments were allayed and her organism functioned perfectly. But not until 1866, after a concussion due to a fall on the ice, did she claim to have found the principle of healingthat Mind, not moral mind but divine Mind, is superior to all the beliefs of the five senses and able to destroy all ills.
 
@@ -1000,7 +961,7 @@ Even as Christ raised the dead, so Christian Science has for its goal to abolish
 
 Why life in this world should be prolonged, is not made clear. For man learns nothing through the senses. The Mind is not educated by the mortal span, for it was from eternity perfect and carries nothing of its experience with it. Earthly lifeand would not this include the Lords lifeis simply an errorno one knows whose!
 
-*******
+***
 
 These extravagant tenets have been cited as a contrast to the revealed doctrines of the New Church. For in the Writings we learn that the Lord, from His love, created both the spiritual world and the natural world in His order, and that they are both good for their respective uses.
 
@@ -1016,25 +977,21 @@ Human consciousness can begin only in the realm of time. Mans ruling love can be
 
 And for the same reason, He permits evil. Evil is a very actual thing. As an opposite of good it is indeed not anythingthat is, not anything of good (DP 11). Yet it is not nothing. It has an originin man as a free being. It is not a creation, but a statea state of disorder. Evil and falsity are not imaginary, but states of the minds substance. And they have power through fantasieseven through the fantasy that they do not exist. For evils cannot be shunned merely by denying that they exist.
 
-*******
+***
 
 That Mrs. Eddy had read something of Swedenborg appears from her attempts to explain Scripture in imitation of the Arcana. She claims to have found a spiritual sense within Genesis and the Apocalypse. Her effortwhich reveals both ignorance and inconsistencyis to show that the seven days of creation tell of the emanation of Divine ideas from God. But the second chapter of Genesis, which unfortunately states that man was created dust of the ground, does not agree with the first and must therefore, she concludes, describe the history of human error, the rise of mortal mind (SH p. 521). God is there named Jehovah, which she claims was only a tribal deity, and it is Jehovah that forms Adam by infusing spirit into matterwhich Mrs. Eddy will not allow possible. To prove the point she divides the Hebrew name Adam into two English syllables, a and dam; which, she declares, means obstruction or error (SH p. 338).
 
-But these and other equally atrocious liberties with the Bible will not disturb those who are attracted to Science and Health. The use of the word Science is misleading. What the author means is what the ancients called Gnosisan inner knowledge which is intuitive and spurns all reasoning. Some sectarians call it the inner light. It is easy to mistake our perceptive glimpses and alluring speculations for such Divine knowledge springing from the soul. Mrs. Eddy exclaims, No human pen nor tongue taught me the Science contained in the book... (SH p. 110).18
+But these and other equally atrocious liberties with the Bible will not disturb those who are attracted to Science and Health. The use of the word Science is misleading. What the author means is what the ancients called Gnosisan inner knowledge which is intuitive and spurns all reasoning. Some sectarians call it the inner light. It is easy to mistake our perceptive glimpses and alluring speculations for such Divine knowledge springing from the soul. Mrs. Eddy exclaims, No human pen nor tongue taught me the Science contained in the book... (SH p. 110).(*18)
 
-18 Mrs. Eddy is keen to take credit (and profit) as the sole discoverer of her system, and warns that if any new schoollike New Thought, or Divine Scienceclaims to be Christian Science, it is plagiarism and theft (SH. p. 112).
+*18 Mrs. Eddy is keen to take credit (and profit) as the sole discoverer of her system, and warns that if any new schoollike New Thought, or Divine Scienceclaims to be Christian Science, it is plagiarism and theft (SH. p. 112).
 
 The book appeals mainly to those seeking bodily health and an escape from undesirable situations. But there are other systems of Idealism which attract more serious thinkers. Idealists draw no strict lines between God and the human soul, because they know that God is infinite, and thus the All. Man, therefore, they conclude, is only an idea of being, perhaps an idea in Gods mind!
 
 The Writings therefore assure us that it is because the Infinite is the all that we can exist in reality. Man is something, we read, is a finite substance, because he was created by an infinite God who is Substance itself.... Every created thing, and especially man and the love and wisdom in him, are something and not merely an idea of being. Unless God were the All, man would not be anything; consequently (he would be) either a non entity or merely an idea of being, according to those visionaries who are called Idealists (DP 46).
 
-FAITH AND FALSITY
 
-A Series or Doctrinal Classes by Hugo Lj. Odhner
 
-Class XII
-
-DIFFERENCES WITHIN THE CHURCH
+== XII - DIFFERENCES WITHIN THE CHURCH
 
 Up to this point our subject has been the relation of several falsities which have tended to destroy the churches of the past, to the One True Faith. We now turn our attention to the fact that even within the New Church many differences of doctrine and attitude have arisen.
 
@@ -1046,7 +1003,7 @@ The second attitude is to regard the Writings and the New Church as a herald of 
 
 These two attitudes have grown up side by side in the organized New Church bodies since their inception, and the second attitude has of course undermined the constructive work inspired by the first. The futility of this conflict because so obvious that the Academy of the New Church and those supporting its cause were unable to carry on their work of distinctive New Church education, study, and pastoral and progress for the Church, and that it will serve to protect the Church against the intrusion of falsities. For if falsity enters the Church, it would fall under immediate scrutiny and eventually be displaced by doctrine drawn fresh from the Writings. The importance of this is clear from the teaching that doctrine does not inaugurate a church, but soundness and purity of doctrine (TCR 845).
 
-*******
+***
 
 The word heresy has an uncharitable sound. The Writingswhich alone can give a Divine verdict, indeed condemn as detestable heresies a number of falsities which are responsible for the destruction of the life and faith of religion in the former churches. But they also note that if mutual charity ruled men would not even call schism schism or heresy heresy, but a doctrine matter in accordance with each mans opinion; and thus they would leave to each persons conscience, provided such a doctrinal did not deny first principles, such as the Lord, eternal life, and the Word; and provided it was not contrary to the Divine order, that is, to the Commandments of the decalogue; and provided he does not disturb the Church (AC 1834, 6047, 5432e; HD 318).
 
@@ -1068,20 +1025,20 @@ This is indeed one reason why it is useful to read in the Writings regularly and
 
 Differences of doctrinal understanding are inevitable because many men means many minds. Yet if there be charity and unity as to essentials, there is maintained an agreement as to the generals of doctrinedoctrines generally seen as taught in the Writings and thus generally preached in the Church. Such teaching forms what is often called, in the Writings, the doctrine of the Church. This becomes traditional in a Church, and it may be true or false. It becomes true so far as it continually leads back to the Writings as to its sole source and authority. It becomes false so far as it neglects, ignores, or denies some of the teachings of the Writings or nullifies their context meaning. It is of exceeding great importance that the doctrine of the church be sound. For this doctrine is what largely forms the faith of the simple and of the next generation before they have the opportunity, desire, or ability to go to the Writings for themselves and receive from the Lords own mouth the truths from which they make up their individual doctrine of love and charity.
 
-*******
+***
 
 About twenty years ago, a divergent view was developed by some laymen and priests in the General Church, as to the nature of the Writings and as to certain fundamental theological doctrines. It led to so wide differences as to result in a new body of the Church with a new church government and organization. Because it originated in Holland, its views have been known among us as the Dutch Position or the Hague Position. The proponents of this view are critical of the General Church for not adopting their theses or premises, and suggest that this is due to a decline in state, attributing our disagreement to a lack of a calm and open minded consideration of their claims.
 
 As a matter of fact, much of our time was spent in exhaustive studies of the doctrines involved. The difficulty faced by the students of the General Church was of quite another nature. The Hague Position was publicized at great length, and was claimed to be as revolutionizing as wasin its timethe Copernican theory. Yet when its startling statements were challenged, the answers were usually ambiguous, and to the effect that the printed statements did not mean what it was thought to have meant, yet could not be retracted. New definitions were put forward:
-for instance, the Heavenly Doctrine did not mean the Writings in themselves considered, but meant the Writings as understood in the Church. The term the Third Testament was adopted for the Writings, to emphasize the thesis that the Writings contain a literal and an internal sense just the same as the Old and the New Testaments, and that their internal sense is to be opened with the assistance of the science of correspondences which apply to the Writings without any difference or reserve.19
+for instance, the Heavenly Doctrine did not mean the Writings in themselves considered, but meant the Writings as understood in the Church. The term the Third Testament was adopted for the Writings, to emphasize the thesis that the Writings contain a literal and an internal sense just the same as the Old and the New Testaments, and that their internal sense is to be opened with the assistance of the science of correspondences which apply to the Writings without any difference or reserve.(*19)
 
-19 D. H. L, fasc. I, pp. 80, 81, 27.
+*19 D. H. L, fasc. I, pp. 80, 81, 27.
 
 Nothing is more futile than to attribute to people views which they later dispute having held. We must also allow others the right to change their opinions. But it is at times needful to restate our own doctrinal positions in contrast to what we do not believe to be true, giving our own summary or interpretation to teachings which we believe to have been contorted or taken out of connection. This is what we now propose to do in the case of a few disputed topics.
 
-*******
+***
 
-1. The first of our doctrinal points is of theological and abstract nature, yet is fundamental in our thinking.
+(1). The first of our doctrinal points is of theological and abstract nature, yet is fundamental in our thinking.
 
 The infinite Esse or Being of God cannot communicate itself to any one except through the Divine Existere or the Divine Manifesting (AC 6880). The Divine Existere is also infinite. It is the Divine truth which manifests Divine Good (AC 10158). This Divine truth proceeds into creation, thus into heaven and human minds, and what is living in man or angel is from the proceeding Divine which is conjoined with man by contiguity (DP 57e). The Lords presence with man is thus an adjunction, through which life appears as mans own (AR 55e). The infinite Divine Existere touches man, and is indeed present in the finite; and this Infinite present in the finite, is what makes man, a finite being, capable of adjoining himself to the Infinite although of himself he is not capable of the Infinite (DP 53:3, 54).
 
@@ -1097,31 +1054,31 @@ Truth is itself infinite. But when from a love of truth, we read in the Sacred S
 
 It is this state of the finite vessel which is man: indeed, the regenerate man, who adopts the Divine order of faith and charity as his own, and so far forsakes his former proprium which was corrupted with evil and unable to be moved by the truth. The truths perceived from the Word go to compose a genuine understandinga genuine state of faithin which the Lord can operate to instil His gifts of charity and love.
 
-The states of understanding with the men of the Church form what is called the doctrine of the Church. In a true Church, composed of regenerate men, we may conceive this doctrine to be genuineconsisting of principles drawn out of the word by men in illustration and perception. The Word itself is of course the infinite Divine Doctrine. Can it be said that the genuine understanding of the Church, or the doctrine of the Church at any given time, is the Existere of the Divine Doctrine, and thus also Divine, although admittedly finite and limited? Can it be said that the Writings are the Esse of the Divine Doctrine, and that the doctrine of the Church is its Existere?20
+The states of understanding with the men of the Church form what is called the doctrine of the Church. In a true Church, composed of regenerate men, we may conceive this doctrine to be genuineconsisting of principles drawn out of the word by men in illustration and perception. The Word itself is of course the infinite Divine Doctrine. Can it be said that the genuine understanding of the Church, or the doctrine of the Church at any given time, is the Existere of the Divine Doctrine, and thus also Divine, although admittedly finite and limited? Can it be said that the Writings are the Esse of the Divine Doctrine, and that the doctrine of the Church is its Existere?(*20)
 
-20 Article by the Rev. Theodore Pitcairn, published by mimeograph, January, 1951, page 3.
+*20 Article by the Rev. Theodore Pitcairn, published by mimeograph, January, 1951, page 3.
 
-On the face of it, this may seem a merely theological and academic question of terminology. But if we once admit that the mans understanding and reception of genuine truth is Divine, or is the Existere of the Divine esse, we would have to endow with sanctity and relative infallibility21 and human statement of doctrine which we accept as true and accept it on the same basis as we accept Divine revelation.
+On the face of it, this may seem a merely theological and academic question of terminology. But if we once admit that the mans understanding and reception of genuine truth is Divine, or is the Existere of the Divine esse, we would have to endow with sanctity and relative infallibility (*21) and human statement of doctrine which we accept as true and accept it on the same basis as we accept Divine revelation.
 
-21 De Hemelsche Leer, fasc. J. J. p. 79.
+*21 De Hemelsche Leer, fasc. J. J. p. 79.
 
 The General Church from its inception, has universally approved those statements of Bishop W. F. Pendleton which are called The Principles of the Academy. For we have always felt that they were in harmony with the Writings, and expressive of genuine truths revealed in the Writings.
 
-Butit has been urgedif the doctrine of the church be Divine, then it must follow that a purely Divine origin, a Divine essence and Divine authority must be ascribed to the Principles of the Academy as far as in the future they will prove imperishable.22
+Butit has been urgedif the doctrine of the church be Divine, then it must follow that a purely Divine origin, a Divine essence and Divine authority must be ascribed to the Principles of the Academy as far as in the future they will prove imperishable.(*22)
 
-22 De Hemelsche Leer, fasc. I, p. 9.
+*22 De Hemelsche Leer, fasc. I, p. 9.
 
 That this cannot be said of any human production, no matter how regenerate the man who composed it, would seem to follow, not only from common perception, but also from the fact that there is in mans esse nothing that is Divine or continuous with God, and that his existere or what comes forth from his esse, can therefore certainly not be Divine.
 
 But it should be noted, for claritys sake, that the Divine Esse is the Divine of love and the Divine Existere is the Wordthe infinite Divine truth. This Word is said to be received by man. Yet it is not made finite by reception, but remains infinite. All good and truth are indeed Divine in origin and in themselves infinite. There is no good itself or truth itself in man. But there are states of reception, which are called love and wisdom, and into these good and truth inflow from the Lord. The influx is Divine, but the states are human. The states are what constitute man, and reception is mans very being.
 
-*******
+***
 
 The teaching of the Writings is that mans faculty to receive is from the very presence of the Lord in himnay, that the faculties of rationality and liberty, and the posse or ability to understand and will and are in themselves Divine. They are in man, yet are not a part of man. They are a perpetual loan, to all men, good or evil (DP 88). What is man is his use of these faculties. For he may use them for good or evil; this power to reciprocate the Lords love is from the Lord but the use of the power is his, his reciprocal, his freedom, and the sole source of his human responsibility (DLW 116; DP 219:4).
 
 So far as one lays claim that the love and wisdom that come from the Lord by influx are in him as his own, he denies that he lives from the Lord and believes that he lives from himself and therefore has a Divine essence (DLW 116). Buton the other handthe moment we ascribe to the Lord the use of our reciprocal, our free use of the Divinely given faculties, and think that not only the influx, but also the reception, is Divine, then we make God responsible for our use of these faculties and must hold Him accountable for evil as well as for our choice of good! Mans essewhich is receptionperhaps, and with it the purpose of all creation!
 
-*******
+***
 
 The Writings teach several things about the internal sense of the Word which may seem at first glance contradictory, and may thus become the occasion for erroneous ideas.
 
@@ -1147,13 +1104,9 @@ This elevation of the understanding and consequent enlightenment is effected by 
 
 The search for an internal sense in the Writings is therefore not achieved by the use of the science of correspondences such as is needed to unlock the Scripture. Yet Swedenborg, in his early Diary, was very conscious of the crudity of the human words by which he sought to express the truths he was granted to record. He consoles himself however with the thought that the prophets used even cruder, more vulgar, words, but that these were but vessels of interior truths (S.D. 2185, 2270). It is the case with all men, inspired or not, that the things they writeas to each letteris formed by aid of spirits and angels whose abundant fields of ideas are the causes which inflow into mans every thought and action. This is so with you and with me. It is an illustration of how the letter of the Word is inspired and was therefore given Swedenborg to observe. But it is not a proof that the Writings are a sealed letter of the Word such as the Sacred Scriptures.
 
-FAITH AND FALSITY
 
-A Series or Doctrinal Classes by Hugo Lj. Odhner
 
-Class XIII
-
-THE SIGHT OF TRUTH
+== XIII - THE SIGHT OF TRUTH
 
 It is provided by the Lord that man should be able to see truth. This is for the sake of his salvation, for without truth no man can be saved or introduced into heaven. Truth in its origin and essence is Divine, nay, it is the Lord Himself, in His divine Existere or Manifestation. To reveal His Essence, the Lord even came on earth, so that man may not worship God as visible. He has made Himself visible, not indeed before our physical sensesas to the apostlesbut to our spiritual senses, or our mind. It is so that we can now see Him, as He presents Himself in the inspired Word of Law, Gospel, and Doctrine.
 
@@ -1181,13 +1134,13 @@ Man can acquire the knowledge about the Lord from a merely natural affection, an
 
 It is therefore provided that mans love should serve as a guard lest he profane the things of religion. This was signified by the cherubim that stood on guard at the entrance of the garden of Eden and also above the ark in the tabernacle of Israel. Man may from various loves see truths sensually, naturally, and even rationally. But to see truth spiritually, his love must be spiritual. The elevation of his understanding into heavenly light results only in an external seeing of interior truths, unless his will, or love, is at the same time elevated into spiritual heat, or into the good of charity, that is, into a spiritual love of the neighbor from a love to the Lord. This external seeing is a seeing of truth as an object outside oneself, without any admission of the truth into ones will. Even evil spirits can, under certain circumstances, be lifted up into heaven and be able to see all the externals of heaven and learn angelic arcana of wisdom, and be momentarily convinced of their truth. Yet these tings they reject and banish into oblivion when they return to their own loves.
 
-*******
+***
 
 Thus there are as many ways of seeing truth as there are loves. And the love of truth is ever such as is a mans good of life. Those who have no affection of truth for truths own sake or for the sake of the good of life, are not at all enlightened when they read the word, but are only confirmed in doctrinals no matter of what kind whether false as heresies are, or entirely contrary to truths.... For they seek fame, not faith, earthly not heavenly riches; and this search leads eventually to the denial of all things (AC 7012). But those who are in good and thence in an affection of truth have revelation when they read the Word. They are taught from the Word. The angels who are with the man then perceive the Word according to the internal sense and this is communicated to the man... (AC 8694).
 
 The cited teaching goes on to specify what is thus communicated: The quality of the revelation possessed by those who are in good and thence in the affection of truth, cannot be described: it is not manifest, neither is it completely hidden; but it is a certain consent and approval from within that the things is true or disapproval if it is not true. When there is approval, the mind is restful and serene, and in that state there is the acknowledgment which is of faith....
 
-*******
+***
 
 The state of those who in this manner really are taught from the Word is called illustration or enlightenment, for such receive spiritual light in which there is the warmth of charity and love. This causes them to recognize genuine truth and discriminate between real truths and apparent truths, as well as between truths and falsities. But note. Mans understanding when thus enlightened does not judge about real truths in themselves (in se) (AC 7233). For of course, truths in themselves are Divine and beyond the scope of human judgment. If the regenerate understanding could judge about Divine truth, it would itself be Divine. But that is not so.
 
@@ -1210,7 +1163,7 @@ revelation has been made by the Lord ... and this has been done fully and manife
 
 If a science of correspondences were needed to obtain the doctrine of genuine truth from the Writings, it is obvious that the doctrine is yet to be revealed. But it is now revealed, and it is known. It is not in heaven, that those shouldest say, who shall go up for us to heaven, and bring it unto us.... The Word is very nigh unto thee, in thy mouth and in thy heart, that thou mayest do it (Deut. xxx. 12, 14).
 
-*******
+***
 
 But it must be kept in mind that it is one thing to know genuine doctrine and another to receive it interiorly. The same doctrinal statements will have different depths of significance to people in different states. Although the Writings contain an abundance of clear doctrinals which inmostly form a consistent whole, all readers differ as to how they collate them, that is, how they order them in their minds. Concerning certain statements about mediate and immediate influx, the Arcana Coelestia says: But these arcana scarcely any one can understand except one who is in enlightenment from the Lord and thence in perception.... They can indeed be described, but still they do not fall rightly into the thought unless there is perception from heaven. And this is not given ... unless they are in the love of truth from genuine good (AC 8685). Thus it is that man form for themselves various ideas of doctrinal things, which sometimes are of such a nature that they surpass all apprehension (AC 3085, 4234, 9094). Of what quality such ideas are is not revealed until after death. And even angelic ideas are continually being perfected by being purified from the fallacies and scruples that the angels had entertained while on earth (AC 2249).
 
@@ -1224,19 +1177,15 @@ The specific reference in these teachings is to those in churches like the Luthe
 
 The quality of a church-body is primarily from its revelation; in our case, from the Writings. But it is the understanding of the Word that makes the Church, as to its state and soundness. And this is reflected in the purity and soundness of its teachingor in the accepted doctrine of the Church (TCR 245). For this shows what it has gained from the Word, and how much it has drawn from the spiritual-natural truths now openly offered in the Writings.
 
-*******
+***
 
 Our series of addresses on Faith and Falsity opened with the statement that there is but One True Faith, and then gave instances of how this one true Faith had been perverted and adulterated by human additions or evasions into falsities and fallacies destructive of the Church. Our next task would be to examine how the one true Faith, which we acknowledge to be taught in the Writings in its fulness, can be preserved in the Church from generation to generation, and how the spiritual truth of the Divine doctrine can be rendered up immune from the rational, that is, untainted by mens rationalizations (AC 2533).
 
 Common perception answers the problem very simply: Shun evils as sins; love truth; be loyal to the plain teachings of the Writings, and put no final authority in human opinions. But this simple answer has recently been challenged with an elaborate build-up of teachings and arguments. The challenge is based mainly on an erroneous identification of the doctrine of faith which lodges in the Word, with the doctrine of the church which is what the church has acquired and teaches; and also on a confusion between Divine influx and human rational reception.
 
-FAITH AND FALSITY
 
-A Series or Doctrinal Classes by Hugo Lj. Odhner
 
-Class XIV
-
-PRESERVING THE INTEGRITY OF DOCTRINE
+== XIV - PRESERVING THE INTEGRITY OF DOCTRINE
 
 The Writings teach that the Church is from the Word and that it is such with man as is his understanding of the Word (TCR 243H). The things which essentially make the Church are the things which appear in the Word to those who love truths because they are truths, and do goods because they are goods. For only such see the doctrine of love to the Lord and charity towards the neighbor which is the internal sense appearing in the literal sense of the Wordthe doctrine taught in those two great commandments on which hang all the law and the prophets. All the doctrine of the Church must be from the Word. Doctrine from any other source than the Word is not a doctrine in which there is anything of the Church, still less anything of heaven (AC 9424). Yet the fact that doctrinals may have been derived from the Word does not make them Divine truths, because from the sense of the letter of the Word men may hatch all manner of fallacious notions if they read it to confirm their own natural affections and prejudices (AC 7233, 4783). Thus the doctrine of the church may become falsified instead of genuine. For the doctrine of the churchthat is, the doctrine accepted and preached in the churchtakes its quality not only from the Word but from human states and attitudes. It marks the Churchs reception and understanding of the Word.
 
@@ -1253,7 +1202,7 @@ It is therefore obvious that as far as the doctrine of the Church, or traditiona
 Let us note that there is wisdom to be gathered from the past. A
 generation which scoffs at a truth because it is old, and which believes that it can set out to construct its doctrine without the background of traditions, is not only foolhardy but bound for disillusionment. In a sound Church, tradition gives momentum and direction to progress. It keeps the Church on an even keel. It provides the capital wealth by which its uses can be extended. And the doctrine of the church is therefore to be honored and respected. It has a proper office which carries authority with it. But note that this authority is in no wise Divine, but merely rational, and thus vanishes if it is not continually sustained by new truths from the Word of revelation. The doctrine of the Church is therefore believed so far as it is convincing, and so far as it shows that it is warranted by the Divine authority of the Word, which alone can lend it credence.
 
-*******
+***
 
 There would be no genuine doctrine of the Church unless the Word was Doctrine itself, or Doctrine in its Divine origin. It is in the Word that we have the doctrine of faith in its infinite fulness and entirety.
 
@@ -1275,7 +1224,7 @@ The function of the rational mind is not to create truths, but to receive them. 
 
 Rational truth, such as is signified by Sarah as a sister of Abraham, is not united in marriage to Divine good. For only Divine truth is married or united to Divine good. Still the Divine inflows into lower truths. It conjoins itself with the rational appearances of truth and even into sensual truths which are scarcely anything but fallacies, and adapts them for its purpose, so that the Divine truth may appear through them and be received in them (AC 357, 3207).
 
-*******
+***
 
 The question now is, how the Lord can be present in the appearances of mans mind. Certainly we know that pure truths belong to the Lord alone, while truths with angels are never pure, or devoid of appearances, and that with man they are tainted with fallacies (AC 2053, 3207).
 
@@ -1301,7 +1250,7 @@ But it is important to note that Divine truth which expresses itself as rational
 
 It is difficult for those of a spiritual church to grasp that Divine truths can be understood, that is can be visible in the rational. They fear to call revealed truth rational, preferring to accept it by a blind faith, without rational intuition; and this protects them from being mislead by doubts instilled by skeptics who call their faith unreasonable or illogical. But they instead sacrifice all freedom of thought, and may bind their conscience to what is highly heretical (AC 3394).
 
-*******
+***
 
 For the protection of the Church doctrine must be received as rational truth. It is admitted by all in the Church that the Divine doctrine is the Word, the Scriptures and the Writings. In the reading of the Word in states of illustration, a regenerating man sees Divine truth and is affected by it. He feels that he has been taught by the Lord. He sees something of the Divinely intended connection between the appearances in which the Word is couched, and from this he has a vision of truth about some spiritual things. He remembers this vision as associated with the expressions of the text and its mental imagery, and yet its clarity fades. If he should seek to convey the truth that he has seen to others, he finds difficulty in selecting words and ideas that can sufficiently suggest what he found. If he is a priest he may aid in formulating some of the doctrines that are applicable to human problems and new uses. It is so that, by degrees, there grows up a doctrine of the church. This is taught to the young and is an important agency so far as it leads them to the Word, where they may find their bread and water of life.
 
