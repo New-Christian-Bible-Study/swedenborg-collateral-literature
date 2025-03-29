@@ -1,17 +1,23 @@
+= As from Self and the Two Essentials of the Church
+By Erik Sandstrom - 1983
+include::../template-attributes.adoc[]
+
+//this is a partial of something larger//
+
 One might say that reception, the existere of love, is the life of our love, or from our love, which we feel as if it were our own, though both our love itself and all the lifeforms from it, are and exist solely from the Lord, by touch.
 
 Summing up this section we therefore conclude: That what is received, namely life inflowing from the Lord, is Divine; but that the recipient (or that which receives the Lord's life by contiguity and not by continuity), thus the esse or love of man, is created and finite; and that reception, since it is the existere of that esse (or the coming forth of that love) is created and finite also. The recipient itself, and the reception itself, are together what is called "the life of man."
 
-Influx and efflux
+=== Influx and efflux
 
 As we all well know, "it is a universal law that influx adjusts itself to efflux" (AC 5828, see also TCR 814).
 
 We need not stay for long with this point, yet should note that efflux is the "life of man;" and that it is to this life of man that influx, which is the Divine life, adjusts itself. It is of mercy that it is thus, and not the reverse. The reverse would be that man's life (thus efflux) would adjust itself to the Lord's life (thus influx); but this would force all into heaven, in fact would force all into the Divine, and would destroy all human freedom.
 
-The as-from-self and the Visible God
+=== The as-from-self and the Visible God
 
-Here we build a little further on what was said in the section
-"Definitions."
+WARNING: Here we build a little further on what was said in the section "Definitions."
+_indicating this as only a segment of the work_
 
 Bearing in mind that by the name "the Lord" is meant our God as visible, we should now note that in the Lord and because of Him, the whole Divine Trinity is at this day visible, not only the Divine Body, or the Divine Human. The Divine soul too is visible, not by itself, but in and by means of the Human. "He who has seen Me has seen the Father"
 (John 14:9). This should be interpreted to mean: he who has seen the Lord truly has seen Him as Father. Philip had not so seen Him when he asked his question (John 14:8). In the Church it is a matter of perceiving the love and goodness in the Lord, as well as the truth, or law, that comes from Him. And the Holy Spirit, or the Divine operation, is visible, because it goes forth from the Lord's glorified Human. "I
@@ -34,7 +40,7 @@ But there is also the aspect of appearance, perhaps especially in the TCR passag
 Finite things can proceed only from man. Finite things are created by the Lord, but do not proceed from Him. And second: When finite things proceed from finite man, as when thoughts and then uses proceed from the love that is his life, then there is an appearance that those finite things proceed from the Lord through man. But it is but an appearance, for the actual case is that the proceeding from the Lord is
 "in man and into him, but not through him."
 
-Image and Likeness
+=== Image and Likeness
 
 The "likeness" of God in man is man's ability "to receive and reproduce those things that proceed into him from God"; and the "image" of God in him is "his acting and thinking in spiritual things as of himself"
 (Coro 26).
@@ -55,7 +61,7 @@ The things that "he feels in himself from God as his own" are his love and wisdo
 
 And here we need only remind ourselves that it is particularly things created that are said to be "from God." And the love and wisdom, or will and understanding, of man are products, not proceedings, from the Divine; they are contiguous with the Divine influx, not continuous from it.
 
-Proprium - love - freedom
+=== Proprium - love - freedom
 
 When we say "proprium" we usually think of what is innate with man by heredity. This is evil in its general turning. But there is also the proprium that is born, "not of blood, nor of the will of the flesh, nor of the will of man, but of God" (John 1:13). This is the proprium that is made by the Lord in man through his new birth, and it is heavenly in its nature and in its general bent.
 
@@ -69,7 +75,7 @@ The other is from the Arcana, and is a teaching addressed to "spirits fresh from
 
 In a word, the new proprium, the love that is the life of man, genuine freedom, and the as-from-self, make one.
 
-To perceive, to sensate, and to acknowledge
+=== To perceive, to sensate, and to acknowledge
 
 Do we feel the Lord's life in ourselves? Yes and no. If we mean influx, the answer is No; but if we mean the effect of the influx, then the answer, rightly understood, can be Yes. We know from experience that, generally speaking, we do not feel, or sensate, the Lord's life within us. It is our own love (which if it is well, as we have noted, is from the Lord) that we feel; and since we do feel it, it seems to be from ourselves. But we may also at times experience a special sense of peace and inner joy, and in that feeling we may have an inward sense of the Lord's presence.
 
@@ -98,28 +104,28 @@ We are also reminded here of the general teaching that the interior cannot by it
 
 The general conclusion, therefore, is that we do not sensibly experience the Divine touch itself, but that we are aware of the lifetrain that is set off by that touch, and first by a sense of delight. In heaven, and in a regenerate state, that delight is a feeling of supreme peace, and from this a happiness beyond telling.
 
-The origin of man and his essence
+=== The origin of man and his essence
 
 The essential thing we need to note here is that origin is one thing, and essence another. Man does indeed have a Divine origin; but he does not have a Divine essence, nor will he ever get one. The Divine essence is of course uncreate; but man's essence is created. "There is one sole essence, one sole substance, and one sole form, from which are all essences, substances, and forms that have been created" (DP 157). Created things have had their origin from the Lord by means of His forming Divine truths, for the very forms of these things are created so that they may receive and contain what is from God (see AC 8861:2). The wonderful first things that constitute the spiritual sun are most certainly from a Divine origin, but not even they are life in themselves, but are in themselves "devoid of life" (see DLW 294; cf. AC 1999:4).
 
 We must not allow ourselves to get entangled in the Gordian knot, so as to confuse origin and essence. The whole universe is from a Divine origin -- one might perhaps say, "Divine in origin"; yet in terms of DLW 53 it does not, and nothing in it does, "possess anything Divine."
 Its essence, in the whole and in every part, is created; but its origin is not.
 
-Conscience and the as-from-self
+=== Conscience and the as-from-self
 
 We have already to some extent placed conscience in the context of man's as-fromself. A teaching in the Spiritual Diary does so in a very explicit way: "Whoever is in charity and in true conscience may obey all the precepts of the Decalogue and know them as it were from himself, as being in all particulars impressed upon him, so that he has no need to learn them.... Moreover those who are in charity and in conscience possess as it were from themselves all the knowledges of faith.... Again they are able as it were from themselves to write whole books, and without masters to frame entire systems of doctrine; they can preach, and their preaching is in accordance with whatever is true and good" (SD 4263).
 
 This is the man of whom Jeremiah speaks: "After those days, says the Lord, I will put My law in their inward parts, and will write it on their hearts; and I will be their God, and they shall be My people"
 (Jer. 31:33). Such a man has more of a feeling as if life was from him than any, but also more of a heartfelt acknowledgment than any that all that he has is from the Divine creative touch.
 
-The Lord's own with man
+=== The Lord's own with man
 
 The Lord's own can be spoken of from two viewpoints. These must not be confused. We can think of the six degrees of truth that are from Him. These are Divine truths; on every plane they are in themselves the same, but on every plane they take on a form that is adapted to those who live there. It is so with the truths in the Old Testament, the New Testament, and the Writings. In themselves these truths are the same, on whatever plane they appear to us, but they clothe themselves it forms adapted to generations past and present. From this aspect the Lord's own with man is Divine.
 
 But there are not only things that proceed from the Divine, but also things that are produced from it. These too are the Lord's own, but they are not Divine. For examples, take again what is said about the things that "constitute the sun of the spiritual world" (DLW 294), and those things that make up "the heaven of human internals" (AC 1999:4)
 -- "they have no life in themselves, but are forms recipient of the Lord's life" (ibid.).
 
-The Tree of Life and the Tree of Knowledge
+=== The Tree of Life and the Tree of Knowledge
 
 Essentially those two trees contrast the reality and the appearance. The reality is that man lives from the Lord alone. This is the tree that must not be removed from the center of the garden of the mind. The appearance is that man lives from himself, independently of God. That appearance is in itself not evil. It was the Lord the Creator who placed the tree of knowledge in the garden, though away from the center; and it, like the other trees there, was "pleasant to the sight." Evil is to think that we actually do live from ourselves, or independently of a Creator. That is what moves the tree of life from the center, and places the tree of knowledge there (see Gen 3:3); and that is eating, or absorbing in the mind, what is false.
 
@@ -127,6 +133,6 @@ By so eating, man destroyed the second greatest gift of God to man. The first of
 
 That is freedom; and that is the as-from-self as the Lord meant it to be.
 
-----------
+---
 
 "Abide in Me, and I in you. As the branch cannot bear fruit of itself unless it abides in the vine, neither can you, unless you abide in Me. I am the vine, you are the branches. Re who abides in Me and I in him, bears much fruit; for without me you can do nothing." John 15:4, 5
