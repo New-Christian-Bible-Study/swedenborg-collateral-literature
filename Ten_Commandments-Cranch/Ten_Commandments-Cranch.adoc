@@ -1,18 +1,16 @@
-Harold C. Cranch
+= Ten Commandments
+By the Rev. Harold C. Cranch  1972
+include::../template-attributes.adoc[]
 
-1st Printing 1949
-
+1st Printing 1949 + 
 2nd Printing 1972
 
-GENERAL CHURCH RELIGION LESSONS
-
-Bryn Athyn, Pennsylvania
-
+GENERAL CHURCH RELIGION LESSONS + 
+Bryn Athyn, Pennsylvania + 
 1972
 
-THE FIRST COMMANDMENT
 
-By the Rev. Harold C. Cranch
+== THE FIRST COMMANDMENT
 
 And God spake all these words saying: I am the Lord thy God who brought thee out of the land of Egypt, out of the house of bondage. Thou shalt have no other Gods before my face. (Exodus 20:1-3)
 
@@ -95,11 +93,8 @@ SEVEN QUESTIONS ON THE FIRST COMMANDMENT
 
 Lesson 11-K Exodus 20
 
-Name Date
 
-THE SECOND COMMANDMENT
-
-By the Rev. Harold C. Cranch
+== THE SECOND COMMANDMENT
 
 Thou shalt not take the name of the Lord thy God in vain; for the Lord will not hold him innocent that taketh His name in vain. (Exodus 20:7)
 
@@ -137,7 +132,7 @@ So in the Lords Prayer we ask that this name, or this spiritual quality may be g
 
 Lessons: Matthew 12:30-37; Apocalypse Explained 815:12, 13.
 
-********
+
 
 To believe in His name has he same signification as to believe in Him, since the Lords name signifies every state of faith and love by which He is to be worshiped, and by which He saves man. This is signified by His name, because in the spiritual world names that are given to persons are always in accord with what their affection and life are, and in consequence what each one is is known from his name alone. So when any ones name is pronounced, and the quality that is meant by the name is loved, that one becomes present, and the two are united as companions and brethren. The quality of the Lord is everything of faith and love by which He saves man, for that quality is the essence that goes forth from Him; therefore. when that quality is thought of by man the Lord becomes present with him, and when it is loved the Lord is conjoined to him. Thus it is that those who believe in His name have eternal life. This shows how necessary it is that man should know the quality of faith and love, that is, the Lords name; also how necessary it is to love that quality, which comes by doing those things that the Lord has commanded. The names Jesus and Christ involve the same quality, since JESUS means salvation, and CHRIST (or MESSIAH) Divine truth, which is everything of faith and love as to knowledges, doctrine, and life. When, therefore, these names are mentioned the quality they signify must be thought of and the life be brought into harmony with it. This is what is meant by the words of the Lord in Matthew XVIII:19, 20...There is, indeed, a presence of the Lord with all and a love towards all; and yet man can be led and be saved by the Lord only in the measure of his reception of the Lord by faith in Him and love to Him. (AE 815:12)
 
@@ -147,11 +142,10 @@ SIX QUESTIONS ON THE SECOND COMMANDMENT
 
 Lesson 12 - K Matthew 12:30-37
 
-Name Date
 
-THE THIRD COMMANDMENT
+== THE THIRD COMMANDMENT
 
-By the Rev. Harold C. Cranch
+
 
 Remember the Sabbath day to keep it holy. Six days shalt thou labor and do all thy work; but the seventh day is the Sabbath of the Lord thy God; in it thou shalt not do any work, thou, nor thy son, nor thy daughter, thy manservant, nor thy maidservant, nor thy beast, nor thy sojourner that is within thy gates; for in six days the Lord made seventh lay; wherefore the Lord blessed the Sabbath day and hallowed it. (Exodus 20:8-11)
 
@@ -240,11 +234,11 @@ SEVEN QUESTIONS ON THE THIRD COMMANDMENT
 
 Lesson 13 - K Mark 2
 
-Name Date
 
-THE FOURTH COMMANDMENT
 
-By the Rev. Harold C. Cranch
+== THE FOURTH COMMANDMENT
+
+
 
 Honor thy father and thy mother, that thy days may be prolonged upon the land which the Lord thy God giveth thee. (Exodus 20:12)
 
@@ -288,7 +282,7 @@ When we can truly see and acknowledge these things, then, on every other plane, 
 
 Lessons: Matthew 15:1-14; True Christian Religion 305-307.
 
-********
+
 
 HONOR THY FATHER AND THY MOTHER, THAT THY DAYS BE PROLONGED, AND THAT
 IT MAY BE WELL WITH THEE UPON THE EARTH.
@@ -297,7 +291,7 @@ This commandment is so read, Exodus 10:12; Deuteronomy 5:16. By honoring thy fat
 
 In the spiritual sense, by honoring father and mother, is meant, to adore and love God and the church. In this sense by father, is meant God, who is the Father of all; and by mother the church. Infants and angels in the heavens know no other father and no other mother, since they are born there anew of the Lord by the church; wherefore the Lord says, Call no one your father on the earth; for one is your Father. who is in the heavens, Matthew 13:9. These things were said for infants and angels in heaven, but not for infants and men on earth. The Lord teaches the same in the common prayer of Christian churches: Our Father, who art in the heavens, hallowed be Thy name. That by mother, in the spiritual sense, is meant the church, is, because, as a mother on the earth feeds her children with natural food, so the church feeds them with spiritual food; wherefore, also, the church is everywhere in the Word called mother. (TCR 305-6)
 
-THE FOURTH COMMANDMENT AS UNFOLDED IN APOCALYPSE EXPLAINED
+== THE FOURTH COMMANDMENT AS UNFOLDED IN APOCALYPSE EXPLAINED
 
 Those who honor father and mother have heaven and the happiness there, because in heaven no other father but the Lord is known, for all there have been generated anew from Him, and in heaven by mother the church is meant, and in general the kingdom of the Lord. It is clear that those who worship the Lord and seek His kingdom will have life in heaven, also that many of those who honor father and mother in the world do not live there long. (AE 304:43)
 
@@ -311,13 +305,13 @@ Write below a short paper on some of the meanings of the Fourth Commandment.
 
 Lesson 14 - K Matthew 15:1-14
 
-Name Date
 
-THE FIFTH COMMANDMENT
+
+== THE FIFTH COMMANDMENT
 
 THE EVIL OF HATRED
 
-By the Rev. Harold C. Cranch
+
 
 Ye have heard that it was said by them of old time, Thou shalt not kill; and whosoever shall kill shall be liable to the judgment. But say unto you, that whosoever is angry with his brother without a cause shall be liable to the judgment; and whosoever shall say to his brother, Raca shall be liable to the council; but whosoever shall say, Thou fool, shall be liable to the hell of fire. (Matthew 5:21, 22)
 
@@ -381,11 +375,11 @@ SEVEN QUESTIONS ON THE FIFTH COMMANDMENT
 
 Lesson 15 - K Matthew 5:13-24
 
-Name Date
 
-THE SIXTH COMMANDMENT
 
-By the Rev. Harold C. Cranch
+== THE SIXTH COMMANDMENT
+
+
 
 Thou shalt not commit adultery. (Exodus 20:14)
 
@@ -443,7 +437,7 @@ To follow the Lord, and to progress in spiritual wisdom and love, we must shun a
 
 Lessons: Genesis 2:18-25; John 8:1-11; Life 74, 75.
 
-**********
+
 
 SO FAR AS ANY ONE SHUNS ADULTERIES OF EVERY KIND, AS SINS, SO FAR HE
 LOVES CHASTITY.
@@ -458,11 +452,11 @@ SEVEN QUESTIONS ON THE SIXTH COMMANDMENT
 
 Lesson 16 Genesis 2:18-25
 
-Name Date
 
-THE SEVENTH COMMANDMENT
 
-By the Rev. Harold C. Cranch
+== THE SEVENTH COMMANDMENT
+
+
 
 Thou shalt not steal. (Exodus 20:15)
 
@@ -547,11 +541,11 @@ Write below a short paper on some of the meanings of the seventh commandment.
 
 Lesson 17 - K Matthew 19:13-30
 
-Name Date
 
-THE EIGHTH COMMANDMENT
 
-By the Rev. Harold C. Cranch
+== THE EIGHTH COMMANDMENT
+
+
 
 Thou shalt not bear false witness against thy neighbor. (Exodus 20:16)
 
@@ -614,11 +608,11 @@ Write below a short paper on some of the meanings of the Eighth Commandment.
 
 Lesson 18-K Luke 18:1-14
 
-Name Date
 
-THE NINTH AND TENTH COMMANDMENTS
 
-By the Rev. Harold C. Cranch
+== THE NINTH AND TENTH COMMANDMENTS
+
+
 
 Thou shalt not covet thy neighbors house. Thou shalt not covet thy neighbors wife, nor his manservant, nor his maidservant, nor his ox, nor his ass, nor anything that is thy neighbors. (Exodus 20:17)
 
@@ -634,7 +628,6 @@ Love of self is termed a corporeal love. It is the selfish desire to exact servi
 
 These two lusts of evil - the lust for worldly possessions, and the lust for power over others - are forbidden in many places in the Word. They are the most interior form of all the perversions forbidden by the ten commandments.
 
-*********
 
 The ninth commandment reads: Thou shalt not covet thy neighbors house. To covet is to will from an evil love, and house refers to the complex of all the good which a man has. So in the next commandment by wife is meant the sum total of all his truths, and by the particulars which follow - the servants and cattle - are signified the affections of these truths. So the ninth commandment is a command not to lust after the spiritual or natural goods of another, which make up his house. Envy of another for his possessions is a common form of coveting. In its more insidious and subtle forms it is the overmastering desire to excel others in all that we are and do, so that we may displace another before the world, without regard to justice or to the approval of the Lord and of heaven.
 
@@ -645,7 +638,7 @@ Of such an inner form of envy and disappointment the apostle James said: If ye h
 As to the more material envying, which covets the natural goods and advantages of another, the Lord Himself spoke many times. Thus in Luke He said: Take heed and beware of covetousness; for a mans life consisteth not in the abundance of the things which he possesseth. (12:15) And also speaking of how truth is implanted in the hearts of men. He showed that with many the Word does not bear fruit in life, for the cares of this world, and the deceitfulness of riches, and the lusts of other things entering in, choke the Word, and it becometh unfruitful. (Mark 4:19) The positive teachings of the Lord were gathered together and summed up in the writings of Timothy, who said:
 Godliness with contentment is great gain. For we brought nothing into this world, and it is certain we can carry nothing out. And having food and raiment, let us be therewith content. (I Timothy 6:6-8)
 
-**********
+
 
 As the ninth commandment forbids us to love the things of the world, so the tenth forbids us to practice the love of self. For the love of self is the most insidious of all evils. We are born with a strong heredity to it, and it develops quickly, until it forms our very life. It is the proprium from which we act until gradually we are born again as to our spirit. Then we leave that unselfish love, and in its place we cultivate those loves which make heaven - love to the Lord and love toward the neighbor. Because love of self is the internal life of all unregenerate men, it is the source of all the evils they think and do. It will assume many external appearances. It is hypocrisy itself, for it hides its real purpose so that it might gain the goods of others, or that it might gain control over them. So it was with the Pharisees who externally lived a life of exemplary piety and holiness. By their piety they gained a dominant voice in the rule of the Jews. They had great power. Yet of them the Lord said: Woe unto you, scribes and Pharisees, hypocrites! for ye make clean the outside of the cup and of the platter, but within they are full of extortion and excess. Thou blind Pharisee, cleanse first that which is within the cup and platter, that the outside of them may be clean also. (Matthew 23:25, 26)
 
@@ -655,7 +648,7 @@ Love of self breathes nothing but death and destruction against all who oppose i
 
 And the central love from which the others have their rise is the love of se If. Therefore, unless man hates this love, and loses its life, he cannot receive the heavenly love and blessing of eternal happiness. In the Epistle of John it is said: For all that Is In the world, the lust of the flesh, and the lust of the eyes, and the pride of life, is not of the Father, but is of the world. And the world passeth away, and the lust thereof; but he that doeth the will of God abideth for ever. (I John 2:16,17)
 
-**********
+
 
 As we study the more interior applications of the ten commandments it becomes increasingly clear that the evils there forbidden have taken deep root in the very environment in which we live. We have accepted and lived civil and moral teachings which fundamentally oppose them. Therefore it appears increasingly difficult to obey the commandment in our daily life. To act from a selfish motive breaks the very first of the commandments. By that act we worship a false God. To become angry without a cause breaks the commandment against killing. To gossip or lie breaks the commandment against bearing false witness; and so with each one. Such difficulties seem insurmountable. But the Lord has revealed that it is not difficult to live the life which leads to heaven. It Is in fact easier to live such a life than to become a slave to evil and hypocrisy. Thus in the work on Heaven and Hell it is said:
 
@@ -673,7 +666,7 @@ Come unto Me, all ye that labor and are heavy laden, and I will give you rest. T
 
 Lessons: Exodus 20:1-21; Luke 12:1-21; Apocalypse Explained 1021-1022; or True Christian Religion 326-327.
 
-**********
+
 
 APOCALYPSE EXPLAINED 1021, 1022
 
@@ -685,7 +678,6 @@ These signify in the Word such affections; but because coveting and trying to ge
 
 From this it can now be seen that the lust of the ninth commandment is a lust of the love of the world, and that the lusts of this commandment are lusts of the love of self. For, as has been said before, all lusts are of love for it is love that covets; and as there are two evil loves to which all lusts have reference , namely, love of the world and love of self, it follows that the lust of the ninth commandment has reference to the love of the world, and the lust of this commandment to love of self, especially to the love of ruling.
 
-**********
 
 SEVEN QUESTIONS ON THE NINTH AND TENTH COMMANDMENTS
 
@@ -693,4 +685,4 @@ SEVEN QUESTIONS ON THE NINTH AND TENTH COMMANDMENTS
 
 Lesson 19 - K Luke 12:1-21
 
-Name Date
+

@@ -1,35 +1,44 @@
-ON
+= Twelve Discourses
+By the Rev. Dr. Bayley    1862
+include::../template-attributes.adoc[]
 
-THE ESSAYS AND REVIEWS
-
-BY
-
+ON + 
+THE ESSAYS AND REVIEWS + 
+BY + 
 SEVEN CLERGYMEN OF OXFORD.
 
-BY
-
-THE REV. DR. BAYLEY,
-
+BY + 
+THE REV. DR. BAYLEY, + 
 Minister of the New Jerusalem Church, Argyle Square, Kings Cross.
 
 Open thou mine eyes, that I may behold wondrous things out of thy law.(Ps. xcix. 18).
 
-LONDON:
+LONDON: + 
 ALVEY, 36, BLOOMSBURY STREET; HODSON AND SON, 22, PORTUGAL STREET; PITMAN, PATERNOSTER ROW. 1862.
 
-London:
+London: + 
 Printed by J. S. Hodson and Son, 22, Portugal Street, Lincolns Inn.
-
-TWELVE DISCOURSES ON ESSAYS AND REVIEWS, ETC. 1. Genesis and Geology. 2. Miracles. 3. The Grand Miracle.The Resurrection. 4. The Inner Sense of Scripture. 5. The Blasphemy against the Holy Ghost. 6. True Spiritualism. 7. The Atonement. 8. Difficulties on the Atonement. 9. The Life of Heaven. 10. The New Church Religious Life. 11. The Lord Jesus Christ. 12. The New Church.
-
-TWELVE DISCOURSES
-ON
-ESSAYS AND REVIEWS, ETC. BY THE
+----
+TWELVE DISCOURSES ON ESSAYS AND REVIEWS, ETC.
+1. Genesis and Geology.
+2. Miracles.
+3. The Grand Miracle.The Resurrection.
+4. The Inner Sense of Scripture.
+5. The Blasphemy against the Holy Ghost.
+6. True Spiritualism.
+7. The Atonement.
+8. Difficulties on the Atonement.
+9. The Life of Heaven.
+10. The New Church Religious Life.
+11. The Lord Jesus Christ.
+12. The New Church.
+----
+TWELVE DISCOURSES + 
+ON + 
+ESSAYS AND REVIEWS, ETC. BY THE + 
 REV. DR. BAYLEY.
 
-DISCOURSE No. I.
-
-GENESIS AND GEOLOGY.
+== I. GENESIS AND GEOLOGY.
 
 THE SUCCESSIVE DAYS OF CREATION IN GENESIS NOT THOSE OF SUCCESSIVE
 STAGES OF THE EARTHS OLD CREATION, BUT SUCCESSIVE STATES OF THE SOULS
@@ -334,9 +343,7 @@ ON
 ESSAYS AND REVIEWS, ETC. BY THE
 REV. DR. BAYLEY.
 
-DISCOURSE No. II.
-
-MIRACLES.
+== II. MIRACLES.
 
 THE MIRACLES OF THE LORD JESUS WERE EVIDENCES OF HIS LOVE, AND VERY
 SECONDARILY, EVIDENCES OF HIS DOCTRINE.
@@ -634,9 +641,7 @@ ON
 ESSAYS AND REVIEWS, ETC. BY THE
 REV. DR. BAYLEY.
 
-DISCOURSE NO. III.
-
-THE RESURRECTION OF THE SAVIOR - THE GRAND MIRACLE.
+== III. THE RESURRECTION OF THE SAVIOR - THE GRAND MIRACLE.
 
 Then, the same day at evening, being the first day of the week, when the doors were shut where the disciples were assembled, for fear of the Jews, came Jesus, and stood in the midst, and saith unto them, Peace be unto you.-JOHN xx. 19.
 
@@ -953,9 +958,7 @@ ON
 ESSAYS AND REVIEWS, ETC. BY THE
 REV. DR. BAYLEY.
 
-DISCOURSE NO. IV.
-
-THE WORD OF GOD, WITH ESPECIAL RELATION TO MR. JOWETTS ESSAY ON THE
+== IV. THE WORD OF GOD, WITH ESPECIAL RELATION TO MR. JOWETTS ESSAY ON THE
 INTERPRETATION OF SCRIPTURE.
 
 THE INNER SENSE OF SCRIPTURE; THE NECESSITY AND THE GLORY OF THE WORD
@@ -1314,9 +1317,7 @@ ON
 ESSAYS AND REVIEWS, ETC. BY THE
 REV. DR. BAYLEY.
 
-DISCOURSE NO. V.
-
-THE BLASPHEMY AGAINST THE HOLY SPIRIT.
+== V. THE BLASPHEMY AGAINST THE HOLY SPIRIT.
 
 Wherefore I say unto you, All manner of sin and blasphemy shall be forgiven unto men; but the blasphemy against the Holy Ghost shall not be forgiven unto men. And whosoever speaketh a word against the Son of Man it shall be forgiven him; but whosoever speaketh against the Holy Ghost, it shall not be forgiven him, neither in this world, neither in the world to come.--MATT. xii. 31, 32.
 
@@ -1708,9 +1709,7 @@ ON
 ESSAYS AND REVIEWS, ETC. BY THE
 REV. DR. BAYLEY.
 
-DISCOURSE NO. VI.
-
-TRUE SPIRITUALISM:
+== VI. TRUE SPIRITUALISM:
 
 FOLLOWING THE LORD JESUS AND HIS WORD IN THE REGENERATE LIFE; NOT
 SEEKING INTERCOURSE WITH SPIRITS.
@@ -1726,9 +1725,9 @@ The true Spiritualist; is one who communes with the Divine Spirit of our Lord at
 
 Spiritualism in this sense, is an invaluable thing; it is worthy of all acceptation. But like other excellent things, it is often misunderstood. Counterfeits present themselves, and are often received. Let us then examine the subject, a little more closely.
 
-I. True Spiritualism, is a devout and humble love of the will, laws, and order of the Lord: and this is true righteousness. Pseudo-spiritualism is the adoption of some human substitute for the Divine will, laws, and order; and this is self-righteousness. Should not it people seek unto their God?
+I) True Spiritualism, is a devout and humble love of the will, laws, and order of the Lord: and this is true righteousness. Pseudo-spiritualism is the adoption of some human substitute for the Divine will, laws, and order; and this is self-righteousness. Should not it people seek unto their God?
 
-II. True Spiritualism, is a devout love for the Holy Word, and a constant communion with the Lord by its means. To the law and to the testimony. Pseudo-spiritualism, is seeking direction and information on spiritual subjects by other means, such its by familiar spirits, table-turnings, spirit-rappings, &c.;
+II) True Spiritualism, is a devout love for the Holy Word, and a constant communion with the Lord by its means. To the law and to the testimony. Pseudo-spiritualism, is seeking direction and information on spiritual subjects by other means, such its by familiar spirits, table-turnings, spirit-rappings, etc.;
 
 And when they shall say unto you, seek unto them which have familiar spirits, and unto wizards that peep and that mutter; should not a people seek unto their God? If they speak not according to this Word it is because there is no light in them.
 
@@ -2007,9 +2006,7 @@ ON
 ESSAYS AND REVIEWS, ETC. BY THE
 REV. DR. BAYLEY.
 
-DISCOURSE NO. VII.
-
-THE ATONEMENT.
+== VII. THE ATONEMENT.
 
 Looking for that blessed hope, and the glorious appearing of the Great God and our Savior Jesus Christ who gave Himself for us; that He might redeem us from all iniquity; and purity unto Himself a peculiar people, zealous of good works.--TITUS ii. 13, 14.
 
@@ -2313,9 +2310,7 @@ ON
 ESSAYS AND REVIEWS, ETC. BY THE
 REV. DR. BAYLEY.
 
-DISCOURSE NO. VIII.
-
-THE ATONEMENT. PART II.
+== VIII. THE ATONEMENT. PART II.
 
 DIFFICULTIES EXPLAINED.
 
@@ -2672,9 +2667,7 @@ ON
 ESSAYS AND REVIEWS, ETC. BY THE
 REV. DR. BAYLEY.
 
-DISCOURSE NO. IX.
-
-THE LIFE OF HEAVEN UPON EARTH.
+== IX. THE LIFE OF HEAVEN UPON EARTH.
 
 Thou shalt no more be termed forsaken; neither shall thy land any more be termed desolate; but thou shalt be called Hophzibah, and thy land Beulah, for the Lord delighteth in thee, and thy land shall be married.--ISAIAH lxii. 4.
 
@@ -2984,9 +2977,7 @@ ON
 ESSAYS AND REVIEWS, ETC. BY THE
 REV. DR. BAYLEY.
 
-DISCOURSE NO. X.
-
-THE TRUE CHRISTIAN LIFE.
+== X. THE TRUE CHRISTIAN LIFE.
 
 A good man out of the good treasure of his heart bringeth forth that which is good: and an evil man out of the evil treasure of his heart bringeth forth that which is evil: for out of the abundance of the heart the mouth speaketh. And why call ye me Lord, Lord, and DO not the things which I say?--LUKE vi. 46, 46.
 
@@ -3343,9 +3334,7 @@ ON
 ESSAYS AND REVIEWS, ETC. BY THE
 REV. DR. BAYLEY.
 
-DISCOURSE NO. XI.
-
-THE LORD JESUS CHRIST, IN WHOM DWELLS ALL THE FULNESS OF THE GODHEAD
+== XI. THE LORD JESUS CHRIST, IN WHOM DWELLS ALL THE FULNESS OF THE GODHEAD
 BODILYTHE FATHER, SON, AND HOLY SPIRITTHE ONLY HEAD OF THE NEW CHURCH, SIGNIFIED BY THE NEW JERUSALEM.
 
 For in Him dwelleth all the fullness of the Godhead bodily; and ye are complete in Him, who is the head of all principality and power --COL. ii. 9, 10.
@@ -3588,9 +3577,7 @@ ON
 ESSAYS AND REVIEWS, ETC. BY THE
 REV. DR. BAYLEY.
 
-DISCOURSE NO. XII.
-
-THE NEW CHURCH, A NEW DISPENSATION, NOT A NEW SECT.
+== XII. THE NEW CHURCH, A NEW DISPENSATION, NOT A NEW SECT.
 
 Thus saith the Lord, I am returned unto Zion, and will dwell in the midst of Jerusalem and Jerusalem shall be called a city of truth; and the mountain of the Lord of Hosts: the holy mountain. Zech. viii. 3.
 
@@ -3685,7 +3672,6 @@ Michelet, in his History of France, says: It was the universal belief of the mid
 There was a sect arose among the Lutherans, who proclaimed a sort of fanatical system, strikingly similar to Mormonism, of whom DAubigne gives the following account in his History of the ReformationWhen a great religious fermentation takes place in the Church some impure elements always mingle with the manifestation of the truth. One or more false reforms proceeding from man rise from the surface, and serve as a testimony or countersign to true reform. Thus, in the days of Christ, several false Messiahs attested that the true Messiah had appeared. The reformation of the sixteenth century could not be accomplished without exhibiting a similar phenomenon. The place where it appeared was the little town of Zwickau.
 
 There were some men who excited by the great events which agitated Christendom, aspired to direct revelations from the Deity, instead of simply seeking sanctification of heart, and who pretended they had a call to complete the Reformation which had been feebly sketched by Luther. What use is there, said they, in attaching oneself so strictly to the Bible? The Bible, always the Bible! Can the Bible speak to us.
-....
 
 A simple weaver, named Nicholas Storck, announced that the angel Gabriel had appeared to him during the night, and after having communicated to him things him, Thou which he could not yet reveal, had said to shalt sit upon my throne.*
 
@@ -3735,11 +3721,11 @@ All these bubbles arise from the unwillingness of the natural man to submit to t
 
 We are only beginning to understand its wondrous worth and capabilities, and use it as me ought. With man regenerated, doing justly, loving mercy, and walking humbly with his God, what would stand in the way of human happiness? Oh, no; the world is a good, glorious, and beautiful world. Let him who thinks it otherwise, cleave in heart and life to his Savior, and he will find the apostles language true. If any man be in Christ, he is a new creature; old things have passed away, behold, all things have become new. (8 Cor. v. 18.)
 
-It is mans wicked world, the world that hates the Savior and His kingdom, that needs to come to an end. The old Christian world, which grew out of the corruption of the Christianity of the Lord Jesus; the old world of selfish denomination and mystery, instead of love and truth, the old jarring world of strife and war, of denunciation and persecution, instead of obedience, virtue, and charity. The old world, the heaven and earth, which arose from truth perverted to serve selfish ends, from institutions full of injustice and misery, has ceased from being a heaven and earth recognized by the Lord, and a new heaven and earth. in which will dwell righteousness, have begun.
+It is mans wicked world, the world that hates the Savior and His kingdom, that needs to come to an end. The old Christian world, which grew out of the corruption of the Christianity of the Lord Jesus; the old world of selfish denomination and mystery, instead of love and truth, the old jarring world of strife and war, of denunciation and persecution, instead of obedience, virtue, and charity. The old world, the heaven and earth, which arose from truth perverted to serve selfish ends, from institutions full of injustice and misery, has ceased from being a heaven and earth recognized by the Lord, and a new heaven and earth, in which will dwell righteousness, have begun.
 
 The world has had a long and dreary winter. The dark ages through long centuries, have been ages of misrule and misery, of ignorance and slavery; the night has been long, but the dawn is appearing. Long have the hearts crushed down by oppression, cried out, Lord, how long? Watchman, what of the night? Watchman, what of night? The answer now is, the morning cometh. Now is the evening, at which there is light. (Zech. xiv. 7.)
 
-The dispensation foretold by so many prophecies, is now breaking forth front heaven into the world. The Lord has breathed over the earth, hardened with the mists and fogs of mental winter, and lo new forms of life are bursting on every side. The spiritual fig tree is putting forth her buds, so we may all know the summer is nigh. (Mark xiii. 28.)
+The dispensation foretold by so many prophecies, is now breaking forth from heaven into the world. The Lord has breathed over the earth, hardened with the mists and fogs of mental winter, and lo new forms of life are bursting on every side. The spiritual fig tree is putting forth her buds, so we may all know the summer is nigh. (Mark xiii. 28.)
 
 The Church that is to be, is described in prophecy as having these four distinguishing features.
 
@@ -3751,9 +3737,9 @@ The Church that is to be, is described in prophecy as having these four distingu
 
 4. The Church of justice and peace.
 
-There is a very full description of the Church of the last days in Isaiah ii. 1-5, and it is corroborated in so many other declarations, that it is truly surprising to find that such a body of divine testimony has been overlooked, and people have been led to suppose the material universe would be destroyed, while all these prophecies are confessedly unfulfilled. No one pretends that they ever have been fulfilled, and if the earth mere to be now destroyed of course, they never would be.
+There is a very full description of the Church of the last days in Isaiah ii. 1-5, and it is corroborated in so many other declarations, that it is truly surprising to find that such a body of divine testimony has been overlooked, and people have been led to suppose the material universe would be destroyed, while all these prophecies are confessedly unfulfilled. No one pretends that they ever have been fulfilled, and if the earth were to be now destroyed of course, they never would be.
 
-I. And it shall come to pass in the last days, says the prophet, the mountain of the Lords House shall be established in the top of the mountains, and shall be exalted above the hills, and all nations shall flow unto it.
+And it shall come to pass in the last days, says the prophet, the mountain of the Lords House shall be established in the top of the mountains, and shall be exalted above the hills, and all nations shall flow unto it.
 
 The House of Jehovah, is the Divine Humanity of Jehovah, the glorified body of the Lord Jesus. He spake of the temple of His body. (John n. 21.) The mountain of this house, is that celestial love of the Lord Jesus, which, when He is supremely regarded, rises above all other affections of the heart, and sanctifies and blesses them all. Jehovah in His humanity; God in Christ; Jesus the first and the last, would be center and head, the one God over all, in this dispensation of the last days.
 

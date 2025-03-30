@@ -2,6 +2,8 @@
 by Hugo Lj. Odhner 1968
 //include::../template-attributes.adoc[]
 
+//Tremendous! quantity of footnotes is posing a problem here
+
 Academy Publication Committee Bryn Athyn, Pennsylvania + 
 1968
 
@@ -10,7 +12,7 @@ Copyright 1968, THE ACADEMY OF THE NEW CHURCH
 1968 Printing, 1000 copies
 
 PRINTED By GEORGE H. BUCHANAN COMPANY
-
+////
 Author's Contents
 
 PART ONE: FROM EARTH TO HEAVEN
@@ -57,6 +59,7 @@ PART FOUR: THE LAST JUDGMENT
 30 The Effects of the Last Judgment 456
 
 Appendix ........................................ 469
+////
 
 Preface
 
@@ -119,6 +122,8 @@ Wis. - On the Divine Wisdom (posth.)
 Publication dates in parentheses.
 ----
 
+WARNING: Footnotes are not well integrated here yet.
+
 <<<
 
 == Part One: From Earth to Heaven
@@ -131,35 +136,28 @@ EMANUEL SWEDENBORG in his "Spiritual Experiences," no. 2809
 
 THE BELIEF IN IMMORTALITY
 
-History seems to testify that in all past ages there has been among men a belief in some kind of a life after death and in the existence of mighty, intelligent powers which operate unseen within, above or beyond the visible world. The ethnic religions of India, the Mohammedan faith, the old Babylonian, Egyptian and Graeco-Roman religions and many primitive cults, have or had their special eschatology or teachings about the after-life, although they differed widely, ranging from crude superstitions to elaborate philosophies. In many of these religions, there is a substratum of truth that may be traced to a common origin in the lost traditions of the Ancient Word,*1 but these remnants were overlaid with hideous falsities. And although ancient Israel knew virtually nothing of the life after death, beyond the vague idea that men, at death, were "gathered to their fathers" in some gloomy underworld, there grew up among the Jews, after the Captivity, sects like that of the Pharisees who developed sundry doctrines about a bodily resurrection of the dead and a final judgment.
+History seems to testify that in all past ages there has been among men a belief in some kind of a life after death and in the existence of mighty, intelligent powers which operate unseen within, above or beyond the visible world. The ethnic religions of India, the Mohammedan faith, the old Babylonian, Egyptian and Graeco-Roman religions and many primitive cults, have or had their special eschatology or teachings about the after-life, although they differed widely, ranging from crude superstitions to elaborate philosophies. In many of these religions, there is a substratum of truth that may be traced to a common origin in the lost traditions of the Ancient Word,(*1) but these remnants were overlaid with hideous falsities. And although ancient Israel knew virtually nothing of the life after death, beyond the vague idea that men, at death, were "gathered to their fathers" in some gloomy underworld, there grew up among the Jews, after the Captivity, sects like that of the Pharisees who developed sundry doctrines about a bodily resurrection of the dead and a final judgment.
 
 The early Christians, from the Lord's teachings, had certain definite concepts of the reality of a spiritual world, which acted as a corrective to the pagan ideas of their neighbors. But it is no exaggeration to say that the myths and philosophies of pagan Greece in time infiltrated into Christian thought. In the Dark Ages of Europe, men's minds were divided between fear of the unorthodox ghost world of popular belief, a residue of heathen tradition, and dread of the purgatory of priestly invention. This mixture of superstition, dogma and classical legend is later apparent in the poems of Dante and Milton, in the mystical writings of Boehme, and in Goethe's "Faust."
 
-*1. SS 102f, TCR 279, 11, AC 1068, 8944:2, De Ver. 36-38
+(*1.) SS 102f, TCR 279, 11, AC 1068, 8944:2, De Ver. 36-38
 
-The Catholic church indeed formulated a comprehensive structure of doctrine and tradition about the supernatural realm. According to this picture the unseen realm consists of a heaven, presided over by the three "persons" of the Godhead and peopled by a graded hierarchy of angels created before the world, and of rebellious devils who under their chief, Lucifer or Satan, hold their court in hell. As to the fate of men, the common idea has been that the spirits of the dead would be kept in an intermediate state, separated from their physical bodies, until the unknown "last day" on which the earth is to be destroyed or purged by fire; when they would again be reunited to their bodies, now glorified, to live a happy life to eternity if they are judged to be worthy. Catholic text-books often place this resurrection and judgment on the physical earth; and they defend the idea that the wicked will be condemned to suffer everlasting punishments in a hell of material fire, which they imagine to be located in the bowels of the earth.*2
+The Catholic church indeed formulated a comprehensive structure of doctrine and tradition about the supernatural realm. According to this picture the unseen realm consists of a heaven, presided over by the three "persons" of the Godhead and peopled by a graded hierarchy of angels created before the world, and of rebellious devils who under their chief, Lucifer or Satan, hold their court in hell. As to the fate of men, the common idea has been that the spirits of the dead would be kept in an intermediate state, separated from their physical bodies, until the unknown "last day" on which the earth is to be destroyed or purged by fire; when they would again be reunited to their bodies, now glorified, to live a happy life to eternity if they are judged to be worthy. Catholic text-books often place this resurrection and judgment on the physical earth; and they defend the idea that the wicked will be condemned to suffer everlasting punishments in a hell of material fire, which they imagine to be located in the bowels of the earth.(*2)
 
-*2. God and Creation, by Thomas B. Chetwood, S.J., 1928, pp. 250, 253, 259
+(*2.) God and Creation, by Thomas B. Chetwood, S.J., 1928, pp. 250, 253, 259
 
 Immediately after death, and before the judgment, Catholics believe, the departed spirits - if salvable - must undergo penance in the fires of purgatory for various sins for which they have not paid the debt. But those who pass out of life in actual mortal sin go down immediately into hell. Souls who have made satisfaction in purgatory or who have been released through the prayers of the faithful and the intercession of saints, are thereafter held in a state of happiness until they rejoin their bodies; and Catholic writers picture the joys of such spirits as those of companionship and pursuit of knowledge, although it would chiefly aspire to an ecstatic contemplation of God - a beatific vision.
 
 Protestants have no belief in any "purgatory," and their ideas of the after-life are more diverse and usually less dogmatic, and indeed often verge upon skepticism and denial. Some sects in the Protestant world deny that there is a permanent hell; and it is unusual at this day to hear clergymen preach about a personal Devil. In each generation, a few sects arise which insist that the Last Judgment is at hand to be followed by a heaven on earth. Spiritistic ideas have also had a wide influence. But the tendency is not to dwell on this phase of Christian doctrine, and many modern Protestants do not encourage any belief in another world - in angels or spirits, or in any resurrection, whether of spirits or of bodies. They feel rather that their mission is one of social and moral reform, and that the only heaven that can be reasonably expected will be right here on earth.
 
-But many of the erroneous ideas of Christendom stem directly from too literal an understanding of Scripture. So for instance, Ezekiel's vision of the valley of bones - where the Spirit of God caused the skeletons of the slain to revive and put on flesh - is supposed to picture a physical resurrection on the day of the last judgment; although it is clear from the context that it symbolized the restoration of the house of Israel to their land.*3 The sudden appearance of "many bodies of the saints" to people in the "holy city" after the Lord's resurrection*4 is also used to confirm the idea. Christian creeds ignore Paul's distinction between a spiritual body and a natural body*5 and fail to note that John in his prophetic vision of the last judgment specified that it was "the dead, small and great," who were to be arraigned before the throne of judgment.*6
-
-*3. Ezek. 37:11
-*4. Matt. 27:52
-*5. I Cor. 15:44
-*6. Rev. 20:12
+But many of the erroneous ideas of Christendom stem directly from too literal an understanding of Scripture. So for instance, Ezekiel's vision of the valley of bones - where the Spirit of God caused the skeletons of the slain to revive and put on flesh - is supposed to picture a physical resurrection on the day of the last judgment; although it is clear from the context that it symbolized the restoration of the house of Israel to their land.(Ezek. 37:11) The sudden appearance of "many bodies of the saints" to people in the "holy city" after the Lord's resurrection (Matt. 27:52) is also used to confirm the idea. Christian creeds ignore Paul's distinction between a spiritual body and a natural body (I Cor. 15:44) and fail to note that John in his prophetic vision of the last judgment specified that it was "the dead, small and great," who were to be arraigned before the throne of judgment. (Rev. 20:12)
 
 * * * * * * * * * *
 
 The fact is that men generally have no concept of what the soul is or what a spiritual world is, or what heaven and hell really mean. Even in ancient times we mark how people confused the two worlds.
 
-The men of the Golden Age of the celestial church indeed had open intercourse with the spiritual world, yet it is said that they only beheld it "in natural light"; which implies that they had no abstract thought, but saw spiritual things depicted in the symbolism of nature.*7
+The men of the Golden Age of the celestial church indeed had open intercourse with the spiritual world, yet it is said that they only beheld it "in natural light"; which implies that they had no abstract thought, but saw spiritual things depicted in the symbolism of nature.(Inv. 52)
 The ancients of later millennia also expressed all their perceptions of spiritual realities in correspondential natural language - picturing the after-life as an indefinite prolongation of natural existence. Gradually the idea of a transmigration of souls added to the confusion as it became widely spread among the nations. 
-
-*7 Inv. 52
 
 In the Christian Church no clear boundary line was drawn between the natural and the spiritual. The departed spirit was usually thought of as a purified natural body, or - in its intermediate state before the resurrection - as devoid of the human form, as a flame or breath in the atmospheres; and angels were imagined as at home in the stars. And while there have been philosophers who sought to show that the spirit of man is of a nature or substance widely differing from that of the physical body, there has not been - before the revelations to the New Church - any clear idea of a spiritual world.
 
@@ -173,39 +171,39 @@ Heaven and hell and life after death are scarcely at all known in the world and 
 
 * * * * * * * * * *
 
-The essential purpose of this new revelation of the spiritual world is that men might be enabled to think spiritually about the after-life. Actually, there is considerable information about the spiritual world to be gathered from the Word of the Old and New Testaments. We are given to understand that angels appeared frequently to the patriarchs; that Jacob saw the messengers (or angels) of God ascending and descending the ladder between earth and heaven;9 that Moses saw the pattern of the tabernacle in heaven;10 that the spirit of Samuel spoke with Saul through the witch of Endor;11 that Elisha's servant had his eyes opened to see the guardian hosts of spirits around the mountain where they stood;12 that the prophets experienced innumerable visions of spiritual judgments and angelic throngs; that Moses and Elijah - long dead - appeared with the Lord on the mount of transfiguration.13
-There is "a cloud of witnesses"! Angels appeared, as young men, to announce the Lord's birth and resurrection.14 In His parable of the rich man and Lazarus,15 the Lord pictures men's souls as almost immediately transported to places in "hades" or in heaven - which were separated by a great gulf.
+The essential purpose of this new revelation of the spiritual world is that men might be enabled to think spiritually about the after-life. Actually, there is considerable information about the spiritual world to be gathered from the Word of the Old and New Testaments. We are given to understand that angels appeared frequently to the patriarchs; that Jacob saw the messengers (or angels) of God ascending and descending the ladder between earth and heaven (Gen. 28) that Moses saw the pattern of the tabernacle in heaven; (Ex. 25:40) that the spirit of Samuel spoke with Saul through the witch of Endor; (1 Sam. 28) that Elisha's servant had his eyes opened to see the guardian hosts of spirits around the mountain where they stood; (2 Kings 6:15) that the prophets experienced innumerable visions of spiritual judgments and angelic throngs; that Moses and Elijah - long dead - appeared with the Lord on the mount of transfiguration. (Matt. 17)
+There is "a cloud of witnesses"! Angels appeared, as young men, to announce the Lord's birth and resurrection.(*14) In His parable of the rich man and Lazarus,(*15) the Lord pictures men's souls as almost immediately transported to places in "hades" or in heaven - which were separated by a great gulf.
 
-They are shown to be able to feel and speak as before. To the thief on the cross the Lord gave the assurance, "Today thou shalt be with Me in paradise."16 And John, "in spirit" and under the guidance of angels, was shown "the souls under the altar" and many wonders in heaven.17
-Besides which we read in the Acts and the Epistles of many instances in which the early Christians had visions of angels, and of Paul that he was lifted up into the "third heaven" and heard ineffable things; whether in the body or out of the body, he did not know;18 and of Christ that He, having died, "was quickened in spirit in which He also went and preached unto the spirits in prison."19 Paul also mentions that man has a "spiritual" body distinct from his natural body.20
-9. Gen. 28
-10. Ex. 25:40
-11. 1 Sam. 28
+They are shown to be able to feel and speak as before. To the thief on the cross the Lord gave the assurance, "Today thou shalt be with Me in paradise."(*16) And John, "in spirit" and under the guidance of angels, was shown "the souls under the altar" and many wonders in heaven.(*17)
+Besides which we read in the Acts and the Epistles of many instances in which the early Christians had visions of angels, and of Paul that he was lifted up into the "third heaven" and heard ineffable things; whether in the body or out of the body, he did not know;(*18) and of Christ that He, having died, "was quickened in spirit in which He also went and preached unto the spirits in prison."(*19) Paul also mentions that man has a "spiritual" body distinct from his natural body.(*20)
 
-12. 2 Kings 6:15
-13. Matt. 17
-14. Luke 24:4. In the Holy Scripture, angels are consistently represented as men - without the wings with which tradition has adorned them. Angels are not to be confounded with the "cherubim" and "seraphim" which were symbolic forms, often described as composite animals. Some had "wheels within wheels" and eyes in the wheels, to betoken the protective power and complexity of Divine Providence. (Gen. 3:24, Ezek. 10, Rev. 4:6, AC 308, 4162:2, 9506, AR 48:4)
-15. Luke 16:19
-16. Luke 23:43
+(*14). Luke 24:4. In the Holy Scripture, angels are consistently represented as men - without the wings with which tradition has adorned them. Angels are not to be confounded with the "cherubim" and "seraphim" which were symbolic forms, often described as composite animals. Some had "wheels within wheels" and eyes in the wheels, to betoken the protective power and complexity of Divine Providence. (Gen. 3:24, Ezek. 10, Rev. 4:6, AC 308, 4162:2, 9506, AR 48:4)
+(*15.) Luke 16:19
+(*16.) Luke 23:43
 
-17. Rev. 6:9
-18. 2 Cor. 12:2
-19. I Peter 3:19
-20. 1 Cor. 15
+(*17.) Rev. 6:9
+(*18.) 2 Cor. 12:2
+(*19.) I Peter 3:19
+(*20.) 1 Cor. 15
 
-The Lord assured us that there are "many mansions" in His Father's house and that He was going ahead to prepare room there for His faithful. "If it were not so," He added, "I would have told you." He intimated that He had many more things to tell His disciples. But He said, "Ye cannot bear them now."21 Certainly He speaks of a judgment to come, and of a heaven and a hell - both equally permanent. 2l. John 14:2, 16:12, Matt. 25:19, Luke 16:19
+The Lord assured us that there are "many mansions" in His Father's house and that He was going ahead to prepare room there for His faithful. "If it were not so," He added, "I would have told you." He intimated that He had many more things to tell His disciples. But He said, "Ye cannot bear them now."(*21) Certainly He speaks of a judgment to come, and of a heaven and a hell - both equally permanent.
 
-All the teachings of Scripture are however couched in parables - in the language of earthly similes, symbols, and correspondences. Aside from glimpses of interior doctrine, as when the Lord said that the kingdom of God "is within you,"22 it is only the external phases of the spiritual world that are revealed in the Biblical Scriptures - the appearances and representatives of the other world. It may thus be inferred that the literal sense of the Word portrays many external aspects of the spiritual world.23
-22. Luke 17:21, cp. John 16:25
-23. AC 6048
+(*21.) John 14:2, 16:12, Matt. 25:19, Luke 16:19
+
+All the teachings of Scripture are however couched in parables - in the language of earthly similes, symbols, and correspondences. Aside from glimpses of interior doctrine, as when the Lord said that the kingdom of God "is within you,"(*22) it is only the external phases of the spiritual world that are revealed in the Biblical Scriptures - the appearances and representatives of the other world. It may thus be inferred that the literal sense of the Word portrays many external aspects of the spiritual world.(*23)
+
+(*22.) Luke 17:21, cp. John 16:25
+(*23.) AC 6048
 
 It is apparent that the early Israelites had certain obscure concepts about an invisible underworld, or Sheol, where the dead dolefully relived their memories as shades of their former selves;
 
-and later of an unseen realm (loosely identified with the sky) in which the "sons of God," and among them "the Satan," sometimes gathered in council, and from which they were sent down to influence men's lives.24
-24. Job 1, 2, Dan. 10, 12. See "The Cosmology of the Bible", in The New Philosophy, April 1956; and a recent study by C. Ryder Smith, The Bible Doctrine of the Hereafter, Epworth Press, London, 1958.
+and later of an unseen realm (loosely identified with the sky) in which the "sons of God," and among them "the Satan," sometimes gathered in council, and from which they were sent down to influence men's lives.(*24)
 
-The Writings of Swedenborg show that the Jewish people had little knowledge of the spiritual world, nor any clear assurance that they would live after death.25 This was of Providence, lest they profane the truth. Yet various pagan ideas of the after-life influenced the Jews, and at the time of the Lord the Pharisees taught about a resurrection of the body at a coming "last day."
-25. AC 10490:2, 6963:2, 3479, 4289:2
+(*24.) Job 1, 2, Dan. 10, 12. See "The Cosmology of the Bible", in The New Philosophy, April 1956; and a recent study by C. Ryder Smith, The Bible Doctrine of the Hereafter, Epworth Press, London, 1958.
+
+The Writings of Swedenborg show that the Jewish people had little knowledge of the spiritual world, nor any clear assurance that they would live after death.(*25) This was of Providence, lest they profane the truth. Yet various pagan ideas of the after-life influenced the Jews, and at the time of the Lord the Pharisees taught about a resurrection of the body at a coming "last day."
+
+(*25.) AC 10490:2, 6963:2, 3479, 4289:2
 
 The prophets of Israel indeed saw visions and dreamt dreams, but had no understanding of the spiritual meaning of what they experienced or of what they recorded under the constraint of Divine inspiration. Their testimony of their spiritual experiences therefore remained in the field of symbols rather than open truths, and sometimes it appears confusing, incomplete, inconsistent, and far from conclusive. Similarly the New Testament only gives assurance that there is a spiritual world but tells nothing definite about its nature.
 
@@ -215,11 +213,16 @@ When, at the end of the Christian Church, it was necessary for the Lord to resto
 
 One of the facts we must accept before understanding the testimony of Emanuel Swedenborg is that every human being is from creation equipped to have commerce with spirits.
 
-This is announced in the beginning of the Arcana Coelestia.26 The human mind is a spirit dwelling in and operating through the physical body, and this spirit is unconsciously environed by other spirits - those living in the spiritual world. Man's spirit possesses all the senses which departed spirits have, and if mankind on this earth had not fallen into a sensual and corrupt state and so been separated from heaven, men generally would still enjoy the faculty of conversing with angels,27 as is the case on many other planets. At the present day this is rarely granted, because it is exceedingly dangerous,27a except in certain cases, as with some who lead a solitary life or who brood on religious subjects and may occasionally be briefly addressed by spirits. Such exceptional experiences are disorderly, but not of much harm unless encouraged or unless men become habitual visionaries or place reliance in these spirits who are invariably of a corporeal and stupid sort.28
-26. AC 69
-27. HH 252f 27a. The danger of seeking open intercourse with spirits is discussed in Spirits and Men, Academy Book Room, Bryn Athyn, Pa., 1958, pp 20-41. 28. HH 249, 253
+This is announced in the beginning of the Arcana Coelestia.(*26) The human mind is a spirit dwelling in and operating through the physical body, and this spirit is unconsciously environed by other spirits - those living in the spiritual world. Man's spirit possesses all the senses which departed spirits have, and if mankind on this earth had not fallen into a sensual and corrupt state and so been separated from heaven, men generally would still enjoy the faculty of conversing with angels,(*27) as is the case on many other planets. At the present day this is rarely granted, because it is exceedingly dangerous,(*27)a except in certain cases, as with some who lead a solitary life or who brood on religious subjects and may occasionally be briefly addressed by spirits. Such exceptional experiences are disorderly, but not of much harm unless encouraged or unless men become habitual visionaries or place reliance in these spirits who are invariably of a corporeal and stupid sort.(*28)
 
-Spirits who speak to men by the Lord's permission - and this has been granted to many for ages back - say only a few words and do not attempt to instruct men.29 In fact they are mostly of the man's own religion, and can only confirm his opinions. That there are instances still of spirits addressing men and appearing before their mental senses is supported by too great a body of evidence to be doubted. But claims involving such personal experiences are difficult to judge of singly, since they may only be - and most commonly are - "the delusions of an abstracted mind," or akin to what the Writings call "phantastic visions"; to which must be added the hallucinations that attend those who suffer from mental diseases. That all these are caused by spirits is of course obvious, since even dreams are the results of the influx of spirits at times when man is not in active control of his memory. But spirits cannot operate in nature without the intermediation of natural organisms. Nowhere in the Writings do we find any real indication that a concentration of thought or mental effort can move physical objects by "telekinesis" or action at a distance. 29. DP 135
+(*26.) AC 69
+(*27.) HH 252f 27a. The danger of seeking open intercourse with spirits is discussed in Spirits and Men, Academy Book Room, Bryn Athyn, Pa., 1958, pp 20-41. 
+
+(*28.) HH 249, 253
+
+Spirits who speak to men by the Lord's permission - and this has been granted to many for ages back - say only a few words and do not attempt to instruct men.(*29) In fact they are mostly of the man's own religion, and can only confirm his opinions. That there are instances still of spirits addressing men and appearing before their mental senses is supported by too great a body of evidence to be doubted. But claims involving such personal experiences are difficult to judge of singly, since they may only be - and most commonly are - "the delusions of an abstracted mind," or akin to what the Writings call "phantastic visions"; to which must be added the hallucinations that attend those who suffer from mental diseases. That all these are caused by spirits is of course obvious, since even dreams are the results of the influx of spirits at times when man is not in active control of his memory. But spirits cannot operate in nature without the intermediation of natural organisms. Nowhere in the Writings do we find any real indication that a concentration of thought or mental effort can move physical objects by "telekinesis" or action at a distance.
+
+(*29.) DP 135
 
 On the other hand, the records of societies devoted to so- called "psychical research" contain much testimony about unexplained cases of apparitions and alleged conversations (through "mediums") with the dead, as well as other abnormal occurrences. Wherever professional "mediums" are involved, the suspicion lingers that the phenomena are produced by connivance or skill rather than by spirits, especially as the Writings do not grant to spirits the powers either of "materializing" or of foreseeing the future, or of instructing men about the other life. Where the latter occurs, the information the supposed "spirit" gives is usually vague and confused or contradictory; but occasional descriptions are given which resemble the truth, but then always in cases where the medium or the interlocutor has had some direct or indirect knowledge of the testimony of Swedenborg, as in the famous instance of Sir Oliver Lodge. We may of course take it as quite possible that in an induced state of hypnosis the subconscious memory can become vocal. It is also worth noting that some men of science who have interested themselves objectively in this "psychical research" have not thereby been led to confirm a belief in a spiritual world, or a permanent survival of man's spirit in a heaven or a hell, but rather theorize that man's mental elements at death may take a long time to dissipate and in the meantime may leave active impressions upon living men's minds.
 
@@ -231,129 +234,164 @@ Swedenborg had no desire of his own to enter into intercourse with spirits or to
 
 When he was called by the Lord he had as yet little realization of what he was required to do or what lay ahead of him.
 
-His introduction into the spiritual world was gradual.30 There came first a period during which he experienced remarkable dreams in which he recognized symbolic references to the studies he was then making in physiology. At times he enjoyed states of extraordinary clarity of mind while writing, and confirmatory lights. Later he began to perceive the presence of spirits as if they affected his bodily senses, and this was sometimes accompanied by moods of temptation, despair, and horror, as when evil spirits attempted to obsess him when he wrote what was contrary to their pleasure. Sometimes, as he awakened in the morning, he would hear voices. And finally, one evening, a certain spirit addressed him in a few words on the subject that he was then thinking about. This was accompanied with a vision of the spirit, which frightened Swedenborg. He was also amazed and indignant that the spirit could thus read his thoughts; and the spirit was equally amazed at Swedenborg's surprise, since thought is spiritual speech. Yet "after some days," the new relationship with spirits in wakefulness became habitual and familiar to Swedenborg.31
-30. SD 2951
-31. SD 2951, 4726, 4390, AC 6214, 5855. Journal of Dreams 242.
+His introduction into the spiritual world was gradual.(*30) There came first a period during which he experienced remarkable dreams in which he recognized symbolic references to the studies he was then making in physiology. At times he enjoyed states of extraordinary clarity of mind while writing, and confirmatory lights. Later he began to perceive the presence of spirits as if they affected his bodily senses, and this was sometimes accompanied by moods of temptation, despair, and horror, as when evil spirits attempted to obsess him when he wrote what was contrary to their pleasure. Sometimes, as he awakened in the morning, he would hear voices. And finally, one evening, a certain spirit addressed him in a few words on the subject that he was then thinking about. This was accompanied with a vision of the spirit, which frightened Swedenborg. He was also amazed and indignant that the spirit could thus read his thoughts; and the spirit was equally amazed at Swedenborg's surprise, since thought is spiritual speech. Yet "after some days," the new relationship with spirits in wakefulness became habitual and familiar to Swedenborg.(*31)
 
-It was less than a year later that Swedenborg received his final solemn appointment to his spiritual mission by the Lord, who appeared to him in the middle of April, 1745. From that time, he describes himself as having conversed almost daily with the inhabitants of heaven (i.e., with departed spirits) while at the same time being among his friends on earth. And he writes: "In a certain manner I have been intromitted into heaven itself, not merely as to the mind, but also with the whole body as it were or with the sense in the body, and that, too, when I was fully awake."32 He was suffused with a humble gratitude, for he experienced states of ineffable happiness.33 He speaks of himself as having joined speech with spirits "as though he were himself become a spirit."34 He was present among them as to every sense, even touch.
+(*30.) SD 2951 + 
+(*31.) SD 2951, 4726, 4390, AC 6214, 5855. Journal of Dreams 242.
 
-But so inexplicable did this intercourse seem that even after many months he felt that he could not state the fact as absolute truth.35
-32. WE 1003, 475
-33. WE 541e 34. Hist. Crea. 24
-35. WE 475e
+It was less than a year later that Swedenborg received his final solemn appointment to his spiritual mission by the Lord, who appeared to him in the middle of April, 1745. From that time, he describes himself as having conversed almost daily with the inhabitants of heaven (i.e., with departed spirits) while at the same time being among his friends on earth. And he writes: "In a certain manner I have been intromitted into heaven itself, not merely as to the mind, but also with the whole body as it were or with the sense in the body, and that, too, when I was fully awake."(*32) He was suffused with a humble gratitude, for he experienced states of ineffable happiness.(*33) He speaks of himself as having joined speech with spirits "as though he were himself become a spirit."(*34) He was present among them as to every sense, even touch.
 
-Indeed, he learnt that he had to be very cautious. In order that he might understand the various relationships existing between the two worlds, he had to be introduced into a great variety of states. He came among spirits who loved to impersonate the Biblical patriarchs; he was led into both representative visions and illusory visions; he experienced visions like those of the ancient prophets, and even various forms of inspiration, such as that of the prophets when they wrote the Word. And sometimes spirits compelled him to write from them by oral dictation, at times automatically or unwittingly, so that he adds, "I abhor writing these things"!36 And all this so that he might learn to discriminate between the myriad varieties of spiritual influxes which focused upon him, and to learn their sources, good or evil. 36. WE 1711-1712
+But so inexplicable did this intercourse seem that even after many months he felt that he could not state the fact as absolute truth.(*35)
 
-It would not have served the Divine purpose for Swedenborg to act as a mere medium for spirit-dictation, or to write like the prophets without understanding the contents. In several instances, this is exactly what happened, in order to show how the Scriptures had been inspired in the past: but "the papers which were so written were deleted" or obliterated.37
-37. WE 4477, 7006, 1892
+(*32.) WE 1003, 475 + 
+(*33.) WE 541e + 
+(*34.) Hist. Crea. 24 + 
+(*35.) WE 475e
 
-During the many varied states which were superinduced upon Swedenborg, his own poise of mind, his own power to reflect on his experiences, were maintained. So, for instance, when he was - for the sake of our instruction - brought into the state of those who die and are raised into the other life, he was throughout always aware what went on, so as to be able to relate it in detail.38 Sometimes also he was "obsessed" by spirits who then acted as it were through him; but all the while he was granted to be fully aware of their actions and never gave up his own rational judgment.39 In other words, he was allowed to study the manner in which spirits operate upon man. 38. SD 1092-1109, AC 168ff, HH 448ff 39. WE 4477, SD 3963
+Indeed, he learnt that he had to be very cautious. In order that he might understand the various relationships existing between the two worlds, he had to be introduced into a great variety of states. He came among spirits who loved to impersonate the Biblical patriarchs; he was led into both representative visions and illusory visions; he experienced visions like those of the ancient prophets, and even various forms of inspiration, such as that of the prophets when they wrote the Word. And sometimes spirits compelled him to write from them by oral dictation, at times automatically or unwittingly, so that he adds, "I abhor writing these things"!(*36) And all this so that he might learn to discriminate between the myriad varieties of spiritual influxes which focused upon him, and to learn their sources, good or evil.
 
-Although, for more than twenty-six years, he conversed with spiritual beings and traversed both the heavens and the hells, he was never taught by spirits or angels, but by the Lord alone, who gave him a perceptive enlightenment to see clearly what came from the Lord and what from angels. "What has come from the Lord has been written," he testified, "and what has come from the angels has not."40 The enlightenment was an influx or dictation interiorly into his thoughts.41 And it took place especially "while reading the Word."42
-Even when he was in appearance seeking information from good or evil spirits or by the many representations of the spiritual world, he was being taught from the mouth of the Lord alone.43 He was introduced into the spiritual world, he states, that he "might imbibe immediately in light from the Lord the truths of faith by means of which man is led to eternal life."44
-40. AE 1183, AR preface, DP 135
-41. WE 7006
-42. TCR 779e 43. SD 4034, 1647
-44. Inv. vii, 55, Coro. Mir. iv
+(*36.) WE 1711-1712
 
-If we are to study Swedenborg's testimony as to the spiritual world, it is of course important to understand the unique state in which he was able to explore that world as no other man had. For although - for the sake of preparation and instruction - he was permitted to pass through many experimental states, and among these also to experience "visions" such as those of the prophets, he affirms solemnly that the things which he had seen habitually in the other life for so many years and described, were in no wise visions "but things seen in the highest wakefulness of the body."45
-45. AC 1885, CLJ 35, TCR 157, HH 442
+It would not have served the Divine purpose for Swedenborg to act as a mere medium for spirit-dictation, or to write like the prophets without understanding the contents. In several instances, this is exactly what happened, in order to show how the Scriptures had been inspired in the past: but "the papers which were so written were deleted" or obliterated.(*37)
+
+(*37.) WE 4477, 7006, 1892
+
+During the many varied states which were superinduced upon Swedenborg, his own poise of mind, his own power to reflect on his experiences, were maintained. So, for instance, when he was - for the sake of our instruction - brought into the state of those who die and are raised into the other life, he was throughout always aware what went on, so as to be able to relate it in detail.(*38) Sometimes also he was "obsessed" by spirits who then acted as it were through him; but all the while he was granted to be fully aware of their actions and never gave up his own rational judgment.(*39) In other words, he was allowed to study the manner in which spirits operate upon man.
+
+(*38.) SD 1092-1109, AC 168ff, HH 448ff + 
+(*39.) WE 4477, SD 3963
+
+Although, for more than twenty-six years, he conversed with spiritual beings and traversed both the heavens and the hells, he was never taught by spirits or angels, but by the Lord alone, who gave him a perceptive enlightenment to see clearly what came from the Lord and what from angels. "What has come from the Lord has been written," he testified, "and what has come from the angels has not."(*40) The enlightenment was an influx or dictation interiorly into his thoughts.(*41) And it took place especially "while reading the Word."(*42)
+Even when he was in appearance seeking information from good or evil spirits or by the many representations of the spiritual world, he was being taught from the mouth of the Lord alone.(*43) He was introduced into the spiritual world, he states, that he "might imbibe immediately in light from the Lord the truths of faith by means of which man is led to eternal life."(*44)
+
+(*40.) AE 1183, AR preface, DP 135 + 
+(*41.) WE 7006 + 
+(*42.) TCR 779e + 
+(*43.) SD 4034, 1647 + 
+(*44.) Inv. vii, 55, Coro. Mir. iv
+
+If we are to study Swedenborg's testimony as to the spiritual world, it is of course important to understand the unique state in which he was able to explore that world as no other man had. For although - for the sake of preparation and instruction - he was permitted to pass through many experimental states, and among these also to experience "visions" such as those of the prophets, he affirms solemnly that the things which he had seen habitually in the other life for so many years and described, were in no wise visions "but things seen in the highest wakefulness of the body."(*45)
+
+(*45.) AC 1885, CLJ 35, TCR 157, HH 442
 
 "Visions," such as those of the prophets of Israel, in which they saw symbolic beasts or angelic hosts or thrones of judgments, etc., were not possible while they were in bodily wakefulness. They occurred when the minds of the prophets were in a hypnotic or somnambulistic state. In such states the spiritual senses can be fully awakened into exquisite perceptivity, and the spirit as it were be withdrawn from the body, as was the case with the prophets when their interior sight was opened by the Lord. When the interior sight is thus opened, "the things which have actual existence" in the other life can be seen, "not merely representatives but also the spirits themselves."
 
-And a true perception of who the spirits are and what they are like may then also be given - depending on the prophet's state.46
-46. DP 134a, AC 46
+And a true perception of who the spirits are and what they are like may then also be given - depending on the prophet's state.(*46)
 
-But Swedenborg makes clear that he did not see spiritual things simply in "vision." Occasionally he did experience visions, but only that he might know their nature.47 But it was his unique and apparently unprecedented privilege to be intromitted into the other world not merely as to the mind or spirit while the body was asleep, but as it were with the whole body, in full wakefulness. The reason for this might be that only when the body is awake can a man-still living on earth-retain his full freedom and exercise his human responsibility and judgment. 47. AC 1882-1885, HH 440-442
+(*46.) DP 134a, AC 46
 
-It is of course utterly impossible for the physical body to enter into the spiritual world! But Swedenborg explains: "The Lord has so united my spirit to my body, that I am in both at the same time."48 "To me it is granted to be in both spiritual and natural light at the same time. By this means it has been granted me to see the marvels of heaven, to be together with angels like one of them, and at the same time to draw forth truths in light, and thus to perceive and teach them; consequently to be led by the Lord."49 He declined to have this called a miracle. For "every man is in the spiritual world as to his spirit, without separation from his body in the natural world; I however, with a certain separation, though only as to the intellectual part of my mind, but not as to the voluntary."50
-48. AR 484e 49. Inv. 52
-50. Coro. Mir. v
+But Swedenborg makes clear that he did not see spiritual things simply in "vision." Occasionally he did experience visions, but only that he might know their nature.(*47) But it was his unique and apparently unprecedented privilege to be intromitted into the other world not merely as to the mind or spirit while the body was asleep, but as it were with the whole body, in full wakefulness. The reason for this might be that only when the body is awake can a man-still living on earth-retain his full freedom and exercise his human responsibility and judgment.
 
-Swedenborg was thus led through the realms of the other world, not by spirits but by the Lord, and not (as the prophets) by compulsion but by his own choice and with free exercise of his reason. His voluntary part was equally active while among men and spirits. His own free life as an inhabitant of earth was not given up. It is remarkable that he had lived consciously among spiritual beings constantly for at least fifteen years, had written down his experiences meanwhile in his private journal, and had published anonymously the Arcana and five other books, before it became known to his friends, among whom he moved as before, that he was in society with spirits.51
+(*47.) AC 1882-1885, HH 440-442
 
-51. SD 722
+It is of course utterly impossible for the physical body to enter into the spiritual world! But Swedenborg explains: "The Lord has so united my spirit to my body, that I am in both at the same time."(*48) "To me it is granted to be in both spiritual and natural light at the same time. By this means it has been granted me to see the marvels of heaven, to be together with angels like one of them, and at the same time to draw forth truths in light, and thus to perceive and teach them; consequently to be led by the Lord."(*49) He declined to have this called a miracle. For "every man is in the spiritual world as to his spirit, without separation from his body in the natural world; I however, with a certain separation, though only as to the intellectual part of my mind, but not as to the voluntary."(*50)
 
-But as to his understanding, his spirit could as it were be separated from the body and its sensations and be elevated to various levels of spiritual light. His thought shifted between different degrees of clarity. He complains that once in a while when he had to attend to worldly affairs such as money matters, the spirits seemed absent from him, and could not address him.52 But by the same token, by virtue of a certain separation of the understanding from bodily things, he could roam through the most distant parts of the spiritual world, and accordingly appear before spirits from other earths: which all took place by changes of state in his understanding.53 He could journey in spirit among the celestials or visit the hells without fear. 52. SD 185, 304, 1166
-53. EU 125, 127
+(*48.) AR 484e + 
+(*49.) Inv. 52 + 
+(*50.) Coro. Mir. v
 
-Yet the states of the understanding are, with man, tied up with the states of his bodily lungs and their breathing. The unique mission of Swedenborg required an ability to breathe by what he describes as a "tacit" or internal respiration, which was an aid to intense speculation about truths. From childhood, he had often fallen into such states when the breathing was almost withdrawn; and this type of respiration-during which sensations from the physical body could not disrupt the thought-became renewed when heaven was opened to him.54
-When Swedenborg was introduced into a state like that of the angels, his bodily respiration became tacit and the respiration of his spirit was made harmonious with that of the angels.55
-54. SD 3464
-55. Wis. vii. 3
+Swedenborg was thus led through the realms of the other world, not by spirits but by the Lord, and not (as the prophets) by compulsion but by his own choice and with free exercise of his reason. His voluntary part was equally active while among men and spirits. His own free life as an inhabitant of earth was not given up. It is remarkable that he had lived consciously among spiritual beings constantly for at least fifteen years, had written down his experiences meanwhile in his private journal, and had published anonymously the Arcana and five other books, before it became known to his friends, among whom he moved as before, that he was in society with spirits.(*51)
 
-It must be observed that Swedenborg had two kinds of intercourse with spirits. "I have talked," he writes, "with spirits as a spirit, and I have talked with them as a man in the body. And when I talked with them as a spirit, they knew no otherwise than that I myself was a spirit, in a human form as they were. Thus it was my interiors that appeared before them, for when talking with them as a spirit my material body was not seen."56
+(*51.) SD 722
 
-On the other hand, when spirits conversed with him as a man (and that was a unique experience not possible with other men) they saw him as he himself knew himself to appear in the world, and talked to him in his own languages and even saw objects and events as they were occurring in the outer world and were imaged in his sensory; and indeed, it appears, they saw things there which Swedenborg himself did not notice!57
-56. HH 436
-57. SD 2843, 2247, 3963, AC 1880
+But as to his understanding, his spirit could as it were be separated from the body and its sensations and be elevated to various levels of spiritual light. His thought shifted between different degrees of clarity. He complains that once in a while when he had to attend to worldly affairs such as money matters, the spirits seemed absent from him, and could not address him.(*52) But by the same token, by virtue of a certain separation of the understanding from bodily things, he could roam through the most distant parts of the spiritual world, and accordingly appear before spirits from other earths: which all took place by changes of state in his understanding.(*53) He could journey in spirit among the celestials or visit the hells without fear.
+
+(*52.) SD 185, 304, 1166 + 
+(*53.) EU 125, 127
+
+Yet the states of the understanding are, with man, tied up with the states of his bodily lungs and their breathing. The unique mission of Swedenborg required an ability to breathe by what he describes as a "tacit" or internal respiration, which was an aid to intense speculation about truths. From childhood, he had often fallen into such states when the breathing was almost withdrawn; and this type of respiration-during which sensations from the physical body could not disrupt the thought-became renewed when heaven was opened to him.(*54)
+When Swedenborg was introduced into a state like that of the angels, his bodily respiration became tacit and the respiration of his spirit was made harmonious with that of the angels.(*55)
+
+(*54.) SD 3464 + 
+(*55.) Wis. vii. 3
+
+It must be observed that Swedenborg had two kinds of intercourse with spirits. "I have talked," he writes, "with spirits as a spirit, and I have talked with them as a man in the body. And when I talked with them as a spirit, they knew no otherwise than that I myself was a spirit, in a human form as they were. Thus it was my interiors that appeared before them, for when talking with them as a spirit my material body was not seen."(*56)
+
+(*56.) HH 436
+
+On the other hand, when spirits conversed with him as a man (and that was a unique experience not possible with other men) they saw him as he himself knew himself to appear in the world, and talked to him in his own languages and even saw objects and events as they were occurring in the outer world and were imaged in his sensory; and indeed, it appears, they saw things there which Swedenborg himself did not notice!(*57)
+
+(*57.) SD 2843, 2247, 3963, AC 1880
 
 SWEDENBORG'S GRADUAL INFORMATION
 
 Swedenborg was gradually introduced into full wakeful consciousness of the spiritual world. The Divine purpose in thus allowing a man living on earth to perceive the things of the other life was that this man might explore the world of spirits, the heavens and the hells, come to know and understand what he found there, to witness the Last judgment, and testify before men concerning the order and life and faith of the heavens and concerning the states of spirits outside of heaven.
 
-Swedenborg was chosen for this exploration of the spirit-world partly on account of his love of truth and his experience in natural research.58 It was necessary that he should approach his task objectively-discarding the preconceptions of his contemporaries. He had to gather his material patiently, and record with fidelity what he saw and heard and felt even when he did not understand it fully or at once. That he did not always understand the reasons or causes which lay behind the phenomena which he describes in the first years of his sojourn among spirits and angels, is clear from the early entries in his Diary where he frequently uses the expressions, "I do not yet know," or "I do not know."59 Rather than jumping to quick conclusions he suspended his judgment in the manner of a mature student. And when the explanation came, he notes it with the phrase, "It was granted me to know . . . ." or "granted me to perceive. . . ."
-58. TCR 850, ISB 20, Docu. 246
-59. SD. 281, 278, 637e, 1011, 1005, 1042, etc.
+Swedenborg was chosen for this exploration of the spirit-world partly on account of his love of truth and his experience in natural research.(*58) It was necessary that he should approach his task objectively-discarding the preconceptions of his contemporaries. He had to gather his material patiently, and record with fidelity what he saw and heard and felt even when he did not understand it fully or at once. That he did not always understand the reasons or causes which lay behind the phenomena which he describes in the first years of his sojourn among spirits and angels, is clear from the early entries in his Diary where he frequently uses the expressions, "I do not yet know," or "I do not know."(*59) Rather than jumping to quick conclusions he suspended his judgment in the manner of a mature student. And when the explanation came, he notes it with the phrase, "It was granted me to know . . . ." or "granted me to perceive. . . ."
+
+(*58.) TCR 850, ISB 20, Docu. 246
+(*59.) SD. 281, 278, 637e, 1011, 1005, 1042, etc.
 
 Even spiritual experiences require time! He could not at once enter into the inmost heavens. In the first few years after his call, the spirits with whom he openly associated were largely "spirits such as are with man," or spirits recently deceased. There were many mixed strata of spirits in the unjudged spirit-world! These ranged in quality from very good to very bad. But owing to the state of the world of spirits at that time, most of them were very corporeal and in gross hallucinations, thinking that there was no after-life but that they were still in the material body. Since spirits are unable to use their own corporeal memory they usually did not know who they had been on earth; but they entered into agreeable parts of Swedenborg's memory-field so fully that at the time they believed themselves to be he, and thought that they were doing and writing and experiencing the things which he did and sensed in the natural world. Such spirits could not remain long with Swedenborg, for he often undertook to show them that they were not men. They spoke with Swedenborg in his own language, taking on the forms of his natural memory which they then felt as their own.
 
 Spirits of this type helped to acquaint Swedenborg with the relationship of spirits to men-a communion, of which, under ordinary circumstances, both men and spirits are entirely unconscious. He thus learned how closely men and spirits depended on each other: how spirits had their ultimates of order in the "material ideas" or gross sensual concepts of men; how the thought of each spirit rested (or was terminated) in particular groups of preferred objects in a man's memory, in ideas of certain places and foods, garments and books, etc., to which the spirit had, by suggestion or correspondence, attached some pleasant meaning or association of ideas in which he felt satisfied or at home because they recalled the delights of his love. On the other hand, Swedenborg's experience showed that every mood or mental state of a man was dependent on the spirits who attended him, although the man was still free to divert his mind by deliberately turning his attention elsewhere and thus change these unseen mediations by which the influx of life was modulated and attuned for his reception.
 
 Swedenborg's situation would be misrepresented if we gave the impression that his early contacts were confined to the sphere of these external spirits. For he was at the same time given glimpses into the world of spirits itself-not only seeing representations of heavenly character and meeting groups of harmonious spirits in concourse with each other, but also coming to realize how vastly the spirits differed in type and contrasting character. He also made another discovery:
-"From experience," he wrote, "I have at length been taught that the spirits who speak with me are the subjects or, as it were, the concentrations, of many spirits; because all spirits, even the evil, are distinguished into their genera and species."60 He found that the speech and thought of interior spirits could not reach him without some such "subject- spirit" or ambassador through whom they spoke and acted. When these spirits spoke among themselves in their spiritual language of ideas, they could indeed affect Swedenborg with gladness or melancholy or other emotional tone, but he could not hear or understand what they said.61
-60. SD 405
-61. SD 3631ff, 5778
+"From experience," he wrote, "I have at length been taught that the spirits who speak with me are the subjects or, as it were, the concentrations, of many spirits; because all spirits, even the evil, are distinguished into their genera and species."(*60) He found that the speech and thought of interior spirits could not reach him without some such "subject- spirit" or ambassador through whom they spoke and acted. When these spirits spoke among themselves in their spiritual language of ideas, they could indeed affect Swedenborg with gladness or melancholy or other emotional tone, but he could not hear or understand what they said.(*61)
 
-That Swedenborg was raised interiorly into the light of heaven by degrees or stages, he himself testifies; and he adds: "As I was raised up my understanding was enlightened even so far that I perceived what I had not perceived before, and finally such things as I could in no wise comprehend by thought from natural light. Sometimes I was indignant that they were not comprehended when yet they are so clearly and plainly perceived in heavenly light."62 At first he complains, "What spirits [in the world of spirits] did in particular, that I could feel, could hear and thus distinctly perceive; but not what occurred in heaven, except so far as they operate in common."63 "Those things which I have seen in the world of spirits I have seen in clear light, but those in the heaven of spirits I have seen more obscurely, and still more obscurely those in the heaven of angels, for the sight of my spirit has rarely been opened to me so far. But by a certain perception, which is such that it cannot be described, it is given to know what they have said-often through intermediate spirits.
+(*60.) SD 405 + 
+(*61.) SD 3631ff, 5778
 
-The things which are there have sometimes appeared in the shade of the light of heaven, which shade is not like the shade of worldly light, for it is light growing thin and faint from its incomprehensibility, equally before the understanding and before the sight."64
-62. HH 130
-63. SD 1611
-64. AC 1972
+That Swedenborg was raised interiorly into the light of heaven by degrees or stages, he himself testifies; and he adds: "As I was raised up my understanding was enlightened even so far that I perceived what I had not perceived before, and finally such things as I could in no wise comprehend by thought from natural light. Sometimes I was indignant that they were not comprehended when yet they are so clearly and plainly perceived in heavenly light."(*62) At first he complains, "What spirits [in the world of spirits] did in particular, that I could feel, could hear and thus distinctly perceive; but not what occurred in heaven, except so far as they operate in common."(*63) "Those things which I have seen in the world of spirits I have seen in clear light, but those in the heaven of spirits I have seen more obscurely, and still more obscurely those in the heaven of angels, for the sight of my spirit has rarely been opened to me so far. But by a certain perception, which is such that it cannot be described, it is given to know what they have said-often through intermediate spirits.
+
+The things which are there have sometimes appeared in the shade of the light of heaven, which shade is not like the shade of worldly light, for it is light growing thin and faint from its incomprehensibility, equally before the understanding and before the sight."(*64)
+
+(*62.) HH 130 + 
+(*63.) SD 1611 + 
+(*64.) AC 1972
 
 There is no doubt that Swedenborg's understanding of the things which he saw in the world of spirits was gradually clarified, during the years 1744 to 1748, as he was being equipped for the writing of the Arcana Coelestia. In His providence, the Lord inspired Swedenborg to write down his spiritual experiences in his Diary, sometimes from day to day, so that we may trace some of the stages of his journey of discovery.
 
-Thus it appears that one of Swedenborg's first concerns was to dissuade corporeally minded spirits from the notion that they still lived in a material body of spatial dimensions and physical weight. Spirits indeed appeared, before Swedenborg as well as before themselves, in a complete human form, with bodies and garments, and as living in houses in a world deceptively like ours, But what was the relationship of these appearances to the underlying reality? Surely, Swedenborg argues in the Diary, such things could not be predicated of spiritual and celestial things, of heavenly beings! They must be regarded as fallacies or phantasies. What need would spirits living a heavenly life have of arms or legs or stomach, lungs, and other viscera? Some spirits insisted that even if they did not have viscera, they surely have man's external form; since they actually feel shame unless they are clothed!65 That spiritual essences also must possess some form, Swedenborg grants, and he also freely admits that he does not yet know what this form might be. Once he calls to mind the marvelous forms of the inmost substances within the brain and suggests them as an effigy of the form (not the shape) of the spirit.66 When a spirit insisted that he spoke with actual lips, Swedenborg remonstrates that they were only a "representation of lips."67 Yet that spirits had sensation, of this there was no doubt:
+Thus it appears that one of Swedenborg's first concerns was to dissuade corporeally minded spirits from the notion that they still lived in a material body of spatial dimensions and physical weight. Spirits indeed appeared, before Swedenborg as well as before themselves, in a complete human form, with bodies and garments, and as living in houses in a world deceptively like ours, But what was the relationship of these appearances to the underlying reality? Surely, Swedenborg argues in the Diary, such things could not be predicated of spiritual and celestial things, of heavenly beings! They must be regarded as fallacies or phantasies. What need would spirits living a heavenly life have of arms or legs or stomach, lungs, and other viscera? Some spirits insisted that even if they did not have viscera, they surely have man's external form; since they actually feel shame unless they are clothed!(*65) That spiritual essences also must possess some form, Swedenborg grants, and he also freely admits that he does not yet know what this form might be. Once he calls to mind the marvelous forms of the inmost substances within the brain and suggests them as an effigy of the form (not the shape) of the spirit.(*66) When a spirit insisted that he spoke with actual lips, Swedenborg remonstrates that they were only a "representation of lips."(*67) Yet that spirits had sensation, of this there was no doubt:
 
-Indeed, their senses are keener than man's. For even with man, sensation belongs not to his body but to his mind or spirit. What is the understanding but an interior sensation, the objects of which are truths!68 The spirit, he concluded, was not mere thought but was a substantial organic subject. If you deprive spiritual essences of sense and affection you also deprive them of all reality! "There can be no life, whether corporeal or spiritual, without sensation."69
-65. SD 355, 2917, 3472. Compare the argument in Swedenborg's Rational Psychology 521f. 66. SD 355
-67. SD 1342
-68. SD 1719, 1718
-69. SD 1718
+Indeed, their senses are keener than man's. For even with man, sensation belongs not to his body but to his mind or spirit. What is the understanding but an interior sensation, the objects of which are truths!(*68) The spirit, he concluded, was not mere thought but was a substantial organic subject. If you deprive spiritual essences of sense and affection you also deprive them of all reality! "There can be no life, whether corporeal or spiritual, without sensation."(*69)
 
-It is not mere phantasy, then, this sensory life of spirits! The phantasy in which corporeal spirits are immersed is merely due to their imagining that the things they sense are natural, and that their bodies are physical. This notion they retain from their life in the world, and it is with difficulty extirpated.70 Swedenborg found that the angels have no such ideas, yet their sensory life is marvelously rich and varied. 70. SD 1672 1/4, cp 4207, AC 10758e
+(*65.) SD 355, 2917, 3472. Compare the argument in Swedenborg's Rational Psychology 521f. + 
+(*66.) SD 355 + 
+(*67.) SD 1342 + 
+(*68.) SD 1719, 1718 + 
+(*69.) SD 1718
 
-It seemed indeed astonishing to him "that such things as are merely corporeal should exist even in the world of spirits, namely that they appear to themselves to be bodies, yea, to be clothed in garments, that they perceive pain, and thus have the sense of touch, besides other things which are merely corporeal and would in nowise seem to belong to spiritual essences or spirits; that nevertheless they exist is so true that the whole heaven affirms it."71 And when certain spirits doubted the existence of a spiritual world Swedenborg warned them that they should believe in their own sense-experience.72
-71. SD 1715
-72. SD 3058
+It is not mere phantasy, then, this sensory life of spirits! The phantasy in which corporeal spirits are immersed is merely due to their imagining that the things they sense are natural, and that their bodies are physical. This notion they retain from their life in the world, and it is with difficulty extirpated.(*70) Swedenborg found that the angels have no such ideas, yet their sensory life is marvelously rich and varied.
 
-In the early Diary it is noted that the garments of spirits are due to phantasies which do not exist in heaven, although angels also appear to spirits in beautiful garments representative of their character.73
-Later, in the Arcana, Swedenborg is able to testify that the garments of the angels "are real substances, thus essences in form."74 It is obvious that the problems in his mind were being solved. To corporeal spirits it was indeed a phantasy that they have lips and legs and use food and garments;
+(*70.) SD 1672 1/4, cp 4207, AC 10758e
 
-for their ideas of such things were drawn from space and matter, not from use and form. But to normal spirits, he soon finds, the same sensations are not phantasies but true or real appearances-a testimony that they possess spiritual equivalents to all material organs and externals. And to angels, this sensory life is not only a correspondent appearance but a sublime and profound reality. 73. SD 1796f 74. AC 2576
+It seemed indeed astonishing to him "that such things as are merely corporeal should exist even in the world of spirits, namely that they appear to themselves to be bodies, yea, to be clothed in garments, that they perceive pain, and thus have the sense of touch, besides other things which are merely corporeal and would in nowise seem to belong to spiritual essences or spirits; that nevertheless they exist is so true that the whole heaven affirms it."(*71) And when certain spirits doubted the existence of a spiritual world Swedenborg warned them that they should believe in their own sense-experience.(*72)
 
-Thus Swedenborg came to recognize-i.e., "was given to perceive"-certain universal laws which governed the phenomena of the other life. As he assimilated the accumulating evidence he saw that spiritual things, sensed by a spiritual subject, i.e., by a spirit or angel, are indistinguishable in consciousness from the corresponding material things sensed by a material subject, or by the bodily sense-organs of a man on earth. "When what is spiritual touches or tastes what is spiritual, it is altogether as when what is material touches or tastes what is material."75
-75. LJ post. 323, HH 461, AE 926:2, DLW 91
+(*71.) SD 1715 + 
+(*72.) SD 3058
+
+In the early Diary it is noted that the garments of spirits are due to phantasies which do not exist in heaven, although angels also appear to spirits in beautiful garments representative of their character.(*73)
+Later, in the Arcana, Swedenborg is able to testify that the garments of the angels "are real substances, thus essences in form."(*74) It is obvious that the problems in his mind were being solved. To corporeal spirits it was indeed a phantasy that they have lips and legs and use food and garments;
+
+for their ideas of such things were drawn from space and matter, not from use and form. But to normal spirits, he soon finds, the same sensations are not phantasies but true or real appearances-a testimony that they possess spiritual equivalents to all material organs and externals. And to angels, this sensory life is not only a correspondent appearance but a sublime and profound reality.
+
+(*73.) SD 1796f + 
+(*74.) AC 2576
+
+Thus Swedenborg came to recognize-i.e., "was given to perceive"-certain universal laws which governed the phenomena of the other life. As he assimilated the accumulating evidence he saw that spiritual things, sensed by a spiritual subject, i.e., by a spirit or angel, are indistinguishable in consciousness from the corresponding material things sensed by a material subject, or by the bodily sense-organs of a man on earth. "When what is spiritual touches or tastes what is spiritual, it is altogether as when what is material touches or tastes what is material."(*75)
+
+(*75.) LJ post. 323, HH 461, AE 926:2, DLW 91
 
 Those who have once seen and accepted this simple law, need not be afraid to describe the things of spiritual sensation-i.e., spiritual phenomena-in terms of the corresponding natural sense-objects. Thus Swedenborg, when he had entered fully into the realm of angelic realities, nevermore hesitated to ascribe reality and substance to the "appearances" of the spiritual world, any more than we do when we describe our material world in terms of our sense-experience, or in terms of the "appearances" or phenomena through which we study the nature and substance of the world.
 
-Sensation is necessary to consciousness for spirits as well as for men. As to its external face, the spiritual world resembles the natural, for both are perceived by the same human mind and in the same "appearances" of time and space.76
-76. DLW 163, Wis. vii. 5
+Sensation is necessary to consciousness for spirits as well as for men. As to its external face, the spiritual world resembles the natural, for both are perceived by the same human mind and in the same "appearances" of time and space.(*76)
+
+(*76.) DLW 163, Wis. vii. 5
 
 Swedenborg therefore was commissioned, in his descriptions of the other life, to give us a definite pictorial basis for our own thought about the spiritual world. He insistingly teaches that all things of earth's four kingdoms do also exist in heaven, delusively the same yet from a more direct or spiritual origin-atmospheres, minerals, plants, animals; human bodies with brains and blood and viscera; and also works of art and artifice;
 
-things invisible as well as visible. In all spiritual creations, it is taught, the "substantial," or spiritual, takes the place of the natural.77
+things invisible as well as visible. In all spiritual creations, it is taught, the "substantial," or spiritual, takes the place of the natural.(*77)
 
-77. LJ post. 314-323, LJ 27, DLW 321, Wis. ii. 3:4
+(*77.) LJ post. 314-323, LJ 27, DLW 321, Wis. ii. 3:4
 
 Yet the spiritual, as to internal face and essence, is of a different origin and substance, an essence which can only be defined in the terms of life or states of mind. And the quality of this inner essence of the spiritual world can be known only from the unique laws of love and wisdom which are displayed in the life of spiritual beings - a life utterly different from the activities of nature.
 
 * * * * * * * * * *
 
-It is this spiritual world that is revealed in the pages of the Writings. Swedenborg's information had to be gradual. But this information, gained through his intercourse with spirits and angels and even devils, and through his observing the unique representations, processes, and events of the other life, was but the means of furnishing his mind with the material from which the Lord, in making His second advent, could by inspiration construct through Swedenborg's mind and pen a doctrine concerning the spiritual world for the use of the New Christian Church. This is the reason why Swedenborg insists that "what has come from the Lord has been written, and what has come from angels has not."78
+It is this spiritual world that is revealed in the pages of the Writings. Swedenborg's information had to be gradual. But this information, gained through his intercourse with spirits and angels and even devils, and through his observing the unique representations, processes, and events of the other life, was but the means of furnishing his mind with the material from which the Lord, in making His second advent, could by inspiration construct through Swedenborg's mind and pen a doctrine concerning the spiritual world for the use of the New Christian Church. This is the reason why Swedenborg insists that "what has come from the Lord has been written, and what has come from angels has not."(*78)
 
-78. AE 1183, DP 135, SD 4043, 1647, TCR 779
+(*78.) AE 1183, DP 135, SD 4043, 1647, TCR 779
 
 It is therefore not Swedenborg's opinions, but the revealed doctrine, which we attempt to present and discuss in the following pages.
 
@@ -384,8 +422,8 @@ We need to have the clearest possible ideas about what is the immortal part of m
 The Fount of Immortality
 
 What is it that makes man immortal? The Lord said: "I am the resurrection and the life. He that believeth in Me, though he were dead, yet shall he live."1 The Writings say: "Man is so created that as to his internal he cannot die." And the reason is that "he can believe in God and also love God and thus be conjoined to God by faith and love; and to be conjoined to God is to live to eternity."2
-1. John 11:25
 
+1. John 11:25 + 
 2. HD 223, ISB 8, HH 39
 
 From this passage of doctrine it might sound as if only those who believe in God will become immortal. But a closer reading shows that it is because man is so created that he can believe in God and love Him that he also will live to eternity. Every man has the faculty or potentiality of believing and loving because his inmost soul receives life continually from the Lord. The Lord pours His own life into every man's soul, whether a man's mind turns itself against the Lord or not. The Lord's love is unceasing, and He never takes back the gift of life from any man; not even from the devils of hell, whom He continually seeks to save from their own evils. In the inmost soul, which is above the conscious mind of either angels, spirits or men, and which can therefore never be perverted by human vice or folly, the Lord can find an abode or receptacle even with the evil.3

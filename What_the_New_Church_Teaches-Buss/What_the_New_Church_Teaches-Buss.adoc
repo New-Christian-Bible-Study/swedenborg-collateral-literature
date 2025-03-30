@@ -1,15 +1,15 @@
-BY THE
+= What The New Church Teaches
+By the Rev. James Frederick Buss  1897
+include::../template-attributes.adoc[]
 
-REV. JAMES FREDERICK BUSS
 
-MINISTER OF THE NEW JERUSALEM CHURCH
-
+BY THE + 
+REV. JAMES FREDERICK BUSS + 
+MINISTER OF THE NEW JERUSALEM CHURCH + 
 CATHEDRAL STREET, GLASGOW
 
-JAMES SPEIRS
-
-1 BLOOMSBURY STREET, LONDON
-
+JAMES SPEIRS + 
+1 BLOOMSBURY STREET, LONDON + 
 1897
 
 INTRODUCTORY NOTE.
@@ -20,9 +20,11 @@ Should my health be restored, I hope to follow this little work up with further 
 
 JAMES FREDERICK BUSS.
 
+----
 R. M. S. GOTHIC, Off the North-west Court of Africa, approaching Teneriffe, 3rd November, 1897.
-
-TABLE OF CONTENTS.
+----
+////
+[Author's] TABLE OF CONTENTS.
 
 CHAPTER PAGE
 I. WHAT THE NEW CHURCH IS 1
@@ -37,8 +39,9 @@ IX. THE DIVINE HUMANITY 120
 X. THE ATONEMENT: A CRITICISM 141
 XI. THE REAL ATONEMENT 158
 XII. THE LAW OF SALVATION 177
+////
 
-I.What the New Church is.
+== I. What the New Church is.
 
 IT is of the first importance to a true understanding of this subject, that it should be known that the "New Church" is not in any sense a sect, or "denomination," of the recognized Christianity of the day. On the contrary, it stands to that Christianity, in all its "denominations," as a thing outside; its relation to it being precisely analogous to the relation in which the Christian Church, when originally instituted by the Lord and His Apostles, stood to the Jewish Church of the time of the First Coming of the Lord. In a word, just as the primitive Christian Church was the Church of the new dispensation of the religion and of the religious life of humanity then beginning, so "New Church" of today is the Church of a new in the religious dispensation, or age, now dawning in the world.
 
@@ -114,7 +117,7 @@ In conclusion: in inaugurating a New Dispensation of Religion, the Lord never le
 
 He promised, before He left the world, however, that, at the future time when men came to be able to bear the "many things" He had "still" to "say to them" (John xvi. 12), He would not speak "in parables," but would "show them plainly of the Father" (John xvi. 25). And, in inaugurating the present new Age, He has redeemed that promise; He has now given to the world an entire body of spiritual rational doctrine, by which they may, if they choose, enter understandingly into the things of faith; He has revealed the spiritual, or interior sense of His Word in both Testaments, and, by that means, shown it radiant with the light of spiritual truth in every page and verse of its letter, and thus "fulfilled" His Holy Word for all who will; and on this Divine basis He is now raising up His "New Church"--the Church of the New Dispensation - whose solemn duty it is to proclaim to men the Gospel that the Lord God Jesus Christ alone reigneth, "whether they will hear or whether they will forbear" (Ezek. ii. 5). That duty she is now and hereby laboring to perform. "He that hath an ear, let him hear what the Spirit saith unto the Churches" (Rev. ii. 7).
 
-II.--The Lord's Second Coming.
+== II. The Lord's Second Coming.
 
 THE Coming of the Lord and the "Consummation of the Age" are mentioned in the Gospels in such close association as to appear, if not identically the same event, events, at the least, intimately related to one another. Thus, the Lord's extended prophecy respecting His future Coming, its antecedents and its consequences, which occupies the whole of the twenty-fourth chapter of Matthew, is given as His response to the demand of the disciples: "What shall be the sign of Thy coming AND
 of the consummation of the age?" (ver. 3). And in it, after describing at length the signs of the approach of the "Consummation of the Age" and the consummation itself, inverses 4 to 28, the Lord continues: "And then shall appear the sign of the Son of man in heaven; and then shall all the tribes of the earth mourn, and they shall see the Son of man coming in the clouds of heaven with power and great glory" (ver. 30).
@@ -182,7 +185,7 @@ And this Revelation, it should be well noted, does not supersede, or cancel, tha
 
 In our next paper, we propose to consider in some detail The Relation of Swedenborg to the New Church.
 
-III.--The Relation of Swedenborg to the New Church.
+== III. The Relation of Swedenborg to the New Church.
 
 THE necessity of a discussion of this subject in the present series of papers arises from the existence of the widespread but erroneous, though not unnatural supposition, that Swedenborg's relation to the New Church is the same as that of, say, Wesley to the Wesleyan churches. This is not merely a mistaken notion, but a mistaken notion of a very fundamental character, involving an altogether misleading idea of what the New Church is, and what it stands for.
 
@@ -204,9 +207,16 @@ He was well acquainted, too, with most of the languages of Western Europe, and p
 
 His proficiency in all departments of natural learning, gave him a European fame, and a foremost place among the savants of his generation. He was a member of the Royal Academy of Sciences in his own country, and corresponding member of the Academy of Sciences of St. Petersburg. But the vastness of his knowledge, and the scope and stature of his mental powers, can probably be more thoroughly realized from a mere list of the works he published in the twenty-eight years between 1717 and 1744. We give them, for the most, in chronological order.
 
+----
 1717 (PUBLISHED IN SWEDISH.)
 
-1. Information concerning Tin-ware of Stjernsund, its Use and the Method of Tinning. 2. The Importance of instituting an Astronomical Observatory in Sweden. 3. On the Mode of assisting Commerce and Manufactures. 4. Memorial on the Establishment of Salt-works in Sweden. 5. Theory concerning the End of the Earth. 6. The Nature of Fire and Colors. 7. On the Causes of Things.
+1. Information concerning Tin-ware of Stjernsund, its Use and the Method of Tinning.
+2. The Importance of instituting an Astronomical Observatory in Sweden.
+3. On the Mode of assisting Commerce and Manufactures.
+4. Memorial on the Establishment of Salt-works in Sweden.
+5. Theory concerning the End of the Earth.
+6. The Nature of Fire and Colors.
+7. On the Causes of Things.
 
 1718 (PUBLISHED IN SWEDISH).
 
@@ -214,11 +224,17 @@ His proficiency in all departments of natural learning, gave him a European fame
 
 1719 (PUBLISHED IN SWEDISH).
 
-11. About Docks, Sluices, and Salt-works. 12. Proposal for Regulating our Coinage and Measures, by which Computation is facilitated and Fractions are abolished. 13. Respecting the Depth of Water and the Strong Tides in the Primeval Word: Proofs from Sweden.
+11. About Docks, Sluices, and Salt-works.
+12. Proposal for Regulating our Coinage and Measures, by which Computation is facilitated and Fractions are abolished.
+13. Respecting the Depth of Water and the Strong Tides in the Primeval Word: Proofs from Sweden.
 
 1721 (PUBLISHED IN LATIN AT AMSTERDAM.)
 
-14. A new Mechanical Plan of constructing Docks or Dykes; and a Mode of discovering the Powers of Vessels by the Application of Mechanical Principles. 15. A new Method of finding the Longitude of Places, by Land and Sea, by Lunar Observations. 16. New Observations and Discoveries respecting Iron and Fire: together with a new Construction of Stoves. 17. A Fore-runner of the First Principles of Natural Things, or, New Attempts to Explain Chemistry and Experimental Physics Geometrically. 18. Miscellaneous Observations on the Things of Nature, and especially on Minerals, Fire, and the Strata of Mountains. (Published in Leipsic.)
+14. A new Mechanical Plan of constructing Docks or Dykes; and a Mode of discovering the Powers of Vessels by the Application of Mechanical Principles.
+15. A new Method of finding the Longitude of Places, by Land and Sea, by Lunar Observations.
+16. New Observations and Discoveries respecting Iron and Fire: together with a new Construction of Stoves.
+17. A Fore-runner of the First Principles of Natural Things, or, New Attempts to Explain Chemistry and Experimental Physics Geometrically.
+18. Miscellaneous Observations on the Things of Nature, and especially on Minerals, Fire, and the Strata of Mountains. (Published in Leipsic.)
 19. Fable of the Love and Metamorphasis of the Muse Urania into a Man and Servant of Apollo. (Published at Schiffbeck, near Hamburg.)
 20. Frank Views on the Fall and Rise in the Value of Swedish Money. (Stockholm.)
 
@@ -243,6 +259,7 @@ Vol. III. The Subterranean or Mineral Kingdom as regards Copper and the Methods,
 24. A Hieroglyphic Key of Natural and Spiritual Mysteries by way of Representations and Correspondences.
 
 25. The Animal Kingdom considered Anatomically, Physically and Philosophically. (This work, like the Economy of the Animal Kingdom, deals with Physiology, and occupies two large volumes.)
+----
 
 In addition to these twenty-six works, Swedenborg contributed many learned dissertations to various learned societies, which were published in the "Transactions" of those bodies, and also left a large number of works of a similar character, the manuscripts of which are preserved in the Library of the Royal Academy of Sciences in Stockholm.
 
@@ -282,7 +299,7 @@ The New Church does not worship Swedenborg; it does not regard him as a demi-god
 
 The remaining papers of this series will be devoted to the exposition of some of the particular doctrines which the Lord has thus revealed and the New Church teaches in His name.
 
-IV.--God an Infinite Divine Man.
+== IV. God an Infinite Divine Man.
 
 Knowledge concerning the Lord is far more excellent than all other knowledges of which either the Church or even heaven itself is in possession (SWEDENBORG, True Christian Religion, 81).
 
@@ -347,7 +364,7 @@ The realization, then, that God is the First Cause of all things that are, and t
 
 In conclusion, we suggest the question, What do conscious love; wisdom, and activity constitute? They constitute Man! God, therefore, because He is these things Infinitely, is MAN Infinitely, and from Him it is that finite man derives all that makes him man. A certain class of philosophers - or philosophizers - shrink from this conclusion as "anthropomorphic," or, as they understand, making God to be in the likeness of man, and so, in their estimation, degrading Him to man's level. It is anthropomorphic; but it does not make God to be in the likeness of man; it is simply rational certitude that man is the image and likeness of GOD. Nor does it thus degrade God; on the other hand, it exalts man; and to this it superadds the incalculable boon of tearing to shreds the irrational dogma that man derives his human faculties from creatures themselves destitute of these, and immeasurably lower than he in the scale of existence. Man necessarily derives his manhood from GOD; who is thus incontrovertibly demonstrated to be the archetypal and consequently INFINITE or DIVINE MAN.
 
-V.God a Divine Man consisting of a Trinity.
+== V. God a Divine Man consisting of a Trinity.
 
 THE conception of God as a Divine Man is so fundamental to a true idea of the Trinity, that it will be wise to re-affirm that conception, and even further exhibit its inevitableness, before proceeding to the direct discussion of the important subject of the Trinity in God, which it is the object of this paper to present. Not very many years ago, the great apostle of religion-tinctured modern "culture "--Matthew Arnold - made the whole "cultured" side of the religious world happy by giving it the phrase, "The Power, not ourselves, that makes for righteousness," as a definition of God. For, to culture,
 "anthropomorphism" is particularly obnoxious. From that day to this, a number, and perhaps an increasing number, of otherwise intelligent people, have thought, and still think, that they have, in the definition in question, an idea of God that is really rational. To such a conception of God, the idea of a Trinity has, obviously, no relation whatever. If God is merely a "Power," of whatsoever quality, or tendency, a Trinity is a thing - if thing, indeed, it be, not a mere word - with which we have no concern.
@@ -413,7 +430,7 @@ The "breath" is really the life of the body from the soul, going forth from the 
 
 The issue of the present paper, it will be noticed, is, that the Lord Jesus Christ is the One Divine Person in whom the whole Godhead is centered, and thus that HE is God alone. This is the doctrine of the New Church which we propose to consider in our next chapter.
 
-VI.That God ... is the Lord God and Savior Jesus Christ (True Christian Religion, n. 3).
+== VI. That God ... is the Lord God and Savior Jesus Christ (True Christian Religion, n. 3).
 
 AS the issue of our last paper, we found ourselves logically committed to the position that "the Lord Jesus Christ is the One Divine Person in whom the whole Godhead is centered, and thus that HE is God alone." By this is, of course, meant that the One Only God of heaven and earth, consisting of the Divine Trinity of Father, Son, and Holy Spirit, is the Lord Jesus Christ.
 
@@ -515,7 +532,7 @@ through sufferings (Heb. i. 10), and could and did suffer and do the many things
 
 The subject cannot, however, be seen in the limpid clearness which is desirable, and which the doctrines of the New Church make possible, without a knowledge and understanding of the doctrine of the wonderful miracle of the Incarnation of God in Christ, which will be the subject of our next chapter. That will clear up every shadow of difficulty in connection with this great subject.
 
-VII.The Necessity for the Incarnation.
+== VII. The Necessity for the Incarnation.
 
 AS it is impossible to "know" that supreme mystery of the Kingdom of God" (Matt. xiii. ii), the Incarnation of the Eternal God in human flesh in the Person of the Lord Jesus Christ, without some preliminary comprehension of why so transcendent a miracle should have been wrought at all, we place at the threshold of the present inquiry. "The faith of the New Heaven and the New Church in its universal form" (True Christian Religion, n. 2) in reference to this subject. It is as follows--"It is a universal of faith that no flesh could have been saved unless the Lord had come into the world. It is a universal of faith that He came into the world to remove hell from man, which He effected by combats against it, and victories over it, whereby He subjugated it, and reduced it to order, and under obedience to Himself. It is a universal of faith that He came into the world to glorify His Humanity which He put on in the world; that is, to unite it to the Divine from which it came forth: thus He keeps hell in order, and under obedience to eternity.
 
@@ -584,7 +601,7 @@ The crucial point, however, is, that it is only in temptation combats that this 
 
 In this chapter we have endeavored to show what the spiritual conditions were that made Redemption necessary, and how those conditions came into existence; that they could not be remedied by the direct exercise of the Divine Omnipotence alone; that, nevertheless, Omnipotence was necessary to the accomplishment of the gigantic task; and that, if only means could be provided by which God could be brought face to face with hell in a temptation - warfare, the work of Redemption, gigantic though it is, could - and would - be accomplished. It will be the object of our next chapter to show that that means could be furnished by the Incarnation of God in a real human nature, and by that means alone; and that, and how, it actually was so provided.
 
-VIII.--A Rational Doctrine of the Incarnation.
+== VIII. A Rational Doctrine of the Incarnation.
 
 WE endeavored, in our last chapter, to establish the position that, in the terrible state of helpless enslavement to hell into which mankind had at length come, as the result of numberless generations of ready compliance with the suggestions and temptations of "the Devil," nothing but Omnipotence was equal to the task of Redemption, and, at the same time, that Omnipotence could not operate directly to terminate the usurped supremacy of hell over man.
 
@@ -672,7 +689,7 @@ In this way, then, was the Incarnation effected, and by this means did our Heave
 
 and by this means, and to that end, did the indwelling "Father" cause that human nature eventually to enter into its glory, and, when all was finished, to become the Divine-Human depository of all power in heaven and on earth, wherein, then, thenceforth and for ever, dwelleth all the fullness of the Godhead bodily.
 
-IX.The Divine Humanity.
+== IX. The Divine Humanity.
 
 AFTER showing, in our paper on the Sole Godhead of the Lord Jesus Christ, the co-existence in Him of two natures, one Divine, the other human, we pointed out that "the human nature even, when glorified, became Divine, or the manhood God, and that it is so now." We also postulated that this has been the case "only subsequently to the Crucifixion and Resurrection, when Jesus entered into His glory (Luke xxiv. 26). Until then, it was both human, imperfect, and infirm; and it was in this [earlier] state and capacity that it learned obedience
 [Heb. v. 8], and was MADE PERFECT through sufferings, and could and did suffer, and do the many things" predicated of it (pp. 86, 7, 8). We intimated, at the same time, that this higher aspect of the subject could not be usefully dealt with, because not adequately grasped, until the true doctrine of the Incarnation had been set forth. But, as this doctrine was the theme of our last paper, the time has now come to revert to, and finish the consideration of, the subject of the absolute and exclusive Godhead of the Lord Jesus Christ.
@@ -787,7 +804,7 @@ Before His Coming into the world, the Lord was indeed present with the members o
 
 The momentous consequences to man resulting from this greater accessibility with which the Lord thus clothed Himself by the glorification of His humanity assumed in the world, will appear in our next chapters, in which we propose to set forth the teaching of the New Church respecting the "Atonement."
 
-X.--The Atonement: A Criticism.
+== X. The Atonement: A Criticism.
 
 IN the previous chapters of this series, we have almost entirely refrained from destructive criticism of other doctrines than those of the New Church on the subjects dealt with; not so much of set purpose as because there seemed no urgent necessity to discuss the subjects taken up in this manner. The subject of the Atonement is quite differently circumstanced. The teaching which has, for several centuries, been given to Christian men and women, and accepted by them, as the truth of God on this subject, is of such a nature, and in such incredible antagonism to every form of truth, human or Divine, that it seems impossible to proceed at all, without some preliminary labor of the iconoclastic sort. Indeed, it is not too much to say, as the Writings of the New Church do say, that the ordinary doctrine of the Atonement
 
@@ -885,7 +902,7 @@ From this idea of Redemption and the idea of God [as divided into a Trinity of p
 
 We propose to deal with this same subject, constructively, in our next chapter.
 
-XI.-The Real Atonement.
+== XI. The Real Atonement.
 
 ... For their sakes I sanctify Myself, that they also might be sanctified through the truth (John xvii. 19).
 
@@ -991,7 +1008,7 @@ HIM (ibid. vii. 25).
 
 The truth stands forth, then, that "reception of the atonement" is the salvation of the individual soul. The means, conditions, or laws of Salvation, therefore, come naturally under consideration next; and with this subject, therefore, we propose to deal in our chapter following.
 
-XII.The Law of Salvation.
+== XII. The Law of Salvation.
 
 IN considering the subject of Salvation, it is of importance to be clear, at the start, in regard to what the Salvation with which we are concerned is from. On this point, an entirely false opinion has not only got abroad, but has obtained general acceptance. This opinion is that Salvation is from hell. We have not scrupled to call it a false opinion, because it is at complete variance with the teaching of the Divine Word. Of Salvation from hell, per se, the Word of God has absolutely nothing to say. The Salvation of which it speaks is a salvation from sin. This is the Salvation which God came into the world as Man in order to place within human reach. We know this to be so, from the fact that His manhood was called "JESUS," which means Savior, because, in and by it, He was to "save His people FROM THEIR SINS"
 (Matt. i. 21).
