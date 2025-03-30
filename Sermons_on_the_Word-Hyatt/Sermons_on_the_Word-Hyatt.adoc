@@ -1,8 +1,14 @@
-BY
-EDWARD S. HYATT
-'s-GRAVENHAGE
-SWEDENBORG GENOOTSCHAP
-NASSAUPLEIN 29
+= Sermons on The WORD
+By Edward S. Hyatt  1935
+//include::../template-attributes.adoc[]
+
+// AsciiDoctor is so quick to grab a single character followed immediately by a dot/decimal .... thinking it to be part of an ordered list .... I kludged a fix by prefixing a '@' to ^([A-Z]\.)
+
+BY + 
+EDWARD S. HYATT + 
+'s-GRAVENHAGE + 
+SWEDENBORG GENOOTSCHAP + 
+NASSAUPLEIN 29 + 
 1935
 
 TO MRS. EDWARD HYATT
@@ -22,13 +28,13 @@ Acknowledgment is due to Mr. Horace Howard for his much appreciated services in 
 
 SERMONS ON THE WORD
 
-FIRST SERIES. Nr. 14.
+== FIRST SERIES. Nr. 14.
 
 September 13th 1891. Reference: H. D. 260.
 
 JOHN 1:8. [Greek.]
 
-E. 272. Non erat ille Lux, sed ut testaretur de Luce.
+@E.272. Non erat ille Lux, sed ut testaretur de Luce.
 
 JOHN 1:8. He (John the Baptist) was not the Light, but that he might testify concerning the Light.
 
@@ -70,7 +76,7 @@ From this passage we can see, not only that there is an inmost sense within the 
 
 We are taught "that the Word is pure in the internal sense and that it does not so appear in the sense of the letter", H. D. 260. That it often appears impure in the sense of the letter of the Old Testament is evident from many places which may be recalled. That such teaching also has application to the literal forms of the Writings may also be evident from the way that the Second Part of CONJUGIAL LOVE appears to those who have not rationally grasped the spiritual sense which underlies the laws there given. That the Light Itself comes from what is pure there, thus from the internal sense, must be evident, and even those things in the Word which appear impure to those who view them only in the light of the world, are yet holy from the internal things which they involve, and from the Divine Light which is seen by those who are made spiritually rational thereby to shine through. Hence the life, the holiness, and the Light of the Word are from its internal sense, for the sake of which we must be willing to continually recede from the external sense and thus to pass from John the Baptist to the Lord Himself. It is only in this way that we can approach nearer to the Lord and thus to the Light Itself. It is sufficient if, before we recede from John, we accept his testimony concerning the Light and obey his call to repentance. We must ever remember the declaration concerning him, which is concerning the external of the Word which he represented, that he was not the Light, but that he might testify concerning the Light. Each Divine Revelation appears at first only to testify concerning the Light, but if we approach the internal we will learn that every Divine Revelation is a manifestation of the Light Itself, thus of the Lord Himself. Therefore it was that John was enabled to prophesy "He must increase but I decrease", John III, 30.
 
-FIRST SERIES. Nr. 15.
+== FIRST SERIES. Nr. 15.
 
 September 27th 1891. Reference: H. D. 2611.
 
@@ -105,13 +111,13 @@ And yet the professed New Church is over-run with books which are so many attemp
 
 The Word as given in the Word of the Old and New Testaments had been so perverted at the time of the Lord's New Advent, that we are told that the world would have been destroyed if the Lord had not come again in a new form of the Word especially adapted by Himself to the present needs. Therefore at this day the very possibility of our obtaining communication and conjunction with heaven depends upon the Writings being with us. They alone can expose and remove the human traditions which entirely conceal all the truth which can appear in the Word of the Old and New Testaments. Not only, therefore, are the Writings necessary to provide vessels for the reception of the Word on the rational plane of the mind; but they are also necessary in order to restore to us the use for which the previous forms of the Word were given, and which for us would be otherwise lost. Our very salvation therefore, depends upon the presence of the Lord in the Evangel of His New advent; let us never lose sight of His presence then, nor forget it as we study the Writings, but be at all times ready to receive whatever we find there as His teaching. Our understanding of what is there taught, will necessarily be earthly at first, will in this world continue to be earthly in comparison to the understanding thereof which the angels have; but if we are tempted to make our imperfect understanding of the Doctrines an excuse for not believing and receiving into life what we intellectually learn there, an excuse which is often made, let us recall the Lord's question "If I have said to you earthly things and ye believe not, how will ye believe if I shall tell you heavenly things"?
 
-FIRST SERIES. Nr. 16.
+== FIRST SERIES. Nr. 16.
 
 October 11th 1891. Reference: H. D. 2612
 
 [Hebrew.] Ex. 32:16.
 
-A. 10453. Et tabulae opus Dei illae, et scriptura scriptura Dei illa.
+@A.10453. Et tabulae opus Dei illae, et scriptura scriptura Dei illa.
 
 Ex. 32:16. And the tables they were the work of God, and the writing it was the writing of God.
 
@@ -138,8 +144,7 @@ And yet people, from their very ignorance, are often apt to conclude that they k
 
 But when we know that external correspondences exist wherever external effects exist on an exterior plane from internal causes on an interior plane, then we can see that they exist everywhere from the highest plane of the heavens down to the lowest plane in the world. On every plane where spiritual causes operate they become ultimated in corresponding externals taken from that plane. The same Divine Good or Truth is represented in one form on the rational plane of the mind, is presented again in another form on the sensual plane of the mind and it is presented yet again on the corporeal plane of the mind; just as, on the physical plane, it is re-presented in one form in the animal kingdom, in another form in the vegetable kingdom, and in yet another form in the mineral kingdom. Thus correspondences and representatives are not of one kind only. Each of the goods and truths proceeding from the Lord is presented again and again and again, as it enters each of all the planes of life. Thus in the forms of the Word, the same Divine Truth is represented in one form in the word of the Old Testament, it is re-presented or presented again in another form in the Word of the New Testament, and it is re-presented or presented again in the Writings. Thus the same Divine Truths which are presented in the Decalogue are re-presented in the two great commandments of the New Testament, and are again re-presented in the spiritual sense of those commandments as given in the Writings. In all three cases, they are internally the same Truths, but the form or correspondential external in which they are presented is different, being accommodated for so many planes of the mind. Again, not only is thus distinct provision, special accommodation, made for each plane of the mind; but the various books of the Old Testament, of the New Testament, and of the Writings, respectively provide for the various divisions of the mind upon each plane, and thus also provide truth specially accommodated to the persons with whom any of those divisions of the mind predominate. Every truth that is truth expresses something of the Lord's Divine Good. As the Lord is one, there cannot be two Words, except in the sense of two manifestations or presentations of the Word. In this sense, the Word of the Old Testament and the Word of the New Testament are spoken of as two Words; but internally they are one. There is not really one set of truths revealed in the Word of the Old Testament and another set in the Word of the New Testament. The same truths are presented in each. Those which are presented in the Old Testament are simply re-presented in a different form in the New Testament. Likewise in that form of the Word which we call the Writings, the very same truths are again re-presented in yet a different form. In the latter case, as in each, the tables are different, the writing the same. The tables which are different, are the rational correspondences in which those truths are there ultimated. They are thus ultimated in order that the Lord may thereby operate on the rational plane of man s mind, for which purpose neither the Word of the Old Testament nor the Word of the New Testament was adapted. Therefore it was that until the Writings were given, the heavens could not be established in their full and final trinal form; until the Writings were given the crown of all Churches could not be established upon the earth, for that Church is to be distinguished by rational reception of Divine Truth, which kind of reception could not take place until the Lord Himself gave the Word ultimated in rational correspondences for that purpose in the Word written upon tables which the rational mind could receive wherever it is willing to do so.
 
-From this it will be seen that the science of correspondences enters into every inter-dependence which exists between heaven and earth, between mind and matter; and therefore also into every inter-relation which exists in each. It is therefore absolutely necessary, in order to come into a really rational understanding of anything. For we are rational only as we understand the true ratio which exists between various things, and view all effects from their spiritual causes, as from their genuine reason, and thus as we gradually see all things more as they stand in relation to the Lord. Such rationality we can receive through no other means than through the Writings from the Lord. There alone can we learn the science of correspondence. That science is not simply one of many subjects which is there treated, which can be extracted therefrom and studied separately. It could no more be separated from the Writings than could the nervous system be separated intact from the human body. Our knowledge of the Science of Correspondences can never be more than co-extensive with our knowledge of the Writings as a whole. It is involved everywhere in them, whether reference to it be actually expressed or not. Hence it is that we are warned against the error of thinking that by means of that science, we, apart from direct study of the Writings, can open the Word and unlock the mysteries thereof. This warning is thus given in the DOCTRINE
-CONCERNING THE SACRED SCRIPTURE or SACRED WRITING:
+From this it will be seen that the science of correspondences enters into every inter-dependence which exists between heaven and earth, between mind and matter; and therefore also into every inter-relation which exists in each. It is therefore absolutely necessary, in order to come into a really rational understanding of anything. For we are rational only as we understand the true ratio which exists between various things, and view all effects from their spiritual causes, as from their genuine reason, and thus as we gradually see all things more as they stand in relation to the Lord. Such rationality we can receive through no other means than through the Writings from the Lord. There alone can we learn the science of correspondence. That science is not simply one of many subjects which is there treated, which can be extracted therefrom and studied separately. It could no more be separated from the Writings than could the nervous system be separated intact from the human body. Our knowledge of the Science of Correspondences can never be more than co-extensive with our knowledge of the Writings as a whole. It is involved everywhere in them, whether reference to it be actually expressed or not. Hence it is that we are warned against the error of thinking that by means of that science, we, apart from direct study of the Writings, can open the Word and unlock the mysteries thereof. This warning is thus given in the DOCTRINE CONCERNING THE SACRED SCRIPTURE or SACRED WRITING:
 
 "It is believed that the doctrine of genuine truth can be acquired by means of the spiritual sense of the Word which is given by the science of correspondences; but doctrine is not acquired by that, but is only illustrated and corroborated.... If he is not first in genuine truths, man can falsify the Word by some known correspondences", S. S. 56.
 
@@ -153,13 +158,13 @@ As we begin to know these things we can begin to realize how it is that the Scie
 
 With regard to the tables given to the Jews, the change was from clearer revelation to more obscure revelation, as was the case with each succeeding Church until the Lord's Advent, when the change was to the clearer revelation of the New Testament. Again in the Lord's New Advent He has revealed Himself still more clearly, so that the tables upon which He has now written His Word are as it were of precious stone, clear and transparent, through which the very light of heaven beautifully shines for all who have eyes to see it. This light falls upon and is reflected by the tables upon which His former revelations of the Word are written, by which we can if we will, clearly perceive that they are all one, that the Lord Himself is in each and has Himself written thereon what is internally taught there. We learn that it is He Himself in each, though in one teaching Divine Truth to the childish state, in another to the rational state, perfectly accommodated to each state. We learn that it is He Himself in each, though in one teaching Divine Truth to the childish state, in another to the rational state, perfectly accommodated to each state. We can learn the reason for the tables being changed, and how nevertheless the writing is ever the writing of God upon each. Finally we can learn in what sense the tables are the work of man and in what sense they are the work of God, and how in every sense the internal is the writing of God. And the tables they are the work of God, and the writing it is the writing of God.
 
-FIRST SERIES. Nr. 17.
+== FIRST SERIES. Nr. 17.
 
 October 18th 1891. Reference: H. D. 261.
 
 [Hebrew.] GEN. 15:2.
 
-A. 1795. Et filius procurator domus meae, is Damascenus Eliezer. GEN. 15:2. And the son, the steward of my house, he is the Damascene, Eliezer.
+@A.1795. Et filius procurator domus meae, is Damascenus Eliezer. GEN. 15:2. And the son, the steward of my house, he is the Damascene, Eliezer.
 
 "'And the son the steward of my house', signifies the External Church
 ... for all stewardship pertains to the External of the Church, as the administration of rituals, and of many things which are of the Temple and of the Church itself, that is, of the House of Jehovah or the Lord". A. C. 1795.
@@ -207,8 +212,8 @@ FIRST SERIES
 October 25th 1891. Reference: H. D. 262.
 
 [Hebrew.] ISA. 4:5.
-
-S. S. 33. Quod Jehovah creet super omni gloria obtegumentum.
+ + 
+@S.S. 33. Quod Jehovah creet super omni gloria obtegumentum.
 
 Isa. 4:5. The Lord will create ... upon all the glory a covering.
 
@@ -257,13 +262,13 @@ For the external when regarded separately only reflects the light of the world, 
 
 So far as corporeal and sensual states prevail in us, we are Jews and act like them. So far as we are such we are unwilling even to hear that it is the Lord Himself who speaks to us in His New Advent through the Writings. So far as we are such, we, like the Jews, may pay superstitious regard to the literal sense of the Word, at the same time that we, like them, reject the Word Itself. It is not sufficient that we externally receive the Revelation given to the New Church; we must receive the Lord as He has revealed Himself therein in His glory remembering that the Lord creates upon all the glory a covering.
 
-FIRST SERIES. Nr. 19.
+== FIRST SERIES. Nr. 19.
 
 November 2nd 1891. Reference: H. D. 263.
 
 JOHN. 1:1. [Greek.]
 
-H. D. 263. Et Deus erat Verbum.
+@H.D. 263. Et Deus erat Verbum.
 
 JOHN 1:1. And God was the Word.
 
@@ -340,7 +345,7 @@ November 8th 1891. Reference: H. D. 264.
 
 [Hebrew.] GEN. 43:32.
 
-A. 5683. Non possunt Aegyptii comedere cum Hebraeis panem, quia abominatio id Aegyptiis.
+@A.5683. Non possunt Aegyptii comedere cum Hebraeis panem, quia abominatio id Aegyptiis.
 
 GEN. 43:32. The Egyptians cannot eat bread with the Hebrews, because that is an abomination to the Egyptians.
 
@@ -388,13 +393,13 @@ Swedenborg as the instrument by means of which the interiors of the Word have be
 
 Such is the end of all attacks upon the interiors of the Word. Such is the result that can always be looked for by those who confidently stand by the interior truths of the Word, their opponents will attack, will, at their non-success, become deprived of even that rationality which they have, and finally will dissipate themselves. In the meantime all we have to do is to stand firm in our trust in the Lord as He is manifested in the interior truths given to the New Church - those who are averse to those principles, those who are unable to eat bread with us, and even hold it in abomination, will always dissipate themselves as soon as it is best they should do so. If we would be of those who suffer themselves to be led into genuine order by the Lord, we must accept such division as a necessity of that order, just as we have to accept the eternal division between heaven and hell. The Egyptians cannot eat bread with the Hebrews, because that is an abomination to the Egyptians.
 
-FIRST SERIES. Nr. 21.
+== FIRST SERIES. Nr. 21.
 
 November 15th 1891. Reference: H. D. 2651
 
 [Hebrew.] ISA. 40:8.
 
-A. 9553. E. 507. Exaruit gramen, decidit flos, sed Verbum Dei nostri consistet in aeternum.
+@A.9553. E. 507. Exaruit gramen, decidit flos, sed Verbum Dei nostri consistet in aeternum.
 
 ISA. 40:8. The grass hath withered, the flower hath fallen, but the Word of our God will stand into eternity.
 
@@ -447,13 +452,13 @@ Such was the state of the world at the Lord's Advent; such is the state of the w
 In regeneration certain preparatory and transient states precede the permanent states resulting from regeneration, just as various transient Churches had to precede the New Church, just as the natural Christian Church such as was Christian in name only, had to precede the establishment of the spiritual or true Christian Church; and just as in the New Church itself, it too is comparatively natural ill its beginning, and appears in a form which is transient and has to be succeeded by that which is genuine. The good and truth of the Church first implanted in the natural man is as the green grass which has withered. Green grass is indeed scientific truth; but it is truth from a spiritual origin; even as was the truth of the previous Christian Church; even as has been the truth in the early states of the New Church. But because it ceased to be conjoined to life according to it, it has withered. When there is faith without charity there is no grass, but only sand, and foolish is the man who builds thereon. But grass prepares the ground for higher forms of vegetation If the knowledges of truth which we have received, comparatively meagre as they may be, are conjoined to life according to them, we will have receptacles in our mind for the truth and good which come from heaven. But from that purpose the scientifics in our mind must have a spiritual origin, and they must be conjoined to life. Nothing of the Church can be built upon a merely natural foundation - such as alone exists in the Old Church, except with the remnant there. If we would receive into ourselves: the Church which will last for ever, we must from first to last rely only upon truths from a spiritual origin - only upon truths of revelation, and life according to them. We are taught that at the Lord's Advent:
 all flesh is grass - the grass hath withered. The truths of the previous revelations of the Word, though spiritual in their origin are lifeless, they have become as to the falsified understanding of them truth of merely natural origin. If these dead scientifics are to become living again in us, if the truths of the previous revelations are to become genuine with us, and if we are to receive the glory of Divine Truth, which will form the Church which is to last for ever, we must look for the means in the Evangel of the Lord's New Advent for this completes the revelation of the Word with us, and thereby alone can the Word stand for ever Church that will never fall. Let us therefore put no trust in the previous forms of the Word separated from this their Spirit, still less in truths of merely human origin, and in any truths except for the sake of life according to them. If we would receive the Word at all we must receive it in the fulness in which the Lord has given it to us. The grass hath withered, the flower hath faded; but the Word of our God will stand for ever.
 
-FIRST SERIES. Nr. 22.
+== FIRST SERIES. Nr. 22.
 
 December 7th 1891. Reference: H. D. 2652-266.
 
 [Hebrew.] MICAH 4:2.
 
-E. 22011. Nam a Zione exibit doctrina, et Verbum (Jehovae) ex Hierosolyma.
+@E.22011. Nam a Zione exibit doctrina, et Verbum (Jehovae) ex Hierosolyma.
 
 MICAH 4:2. For from Zion shall go forth doctrine, and the Word of Jehovah out of Jerusalem.
 
@@ -499,18 +504,17 @@ rock of faith in Him as He has manifested Himself in His New Advent.
 
 Lastly we are told which books in the Old and New Testaments are books of the Word. For our knowledge as to which of those books are the Word and which are not, even for our rational knowledge that any of them are the Word we are indebted solely to the Writings. There are no indications whereby we could have distinguished them. Some of them like the book of Job are written in correspondences, and therefore have an internal sense, but it is not the internal sense of the Word. Correspondences do not cause a book to be a book of the Word, for all the books of the times of the Ancient Church were so written and they are not entirely absent from some modern books. The fact of having a sense internal to that of the surface does not make a book to be a hook of the Word, for most books have that more or less. The one thing that determines it is have they the internal sense of the Word? If they have they are hooks of the Word. if they have not they are not. Each of the three forms of the Word which is with us, has the internal sense, the difference being in its being more or less openly manifested in the one than in the other, and differently accommodated. The Word of the Old Testament has the internal sense of the Word; but in forms adapting it to the lowest plane of the mind. The Word of the New Testament has the internal sense of the Word; but in forms accommodated to a comparatively interior plane of the mind. The Writings have the internal sense of the Word, for in them it is most openly revealed; but it is in forms accommodated to the rational plane of the mind. Only the Word as presented in the Writings can teach the Word to our rational minds. Each form is absolutely necessary, and the three forms together make but one Word, one full accommodation of the Word to each and every plane of the mind that can be active in this world. It is because in the New Church the Word thus exists in accommodation to all the planes of our mind, therefore in a fulness of accommodation such as never before, that it is prophesied that the Word will go forth from Jerusalem. For only in the Church of the New Jerusalem has the Word really a full abiding place. Only there is the Word received as it is accommodated for each plane of the mind. The New Church cannot possibly exist when those books of the Word which have been given to teach the rational plane of our minds are rejected or their Divine authorship denied. They are the Word because they are of and from and the Lord Himself, and in them He Himself, teaches us how to rationally receive Him, how to rationally understand the special end and purpose of each form of the Word that has been given. Only by truly receiving this rational form of the Word can we be saved from a perverted reception of every form of the Word. The Word has never been with any Church in such fulness of accommodation as now with the New Church, in the three forms which make the accommodation complete for all planes, nor could it have been until the Lord had glorified His Human and effected His New Advent therein. Therefore for ever in the genuine New Church from Zion shall go forth doctrine and the Word of the Lord from Jerusalem.
 
-SECOND SERIES. Nr. 1.
+== SECOND SERIES. Nr. 1.
 
 November 17th 1895. Reference: T. 189-192.
 
 JOHN 1:1. [Greek.]
 
-T. 190. Et Deus erat Verbum.
+@T.190. Et Deus erat Verbum.
 
 JOHN 1:1. And God was the Word.
 
-The presentation of the Doctrine of the Word is, with some modifications and additions, the same as that given in the FOUR PRIMARY
-DOCTRINES, but is arranged in quite a different series from that given in THE NEW JERUSALEM AND ITS HEAVENLY DOCTRINE, the consideration of which was brought before you in a series of Sermons some four years ago. It can be expected therefore that the subject will appear in clearer light now and that from a new consideration of it as here presented, further particulars of knowledge will be received and the general doctrine be more fully confirmed and impressed. It is a subject which cannot be too well known by members of the Church, for it concerns the very means by which the Lord is present with us to teach and lend us, and shows us where alone we can practically look to the Lord for guidance.
+The presentation of the Doctrine of the Word is, with some modifications and additions, the same as that given in the FOUR PRIMARY DOCTRINES, but is arranged in quite a different series from that given in THE NEW JERUSALEM AND ITS HEAVENLY DOCTRINE, the consideration of which was brought before you in a series of Sermons some four years ago. It can be expected therefore that the subject will appear in clearer light now and that from a new consideration of it as here presented, further particulars of knowledge will be received and the general doctrine be more fully confirmed and impressed. It is a subject which cannot be too well known by members of the Church, for it concerns the very means by which the Lord is present with us to teach and lend us, and shows us where alone we can practically look to the Lord for guidance.
 
 "Sacred Scripture or the Word is Divine Truth Itself", T. C. R. 189.
 
@@ -532,13 +536,13 @@ The only acknowledgment of the Lord as God that is real is the acknowledgment of
 
 That so few are convinced therefore is not in any wise because the Writings need to be better accommodated to men's reception as some seem to think, but because so few are willing to be convinced. That the Lord in His First Advent claimed to be God was blasphemy to the Jews, similarly in His New Advent the claim that the Revelation in which He has come is His own Word, is the God to which the New Church must render implicit obedience, is regarded as blasphemy and as derogatory to the forms of the Word before acknowledged. Instead of being derogatory to them this new Revelation testifies concerning their Divinity and Sanctity with a rational clearness before unknown and makes it evident how absolutely necessary each of them is in its place. The relation between the internal and external of the Word, is similar to that between the Lord and His Human, and both are similar to that between the soul and body of each man. Even the finite soul of man is above the plane of his consciousness, much more is God, as He is in Himself, above and beyond human comprehension. But as we know man's soul through its manifestation in the body, so can we know God as He is revealed to us in the forms of the Word, especially now that God is with us even as to the revealing of the rational life of His Human by which all who are willing may enter intellectually into the mysteries of faith, and render rational service to the God whose every word is Divine Truth Itself.
 
-SECOND SERIES. Nr. 2.
+== SECOND SERIES. Nr. 2.
 
 November 24th 1895. Reference: T. 193-195.
 
 JOHN 6:63. [Greek.]
 
-T. 190. Verba quae Ego loquor vobis, Spiritus sunt et Vita sunt.
+@T.190. Verba quae Ego loquor vobis, Spiritus sunt et Vita sunt.
 
 JOHN 6:63. The words which I speak to you are Spirit and are Life.
 
@@ -570,7 +574,7 @@ Divine Truth as it proceeds from the Lord takes on discretely different appearan
 
 Thus the question what is the spiritual sense of the Word? may be answered as meaning universally the real spirit, and intention of what the Lord has revealed. This is given as the universal meaning, because it applies to every written form of the Word both in the heavens and on earth; in this respect each and every one of them has a spiritual sense, interior to the letter in which it is ultimated. The Writings given to the New Church are no exception to this rule, and therefore if you would really receive the Spiritual Sense of the Word therefrom, you must sincerely search therein for the very Spirit and intention of the Lord's teaching, expecting to find it different from and even contrary to all your preconceived ideas, and remembering that it is by so doing that advance is possible to the angels, much more therefore is it necessary to make man's reformation and regeneration possible. The Lord calls upon you to search for the very spirit of the teaching which He gives in His New Advent, for His declaration is true of all that is revealed from Him. In His New Advent as well as in His First, He declares: the Words which I speak to you are spirit and are life.
 
-SECOND SERIES. Nr. 3.
+== SECOND SERIES. Nr. 3.
 
 December 1st 1895. Reference: T. 196-199.
 
@@ -604,13 +608,13 @@ Namely, appearances of truth enlightened by the Divine.
 
 From which it is evident, that so far is it from being the case that when men come to the Writings, they meet what is no longer appearances of truth, no longer what is correspondential that the real fact is that it is then that they are first fully introduced to genuine appearances of truth, and even then only if they permit the appearances there to be enlightened by the Divine. Before that they are more or less in the fallacies of the senses - the mere appearances of facts, which men indeed call truths but which even when they have corrected them to the best of their natural ability, express only the effects which appear and not even the appearance of the spiritual truth which causes those effects. Appearances of Truth enlightened by the Divine, are what make the rational of an angel, thus the truly human rational. Such appearances of Truth are the highest to which finite beings can attain, although they may receive more and more enlightenment in them to all eternity; and by means of such enlightenment may see more of the infinite Divine Truth of the Spiritual Sense which is in all and single things of whatever the Lord has spoken. Because men can be raised only to the appearances of truth, therefore it is a necessity of accommodation, that the Lord never speaks to angels or men except in appearances, which all and singly correspond to the Divine Truth - Himself, even as on earth He spake unto the multitude in parables, and without a parable spake He not unto them.
 
-SECOND SERIES. Nr. 4.
+== SECOND SERIES. Nr. 4.
 
 December 8th 1895. Reference: T. 200.
 
 [Hebrew.] ISA 19:24.
 
-E. 31310. T. 200. In die illo erit Israel trina (tertia) Aegypto et Aschuri, benedictio in medio terrae.
+@E.31310. T. 200. In die illo erit Israel trina (tertia) Aegypto et Aschuri, benedictio in medio terrae.
 
 ISA. 19:24. In that day Israel shall be a trine with Egypt and Ashur, a blessing in the midst of the earth.
 
@@ -646,13 +650,13 @@ Evidence that this is done abounds on all hands - many things in the Word are no
 
 Learn therefore to distinguish between the spiritual and the rational of the Word, and that it is from the Spiritual Sense that the Word is Divinely inspired and is holy in every expression. The Writings are a rational presentation of the spiritual sense of the Word. But if man in reading thinks most of what appears to him to be rational therein, and receives teaching therefrom only on the ground of that appearance, he will not receive the spirit and life of the Lord therefrom. Instead of approaching them in this way, you should always bear in mind that the Lord has come therein as the Spirit of Truth to teach an order of life which is the very inversion of ally order which man can construct from his own intelligence or rationality, that you can only open yourselves to the reception of that Spirit of Truth, so far as you are willing to have Sour natural rationality contradicted by the Lord, and a new and different rationality implanted in you, such as will be subordinate to the Spirit of Truth, and be content humbly to transmit its light to the external. If a man begins from the idea that the Writings are Divine from and because of their rationality, he will necessarily mean from and because of their appearing rational to him, and yet in spiritual things what appears rational to the merely natural man is never truly rational, but is the opposite thereto. Beware therefore of remaining in any such idea. Instead search the Writings for that Spirit of Truth which will open your eyes to your own spiritual evils, which will lead you away from the pride of self-intelligence, which will expose the worthlessness of mere natural rationality in spiritual things, until it has been reformed and subordinated to the spirit of Divine Revelation, which in all things will humble self and magnify the Lord's Providence, which will lead you not to thank God that you are not as other men are, but to recognize that if you are saved it will be entirely of the Lord's mercy in withholding you from your own way. Thus must both the rational and the natural be subordinated to the spiritual, in order to be a blessing is the midst of the Church. Such is the fruit by which the teaching of the Spiritual Sun of the Lord's Word may be known, that Spiritual Sun from which the Word is Divinely inspired and is holy in every expression, such is the fruit which will more or less distinguish all who really become of the Church of the Lord's New advent concerning which the prophecy was made: "In that day Israel shall be a trine with Egypt and Ashur, a blessing in the midst of the earth."
 
-SECOND SERIES. Nr. 5.
+== SECOND SERIES. Nr. 5.
 
 December 15th 1895. Reference: T. 201-203.
 
 [Hebrew.] GEN. 5:24.
 
-A. 520. Et ambulavit sibi Chanoch cum Deo, et non amplius, quia sumsit illum Deus.
+@A.520. Et ambulavit sibi Chanoch cum Deo, et non amplius, quia sumsit illum Deus.
 
 GEN. 5:24. And Chanoch walked with God, and he was not anymore for God took him.
 
@@ -696,13 +700,13 @@ In the concluding number of this morning s lesson an illustration is given from 
 
 The knowledge of correspondence is to help men to cooperate with the Lord in such healings of their own spiritual diseases. It is for such as are willing to use it thus that it has been preserved and revealed. From such as are unwilling so to do the Lord takes away the ability of seeing what it internally involves, lest its use for others should be destroyed. Such is the teaching involved in the text And Chanoch walked with God, and he was not any more because God took him.
 
-SECOND SERIES. Nr. 6.
+== SECOND SERIES. Nr. 6.
 
 December 29th 1895. Reference: T 204-207.
 
 [Hebrew.] ISA. 31:7.
-
-E. 5859. In die illo rejicient quisque idola argenti sui et idola auri sui quae fecerunt vobis manus vestrae, peccatum.
+ + 
+@E.5859. In die illo rejicient quisque idola argenti sui et idola auri sui quae fecerunt vobis manus vestrae, peccatum.
 
 ISA. 31:7. For in that day they shall cast away each man the idols of his silver and the idols of his gold what your hands have made for you a sin.
 
@@ -735,13 +739,13 @@ All men have a natural tendency to confirm whatever they like to believe by what
 
 All internal idols are formed in man s own intelligence, as prompted by his love, therefore it is said which your own hands have made for you. It is not to be thought that a man on entering the New Church can have rejected his idols once for all. He must indeed have begun to do so before he can really be of the New Church at all. But until he has become fully regenerated his will will continue to prompt his own intelligence to form and set up idols of silver and gold. Hence there is continuous necessity to apply Divine Truth to the exposing and rejecting of these idols. It is said further which your hands have made a sin. Evil is not sin until it is known or believed to be contrary to the Divine command. But even in man's own intelligence there is stored some idea of what is forbidden by the Divine, and in forming ideas contrary thereto from the prompting of the will, it is not only making idols, but making them a sin. All have some idea, however dim or however erroneous, of what they believe to be Divinely commanded or forbidden, and according to their attitude to that idea they determine the beginning of their own condemnation or their own justification. In the New Church such idea of the Divine commands is neither dim nor erroneous, but in all essentials is full and clear to all who walk in its light. But this privilege carries with it the danger of the greater condemnation if evils be not shunned as sins. In the light of the New Church there can be little evil which man by his intellectual reception of the doctrines has not caused to be sin for him to commit. He cannot worship the idols of his own will and understanding without sinning against the light revealed to him and thus against the Lord from whom that light is. He diligent therefore in rejecting the conceits of your own prudence and intelligence, and also the promptings of your own will, which will otherwise become the idols of your worship. Only thus can you have year part with those concerning whom it is prophesied: In that day they shall cast away each man the idols of his silver and the idols of his gold, which your hands have made for you a sin.
 
-SECOND SERIES. Nr. 7.
+== SECOND SERIES. Nr. 7.
 
 January 12th 1896. Reference: T. 208.
 
 [Hebrew.] GEN. 3:24.
 
-A. 306. Et habitare fecit ab oriente ad hortum Edenis Cherubos; et flammam gladii vertentis se, ad custodiendam viam arboris vitarum.
+@A.306. Et habitare fecit ab oriente ad hortum Edenis Cherubos; et flammam gladii vertentis se, ad custodiendam viam arboris vitarum.
 
 GEN. 3:24. And He caused to dwell from the east towards the garden of Eden, Cherubim, and the flame of a sword turning itself to guard the way of the tree of lives.
 
@@ -782,13 +786,13 @@ Lest therefore anyone should enter into the spiritual sense and pervert the genu
 
 And He caused to dwell from the east towards the garden of Eden, Cherubim and the flame of a sword turning itself to guard the way of the tree of lives.
 
-SECOND SERIES. Nr. 8.
+== SECOND SERIES. Nr. 8.
 
 January 19th 1896. Reference: T. 300.
 
 [Hebrew.] PS. 119:18
 
-A. 3382. Revela oculos meos ut videam mirabilia e Lege tua.
+@A.3382. Revela oculos meos ut videam mirabilia e Lege tua.
 
 Ps. 119:18. Unveil my eyes that I may see the wonderful things out of Thy Law.
 
@@ -837,13 +841,13 @@ It is when we descend into ultimates to perform actual uses according to the tea
 From all these illustrations there can be seen the infinite power of the Word, both to lift up to heaven and to thrust back to hell such as have not chosen to prepare themselves for heaven. In the spiritual world it has been seen to overturn mountains and hills, transfer them to a distance and cast them into the sea. It must do the same in the spiritual world of our minds, if we would be regenerated and have our eyes unveiled to the glory of heaven, by overturning and casting out the mountain of self love which is so prominent there. The power to do this lies in the very ultimates of the Word but it is from the internal as is also all its heavenly light. Whether that power and that light descend from the internal into the ultimates of the Word in our mind to remove our evils and to guide us to heaven depends upon our attitude thereto. In view of the terrible way in which the power of the Word is manifested towards those who have trusted in the, guidance of their own intelligence, it is only when we are really willing to deny ourselves in order to be lad by the Lord that it is wise to pray with David:
 Unveil my eyes that I may see the wonderful things out of Thy Law.
 
-SECOND SERIES. Nr. 9.
+== SECOND SERIES. Nr. 9.
 
 January 26th 1896. Reference: T. 210-213.
 
 JOHN 19:36. [Greek.]
 
-T. 262. A. 9163. Facta sunt (enim) haec ut Scriptura impleretur, Os non confringetis.
+@T.262. A. 9163. Facta sunt (enim) haec ut Scriptura impleretur, Os non confringetis.
 
 JOHN 19:36. For these things were done that the Scripture might be fulfilled - a bone of Him shall not be broken.
 
@@ -876,13 +880,13 @@ These three heavens form respectively the head, trunk, and limbs of the Grand Ma
 
 From all these things it is evident how important it is to see that in our reception of the Lord as the Word no bone of Him be broken, and the Lord in His Providence has preserved the letter of His Word from all injury and will ever do so. But still in our individual reception thereof such injury may be done, and it may be done not only to the lowest ultimate of the Word but also by breaking the connection which should exist between the various literal forms of the Word, all of which are essential each in its own place and order as the basis and support of the Divine Human form. This do, that in you also the Scripture may be fulfilled. Ye shall not break a bone of Him.
 
-SECOND SERIES. Nr. 10.
+== SECOND SERIES. Nr. 10.
 
 February 2nd 1896. Reference: T. 214-215.
 
 MATT. 28:18. [Greek.]
 
-L. 46. Data est Mihi omnis potestas in caelo et in terra.
+@L.46. Data est Mihi omnis potestas in caelo et in terra.
 
 MATT. 28:18. All power has been given to Me in heaven and on earth.
 
@@ -919,13 +923,13 @@ Mark the sense of the letter is in natural light, and man cannot see Divine Trut
 
 This teaching should protect men of the New Church from those false Christs who come as internal Revelation only. The Lord always manifests Himself as Divine Truth in definite form, and externally always in a form natural to the plane on which He appears. Yet however these forms vary in accommodation to the various capabilities of finite reception, wherever the Lord appears the ultimates in which He appears are all powerful there. That is, the letter of every Divine Revelation is all powerful for the purpose for which it has been given. Wherever and whenever the Lord comes He can only come with infinite power, and it is of each ultimate appearance of Himself that He declares: all power is given to Me in heaven and on earth.
 
-SECOND SERIES. Nr. 11.
+== SECOND SERIES. Nr. 11.
 
 February 9th 1896. Reference: T. 216-219.
 
 APOC. 21:19, 20. [Greek.]
 
-R. 914, 915. Et fundamenta muri urbis omni lapide pretioso exornata. Fundamentum primum jaspis, secundum sapphirus, tertium chalcedonius, quartum sardonyx, sextum sardius, septimum chrysolithus, octavum beryllus, nonum topazius, decimum chrysoprasus, undecimum hyacinthus, duodecimum amethystus.
+@R.914, 915. Et fundamenta muri urbis omni lapide pretioso exornata. Fundamentum primum jaspis, secundum sapphirus, tertium chalcedonius, quartum sardonyx, sextum sardius, septimum chrysolithus, octavum beryllus, nonum topazius, decimum chrysoprasus, undecimum hyacinthus, duodecimum amethystus.
 
 APOC. 21:19. And the foundations of the wall of the city garnished with every precious stone. The first foundation jasper, the second sapphire, the third chalcedony, the fourth emerald, the fifth sardonyx, the sixth sardius, the seventh chrysolite, the eighth beryl, the ninth topas, the tenth chrysoprasus, the eleventh hyacinth, the twelfth an amethyst.
 
@@ -953,13 +957,13 @@ The fourth row, the beryl, the onyx, and the jasper were of a colour which appro
 
 Thus there is represented the letter of the Word as it is in the heavens. The first two rows represent the letter as it is respectively in the internal and the external of the celestial kingdom, and the last two rows the letter as it is respectively in the internal and the external of the spiritual kingdom; but in each of them it appears in trinal form, and variously according to the various receptions of the angels. Thus everywhere the Divine Truth itself is presented in ultimate forms, in which it is protected itself and in which it is able to afford protection to all who trust in it. Although the variety of its presentation is so great, never is there any indication that it is ever presented otherwise than in definite written forms. No part of the foundation of the heavens is without precious stones as the support and ultimate basis. Nor can any part of the foundation of the New Church be upon any other basis. Unless the Revelation by means of which the Lord has come to establish the New Church were as to its ultimates composed of precious stones, it could not convey the doctrine which is alone to give light in the New Jerusalem. Unless we learn to recognize the ultimates of that Revelation as precious stones, our eyes will remain blind to the light which the Lord has revealed for the New Church. This light is not from the sense of the letter, but can be seen beautifully reflected therein by those who suffer themselves to be taught genuine truths. But it is in their literal expression that their power is realized. The power of truth is the power of opening heaven, and also the power of combating evils and falses. In the presence of genuine truth, the real nature of evil first becomes evident. To know its real nature is to be protected against it, for it is only by its appearance of being brood that it has hold upon us. It should be our aim so to surround our minds with a wall of truths, that nothing false and evil could continue therein without its real quality becoming manifest. Such a wall would consist of precious stones all pellucid from spiritual light within which only heavenly things could flourish, and against which all infernal attacks would be in vain.
 
-SECOND SERIES. Nr. 12.
+== SECOND SERIES. Nr. 12.
 
 February 16th 1896. Reference: T. 220-221.
 
 [Hebrew.] EX. 26:1.
 
-A. 9593. Et Habitaculum facies, decem aulaea, byssino contexto, et hyacinthino, et purpura et coccinea debapho, cherubis, opere excogitatoris (artificis) facies illa.
+@A.9593. Et Habitaculum facies, decem aulaea, byssino contexto, et hyacinthino, et purpura et coccinea debapho, cherubis, opere excogitatoris (artificis) facies illa.
 
 Ex. 26:1. And thou shalt make a habitation with ten curtains of twined byssus and hyacinth and purple and scarlet double dyed, with cherubim, the work of a contriver thou shalt make them.
 
@@ -1004,13 +1008,13 @@ The whole is called the work of a contriver, by which is signified the intellect
 
 For how can the Lord's dealings with man be rationally understood, unless the nature of man himself be rightly understood. Only then can man begin to understand the wonderful perfection of the various accommodations of Divine Truth which the Lord has provided, and how each and all of them are essential for the complete reformation and regeneration of the human mind. As soon as any genuine understanding of this matter is attained, men of the Church will cease considering one ultimation of Divine Revelation as either more or less important than another, and will recognize and acknowledge that each is perfect and all powerful in its own place and for its own purpose. The man of the New Church thus recognizing the essential use of each form of the Word, will use that given in the Lord's New Advent to make a habitation for the Lord in the intellectual part of his mind, in obedience to the Lord's command as he is taught to spiritually understand it. Thou shalt make a habitation with ten curtains of twined byssus, and hyacinth, and purple, and scarlet double dyed, with cherubim, the work of a contriver thou shalt make them.
 
-SECOND SERIES. Nr. 13.
+== SECOND SERIES. Nr. 13.
 
 February 23rd 1896. Reference: T. 222.
 
 MATT. 17:1, 2. [Greek.]
 
-E. 64. (Et post dies sex) assumpsit Jesus Petrum, (et) Jacobum, et Johannem (fratrem ejus, et subducit illos) in montem altum valde (seorsim). Et transformatus est coram illis.
+@E.64. (Et post dies sex) assumpsit Jesus Petrum, (et) Jacobum, et Johannem (fratrem ejus, et subducit illos) in montem altum valde (seorsim). Et transformatus est coram illis.
 
 MATT. 17:1, 2. And after six days Jesus took Peter and James and John his brother, and led them up into la very high mountain, apart. And was transformed before them.
 
@@ -1044,11 +1048,11 @@ Here, as is so frequently the case, the threefold form of the Word is made evide
 
 The letter of every Divine Revelation constitutes the clouds in which it is given, and there is nothing more prominent in the very letter of every Divine Revelation than that the Lord is, and all salvation is from obedience to Him. Whether we regard the letter of the Old Testament, the letter of the New or the letter of the Writings, thus whether we regard the clouds in which the Lord manifested Himself formerly or the clouds in which He now manifests Himself in His New Advent, from all that voice is heard saying: This is my beloved Son hear ye Him. To hear means to give heed to and obey. This command is reiterated throughout each form of the Word - In each man is exhorted again and again to obey the Divine Truth there revealed in order that he may live, and is as often warned that failure or refusal to obey it will result in eternal death. This command is not peculiar to any one form of the Word, it is common to them all and in all it is most plainly set forth in the very letter so that all who will can hear that voice out of the clouds. Hence it is externally heard by all who even with their external ears hear the letter of Divine Revelation read; and yet few hear it in the sense of giving heed and obeying. Those that do thus really hearken to this voice heard from the letter cloud, do not remain able to see the letter only; they also see the Lord Himself as to genuine spiritual truth, yea, they also see His face shining with the affection of Divine Love and each form of the Word as communicating therewith. That is he who heeds and obeys the call from the letter of each form of the Word to obey the Lord as Divine Truth, he also hears, that is heeds and obeys what the spirit saith to the Churches. In reality no others do. It is obedience to the Word in the letter, because it is the Lord's, that prepares Peter, James, and John in the regenerating man to be able to see the Lord in His glory, which ability then comes to the rational sight of the understanding, and enables him to understand better and better what the letter is intended to teach him. Man never becomes independent of the letter of Divine Revelation for his reception of genuine Truth. Like the disciples He is overshadowed by the cloud even when he is permitted to behold the glory of the Lord as He reveals Himself in the spiritual sense. All answers from heaven are given through the letter of the Word - that is the letter of Divine Revelation - and all advance in the understanding of genuine truth is simply an advance in the understanding of what the letter really contains. Moreover the preparation for every such advance is the same, it is readiness to obey the Word as it is understood at any given time. The voice out of the clouds is continually heard by those who are in innocence, calling upon them to obey the Truth as the Lord has given them ability to understand it now. The command comes to each man of the Church, in respect to his present understanding of the Word. "This is my beloved Son, hear ye Him". When we have been led to see the genuine spiritual sense, which is the Lord as He appeared transformed before His disciples - the necessity of obeying this command is only made more rationally clear - this is the Lord Himself in Divine Truth or the Word - to obey is life, to disobey is death. This is my beloved Son, hear ye Him.
 
-SECOND SERIES. Nr. 14.
+== SECOND SERIES. Nr. 14.
 
 March 1st 1896. Reference: T. 223.
 
-A. 3301. Omnibus diebus naziraeatus eorum novacula non transiret super caput eorum.
+@A.3301. Omnibus diebus naziraeatus eorum novacula non transiret super caput eorum.
 
 NUM. 6:5. All the days of the vow of his Nazariteship a razor shall not pass upon his head.
 
@@ -1092,13 +1096,13 @@ That they called Elisha bald was denying the letter of the Word as represented b
 
 Thus at that stage which represented his entrance into a. higher plane of life, the Nazarite shaved his head and afterwards new hair grew thereon. Is not this what takes place with every man who enters heaven - he then puts off as far as it can be consciously present with him the letter of the Word as it is in the world, and the letter of the Word as it is ultimated in heaven takes its place - the old hair is shaved off and new takes its place. This indeed only takes place fully when a man is prepared to fully enter heaven, but a change analogous thereto takes place when after due preparation he passes from the natural sense of the Word to the spiritual sense - then one sense of the letter is comparatively put away, and another new one is received. Man at one period was such that the sense of the letter of the Word of the Old Testament was the accommodation of Divine Truth best fitted for him; but in due time he entered a state when the sense of the letter as it is in the Word of the New Testament became the more fitting form of accommodation for him, and then the prior was put away to the extent that the understanding of it was subordinated to the new form of Divine Truth. Again in the fulness of time he entered into a state when still another form of accommodation was necessary to him and the Writings were given, which being received, the understanding of both previous forms of the Word becomes subordinated to that understanding of Truth which the man of the New Church receives by means of the sense of the letter of that new Revelation. The change in these cases is only analogous to that which takes place on fully entering heaven, because those three forms of the Word as to their externals are all natural, and therefore passing from the sense of the letter of one to the sense of the letter of the other, is only analogous to passing the discrete degrees between the natural and the spiritual, but still it demands an approximate carrying out of this same law as to the sanctifying of the Nazarite - that then the head is to be shaved that new hair may take the place of the old. Neither must the other law be disregarded that until preparation for the change of state is made - the hair must not be shaved off,--that is, each must cling to the sense of the letter which is appropriate to his state. For example we should be careful not to remove from a child the sense of the letter which teaches that the Lord is angry with the wicked and even hates them, until it has come into the ability to understand the sense of the letter which teaches that the Lord is good to all and sendeth His rain upon the just and upon the unjust; nor must this latter sense of the letter be removed from him until the rational faculty is sufficiently developed to receive that sense of the letter which teaches how fully the Lord discriminates as to the way in which He expresses His love to reach each and every individual, doing good to the devils in quite an opposite way to that in which he does good to the angels, though always as is really best for each one. Thus there are times when we must heed the law not to shave the head, and there are times when we must attend to the law that the head is to be shaved that new hair take its place. While we are in this life, however, the application of the prior law holds in regard to all Divine Revelation which has been ultimated for us in the natural forms of this world - the sense of the letter of each is necessary in its place. Let the man of the Church therefore take heed that all the days of his Nazariteship, a razor may not pass upon his head.
 
-SECOND SERIES. Nr. 15.
+== SECOND SERIES. Nr. 15.
 
 March 8th 1896. Reference: T. 221.
 
 MATT. 16:18. [Greek.]
 
-A. 43683. (Et) Ego tibi dice, quod tu sis Petrus, et super hac petra aedificabo meam Ecclesiam, et portae inferni non praevalebunt ei.
+@A.43683. (Et) Ego tibi dice, quod tu sis Petrus, et super hac petra aedificabo meam Ecclesiam, et portae inferni non praevalebunt ei.
 
 MATT. 16:18. And I, I say to thee, that thou art Peter, and upon this rock I will build My Church, and the gates of hell shall not prevail against it.
 
@@ -1128,7 +1132,7 @@ March 15th 1896. Reference: T. 285-228
 
 [Hebrew.] EX. 23:13.
 
-A. 9271. Et nomen deorum aliorum non memorabitis, non audietur super ore tuo.
+@A.9271. Et nomen deorum aliorum non memorabitis, non audietur super ore tuo.
 
 Ex. 23:13. And the name of other gods ye shall not mention, it shall not be heard upon thy mouth.
 
@@ -1166,7 +1170,7 @@ We may by the name of other gods, especially the name of those gods of self and 
 
 False doctrine is not to be obeyed with any affirmation. This implies that it is one thing to obey it without any affirmation and another to obey it with any affirmation; for it is the latter which is specifically forbidden here. This distinction can only be understood when it is seen that the natural man is entirely under the influence of false doctrine, and that everything done from the natural man therefore is done from obedience to false doctrine. This is so with every man until he has ceased to have: a merely natural part of his mind, that is until he is fully regenerated. In the meantime, however, if he is seeking to become regenerated, let him beware of obeying false doctrine with any affirmation. Every regenerating man must see and humbly acknowledge that much of what he does is from the natural man only, and from the teaching (necessarily false) which the natural man in him favors, but let him beware of affirming that teaching as a right principle of life, which he is apt to do because it is his own, for if he does, it will so far become the more difficult, if not altogether impossible, for him to escape from its dominion. Affirm only such doctrine as involves denial of self, that the Lord may be obeyed instead of self, and as teaching what is altogether opposite to what self favors. And the name of other gods ye shall not mention, it shall not be heard upon thy mouth.
 
-SECOND SERIES. Nr. 17.
+== SECOND SERIES. Nr. 17.
 
 March 29th 1896. Reference: T. 229-230.
 
@@ -1202,13 +1206,13 @@ It is a popular error among some members of the Church, that genuine truth is ac
 
 Man cannot discover the spiritual sense himself - nor can he acquire it by any effort of his own - even though he be thoroughly familiar with the science of correspondences - it is given by the Lord to those who sincerely and honestly try to do what they plainly see the Lord has written for their guidance. This is the way to the spiritual sense, and the only way, which the Lord Himself has provided. All who try to climb up by some other way are spiritually thieves and robbers. If a man is really willing to follow that way, he will see the truths which express the spiritual sense as bare to his sight in written Revelation, and there is no limit to the gradual increase of what will thus be made clear to him as expressed in the very letter of Divine Revelation, either altogether bare there, or as transparently clothed. Only do, or sincerely strive to do, all that you see to be plainly written for your guidance in what the Lord has revealed and continue in the same endeavor as it is given you to see more and more, as in that case it surely will. For the Word is given, each form of the Word is given, In order that thou mayest observe to do all that is written in it.
 
-SECOND SERIES. Nr. 18.
+== SECOND SERIES. Nr. 18.
 
 April 12th 1896. Reference: T. 231-233.
 
 MATT. 13:13. [Greek.]
 
-A. 3869. Propterea per parabolas loquor illis, quia videntes non vident, et audientes non audiunt, nec intelligunt.
+@A.3869. Propterea per parabolas loquor illis, quia videntes non vident, et audientes non audiunt, nec intelligunt.
 
 MATT. 13:13. Wherefore I speak to them in parables, because seeing they do not see, and hearing they do not hear, neither do they understand.
 
@@ -1240,7 +1244,7 @@ The blindness to genuine truth which thus comes in is all the worse because it i
 
 The great bulk of those in the Old Church are in this state, providentially blinded to the truth, because of their lack of affection which would make the right use of it. But it is for the members of the New Church to learn to see that the teaching has application to themselves also. So far as they are still unregenerated they too are providentially blinded from much truth which they would otherwise see, as long as there is any of the natural man left unregenerated, there is so far blindness to spiritual truth. Even when there is much intellectual grasp of the truth, the natural man always tends to be blind to application of it to his own self - and when there is blindness to this, the truth itself is not seen. The Lord comes to man in Truth in order to save him if he will. But to save him is to expose his own evils to him in order that he may combat and shun them as sins. If a man therefore does not pee in them their application to his own evils, he is blind to what is the very spirit and essence of the truth for him, he is deaf to just that which the Lord has come to teach him in particular. Let each reflect upon this, and he will find that his natural tendency is to be blind in this respect. A man may clearly see the truth in its application to others and yet be blind to its application to his own self, and that is to be blind to the truth which the Lord has given for him. There is infinity in every Divine Truth; but however much of this a man may see, if he does not see that in it which has particular and practical application to himself, he is blind to the very means in which the Lord has come to save, he is blind to the only means by which he can be saved. Is not this for all practical purposes as fully blindness to the truth as it is with those who reject it externally also. It is important therefore that each examine himself in this respect, and seek the means by which his blindness can be cured. In faithfully examining himself he will find that the heart of man is deceitful above all things, that the natural will exercises the greatest cunning in regarding. the truth in all aspects but just the one which will condemn itself - it will most skillfully fence with every endeavor of the conscience to bring it home - even when the external application is recognized, there will still be a constant tendency to evade seeing its internal application, for this it is which touches the very life of man - that life however which he must be willing to lose if he would become truly the Lord's disciple. In seeking the means by which such blindness may be cured, let it be always remembered that the blindness itself is of the Divine Providence, and cannot be wisely removed unless the natural determination of the affection be inverted. Unless therefore men individually strive to be actively willing to give up their own will that the Lord's will may be done instead, they will be blind to just that in the truth which is necessary to save them, and that however fully they may enter into it intellectually; and they will be of those of whom the Lord declares now as much as ever: Wherefore I speak to them in parables, because seeing they do not see, and hearing they do not hear, neither do they understand.
 
-SECOND SERIES. Nr. 19.
+== SECOND SERIES. Nr. 19.
 
 April 19th 1896. Reference: T. 234-239.
 
@@ -1287,13 +1291,13 @@ Either the Writings which make this declaration are false, or they are the Word 
 
 Man shall not live by bread alone, but by every word going forth from the mouth of God.
 
-SECOND SERIES. Nr. 20.
+== SECOND SERIES. Nr. 20.
 
 April 26th 1896. Reference: T. 240-242.
 
 [Hebrew.] PS. 119:89.
 
-A. 2838. In aeternum Jehovah Verbum tuum consistit in coelis.
+@A.2838. In aeternum Jehovah Verbum tuum consistit in coelis.
 
 Ps. 119:89. Into eternity, O Jehovah, Thy Word is settled in the heavens.
 
@@ -1338,13 +1342,13 @@ The cause is similar why the Word in the Writings is written differently from th
 
 In it lies all angelic wisdom and within that the Divine Wisdom itself; but there is no wisdom there lower than angelic wisdom except in the mere appearances of the letter. It has not been given to convey worldly wisdom though this may be read into it by those who read it from themselves. Indeed the Word may be said to be given solely for the angels and thus for heaven - in the first place to make angels and afterwards to perfect angels to eternity. Without this latter use the first would be incomplete. Into eternity, O Lord, Thy Word is settled in the heavens.
 
-SECOND SERIES. Nr. 21.
+== SECOND SERIES. Nr. 21.
 
 May 3rd 1896. Reference: T. 243-247.
 
 [Hebrew.] DEUT. 33:17.
 
-E. 3364. Et hi myriades Ephraimi, et hi chiliades Menascheh.
+@E.3364. Et hi myriades Ephraimi, et hi chiliades Menascheh.
 
 DEUT. 33:17. And these are the ten thousands of Ephraim, and these are the thousands of Manasseh.
 
@@ -1372,13 +1376,13 @@ It is the life which a man really lives which makes the Church in him individual
 
 Nothing causes the falsification of truth but the inclinations of man's own will which constantly incite his self-intelligence to justify them, even by truths if possible. The inclinations of man's own will are the good which the world seeks and cultivates with more or less refinement and skill. Man can never escape from the worship of the good which the world regards as such unless the necessity of understanding the genuine truth of the Lord's Word be exalted, and made the sole standard of what should be striven after, and unless that good of life alone be given a place in the Church which results from striving after that standard regarded in its integrity and purity. Ephraim must go before Manasseh and be exalted above all the sons of Israel. They are the ten thousands of Ephraim and they are the thousands of Manasseh.
 
-SECOND SERIES. Nr. 22.
+== SECOND SERIES. Nr. 22.
 
 May 10th 1896. Reference: T. 248-253.
 
 [Hebrew.] JER. 33:10, 11.
 
-T. 252. (Sic dixit Jehovah) Adhuc audietur in loco hoc vox gaudii et vox laetitiae, ac vox sponsi et vox sponsae.
+@T.252. (Sic dixit Jehovah) Adhuc audietur in loco hoc vox gaudii et vox laetitiae, ac vox sponsi et vox sponsae.
 
 JER. 33:10, 11. Thus saith Jehovah: Again there shall be heard in this place the voice of joy and the voice of gladness, the voice of the bridegroom and the voice of the bride.
 
@@ -1412,13 +1416,13 @@ This joy and gladness conjoined make heavenly happiness.
 
 What heavenly joy is to the will, heavenly gladness is to the understanding. It is into such joy and such gladness that the Lord desires to lead all who would follow Him. Those who suffer Him to lead them into these are in those happy states to eternity. Of what account then are the troubles of the temptation states which must intervene but which last but a few years at most. Now it is declared that this joy and gladness of the inmost is propagated always with increase towards exteriors. Thus the joy and gladness of the heavenly marriage within, comes into its fulness of conscious realization by being ultimated in external marriage also. The marriage of the Lord and the Church within each conjugial partner is the source of all heavenly life; but it is realized in all its joy and gladness in the relation which obtains in externals from internals with every angelic husband and wife. This is the state which is meant by this place in the text: There shall he heard in this place the choice of joy and the voice of gladness, the voice of the bridegroom and the voice of the bride.
 
-SECOND SERIES. Nr. 23.
+== SECOND SERIES. Nr. 23.
 
 May 17th 1896. Reference T. 254-259.
 
 [Hebrew.] EX. 20 :14.
 
-A. 8904. Non adulterabis.
+@A.8904. Non adulterabis.
 
 Ex. 20:14. Thou shalt not commit adultery.
 
@@ -1458,13 +1462,13 @@ Truth from doctrine is here distinguished from truth from the letter - Truth is 
 
 From the correspondence of adultery with the confirmation of falses by the letter of the Word it call be seen what it is that essentially constitutes falsity. Whatever leads the Church to he false to her Divine Husband thus whatever favors being led by self-intelligence is false, and the literal forms of truth, even those of the Writings, are falsified if they are so understood as to make them favor self-intelligence or natural rationality. In the command Thou shalt not commit adultery the Lord speaks to you as a professed member of the Church which is His Bride and Wife and commands you not to be unfaithful to Him. Natural tendencies and spiritual temptation both entice you to receive the seed of truth from self or from the world, the doing of which is the real cause of all adultery internal and external.
 
-SECOND SERIES. Nr. 24.
+== SECOND SERIES. Nr. 24.
 
 May 24th 1896. Reference T. 260.
 
 APOC. 1:16. [Greek.]
 
-R. 52. Et ex ore Ipsius romphaea anceps acuta exiens.
+@R.52. Et ex ore Ipsius romphaea anceps acuta exiens.
 
 APOC. 1:16. And out of His mouth a sharp two-edged sword going forth.
 
@@ -1482,13 +1486,13 @@ The letter of the Word is called a two edged sword because there are essentially
 
 Many openly make it a condition of their acceptance of Divine Revelation that it shall defend their own natural beliefs which all favor their self-love. How often has the remark been heard, believe the Writings because I find that they teach what I have always believed! Such do not see genuine truth. For when the letter is used to defend a man's own love, it at the same time really guards genuine truth from him, from his very approach. But there is often the same tendency even where it is not openly expressed or acknowledged even to one's self. While persuaded that they receive it because it is the truth, it is really because they find much therein that can readily be turned to the defence of the states in themselves which they love. Both the former and the latter in effect stipulate in their acceptance of Divine Revelation, that it shall guard them in the way which they are already going, give them what they regard as good and lead them to a state of peace in the carrying out of their self-will even as Jacob made similar conditions for his acceptance of the Lord as his God, saying: If God will be with me and guard me in this way in which I am walking, and will give me bread to eat and clothing to clothe me, and I return in peace to the house of my father, then Jehovah shall be to me for a God. Gen. 28:20-1. Not only do men often make a similar condition for their acceptance of the Revelation in which the Lord has come anew; but even when they have received Him intellectually, they will find that there is still the same tendency in themselves in regard to the reception of Him into their will. That tendency is to receive into the will only those things which will guard the self-love there. Indeed that is all that is ever received easily or as a matter of course. Genuine Truth always comes as a sword turned against self-love and is never received into the will without a combat caused by the resistance of the natural man. The Word must therefore be received as a sword, which will not bring peace except as the result of combat in which self-love is defeated. But also it must he received as a. two-edged sword which can be turned either against self-love or against what opposes self-love, or in other words either against what are really our spiritual foes within us, or only against what we naturally feel to be our foes, namely whatever opposes our self-love. Our real foes we naturally and sincerely love and desire to guard them by all means. Compel yourselves to turn from them to look to the Lord and behold the sharp two-edged sword going forth out of His mouth, and take heed that it be turned against those foes which are enthroned in your natural love.
 
-SECOND SERIES. Nr. 25.
+== SECOND SERIES. Nr. 25.
 
 May 31st 1896. Reference: T. 261-263.
 
 LUKE 24:25, 26, 27. [Greek.]
 
-T. 262. (Et Ipse) dixit ad illos, (O) stulti et tardi corde ad credendum omnibus quae locuti sunt Prophetae; nonne hoc oportebat pati Christum, et ingredi in gloriam (Ipsius); incipiens porro a Mose et ab omnibus Prophetis, et interpretatus est illis in omnibus Scripturis de Ipso.
+@T.262. (Et Ipse) dixit ad illos, (O) stulti et tardi corde ad credendum omnibus quae locuti sunt Prophetae; nonne hoc oportebat pati Christum, et ingredi in gloriam (Ipsius); incipiens porro a Mose et ab omnibus Prophetis, et interpretatus est illis in omnibus Scripturis de Ipso.
 
 LUKE 24:25, 26, 27. And He said to them, O ye foolish and slow in heart to believe all which the Prophets have spoken. Did it not behoove Christ to suffer and to enter into His glory. And beginning from Moses and all the Prophets He interpreted to them in all the Scriptures the things concerning Himself.
 
@@ -1514,13 +1518,13 @@ But when the Lord interpreted the Word to His disciples, that it was all concern
 
 Is not the Word full of wars and treacheries, of plagues and cruelties - of trials and conflicts of all kinds? And yet the Word from beginning to end is a history of the Lord's glorification and thence it is also a history of the regeneration of every man who undergoes it. He in finite emulation of the Lord's example must strive to infill all things of the Word and meet the many combats and trials there that he is sure to become in something of the same spirit in which the Lord met them, when He prayed: Nevertheless, not my will but Thine he done. It was in that spirit that He infilled all things of the Word. And beginning from Moses and all the Prophets He interpreted to them in all the Scriptures the things concerning Himself.
 
-SECOND SERIES. Nr. 26.
+== SECOND SERIES. Nr. 26.
 
 June 17th 1896. Reference: T. 264-266, 279.
 
 [Hebrew.] GEN. 14:18.
 
-A. 1724. Et Malkizedech, Rex Schalem, eduxit panem et vinum, et ille Sacerdos Deo Altissimo.
+@A.1724. Et Malkizedech, Rex Schalem, eduxit panem et vinum, et ille Sacerdos Deo Altissimo.
 
 GEN. 14:18. And Malchizedek, King of Salem, brought forth bread and wine, and he was a priest to God Most High.
 
@@ -1557,13 +1561,13 @@ perhaps most immediately so, and therefore it seems to be a duty pointed out her
 
 Melkizedek therefore was a priest to God Most High, because he endeavored to bring forth from the Word and teach the very spirit thereof, to lead men not to dwell in the mere letter of Divine Revelation, but to ever seek to know more and more of the spirit which that letter is intended by the Lord to convey. Hence Malkizedek, King of Salem forth bread and wine, and he was a priest to God Most High.
 
-SECOND SERIES. Nr. 27.
+== SECOND SERIES. Nr. 27.
 
 June 14th 1896. Reference T. 267-272.
 
 JOHN. 1:9. [Greek.]
 
-E. 27. T. 269. Erat Lux vera quae illustrat omnem hominem venientem in mundum.
+@E.27. T. 269. Erat Lux vera quae illustrat omnem hominem venientem in mundum.
 
 JOHN 1:9. He was the true Light which enlightens every man coming into the world.
 
@@ -1603,13 +1607,13 @@ There have been a succession of Churches in this world for the guardianship of t
 
 What is true of heaven is also true in its degree of the Church. Therefore as the Lord is the Word also the Church is the Word, since the Church is the Church from the Lord, and the Lord by the Word is the all in all things of the Church. That is, the Church must so identify herself with the Word, by regarding nothing as being really of the Church but what is of and from the Word, that she make the Word the all in all things of her life. She must receive the Word as the only light by which her own life must be guided and as necessary also to give light to all who are salvable throughout the world. Thus only can the New Church be loyal to her Divine Husband who is and was and ever will be the True Light which enlightens every man coming into the world.
 
-SECOND SERIES. Nr. 28.
+== SECOND SERIES. Nr. 28.
 
 July 12th 1896. Reference: T. 273-276.
 
 [Hebrew.] GEN. 11:4.
 
-A. 1302. Et dixerunt, age aedificemus nobis urbem et turrim, et caput ejus in coelo.
+@A.1302. Et dixerunt, age aedificemus nobis urbem et turrim, et caput ejus in coelo.
 
 GEN. 11:4. And they said, come let us build us a city and a tower whose head may be in heaven.
 
@@ -1635,13 +1639,13 @@ Thus of himself man cannot get away from the worship of his own self and of the 
 
 "I will tell of what quality is the lot which remains for them after death - first they become like drunkards, afterwards like fools, and at length stupid and they sit in darkness. Let them therefore beware themselves of such delirium", T. C. R. 276.
 
-SECOND SERIES. Nr. 29.
+== SECOND SERIES. Nr. 29.
 
 July 19th 1896. Reference: T. 277.
 
 [Hebrew.] PS. 12:7.
 
-A. 15514 Sermones Jehovae, sermones puri, Argentum conflatum in catino terrae, (purificatum) fusum septies.
+@A.15514 Sermones Jehovae, sermones puri, Argentum conflatum in catino terrae, (purificatum) fusum septies.
 
 PS. 12:7 (6). The words of Jehovah are pure words, silver moulded in a pot of earth, purified seven times.
 
@@ -1686,13 +1690,13 @@ As it is not of order in teaching the Word to apply oneself to the moving of the
 
 Beware therefore of mere appeals which move the natural affections. Beware also of the eloquence which studies merely to please and flatter the understanding, for so far as that alone is sought, or indeed so far as that is chiefly sought the truth is certainly falsified and its allurement becomes that of a seeming beautiful harlot that would betray us into being false to the truth in which the Lord has come to save us and which is the silver by which He would ransom us from the bondage of self and the world. That silver appears at first as if stored up in a manger, and can be received only by those who approach it with humility and innocence, and even then, moulded as it is in a pot of earth, it must be purified seven times before our reception thereof enables us to realize the words of the Lord in their purity. The words of the Lord are pure words, silver moulded in a pot of earth, purified seven times.
 
-SECOND SERIES. Nr. 30.
+== SECOND SERIES. Nr. 30.
 
 July 26th 1896. Reference: T. 278.
 
 [Hebrew.] PS. 32:2.
 
-E. 866. Beatus homo cui non imputat Jehovah iniquitatem, modo non in spiritu ejus dolus.
+@E.866. Beatus homo cui non imputat Jehovah iniquitatem, modo non in spiritu ejus dolus.
 
 PS. 32:2. Happy the man to whom Jehovah imputeth not iniquity, if only there be not in his spirit deceit.
 
@@ -1732,13 +1736,13 @@ The deeds which a man outwardly does do not follow him into the other life, but 
 
 All salvation is entirely and solely of the Lord's mercy and in spite of our own natural love. Bow absolutely this is true and how emphatically it is taught in the Word, can to some extent be seen; but the angels see it; taught and confirmed even in the very forms of the letters in which the Word is ultimated.
 
-SECOND SERIES. Nr. 31.
+== SECOND SERIES. Nr. 31.
 
 August 2nd 1896. Reference: T. 230.
 
 MATT. 16:23. [Greek.]
 
-E. 820. Abi post Me, Satana; scandalum Mihi es; quia non sapis ea quae Dei sunt, sed quae hominum.
+@E.820. Abi post Me, Satana; scandalum Mihi es; quia non sapis ea quae Dei sunt, sed quae hominum.
 
 MATT. 16:23. Get thee behind Me, Satan; thou art a scandal to Me; because thou savourest not of those things which are of God, but of those things which are of men.
 
@@ -1770,13 +1774,13 @@ This can he seen from the relation of external acts to the complexity of motives
 
 It is evident therefore that natural thought is utterly unable to penetrate to spiritual things, as also to evolve the spiritual sense of the Word from the natural. Spiritual truth can only come by Revelation. But even the revelation of the spiritual sense has to be, given to us in a natural form expressed in a natural language derived from the things of time and space. How then are we to learn therefrom the genuine spiritual sense which is discretely above and within any natural expression? The lesson makes it clear that it cannot be done by any effort of the natural intelligence - it cannot be arrived at by hard thinking. The spiritual sense is given to no one but those who are in enlightenment from the Lord. Its reception therefore depends upon how far we place ourselves in an attitude of innocence while we study written Revelation; and this again depends upon the completeness with which we shun being influenced by the natural thought of our own intelligence while we study the Word. If then you would elevate your understanding to the reception of the spiritual light of the Word, resist the promptings and suggestions of your natural intelligence and put away your conclusions from appearances and experience, and be ready, at their every attempt to influence you, and however acceptable to your own will their pleadings may be, to apply to them the Lord's answer: Get thee behind Me, Satan; for thou savourest not of those things which are of God, but of those things which are of men.
 
-SECOND SERIES. Nr. 32.
+== SECOND SERIES. Nr. 32.
 
 August 9th 1896. Reference: T. 281.
 
 APOC. 20:13. [Greek.]
 
-R. 871. Et judicat sunt quisque secundum opera illorum.
+@R.871. Et judicat sunt quisque secundum opera illorum.
 
 APOC. 20:13. And they were judged each according to their works.
 

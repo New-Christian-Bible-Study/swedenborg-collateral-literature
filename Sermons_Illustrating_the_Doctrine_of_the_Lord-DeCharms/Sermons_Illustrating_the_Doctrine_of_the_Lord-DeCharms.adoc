@@ -1,3 +1,7 @@
+= Sermons Illustrating the Doctrine of the Lord
+By Richard De Charms  1840
+//include::../template-attributes.adoc[]
+
 BY RICHARD DE CHARMS, AN ORDAINING MINISTER OF THAT CHURCH IN THE UNITED STATES.
 
 PHILADELPHIA:
@@ -30,7 +34,7 @@ These works, with others pertaining to the new church, are kept for sale by Otis
 
 Philadelphia, May, 1840.
 
-PREFACE
+== PREFACE
 
 THESE sermons are designed for persons, especially young persons, just embracing the doctrines of the new church. They are, therefore, written in a diffuse style, with much plainness and familiarity of illustration, without any pretensions to originality of thought, and with only an effort, perhaps an ineffectual one, to make the abstruse and fundamental principles of our theology plain to the commonest minds. To do this well and effectively, would be the greatest use, worthy of the utmost efforts of the strongest minds. To do this well and effectively, would be the greatest use, worthy of the utmost efforts of the strongest minds. The author dare not hope that his effort can prove successful. But his best feelings have been exercised in making it, and his prayer now is that He who can give increase to the planting and watering of his weakest agents, will, in his mercy, bless it with unforeseen productiveness.
 
@@ -44,10 +48,10 @@ Still, as it is admissible to reason whether a thing be so or not so, when the e
 
 The mode of contrasting our views with others has been adopted, not for the purpose of attacking and putting down the principles or men of any prevailing denominations, but simply for the purpose of confirming ourselves in the rational and vital reception of the most essential principle of our faith, which cannot be so distinctly seen as when it is contrasted with its opposite.
 
-CONTENTS.
 
-SERMON I.
+Authors' CONTENTS.
 
+Sermon I.
 Jesus and the Father are one.--John, xiv. 8-11.
 
 SERMON II. True nature of the Spirit that testifies of Jesus.--John, xv. 26.
@@ -90,19 +94,20 @@ SERMON XX. The Necessity of the New Birth, together with a demonstration of the 
 
 SERMON XXI. The Sum of all True Religion is the Life of Use from the Love of Use for its own sake.Matthew, vi. 33.
 
-INTRODUCTION.
+
+== INTRODUCTION.
 
 THE entire series, of which the sermons published in this volume form a part, was originally delivered in Cincinnati. After their delivery it was the design of the author to work them up into articles for a periodical publication which he was then editing in that city. But being subsequently removed, in the Divine Providence, to another quarter of the general church, and yielding to repeated requests to have these sermons published elsewhere, it seems proper that the preceding parts, which are necessary to complete the series, should be published in connection with them. Therefore, four numbers, which originally appeared in "The Precursor," the periodical work above alluded to, under the head "Doctrines of the New Church," are here presented as an introduction. These four numbers were so many articles discussing
 
-I. THE UNITY AND TRINITY OF GOD.
+(I.) THE UNITY AND TRINITY OF GOD.
 
-II.} THE DIVINE TRINITY SHOWING THAT THERE IS
+(II.) THE DIVINE TRINITY SHOWING THAT THERE IS
 
-III.} A TRINITY IN THE ONE GOD. AND SHOWING
+(III.) A TRINITY IN THE ONE GOD. AND SHOWING
 
-IV. THAT THERE MUST BE A TRINITY IN GOD.
+(IV.) THAT THERE MUST BE A TRINITY IN GOD.
 
-I. The Unity and Trinity of God.--These principles have ever been elemental and fundamental in all Christian theology. They are subjects so trite, and made so threadbare by immemorial and all varied discussion, that it is perhaps impossible to give to them any forms of newness. It is essential, however, that they should be noticed in the formal presentation and exposition of any doctrinal system; and the mists which have shrouded them with utter darkness in the old church, have made it especially needful that they should be placed in clear light when we essay to unfold the lucid doctrines of the new. It will be our aim to make them clear to common minds, although, in the effort, we may incur the charge of commonplace dullness by uncommon ones. And, in our discussion of these and other topics, we shall contrast, as we go along, the views of the new church with those of the old, because "every perception of a thing is according to reflection relative to discriminations arising from contraries in various modes and degrees,"
+(I.) The Unity and Trinity of God.--These principles have ever been elemental and fundamental in all Christian theology. They are subjects so trite, and made so threadbare by immemorial and all varied discussion, that it is perhaps impossible to give to them any forms of newness. It is essential, however, that they should be noticed in the formal presentation and exposition of any doctrinal system; and the mists which have shrouded them with utter darkness in the old church, have made it especially needful that they should be placed in clear light when we essay to unfold the lucid doctrines of the new. It will be our aim to make them clear to common minds, although, in the effort, we may incur the charge of commonplace dullness by uncommon ones. And, in our discussion of these and other topics, we shall contrast, as we go along, the views of the new church with those of the old, because "every perception of a thing is according to reflection relative to discriminations arising from contraries in various modes and degrees,"
 (A. C. 7812,) and because "we have no idea of truth without falsity."
 (H. K. to C. 17.)
 
@@ -131,7 +136,7 @@ The difference, then, between the old church and the new church is, that the for
 
 Thus we trust me have distinctly, because distinctively, set forth our view of the trinity. Be it then clearly understood, that we do not contend for a trinity of separate or individually and functionally distinct divine existences, but, for a threefold distinction in the essential constituents of the one Divine Being.
 
-II. The Divine Trinity.We have assumed the existence and unity of God; and we have distinctly stated our view of the divine trinity. We proceed in this paper to show, from the Word, that there is a trinity in the one God.
+(II.) The Divine Trinity.We have assumed the existence and unity of God; and we have distinctly stated our view of the divine trinity. We proceed in this paper to show, from the Word, that there is a trinity in the one God.
 
 The passages of Scripture which assert in just so many words that there is a triple principle in the godhead, are not numerous. But many passages prove this truth inferentially. And the whole Word is full of it in its spiritual meaning. But in view of the letter of the Word we would premise, that the Bible must be consistent; and therefore, the unequivocal meaning of one passage cannot be contradicted by the real meaning of any other, however seemingly conflicting they may be. Hence, if we can deduce the existence of a trinity from a single passage of the Word in the letter, we shall claim to have attained our end.
 
@@ -157,7 +162,7 @@ But it is perhaps difficult for some minds to conceive how three can be distinct
 
 Now it is merely this distinction of the constituent principles of the one God which was represented to Abraham by the three men. Of this he doubtless had an intuitive perception. Hence, when he regarded the Deity in his complex character, he addressed these three men as one Lord: but when he regarded the Deity as to his distinctive constituent properties, he addressed the one Lord as several. So the mathematician, when he looks at the cube in the concrete, considers it one thing. But, to serve the purposes of abstract reasoning, he regards its three essential properties as distinct and several. In some cases, as in an algebraic process, he even considers these properties as separate from the subject in which they necessarily inhere, and represents them by distinctive characters. But this does not destroy the individuality of the subject, and imply that there are three separate things in one cube. So neither did Abraham, when he addressed the three men as several, destroy the individuality of God, and imply that there are three persons in the one God. He addressed the men as several only when he regarded the essential constituent divine principles distinctively. He still regarded them as one in their subject; that is, as existing in and constituting one divine person. Hence he most frequently addresses them as one, and speaks of them in the singular number. Of course, God is individual in person, though his individuality may consist of a threefold principle. And as he was represented to Abraham as three men, we argue that he does consist of three principles. And as Abraham addressed these three as one, we argue that they are the constituent principles of one God. Therefore, in our view, this passage of Scripture affords incontrovertible proof that there is a trinity in the one God.
 
-III. Same Subject Continued.--It is usual for those who believe in a trinity to bring forward, in proof of their belief, Genesis, i. 26,
+(III.) Same Subject Continued.--It is usual for those who believe in a trinity to bring forward, in proof of their belief, Genesis, i. 26,
 "let us make man in our image." But we do not advance this passage, because we think the plurality of the pronouns herein does not prove trinity. It would serve just as well to prove that there are four, or a hundred, as three. Nor do we think that one person in the godhead could say to two other persons, re let us make man in our image;" because it is utterly inconceivable how they could be so separate as to talk to one another and yet not be three gods. Besides, it is clear that God did not say this as three persons conversing together, first, because it is afterwards said, in the singular number, (verse 27,) "So God created man in his own image;" and, secondly, because man when created in Gods image was in one person and not in three.
 
 But in Luke, i. 35, it is written, "And the angel answered and said unto her, The holy ghost shall come upon thee, and the power of the Highest shall overshadow thee: therefore also that holy thing which shall be born of thee shall be called the son of God." Here mention is made of three, namely, the Highest, the holy ghost, and the son of God.
@@ -198,7 +203,7 @@ which is rendered, "and these three agree in one," if rendered literally would r
 
 We conclude, then, that this verse is authentic; and, of course, the doctrine which it so unequivocally sets forth, cannot be impugned. But, admitting that it were not genuine, still the doctrine of the trinity is so interwoven with the very texture of the whole Sacred Scriptures, that the whole must be destroyed before it can be obliterated. And passages enough, without this, have been adduced from the Word of God to prove that there is a trinity in the one God.
 
-IV. There MUST BE a trinity in God.--We proceed in this number to demonstrate that, in the nature of things, there must be a trinity in the one God.
+(IV.) There MUST BE a trinity in God.--We proceed in this number to demonstrate that, in the nature of things, there must be a trinity in the one God.
 
 Paul says, (Rom. i. 20,) "the invisible things of God,--even his eternal power and godhead,--are clearly seen from the creation of the world, being understood by the things that are made." Wherefore, the nature of the Deity is discernible in his works. Consequently, we may reason from the essential principles of natural existence to the essential principles of divine existence, or, to use the words of the poet, we may "look through nature up to natures God."
 
@@ -266,7 +271,7 @@ The faith of the new-jerusalem church isThat there is one infinite and eternal G
 
 There are the two portraits before you. Judge ye for yourselves which is the best likeness of the truth. Look at them and compare them with the portraiture of the Divine Being, as seen in his Word and in his works; and, in the free and responsible exercise of your own reason and volition, take that which is conscientiously deemed best.
 
-SERMON I.
+== Sermon I.
 
 JOHN, XIV. 8-11.
 
@@ -340,7 +345,7 @@ It is needless to multiply quotations on this head, had we time: for were we to 
 
 Still we are aware, that, notwithstanding this overwhelming evidence from the Word, many will continue to cling to appearances of truth which seem to inculcate a different doctrine. And if they are resolved to adhere to the tenets, true or false, in which they may happen to have been educated, they may do so easily: they will find enough in the mere letter of the Word, which will give plausible colouring to their views; because any doctrine, however false or heretical, may be confirmed by the apparent sense of Scripture. But let all such beware how they ground their doctrines upon constructions of Scripture when those doctrines are at variance with the Lords express declarations. When the Lord says the father is in him, and that he is himself the father, let them beware how they set about making the father a being out of him, so as to be a person separate and distinct from him. "Let them kiss the son, lest he be angry, and they perish from the way when his wrath is kindled but a little." And while they are confirming their views by the appearances of truth in the mere letter of the Word, let them take good heed to the apostle Paul, when he says, "the letter killeth, but the spirit giveth life."
 
-SERMON II.
+== Sermon II.
 
 JOHN, XV. 26.
 
@@ -411,7 +416,7 @@ Such is the doctrine of our text as to the true nature of the spirit which testi
 
 May the Lord, in his mercy, bless what is here dispensed in his name; and cause all to redound to his glory in the reformation of our lives, and the eternal good of our souls!
 
-SERMON III.
+== Sermon III.
 
 JOHN, XIV. 26.
 
@@ -480,7 +485,7 @@ What, then, is the sum of the subjects discussed in this and the last discourse?
 
 If, then, we would know the truth, and the good of it, without any possibility of deception, let us put away, by self-examination, contrition and repentance, every love which is contrary to the divine love: then will the divine love flow into us, and by its own light guide us in true wisdoms ways, which are pleasantness, and keep us unerringly in her paths, which are peace.
 
-SERMON IV.
+== Sermon IV.
 
 JOHN, XX. 22.
 
@@ -553,7 +558,7 @@ We will close this branch of our subject with some sententious reflections. If J
 
 Finally, if the father is in Jesus Christ, we can only approach the father through him. Is it not then a lamentable fact, that many - alas, too many!of those calling themselves Christians, are looking for the father out of him? How many consider Jesus as a mere messenger sent from God! And though he expressly says, "No man cometh to the father but by me;" though he avers explicitly, "I and my father are one," "he that seeth me seeth the father," "I am in the father and the father in me"--how many are forming to themselves notions of the father as a being out of and separate from the Lord, and, by addressing their prayers to the father as a being distinct from the Lord, are thus passing by him and going to the father direct! Oh, let us devoutly pray, that all such may take care that they come not under the description of persons who enter not in at the door, but, climbing up some other way, are thieves and robbers!
 
-SERMON V.
+== Sermon V.
 
 "In the beginning was the word, and the word was with God, and the word was God.--In him was life, and the life was the light of men.--And the word was made flesh, and dwelt among us (and we beheld his glory, the glory as of the only begotten of the father,) full of grace and truth."
 
@@ -625,7 +630,7 @@ The truth is, as we said on setting out, that the whole of theology and religion
 
 But still, the truth must be preached, whether men will hear or whether they will forbear. We cannot, on the peril of our souls, do any thing but preach the truth, and leave it to do its own peculiar and thorough work - to divide between the joints and the marrow, and to search the thoughts and intents of the heart. And happy shall we all be, if we are in that state indicated by the Lord when he says, "Blessed is he whosoever shall not be offended in me."
 
-SERMON VI.
+== Sermon VI.
 
 MATT. XXVIII. 18, 19.
 
@@ -706,7 +711,7 @@ But an eve not evil may be unable to see in consequence of darkness arising from
 
 Therefore, however few there may now be, who are prepared as yet to embrace this doctrine of the Lord which we preach; still, as we are taught from heaven that it is true, we doubt not it will ultimately be embraced by all the good. Hence we are not disposed to quarrel with those who differ with us. We know that the truth is hid from those who are not in a state to embrace it; and we are fully aware that we cannot fight them into a better state. The holy spirit from on high alone can give sight to the blind and raise the dead to life. And as all who can be healed will be, we doubt not that, in the coming world, if not in this, there will be some of all nations, and kindreds, and people, and tongues - some of every denomination of religionists - who, clothed with white robes, and palms in their hands, will be heard saying, "Salvation to our God which sitteth on the throne, and unto the Lamb:" for "Thou art worthy, O Lord, to receive glory, and honour, and power; for thou hast created all things, and for thy pleasure, they are and were created"! Amen.
 
-SERMON VII.
+== Sermon VII.
 
 MATTHEW, XXVIII. 18.
 
@@ -768,7 +773,7 @@ sweeter also than honey and the honey-comb." (Ps. xix. 7-10.) And the Lord has s
 
 Therefore, if we would honour the Lord, we shall study diligently his Word, and regulate all our conduct by its precepts. And in like manner shall we: express towards; him our love. For he says, "He that hath my commandments, and keepeth them, he it is that loveth me;" and "if a man love me, he will keep my words: and my father will love him, and we will come unto him and make our abode with him." "Amen. Even so, come quickly, Lord Jesus," and take up in us thy everlasting abode!
 
-SERMON VIII.
+== Sermon VIII.
 
 PSALM II. 10.
 
@@ -875,7 +880,7 @@ They create for themselves imaginary heavens in the delights of forbidden loves,
 
 This is the death which man inevitably dies when he goes away from the Lord Jesus Christ to any other as having the words of eternal life. For God hath given to him a name which is above every name. The divine essence which was in Jesus by conception, has by its full development in his character, given him the quality of divine truth and divine goodness. And that soul whose knee bows not at the name of Jesus, or whose tongue confesses not that he is Lord - that soul whose understanding does not bend its own intelligence, and see and receive truth as it is in Jesus, and whose will and affections do not perceive that the good which is in Jesus is the divine good, and do not appropriate that good to themselves, and thus do not become good as he is good - that soul whose knee does not thus bend at the name of Jesus, and whose tongue does not thus confess that he is Lord; that soul, I say, does not and cannot "with the heart believe unto righteousness, and with the mouth make confession unto salvation"--that soul does not and cannot swell with the heavings of divine benevolence, and thus live in the activities correspondent to divine beneficence, but must die the death of sordid and unmingled selfishness!
 
-SERMON IX.
+== Sermon IX.
 
 MATTHEW, XXVIII. 9.
 
@@ -953,7 +958,7 @@ Thus it appears conclusively, that the Lord Jesus Christ was worshiped when on e
 
 Since, then, Jesus Christ was worshiped directly when on earth, we cannot be far wrong, who worship him now he is in heaven, and has, as he expressly assures us, "all power in heaven and on earth." But let all those who worship the father directly, by praying to him out of Jesus Christ, instead of worshiping the father in Jesus Christ, by praying to Jesus Christ himself as the father - beware lest they perish because they kiss not the son. And especially let those who are degrading the Lord Jesus to the level of a mere man, see well to it, that they are not committing that sin which can never be forgiven, either in this world or that which is to come!
 
-SERMON X.
+== Sermon X.
 
 REV. V. 13.
 
@@ -1029,7 +1034,7 @@ We might also prove from ecclesiastical history, that the early Christians in ge
 
 We have not time now to indulge in any reflections upon this important subject. And we will only beg you to mark attentively that Stephen called on the Lord Jesus to receive his spirit. There was the glory of God, and the Son of Man standing on the right hand of it. Yet Stephen did not address himself to God as the glory, but prayed to Jesus himself. And while you are reflecting upon this most important fact, we will conclude with simply this solemn injunction--"Go, and do thou likewise!"
 
-SERMON XI.
+== Sermon XI.
 
 ISAIAH, XLV. 8.
 
@@ -1136,7 +1141,7 @@ Notwithstanding, then, the apparent distinction between Jesus and the father in 
 
 To Jesus Christ, then, be glory and dominion, for ever! For "there is given him dominion, and glory, and a kingdom, that all people, nations and languages should serve him - his dominion is an everlasting dominion, which shall not pass away, and his kingdom that which shall not be destroyed." (Dan. vii. 13, 14.)
 
-SERMON XII.
+== Sermon XII.
 
 ISAIAH, IX. 6.
 
@@ -1207,7 +1212,7 @@ But nothing can be more directly to the point than the express and emphatic word
 
 Wherefore, Jesus Christ was the God of the apostles; and is, both now and for ever, the only true object of all Christian worship. And therefore, if any are worshiping any other God than him - if any can think of the one, ever living, and true God without at the same time thinking solely of Jesus Christ, or think of Jesus Christ, without at the same time thinking solely of the one, ever living, and true God - they are guilty of idolatry! and it greatly behooves them, in view of any other notions of God which they may have formed, to take heed to this apostles closing and most solemn injunction--"Little children, KEEP YOURSELVES FROM IDOLS!"
 
-SERMON XIII.
+== Sermon XIII.
 
 MATTHEW, XXVII. 46.
 
@@ -1283,7 +1288,7 @@ The Son of God arose.
 
 And then arose divine."
 
-SERMON XIV.
+== Sermon XIV.
 
 JOHN, X. 17, 18, 19.
 
@@ -1313,7 +1318,7 @@ That the Lord arose with his body into heaven, is confirmed by the vision of the
 
 Thus the Lord has an embodyment which spirits have not, because he has a body present and conscious throughout the natural world; whereas spirits have only a body which is extant and conscious in the spiritual world. Hence the Lord said to his disciples that a spirit hath not flesh and bones as they saw he had. Mark, he did not say, that a spirit has no flesh and bones; but that a spirit hath not flesh and bones as he has, that is, such flesh and bones as his. Doubtless spirits have substantial flesh and bones, but they are spiritual, whereas the Lords were divinely natural.
 
-Thus it is evident that the Lord had an external and an internal. His internal was Jehovah, that is, I AM, or essential being, or divine love, which is the only thing that is, and the only fountain of all existence. And the Lords external which he assumed upon earth, was just like that of another man, except that it was an enveloping of divine love in materiality: but, in process of time and state, this external was wholly put off, and an external fully correspondent to his divine internal was put on. The external that was put off, was not the infirm and corrupt humanity of any one particular man or nation, but the entire humanity which mankind in the whole complex, from the creation till the Lords advent, had made their own. The external that was put on, is the humanity which the Lord, by his own proper power, acquired to himself from the impulses of the divine love within him: for, according to the human economy, "the activity of man does not proceed from his soul by his body, but out of his body from his soul." (T. C. R. 188.) This was especially true of the Lord. Hence his external acted of itself from his internal. Therefore we say, the Lord acquired to himself a humanity from the divine love within him, by his own proper power. And our authority for saying so is the divine truth of our text, in which the Lord declares, "I lay down my life that I might take it again. No man taketh it from me, but I lay it down of myself. I have power to lay it down, and I have power to take it again."
+Thus it is evident that the Lord had an external and an internal. His internal was Jehovah, that is, I AM, or essential being, or divine love, which is the only thing that is, and the only fountain of all existence. And the Lords external which he assumed upon earth, was just like that of another man, except that it was an enveloping of divine love in materiality: but, in process of time and state, this external was wholly put off, and an external fully correspondent to his divine internal was put on. The external that was put off, was not the infirm and corrupt humanity of any one particular man or nation, but the entire humanity which mankind in the whole complex, from the creation till the Lords advent, had made their own. The external that was put on, is the humanity which the Lord, by his own proper power, acquired to himself from the impulses of the divine love within him: for, according to the human economy, "the activity of man does not proceed from his soul by his body, but out of his body from his soul." (@TCR 188.) This was especially true of the Lord. Hence his external acted of itself from his internal. Therefore we say, the Lord acquired to himself a humanity from the divine love within him, by his own proper power. And our authority for saying so is the divine truth of our text, in which the Lord declares, "I lay down my life that I might take it again. No man taketh it from me, but I lay it down of myself. I have power to lay it down, and I have power to take it again."
 
 Now this putting off of the infirm humanity, was a state of gradual and progressive HUMILIATION. Humiliation consists in the prostration and consequently entire subjection of one to another. Hence the Lords humiliation was a prostration, or a bowing down, of his infirm external before his divine internal, until this internal, by the production from itself of an external fully corresponding to itself, so completely subdued that infirm external as at length to put it under its feet and shake it off like dust.
 
@@ -1357,7 +1362,7 @@ Although, then, we cannot hope to convince confirmed Unitarians, or negators, by
 
 Therefore, as it would detain you too long now, we shall, on another occasion, consider the other radical branch of the Unitarian difficulty in conceiving of the sole and supreme divinity of our Lord and Saviour Jesus Christ.
 
-SERMON XV.
+== Sermon XV.
 
 ISAIAH, LIX. 16.
 
@@ -1391,7 +1396,7 @@ Hence the notion that God as a divine essence exists without a divine form is a 
 
 But the points which we have thus brought distinctly to view in the light of the new church, are susceptible of some exemplification by the principles of philosophy and natural science; and it is the especial purpose of this discourse to make such an exemplification.
 
-Recollect that there is but one point which we wish to be now kept distinctly before the view, namely, that the divine essence must have a divine form to effect either creation, or redemption and salvation. To show this we need advert to but two philosophical principles. The first principle to which we shall advert, is expressed in these words of the new church: "Every active principle has its reactive or reciprocal principle that any effect may be produced; and the active principle is the cause, and the reactive is the thing caused: therefore reactivity is also of the active principle, as the thing caused is of the cause, for all energy in the thing caused is from the cause. This is the case with reaction, in singular the things of universal nature." (A. C. 6262.) The other philosophical principle is, that the form determines the quality of the influent life. Thus the form of the plant determines the quality of life flowing in from the sun. The form of a peach tree determines the influences of the sun to the production of a peach, the form of an apple tree to an apple, of a plum tree to a plum, and so on. Just so the form of man determines the quality of life flowing in from the Lord, who is the Sun of Righteousness in heaven. Hence the benevolent man determines the Lords influences to benevolence, the avaricious man to avarice. The selfish man determines the influx of divine love into self love, the worldling into love of the world. This principle is the groundwork of the law that life appears to be in the subject of it. Thus that life appears to be in the tree, and not in the sun; or in man and not in God. And it is the groundwork of that other law to which we adverted in our last discourse, namely, that "the activity of man does not proceed from his soul by his body, but out of his body from his soul." (T. C. R. 188.) For the soul acts upon the body, as the suns rays act upon the plant, that is, discretely. Hence the body determines the influences of the soul, as the plant determines the influences of the sun. Hence idiocy or insanity of the mind results from malformation or lesion of the brain; and hence the necessity of a sound body to the adequate manifestations of a sound mind.
+Recollect that there is but one point which we wish to be now kept distinctly before the view, namely, that the divine essence must have a divine form to effect either creation, or redemption and salvation. To show this we need advert to but two philosophical principles. The first principle to which we shall advert, is expressed in these words of the new church: "Every active principle has its reactive or reciprocal principle that any effect may be produced; and the active principle is the cause, and the reactive is the thing caused: therefore reactivity is also of the active principle, as the thing caused is of the cause, for all energy in the thing caused is from the cause. This is the case with reaction, in singular the things of universal nature." (A. C. 6262.) The other philosophical principle is, that the form determines the quality of the influent life. Thus the form of the plant determines the quality of life flowing in from the sun. The form of a peach tree determines the influences of the sun to the production of a peach, the form of an apple tree to an apple, of a plum tree to a plum, and so on. Just so the form of man determines the quality of life flowing in from the Lord, who is the Sun of Righteousness in heaven. Hence the benevolent man determines the Lords influences to benevolence, the avaricious man to avarice. The selfish man determines the influx of divine love into self love, the worldling into love of the world. This principle is the groundwork of the law that life appears to be in the subject of it. Thus that life appears to be in the tree, and not in the sun; or in man and not in God. And it is the groundwork of that other law to which we adverted in our last discourse, namely, that "the activity of man does not proceed from his soul by his body, but out of his body from his soul." (@TCR 188.) For the soul acts upon the body, as the suns rays act upon the plant, that is, discretely. Hence the body determines the influences of the soul, as the plant determines the influences of the sun. Hence idiocy or insanity of the mind results from malformation or lesion of the brain; and hence the necessity of a sound body to the adequate manifestations of a sound mind.
 
 These two principles we take to be ultimate facts, which are ascertained by observation of things as they exist. Why God has made things so, it is not our province to determine, nor is it in our ability to see. The counsels of the Almighty are past knowing, and his ways past finding out. All we have to do, is to take these facts, and reason from them to the nature of Him who has so constituted things, on the principle that the Deity is subject to his own law, "by their fruits ye shall know them."
 
@@ -1444,7 +1449,7 @@ Thus it is clear that God could not have redeemed and saved man, if he had not u
 Thus we see that, on strict philosophical principles, God could not have redeemed and saved man if he had not clothed his divine essence in an ultimate form. Wherefore, "Who is this that cometh from Edom, with dyed garments from Bozrah? this that is glorious in his apparel, traveling in the greatness of his strength? I that speak in righteousness, mighty to save. Wherefore am thou red in thine apparel, and thy garments like him that treadeth in the wine-press? I have trodden the wine-press alone, and of the people there was none with me:
 for I will tread them in mine anger, and trample them in my fury; and their blood shall be sprinkled upon my garments, and I will stain all my raiment. For the day of vengeance is in my heart, and the year of my redeemed is come. And I looked and there was none to help; and I wondered that there was none to uphold: therefore mine own arm brought salvation unto me; and my fury ii upheld me." (Isa. lxiii. 1-5.)
 
-SERMON XVI.
+== Sermon XVI.
 
 JEREMIAH, IV. 25.
 
@@ -1527,7 +1532,7 @@ It is perfectly clear, then, what we are to understand by the term divine humani
 
 Having thus shown what the New Jerusalem teaches respecting the Lord Jesus Christ as the Divine Humanity of Jehovah God, we shall proceed, in our next discourse, to point out the alternative and rending effects which the doctrine of this divine humanity is to produce in Christendom.
 
-SERMON XVII.
+== Sermon XVII.
 
 LUKE, XX. 19.
 
@@ -1636,7 +1641,7 @@ And it must now be clear that the touchstone which is to try the characters of m
 
 Oh that this truth may so fall upon each one and all of usmay be so made the corner stone of all our doctrines, and so the ruling principle of our lives, that we may be winnowed clean from all our falses, and be garnered for ever in heaven! And oh thou Son of Man, "thrust in thy sickle and reap: for the time is come for thee to reap: for the harvest of the earth is ripe"!
 
-SERMON XVIII.
+== Sermon XVIII.
 
 MATT. IX. 12, 13.
 
@@ -1704,7 +1709,7 @@ Thus, finally, there can be no doing of good without putting away evil - no rege
 
 Oh, then, "Jerusalem wash thy heart from wickedness that thou mayest be saved"! (Jer. iv. 14.) Trust not to those who are crying "Peace, peace, when there is no peace"--who, for fear of disturbing thee on thy death bed, would soothe thee with flattering representations of thy health, when thou art dying! Oh rather listen to the still small voice of the spirit of truth, which, pointing to the way of reformation by the life of the commandments, says, "This is the way, walk ye in it." And be ye well assured, "If ye be willing and obedient, ye shall eat the good of the land. But if ye refuse and rebel, ye shall be devoured with the sword: for the mouth of the Lord hath spoken it"!
 
-SERMON XIX.
+== Sermon XIX.
 
 JOHN, III. 5.
 
@@ -1794,7 +1799,7 @@ Men are very apt to believe what they love. Hence it is that "the generality of 
 
 Let us, then, guard against delusion in this matter. Let us deeply and solemnly reflect, that however exact we may be in our religious observances, however fervent in our prayers, however enthusiastic in our feelings, and however vehement in our devotional gestures; we have not a spark of true religion while we are governed by self-love and love of the world in our daily walk and conversation. Oh let us not mistake passion for principle!--mere natural feeling for true spiritual-mindedness! With the Word of God, spiritually understood, as the man of our counsel and the guide of our life, let us, as we hope for salvation, renounce self and the world; and perform faithfully all our individual and relative duties - as well as our peculiar religious exercisesfrom a supreme regard to the glory of our God in the good of our fellow-men Let this be the all-actuating and all-governing principle of our souls; and the life that flows from this, our religion! "If any man will enter into life, let him keep the commandments."
 
-SERMON XX.
+== Sermon XX.
 
 JOHN, III, 7.
 
@@ -1920,7 +1925,7 @@ We conclude, now, from all that has been said and shown, that there is no newnes
 
 Wherefore, may the Lord in his infinite mercy give us the spirit of adoption, whereby we can cry Abba, Father! May he thoroughly renew us in the spirit and temper of our minds, giving that faith which works by love and a new creature! And may he, in short, give us "power to become the sons of Godenabling us so to believe on his name as to be "born not of blood, nor of the will of the flesh, nor of the will of man, but of God"! Amen.
 
-SERMON XXI.
+== Sermon XXI.
 
 MATTHEW, VI. 33.
 

@@ -1,14 +1,14 @@
-SIX DOCTRINAL CLASSES
+= Repentance
+Six Doctrinal Classes by Nathaniel Dandridge Pendleton
+include::../template-attributes.adoc[]
 
-BY
-
-NATHANIEL DANDRIDGE PENDLETON
-
-LATE BISHOP OF THE GENERAL CHURCH OF THE NEW JERUSALEM AND PRESIDENT OF
-THE ACADEMY OF THE NEW CHURCH
+BY + 
+NATHANIEL DANDRIDGE PENDLETON + 
+LATE BISHOP OF THE GENERAL CHURCH OF THE NEW JERUSALEM AND PRESIDENT OF THE ACADEMY OF THE NEW CHURCH
 
 1982
 
+////
 CONTENTS
 
 CLASS PAGE
@@ -20,6 +20,7 @@ III. APRIL 20, 1934 3
 IV. APRIL 27, 1934 4
 V. MAY 4, 1934 5
 VI. MAY 11, 1934 6
+////
 
 PREFACE
 
@@ -27,7 +28,9 @@ Three years before his death, and a year and a half prior to his retirement as E
 
 In apparent contrast to his usual intellectual style, the Bishop's classes on Repentance, although they were not written for publication, are expressed in a simplicity of form and thought sequence that points up all the more strongly the profound depth of understanding and life's perception to which his unique mind had come over his nearly fifty years as a pastor, theologian, and administrator. These classes are here presented in the hope that they will lead the mind of the reader back to the Heavenly Doctrines themselves, with a fuller and richer appreciation of their teachings as the Very Word of the Lord in His Second Advent.
 
-CLASS I.
+<<<
+
+== Class I. MARCH 23, 1934
 
 Many things are revealed in the Writings concerning repentance - its need and place in the life of man; and also concerning the false and true ideas which may be and are entertained concerning it.
 
@@ -136,7 +139,9 @@ As to the threefold enclosure which is man, the highest never falls, and the low
 
 The beginning of this process - the key to it - is called repentance, a word significant of man's peculiar responsibility. It is the one thing which man must, and can, do - which he must continue to do so long as his life in this world lasts. But more as to this on another occasion.
 
-CLASS II.
+<<<
+
+== Class II. APRIL 13, 1934
 
 All create things come into existence in one of two ways.
 
@@ -286,7 +291,9 @@ These are the simple facts of human life. God gives the power, but in so doing H
 
 For this reason his failure cannot be ascribed to God. This may not be the logic of man's reasoning, but it is the truth of God.
 
-CLASS III.
+<<<
+
+== Class III. APRIL 20, 1934
 
 We have noted that man is brought to the door of repentance through alternations of states, and that these involve affections which come to view as their mutations accent their quality.
 
@@ -408,7 +415,9 @@ We pray that the inner heart of strength holds despite our irregularities, and i
 
 In this, as in all things, we can only do the best we may in the duties and responsibilities of our life, and leave our future where it belongs - in the hands of the Lord.
 
-CLASS IV.
+<<<
+
+== Class IV. APRIL 27, 1934
 
 We have seen that the discipline of childhood forms the basis for adult repentance, and that as adult repentance opens the way for the reformation of the understanding, so also reformation makes possible a newly generated will in the understanding.
 
@@ -485,7 +494,9 @@ AE 9362:
 I know that many think in their hearts [thought from Christian creeds]
 that no one can shun them [evils] from himself, because man is born in sins, and has no power from himself of shunning them. But let them know that everyone who thinks in his heart that there is a God; that the Lord is the God of heaven and earth; that the Word is from Him, and consequently holy; that there are a heaven and a hell, and that there is a life after death, is able to shun them, but not he who despises such things and rejects them from his mind, and certainly not he who denies them. For who can think that a certain thing is a sin against God when he does not think of God:' And who can think evils as sin when he thinks nothing of heaven, of hell, and of the life after death? Such a man does not know what evil is. Man is placed in the midst, between heaven and hell. From heaven goods continually inflow, and from hell evils; and because he is in between, he has freedom to think goods and to think evils. This freedom the Lord never takes away from anyone, for it is his life, and is the medium of his reformation. Insofar, therefore, as man from this freedom thinks of shunning evils because they are sins, and supplicates the Lord for help, so far the Lord removes them, and gives man to desist from them, as of himself, and afterwards to shun them. Everyone from natural freedom can shun some evils because they are against human laws. Every citizen of a kingdom does this who fears the penalties of the civil law, and the loss of life, fame and wealth, and thence office, gain and pleasure. Even the evil man does this, and his life appears in the external form altogether like the life of him who shuns those evils because they are contrary to the Divine Laws; but they are altogether unlike in the internal form. The one acts solely from natural freedom, which is from man, and the other acts from spiritual freedom, which is from the Lord. Both act from freedom. When man is able to shun the same evils from natural freedom, why can he not shun them from spiritual freedom, in which he is constantly held by the Lord? Only let him think that he desires to do so because there are a heaven and a hell, a life after death, punishment and reward, and let him pray to the Lord for help.... From these things it is clear that whoever believes in the Lord, shuns evils as sins; and that whoever shuns evils as sins also believes. Wherefore to shun evils as sins is the sign of faith.
 
-CLASS V.
+<<<
+
+== Class V. MAY 4, 1934
 
 In temptation man becomes aware of his powerlessness against evil.
 
@@ -589,7 +600,9 @@ Man is a vessel, nothing more, nothing less by the power of God a living vessel,
 
 A voice from heaven said...Actual repentance is to explore self; to know and acknowledge your evils, to make yourself guilty, to confess them before the Lord; to implore aid and power to resist them, and thus to desist from them, and lead a new life, and all these as of yourselves. Do these things once or twice in a year, when you approach the Holy Communion; and afterwards when sins...recur, say to yourselves, We will not do these things because they are sins against God. This is actual repentance. (AR 531)
 
-CLASS VI.
+<<<
+
+== Class VI. MAY 11, 1934
 
 At the close of last Friday's address I quoted a statement from the Apocalypse Revealed, number 531, to the effect that man should explore himself in order that he might know and acknowledge his evils; that he should make himself guilty of them; that he should confess them before the Lord, and pray for aid to resist them, and so desist from them, and lead a new life, as of himself; that afterward s when sins recur he was to say to himself, "I will not do these things because they are sins against God." This is actual repentance.
 

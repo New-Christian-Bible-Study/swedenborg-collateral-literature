@@ -1,9 +1,8 @@
-Essays on the After-Life and on the Last Judgment
+= Essays on the After-Life and on the Last Judgment
+by Hugo Lj. Odhner 1968
+//include::../template-attributes.adoc[]
 
-by Hugo Lj. Odhner
-
-Academy Publication Committee Bryn Athyn, Pennsylvania
-
+Academy Publication Committee Bryn Athyn, Pennsylvania + 
 1968
 
 Copyright 1968, THE ACADEMY OF THE NEW CHURCH
@@ -12,7 +11,7 @@ Copyright 1968, THE ACADEMY OF THE NEW CHURCH
 
 PRINTED By GEORGE H. BUCHANAN COMPANY
 
-Contents
+Author's Contents
 
 PART ONE: FROM EARTH TO HEAVEN
 
@@ -78,6 +77,7 @@ Bryn Athyn, Pennsylvania
 
 HUGO Lj. ODHNER
 
+----
 ABBREVIATIONS used for titles of Swedenborg's Writings
 
 AC - Arcana Coelestia (1749-1756)
@@ -117,53 +117,55 @@ WH - Concerning the "White Horse" (1758)
 Wis. - On the Divine Wisdom (posth.)
 
 Publication dates in parentheses.
+----
 
------------------------------------------------------------------------
--
+<<<
 
-Part One:
-
-From Earth to Heaven
+== Part One: From Earth to Heaven
 
 In the life of the body, all thoughts and actions should have reference to eternal life - the life after death.
 
 EMANUEL SWEDENBORG in his "Spiritual Experiences," no. 2809
 
-1 THE REVELATION OF THE AFTER-LIFE
+=== 1 THE REVELATION OF THE AFTER-LIFE
 
 THE BELIEF IN IMMORTALITY
 
-History seems to testify that in all past ages there has been among men a belief in some kind of a life after death and in the existence of mighty, intelligent powers which operate unseen within, above or beyond the visible world. The ethnic religions of India, the Mohammedan faith, the old Babylonian, Egyptian and Graeco-Roman religions and many primitive cults, have or had their special eschatology or teachings about the after-life, although they differed widely, ranging from crude superstitions to elaborate philosophies. In many of these religions, there is a substratum of truth that may be traced to a common origin in the lost traditions of the Ancient Word,1 but these remnants were overlaid with hideous falsities. And although ancient Israel knew virtually nothing of the life after death, beyond the vague idea that men, at death, were "gathered to their fathers" in some gloomy underworld, there grew up among the Jews, after the Captivity, sects like that of the Pharisees who developed sundry doctrines about a bodily resurrection of the dead and a final judgment.
+History seems to testify that in all past ages there has been among men a belief in some kind of a life after death and in the existence of mighty, intelligent powers which operate unseen within, above or beyond the visible world. The ethnic religions of India, the Mohammedan faith, the old Babylonian, Egyptian and Graeco-Roman religions and many primitive cults, have or had their special eschatology or teachings about the after-life, although they differed widely, ranging from crude superstitions to elaborate philosophies. In many of these religions, there is a substratum of truth that may be traced to a common origin in the lost traditions of the Ancient Word,*1 but these remnants were overlaid with hideous falsities. And although ancient Israel knew virtually nothing of the life after death, beyond the vague idea that men, at death, were "gathered to their fathers" in some gloomy underworld, there grew up among the Jews, after the Captivity, sects like that of the Pharisees who developed sundry doctrines about a bodily resurrection of the dead and a final judgment.
 
 The early Christians, from the Lord's teachings, had certain definite concepts of the reality of a spiritual world, which acted as a corrective to the pagan ideas of their neighbors. But it is no exaggeration to say that the myths and philosophies of pagan Greece in time infiltrated into Christian thought. In the Dark Ages of Europe, men's minds were divided between fear of the unorthodox ghost world of popular belief, a residue of heathen tradition, and dread of the purgatory of priestly invention. This mixture of superstition, dogma and classical legend is later apparent in the poems of Dante and Milton, in the mystical writings of Boehme, and in Goethe's "Faust."
-1. SS 102f, TCR 279, 11, AC 1068, 8944:2, De Ver. 36-38
 
-The Catholic church indeed formulated a comprehensive structure of doctrine and tradition about the supernatural realm. According to this picture the unseen realm consists of a heaven, presided over by the three "persons" of the Godhead and peopled by a graded hierarchy of angels created before the world, and of rebellious devils who under their chief, Lucifer or Satan, hold their court in hell. As to the fate of men, the common idea has been that the spirits of the dead would be kept in an intermediate state, separated from their physical bodies, until the unknown "last day" on which the earth is to be destroyed or purged by fire; when they would again be reunited to their bodies, now glorified, to live a happy life to eternity if they are judged to be worthy. Catholic text-books often place this resurrection and judgment on the physical earth; and they defend the idea that the wicked will be condemned to suffer everlasting punishments in a hell of material fire, which they imagine to be located in the bowels of the earth.2
-2. God and Creation, by Thomas B. Chetwood, S.J., 1928, pp. 250, 253, 259
+*1. SS 102f, TCR 279, 11, AC 1068, 8944:2, De Ver. 36-38
+
+The Catholic church indeed formulated a comprehensive structure of doctrine and tradition about the supernatural realm. According to this picture the unseen realm consists of a heaven, presided over by the three "persons" of the Godhead and peopled by a graded hierarchy of angels created before the world, and of rebellious devils who under their chief, Lucifer or Satan, hold their court in hell. As to the fate of men, the common idea has been that the spirits of the dead would be kept in an intermediate state, separated from their physical bodies, until the unknown "last day" on which the earth is to be destroyed or purged by fire; when they would again be reunited to their bodies, now glorified, to live a happy life to eternity if they are judged to be worthy. Catholic text-books often place this resurrection and judgment on the physical earth; and they defend the idea that the wicked will be condemned to suffer everlasting punishments in a hell of material fire, which they imagine to be located in the bowels of the earth.*2
+
+*2. God and Creation, by Thomas B. Chetwood, S.J., 1928, pp. 250, 253, 259
 
 Immediately after death, and before the judgment, Catholics believe, the departed spirits - if salvable - must undergo penance in the fires of purgatory for various sins for which they have not paid the debt. But those who pass out of life in actual mortal sin go down immediately into hell. Souls who have made satisfaction in purgatory or who have been released through the prayers of the faithful and the intercession of saints, are thereafter held in a state of happiness until they rejoin their bodies; and Catholic writers picture the joys of such spirits as those of companionship and pursuit of knowledge, although it would chiefly aspire to an ecstatic contemplation of God - a beatific vision.
 
 Protestants have no belief in any "purgatory," and their ideas of the after-life are more diverse and usually less dogmatic, and indeed often verge upon skepticism and denial. Some sects in the Protestant world deny that there is a permanent hell; and it is unusual at this day to hear clergymen preach about a personal Devil. In each generation, a few sects arise which insist that the Last Judgment is at hand to be followed by a heaven on earth. Spiritistic ideas have also had a wide influence. But the tendency is not to dwell on this phase of Christian doctrine, and many modern Protestants do not encourage any belief in another world - in angels or spirits, or in any resurrection, whether of spirits or of bodies. They feel rather that their mission is one of social and moral reform, and that the only heaven that can be reasonably expected will be right here on earth.
 
-But many of the erroneous ideas of Christendom stem directly from too literal an understanding of Scripture. So for instance, Ezekiel's vision of the valley of bones - where the Spirit of God caused the skeletons of the slain to revive and put on flesh - is supposed to picture a physical resurrection on the day of the last judgment; although it is clear from the context that it symbolized the restoration of the house of Israel to their land.3 The sudden appearance of "many bodies of the saints" to people in the "holy city" after the Lord's resurrection4 is also used to confirm the idea. Christian creeds ignore Paul's distinction between a spiritual body and a natural body5 and fail to note that John in his prophetic vision of the last judgment specified that it was "the dead, small and great," who were to be arraigned before the throne of judgment.6
-3. Ezek. 37:11
-4. Matt. 27:52
-5. I Cor. 15:44
-6. Rev. 20:12
+But many of the erroneous ideas of Christendom stem directly from too literal an understanding of Scripture. So for instance, Ezekiel's vision of the valley of bones - where the Spirit of God caused the skeletons of the slain to revive and put on flesh - is supposed to picture a physical resurrection on the day of the last judgment; although it is clear from the context that it symbolized the restoration of the house of Israel to their land.*3 The sudden appearance of "many bodies of the saints" to people in the "holy city" after the Lord's resurrection*4 is also used to confirm the idea. Christian creeds ignore Paul's distinction between a spiritual body and a natural body*5 and fail to note that John in his prophetic vision of the last judgment specified that it was "the dead, small and great," who were to be arraigned before the throne of judgment.*6
+
+*3. Ezek. 37:11
+*4. Matt. 27:52
+*5. I Cor. 15:44
+*6. Rev. 20:12
 
 * * * * * * * * * *
 
 The fact is that men generally have no concept of what the soul is or what a spiritual world is, or what heaven and hell really mean. Even in ancient times we mark how people confused the two worlds.
 
-The men of the Golden Age of the celestial church indeed had open intercourse with the spiritual world, yet it is said that they only beheld it "in natural light"; which implies that they had no abstract thought, but saw spiritual things depicted in the symbolism of nature.7
-The ancients of later millennia also expressed all their perceptions of spiritual realities in correspondential natural language - picturing the after-life as an indefinite prolongation of natural existence. Gradually the idea of a transmigration of souls added to the confusion as it became widely spread among the nations. 7 Inv. 52
+The men of the Golden Age of the celestial church indeed had open intercourse with the spiritual world, yet it is said that they only beheld it "in natural light"; which implies that they had no abstract thought, but saw spiritual things depicted in the symbolism of nature.*7
+The ancients of later millennia also expressed all their perceptions of spiritual realities in correspondential natural language - picturing the after-life as an indefinite prolongation of natural existence. Gradually the idea of a transmigration of souls added to the confusion as it became widely spread among the nations. 
+
+*7 Inv. 52
 
 In the Christian Church no clear boundary line was drawn between the natural and the spiritual. The departed spirit was usually thought of as a purified natural body, or - in its intermediate state before the resurrection - as devoid of the human form, as a flame or breath in the atmospheres; and angels were imagined as at home in the stars. And while there have been philosophers who sought to show that the spirit of man is of a nature or substance widely differing from that of the physical body, there has not been - before the revelations to the New Church - any clear idea of a spiritual world.
 
 Indeed, if we consult an encyclopedia of religious or biblical knowledge, we might in vain look for any article on the "spiritual world."
 
-The cause of this general ignorance is that men tend to think sensually about the soul and eternal life, and have had difficulty to associate reality with things beyond space and time. "For man in his thought has not penetrated beyond the interior or purer things of nature. And for this reason many have placed the abodes of angels and spirits in the ether, and some in the stars, thus within nature, and not above or outside it; when nevertheless angels and spirits are altogether above or outside of nature and in their own world which is under another Sun!"8
-8 DLW 92
+The cause of this general ignorance is that men tend to think sensually about the soul and eternal life, and have had difficulty to associate reality with things beyond space and time. "For man in his thought has not penetrated beyond the interior or purer things of nature. And for this reason many have placed the abodes of angels and spirits in the ether, and some in the stars, thus within nature, and not above or outside it; when nevertheless angels and spirits are altogether above or outside of nature and in their own world which is under another Sun!" (@DLW 92)
 
 Heaven and hell and life after death are scarcely at all known in the world and many born within Christendom, especially the worldly wise, refuse to believe in them. "Therefore" - so wrote Swedenborg in the preface to his work Heaven and Hell
 
@@ -184,7 +186,7 @@ Besides which we read in the Acts and the Epistles of many instances in which th
 13. Matt. 17
 14. Luke 24:4. In the Holy Scripture, angels are consistently represented as men - without the wings with which tradition has adorned them. Angels are not to be confounded with the "cherubim" and "seraphim" which were symbolic forms, often described as composite animals. Some had "wheels within wheels" and eyes in the wheels, to betoken the protective power and complexity of Divine Providence. (Gen. 3:24, Ezek. 10, Rev. 4:6, AC 308, 4162:2, 9506, AR 48:4)
 15. Luke 16:19
-16 Luke 23:43
+16. Luke 23:43
 
 17. Rev. 6:9
 18. 2 Cor. 12:2
@@ -355,7 +357,7 @@ It is this spiritual world that is revealed in the pages of the Writings. Sweden
 
 It is therefore not Swedenborg's opinions, but the revealed doctrine, which we attempt to present and discuss in the following pages.
 
-2 IMMORTAL MAN
+=== 2 IMMORTAL MAN
 
 BIRTH, DEATH AND SURVIVAL
 
@@ -767,7 +769,7 @@ But the spirit cannot use the ideas of his corporeal memory, any more than we ca
 
 109. DLW 92
 
-3 DEATH AND RESURRECTION
+=== 3 DEATH AND RESURRECTION
 
 DEATH1
 
@@ -1250,7 +1252,7 @@ And as the last and foremost among such organic natural forms the Lord created i
 154. AE 1206, DLW 219
 155. LJ 9, DLW 61-68, AC 3702
 
-4 THE WORLD OF SPIRITS
+=== 4 THE WORLD OF SPIRITS
 
 Relation of Spirits to the "Grand Man"
 
@@ -1662,7 +1664,7 @@ The character of the interior memory of a good man was described by the Lord whe
 
 154. Matt. 6:20
 
-5 THE DISCLOSURE OF INTERNAL STATES
+=== 5 THE DISCLOSURE OF INTERNAL STATES
 
 Returning States
 
@@ -1765,7 +1767,7 @@ The novitiate spirit, if he is affected by truths, is introduced to various soci
 Consequently he must undergo states of vastation or of temptation, by which he puts off his merely natural affections; and, eventually, comes into a state of instruction in which spiritual truths are perceived in new light.31
 31. AR 153:4
 
-6 JUDGMENT AND INSTRUCTION
+=== 6 JUDGMENT AND INSTRUCTION
 
 THE SECOND STATE IN THE WORLD OF SPIRITS
 
@@ -1919,7 +1921,7 @@ Yet the Heavenly Doctrine-the internal sense of the Word-is now revealed even fo
 The New Church on earth is indeed established to serve as a society of instruction, to train our stubborn minds to think in terms of spiritual-rational ideas, ideas that flow from the love of the Lord and the charity of heaven, and open our understanding to view all things in the light that streams from the Sun of heaven.49
 49. See pages 146, 398f
 
-7 CHILDREN IN THE OTHER LIFE
+=== 7 CHILDREN IN THE OTHER LIFE
 
 There is nothing in man that makes him worthy of entering heaven. But all good is measured by the innocence which it contains. For real innocence is the willingness to be led by the Lord rather than by self-will. The helplessness and humility of an infant touches our hearts because the babe is asking for love, leading, and security. Even his hereditary evils and bodily appetites-for which the infant cannot be held responsible-are overlaid by a borrowed good or by an external innocence-the innocence of ignorance.1 This innocence is what makes the child docile-so that he can be taught to see things in the light of truth rather than from his inherited inclinations which he feels as his real self or "proprium."
 1. AC 4563:2, AE 989:3
@@ -2095,7 +2097,7 @@ A wedding in heaven is described in some detail by Swedenborg.76 And in other pa
 79. CL 15
 80. HH 491, 513
 
-8 SPIRITS FROM THE STARRY HEAVENS
+=== 8 SPIRITS FROM THE STARRY HEAVENS
 
 There is no physical space to intervene in the spiritual world. It is therefore possible for those in our "world of spirits" to communicate with spirits from inhabited orbs in the farthest bounds of the universe. Even evil spirits, with wrongful zeal to spread their falsities, may be permitted so to communicate, having a delight in travelling.1
 1. EU 169, 172, AC 10785
@@ -2240,13 +2242,11 @@ The Lord appears above the heavens as a Sun. But frequently He also appears in h
 62. HH 121, 55, AR 938, AE 412:16
 63. EU 170f, AC 10809ff, Matt. 24:30
 
-Part Two:
-
-The Angelic Heavens
+== Part Two: The Angelic Heavens
 
 [blank page]
 
-9 THE SUN OF HEAVEN AND ITS ATMOSPHERES
+=== 9 THE SUN OF HEAVEN AND ITS ATMOSPHERES
 
 Nothing of nature or of the suns and stars of nature is visible to spirits and angels. But the Sun of heaven is the Lord, and it is as a Sun, inexpressibly bright, that He is seen constantly by the celestial angels.1 This does not mean that this Sun is identical with the Lord, for the Lord is Divine Man.2 But He appears before the angels in the Sun or encompassed by a solar circle. This Sun is from the Lord and is not only the first substance of creation "but is also the only one, from which all things are; and as it is the one only substance, it follows that it is in every created thing . . . . "3
 1. HH 116ff, DLW 83, 85
@@ -2341,7 +2341,7 @@ And since, before the Lord's advent, there was a Divine influx by the mediation 
 The angels of the spiritual or second heaven frequently also see the Lord as a Sun, and this is sometimes granted even to those of the ultimate heaven. But generally, those of the lowest heaven only perceive Him as a light far surpassing that of the physical sun, or else as a Moon.28
 28. DLW 85, 429,182, DP 166, cp AC 1531, 6832
 
-10 THE WORD IN HEAVEN
+=== 10 THE WORD IN HEAVEN
 
 "The entire Word, from beginning to end"-"the same Word that was manifested through Moses and the prophets and through the evangelists"-" this same Word which is with men in the world, is also with the angels in the heavens; yet in the world with men it is natural, but in the heavens it is spiritual." When an angel reads his Word, written in a spiritual language, he "knows no otherwise than that if is like the Word which he read in the natural world." The angels "read it equally as do men on earth; their doctrinal things are from it and their preachings are from it. The Word is the same; its natural sense, however, is not in heaven, but a spiritual sense."1
 1. Lord 2, SD 5603f, De Ver. 31, HH 259, AE 831e
@@ -2486,7 +2486,7 @@ Yet it is taught that "the whole of intelligence and wisdom of the angels is fro
 The written Word, in its manifold forms and degrees in heaven and on earth, is therefore in a special sense the unifying factor which conjoins the universal kingdom of the Lord. And the heavens where the Word is, in any of its forms, serve as the mediate source or dissemination point of spiritual light, and correspond to the heart and the lungs - the vital organs - in the Grand Man of Heaven.51
 51. AE 351:2, SS 105ff, cp AC 9670, CLJ 30, 14, SD 5947
 
-11 THE DEGREES OF THE MIND AND THE THREE HEAVENS
+=== 11 THE DEGREES OF THE MIND AND THE THREE HEAVENS
 
 The observation was made in a previous chapter that all the complex relationships of spirits and angels could not possibly be visualized in any one spatial concept - or in any single geographical image. The diverse fashions in which the Lord's life is received by spirits and angels cannot be expressed in the fixed forms of the natural universe. The world of spirits and angels is really made up of many worlds - and the heavens and the hells therefore sometimes appear as separate "expanses," one above another.1
 1. Coro. 16, 17, AE 1133:5f, HD 4, AR 876
@@ -2612,7 +2612,7 @@ One phase of this reception of the Divine love and wisdom is represented in the 
 Since there are three degrees of life within man's rational which are reached by the life of reformation and regeneration; and three degrees of the natural mind which man can pervert, if is clear that the three heavens, like the three hells, are present as potentialities in every man. But there are divisions of the spiritual world which do not seem thus to depend on the degree of man's response or to man's choice and freedom, but to other factors over which man has little or no control. For it is revealed that heaven is distinguished in general into two kingdoms, more specifically into three heavens, and in particular into innumerable societies.41
 41. HH 20
 
-12 THE TWO KINGDOMS OF HEAVEN
+=== 12 THE TWO KINGDOMS OF HEAVEN
 
 It is said in the True Christian Religion that the essence of love is "to love others outside of itself, to desire to be one with them, and to make them happy from itself."1 The Lord created men with this end in view-to make them happy by their partaking in His love in a community of mutual uses. 1. TCR 43
 
@@ -2761,7 +2761,7 @@ Still, as has been noted, he may, in his further regeneration and growth, be rai
 45. AC 6611, 1274, HH 49, 479, SD 5902
 46. SD 665-669, AC 4803
 
-13 THE THREE HEAVENS
+=== 13 THE THREE HEAVENS
 
 The Third Heaven
 
@@ -2987,7 +2987,7 @@ The light that is adapted for those in the first heaven, and also in the world o
 "The Lord is everywhere present with light, even in the hells; otherwise there would be no faculty of thinking and thence of speaking." The devils see each other, necessarily. But their light is comparatively as from a fire of coals-and is meant in the Word by "the shadow of death."92
 92. AC 4531, AR 695:2
 
-14 THE SOCIETIES OF HEAVEN
+=== 14 THE SOCIETIES OF HEAVEN
 
 ANGELIC COMMUNITIES
 
@@ -3132,7 +3132,7 @@ This is the significance of each angelic community, with its common environment 
 
 Each society is a form of use. Within the society, mutual love binds all together into a human form-in all the social and domestic bonds of love. But interiorly, the love of the society goes out beyond its own borders. Each society is but a part of the Grand Alan. Its real use is directed outwardly, to others beyond its borders-whom it would protect and serve and benefit, and if possible draw into closer conjunction with itself, into the choirs or gyres of its uses.
 
-15 THE OCCUPATIONS OF ANGELS
+=== 15 THE OCCUPATIONS OF ANGELS
 
 In the attempt to picture what the life of heaven might be like, Christians have gone to various extremes. Some have thought that heaven was to be a material paradise planted on earth after this had been purged and renovated by the fire of the last judgment-an abundant paradise in which the elect of God without labor were to enjoy the utmost luxuries after their spirits had been reincarnated in their earthly bodies. Others, rejecting such gross concepts of eternal happiness, have imagined that the souls of the blessed, after death (and possibly to eternity), would remain as unembodied minds in a perpetual state of ecstasy. Both these ideas sprang from an inability to see that the spirit of man after death remains a man, in a spiritual body, having heart and lungs and brain and senses, and thus a complete human life in a complete and permanent spiritual world.1
 1. Wis. vii.
@@ -3313,7 +3313,7 @@ For angels are still men. And though good reigns universally from their intentio
 Since only the natural mind can be vitiated by hereditary and acquired evils, it might be thought that angels are altogether pure and holy, without any faults. But all angels possess a natural mind which cannot be put off. It remains; yet it is so reduced into submission and "correspondence" with the interior minds that the natural seems as if absent or as transparent. The angels are constantly being perfected by the Lord, and He uses various means to induce this correspondence. But "such is man, such is a spirit, such is an angel," that not to eternity can the Lord effect a correspondence, except in a few most general things. It is by these few things that He keeps them in an angelic life.64
 64. SD 2157ff, 2292, cp 3474f
 
-16 A DAY IN AN ANGELIC SOCIETY
+=== 16 A DAY IN AN ANGELIC SOCIETY
 
 In the work on Conjugial Love, Swedenborg is allowed to relate a visit made by ten novitiate spirits to heaven. In this relation, the life of the angels in a heavenly society is described - in many ways so similar to the life which might be imagined in some Utopia on earth that the differences may not at first striking.
 
@@ -3457,13 +3457,11 @@ Yet the glorious morning state is also theirs, together, however short it may pe
 
 It is not to be expected that the life of heaven can ever be grasped by natural thought, still less described in a brief narration of the outward features. Yet these features, as given in the Writings, are to be the basis of our rational thought about the other world.
 
-Part Three:
-
-The Nature of the Hells
+== Part Three: The Nature of the Hells
 
 [Blank page]
 
-17 THE FALLACY OF UNIVERSAL SALVATION
+=== 17 THE FALLACY OF UNIVERSAL SALVATION
 
 Out of the confusion of modern life we hear the call of many persuasive voices which seek to dissuade us from feeling the reality of evil or sin. These voices - some bold, some cautious - proceed alike from the chairs of learning and from the pulpits of sectarians, as from marts of trade and from halls of pleasure. They ask in varying intonations,
 "What is evil?" "Is anyone really responsible for sin?" "What other hell is needed, beside our earthly pains and discomforts?"
@@ -3588,7 +3586,7 @@ What man does from such fear does not remain for long.20 With those who are in t
 
 But the doctrine about hell is revealed that we might see evils, know their source and origin, and thus be enabled to shun them in ourselves.
 
-18 SPIRITUAL PENALTIES
+=== 18 SPIRITUAL PENALTIES
 
 Common perception - or the light of common sense - has always been able to see, in every age, that there is a God, that there is a heaven, and that there is a hell. These acknowledgments are also intrinsic parts of the doctrine taught in every Divine revelation, and "without a knowledge and acknowledgment of these things man is unable to think spiritually."1
 1. HH 512:3, AC 5135:3
@@ -3784,7 +3782,7 @@ These last groups of phantasies serve for vastation and temptation. They are the
 
 It is to make unnecessary these phantasies and vastations in the spiritual world, that the Writings now reveal the truth.
 
-19 THE NATURE OF THE HELLS
+=== 19 THE NATURE OF THE HELLS
 
 Aversion to the Truth about Hell
 
@@ -3920,7 +3918,7 @@ It is difficult to understand how this illusion could be possible, unless we rea
 
 It is to expose that hidden world, which slumbers in every man's proprium, that the Writings picture the hells with a stark and sometimes shocking realism. But over against all this, the Doctrine, by contrast, also unveils another realm; a kingdom of God which men might aspire to reach by the Lord's help, through the simple means of shunning evil and falsity and walking humbly before their Maker. This kingdom of Heaven is not of man's making. It is created by the Lord through the Divine truth which is given to mankind by means of a series of revelations. But it is formed in man's mind as a mental environment which - once established - becomes the home of his spirit; and this environment, not of phantasies, but of realities, containing all the riches of knowledge and all the delights of love, becomes after death objective and living as a domain of beauty and joy, which angels share together, and by sharing make more blessed to eternity.
 
-20 THE GOVERNMENT OF HELL
+=== 20 THE GOVERNMENT OF HELL
 
 The Lord alone rules the universe. He rules heaven, which is called His kingdom, and He also rules the hells, where His government is under continual challenge. How the Lord in His infinite wisdom can do this - and indeed with the greatest of ease1 - transcends human and angelic understanding. For it implies an infinite foresight and an infinite power. Yet some of the modes of His government are revealed.2
 1. SD 2234
@@ -4033,7 +4031,7 @@ The law of retaliation, which is the law of external order as it is understood a
 
 Seemingly, the Lord thereby abrogated the law of retaliation as a law for the internal church. Yet it is noted in the Arcana Coelestia that, although some of the Mosaic statutes have been "abrogated as to use at this day," and some of them "ought wholly to be observed and done," the law of retaliation, which was so obviously necessary among the Jews, is among those precepts which may still "serve a use" if so desired (si libet).32 The golden rule is the law of the internal church. But the civic state still enforces order through the fear of penalties, which to the law-breaker appears as retaliation. Nations still stand poised to let loose retaliatory destruction on an aggressor. With the world in its present state, individuals blame their own private retaliations also on necessity and self-defence. But the law of retaliation which governs through fear of reprisals and maintains external order by keeping evil and crime within certain limits by balancing evil against evil - is still utterly barren of spiritual results. In order to break the chain of retribution, one must cease to retaliate and turn the other cheek. And this must be done, not from a craven fear but from the spirit of forgiveness - from a love of the neighbor and respect for his freedom and welfare. 32. AC 9349
 
-21 INEQUALITIES AND DIVINE JUSTICE
+=== 21 INEQUALITIES AND DIVINE JUSTICE
 
 It is recognized by all sensible men that human life is laid within certain limits, some common to all men, others individual to each person. One's heredity marks one limitation, for all have not equal native abilities. Opportunities differ according to environment and social groupings. Experience also may be wide or narrow, quite apart from one's own endeavors. And because of all these factors, it is obvious that man's freedom is also circumscribed. Although all men are born with the same faculties of liberty and rationality and can turn to good or to evil, every one differs as to the things in which he can exercise a choice.
 
@@ -4142,7 +4140,7 @@ Another is the life of their necessities - the labors to which hunger and want e
 And the third aspect of the life of the infernals is their eternal fate
 - the permanence of their ruling loves - and the effect which this has on the spiritual equilibrium between heaven and hell.
 
-22 PHANTASY AND REALITY
+=== 22 PHANTASY AND REALITY
 
 It was suggested in a former chapter that evil spirits really live in a different world from the good. Our mental life on earth is excited by both these worlds, and the spirit of man is therefore balanced between heaven and hell, receiving the influx of each. Heaven is present when man is in the inner acknowledgment of the Lord and of His laws of order and thus sees all things, spiritual and natural, as they really are; sees the real purpose of life, sees that only a life according to the Lord's teaching and leading can fulfill the conditions for eternal happiness. But hell enters in where this is denied and the Lord's doctrine of charity and faith is viewed with aversion and hatred; and this results in man creating a different universe for himself, in which there are no spiritual laws, and no sins against God but only sins of others against oneself.
 
@@ -4281,7 +4279,7 @@ The Writings do not warrant any blurring over of the unhappy state of the infern
 
 Yet the almost incredible fact is that they wish to remain in hell; and also that they, through retaining the faculty of reason, can serve uses outside of hell.
 
-23 DIVINE FORESIGHT AND PROVIDENCE
+=== 23 DIVINE FORESIGHT AND PROVIDENCE
 
 It is the continual aim of the Divine providence that man may become a heaven in form and thus an image of the Lord, a receptacle of the gifts of life and of love and wisdom. And "the inmost" of that Divine providence is that every one should be continually prepared by the Lord for his own place in heaven, or - what is the same - for his own place in the Grand Man of heaven. What the Writings call "the Grand Man" is a structure of possible uses; a structure so sublime and perfect that no man can see it in its wholeness, yet can see it in an image in all the complex organs and viscera that cooperate spontaneously in the human body. But this allotment of a place in heaven is accomplished only for those who permit the Lord to lead them to heaven. These the Lord prepares for their own places in heaven.1 On the other hand, the man who - in freedom - does not permit the Lord to lead and assign him to heaven, is prepared for his own place in hell. The Lord indeed continually withdraws such a man from the lowest hell to which he gravitates, and bends him to a milder hell, yet if he cannot be so withdrawn he is allotted a place in hell according to the love that rules in him.
 
@@ -4417,15 +4415,10 @@ In a sense, then, the spirits of the hells, by the necessity of their performing
 
 Evil cannot contribute to good. Yet one evil may balance the effects of another, even as extremes tend to counteract each other.43 in itself, evil has no value. But its existence serves by contrast to accentuate for an ungrateful race the marvelous spiritual blessings which the Lord offers to those who love Him and obey His commandments. 43. SD 2874
 
-[Blank page]
 
-Part Four:
+== Part Four: The Last Judgment
 
-The Last Judgment
-
-[Blank page]
-
-24 EXPECTATIONS AND PROPHECIES
+=== 24 EXPECTATIONS AND PROPHECIES
 
 Among the many startling claims made in the Writings of Emanuel Swedenborg the most extraordinary is this, that the long awaited "last judgment" - the day of doom predicted by the prophets of Israel and by the Lord Himself - has already taken place. It occurred, these Writings testify, in the year 1757. A more world-shaking event could hardly be imagined. Yet even as the Lord was made incarnate by birth from a virgin in the obscure town of Bethlehem, and lived his early life in a backward and despised country far from the centers of civilization, unnoticed by the high and the mighty; and even as His redemptive work was performed without leaving any remarkable effects upon the contemporary scene; so also the Last judgment, which, He foretold, would take place at His second coming, occurred as it were inconspicuously as far as the world was concerned, and unobserved by any mortal save the Lord's servant, Emanuel Swedenborg, who acted as an appointed witness and recorder.*
 
@@ -4525,7 +4518,7 @@ Three General judgments
 
 The Writings therefore state that "a last judgment is nothing other than the end of the church with one nation and its beginning with another."3 The "flood" of Noah was actually not a flood of waters, but a judgment in the spiritual world on the spirits, or genii, of the primeval race. The end of the Jewish Church, signalized by the crucifixion of the Lord, was marked by another spiritual "last judgment"; which had its significant natural consequences in the destruction of the temple at Jerusalem and the dispersion of the Jews. And when Christendom, after sixteen centuries, was ripe for a spiritual judgment, the Lord returned in the clouds of heaven with power and great glory. 3. AC 3353
 
-25 THE SCENE OF THE JUDGMENT
+=== 25 THE SCENE OF THE JUDGMENT
 
 The outstanding fact about the "last judgment" revealed in the Writings is that it occurred in the world of spirits, not upon earth. It took place in the year 1757 A.D., commencing in the last days of 1756. The cause of the judgment was the deplorable condition of the Christian Church as to spiritual life; and the immediate occasion was the accumulation of crowds of evil spirits from Christendom in the intermediate region between heaven and hell; which threatened the spiritual freedom of spirits and men and prevented good spirits from finding the way to heaven.
 
@@ -4640,7 +4633,7 @@ What happens in the mind of man so continuously occurs on a tremendous scale in 
 
 How that world was precipitated into a convulsive judgment in the last days of December in the year 1756, we will attempt to relate in the next chapter.
 
-26 THE JUDGMENT ON "BABYLONIA"
+=== 26 THE JUDGMENT ON "BABYLONIA"
 
 The Ordination of the Heavens
 
@@ -4763,7 +4756,7 @@ And angelic spirits are then able to instruct them that the real delight of heav
 
 Judgment is not for the sake of punishing the evil, but for the sake of saving the good. In the next chapter we shall complete the account of Babylon's fall, and of the preservation of the innocent who hearkened to the voice from heaven: "Come out of her, O My people, that ye be not partakers of her sins, and receive not her plagues!"
 
-27 THE FALL OF "BABYLON"
+=== 27 THE FALL OF "BABYLON"
 
 The Treasure City
 
@@ -4903,7 +4896,7 @@ That the books of the Heavenly Doctrine, after their publication on earth, exist
 
 But these things could not have happened before the Last judgment was completed; for the heavenly "seminary" or college from which these teachers of the Heavenly Doctrine were sent forth was itself purged in the judgment before it could be a means of healing the nations. How the judgment on the Protestant nations took place, and what were its after-effects, will be discussed in following chapters.
 
-28 THE JUDGMENT ON THE REFORMED
+=== 28 THE JUDGMENT ON THE REFORMED
 
 The Decline of the Christian Heavens
 
@@ -5049,7 +5042,7 @@ In the spiritual sense, a city means a doctrine, and in this case a doctrine whi
 
 It is called a "great" city with reference to the widely spread doctrine that man is justified in the eyes of God by faith alone apart from repentance. When such a doctrine dominates the religious thought of a society of spirits, that society becomes a Sodom and an Egypt, whatever appearance it may take from the national origin of the spirits that inhabit it, and whether it resembles a London or an Amsterdam or a Stockholm. But the connection of these spiritual cities with those on earth needs further examination in our next chapter. 38. AR 502
 
-29 THE DOWNFALL OF "THE DRAGON"
+=== 29 THE DOWNFALL OF "THE DRAGON"
 
 The Origin and Nature of Spiritual Cities
 
@@ -5212,7 +5205,7 @@ Spirits who are misled by the evil may serve as powerful tools of the hells. Cer
 What is said of the lower earth and the "false heavens" cannot be understood unless we realize that evil spirits who usurp a position in some mountain or heaven on high are not really there! They are not in heaven except in phantasy and in the view of those whom they can infect with their phantasy. The angels saw these spirits "where they were as to body," thus on "the plane of the ground," or wherever their ruling love was.53 The Last judgment, in the final analysis, was the dispersion of the phantasies of evil by the Divine truth. And the immeasurable and eternal effects of the judgment were expressed prophetically by John in Patmos: "And I saw a new heaven and a new earth; for the first heaven and the first earth were passed away."
 53. SD 5789 1/2, 5816
 
-30 THE EFFECTS OF THE LAST JUDGMENT
+=== 30 THE EFFECTS OF THE LAST JUDGMENT
 
 Redemption by Divine Truth
 

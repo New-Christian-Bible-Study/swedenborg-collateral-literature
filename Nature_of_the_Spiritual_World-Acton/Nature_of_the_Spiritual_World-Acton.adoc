@@ -1,15 +1,12 @@
-BY
+= Nature of the Spiritual World
+BY ALFRED ACTON, M. A., B. Th.
+include::../template-attributes.adoc[]
 
-ALFRED ACTON, M. A., B. Th.
-
-Professor of Theology in the Academy
-
-of the New Church
-
+Professor of Theology in the Academy + 
+of the New Church + 
 BRYN ATHYN, PA.
 
-ACADEMY BOOK ROOM
-
+ACADEMY BOOK ROOM + 
 1914
 
 NUNC LICET INTELLECTUALITER INTRARE IN ARCANA FIDEI.
@@ -30,6 +27,7 @@ INTRODUCTORY NOTE.
 
 The following work was originally prepared as a paper which was read before the General Assembly of the General Church of the New Jerusalem, held in Glenview, Ill., June, 1913. At various times during a busy professional year, the paper has been very considerably enlarged by the addition of new matter and by more and fuller citations from the Writings. It is no submitted to the kindly consideration of the New Church public. ALFRED ACTON. Bryn Athyn, Pa. June 30, 1914.
 
+////
 TABLE OF CONTENTS.
 
 PAGE. CHAPTER I. THE RELATION BETWEEN THE SPIRITUAL WORLD AND
@@ -128,16 +126,10 @@ of the truth concerning the spiritual world. The two worlds similar in
 appearance but not in essence.
 
 INDEXES 197
+////
+THE NATURE OF THE SPIRITUAL WORLD
 
-THE NATURE
-
-OF THE
-
-SPIRITUAL WORLD
-
-CHAPTER I.
-
-THE RELATION BETWEEN THE SPIRITUAL WORLD AND THE NATURAL.
+== I. THE RELATION BETWEEN THE SPIRITUAL WORLD AND THE NATURAL.
 
 The Lord alone is life and man is but an organic vessel receptive of life; thus reads the universal law now revealed to the New Church,--a law so simple that the simplest mind can grasp it, so universal that its truth is at once acknowledged; yet a law that is totally unknown outside the New Church, and whose deep import is but dimly grasped even in the Church itself. It is in the light of this law that we propose to enter into the subject we have chosen for our present study, for the law itself is the universal key for the unlocking of the arcana respecting that world where the Lord gives His supreme gift of life eternal.
 
@@ -261,9 +253,7 @@ In this truth, that man must first receive sensual images before he can see the 
 
 Hence we have the teaching that the spiritual world is where man is, and is by no means remote from him (@DLW 92) and that the kingdom of heaven is within man. Mans mind is his spiritual world and his body is his natural world (D. Wis. xii. 3).
 
-CHAPTER II.
-
-THE FORMATION OF THE MIND.
+== II. THE FORMATION OF THE MIND.
 
 It is evident that that in man which sees is the soul alone. For the body does not see nor even the mind, since both these are merely organic forms receptive of life. It is the soul alone which sees. This is true even of animals. But as already observed animals have only natural sight; the images of things are impressed on their sensories and from instinct they act accordingly; but they have no reflection on the spiritual causes or uses of things, that is to say, on the spiritual within them. This, man alone has, and he has it by virtue of a soul, or inmost organic form, capable of receiving and reacting to the influx of life proceeding from the Lord as a Sun.
 
@@ -345,7 +335,7 @@ Such, then, is mans mind, and such its formation. It is the whole man that is fr
 
 Within this corporeal ultimate is the interior thought and affection which constitute the internal man. And the whole mind is a substance which is a subject for the influx of life both immediate and mediate,--a subject which the man has formed for himself, and has built up, as it were, of those finest things of nature which he retains after death.
 
-The internal and external man are not the spirit which thinks and the body which acts, but they are the internal and external of the mind or spirit. The material body by which the spirit is clothed in the natural world is an accessory for the sake of procreations, and for the sake of the formation of the internal man. For the latter is formed in the natural body like a tree in the earth and a seed in fruit (T. C. R. 420, 454).
+The internal and external man are not the spirit which thinks and the body which acts, but they are the internal and external of the mind or spirit. The material body by which the spirit is clothed in the natural world is an accessory for the sake of procreations, and for the sake of the formation of the internal man. For the latter is formed in the natural body like a tree in the earth and a seed in fruit (@TCR 420, 454).
 
 It is thought that the things of the body constitute the external man; but these constitute only the outmost which is merely corporeal. Scientifics which are of the memory properly constitute the external man, and affections which are of the love with which the man is imbued, and also sensuals which are proper to the spirit, with the pleasures which are also with spirits. That these properly constitute the external or exterior man, may be evident from men in the other life. These likewise have this external and likewise an interior and consequently an internal (that is, the soul). The body is only, as it were, a tegument or crust which is dissolved in order that the man may truly live, and that all things belonging to him may become more excellent (A. C. 1718, 3539).
 
@@ -405,13 +395,11 @@ But how shall we reconcile this with the reiterated teaching of the Writings tha
 
 The harmony I think is to be found in this, namely, that thoughts and affections are not extended but the substances which are their subjects are extended and are therefore concrete individual entities consisting of parts in space and time (@AC 445). To us on earth these thoughts and affections appear as something abstract but they are nevertheless the most real things which affect the interior sensory and which, in the spiritual world, appear in real forms. But to this matter we shall again refer presently.
 
-CHAPTER III.
+== III. THE DEGREES OF THE MIND.
 
-THE DEGREES OF THE MIND.
+Let us now inquire more particularly as to the form of these substances which are the subjects of the human mind and soul, whose ultimate subject is the corporeal body. But before doing so we would premise what we have already indicated, namely, that the atmospheres of the spiritual world, or, more exactly, the actives or successives that are created by the Divine truth (@AC 7270), are most real substances; they are substances, however, which are the finition of forces or of the Divine Truth proceeding; they are not substances which are the subjects by which use shall be manifest in form, whether as the spiritual or as the natural. The substances whereby use shall be manifested must be drawn from ultimates. Thus in the ether are contained as finited forces all the forms of the vegetable kingdom (@AE 1208, and Corpuscular Philosophy), but those forms cannot appear as finite forms of uses until they are clothed with substances of nature, from the subtlest to the grossest, which shall serve as subjects for their influx and operation and manifestation. This law is a universal one, and is the law underlying all finite appearances in both worlds. Nature in herself is dead, being created in order that the spiritual may by her be clothed with forms which serve for use and that it may be terminated (@AE 1207).
 
-Let us now inquire more particularly as to the form of these substances which are the subjects of the human mind and soul, whose ultimate subject is the corporeal body. But before doing so we would premise what we have already indicated, namely, that the atmospheres of the spiritual world, or, more exactly, the actives or successives that are created by the Divine truth (@AC 7270), are most real substances; they are substances, however, which are the finition of forces or of the Divine Truth proceeding; they are not substances which are the subjects by which use shall be manifest in form, whether as the spiritual or as the natural. The substances whereby use shall be manifested must be drawn from ultimates. Thus in the ether are contained as finited forces all the forms of the vegetable kingdom (A. E. 1208, and Corpuscular Philosophy), but those forms cannot appear as finite forms of uses until they are clothed with substances of nature, from the subtlest to the grossest, which shall serve as subjects for their influx and operation and manifestation. This law is a universal one, and is the law underlying all finite appearances in both worlds. Nature in herself is dead, being created in order that the spiritual may by her be clothed with forms which serve for use and that it may be terminated (@AE 1207).
-
-And now let us speak of those more subtle substances which are the subjects of the human soul and mind,--subjects for the production in man, by influx, of those thoughts and affections which are the supreme uses of creation, and the real things of the spiritual world.
+And now let us speak of those more subtle substances which are the subjects of the human soul and mind,- subjects for the production in man, by influx, of those thoughts and affections which are the supreme uses of creation, and the real things of the spiritual world.
 
 THE THREE DEGREES BEFORE BIRTH.
 
@@ -505,7 +493,7 @@ sensitive and motor life exists in the body, which life cannot be given from the
 
 Light acts into the eye, sound into the ear, odor into the nostrils, and taste into the tongue; and the organs adapt themselves to these, whence arises sensation. Who cannot perceive from this that unless there were such action and co-operation with inflowing life in the spiritual organism of the brain thought and will could not exist (that is, life inflowing through the superior degrees could not be appropriated as mans own,--his thought and will).
 
-For life from the Lord inflows into that organism, and because the latter co-operates (that is, submits to the operation of the Lords life those material ideas and their affections which are self-acquired), there is perception of that which is thought, and likewise of that which is there reflected on, concluded and determined into act. If life alone were to act and not the man to co-operate as from himself he could no more think than a trunk (T. C. R. 577 fin.).
+For life from the Lord inflows into that organism, and because the latter co-operates (that is, submits to the operation of the Lords life those material ideas and their affections which are self-acquired), there is perception of that which is thought, and likewise of that which is there reflected on, concluded and determined into act. If life alone were to act and not the man to co-operate as from himself he could no more think than a trunk (@TCR 577 fin.).
 
 In primitive times, before the rise of evil in the spiritual man (that is, in his natural), and hence of evil representatives in the world of nature, the things presented by the theatre of nature were all representatives of Divine love and Divine wisdom, and, entering through the senses to the mind of the primitive man, they presented nothing opposed to the influx of the superior degrees; nor was the lowest degree of the mind then in a form contrary to the order of heaven. Hence men, although in darkness and ignorance, were yet in celestial innocence from the very beginning. And as they were instructed by the Lord, and their eyes thus opened to see spiritual uses and afterwards Divine ends in the things of nature, so they became celestial men and men of the most profound wisdom. Now, however, the senses bring us much that is representative of evil, and from hereditary inclination we are prone to search out such representatives and gaze upon them with longing.
 
@@ -513,9 +501,7 @@ Therefore now, the Word, or the Lord as the Word, is given as the ultimate sign 
 
 We may be pardoned for dwelling at such length on the subject of the degrees of the human mind, because of its importance in the comprehension of our subject, THE NATURE OF THE SPIRITUAL WORLD. For, as we have already observed, the spiritual world is where man is, that it to say, where his mind is, and within and above that is his soul.
 
-CHAPTER IV.
-
-THE ORGANIC SEAT OF THE MIND.
+== IV. THE ORGANIC SEAT OF THE MIND.
 
 Let us now enquire as to what place in mans bodily organism is the temple and palace of the mind during mans life on earth. But by way of preliminary let us briefly review what has been said already.
 
@@ -555,7 +541,7 @@ Substances and forms, which are love and wisdom, do not exist before the eyes li
 
 All affections, perceptions and thoughts are actually and really subjects which emit nothing from themselves, but only undergo changes according to things flowing in which affect (@DLW 42).
 
-The human mind, which consists of will and understanding receptive of Divine good and Divine truth, is nothing else but a form of Divine good and Divine truth spiritually and naturally organized. The human brain is that form; and because the whole man depends on his mind, therefore all things which are in his body are appendages which are actuated and live from those two principles (T. C. R. 224; @SD 4608).
+The human mind, which consists of will and understanding receptive of Divine good and Divine truth, is nothing else but a form of Divine good and Divine truth spiritually and naturally organized. The human brain is that form; and because the whole man depends on his mind, therefore all things which are in his body are appendages which are actuated and live from those two principles (@TCR 224; @SD 4608).
 
 Thoughts and affections dwell in organic substances from the most simple thereof to their general aggregate which is the brain (@DLW 192).
 
@@ -628,7 +614,7 @@ But as we have observed the mind thus inherited is not the proprial mind, nor do
 
 And as the mind is thus formed in man, whether from heaven or from hell, it descends into the body by its appointed paths, the nerve fibers, and as it were forms the body as image of itself answerable to its modes,--a formation which is witnessed not in the external build of the body, but in what is called its expression and habits.
 
-It created the body by means of the brain and is immediately present in every part of the body, but the states of the body, when formed, its actions, habits and expressions, especially the expression of the face, are produced solely by the proprial mind of the man himself, which is formed after birth (T. C. R. 403-5).
+It created the body by means of the brain and is immediately present in every part of the body, but the states of the body, when formed, its actions, habits and expressions, especially the expression of the face, are produced solely by the proprial mind of the man himself, which is formed after birth (@TCR 403-5).
 
 It is during and after the formation of the mind by life in the world,--not before birth,--that the body becomes an image of that mind. It is as the mind is formed that that mind enters instantaneously into every part of the body that has been given over to its dominion and there reveals its own quality.
 
@@ -652,12 +638,18 @@ The single things of the thought and will are inscribed on the brain, for there 
 
 Hence the things inscribed on the memory from mans will and thought are not only inscribed on the brain, but also on the whole man, and there they exist in order according to the order of the parts of the body. Hence man is such in the whole as he is in his will and thought therefrom (@HH 463).
 
-That mans will and understanding is in its principles and firsts in the brain and in its principiates and products in the body, is shown by eight considerations: 1. From sensation, in that when man is intent in mind, he perceives that he thinks in the brain; he withdraws as it were his sight, wrinkles his forehead, and perceives that there is a speculation within him, especially within the forehead and a little above. 2. From mans formation in the womb, that the head is the first, and is for a long time larger than the body. 3. That the head is above and the body beneath, and superiors act into inferiors and not the reverse. 4. When the brain is injured thought is ruined, and sometimes the mind becomes delirious. 5. All the external senses of the body are in the from of the head, and communicate with the brains immediately by means of fibers, deriving hence their sensitive and active life. 6. That the affections and thoughts appear in the face in a certain image. 7. The anatomical fact that all fibers descend from the brain through the neck into the body and none ascend, and who would undertake to deny that the origin of life is where the origin of the fibers is?
+That man's will and understanding is in its principles and firsts in the brain and in its principiates and products in the body, is shown by eight considerations:
 
+1. From sensation, in that when man is intent in mind, he perceives that he thinks in the brain; he withdraws as it were his sight, wrinkles his forehead, and perceives that there is a speculation within him, especially within the forehead and a little above.
+2. From mans formation in the womb, that the head is the first, and is for a long time larger than the body.
+3. That the head is above and the body beneath, and superiors act into inferiors and not the reverse.
+4. When the brain is injured thought is ruined, and sometimes the mind becomes delirious.
+5. All the external senses of the body are in the from of the head, and communicate with the brains immediately by means of fibers, deriving hence their sensitive and active life.
+6. That the affections and thoughts appear in the face in a certain image.
+7. The anatomical fact that all fibers descend from the brain through the neck into the body and none ascend, and who would undertake to deny that the origin of life is where the origin of the fibers is?
 8. Common perception that we think in the head (@DLW 365)
 
-THE MIND HAS NO OTHER ORGANISM OR BODY THAN THAT WHICH IS FORMED IN THE
-BRAIN.
+THE MIND HAS NO OTHER ORGANISM OR BODY THAN THAT WHICH IS FORMED IN THE BRAIN.
 
 It surely cannot be maintained that the mind of man which, as all men know, is formed after birth, constructs another body for itself within the material body; that is, a body consisting of parts, whether spiritual or natural, shaped in the figure of the material body. The latter is already formed from inmost to outmost by the soul, and the mind but introduces into it its own acquired states and forms.
 
@@ -673,7 +665,7 @@ If the mind of men were within the body like one figure or shape is within anoth
 
 THE ORGANIC MIND A SUPERIOR FORM.
 
-That the mind of man is not within the body as an accompanying organic entity separate from the material body organized and perpetually vivified by the soul; and that on the other hand the brain is the true and only organic in which man electively forms and builds up his mind which lives after death, and from which he actuates the body, is further evident from the well known teaching of the Writings respecting the organic form of the mind. The spiritual organism of the mind (says the Revelation) consists of perpetual helices (T. C. R. 578; @DLW 263).
+That the mind of man is not within the body as an accompanying organic entity separate from the material body organized and perpetually vivified by the soul; and that on the other hand the brain is the true and only organic in which man electively forms and builds up his mind which lives after death, and from which he actuates the body, is further evident from the well known teaching of the Writings respecting the organic form of the mind. The spiritual organism of the mind (says the Revelation) consists of perpetual helices (@TCR 578; @DLW 263).
 
 Mans affections and thoughts are changes and variations of the state and form of the organic substances of his mind which are the subjects of those affections and thoughts. But the expansions and compressions of these substances or their reciprocations cannot be expressed in words of natural language [as can the motions of heart and lungs] but only in words of the spiritual language which can phrase them no otherwise than as being vortical ingyrations and egyrations after the manner of perpetual and inflected helices, wonderfully confasciculated into forms receptive of life (@DP 319).
 
@@ -687,9 +679,7 @@ And Swedenborg was given to perceive these forms by the removal of lower forms i
 
 * It may be noted that in the passage in which Swedenborg records this perception of interior forms, he refers to his work on the Doctrine of Forms, which forms a part of the work on the FIBRE.
 
-CHAPTER V.
-
-THE MIND OR SPIRIT IS IN THE HUMAN FORM.
+== V. THE MIND OR SPIRIT IS IN THE HUMAN FORM.
 
 We have shown in the preceding chapter that the organic seat. of the mind is in the brain; and that the form of its organism is a transcendent form superior to the organic form of the body. But to say that the form of the organic vessels of the mind is a transcendant form is not: to say that it is not a human form,--nay rather the reverse.
 
@@ -709,7 +699,7 @@ And all this because God is a man.
 
 Yet God cannot be conceived of as an infinite human figure, but as the human form of Divine love and Divine wisdom which is omnipresent, and which whenever it appears in ultimates, appears as a man with eyes and ears, nose and mouth, and all that pertains to man (D. L. W. 18; A. E. 750 fin.). Indeed, without the ultimate appearance, we should never be able to perceive the Lord as a Man; but it behooves us not to think from the appearance. He who judges from the sensuals of the external man (says our Revelation) cannot think otherwise of the Divine, and thus of the spiritual man, than as of the corporeal and natural. Hence he concludes that if God is a man He would be like the universe in size (@HH 85).
 
-All things which proceed from the sun of the spiritual world, in whose midst is Jehovah God, present a man, and therefore all things that exist in that world conspire to the human form and present it in their inmosts (T. C. R. 66; S. D. 4775, 4846, Inv. 48. A similar teaching is given in HEAVEN AND HELL 460, with the addition that each one, (that is, each human mind), is in the human form according to his reception of good and truth from the Lord. Significant are the concluding words of this passage: But this arcanum comes with difficulty to the understanding of any man.
+All things which proceed from the sun of the spiritual world, in whose midst is Jehovah God, present a man, and therefore all things that exist in that world conspire to the human form and present it in their inmosts (@TCR 66; S. D. 4775, 4846, Inv. 48. A similar teaching is given in HEAVEN AND HELL 460, with the addition that each one, (that is, each human mind), is in the human form according to his reception of good and truth from the Lord. Significant are the concluding words of this passage: But this arcanum comes with difficulty to the understanding of any man.
 
 To angels belongs the human form, (says the SPIRITUAL DIARY), and in explanation of this statement it continues the all of mans life from the Lord conspires to the human form. Its least and its greatest, the all of good and truth which is the understanding, from its will which is from the Lord, endeavors to the human form; and this because God is a man and heaven in the complex is man.
 
@@ -744,7 +734,7 @@ The mind of man (says the Revelation), is the man himself. For the first web of 
 
 This form it is into which man comes after death, who is then in every perfection a man, but spiritual. The material form which has been added and superinduced in the world is not the human form from itself, but is from that human form, added and superinduced that the man may perform uses in the natural world, and also that he may take with him from the world some fixed containant of spiritual things drawn from the purer substances of the world, and may thus continue and perpetuate life (D. L. W. 355. See also S. D. 355, and Index, quoted below).
 
-Nay, when looked at from uses, that is from spiritual uses, or when seen by the spiritual man, the human form appears inmostly in all things of the vegetable kingdom and animal kingdom; and what is wonderful, in the other world, angels who have their inmost sight opened, see themselves actually mirrored forth in all things which are around them (T. C. R. 66; D. L. W. 322; @AC 1212).
+Nay, when looked at from uses, that is from spiritual uses, or when seen by the spiritual man, the human form appears inmostly in all things of the vegetable kingdom and animal kingdom; and what is wonderful, in the other world, angels who have their inmost sight opened, see themselves actually mirrored forth in all things which are around them (@TCR 66; D. L. W. 322; @AC 1212).
 
 But inmost and interior forms do not present themselves to be seen by the natural man except in ultimates; and there they are seen in their true appearance and form, a form which was, in fact, theirs from very firsts, but which could not be seen except in lasts. Who of us sees the human form in each ray of light that proceeds from the spiritual sun? Who sees the human form in the seed of man? Or the human form in those beginnings of the embryo which the microscope has laid bare? But because we have seen these forms in their extension appearing in the human form, we know that they themselves are in the human form, but still more perfectly (D. Wis. iii. 4);
 
@@ -789,9 +779,7 @@ The first truths that are impressed on the mind of man after birth, are represen
 
 Especially does man receive and perceive the human form,--the form to which the soul in its descent has striven, a form which from the first moment of birth is impressed on the organics of the mind, to remain with that man, that mind, forever as the ultimate form and appearance of the soul. Given to the man to be as it were his own form.
 
-CHAPTER VI.
-
-THE OFFICE OF THE PURISST SUUSTANCES OF NATURE AS THE ORGANIC OF THE
+== VI. THE OFFICE OF THE PURISST SUUSTANCES OF NATURE AS THE ORGANIC OF THE
 MIND OR SPIRIT.
 
 THE PUREST SUBSTANCES OF NATURE RETAINED AFTER DEATH.
@@ -834,9 +822,7 @@ The form of this organic vessel is the human form as already shown, but a human 
 
 It is this organic of the mind thus wonderfully formed, of which it is said, The angels do indeed know that there is such a medium (drawn from the inmost things of nature and whereby a spirit is finited so as to be permanently subsistent): but because it is from the inmost things of nature, and the words of languages are from her ultimates, therefore it cannot be described except by abstract terms - that is, by terms abstracted from ideas of time and space (D. W. viii, 4-5). What wonder then that Swedenborg says, I do not know in what quality of body (quail corpore) spirits are? though he does know that they are forms most perfect for every use, so that they may be called spiritual and celestial forms (@SD 2917). But he was soon led by the Lord to have some perception of these forms (@SD 3382); and that they were not wholly unknown to him before, must be manifest to every one who has studied his Doctrine of Forms. See above, p. 81.
 
-CHAPTER VII.
-
-THE SUBJECTS AND OBJECTS OF SIGHT IN THE SPIRITUAL WORLD.
+== VII. THE SUBJECTS AND OBJECTS OF SIGHT IN THE SPIRITUAL WORLD.
 
 SUBJECT AND OBJECT.
 
@@ -906,7 +892,7 @@ But to all in the other world, whether interior or exterior, there must be afflu
 
 In the representatives of nature, and in the spoken and written Word of revelation, the Lord presents Himself as the object of mans thoughts (S. D. 2329, 2735), and He perpetually maintains this presence with angels and spirits, that He Himself may be the Base and Ultimate on which rest all the thoughts and loves of angels. Hell has also entered into this ultimate and there formed a base for the perpetuation of the active conscious life of spirits. And therefore the Lord came actually into the world, that He might introduce order in ultimates and thus enlighten angels and subjugate the evil.
 
-This doctrine of the dependence of spirits on men for the basis of their conscious life, that is, for the means by which the Lord reveals Himself to them in lasts as the Object of their thoughts (S. D. 2329, 2735), is plainly involved in the teaching that the Church must be preserved in some place on earth, otherwise the angelic heaven itself could not be preserved in its integrity (T. C. R. 119, seq.), but, for its preservation, would needs be transferred to rest on societies of men of other earths (A. E. 726, iii; A. C. 1676, fin.)
+This doctrine of the dependence of spirits on men for the basis of their conscious life, that is, for the means by which the Lord reveals Himself to them in lasts as the Object of their thoughts (S. D. 2329, 2735), is plainly involved in the teaching that the Church must be preserved in some place on earth, otherwise the angelic heaven itself could not be preserved in its integrity (@TCR 119, seq.), but, for its preservation, would needs be transferred to rest on societies of men of other earths (A. E. 726, iii; A. C. 1676, fin.)
 
 THE OBJECTS OF THE INTERIOR SIGHT.
 
@@ -949,7 +935,7 @@ We say if man submits himself, and by this mean if he holds the ideas of his nat
 
 These truths and goods thus born are not something unreal or idealistic; they are not precipitated from the atmospheres or floating therein (Influx 12). They are actual substances and forms, and actual births from the marriage of the Lord and the Church in man.
 
-The Lord inflows into the natural mind where are the ultimate appearances of truth, and from that mind as from a womb He clothes new and more interior states which present to the interior sight of man the spiritual truths within the appearances of his natural mind, (@CL 120), giving him spiritual understanding, perception and thought, and whose harmonies he perceives as goods from which is love and charity and affection. It is these new states that are the goods and truths, the offspring of the marriage of the Lord and the Church; for spiritual goods and truths are brought to birth in man and not as some aerial thing without him; and actually brought to birth by the formation, by goods and truths from the Lord, of a new body, a new organic mind from such things as are in man from the natural world (T. C. R. 583; @AC 3298). And this organic mind thus born is the man. Very literally therefore is the regenerate man a child of God, and the unregenerate a child of the devil.
+The Lord inflows into the natural mind where are the ultimate appearances of truth, and from that mind as from a womb He clothes new and more interior states which present to the interior sight of man the spiritual truths within the appearances of his natural mind, (@CL 120), giving him spiritual understanding, perception and thought, and whose harmonies he perceives as goods from which is love and charity and affection. It is these new states that are the goods and truths, the offspring of the marriage of the Lord and the Church; for spiritual goods and truths are brought to birth in man and not as some aerial thing without him; and actually brought to birth by the formation, by goods and truths from the Lord, of a new body, a new organic mind from such things as are in man from the natural world (@TCR 583; @AC 3298). And this organic mind thus born is the man. Very literally therefore is the regenerate man a child of God, and the unregenerate a child of the devil.
 
 The substances and forms which are love and wisdom do not exist before the eyes like the organs of the external senses; still none can deny that substances and forms are those things that are called thoughts, perceptions and affections; and that they are not volatile and fluent entities from nothing or abstracted from real and actual substance and form which are subjects. For in the brain are innumerable substances and forms in which resides all the interior sense which refers itself to understanding and will. All affections, perceptions and thoughts are actually and really subjects which emit nothing from themselves but only undergo changes according to things flowing in which affect (D. L. W. 42; see also H. H. 434, 460).
 
@@ -1038,11 +1024,9 @@ Every spirit and every angel as to his interiors has a certain situation in the 
 
 Hence when the sphere of their love is perceived, and thereby their presence, they always appear in that part of the Grand Man to which they belong,--thus in a line with the face, or about the neck, or at the elbow, etc. (S. D. 2332-4), and with Swedenborg the presence of evil spirits frequently inflicted pains on that part of his material body to which they corresponded. So also spirits when their presence is perceived are always heed in a certain quarter, the good at the right and the evil at the left, and this howsoever the spirit that sees may turn himself (@AC 1276). Even if one spirit looked to the east and another to the west still with both the good would appear at the right and the evil at the left (A. C. 4882, 3638, 4321; @SD 1986). But when an evil spirit is in the thought that he is, for instance, on high - as when pride and elation is excited - then the sphere proceeding from him and presenting his presence produces the appearance among spirits that he is actually on high (A. C. 3640; @SD 2336). The simple are greatly deceived by these fallacious appearances, but the wise, although they also see them, know that they are fallacies (S. D. 2337; @AC 3640). Because the evil have made sensual appearances,--that is, the appearances received through the senses - the principal and supreme things, and have regarded all interior thoughts and affections as beneath, therefore from them there proceeds a sphere which actually presents them before the interior sight of angels upside down; although, because the evil spirit imagines himself to be a man erect, he may also be so presented before the external sight of angels, that is, before the sight of their external thought (A. C. 3641; see @SD 3116); but they know that this is a mere appearance.
 
-For the same reason it is that with the evil the purest substances of nature which constitute their spiritual body are above and the spiritual below; while with the good the spiritual wherein are presented truths and goods is above and the border or limbus from nature whereby are presented natural and sensual images is below (T. C. R. 103; @AC 5125).
+For the same reason it is that with the evil the purest substances of nature which constitute their spiritual body are above and the spiritual below; while with the good the spiritual wherein are presented truths and goods is above and the border or limbus from nature whereby are presented natural and sensual images is below (@TCR 103; @AC 5125).
 
-CHAPTER VIII.
-
-THE LAW OF AFFLUX.
+== VIII. THE LAW OF AFFLUX.
 
 The spheres proceeding from spirits and from the spirits of men, and, most of all, the subtle motions set up in the ether - for the spheres themselves have comparatively little extension,--do more than present a perception of presence; or rather, this perception of presence involves far more than might at first appear. These ether currents set up by spirits,--their idea-forms going forth to do their work - are the means whereby variations of forms are induced upon the interior organisms of spirits, and whereby thus, they are preserved in active, conscious, sensitive life. Without them spirits would indeed be forms, but they would be forms as it were inanimate, and lifeless, because senseless.
 
@@ -1107,9 +1091,7 @@ We can also understand why it is that the knowledge and perception of truth by m
 
 Here also comes to clearer view the fact that minds which have been ordered in the form of heaven have wide extension into societies many and interior, so that, like Swedenborg in his philosophical works, they have perceptions, or interior sight of things hitherto undreamed of. In them is concentrated the wisdom of hosts of the wise of past ages.
 
-CHAPTER IX.
-
-THE MIND OF MAN IS HIS SPIRIT THAT LIVES AFTER DEATH.
+== IX. THE MIND OF MAN IS HIS SPIRIT THAT LIVES AFTER DEATH.
 
 Any true understanding of the spiritual world depends on a comprehension of the revealed truth that the spirit that lives after death is the mind, and that the mind is formed in those purer substances of nature which constitute the sensoria collated in the cortical glands of the human brain. There is the meeting place of heaven and earth. There, from without by means of the loaned body, come the images of earth, to be submitted, if the man will, to the light of heaven and to be ordered by its heat; that new forms may be born which shall be perceptive of the presence of the Lord in His creation; which shall be as the clay that confesses Thou, O Lord, art our Father; we are the clay, and Thou our potter, and we are all the work of Thy hands (Is. 64:8.)
 
@@ -1154,9 +1136,7 @@ Herein we see the reason and the scope of the teaching respecting those who die 
 
 They have not formed with themselves that plane of the mind in which gross material appearances are stored up. And therefore the appearances that are presented before them are more plastic and living, nor can they ever be led to think of them as material. Yet, as we are told, the state of men who grow up on earth may become equally perfect, if they will remove corporeal and terrestrial loves and receive spiritual loves in their place (@HH 345),--if they will withdraw their thought and love from being engrossed with material things as the sole objects of life, and fix them on the spiritual things of the Word.
 
-CHAPTER X.
-
-THE SPIRITUAL BODY, OR THE BODY OF THE SPIRIT.
+== X. THE SPIRITUAL BODY, OR THE BODY OF THE SPIRIT.
 
 The doctrine concerning the spirit of man, that it is his mind,--a form organized of purest substances of nature,--brings us to a clearer and more comprehensive understanding of the teachings of the Writings respecting the human form of the spirit, and respecting its appearance in the other life; for spirits in the other life are actually in no other form than that in which was their spirit during their life in the body. It also enables us to see the harmony between apparently conflicting statements - one that after death the spirit is not in the same form as in the world, and the other, which is so familiar to Newchurchmen, that he is in exactly the same form.
 
@@ -1236,7 +1216,7 @@ It may therefore be said in a very real sense that during life in the world man 
 
 When man lays off the natural body (we read) his soul clothed with a spiritual body comes into that world where all things are spiritual.
 
-Now because the spiritual body is to be formed in the material body, and it is formed by truths and goods which flow from the Lord through the spiritual world and are received by man from within in such his thoughts as are from the natural world which are called civil and moral, it is evident what is the nature of his formation; and, because there is with man a perfect correspondence between things done naturally and things done spiritually, it follows that it is as conception, gestation in the womb, birth and education (T. C. R. 583; cf. D. L. W. 209, civil and moral thoughts are substances).
+Now because the spiritual body is to be formed in the material body, and it is formed by truths and goods which flow from the Lord through the spiritual world and are received by man from within in such his thoughts as are from the natural world which are called civil and moral, it is evident what is the nature of his formation; and, because there is with man a perfect correspondence between things done naturally and things done spiritually, it follows that it is as conception, gestation in the womb, birth and education (@TCR 583; cf. D. L. W. 209, civil and moral thoughts are substances).
 
 Love and will is the soul of the deed or work; it forms its body in the sincere and just things which the man does. The spiritual body or the body of every spirit and angel is the external form of his love, entirely corresponding to the internal form which is of his animus and mind (H. H. 363; A. C. 4535; @DP 319).
 
@@ -1336,9 +1316,7 @@ In the other world however such appearances are seen as real appearances, so rea
 
 Angels and spirits appear as men complete in every way, with heart and lungs, and all the organs, viscera and members; they have memory, reflection, external and internal thought, and the latter is the same as on earth except that it is much more intense and acute. But the spiritual body is essentially different from the earthly body although in appearance the same except as being, to the spirit himself, much more perfect and beautiful. In a word, man loses nothing whatever by death but the material body. As to his spirit, which is his mind, he is the same, exactly the same, real, substantial, and appearing in his true form, which he has built up on earth, either infernal and monstrous or angelic and truly human.
 
-CHAPTER XI.
-
-THE REALITY OF THE SPIRITUAL WORLD.
+== XI. THE REALITY OF THE SPIRITUAL WORLD.
 
 To us whose thought is so profoundly influenced by time and space and by the appearance that we live and are human from ourselves, and are not mere organs receptive of life, this thought concerning the spiritual body and the spiritual world may seem like a lessening of the reality of that world; and if it so appear to any of my readers I would ask them to be fully assured that in the other life they will find themselves in a body much more real than they have now,--much more expressive of their thoughts and affections and answerable thereto,--the body which they are even now forming for themselves. And they will be in surroundings which are real appearings of the active substantials within all creation and which are the cause of all creation,--the uses, namely, from which and for the sake of which ultimate creation exists; real appearings also of the active spheres which proceed from the love and thought of every spirit; appearances which are so real that natural spirits can hardly be led to believe that they are not material. But the wiser angels see these appearances only remotely, for what comes to their mind and sight, is the Divine of use itself which thus appears; and this they see, as forms and beauties which the revelator tells us are inexpressible is natural words, or by natural ideas. It is these real appearances, Swedenborg tells us, that are those real imaginations for the possession of which, he adds, he would give up all his wealth, saving only what was necessary to bare existence (S. D. 2449; @AC 4043).
 

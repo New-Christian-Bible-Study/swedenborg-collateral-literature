@@ -1,25 +1,26 @@
-BY THE
+= Scripture Paradoxes - Their True Explanation
+By the Rev. Dr. Bayley  1868
+include::../template-attributes.adoc[]
 
-REV. DR. BAYLEY.
-
+REV. DR. BAYLEY. + 
 Minister of Argyle Square Church, Kings Cross, London.
 
-LONDON:
-
-CHARLES P. ALVEY, 36 BLOOMSBURY STREET, W. C.
-
+CHARLES P. ALVEY, 36 BLOOMSBURY STREET, W. C. + 
+LONDON + 
 1868.
 
-LONDON:
 
-PRINTED BY CHARLES P. ALVEY, MUSEUM STREET.
+
+PRINTED BY CHARLES P. ALVEY, MUSEUM STREET. + 
+LONDON
 
 PREFACE.
 
 THE Discourses on the Paradoxes which follow, were delivered to aid sincere seekers after Christian Truth. I am profoundly convinced that the number is very large in all denominations of those who desire to be right; who wish to serve the Lord, and live for heaven, but who at the same time, have many difficulties which they would gladly have unraveled. They need helping, and they desire to be helped. True Christian work is, in love, to help each other; not to reproach, or to denounce each other. In this spirit these Discourses were delivered; in the same spirit they are issued from the press, with the prayer that, they may be blessed to the good of many, by Him who is the Light of the Word.
-
+ + 
 J. BAYLEY.
 
+////
 CONTENTS.
 
 PAGE
@@ -54,8 +55,9 @@ AND ITS REALIZATION IN ALL WHO LOVE HIM. 75
 11 MANS RESURRECTION IN HIS SPIRITUAL BODY 127
 
 12 FAITH GROUNDED IN LOVE, THE SOURCE OF CHRISTIAN VIRTUE 141
+////
 
-LECTURE I.
+== Lecture I.
 
 Of old hast thou laid the foundation of the earth of the earth, and the heavens are the work of thy hands. They shall perish.Psalm cii. 25, 26.
 
@@ -169,7 +171,7 @@ Nor can the observant mind omit to notice that these changes are now dawning upo
 
 What an advance has been made in new and better things during the past fifty years! How has science increased that power of locomotion by which men can run to and fro, as Daniel said, and knowledge be increased! The dark corners of the earth are now penetrated by holy light in a way which is marvelous in our eyes. How do books multiply! How wondrously they are cheapened and brought to every hand! And we may safely say that their quality is equally improved with their quantity. Mark, also, the rapid increase of benevolent institutions. How nobly now does wealth pour out of its abundance to supply the helps which charity craves for sorrow. But greatest, and best of all, there is everywhere acquiring strength, and increasing immensely, though checkered by selfishness and ignorance, the remnants of past error and neglect, the appreciation of man as man:the dignity of humanity in all its forms, the dignity of labor as well as of literature, of work as well as of mind. Humanity is evidently emerging once more from chaos and darkness, to order, wisdom, and peace. Let us hail the sacred morning of a new day, and labor for the realization, however distant that realization may seem to be, of the era in which there shall be neither idler nor slave. Then, none shall be ignorant of the great lights of eternal truth and justice, and all from the highest to the lowest livingly know that righteousness can bless the world, and make it like heaven. Then will the kingdoms of THIS WORLD become the kingdoms of our Lord and of his Christ, and He shall reign forever and ever.
 
-LECTURE II.
+== Lecture II.
 
 He hath shewed thee, O man, what is good; and what doth the Lord require of thee but to do justly, and to love mercy, and to walk humbly with thy God?Micah vi. 8.
 
@@ -234,7 +236,7 @@ And so with the Divine blessings which follow. And I say unto you, make to yours
 
 These have been acquired and possessed while our motives have been selfish and corrupt. They are our mammon of unrighteousness. Our spiritual riches are frequently our tormentors for a time; they am as enemies like Elijah was to Ahab, because we are in states in which they will not let us rest. The Lord says, Make friends of them, Make to yourselves friends of the mammon of up righteousness, use them for a heavenly purpose. Do as they tell you; throw away your evils, that all heavenly virtues maybe brought down within you. When the Lord calls you to forsake your sins and follow after righteousness, do it. Let heavenly things be all applied to a heavenly purpose, then they will form heaven within you; they will form principles of hope, of faith, of love, of innocence, and peace in which you can dwell. They will receive you into everlasting habitationsthey make everlasting habitations for you. When we make a new heart and right spirit within us, we make a little heaven within our own souls in harmony with the laws and the bliss of the grand heaven of the angels. When outward things fail and die, the brightness, and blessedness of these inner riches will come forth with a power and splendor over increasing, both on earth and in heaven. Make to yourselves friends of what once was the mammon of up righteousness. These friends will go with you to the bed of death; they will be with you in the resurrection and at judgment; and they will rejoice with you in heaven.
 
-LECTURE III.
+== Lecture III.
 
 Fury is not in me.Isaiah xxvii., 4.
 
@@ -302,7 +304,7 @@ Let us now regard the other side of the picture and ask the Divine question, Why
 
 God is love, God is light, and in Him is no fury, no darkness. The mans soul was jaundiced, and all seemed yellow; his soul is purified, and all now seems bright. The Lord will receive and comfort him and ultimately take away from him every fear; for perfect love casteth out fear. The Savior will we him now a foretaste of heaven, and then raise him to that glorious home;--there all are happy, because all are good. The Lord thus suffers Himself to be seen by the forward, as it is said in Psalm xviii., 25, 26., as if He were forward; but to the merciful He always appears as a true, a merciful, and a gracious God. His tender mercies are over all His works, in heaven, earth, and even in hell. To Him be glory for ever and ever.
 
-LECTURE IV.
+== Lecture IV.
 
 And it repented the Lord that he had made man on the earth, and it grieved him at his heart.--Genesis vi., 6.
 
@@ -370,7 +372,7 @@ If then, we are unhappy, restless, sad, having tried expedient after expedient, 
 It cannot be. Do men gather grapes of thorns, or figs of thistles? O
 turn to the Savior, as the earth turns to the sun. And, as she is hatred in his radiance with light and warmth, fertility and loveliness, so will your changed souls gradually resume the blessedness of Eden, and glow with the glory of heaven. Seek eternal bliss no other way. He has set before you life and death, good and evil, blessing and cursing. Choose life that ye may live. Try no other way, for God is not the son of man, that He should repent. Take up the devout language of humble prayer and say,May His sacred Spirit help me to become daily more and more like Himself, my God and Savior, and my heart like the heaven He fills and blesses. As men change by regeneration into the likeness of the immutable God, they will become models of purity, order, and good; life in this home here below will prepare them at last for the bliss of that home above, and the life everlasting beyond the grave. Amen.
 
-LECTURE V.
+== Lecture V.
 
 I the Lord thy God am a jealous God, visiting the iniquity of the fathers upon the children unto the third and fourth generation of them that hate me.--Exodus xx., 6.
 
@@ -447,7 +449,7 @@ The wicked cease from troubling,
 
 And the weary are at rest.
 
-LECTURE VI.
+== Lecture VI.
 
 Honor thy father and thy mother.--Exodus xx. 12.
 
@@ -517,13 +519,13 @@ The Lord gives us instead abundant inner virtues, filling the soul with a whole 
 
 Nothing of the kind. This is the old mother we mentioned, an old scheme to help you to go on sinning. It is change of nature that is wanted, and it is a great thing to do. Selfish things we must hate, father, mother, and the whole stream of selfish thoughts we must abhor. It will be hard for us to do; but let us take up our cross. Cross yourselves with the Divine Truth, never mind crosses on your necks, or garments, but let the cross come into your heart by crossing all your high tempers, and putting them down, pride and selfish vanities, never mind how the conflict pains you, it will end, in a little time, is triumph. When you take up the cross do not drag it along, but take it up saying, This is my Lords will, this is what I ought to do to be an angel, and I will do it, and you will find this cross, as you work on, will begin first to have a crown on the top, and then there will gradually appear a rove here and a rose there, and in a little time the whole cross will dissolve into roses, and form a bower of bliss. Ultimately, the Lord will say to us, For he that hath wrought us for this self same thing is God, when he welcomes us to our eternal home, Come and be my disciple for ever and ever.
 
-LECTURE VII.
+== Lecture VII.
 
 Even so it is not the will of your rather which is in heaven, that one of these little ones should perish.--Matt. xviii., 14.
 
 COMPARED WITH
 
-For whom he did foreknow, he also did predestinate to be conformed to the lungs of his Son, that he might be the firstborn among many brethren. over whom he did predestinate, them he also called: and whom he called, them he also justified: and whom he justified, them he also glorified.Rom. viii., 29, 30.
+For whom he did foreknow, he also did predestinate to be conformed to the lungs of his Son, that he might be the firstborn among many brethren. over whom he did predestinate, them he also called: and whom he called, them he also justified: and whom he justified, them he also glorified. Rom. viii., 29, 30.
 
 THE two declarations before us appear to be contradictory. The appearance has been supposed to exist by a great number of persons who seem to have mistaken the character of the Divine Being. They think that the teaching of the apostle Paul in the words, Whom he did foreknow, he also did predestinate, was that a peculiar few, as compared with the whole number of the human race, were destined in the sight of God to hear the gospel, become angels, and be everlastingly happy. Then he also called, and whom he called, them he also justified, and whom he justified, them he also glorified. The idea that there had been set aside a peculiar few, a certain number, who were thus supposed to have been pre-arranged for by the Divine Being; while all the rest were passed over, and that they would certainly go to heaven, is certainly not in harmony with the fundamental teaching of Scripture. Our Divine Lord, and He was God manifest in the flesh, assures us in the first text that every child created by our Heavenly Father is created for eternal happiness. It is not the will of your Father which is in heaven that one of these little ones should perish.
 
@@ -582,7 +584,7 @@ God always sees every one and all things, just as they are.--Shall not the judge
 
 Every time he prays, and every time he is thinking of Being to heaven, the Spirit of the Lord will whisper, What doth the Lord thy God require of thee, but to do justly, to love mercy, and to walk. humbly with thy God. And He will thus make men just. Their lives become daily more useful, pure, and innocent; they do nothing that would harm their neighbor or would sully the glory of their Lord. He imparts justice to them. He makes them angel-like. They become heavenly, and thus they become justified; they have a beauty imparted to their characters, they not only become lovelier themselves, but they surround themselves with things lovely and becoming, so far as their means permit, so that beauty conjoined with mercy make their homes types, though imperfect types of heaven. They become glorified, not with outward glory, but with the glory of being wise, humble, and good. Their glory is to say, I shall be satisfied when I awake in thy likeness. Let the beauty of the Lord our God be upon us; establish thou the work of our hands, yea the work of our hands establish thou it. Let us say this my beloved friends. So shall me go on from being foreknown by love, to be predestinated and called by truth, justified, glorified; until at length we form part of the glorious company of the angels, who are eternally happy because they are eternally good.
 
-LECTURE VII.
+== Lecture VII.
 
 For this cause shall a man leave father and mother, and shall cleave to his wife; and they twain shall be one flesh. Wherefore they are no more twain, but one flesh.St. Matthew xix., 5, 6.
 
@@ -651,7 +653,7 @@ the only true motive, the only principle that ought to introduce immortal souls 
 
 Everything in union, harmony, beauty, and blessing; the words of Divine promise will be realized, The Lord delighteth in thee, and thy land shall be married.
 
-LECTURE IX.
+== Lecture IX.
 
 Know therefore this day, and consider it in thine heart, that the Lord he is God in heaven above, and upon the earth beneath: there is none else.--Deut. iv., 30.
 
@@ -708,7 +710,7 @@ and baptize them in the name of the Holy Spirit, because the Holy Spirit is mine
 
 And, thus we understand what is said in another place, All that the Father hath is mine, and All mine are thine, and thine are mine. All that the Father hath; the Fathers life, the love, the Fathers substance, all that the Father hath and is, must be so blended with the Humanity, that God was man and man was God in the same glorious Divine Person. Therefore when God gave Himself, He gave all His power along with it, and the Humanity when it became Divine, received all the powers of the God-head, and exercised them. And so states that other passage in the Old testament that seems so completely correlative to this. You will see the subject is treated precisely in the same way, Unto us a Child is born, unto us a Son is given, (Isaiah ix.) and the government shall he upon his shoulder,the glorified Son exercising all the powers of the God-head, just as the spiritualized lower nature of a man, when it becomes truly regenerated, receives and displays all the tempers and everything connected with his angelic nature within; so that he becomes one spiritual man, one angelic man. So, with the Lord, when His Humanity became fully glorified, then the government rests for ever on His shoulder. All power for ever is given unto Him in heaven and on earth. And his name shall be called Wonderful, because He is beyond all measure wonderful in the infinitude of His love. His name is called Counselor, because all Wisdom is His, all good counsels flow from Him. The Mighty God, not a Mighty God, but the Mighty God, the very Father of all power is there; The Mighty God, the Everlasting Father, the Prince of Peace. Thus showing us that when the Lords Humanity was glorified, the Father in the Son, and the Holy Spirit flowing from both, these are the same God manifest to men, that according to our first text had ruled in the Old Dispensation in the heaven above and on the earth beneath. We can still further say, that now and for ever - for Jesus Christ is the same yesterday today and for evernow and for ever; there is none else.
 
-LECTURE X.
+== Lecture X.
 
 I, even I, am he that blotteth out thy transgressions for mine own sake, and will not remember thy sins.--Isaiah xliii, 25.
 
@@ -784,7 +786,7 @@ Oh if men were glowing with love, if seeing what the Holy Savior is, and what th
 
 But if a person is determined that he will not be hells bond-slave, that he will not be a victim of pride, selfishness, and insanity; that because God has given him power to break away from the atmosphere of hell, and to rise into the light of heaven, he will not stay in darkness but will follow the Savior God in the regeneration, he then has everlasting life. The older he grows the younger he becomes. He lives on, and lives upward. When the time of earthly dissolution comes, and the earthly house of this tabernacle perishes, the inner house, the soul, in all the beauty of angelic love lives on and enters into open association with its angelic friends in heavens eternal land, there to live, there to be blessed, and to bless in everlasting life,--that is, everlasting love. He owes it all, and adoringly confesses he owes it all, to the Father in the Son, the Lord Jesus Christ.
 
-LECTURE XI.
+== Lecture XI.
 
 For I know that my Redeemer liveth, and that he shall stand at the latter day upon the earth: And though after my skin, worms destroy this body, yet in my flesh shall I see God.Job, xiv., 25, 26.
 
@@ -873,7 +875,7 @@ When Socrates was about to die, and he had many of his friends around him, great
 
 You look, it may be, at the graves of those you value, because the body is there in which your loved ones dwelt, but do not suppose that they are there now. They are not here, they are risen. Angels have been near you all your life; never fear when death comes, they will not forsake you. There is only one death you need to fear, and that is, dying to goodness, to wisdom, to faith, and to love. Be careful that righteousness does not die with you.As to everything else, we never do die. We live more and more by every glorious purpose, by every advance in the regenerate life. Our youth is renewed like the eagles. The appearance of decay in old age is not a decay in anything of a heavenly character. We decay in the remembrance of words sometimes, for words are losing their value to us: we are rising to ideas. We decay in the knowledge of outward facts, in the power of doing many physical things, because our life is drawing inwards. We are soon coming to have nothing to do with the world in any way. It is with us as it is with corn. As its blade grows up at first young in the field, it has the outside full of vigor; the stem stands upright, but there is little in it. As the plant ripens, the pith and substance gather within, and form a bulb in the center, full of nutriment and full of use. The outside becomes shriveled, weak, and dry, ready to be put away as chaff. Well, let it be put away,--the ripened corn is gathered into the barn, and goes to feed, to comfort, and to bless mankind. So is life in us. In youth our outside life is vigorous, in age the hair may whiten, the cheek may be wrinkled, the outward form be less and less, but if we have been going on in real love to God and love to man, in true effort constantly to become more and more heavenly, our youth is renewed, real wisdom, real faith, real firmness in what is good, real angelic beauty, become more and more developed within us until the time comes that our companion angels beckon us hence. The death we thought was a skeleton about to strike us with his spear, is really a herald of heaven about to touch us with his scepter. He says, Come up hither. Like the Lord to His dying companion on the cross, it will be said to you, Today shalt thou be with me in paradise.Luke xxiii., 43. The dim atmosphere of nature opens, and we behold angelic faces, we enter angelic company, and hear the angelic song, Oh death where is thy sting? oh grave where is thy victory?
 
-LECTURE XII
+== Lecture XII
 
 Therefore me conclude that a man is justified by faith, without the deeds of the law.--Romans iii., 28.
 

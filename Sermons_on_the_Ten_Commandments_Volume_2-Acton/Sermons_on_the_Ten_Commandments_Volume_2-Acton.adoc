@@ -1,17 +1,17 @@
-By
+= Sermons on the Ten Commandments (vol 2)
+By Alfred Acton    1914-1918
+include::../template-attributes.adoc[]
 
-ALFRED ACTON
+// Tricky and un-resolved around XXXVII-XXXVIII
 
-Written for the New Church
-
-Soldiers of the Great War
-
+ALFRED ACTON + 
+Written for the New Church + 
+Soldiers of the Great War + 
 1914-1918
 
-Vol. II
-
+Vol. II  + 
 Bryn Athyn, Pennsylvania
-
+----
 THE FAITH OF THE NEW CHURCH
 
 There is One God, and the Lord, the Savior, Jesus Christ, is that God.
@@ -23,24 +23,19 @@ Man is saved by shunning evils as sins against God.
 The Lord has made His Second Coming by revealing the internal sense of the Word in the Writings of Emmanuel Swedenborg.
 
 On this revelation is to be established the New Church signified in the Revelation by the New Jerusalem descending from God out of heaven.
-
-Published by
-
-THE ACADEMY BOOK ROOM,
-
-W. H. ALDEN, Manager,
-
+----
+Published by + 
+THE ACADEMY BOOK ROOM, + 
+W. H. ALDEN, Manager, + 
 Bryn Athyn, Pa.
 
-XVII.
-
-HONORING FATHER AND MOTHER.
+== XVII. HONORING FATHER AND MOTHER.
 
 Exod. xxi. 1-15
 
 Luke xv, 4-24.
 
-H. H. 277
+@HH 277
 
 Honor thy father and thy mother, that thy days may be prolonged upon the land which the LORD thy God giveth thee. (Exod. xx, 12.)
 
@@ -52,9 +47,7 @@ It is true that any understanding of them also involves our duty to the neighbor
 
 The fourth commandment, which we are now considering, is an intermediate commandment. The commandments that follow, all regard our duty to the neighbor. It is true that they must be obeyed from a spirit that is obedient also to the first three commandments; nevertheless, in themselves, the last six commandments regard our duty to the neighbor. But the fourth commandment looks both backwards and forwards. On the one hand, the Father is the Lord and the Mother is the Church, and the honoring of these involves that this commandment is to be classed among the commands relating to God. On the other hand, however, the natural father and mother, both in a wide and in a restricted sense, are meant, and our honoring of these involves the following commandments, namely, those that regard our duty to the neighbor. The commandment is, therefore, an intermediate commandment wherein what precedes and what follows are united together. And this intermediate character of the commandment will appear still more as we enter into its inner meaning.
 
-The Laws of God are given for both angels and men; or, what is the same thing, they are given to teach, and to ask obedience, from not only the natural man, but also the spiritual man. In the natural sense these laws prescribe what man shall do in the body, and in his daily life in the world; but in the internal sense they teach him what he shall do in the spirit, or in the spiritual world, or what is the same thing, in the thought and desire of his spirit, which is not seen by the world. In the internal sense they are also for the angels, and we are told that when man reads the commandments on earth, and still more when he loves and obeys them, angels come into greater light and joy. This is the reason why the Word has an internal sense,--
-
-in order that it may be suited to the seeds of angels and men, of the spirit as well as of the body.
+The Laws of God are given for both angels and men; or, what is the same thing, they are given to teach, and to ask obedience, from not only the natural man, but also the spiritual man. In the natural sense these laws prescribe what man shall do in the body, and in his daily life in the world; but in the internal sense they teach him what he shall do in the spirit, or in the spiritual world, or what is the same thing, in the thought and desire of his spirit, which is not seen by the world. In the internal sense they are also for the angels, and we are told that when man reads the commandments on earth, and still more when he loves and obeys them, angels come into greater light and joy. This is the reason why the Word has an internal sense, -- in order that it may be suited to the seeds of angels and men, of the spirit as well as of the body.
 
 In the natural sense this commandment regards our earthly parents, or those who stand in the place of them. We are commanded to honor them in order that our days may be prolonged. The Israelites understood by this that they were to honor their actual parents, and also the aged in general,for in ancient times the aged were called father, a custom that has been handed down in some languages and dialects where the word for an old man is the same as the word for a father or grandfather. Thus in England, in the Lancashire dialect, the word for an old woman is Gamma, which means grandmother, and the word for an old man, or of one in authority, is gaffer, which means grandfather. The Israelites supposed that if they paid this honor to their fathers, their days in the land of Canaan would be long and peaceful. In a wider sense, by the father and mother they understood Abraham and Sarah, or Abraham, Isaac, and Jacob, and their three wives; and that if they honored them by patterning their life accordingly, then the Lord would remain with them, and would make the time of the sojourn of their race in the land of Canaan a long one. This also is true; for if the Israelites had remained faithful they might still have been in the land of Canaan; it was their evils, their rebellions, that brought all their misfortunes upon them.
 
@@ -72,23 +65,13 @@ To you, whose parents or guardians have guided your life that, when under your o
 
 Seek then to honor your parents; for in this way the land that the Lord has thus far given you, the ground that you have thus far acquired as a promise of heaven, fill be held for you, will be enriched and made more fruitful, and your days will he prolonged thereon for ever.
 
-Published by
-
-THE ACADEMY BOOK ROOM,
-
-W. H. ALDEN, Manager,
-
-Bryn Athyn, Pa.
-
-XIX.
-
-LOVE OF CHURCH AND COUNTRY.
+== XIX. LOVE OF CHURCH AND COUNTRY.
 
 Matth. vi, 21-29.
 
-T. C. R. 407.
+@TCR 407.
 
-C. L. 406-7.
+@CL 406-7.
 
 Honor thy father and thy mother, that thy days may be prolonged upon the land which the LORD thy God giveth thee. (Exod. xx, 12.)
 
@@ -106,11 +89,11 @@ It is because the country is the father and mother that we have in so ninny lang
 
 To love the country for its use, or to honor the country by seeking to guide it in the performance of true uses on the civil plane, is really to honor the use itself. And when men do this then truly their days are prolonged upon the land which the Lord has given them. That land is the mental benefits they have derived from the laws and government of their country, whether native or adopted. It is the law of freedom, as based upon the ten commandments, the law that preserves the individual freedom and yet which punishes acts and speech against the spirit of the commandments,--it is these that form the mind, and it is these that are the land given by the Lord,--the natural mind which is prepared to bring fruit when sown by the seed of Divine truth.
 
-For when a childs mind has been trained in the sphere of the rule of law and order and freedom, such a mind is in a free state and also in a state of external order, that is, a state in which it sees that order is to be preserved. In such a state the mind is in a position to see and acknowledge spiritual truths, and it is in this sense that it is the land given by the Lord, the land where the Sower can go forth to sow, and where the seed can spring up and bring forth fruit some thirty-fold, some sixty-fold and some a hundred-fold.
+For when a child's mind has been trained in the sphere of the rule of law and order and freedom, such a mind is in a free state and also in a state of external order, that is, a state in which it sees that order is to be preserved. In such a state the mind is in a position to see and acknowledge spiritual truths, and it is in this sense that it is the land given by the Lord, the land where the Sower can go forth to sow, and where the seed can spring up and bring forth fruit some thirty-fold, some sixty-fold and some a hundred-fold.
 
 It is because of this signification of land that we have in common speech the expression that a good training gives one a good basis or foundation for ones future life; that the groundwork has been laid, and other similar expressions.
 
-But, as I said, it is the religious training that is the most important factor in giving man this ground or land upon which his future life is to be built up. And because of this, it is the Church that is the mother in the spiritual or genuine sense. The Church, indeed, is as a mother to children and to adults. It is a mother to children because by means of ministers and teachers, by means of instruction given to parents, it cares for the implantation in the childs mind of those principles and habits which are the foundation of the future life. It is the mother of adults because it serves as a conserver of the Divine Truth, it provides for the existence of a priesthood, of worship; it provides for the preservation of the Word and for its spread; it provides for the preaching of the Word and for its exposition, and for many other things without which there would be no spiritual life in man.
+But, as I said, it is the religious training that is the most important factor in giving man this ground or land upon which his future life is to be built up. And because of this, it is the Church that is the mother in the spiritual or genuine sense. The Church, indeed, is as a mother to children and to adults. It is a mother to children because by means of ministers and teachers, by means of instruction given to parents, it cares for the implantation in the child's mind of those principles and habits which are the foundation of the future life. It is the mother of adults because it serves as a conserver of the Divine Truth, it provides for the existence of a priesthood, of worship; it provides for the preservation of the Word and for its spread; it provides for the preaching of the Word and for its exposition, and for many other things without which there would be no spiritual life in man.
 
 The Church provides these things for man, but the Church cannot really teach man. It is the Lord alone who teaches. The Church provides for the preservation and preaching of the Word; and by her offices the truths of the Word are; conveyed to the memory of man, and he is also encouraged to obey them, and his affections are excited for them. But, after all, this does not constitute real reception of the Divine truth. It is the Lord alone who can cause man to see that truth, and the Lord does this so far as man is willing that He shall do it, and shows this willingness by obedience to the commandments.
 
@@ -120,25 +103,17 @@ To honor the Lord is to obey Him; and to obey Him is to acknowledge Him in the h
 
 To honor the Church is to love her because of her spiritual uses, and this, interiorly, means to honor and love those uses themselves. Hence this honoring consists in reading the Word, in observing acts of piety, in daily prayer and in keeping the conscience pure. To the natural man the honor of the Church is the love of His Church because it is his; to the spiritual man it is the love of the Church because it is the Lords. The natural man loves his Church only so far as such love may prolong his days in the land of self interest, which he has built up for himself; the spiritual man loves it in order that his days may be prolonged upon the land which the Lord his God has given him. The ones life is built upon sand, the others is built upon a Rock, and that Rock is the knowledge of the Lord and love of Him.
 
-Published by
 
-THE ACADEMY BOOK ROOM,
 
-W. H. ALDEN, Manager,
-
-Bryn Athyn, Pa.
-
-XX.
-
-LOVE OF COUNTRY.
+== XX. LOVE OF COUNTRY.
 
 Ps xiv.
 
 Matth. x. 28-42.
 
-H. H. 393, or
+@HH 393, or
 
-T. C. R. 414.
+@TCR 414.
 
 Honor thy father and thy mother, that thy days may be prolonged upon the land which the LORD thy God giveth thee. (Exod. xx, 12.)
 
@@ -170,23 +145,15 @@ Here we see the commandment, Honor thy father and thy mother, as the great inter
 
 This is the true love of country, and as this love animates the defenders of a country so will its victory make not only for natural peace, but also for spiritual prosperity. All of us have many evils. In the sight of God not one, not even the highest of angels is pure. In all our thoughts and deeds there is ever something of self, of evil. Our patriotism also contains the love of glory, ambition, and other affections, within which is something of self-love. But no matter. The Lord looks at intentions, and he who is in the desire and the effort to serve the country truly and faithfully, is regarded by the Lord not from his weaknesses, but from his will. But let us keep in mind, that no one truly loves the country unless he loves his neighbor; and that no one loves the neighbor unless he is willing to lay down the life of evil loves rather than injure his neighbor. And he who loseth his soul, or life for this reason, the same shall find it; for to give up the life or love of self is to receive from the Lord the life of love to God and love to the neighbor,--a life which is the life of heaven.
 
-Published by
 
-THE ACADEMY BOOK ROOM,
 
-W. H. ALDEN, Manager,
-
-Bryn Athyn, Pa.
-
-XXI.
-
-THOU SHALT NOT KILL.
+== XXI. THOU SHALT NOT KILL.
 
 Numb. xxxv. 15, 34.
 
 Matth. V. 21-26.
 
-C. L. 365-6.
+@CL 365-6.
 
 Thou shalt not kill. (Exod. xx, 13.)
 
@@ -198,7 +165,7 @@ it still remains within, where it is as a fire constantly inciting to evil thoug
 
 The Word therefore is directed to removing the evils from the spirit of man, and thence from his deeds; for the end of the Divine Love is the salvation of men. With those who reject this end, that is, who do not obey the commands of the Word as spiritual laws, the law itself still operates; they remove themselves from its beneficent purpose; they cannot remove themselves from it operation. Therefore the laws of Divine truth become, to the evil, laws of punishment, the object of which is not to injure, but to restrain from injuring others.
 
-This truth concerning the Law of the Divine Truth,that its end is to save man and give him heavenly happiness by removing evil from the heart and intention; but that where this end is rejected, its operation is to restrain him from injuring othersthis truth is a universal law which must enter into the consideration of the commandment now before us.
+This truth concerning the Law of the Divine Truth,that its end is to save man and give him heavenly happiness by removing evil from the heart and intention; but that where this end is rejected, its operation is to restrain him from injuring others - this truth is a universal law which must enter into the consideration of the commandment now before us.
 
 The words, Thou shalt not kill, refer specifically to killing the body of men. The Israelites so understood the commandment, and indeed appear to have made no further application of it. But that the Israelites did not understand it as an absolute prohibition against the taking of human life; and also, that it was not so intended, is clear from the fact that their Divinely given laws commanded the punishment of death for certain specified offences. This punishment was especially directed for the crime of premeditated murder. Murder that was accidental, or unpremeditated, could be atoned for by a fine, and for the protection of the killer against private revenge cities of refuge were established whereto he could go, and where he would be protected while enquiry was made into the nature of his offence. But for deliberate murder death was the only penalty. It is clear, therefore, that the commandment against killing was not an absolute law against the taking of human life.
 
@@ -227,25 +194,17 @@ The judge, or the soldier who is in this love has no hatred against the enemy. H
 
 And here let us again bear in mind that the neighbor who is to be loved and protected is not only the individual, but the country, the Church and the Lord. We must be unwilling to do injury to these, and zealous to shun what would injure them.
 
-Published by
 
-THE ACADEMY BOOK ROOM,
 
-W. H. ALDEN, Manager,
-
-Bryn Athyn, Pa.
-
-XXII.
-
-SELF LOVE.
+== XXII. SELF LOVE.
 
 Isaiah xii, 12-22.
 
 Matth. Vi, 19-34.
 
-T. C. R. 493, or
+@TCR 493, or
 
-H. H. 360.
+@HH 360.
 
 Thou shalt not kill. (Exod. xx, 13.)
 
@@ -267,7 +226,7 @@ Now man is created with this appearance of living from himself in order that he 
 
 As I have said, for this purpose we are born with the appearance that we live from ourselves. This appearances is the basis of self-love. Self-love is not in itself an evil love; it is, indeed, given to man in order that it may be a servant in the acknowledgment of God,--that he may love to keep his body clean, strong, and healthy. In order that he may be fitted to do his uses. Self-love arises from the appearance that we live from ourselves, and this appearance is given us in order that we may be free to acknowledge the Lord.
 
-But self-love is abused when it is used merely for the gratification of ones own desires. and without regard to justice. Such self-love is in the desire of destroying the happiness of others whenever anothers happiness conflicts or appears to conflict with its own. Thus the man who is in self-love, if he is at table, thinks only of satisfying his own appetite and is indifferent as to his duty to his neighbor at the table. Of course, it is natural for men to wish to satisfy their appetites; but the difference is that in the one case the love of self and the consciousness of ones own individuality and needs is subordinate to the acknowledged truth that the Lord from His Love commands us to love the neighbor; while in the other case the love of self regards only itself and is careless as to the happiness of others.
+But self-love is abused when it is used merely for the gratification of ones own desires. and without regard to justice. Such self-love is in the desire of destroying the happiness of others whenever another's happiness conflicts or appears to conflict with its own. Thus the man who is in self-love, if he is at table, thinks only of satisfying his own appetite and is indifferent as to his duty to his neighbor at the table. Of course, it is natural for men to wish to satisfy their appetites; but the difference is that in the one case the love of self and the consciousness of ones own individuality and needs is subordinate to the acknowledged truth that the Lord from His Love commands us to love the neighbor; while in the other case the love of self regards only itself and is careless as to the happiness of others.
 
 The illustration is a homely one, yet it will suffice, for in essence it embodies and illustrates the universal truth that self-love is either a master seeking life and happiness only for itself and willing to deprive others of life and happiness rather than sacrifice itself; or it is a servant held subordinate to the acknowledgment that the Lord wills life and happiness to all, and that this will must not be opposed by man.
 
@@ -283,23 +242,15 @@ From the Lord proceeds continually a sphere of love to the human race; a sphere 
 
 This love of self is with every man, as a Divine gift; nor can it ever be taken away from him. But it rests with him whether by it he will serve the Lord or the Devil,--God or Mammon. If he holds this love subordinate to the laws of religion, then he co-operates with the Lords will that men shall receive life; but if this love rules him, then he makes one with those whose love is to destroy and kill. This is the universal truth contained in the command, Thou shalt not kill.
 
-Published by
 
-THE ACADEMY BOOK ROOM,
 
-W. H. ALDEN, Manager,
-
-Bryn Athyn, Pa.
-
-XXIII.
-
-SPIRITUAL MURDER.
+== XXIII. SPIRITUAL MURDER.
 
 Ps. 1.
 
 John viii, 31-59.
 
-H. H. 564.
+@HH 564.
 
 Thou shalt not kill. (Exod. xx, 13.)
 
@@ -329,25 +280,16 @@ And, finally, we come to the natural sense which concerns the killing of the bod
 
 But every man who shuns evil as sin against God, on whatever plane he shuns it, is interiorly in the fear to oppose the Ends of the Divine Love; for he is interiorly in the love of obedience to the commandment, Thou shalt not kill.
 
-Published by
 
-THE ACADEMY BOOK ROOM,
-
-W. H. ALDEN, Manager,
-
-Bryn Athyn, Pa.
-
-XXIV.
-
-PERMISSIONS IN THE ISRAELITISH CHURCH.
+== XXIV. PERMISSIONS IN THE ISRAELITISH CHURCH.
 
 Deut. xxxii, 22-30, 34.
 
 Matth. V. 27-32.
 
-T. C. R. 316, or
+@TCR 316, or
 
-H. H. 379.
+@HH 379.
 
 Thou shalt not commit adultery. (Exod. xx, 14.)
 
@@ -355,7 +297,7 @@ This law constitutes the universal law of marriage, which is, that under no circ
 
 The Israelites were a polygamic nation; but polygamy was never prescribed to them by the Law, nor does that Law anywhere approve of it. The most that can be said is that its existence was recognized, and that certain laws were given for its regulation. Polygamy did not originate in the Law, but was an institution carried over from idolatry.
 
-The first reference to polygamy that occurs in the Old Testament is found in Genesis iv. 19, where we read that Lamech took unto him two wives. This chapter describes the murder of Abel by Cain, and it continues with a table of the latters descendants, of whom Lamech was the last. By Cain, however, is not meant a single man, but a state of life, namely, the state of faith without charity;
+The first reference to polygamy that occurs in the Old Testament is found in Genesis iv. 19, where we read that Lamech took unto him two wives. This chapter describes the murder of Abel by Cain, and it continues with a table of the latter's descendants, of whom Lamech was the last. By Cain, however, is not meant a single man, but a state of life, namely, the state of faith without charity;
 
 and, in the historical sense, that nation or church which was in such a state. We say, nation or church, because in ancient times the nation and the church were one and the same, the church being a matter of the whole nation. By Cain and his descendants, therefore, is meant those nations or churches which descended from the primitive Adamic Church after the crime committed on Abel; i. e., after the separation of faith from charity. it was in these nations, or, at any rate, in the last of them, and not in the laws of God, that polygamy originated.
 
@@ -386,23 +328,15 @@ For with the giving of this law, is also given the responsibility of conjugial l
 
 This is the first, and the most general lesson of the commandment; and, as this new law was given that an internal church might succeed the merely representative church, so it now comes to us, in order that an internal chastity,--chastity of the spirit or intention,--may be implanted within that formal chastity which consists merely in the speech and the deed.
 
-Published by
 
-THE ACADEMY BOOK ROOM.
 
-W. H. ALDEN, Manager.
-
-Bryn Athyn, Pa.
-
-XXV.
-
-POWER IN ULTIMATES.
+== XXV. POWER IN ULTIMATES.
 
 Ps. cxix, 9-16.
 
 Rev. xxi, 1-8.
 
-H. H. 472.
+@HH 472.
 
 Thou shalt not commit adultery. (Exod. xx, 14.)
 
@@ -440,27 +374,19 @@ This is why it is so important for us to keep the speech and conduct pure; and e
 
 if because of these necessities the lascivious comes before his mind, let him bear in thought and carry out in the action of his mind the commandment, Thou shalt not commit adultery.
 
-Published by
 
-THE ACADEMY BOOK ROOM.
 
-W. H. ALDEN, Manager.
-
-Bryn Athyn, Pa.
-
-XXVI.
-
-CONJUGIAL LOVE AND LOVE OF THE SEX.
+== XXVI. CONJUGIAL LOVE AND LOVE OF THE SEX.
 
 Gen. i, 26-31.
 
 Mark x, 1-9.
 
-H. H. 368-9.
+@HH 368-9.
 
 or
 
-C. L. 56.
+@CL 56.
 
 Thou shalt not commit adultery. (Exod. xx, 14.)
 
@@ -498,33 +424,25 @@ Both the love of acquiring truth and the love of truth acquired are necessary be
 
 We shall further pursue this theme in our next discourse, and for the present content ourselves with pointing out the general lesson: There is no regeneration without the love of wisdom; mere intelligence is of no spiritual value. Woman alone is a form of wisdom, and if man would receive the love of wisdom he must receive it from woman. She alone is the dispenser of this gift from the Lord. Hence to be wise the young man should cultivate and cherish a respect for woman as the beauty and adornment of life, and should pray to the Lord that he may be united in chaste and holy marriage with one, that with her he may be blessed, and earth be made the seminary of heaven.
 
-Published by
 
-THE ACADEMY BOOK ROOM.
 
-W. H. ALDEN, Manager.
-
-Bryn Athyn, Pa.
-
-XXVII.
-
-ORIGIN OF CONJUGIAL LOVE.
+== XXVII. ORIGIN OF CONJUGIAL LOVE.
 
 Ps. 119, 33-40.
 
 Mat. 7, 21-9.
 
-H. 370
+@HH 370
 
 or
 
-C. L. 49.
+@CL 49.
 
 Thou shalt not commit adultery. (Exod. xx, 14.)
 
 The Lords End in creating men was that they should receive from Him and thus be in the love that He ever gives. God wills to give to others, that is, to give them to feel love as in themselves, to feel His love as in themselves; and His love is the love of doing uses. Therefore man was created a form able to receive the lords Love, and also able not to receive it,for otherwise he would be no man, no image of God.
 
-In order that man may be able actually to receive God, he must have two loves,the love of learning how to receivethe love of learning concerning God; and the love of the things learned. Merely to learn concerning God without any affection for the thing learned would be useless. Therefore every man has not only the love of learning, but also the love of the thing he has acquired by this love. Without this, indeed, he could have no desire to learn, no ambition. What would lead the student to study, unless he looked forward to the delight of entering into the use for which he is preparing?
+In order that man may be able actually to receive God, he must have two loves,the love of learning how to receive - the love of learning concerning God; and the love of the things learned. Merely to learn concerning God without any affection for the thing learned would be useless. Therefore every man has not only the love of learning, but also the love of the thing he has acquired by this love. Without this, indeed, he could have no desire to learn, no ambition. What would lead the student to study, unless he looked forward to the delight of entering into the use for which he is preparing?
 
 These two loves can be shown in a very ultimate illustration. We all have a natural desire to go finding things out; thus even as little infants our earliest desires are to put things into our mouth in order to examine them. But when once we have tasted a thing we have also the love,--or the dislike,--of the thing tasted; that is, we like it, and therefore take it again, or we dislike it and therefore reject it.
 
@@ -564,23 +482,15 @@ the other in curbing the love of the sex, in keeping it under the rule of the ra
 
 If there is the desire to be united to the love of wisdom in the union of conjugial love, that desire will manifest itself in respect to women,--who are indeed the form of the love of wisdom,--in the shunning of every desire to injure them. whether in their body or in the defiling of their state of mind. And the great ultimate of this, the very basis of all effort to shun the love of self. is to shun wandering lusts as the very pest of hell, and to pray to the Lord for a lovely companionship with one who shall be the Only One, the wife of the heart. This prayer and its realization in chaste marriage is the prize and the reward of all wile internally and externally obey the commandment, Thou shalt not commit adultery.
 
-Published by
 
-THE ACADEMY BOOK ROOM.
 
-W. H. ALDEN, Manager.
-
-Bryn Athyn, Pa.
-
-XXVIII.
-
-DIVINE PROVIDENCE IN MARRIAGE.
+== XXVIII. DIVINE PROVIDENCE IN MARRIAGE.
 
 Gen. ii, 18-25.
 
 Matt. x, 24-36.
 
-C. L. 44 (middle).
+@CL 44 (middle).
 
 Thou shalt not commit adultery. (Exod. xx, 14.)
 
@@ -612,27 +522,19 @@ Falling in love is a thing which is only to a small extent within mans control. 
 
 and that his falling in love is the leading of the Divine Providence which wills that the love of growing wise shall be united to the love of wisdom in order that the two loves, the man and the woman, the husband and the wife, thus united, may be one man with whom the Lord can conjoin Himself to bestow upon him the blessings of heaven.
 
-Published by
 
-THE ACADEMY BOOK ROOM.
 
-W. H. ALDEN, Manager.
-
-Bryn Athyn, Pa.
-
-XXIX.
-
-THE MARRIAGE OF THE LORD AND THE CHURCH.
+== XXIX. THE MARRIAGE OF THE LORD AND THE CHURCH.
 
 Is. 62.
 
 John 3, 14-21.
 
-H. H. 371-2.
+@HH 371-2.
 
 Or
 
-C. L. 62-3.
+@CL 62-3.
 
 Thou shalt not commit adultery. (Exod. xx, 14.)
 
@@ -664,23 +566,15 @@ the man must not only learn of the Lord but must will to obey Him. This conjunct
 
 In the inmost sense therefore, the commandment, Thou shalt not commit adultery, means that man is not to violate the marriage of the Lord and the Church, that is, lie is not to attempt to kill, to crucify the Lord who presents Himself in His Divine Human as the Redeemer and Saviour. To shun this, to shun rejection of the Lord and His Word is the inmost obedience to the commandment; it is also the inmost means by which man can be delivered from the snares of lasciviousness. And to acknowledge the Lord as the Saviour is the inmost effort that man can make for the reception of conjugial love. In this acknowledgment is the marriage of good and truth,--a marriage which is the Lords presence with man, and which, flowing into the love of the sex, becomes the origin of conjugial love. This love springs from the Lord alone, and when it is this love that unites husband and wife, their union can never be broken. Whom God hath joined together, let not man put asunder.
 
-Published by
 
-THE ACADEMY BOOK ROOM.
 
-W. H. ALDEN, Manager.
-
-Bryn Athyn, Pa.
-
-XXX.
-
-MARRIAGE AND ADULTERY.
+== XXX. MARRIAGE AND ADULTERY.
 
 Ps. xlvi.
 
 Rev. xxi, 9-27.
 
-H. H. 373-4.
+@HH 373-4.
 
 Thou shalt not commit adultery. (Exod. xx, 14.)
 
@@ -714,23 +608,15 @@ And as this battle is fought, the mans mind becomes open to the reception of the
 
 It is the marriage of the Lord and the Church, this marriage of good and truth, this marriage of man and woman in the union of conjugial love, that is the prize given to him who obeys the commandment, Thou shalt not commit adultery; for in this act of ultimate obedience is contained the end of His creation, which is conjugial love, by which the earth is replenished and heaven enriched with those loves and wisdoms and happinesses that are given by the Lord as the fruits of Love truly conjugial.
 
-Published by
 
-THE ACADEMY BOOK ROOM.
 
-W. H. ALDEN, Manager.
-
-Bryn Athyn, Pa.
-
-XXXI.
-
-THEFT.
+== XXXI. THEFT.
 
 Ps. xv.
 
 Matt. vi, 19-24.
 
-H. H. 531.
+@HH 531.
 
 Thou shalt not steal. (Ex. xx, 15.)
 
@@ -760,25 +646,17 @@ The natural man may be compared with a sponge which absorbs all, but gives nothi
 
 The conflict between these two men or minds is a conflict which all must enter; and upon each individual himself alone depends the outcome of the conflict. Many circumstances will arise in the course of life when we may be perplexed as to our course when we may hesitate as to what is our duty. In all such circumstances, let each one keep before his eyes this rule given in the Writings: Only abstain from evils because they are sins and look to the LORD, and the LORD, will teach and lead you.
 
-Published by
 
-THE ACADEMY BOOK ROOM.
 
-W. H. ALDEN, Manager.
-
-Bryn Athyn, Pa.
-
-XXXII.
-
-THE ORIGIN OF EVIL.
+== XXXII. THE ORIGIN OF EVIL.
 
 Ps. cxxxix.
 
 Rev. v, 1-6.
 
-C. L. 528, or
+@CL 528, or
 
-H. H. 302.
+@HH 302.
 
 Thou shalt not steal. (Ex. xx, 15.)
 
@@ -812,23 +690,15 @@ In what I have said I wish to introduce the subject of the origin of the evil of
 
 In short, that to become rational men, to become true New Church men, to become Men, to become Human and Angelic, we must search the thoughts of the mind, must pray to the Lord, Search me, O Lord, and know my heart, and follow the prayer by searching our own heart in the light that the Lord has given us, for thus it is that the Lord searches our heart while we are yet on earth.
 
-Published by
 
-THE ACADEMY BOOK ROOM.
 
-W. H. ALDEN, Manager.
-
-Bryn Athyn, Pa.
-
-XXXII.
-
-WHO IS THE DEVIL?
+== XXXII. WHO IS THE DEVIL?
 
 Isa. xiv, 1-23.
 
 Matt. iv, 1-11.
 
-H. H. 311.
+@HH 311.
 
 Thou shalt not steal. (Ex. xx, 15.)
 
@@ -858,29 +728,21 @@ It is by listening to the voice of Divine Revelation, as given in the Scriptures
 
 How art thou fallen from heaven. O Lucifer (Light-bearer), son of the morning! How art thou cut down to the ground which didst weaken the nations! For thou hast said in thine heart, I will ascend into heaven, I will exalt my throne above the stars of God; I will be like the Most High. Yet thou shalt be brought down to the ground, to the sides of the pit (Is. xiv, 12-15).
 
-Published by
 
-THE ACADEMY BOOK ROOM.
 
-W. H. ALDEN, Manager.
-
-Bryn Athyn, Pa.
-
-XXXIV.
-
-SPIRITUAL THEFT.
+== XXXIV. SPIRITUAL THEFT.
 
 Jer. vii. 1-16.
 
 John x, 1-13.
 
-H. H. 10.
+@HH 10.
 
 Thou shalt not steal. (Ex. xx, 15.)
 
 The origin of all evil is the world and the body, but it does not become the evil of sin except in the human mind; or, in their words, it does not become sin until it opposes and overcomes something heavenly in the human mind. Sin cannot exist in animals, nor can it exist with men except in the degree that they are in truth. This, as we have before observed, is what is meant by the circumstance that the serpent was created by God and that this creation was not the cause of sin, that cause being the speech of the serpent to the firstborn and the hearkening of the latter.
 
-All sin, therefore, is in itself the opposition to heaven, the endeavor to overthrow the things of heaven; and the scene of this opposition is solely the human mind. These things of heaven are in reality the goods of heaven, or heavenly affections. But goods are not seen as they are in themselves. A man cannot see the good in himself or in others except as it appears in his own thought or in anothers speech actions. This is the same thing as saying that good appears only in truth, or as truth. It is when we turn out thought to a thing that we can see how we are affected by the thought. If the thought, or the truth or falsity presented to our mind, affects us with delight we can see the quality of the love that is thus delighted. This indeed is the only way in which we can see the nature of our love, namely, by examining the nature of our delight when thinking and imagining one thing or another.
+All sin, therefore, is in itself the opposition to heaven, the endeavor to overthrow the things of heaven; and the scene of this opposition is solely the human mind. These things of heaven are in reality the goods of heaven, or heavenly affections. But goods are not seen as they are in themselves. A man cannot see the good in himself or in others except as it appears in his own thought or in another's speech actions. This is the same thing as saying that good appears only in truth, or as truth. It is when we turn out thought to a thing that we can see how we are affected by the thought. If the thought, or the truth or falsity presented to our mind, affects us with delight we can see the quality of the love that is thus delighted. This indeed is the only way in which we can see the nature of our love, namely, by examining the nature of our delight when thinking and imagining one thing or another.
 
 In the human mind the things of the world and body, that is, the devil, are in the effort to attack and destroy the goods of heaven.
 
@@ -902,25 +764,17 @@ and inmostly within this is the effort to take all things away from the Lord and
 
 It is this that is contained in the delight of stealing; it is this from the hells that inspires this delight. And if a man would interiorly resist this evil, he should pay attention not merely to the physical act of stealing,--to resist the desire to this act is comparatively easy,--but to his attitude to the neighbor. A very little reflection will show us how subject we are to the influence of those evil ones who inspire delight of depriving others of their spiritual goods; for we can see our proneness to this ultimate itself, as it were, in constant jealously of others, and the many effects of this jealousy; also in indifference to the effect of our speech and conduct on others, as, for instance, when we inspire in others the spirit of criticism and envy. So prevalent is the sphere of spiritual theft that we need to be constantly on guard against it.
 
-Evils are resisted as they appear before the minds eye, and thus ultimately, would, therefore, conclude with these ultimate suggestions. Dont covet the possessions of others whether physical or mental. Think less of the faults of others and more of your own; dwelling on the faults of others prepares the mind for the reception of the spirit which would deprive others of spiritual treasures. Think more of the virtues of others and less of your own. Be constantly watchful that you do not injure the innocence of others or their affection for the things of religion. And, finally, dont be conceited, for your virtues are merely the gifts received by birth, virtues, are gifts from the Lord, which are given, as it were, to you only so far as you obey His commandments. To Him then they should be attributed and not to yourself.
+Evils are resisted as they appear before the minds eye, and thus ultimately, would, therefore, conclude with these ultimate suggestions. Don't covet the possessions of others whether physical or mental. Think less of the faults of others and more of your own; dwelling on the faults of others prepares the mind for the reception of the spirit which would deprive others of spiritual treasures. Think more of the virtues of others and less of your own. Be constantly watchful that you do not injure the innocence of others or their affection for the things of religion. And, finally, don't be conceited, for your virtues are merely the gifts received by birth, virtues, are gifts from the Lord, which are given, as it were, to you only so far as you obey His commandments. To Him then they should be attributed and not to yourself.
 
-Published by
 
-THE ACADEMY BOOK ROOM.
 
-W. H. ALDEN, Manager.
-
-Bryn Athyn, Pa.
-
-XXXV.
-
-LYING AND DECEIT.
+== XXXV. LYING AND DECEIT.
 
 Ps. 119, 129-136.
 
 John 3, 1-21.
 
-H. H. 280.
+@HH 280.
 
 Thou shalt not bear false witness against thy neighbor. (Exod. xx, 16.)
 
@@ -948,23 +802,15 @@ Let this then stand as the sum of the general meaning of this commandment: Bear 
 
 And if we speak this true witness then they can be shunned rind put away not from fear of exposure and punishment, but in freedom and as of ourselves. It is thus only that men can become witnesses of the truth.
 
-Published by
 
-THE ACADEMY BOOK ROOM.
 
-W. H. ALDEN, Manager.
-
-Bryn Athyn, Pa.
-
-XXXVI.
-
-THE WITNESS OF A LIE.
+== XXXVI. THE WITNESS OF A LIE.
 
 Jer. 23, 16-27.
 
 John 15, 1-17.
 
-H. H. 590-1.
+@HH 590-1.
 
 Thou shalt not bear false witness against thy neighbor. (Exod. xx, 16.)
 
@@ -992,23 +838,15 @@ This sphere thus going forth from every evil man, especially from the evil in th
 
 But in the supreme sense the Lord Himself is the neighbor. For He says, Ye are my friends if ye do what I command you (John xv, 14). The Lord is mans friend because He is nearest to Him; and it is this Friend, the lord, who is perpetually present and perpetually willing to give true happiness to man,--it is this Friend against whom in the supreme sense we are commanded not to answer the witness of a lie. The Lord is not a God afar off (Jer. xxiii. 23); He is near to man and seeks to be received by man in order that He may give him life eternal. Behold, I stand at the door and knock; if any man hear my voice and open the door I will come in to him and will sup with him (Rev. iii, 20). The sphere of the love of self is a perpetual lie against this Friend. It persuades that His commands which are the commands of Love are not to be obeyed; that obedience to Him and conjunction with Him are not the source of happiness. Thus it bears witness against the end of the Lords work of creation which is heaven from the human race; it is in the effort to destroy this use; and he who wishes to destroy a use wills also to destroy Him who is that use. Such a man is a perpetual witness from whose mouth proceed lies inspired by Him who is the father of lies. For despite the vain imaginations of the evil heart it yet is an eternal truth that the Lord alone rules the universe, and that spiritual life and happiness come solely from conjunction with Him.
 
-Published by
 
-THE ACADEMY BOOK ROOM.
 
-W. H. ALDEN, Manager.
-
-Bryn Athyn, Pa.
-
-XXXVII.
-
-THE LUST OF EVILS.
+== XXXVII. THE LUST OF EVILS.
 
 Isa. 1, 10-20.
 
 Matt. 15, 1-20.
 
-H. H. 495.
+@HH 495.
 
 Thou shalt not covet thy neighbors house. (Exod. xx, 17.)
 
@@ -1042,27 +880,21 @@ The fight against evil is to be conducted in the world of the understanding, and
 
 And this fight is fought and won when we see the lusts of evil inspiring the thought, and put such thought away as a sin against the neighbor, and especially against the Lord who is the Supreme Neighbor. The Lords house is the human mind. In this house He wills to dwell that it may be His. Evil lusts covet the possession of this house; if they be permitted to enter, will covet also the life of the fellow men, his wife, his possessions, his reputation. The answer must be given them, Get thee behind me Satan. Do not argue with evils lusts; do not dwell on them with the intention of shunning them later; do not think from them, persuading yourself that the thought will not lead to the deed. Evil lusts are voices of the enemy of our very life, and with them must no terms be made.
 
-Published by
 
-THE ACADEMY BOOK ROOM.
 
-W. H. ALDEN, Manager.
-
-Bryn Athyn, Pa.
-
-XXXVII.
+== XXXVIII.
 
 Isa. 1, 10-20.
 
 Matt. 15, 1-20.
 
-H. H. 495.
+@HH 495.
 
 Thou shalt not covet thy neighbors house. (Exod. xx, 17.)
 
 I have already shown that the words, Thou shalt not covet, which close the ten commandments, give the key to the real understanding of what is meant by the preceding commandments against murder, adultery, theft, and false witness. These are to be shunned not only as deeds of the body but also and more especially as lusts inspiring the thought and imagination, and furnishing the spring and origin of evil deeds. These lusts cannot be shunned except from religion, that is, except as they are seen and acknowledged as sins against God and against the neighbor.
 
-If lust inspire the thought to a certain deed, self interest, the fear of the loss of fame or money, will in most cases, act as a preventive to the thought breaking out into open deed. But these fears cannot lend a man to shun the evil lust in his thought. He may indeed seek to put it away from active thought because, seeing the impossibility of ultimating it, he may think that thus he will ensure his own peace of mind. This mode of putting away evil is expressed in words that occur to many men, Why go on thinking of it, when you know you cant do it; youre only making yourself unhappy. But this is nut shunning the lust of evil; it is merely putting it aside from the active thought for reasons pertaining to self-interest. And when circumstances change and new opportunity arises for committing the evil, or when occasions when the lust is more strongly aroused, it again actively invades the mind and fills the thought. To put evil aside from mere self interest is not shunning it; it is merely removing it from the sight, that is, from the active thought.
+If lust inspire the thought to a certain deed, self interest, the fear of the loss of fame or money, will in most cases, act as a preventive to the thought breaking out into open deed. But these fears cannot lend a man to shun the evil lust in his thought. He may indeed seek to put it away from active thought because, seeing the impossibility of ultimating it, he may think that thus he will ensure his own peace of mind. This mode of putting away evil is expressed in words that occur to many men, Why go on thinking of it, when you know you cant do it; you're only making yourself unhappy. But this is nut shunning the lust of evil; it is merely putting it aside from the active thought for reasons pertaining to self-interest. And when circumstances change and new opportunity arises for committing the evil, or when occasions when the lust is more strongly aroused, it again actively invades the mind and fills the thought. To put evil aside from mere self interest is not shunning it; it is merely removing it from the sight, that is, from the active thought.
 
 The lust still remains within, even though the man himself may not be aware of it because he does not reflect on his state. This is especially illustrated in the many cases that come to notice from time to time, where men hale led apparently good and upright lives even in their thought and conversation, and yet on the occasion of some great temptation have given rein to evil lusts.
 
@@ -1092,23 +924,15 @@ This teaching is immediately followed by the words, if thy right eye offend thee
 
 In this shunning of evils is the very heart of the Church. By this alone can the Lords love be given to man; can the Church exist as a living, a spiritual Church; can the end of creation, which is heaven, be secured. This is the life of religion, without which a Church is not a Church. And this life is an individual matter for each one. It is so in the New Church. That Church cannot be maintained as a genuine Church, whatsoever its prosperity, unless its individual members have the life of religion. The responsibility of maintaining the New Church as the kingdom of heaven on earth, is a responsibility that rests with the individual member of the Church, and it cannot be shifted.
 
-Published by
 
-THE ACADEMY BOOK ROOM.
 
-W. H. ALDEN, Manager.
-
-Bryn Athyn, Pa.
-
-XXXIX.
-
-LOVING THE NEIGHBOR.
+== XXXIX. LOVING THE NEIGHBOR.
 
 Deut. 5, 1-21.
 
 Matt. 19, 16-26.
 
-H. H. 358-9.
+@HH 358-9.
 
 Thou shalt not covet thy neighbors house. Thou shalt not covet thy neighbors wife, nor his manservant, nor his maidservant, nor his ox, nor his ass, nor anything that is thy neighbors. (Exod. xx. 17, 18.)
 
@@ -1140,23 +964,15 @@ Lastly we are forbidden to covet the neighbors ox or ass or anything that is the
 
 The love of self is always the covetousness to get for oneself and not to give, except so far as it will benefit self. It is this love that leads, whether actually or only in intention, to murder, adultery, theft. and false witness; in a word. to all those acts which deprive the neighbor of his home and possessions. And, therefore, the second part of the Decalogue ends with the command not to covet anything that is thy neighbors. This command embraces all mans duties to his fellow man expressed in the preceding commandments; and these commandments were all summed up by the Lord and stated anew when He said. And the second is like unto it, Thou shalt love thy neighbor as thyself.
 
-Published by
 
-THE ACADEMY BOOK ROOM.
 
-W. H. ALDEN, Manager,
+== XL. THE LORD, THE NEIGHBOR.
 
-Bryn Athyn, Pa.
-
-XI.
-
-THE LORD, THE NEIGHBOR.
-
-I. Kings 8, 22-34.
+1Kings 8, 22-34.
 
 Matt. 7, 21-3nd.
 
-C. L. 128-9.
+@CL 128-9.
 
 Thou shalt not covet thy neighbors wife. (Exod. xx, 17.)
 
@@ -1192,23 +1008,15 @@ But they who obey the commandment and do not covet their Neighbors wife; who act
 
 Such then is the supreme meaning of these words, Thou shalt not covet thy neighbors house nor his wife. The words are Divine words, and, therefore, contain spiritual and celestial truths which deal with the interior operations of the human mind. But the whole of this supreme sense is present in the ultimate or natural senses, and if man obeys this from the heart, that is, if he actually shuns the desire to defraud his fellow man, to deprive him of his house and wife, then truly he worships the Lord as the Master of the house, and the Church as the Lords wife, and His alone.
 
-Published by
 
-THE ACADEMY BOOK ROOM.
 
-W. H. ALDEN, Manager.
-
-Bryn Athyn, Pa.
-
-XLI.
-
-THE SERVANTS OF THE NEIGHBOR.
+== XLI. THE SERVANTS OF THE NEIGHBOR.
 
 Ps. 51, 1-10.
 
 Mat. 19, 13-22.
 
-H. H. 430.
+@HH 430.
 
 Thou shalt not covet thy neighbors house. Thou shalt not covet thy neighbors wife, nor his manservant, nor his maidservant, nor his ox, nor his ass, nor anything that is thy neighbors. (Exod. xx. 17, 18.)
 
@@ -1248,21 +1056,14 @@ Knowledges of the world, and external delights are necessary, but they are not t
 
 We readily see this in the larger society of our church; for we all recognize that our children are to be educated in the natural sciences, and that in this education we must constantly keep in view the true use of the sciences. We see also in the world at this day, that the things that cultivate the natural mind are not regarded as servants of the Neighbor, but are prized and desired, and lusted after for their use to worldly ambition. Thus the neighbors servants and cattle are coveted. Let us also see it in our own individual life, that we may hold all our thoughts and affections,--even the most lowly as not for our own enrichment, but for the service of the Lord.
 
-Published by
 
-THE ACADEMY WAR SERVICE COMMITTEE
-
-Bryn Athyn, Pennsylvania.
-
-XLII.
-
-THE KEEPING OF THE COMMANDMENTS.
+== XLII. THE KEEPING OF THE COMMANDMENTS.
 
 Ps. 130.
 
 Mark xii, 28-34.
 
-H. H. 472.
+@HH 472.
 
 We have now concluded our discourses on the Ten Commandments, but before leaving this subject I would like to add some general remarks on the Commandments as a whole, and especially as to the keeping of them.
 

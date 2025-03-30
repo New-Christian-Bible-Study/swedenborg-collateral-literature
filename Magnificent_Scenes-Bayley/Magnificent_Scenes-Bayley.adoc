@@ -1,5 +1,8 @@
-BY THE
-REV. DR. BAYLEY. Author of The Divine Word Opened, etc.
+= Magnificent Scenes in the Book of Revelation
+BY THE REV. DR. BAYLEY. 
+include::../template-attributes.adoc[]
+
+Author of The Divine Word Opened, etc.
 
 COMPRISING VOL. I. OF
 
@@ -7,6 +10,10 @@ Sermons for the Times.
 
 LONDON:
 GRATTAN, MARSHALL, AND CO., 3. Amen Corner, Pasternoster Row, E. C. 1878
+
+Individual Sermons + 
+Printed & Sold by Milton Smith & Co., 76, Gosswell Road, E. C. and PUBLISHED by GRATTAN, MARSHALL, & Co., 3, Amen Corner, Paternoster Row, London; and JOHN HEYWOOD, Manchester, EVERY THURSDAY, PRICE ONE PENNY.
+
 
 PREFACE.
 
@@ -17,11 +24,11 @@ By affording helps to understand its marvelous and magnificent disclosures, it h
 The wonderful roll of the worlds inner history for nearly two thousand years past has been opened for us, and we see grand things dawning upon mankind.
 
 Let us pray the Divine Revealer for His aid to keep the things written therein, so that when our books are opened they may speak only the praise of His goodness, Who has called us out of darkness into His marvelous light.
-
-J. BAYLEY.
-
+ + 
+J. BAYLEY. + 
 Kensington, May, 1878.
 
+////
 CONTENTS.
 
 PAGE. The Son of Man in the midst of the Seven Golden Candlesticks 1
@@ -44,18 +51,19 @@ Babylon the Great 121
 The Millennium, the Judgment, and the opening of the Books 133
 The Sea, and Death and Hell giving up their Dead 145
 The Holy City, New Jerusalem, descending from God out of heaven 157
+////
 
 Sermons for the Times.
 
 THE MAGNIFICENT SCENES IN THE BOOK OF REVELATION,
 
-BY THE
-
-REV. DR. BAYLEY.
-
+BY THE + 
+REV. DR. BAYLEY. + 
 THE MALL, KENSINGTON, LONDON.
 
-THE SON OF MAN IN THE MIDST OF THE SEVEN GOLDEN CANDLESTICKS.
+
+***
+== No. 1. THE SON OF MAN IN THE MIDST OF THE SEVEN GOLDEN CANDLESTICKS.
 
 And, in the midst of the seven candlesticks, one like unto the Son of Man, clothed with a garment down to the foot, and girt about the breast with a golden girdle. His head and his hairs were white like wool, as white as snow; and His eyes were as a flame of fire; and His feet like unto fine brass, as if they burned in a furnace; and His voice as the sound of many waters. And He had in His right hand seven stars; and out of His mouth went a sharp two-edged sword; And His countenance was as the sun shineth in his strength. Rev. i. 13-16
 
@@ -153,21 +161,8 @@ Let us learn also that the Church of the Lord Jesus is a Church of light, not a 
 
 But, above all things, let love hold up the light. Be a golden candlestick. Let charity rule in all things. Let patience induce you to deal gently with others though strictly with yourself, and the peaceful happiness which will then flow into you from the Lord, the Prince of Peace, will enable you to say with the Apostle John, We know that we have passed from death unto life, because we love the brethren. I John iii. 14.
 
-Printed & Sold by Milton Smith & Co., 76, Gosswell Road, E. C. and PUBLISHED by GRATTAN, MARSHALL, & Co., 3, Amen Corner, Paternoster Row, London; and JOHN HEYWOOD, Manchester, EVERY THURSDAY, PRICE ONE PENNY.
-
-No. 2, Feb. 14, 1878.
-
-Sermons for the Times.
-
-THE MAGNIFICENT SCENES IN THE BOOK OF REVELATION,
-
-BY THE
-
-REV. DR. BAYLEY.
-
-THE MALL, KENSINGTON, LONDON.
-
-THE THRONE IN HEAVEN, THE FOUR BEASTS, AND THE FOUR AND TWENTY ELDERS.
+***
+== No. 2. Feb. 14, 1878. THE THRONE IN HEAVEN, THE FOUR BEASTS, AND THE FOUR AND TWENTY ELDERS.
 
 IN the fourth chapter of the Book of Revelation, and at the 9th, 10th, and 11th verses, you will find the Word of the Lord thus written: And when those beasts give glory and honor and thanks to twenty elders fall down before Him that sat on the throne, and worship Him that liveth for ever and ever, and cast their crowns before the throne, saying, Thou art worthy, O Lord, to receive glory and honor and power: for Thou hast created all things, and for Thy pleasure they are and were created.
 
@@ -294,20 +289,8 @@ All these things come from Him that liveth for ever and ever, and Whom, with the
 
 To Him be glory for ever and ever.
 
-No. 3, Feb. 21, 1878.
-
-Sermons for the Times.
-
-THE MAGNIFICENT SCENES IN THE BOOK OF REVELATION,
-
-BY THE
-
-REV. DR. BAYLEY.
-
-THE MALL, KENSINGTON, LONDON.
-
-THE BOOK WRITTEN WITHIN AND ON THE BACK, IN THE HAND OF HIM WHO SAT ON
-THE THRONE: AND WHO IS TO OPEN IT.
+***
+== No. 3. Feb. 21, 1878. THE BOOK WRITTEN WITHIN AND ON THE BACK, IN THE HAND OF HIM WHO SAT ON THE THRONE: AND WHO IS TO OPEN IT.
 
 IN the fifth chapter of the book of Revelation, and at the 7th and 8th verses, you will find the Word of the Lord thus written: And He came and took the book out of the right hand of Him that sat upon the Throne. And when He had taken the Book of the four beasts and the four beasts and the four and twenty elders fell down before the Lamb, having every one of them harps, and golden vials full of odors, which are the prayers of saints.
 
@@ -415,21 +398,9 @@ He reconciled our nature first in Himself, having abolished in His flesh the enm
 
 To Him be glory and dominion for ever and ever.
 
-Printed & Sold by Milton Smith & Co., 76, Gosswell Road, E. C. and PUBLISHED by GRATTAN, MARSHALL, & Co., 3, Amen Corner, Paternoster Row, London; and JOHN HEYWOOD; Glasgow and Edinburgh, JOHN MENZIES & CO. EVERY THURSDAY, PRICE ONE PENNY.
 
-No. 4. Feb. 28, 1875.
-
-Sermons for the Times.
-
-THE MAGNIFICENT SCENES IN THE BOOK OF REVELATION,
-
-BY THE
-
-REV. DR. BAYLEY.
-
-THE MALL, KENSINGTON, LONDON.
-
-THE PROCESSION OF HORSES WHEN THE BOOK WAS OPENED.
+***
+== No. 4. Feb. 28, 1875. THE PROCESSION OF HORSES WHEN THE BOOK WAS OPENED.
 
 IN the sixth chapter of the Book of Revelation, and at the second verse, you will find the Word of the Lord thus written:and I saw, and behold a white horse; and he that sat on him had a bow; and a crown was given unto him; and he went forth conquering, and to conquer.
 
@@ -563,21 +534,10 @@ His vesture has been dipped in blood; the letter of His Word has been violated a
 
 While this general enlightenment proceeds, the individual followers of the Savior will follow Him on white horses. They will be clothed in white linen, pure and clean; their sentiments pure, their lives pure. They will follow the Lamb whithersoever He goeth. In other words, His precepts and His example will lead them, and be sufficient for them in all things. Intelligently good, lovingly wise, riding each on his white horse, of an enlightened intellect, they will go forth conquering and to conquer until every abuse, every crime, and every sorrow - man-made misery, though self-created from opposition to Divine law, called, from its pain, the fierceness and wrath of God - shall die out; and none shall hurt nor destroy in all Gods holy mountain (Isaiah xi. 9).
 
-Printed & Sold by Milton Smith & Co., 76, Gosswell Road, E. C. and PUBLISHED by GRATTAN, MARSHALL, & Co., 3, Amen Corner, Paternoster Row, Manchester, JOHN HEYWOOD; Glasgow and Edinburgh, JOHN MENZIES & CO. EVERY THURSDAY, PRICE ONE PENNY.
 
-No. 5. March 7, 1878.
 
-Sermons for the Times.
-
-THE MAGNIFICENT SCENES IN THE BOOK OF REVELATION,
-
-BY THE
-
-REV. DR. BAYLEY.
-
-THE MALL, KENSINGTON, LONDON.
-
-THE GREAT MULTITUDE CLOTHED IN WHITE ROBES.
+***
+== No. 5. March 7, 1878. THE GREAT MULTITUDE CLOTHED IN WHITE ROBES.
 
 IN 7th the chapter of the Book of Revelation, and at the 14th verse, you will find the Word of the Lord thus written:--And I said unto him, Sir, thou knowest. And he said to me, These are they which came out of great tribulation, and have washed their robes, and made them white in the blood of the Lamb.
 
@@ -684,21 +644,10 @@ Rather, let us smile in our sorrows, rejoice in our tribulations, for they are a
 
 Blessing, and glory, and wisdom, and thanksgiving, and honor, and power, and might, be unto our God for ever and ever. Amen.
 
-Printed & Sold by Milton Smith & Co., 76, Gosswell Road, E. C. and Published by GRATTAN, MARSHALL, & Co., 3, Amen Corner, Paternoster Row, Manchester; JOHN HEYWOOD; Glasgow and Edinburgh, JOHN MENZIES & CO. EVERY THURSDAY, PRICE ONE PENNY.
 
-NO. 6. March 14, 1878.
 
-Sermons for the Times.
-
-THE MAGNIFICENT SCENES IN THE BOOK OF REVELATION,
-
-BY THE
-
-REV. DR. BAYLEY.
-
-THE MALL, KENSINGTON, LONDON.
-
-THE MIGHTY ANGEL WITH THE LITTLE BOOK.
+***
+== No. 6. March 14, 1878. THE MIGHTY ANGEL WITH THE LITTLE BOOK.
 
 And I went unto the angel, and said unto him, Give me the little book. And he said unto me, Take it and eat it up; and it shall make thy belly bitter, but it shall be in thy mouth sweet as honey. And I took the little book out of the angels hand, and ate it up; and it was in my mouth sweet as honey; and as soon as I had eaten it, my belly was bitter. (Rev. x. 9, 10).
 
@@ -880,22 +829,10 @@ Oh, why will men hug the demons of pride, envy, profligacy, and folly, which rob
 
 Take the Little Book, and eat it up: and it shall be in thy mouth sweet as honey.
 
-Printed & Sold by Milton Smith 6 Co., 76, Gosswell Road, E. C., and Published by GRATTAN, MARSHALL, & Co., 3, Amen Corner, Paternoster Row; Manchester, JOHN HEYWOOD, Glasgow and Edinburgh, JOHN MENZIES & CO. EVERY THURSDAY, PRICE ONE PENNY.
+***
+== No. 7. March 21, 1878. THE TWO WITNESSES THAT LAY DEAD IN THE STREET, AND AFTERWARDS LIVE AGAIN.
 
-NO. 7. March 21, 1878.
-
-Sermons for the Times.
-
-THE MAGNIFICENT SCENES IN THE BOOK OF REVELATION,
-
-BY THE
-
-REV. DR. BAYLEY.
-
-THE MALL, KENSINGTON, LONDON.
-
-THE TWO WITNESSES THAT LAY DEAD IN THE STREET, AND AFTERWARDS LIVE
-AGAIN. And after three days and a half the Spirit of Life from God entered into them, and they stood upon their feet; and great fear fell upon them which saw them. And they heard a great voice from heaven saying unto them, Come up hither. And they ascended up to heaven in a cloud; and their enemies beheld them (Rev. xi. 11, 12).
+And after three days and a half the Spirit of Life from God entered into them, and they stood upon their feet; and great fear fell upon them which saw them. And they heard a great voice from heaven saying unto them, Come up hither. And they ascended up to heaven in a cloud; and their enemies beheld them (Rev. xi. 11, 12).
 
 THERE are two essential principles which are witnesses to their possessor, and to all the world, that he is a genuine Christian these are fervent LOVE TO GOD and CHARITY To MAN. He in whose heart and life these are predominant is a true servant of God. He who has them not is none of His.
 
@@ -1162,21 +1099,10 @@ And love as angels do.
 
 While those who reject the two witnesses, and persist in phantasies of their own, fall into troubles, and fremors, mental earthquakes, and difficulties, the happy followers of the two witnesses will grow more into the religion of love and life. Love will fill the Church, the state, the business and avocations of the world. Employers will pray from love. Workmen will labor from love. Over them, as an the glad morn before in Bethlehem, the angels song will be heard. The kingdoms of this world are become the kingdoms of our Lord and of His Christ, and He shall reign for ever and ever (Rev. xi. 15).
 
-Printed & Sold by Milton Smith & Co., 76, Gosswell Road, E. C., and Published by GRATTAN, MARSHALL, & Co., 3, Amen Corner, Paternoster Row; Manchester; JOHN HEYWOOD; Glasgow and Edinburgh, JOHN MENZIES & CO. EVERY THURSDAY, PRICE ONE PENNY.
 
-NO. 8. March 28, 1878.
 
-Sermons for the Times.
-
-THE MAGNIFICENT SCENES IN THE BOOK OF REVELATION,
-
-BY THE
-
-REV. DR. BAYLEY.
-
-THE MALL, KENSINGTON, LONDON.
-
-THE WOMAN CLOTHED WITH THE SUN.
+***
+== No. 8. March 28, 1878. THE WOMAN CLOTHED WITH THE SUN.
 
 And there appeared a great wonder in heaven; a woman clothed with the sun, and the moon under her feet, and upon her head a crown of twelve stars (Rev. xii. 1).
 
@@ -1316,22 +1242,10 @@ Sorrow, trouble, and opposition will be experienced, but Divine help gives time 
 
 To Him be glory and dominion, world without end. Amen.
 
-Printed & Sold by Milton Smith & Co., 76, Gosswell Road, E. C., and Published in London by GRATTAN, MARSHALL, & Co., 3, Amen Corner, Paternoster Row, Manchester, and JOHN HEYWOOD, Glasgow and Edinburgh, JOHN MENZIES & CO. EVERY THURSDAY, PRICE ONE PENNY.
 
-NO. 9. April 4, 1878.
 
-Sermons for the Times.
-
-THE MAGNIFICENT SCENES IN THE BOOK OF REVELATION,
-
-BY THE
-
-REV. DR. BAYLEY.
-
-THE MALL, KENSINGTON, LONDON.
-
-THE DRAGON, THE BEAST WHOSE DEADLY WOUND WAS HEALED; AND THE BEAST
-WHICH DID WONDERS, AND MADE FIRE COME DOWN FROM HEAVEN.
+***
+== No. 9. April 4, 1878. THE DRAGON, THE BEAST WHOSE DEADLY WOUND WAS HEALED; AND THE BEAST WHICH DID WONDERS, AND MADE FIRE COME DOWN FROM HEAVEN.
 
 And the beast which I saw was like unto a leopard, and his feet were as the feet of a bear, and his mouth as the mouth of a lion: and the dragon gave him his power, and his seat, and great authority. And I saw one of his heads as it were wounded to death; and his deadly wound was healed: and all the world wondered after the beast (Rev. xiii. 2, 3).
 
@@ -1544,23 +1458,10 @@ My soul, this treasure may be thine
 
 The Lord will give His peace.
 
-Printed & Sold by Milton Smith 6 Co., 76, Gosswell Road, E. C. and Published in London by GRATTAN, MARSHALL, & Co., 3, Amen Corner, Paternoster Row, Manchester, JOHN HEYWOOD, Glasgow and Edinburgh, JOHN
-MENZIES & CO. EVERY THURSDAY, PRICE ONE PENNY.
 
-NO. 10. April 11, 1878.
 
-Sermons for the Times.
-
-THE MAGNIFICENT SCENES IN THE BOOK OF REVELATION,
-
-BY THE
-
-REV. DR. BAYLEY.
-
-THE MALL, KENSINGTON, LONDON.
-
-THE HEAVENLY HARPERS WHO WERE AS IT WERE ON A SEA OF GLASS MINGLED WITH
-FIRE; AND THE SEVEN ANGELS HAVING THE SEVEN LAST PLAGUES.
+***
+== No. 10. April 11, 1878. THE HEAVENLY HARPERS WHO WERE AS IT WERE ON A SEA OF GLASS MINGLED WITH FIRE; AND THE SEVEN ANGELS HAVING THE SEVEN LAST PLAGUES.
 
 And I saw as it were a sea of glass mingled with fire; and them that had gotten the victory over the beast, and over his image, and over his image, and over the number of his name, stand on the sea of glass, having the harps of God (Rev. xv. 2).
 
@@ -1748,21 +1649,10 @@ Let us take, then, our mental harp, and looking back over past mercies from the 
 High over all, the blessed ones, combining with their Lord, may be seen on the bright sea which is clear as crystal, rejoicing over His merciful operations, while the old is giving place to the new, having the harps of God, and still singing the song of Moses and the Lamb:
 Great and marvelous are Thy works, Lord God Almighty: just and true are Thy ways, Thou King of Saints.
 
-Printed & Sold by Milton Smith 6 Co., 76, Gosswell Road, E. C. and Published in London by GRATTAN, MARSHALL, & Co., 3, Amen Corner, Paternoster Row, Manchester, JOHN HEYWOOD, Glasgow and Edinburgh, JOHN
-MENZIES & CO. EVERY THURSDAY, PRICE ONE PENNY.
 
-NO. 11. April 18, 1878. Sermons for the Times.
 
-THE MAGNIFICENT SCENES IN THE BOOK OF REVELATION,
-
-BY THE
-
-REV. DR. BAYLEY.
-
-THE MALL, KENSINGTON, LONDON.
-
-THE WOMAN SEATED ON THE SCARLET BEAST, THAT WAS, AND IS NOT, AND YET
-ISMYSTERYBABYLON THE GREAT.
+***
+== No. 11. April 18, 1878. THE WOMAN SEATED ON THE SCARLET BEAST, THAT WAS, AND IS NOT, AND YET IS MYSTERYBABYLON THE GREAT.
 
 And the angel said unto me, Wherefore didst thou marvel? I will tell thee the mystery of the woman, and of the beast that carrieth her, which hath the seven heads and ten horns. The beast that thou sawest was, and is not; and shall ascend out of the bottomless pit, and go into perdition: and they that dwell on the earth shall wonder, whose names were not written in the book of life from the foundation of the world, when they behold the beast that was, and is not, and yet is (Rev. xvii. 7, 8).
 
@@ -1940,22 +1830,10 @@ For this, roads and communications of every kind are constantly being made more 
 
 There shall be one King over all the earth (Jesus, the Divine King). In that day there shall be one Lord, and His name One (Zech. xiv. 9).
 
-Printed & Sold by Milton Smith 6 Co., 76, Gosswell Road, E. C. and Published in London by GRATTAN, MARSHALL, & Co., 3, Amen Corner, Paternoster Row, Manchester, JOHN HEYWOOD, Glasgow and Edinburgh, JOHN
-MENZIES & CO. EVERY THURSDAY, PRICE ONE PENNY.
 
-NO. 12. April 25, 1878
 
-Sermons for the Times.
-
-THE MAGNIFICENT SCENES IN THE BOOK OF REVELATION,
-
-BY THE
-
-REV. DR. BAYLEY.
-
-THE MALL, KENSINGTON, LONDON.
-
-THE MILLENNIUM, THE JUDGMENT, AND THE OPENING OF THE BOOKS.
+***
+== No. 12. April 25, 1878. THE MILLENNIUM, THE JUDGMENT, AND THE OPENING OF THE BOOKS.
 
 And I saw the dead, small and great, stand before God; and the books were opened and another book was opened, which is the book of life: and the dead were judged out of those things which were written in the books, according to their words (Rev. xx. 12).
 
@@ -2086,22 +1964,9 @@ THE WORK ITSELF SHALL NOT BE LOST, FOR IT WILL, AS HE BELIEVED, APPEAR
 ONCE MORE IN A NEW AND MORE BEAUTIFUL EDITION, CORRECTED AND AMENDED BY
 THE AUTHOR.
 
-Printed & Sold by Milton Smith 6 Co., 76, Gosswell Road, E. C. and Published in London by GRATTAN, MARSHALL, & Co., 3, Amen Corner, Paternoster Row, Manchester, JOHN HEYWOOD, Glasgow and Edinburgh, JOHN
-MENZIES & CO. EVERY THURSDAY, PRICE ONE PENNY.
 
-NO. 13. May 2, 1878.
-
-Sermons for the Times.
-
-THE MAGNIFICENT SCENES IN THE BOOK OF REVELATION,
-
-BY THE
-
-REV. DR. BAYLEY.
-
-THE MALL, KENSINGTON, LONDON.
-
-THE SEA, AND DEATH AND HELL, GIVING UP THEIR DEAD.
+***
+== No. 13. May 2, 1878. THE SEA, AND DEATH AND HELL, GIVING UP THEIR DEAD.
 
 And the sea gave up the dead which were in it; and death and hell delivered up the dead which were in them; and they were judged every man according to their works (Rev. xx. 13).
 
@@ -2289,22 +2154,10 @@ O grave, where is thy victory? O Death, where is thy sting?
 
 To Jesus, our Lord and our Judge, be glory and dominion, for ever and ever.
 
-Printed & Sold by Milton Smith 6 Co., 76, Gosswell Road, E. C. and Published in London by GRATTAN, MARSHALL, & Co., 3, Amen Corner, Paternoster Row, Manchester, JOHN HEYWOOD, Glasgow and Edinburgh, JOHN
-MENZIES & CO. EVERY THURSDAY, PRICE ONE PENNY.
 
-NO. 14. May 9, 1878.
 
-Sermons for the Times.
-
-THE MAGNIFICENT SCENES IN THE BOOK OF REVELATION,
-
-BY THE
-
-REV. DR. BAYLEY.
-
-THE MALL, KENSINGTON, LONDON.
-
-THE NEW JERUSALEM.
+***
+== No. 14. May 9, 1878. THE NEW JERUSALEM.
 
 And I, John, saw the holy city, New Jerusalem, coming down from God out of heaven, prepared as a bride adorned for her husband (Rev. xxi. 2).
 
