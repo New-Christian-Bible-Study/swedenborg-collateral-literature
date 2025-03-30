@@ -1,0 +1,1 @@
+../Ten_Commandments-Cranch/Ten_Commandments-Cranch.adoc

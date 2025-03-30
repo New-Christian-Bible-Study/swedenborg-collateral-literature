@@ -131,7 +131,7 @@ Is not this the legitimate crown of Evolution?
 
 As to the Human from Mary our Lord was therefore from conception and birth like another man; as to the degrees of the internal man He was like the threefold angelic heavens; but inmostly He was one with the everlasting God. Every man comes successively into the ruling love of his father, which is his soul; the Lord's ruling love and proprium even from birth was the love of men, of conjoining them with Himself and blessing them eternally. From this love, which was His soul and His "Father," the Lord could not but put off successively all that He found in His maternal Human not in harmony with the "Father" within Him. As he put off the affections and thoughts from His maternal heredity, He put on those from the indwelling Father. Thus He was continually changing the interior forms and substances of His body and brain bringing them into harmony with angelic and Divine forms and substances; and finally, at the last displacing all finite forms and substances and replacing them with those wholly Divine. So He rose from the tomb in His own glorious Divine Human Body, wholly Divine both in form and substance; one with the infinite God, yet visible to finite men because accommodated to the reception of men; visible to the sight of man's spirit even while he lives in the world, provided that his spirit can be enlightened to believe in a God Who became Man. Amen.
 
-Lessons:   Isa. 7, Luke 1:26-56, C. L. 61-67.
+Lessons:   Isa. 7, Luke 1:26-56, @CL 61-67.
 
 == THE ADVENT
 
@@ -213,7 +213,7 @@ We who have learned from the Word of His Second Coming are made witnesses to all
 
 Even tho we do not witness with our voice yet the true and greatest witness of all is our regeneration. He who permits the Lord to regenerate him serves greatly in His spiritual kingdom. Here is a witness that is open to all, even the most humble. And it carries its reward with it. "Happy are ye if ye do them." For by knowing and doing these things we enter the joy of our Lord, the joy of heaven, the eternal joy which no one can take from us. Amen.
 
-Lessons:  Isa. 51, Luke 1:1-38, A. C. 9350-9361.
+Lessons:  Isa. 51, Luke 1:1-38, @AC 9350-9361.
 
 
 
@@ -404,7 +404,7 @@ But after the old life of self-righteousness is perished, then inspired with new
 
 It is added that being warned of God in a dream that they should not return to Herod they departed to their own country by another way. He who has seen the King in His Glory, in His Divine Human, does not return to the Jewish or the Old Church where Herod reigns. He has entered into new states. He is conjoined with the new heaven where the Lord alone is acknowledged and worshipped. By means of the Heavenly Doctrine he sees Heaven opened and the Lord even as to His Human exalted to the midst of the Sun of Heaven, receiving the worship of all the angels. He cannot go back in spirit to those who in the light of the letter of the Word await but an earthly Christ, a worldly ruler. His eyes are set upon the Jerusalem which is above, the Mother of us all. He goes back to his own country by another way. Amen.
 
-Lessons:  Isa. 60, Mat. 2:1-18, A. C. 9293.
+Lessons:  Isa. 60, Mat. 2:1-18, @AC 9293.
 
 == WITH THE DOCTORS IN THE TEMPLE
 
@@ -477,7 +477,7 @@ Thus in silence did He lay the foundations and build the house of the Lord, that
 
 In the quiet of this humble home, carrying on His work as a carpenter, but in continual meditation on the Word of the Lord, seeking knowledge and purifying Himself from all evil, did the Lord prepare Himself to fulfill in its own time his mission as the Savior of the world. Amen.
 
-Lessons:  Isa. 26, Luke 1:40-52, A. C. 1460, '61.
+Lessons:  Isa. 26, Luke 1:40-52, @AC 1460, '61.
 
 == WATER TURNED TO WINE
 
@@ -582,7 +582,7 @@ And again at the end of the Christian Church when men were well drunken by the f
 
 This eternal truth of the Word, consisting of truths continuous from the Lord is the good wine He has kept until now. This is the noble wine, in greatest abundance, now furnished for the marriage of the Lamb and His Church of the New Jerusalem. Amen.
 
-Lessons:   - Gen. 49:1-28, John 2:1-22, A. E. 376 (1-3)
+Lessons:   - Gen. 49:1-28, John 2:1-22, @AE 376 (1-3)
 
 
 
@@ -660,7 +660,7 @@ That the raising from the dead of this widow's only son was done to represent th
 
 Thus did the Lord set forth and represent by this miracle the work He had come to do, to restore to life the doctrine of the Church which had perished. His other miracles were but tributary to this, and found their fulfillment in this. Yet doctrine alone is not the whole life of the Church. There is also the voluntary life, the life of love, or charity. This, too, must be raised up. Hence the Lord raised from the dead the daughter of Jairus. And finally, to represent the new Church among the gentiles, He restored Lazarus to life. Amen.
 
-Lessons:  -1 Kings 17, Luke 7:1-17. A. E. 659 (12-15).
+Lessons:  -1 Kings 17, Luke 7:1-17. @AE 659 (12-15).
 
 == THE DEMONIAC IN THE SYNAGOGUE
 
@@ -705,7 +705,7 @@ In His new Word. Given through His servant Emanuel Swedenborg. the Lord teaches 
 
 These are the spirits who obsess man; but they have been cast by the Lord into hell, and thus altogether removed, so that such obsessions are not permitted at this day." H. 257.
 
-"Very many at this day are possessed by those spirits (not the spirits mentioned above but a different kind); for there are at this day interior obsessions (of the life of man's thought and affections), but not as formerly exterior obsessions." A. C. 4793.
+"Very many at this day are possessed by those spirits (not the spirits mentioned above but a different kind); for there are at this day interior obsessions (of the life of man's thought and affections), but not as formerly exterior obsessions." @AC 4793.
 
 Life in the Lord's day touched its lowest ebb, below which it could not sink and remain human. It was the plane of sensual and corporeal life; the Jewish life with no conception of any spiritual reality. Such a nation could be easily obsessed even as to the body by gross spirits, such as the Lord suffered to go into the swine. But after His redemptive work was accomplished, after He had cast them out and into their hells and set men free from their power, after He had established a New Church and had left the Jewish Church and the gross worship of the Jews had ceased, giving place to a more spiritual faith, then bodily obsession ceased. At this day there is, as was said, interior obsession; obsession of a man's will and understanding by evil spirits. But this is with the man's own consent and wish. When man deliberately chooses the life of falsity and evil then evil spirits enter into him and make their home with him and so hold him in the life he has chosen that he lacks the will to be free.
 
@@ -745,7 +745,7 @@ Now the Lord, having cast out the unclean demons which obsessed the man of the C
 
 "And He came and took her by the hand and lifted her up; and immediately the fever left her, and she ministered unto them." Amen.
 
-Lessons:   - Deut. 18, Luke 4:16-3, A. C. 4792-4.
+Lessons:   - Deut. 18, Luke 4:16-3, @AC 4792-4.
 
 == REJECTED AT NAZARETH
 
@@ -979,7 +979,7 @@ And when they willingly received Him into the boat the wind ceased, and immediat
 
 When we receive the Lord into our boat our toil is ended, our night is over, our morning is tome, and we have reached our journey's end. Amen.
 
-Lessons:   - Dan 6, Mat, 14, De Mir (Frag. 60 or A.C. 5291 7-e).
+Lessons:   - Dan 6, Mat, 14, De Mir (Frag. 60 or @AC 5291 7-e).
 
 
 
@@ -1061,7 +1061,7 @@ In His sacrament the whole of the Divine Word is gathered up and dramatized. It 
 
 Therefore the bread and the wine, consecrated thus before the Lord, become vessels in which His Divine attributes can be received and imparted to that man who humbly and devoutly partakes of them. Amen.
 
-Lessons:  Jno. 6:1-34, Jno. 6:35-71, Liturgy 345 or TCR 698.
+Lessons:  Jno. 6:1-34, Jno. 6:35-71, Liturgy 345 or @TCR 698.
 
 == TRANSFIGURATION
 
@@ -1214,7 +1214,7 @@ For now as then the only way in which the kingdom of heaven can be advanced is i
 
 Let us all, as we live through again these stirring scenes of the Lord's last days upon earth, let us devote ourselves anew to carrying on the work which He then begun; that He may work in us and through us for the establishment of His Church upon the earth, that His will may be done here as it is in Heaven. Amen.
 
-Lessons:  Zech. 9, Luke 19:28-48, A. C. 9212.
+Lessons:  Zech. 9, Luke 19:28-48, @AC 9212.
 
 
 == THE SON OF MAN
@@ -1392,7 +1392,7 @@ This doctrine of the Holy Spirit as passing from the Lord through men and angels
 
 But the extent to which this work can be done by the Lord through men depends upon man's regeneration. As the Lord put off the maternal human that He might glorify Himself, even so must the man of the Church allow the Lord to put off in him the evil loves of the old man that he may become a new creature in Christ Jesus our Lord. Amen.
 
-Lessons:  Jno. 7:1-27, Jno. 7:28-53, TCR 153, 4.
+Lessons:  Jno. 7:1-27, Jno. 7:28-53, @TCR 153, 4.
 
 
 
@@ -1491,7 +1491,7 @@ If the chief priests, the scribes and the elders, had acknowledged that the bapt
 
 But having rejected the testimony of John, and spurned his baptism unto repentance, they could not but reject the Lord. Amen.
 
-Lessons:  Luke 20:1-26, Luke 20:27-47, A. E. 475 (19-21).
+Lessons:  Luke 20:1-26, Luke 20:27-47, @AE 475 (19-21).
 
 
 
@@ -1568,7 +1568,7 @@ The doctrine of the Lord's glorification was unknown in the first Christian Chur
 
 It was reserved for the second Coming. In the light of that doctrine it can be fully and rationally seen that the Son of God could not remain part Divine and part human but by His life in the world lived from the Divine of the Father He must put off all the human from the mother and put on in its place a Divine Human from the Father, until finally He became wholly Divine, not only as to love and wisdom but even as to His flesh and bones. Thus in His Divine Human the God of eternity becomes visible as a Divine Man in the world. In the light of His glorification reflected back upon His whole earthly life we see that even from infancy He spoke and acted only from the Divine, so that in His Word we have a full, an Infinite, revelation of God to man. His words, His deeds, are finite but on the one side, that turned toward man - in order that they may be accommodated to our finite reception; but upward they open to infinity, because they proceed from the infinity of God Himself. Therefore we say with Paul, In our Lord Jesus Christ dwelleth all the fulness of the Godhead bodily. We worship Him alone as the visible God whose Human is Divine and whose Divine is Human. Amen.
 
-Lessons:  Deut. 9, Mark 12:13-44, A. C. 9409.
+Lessons:  Deut. 9, Mark 12:13-44, @AC 9409.
 
 == THE DIVINE ATTRACTION
 
@@ -1620,7 +1620,7 @@ This He said, signifying what death He should die."
 
 The Lord's way was Divinely clear before Him. His choice was made. There was no hesitation with Him. "For this cause came I unto this hour. Father, glorify Thy name." It was written in the Scriptures, in the eternal Law of God, that He could glorify His name, that is, His Human, only by the gate of death, only by the cross. For only by such a death could He testify to savage man the nature of the Divine love for man and his salvation. But He saw that, if He were lifted up from the earth, He would draw to Himself all who would believe on Him. By the conquest of hell, and by the glorification of His Human, He brought gifts to all men, yea, to the rebellious also, that the Lord God might dwell among them. He saves all, some to heaven, some only to milder evils. But all, even those in the hells, feel the effects of His redemption and salvation. And these effects, in heaven, on earth, and over the hells, will be felt in an ever-increasing measure as the years unfold. "And I, when I am lifted up from the earth, will draw all unto myself. Amen.
 
-Lessons:  Habakkuk 3, John 12:12-36, T. C. R. 650-652.
+Lessons:  Habakkuk 3, John 12:12-36, @TCR 650-652.
 
 
 
