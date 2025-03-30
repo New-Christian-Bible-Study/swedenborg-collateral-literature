@@ -221,7 +221,7 @@ The revelation that there was but One God came to the shepherd people of Israel 
 
 But the world changes. Who, at this day and in this civilization, would make idols to worship? or bow down to stone or wood with fear and reverence? Yet the commandment is not obsolete. Even to us in these latter days, the Lord must needs speak this warning against idolatry which is as fatal to the soul now as of yore. For human nature is always prone to take the symbol for the reality - to worship the image, and put its foremost faith in material things and natural forces; and to divide that love which should belong only to the One Divine among many finite and fallible human objects. This tendency is shown in the story of Judaism despite its proud adherence to the philosophy of a One God and its strict rejection of external images. It is shown in the gradual development within Christianity, of the idea of three separate Divine personalities within the One God, and in the introduction of saints and relics into Christian worship. It is shown in the spreading modern idea - the supreme blasphemy - that man is not created into the image of God, but that mankind has created its god or gods into the image of man! Nay, the same tendency is shown in the story of all our individual lives, in that we tend to idolize whatever reflects the image of our own desires.
 
-* * *
+---
 
 In the obvious and literal sense, the first commandment teaches that no man, dead or alive -no spirit, no angel, no demon - must be worshipped, but only Jehovah, who is the Only God, known to the Israelites as the Creator and revealed on Mount Sinai as their Redeemer from the bondage of Egypt.
 
@@ -235,7 +235,7 @@ Even the eyes of angels are unable to see God - the Divine Human - apart from fi
 
 And therefore we are taught that the celestial or inmost sense of the first precept is that the Lord is infinite and eternal, the First and the Last, omnipresent and omniscient and omnipotent: that He is Love and Wisdom in their very essence and origin! that His substance is infinite Love and His form is infinite and eternal Wisdom; thus that He is Life itself. It is so that we may understand that He is the source of all human qualities, and therefore is the Only Man whose gifts of life can alone make us human.
 
-* * *
+---
 
 Man, despite his human soul, is born in captivity, in bondage to self-love, vanity and hereditary passions. We are held in the Egypt of spiritual indifference, preferring the indulgence in natural delights to the freedom which the Lord offers those who would be led by Him. It is frequently imagined that man can by his own will-power and prudence free himself from the bondage of his faults and evil habits. But the truth is that we cannot be liberated from our proprium, our self-consciousness, and self-importance, which are the centers of our lives, by any effort which originates in our old will. However we cultivate and refine our natural affections or polish our behavior, any self-discipline which originates in our old will would progress in circles back to our love of self, it is the Lord who alone can do the work of liberation, and His first condition is that we must assume Him, not ourselves, as the center of our lives; that we shall have no other gods before His face; that the evils which we flee from shall be shunned because they are evils against Him, not merely because they are inconvenient to us or make us appear ugly in the eyes of others.
 
@@ -277,7 +277,7 @@ All that is commanded by the Lord, and therefore done in His name and on His beh
 
 This inclusive meaning is given in the Arcana Coelestia, where the precept, "Thou shalt not take the name of the Lord in vain," is explained to mean, that we must not profane or blaspheme the truth and good of faith; we must not turn truth into falsity by avowing the truth yet living in evil; nor turn good into falsity, by deliberately living under holy pretences while yet not believing the truth (@AC 8882). For if so, the Lord cannot hold us guiltless.
 
-* * *
+---
 
 The evil which is here described is the evil of profanation, the mingling of good and evil, the conjunction within one mind of heaven and hell. No evil - so the Doctrine reveals -can be more terrible than such a profaning of what is holy by what is evil. The ancients, even the primitive peoples whose fragmentary wisdom men scorn at this day, lived in a manner closer to the spiritual world than we moderns who live in a world where nothing is held sacred. And therefore - despite their ignorance of physical laws - they knew the truth about profanation and its direful punishments. They lived in fear of sinning against something that was holy, of offending the gods. And this led them into gross idolatries and superstitions, because they lost their original discernment of what holiness was.
 
@@ -291,7 +291,7 @@ Not so the sin against the Holy Spirit. This is a denial of the holiness, the Di
 
 The celestial angels, above all others, have the perception of the utmost necessity of the acknowledgment of the Lord in His Divine Human as the only possible means of salvation. They see that a man's unwillingness to acknowledge God as the source of all human qualities, profanes the name of God and induces a brutal coldness into all the thoughts of his mind, which can then be stirred only by the fires of evil. The celestial sense of the Second Commandment therefore is, not to deny the Divinity of the Lord's Human. For with this denial angelic spheres depart from the interiors of man's mind.
 
-* * *
+---
 
 Much may be read in the Writings concerning profanation. In its most direful and interior form - which the whole force of Divine Providence seeks to prevent - it is the deliberate mingling of evil affections and falsities of evil with the holy things of good and truth. Those who become such profaners are excluded not only from heaven but from hell, until their minds and spiritual bodies are reduced by a terrible process of vastation into an almost senseless and lifeless state - a living death. And this eventuates, not as a punishment, but because confirmed good and confirmed evil have produced a double yearning in the mind – a belief in truth and in phantasy at once. Such an unbearable state cannot be stamped out or dissolved except by a pulling asunder of the roots of a man's life, and, with this, a carrying away of as much of man's spiritual life as has been profaned (@AC 8882).
 
@@ -396,7 +396,7 @@ It must be seen that the true love of the Lord as the Heavenly Father, the Provi
 
 To Israel, this meant the Land of Canaan, ensured to them as a national home as long as they would remain faithful. To the individual Jew, it meant a long life on earth. To the New Church-man, it means eternal enjoyment of a place of use and delight in the Lord's Kingdom of Uses in heaven, a place of use already prepared for on earth, a place perhaps granted in some way here in the work of the organized church on earth, a humble place, in the active support of new uses, a small task perhaps, yet symbolic of the honor which we should render to our spiritual Mother, and of the faithfulness we have in the greater matters of "law, judgment, mercy and faith" (Matt. 23:23); a place prophetic of the land, the lot, the inheritance, which the Lord in His foresight will have selected for us.
 
-* * *
+---
 
 In the spiritual world, certain wives, in the course of a discussion reported by Swedenborg, made a distinction between honor and love. You can never love where you do not honor, they said in effect, but you can honor where you do not love (@CL 331:2).
 
@@ -586,7 +586,7 @@ Thus flattery may become a form of lying. It is the recognized means which decei
 
 Deceit and insincerity are the soul of every lie. And when a man has succeeded in clothing his deceit with plausibility and piety, he becomes a hypocrite, an actor, a dissembler, pretending to virtues he does not possess. It is a strange fact that hypocrisy can go on developing so secretly in a man that the man himself is not necessarily aware of it, and does not admit himself to be a hypocrite, but is self-deluded to the point of assuming that he is holier than others. This is so because his mind is so full of lying that he cannot and will not examine himself in the light of truth. The Lord therefore told some of the chief priests and elders among the Jews, that the publicans and harlots who repented at John's call "would go into the kingdom of God before them." "Cleanse first the inside of the cup and the platter," He told them, "that the outside of them may be clean also." To clean the inside means to remove deceit and lust, by self-examination and constant repentance.
 
-* * *
+---
 
 "Every one that doeth evil hateth the light, neither cometh to the light, lest his deeds should be reproved" (John 3:20). If we should enter into the spiritual meaning of the eighth precept, we should find that those words of the Lord are the very words of judgment upon the evil after death. Those whose deeds are evil will flee from the truth, will hate the truth, will prefer to live on as if the truth was merely a dream - an unreality. Thus they choose the life of phantasy - the life of hell - the life of their self-love.
 
@@ -654,9 +654,9 @@ The lust of the world is not of the heavenly Father, but is in rebellion against
 
 _Thou shalt not covet thy neighbor's house; thou shalt not covet thy neighbor's wife, nor his manservant, nor his maidservant, nor his ox, nor his ass, nor anything that is thy neighbor's._ (Exodus 20:17)
 
-From the literal sense of the Word alone, it is not clearly seen why the verse of our text should be divided into two commandments, and named, as they are in the Writings of the New Church, as the Ninth and Tenth Precepts.*
+From the literal sense of the Word alone, it is not clearly seen why the verse of our text should be divided into two commandments, and named, as they are in the Writings of the New Church, as the Ninth and Tenth Precepts.(*)
 
-* That there were ten commandments in the two tables of the Law given to Moses at Sinai, is clear. And the finality of the number ten is recognized; ten, the number of man's fingers, signifying what is complete. Yet there is no clear Biblical teaching as to how the Law was to be divided into ten precepts.
+(*) That there were ten commandments in the two tables of the Law given to Moses at Sinai, is clear. And the finality of the number ten is recognized; ten, the number of man's fingers, signifying what is complete. Yet there is no clear Biblical teaching as to how the Law was to be divided into ten precepts.
 
 The consequence was that the traditional Christian division which was generally received up to the time of the Reformers of the 16th century, was changed by Calvin. So anxious was Calvin to emphasize that the Catholic use of images was against the Divine Law, that he separated the first commandment into two, and made a separate precept of the part of the commandment against polytheism and idolatry which says, "Thou shalt not make unto thee a graven image... ."
 The English-speaking Protestants have therefore adjusted the numbering and joined the last two commandments (which both treat of envy or lust) into one; and they call it the Tenth -for otherwise there would have been eleven commandments. In the Writings the original numbering is maintained, except in the Apocalypse Explained where the numbering of the fifth and the seventh is reversed. - (HLO)
@@ -697,7 +697,7 @@ But the love of self is not content to rule the world. It seeks to enslave the m
 
 Indeed, the love of self surpasses all other loves in its ability to adulterate goods and to falsify truths. Where the love of self prevails, there the spiritual truths of the church are endangered and liable to perversion. Whatever "self" does or thinks seems right in the eyes of self-love. We therefore find that "self" will even pervert the doctrines of religion and will impose a spurious conscience, so that it may rule not only by outward force but by subjecting men to inner restraints in the name of religion. This is the worst of all Loves of Dominion, and is profane. This is Babylon the Great, Mother of Abominations.
 
-* * *
+---
 
 Yet in the heart of every man before regeneration there is a secret delight, a quickening of the pulse, at the thought of subjecting others to one's authority. And this unregenerate ambition takes the form of persuading others. To lead others to good by reason and by appealing to their love of truth, or to exercise the command that is a legitimate function of one's work or office - this does not violate the freedom of others or trespass upon their rights. But to persuade, and to lead a man by his sensual or evil affections, or by arousing merely natural emotions, is quite another. This is to "covet" the household of the neighbor's mind.
 

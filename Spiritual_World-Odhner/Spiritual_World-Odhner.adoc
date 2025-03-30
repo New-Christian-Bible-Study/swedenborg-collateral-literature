@@ -152,7 +152,7 @@ Protestants have no belief in any "purgatory," and their ideas of the after-life
 
 But many of the erroneous ideas of Christendom stem directly from too literal an understanding of Scripture. So for instance, Ezekiel's vision of the valley of bones - where the Spirit of God caused the skeletons of the slain to revive and put on flesh - is supposed to picture a physical resurrection on the day of the last judgment; although it is clear from the context that it symbolized the restoration of the house of Israel to their land.(Ezek. 37:11) The sudden appearance of "many bodies of the saints" to people in the "holy city" after the Lord's resurrection (Matt. 27:52) is also used to confirm the idea. Christian creeds ignore Paul's distinction between a spiritual body and a natural body (I Cor. 15:44) and fail to note that John in his prophetic vision of the last judgment specified that it was "the dead, small and great," who were to be arraigned before the throne of judgment. (Rev. 20:12)
 
-* * * * * * * * * *
+---
 
 The fact is that men generally have no concept of what the soul is or what a spiritual world is, or what heaven and hell really mean. Even in ancient times we mark how people confused the two worlds.
 
@@ -169,7 +169,7 @@ Heaven and hell and life after death are scarcely at all known in the world and 
 
 "lest such a negative spirit .... should also infect and corrupt the simple in heart and the simple in faith, it has been granted me to associate with angels and to talk with them as man with man, and also to see what is in the heavens and what is in the hells, and this throughout thirteen years; also to describe what I have heard and seen; hoping that ignorance may thus be enlightened and unbelief dissipated. Such an immediate revelation exists at this day, because this is what is meant by the Advent of the Lord."
 
-* * * * * * * * * *
+---
 
 The essential purpose of this new revelation of the spiritual world is that men might be enabled to think spiritually about the after-life. Actually, there is considerable information about the spiritual world to be gathered from the Word of the Old and New Testaments. We are given to understand that angels appeared frequently to the patriarchs; that Jacob saw the messengers (or angels) of God ascending and descending the ladder between earth and heaven (Gen. 28) that Moses saw the pattern of the tabernacle in heaven; (Ex. 25:40) that the spirit of Samuel spoke with Saul through the witch of Endor; (1 Sam. 28) that Elisha's servant had his eyes opened to see the guardian hosts of spirits around the mountain where they stood; (2 Kings 6:15) that the prophets experienced innumerable visions of spiritual judgments and angelic throngs; that Moses and Elijah - long dead - appeared with the Lord on the mount of transfiguration. (Matt. 17)
 There is "a cloud of witnesses"! Angels appeared, as young men, to announce the Lord's birth and resurrection.(*14) In His parable of the rich man and Lazarus,(*15) the Lord pictures men's souls as almost immediately transported to places in "hades" or in heaven - which were separated by a great gulf.
@@ -209,7 +209,7 @@ The prophets of Israel indeed saw visions and dreamt dreams, but had no understa
 
 When, at the end of the Christian Church, it was necessary for the Lord to restore to mankind a real knowledge of the spiritual world, it had to be done by means of a man who was prepared throughout his early youth and manhood by the investigation of the causes of things - a scientist and observer, a man who inquired philosophically into the laws and reasons of things, and who could view and analyze the phenomena of both heaven and hell dispassionately and calmly from a love of truth, and thus be led and enlightened by the Lord and inspired to recognize and describe the order and essence of the spiritual world.
 
-* * * * * * * * * *
+---
 
 One of the facts we must accept before understanding the testimony of Emanuel Swedenborg is that every human being is from creation equipped to have commerce with spirits.
 
@@ -226,7 +226,7 @@ Spirits who speak to men by the Lord's permission - and this has been granted to
 
 On the other hand, the records of societies devoted to so- called "psychical research" contain much testimony about unexplained cases of apparitions and alleged conversations (through "mediums") with the dead, as well as other abnormal occurrences. Wherever professional "mediums" are involved, the suspicion lingers that the phenomena are produced by connivance or skill rather than by spirits, especially as the Writings do not grant to spirits the powers either of "materializing" or of foreseeing the future, or of instructing men about the other life. Where the latter occurs, the information the supposed "spirit" gives is usually vague and confused or contradictory; but occasional descriptions are given which resemble the truth, but then always in cases where the medium or the interlocutor has had some direct or indirect knowledge of the testimony of Swedenborg, as in the famous instance of Sir Oliver Lodge. We may of course take it as quite possible that in an induced state of hypnosis the subconscious memory can become vocal. It is also worth noting that some men of science who have interested themselves objectively in this "psychical research" have not thereby been led to confirm a belief in a spiritual world, or a permanent survival of man's spirit in a heaven or a hell, but rather theorize that man's mental elements at death may take a long time to dissipate and in the meantime may leave active impressions upon living men's minds.
 
-* * * * * * * * * *
+---
 
 It is therefore clear that the occasional intercourse of spirits with men is quite insufficient to supply mankind with a knowledge of the other world. This can be done only by an immediate Divine revelation, by the introduction of a man into the spiritual world - not for a few hours of trance or vision but for many years of wakeful experience. And to carry out such a Divine commission, a man must obviously be gradually prepared for his ordained task of communing with spirits and angels, and be surrounded with a special Divine protection, even as were the prophets of old.
 
@@ -387,7 +387,7 @@ things invisible as well as visible. In all spiritual creations, it is taught, t
 
 Yet the spiritual, as to internal face and essence, is of a different origin and substance, an essence which can only be defined in the terms of life or states of mind. And the quality of this inner essence of the spiritual world can be known only from the unique laws of love and wisdom which are displayed in the life of spiritual beings - a life utterly different from the activities of nature.
 
-* * * * * * * * * *
+---
 
 It is this spiritual world that is revealed in the pages of the Writings. Swedenborg's information had to be gradual. But this information, gained through his intercourse with spirits and angels and even devils, and through his observing the unique representations, processes, and events of the other life, was but the means of furnishing his mind with the material from which the Lord, in making His second advent, could by inspiration construct through Swedenborg's mind and pen a doctrine concerning the spiritual world for the use of the New Christian Church. This is the reason why Swedenborg insists that "what has come from the Lord has been written, and what has come from angels has not."(*78)
 
@@ -1124,7 +1124,7 @@ The causes and the "souls" of all natural things are therefore in the spiritual 
 113. @AE 1206, @DLW 119
 114. @DLW 92, 343e, LJ 9
 
-* * * * *
+---
 
 The fact that the spiritual world acts by influx into the natural world and causes certain things there to seem alive, must not be taken to mean that there is only one world. It was one of the errors of the ancients that they failed to distinguish between the spiritual and the natural. The spiritual with men became so immersed into bodily and worldly things that they began to think of the spiritual as a finer or purer natural, and of the soul as a body of purer natural stuff which had its abode high up in the ether or in the region of the stars, thus within nature and its spaces and times.115 In all things of the natural world the spiritual and the corresponding natural are indeed so conjoined as to appear as a one, like the hand and the glove may appear as one. Yet this appearance of identity is dissipated in the Writings. 115. @DLW 85, 92, 350, @ISB 9:4. Additions to TCR, n. 15.
 
@@ -1148,7 +1148,7 @@ We can conceive of a cause without an effect or prior to it. But not of an effec
 "The spiritual and the natural are thus united in each and everything of the world"; for here the spiritual is the soul or cause while the natural is the embodiment or effect.123
 123. Can., God iv. 10, @AE 1196:3, 1197:2
 
-* * * * *
+---
 
 To sum up the teachings we thus note that the spiritual world is to be defined not only as the world wherein the souls of men continue to live, and, as angels and spirits, carry on their conscious life; but also as the realm of the causes of all the things which exist in nature. It is a world beyond the limitations of space, yet present by influx. It originates from the Lord through His "spiritual Sun," the first and only substance of creation, which is non-material, being the source of love and of spiritual light which is wisdom.124 It includes several descending ranges of atmospheres, which, though spiritual, terminate in their order and form the heavens in which the angels dwell. Nothing natural (or physical), from the heat and light of any of nature's suns, can enter the spiritual world.125 Since neither space nor time can be ascribed to the substance and essence of the spiritual world, there is no distance, no spatial dimensions, nothing material in that world.126 It is a world of spiritual realities such as we experience in this world only as mental states, or perceive in our inner being as affections, thoughts, perceptions, memories, and delights. Yet it is of such elements, in themselves entirely devoid of material reality, that our human lives consist. It is these elusive spiritual things that we gather and compact into our "character" and "mind"-throughout our years here on earth. And it is these, and these alone, that we can take along when our bodies die; it is these that come to constitute our immortal spirit, our real "self."
 124. @DLW 300, @DP 6, @TCR 24 (5), 76, 280:5, Ang. Id., @AE 1218, @AC 7381:3
@@ -1168,7 +1168,7 @@ The testimony of the Writings about the spiritual world furnishes us with a dist
 
 We are first of all assured that the spiritual world, as to external aspect or sensory appearance, is much like this natural world of ours, although indeed far more perfect and varied. This is of course true also of our minds, in that the life of our thoughts is freer and more varied than our physical experience itself. But our thoughts are often dim and indistinct. Our imagination is seldom as clear as our actual sensation. Our emotions are usually also confused and undefined, and more or less blunted by the grosser appetites and demands of the body. This vagueness and dullness of our mental life will vanish when we pass into the other world. There we will perceive spiritual things or mental objects in a clarity which surpasses the light of nature beyond any comparison.
 
-* * * * *
+---
 
 It may be safely said that we human beings can see or know only a tiny, infinitesimal part of the natural world although we are affected by the radiations from billions of stars and unthinkable numbers of galaxies, and can surmise in the least grain of matter the existence of inconceivable complexities of parts within parts.
 
@@ -1280,7 +1280,7 @@ This its ultimate is in an earth (tellure), in its lands (terris) and waters . .
 152. @AE 1211
 153. @AC 9499
 
-* * * * *
+---
 
 These and similar teachings show that the very forms which surround spirits and angels, yea, the lands or globe on which they dwell, correspond intimately to the states of these spiritual beings, and concur with their ruling loves. But they also make plain that they are not creations of the angels. They are created by the Lord by means of the forces that are present in the spiritual in all its degrees, and are presented in the ultimates of the spiritual world in objective reality.
 
@@ -1662,7 +1662,7 @@ Swedenborg testifies that when he was among spirits in the state of a spirit, he
 136. @CL 326, De Ver. 5, 6, @SD 5102:3, 5770, 5589, @AC 9094, 3346, cp 6210, @AR 961, @HH 255, 239:2
 137. These instances are given in @SD 6063, 6090, 4866, LJ post. 324, De Ver. iii (9), xxvi, and @CL 183
 
-* * * * *
+---
 
 In a sense "it is impossible to be alone" in the spiritual world.138
 Not only is one's thought attended to by spirits far and near, but the immaterial sphere which wells forth spontaneously from each spirit is irrepressible, beyond one's control, and reveals one's character to others.139 Yet spirits, like men, enjoy a degree of personal privacy. They do not only have an active or "speaking thought," the ideas of which form the words of their speech. But they have also in their minds a realm of silent thought which they do not necessarily reveal, although it is involved in all that they say. While it is a law in the spiritual world that one must "speak as he thinks," yet he may choose to be silent.140
@@ -1944,7 +1944,7 @@ Their interiors-within and above their rational mind-are opened.43
 While they were still in the world of spirits, the rational of their natural mind was in process of formation, and their thought was held in a state of balance and choice.44 But now their ruling love itself guides them-the confirmed love that is peculiar to their own heaven. 43. @HH 519
 44. @HH 430
 
-* * * * *
+---
 
 It was previously noted that ideally a spirit's preparation for heaven should be completed on earth. And some, who are regenerated and instructed in spiritual thinking in the world need simply to "cast off natural impurities along with the body."45 Swedenborg saw some such spirits taken up into heaven immediately after their resurrection had been effected. This is also the case with infants. Others, who have been sufficiently instructed while on earth, are taken up without entering "the third state."46
 45. @AC 2960e, @HH 491
@@ -2111,7 +2111,7 @@ Their tutelage over, they are clothed in angelic garments and assume the name of
 70. @CL 261
 71. @HH 519f, @AR 611
 
-* * * * *
+---
 
 Another phase of the story needs to be shown. For when the young approach maturity they begin to feel an inclination to marriage.72
 Heaven cannot be well imagined apart from a conjugial partner with whom to share the gift of life in its fulness and completion. 72. @CL 187
@@ -2583,7 +2583,7 @@ Because of this, the celestial degree of heaven seems utterly discrete from the 
 Anything beyond this degree is outside the angel and not within him; and that which is outside of him cannot be perfected within him." Thus the spirit enters into that degree of his life which had been "opened," or secretly furnished, while he was on earth. This is the measure of his life.15
 15. @DP 334
 
-* * * * *
+---
 
 Just as the mental life of the angels of each degree or heaven differs from that of the other heavens, so is this variance reflected in the outward aspect of their lives.
 
@@ -2622,7 +2622,7 @@ The reality, then, is not the appearance, but what the angels perceive in the ap
 31. @SD 4215, cp @AC 1632, 1808
 32. @AC 1881
 
-* * * * *
+---
 
 The representative appearances of all the three heavens are not very different, as to essentials. "As to external face, each heaven is like our earth, with a difference as to excellence and beauty according to the degree . . ."33 There is, first of all, the spiritual Sun-although this is not seen except in modified form in the lower heavens. There are clouds, rain, winds, gravity, and other forces apparently like those in nature. There are greenswards, paradisal gardens, flowers and fields and fallowland, mountains and brooks, and even the seashore. The vegetation comes forth new each morning, according to the reception by the angels of love and wisdom from the Lord.34 There are remarkable representative atmospheres, also as it were living; and rainbow effects of unsurpassed splendor and awe. Strange fruit and flowers are seen-not possible on earth except as products of art: blossoms of precious stones, fruits of copper. In the second heaven, there may be found fruit and seeds of silver or silver leaved branches; in the highest heaven these may be of gold. The spiritual heaven abounds especially in magnificence-in ornate palaces and angels clad in brilliant attire, living in marvelous cities, amid works of artifice and skill, with gardens and arbors-where the fruits drop wine; whereas the celestial heaven has a simpler tone. For the celestial heaven, though its power is the greater, finds beauty in simple things, in the human form Divine, in nature's own spontaneous fairness; and places less value on the products or skills that spring from the understanding and its artificial role in human development. Yet there are unsurpassed gardens there, with golden fruits or fruits that drop fragrant oil, birds of paradisal plumage, and flowers that have captured the secrets of the stays, and purest mountain brooks that bring to these wise angels the message of a revelation to which others are unheeding.
 
@@ -2695,7 +2695,7 @@ But we are further informed that each kingdom is not only distinguished into an 
 14. @AC 8796f 15. @AC 8796
 16. @HH 225
 
-* * * * *
+---
 
 From what has been said it is obvious that no diagram or chart could adequately describe the intricate relationship of the three heavens and the two kingdoms. The difficulty increases when we find that the Writings sometimes mention a third kingdom-"the Lord's natural kingdom, of which the first or lowest heaven consists" or, as stated elsewhere,
 "in which are men while in the world."17 But while we should not strive for any oversimplification, we may note that the Writings often resort to comparisons, and that their final appeal is always to the human form itself.
@@ -2759,7 +2759,7 @@ It is fashionable today to refer to such differences as signs of an "introvert" 
 
 These types, like the kingdoms of heaven, and like the two sexes, differ in their response to the Lord's gifts, and must be educated and later regenerated by different modes. Parents need a great deal of wisdom to discern what modes can succeed with different children. In general the question is whether good can be received by implanting truth immediately in the will or by implanting truth first in the memory and the understanding. The difference between children is largely one of natural genius, and the presence of natural affections, or natural good; not of spiritual good, for this only comes by regeneration. The natural good with our children does not change their essential genius, which belongs to their deeper racial inheritance and adjoins them to the spiritual kingdom of heaven.
 
-* * * * *
+---
 
 The genius, spiritual and natural, which a man is given, is a gift of the Lord, for him to develop and use, a talent which he should not spurn even if he was not entrusted with more-with two or with five, as is told in the parable.34 For the Lord knows what we can use and what is beyond our ability. He also knows what is needed to perfect the marvelous economy of the Grand Man of human life. He knows in what provinces of the Grand Man of heaven man's spirit can best be employed. He creates each man with this in view, and equips him adequately for such a province; but always He allows man the freedom to progress as far into his use as man desires. By continual purification good spirits are carried into the interiors of the province to which they were allotted, but if they were to aspire beyond those provinces which correspond to their lives, "they could not have heaven."35
 
@@ -2781,7 +2781,7 @@ It is not necessary here to explain what is meant by this abstract term. What mu
 42. @AE 322:2, @AC 4585
 43. Love vi-x, @AC 1799:2
 
-* * * * *
+---
 
 The teachings concerning the two kingdoms of heaven all seem to refer to the uses of the angels, which are foreseen and provided by the Lord and organized like the provinces of the human body. Since these uses are most distinct, the kingdoms are also most discretely differentiated and never confused.
 
@@ -3100,7 +3100,7 @@ In order to act into the world of spirits, angelic societies send out one of the
 27. @HH 601, @AC 4402, 5956
 28. @AC 5983 seq., cp De Ver. 5, @CL 326
 
-* * * * *
+---
 
 It has been shown that a society of the spiritual world may be viewed as consisting of three degrees of angels, a society of spirits in the world of spirits, and also of hells in three descending degrees.29 If we could see the souls or spirits of the men living in a large city and partaking in common uses, we would probably find just such a variety of spiritual states and attitudes; the difference being that in heaven and hell spirits do not live commingled as on earth, but separated according to states of mind and ruling motives, and according to relative wisdom. 29. LJ 27. See pages 238, 84-87
 
@@ -3116,7 +3116,7 @@ It was a large city with libraries, museums and colleges. Swedenborg heard their
 
 There appear to be communities in heaven from various nations. But the real distinction is that of uses. One society, which is described in some detail, was the "Eagle Society" to which ten guests, selected from among novitiate spirits, were invited.34 This society, to judge from its social customs, dress, and appearance, may have been from spirits who had died in the seventeenth or eighteenth century, and had come from a Protestant country. The special use to which the society was dedicated was apparently the education of youth; its coat-of-arms showed an eagle on the top of a tree brooding over her young. The houses were reared on a mountain which at a distance had appeared like an expanse in the clouds. On their arrival at the inner gate, the visitors and their angel-guide were welcomed by courtiers who showed them around the city, with its magnificent palace and marvelous gardens. Later they partook with the prince in a midday meal of delicate foods which were replenished without labor on the table, the while the prince explained that the real joys of heaven come from the love of use. The palace was constructed of porphyry and jasper, roofed with gold. Its furnishings and ornaments and utensils were of precious substances and of inconceivable beauty. Nothing the angel told them-was fashioned by angel hands, but by the Maker of the universe, as a gift to the prince of the society. And the same could be said of the homes of the other angels. 34. @CL 11-25; @HH 391, 387
 
-* * * * *
+---
 
 Perhaps we ought to tarry here and ask ourselves what a home in heaven really is. It is love alone that rears a home-or makes a house into a home. Even as a home in this world reflects in its furnishings something of the love, the use, and the sentiments of its owner, so the inside of an angelic home corresponds in detail to the things of the angel's good.35 Everything in it is in the order of his will, his good, his most gratifying use. It is in his will that a man or spirit finds his inmost privacy. Heaven would not be heaven unless it meant a place of rest and peace and protected use where he can dwell stripped of the outward dignities and be oblivious at times of any accommodations to foreign states. 35. @TCR 553, @AC 1484e, 7847, @HH 186, @DLW 408
 
@@ -3148,7 +3148,7 @@ Without such spiritual ultimates there could be no sensory life for spirits and 
 45. LJ 9
 46. @AE 831:4
 
-* * * * *
+---
 
 It is because the external environment of an angel is created in correspondence with his permanent affections and convictions, that no strangers can long remain in an angelic society. If they do, the society would itself alter or be removed. Thus a spiritual law makes it virtually impossible for a spirit - except when he is in externals, as newcomers are-to abide in the home of another. Married partners in the other life cannot dwell together in the same house unless they are similitudes - i.e., interiorly united. "If they are external inclinations"-joined only by superficial likeness of taste or station-"and not at the same time internal, the very house or place separates, rejects, and drives them away."47 For in the spiritual world there are no spaces but appearances of space, and these are according to their states of life or love. 47. @CL 50
 
@@ -3201,7 +3201,7 @@ They observe what the evil spirits with man are intending and so far as man suff
 10. @AC 5980, 5992
 11. @SD 3104
 
-* * * * *
+---
 
 A few of the employments of angels can be described in human terms, because men also have uses that are spiritual in essence and purpose-such as the use of teaching and the priestly use. The guardianship of human souls, the government of spirits, the mothering of infant souls, and the preparation of children and newcomers for heaven are clearly spiritual functions. We can also see the propriety of angels assisting in the process of resurrection, and-as is sometimes the case-of serving as media of Divine revelation. But the objection might occur that such uses could be performed by a small number and need not require all the untold and ever increasing hosts of heaven. We might indeed be reminded of the teaching that the Lord acts mediately through heaven "not because He needs their aid, but that the angels there may have functions and offices and consequently a life and a happiness in accordance with their offices and uses."12
 12. @AC 8719
@@ -3225,7 +3225,7 @@ Sometimes men have performed "more excellent uses" from a natural affection and 
 
 Even with us, the quality of a man's intentions and personal attitudes sometimes seems to shine out in his natural accomplishments or works. But in the other life the inner quality of a spirit is as easily recognized in the sphere of his life and works as the natural excellence of a man's work is discerned here by his fellowmen.
 
-* * * * *
+---
 
 A chapter in Heaven and Hell (387-394) is devoted to show the employments of the angels. But why should there be any need of employments in heaven? Do not the Writings teach that "everything the angels have need of is given them?" "The houses in which the angels dwell are not erected, as houses are in the world, but are given them gratuitously by the Lord, to every one in accordance with his reception of good and truth."15 Their garments they receive as gifts, and sometimes they are clothed with them unknowingly, according to their changing states.16 Their food and drink, in all variety, is "from a spiritual origin, and therefore is not prepared but is given daily" - a table appearing laden with food when there is need, and disappearing when the meal is over. Like the manna of Israel the food cannot be stored up for another day.17 Moreover, all are fed according to the uses they perform. In short, "everything they have need of is given them."18
 15. @HH 190; 266e, LJ post. 12
@@ -3335,7 +3335,7 @@ From this union of minds in angelic marriages there are born spiritual offspring
 The love of such spiritual offspring with angel partners is one with their desire to become internal similitudes-to be one with the other in spirit. And each "offspring" of their union is like a new child of their mind - a new state of innocence - a new receptacle which displays new aspects of life and receives life from the Lord in a new individual way. And there is in angelic storge nothing selfish or self-centered.60
 For every new state of enlightenment thus born is turned into uses toward society and- unconsciously-toward the human race. 60. @CL 211e
 
-* * * * *
+---
 
 The life of heaven is far from a state of dreamy abstractions. The joys of heaven have nothing in common with an idle, undetermined life without objectives. This would be deadly to the soul. If the angels were in absolute perfection and equal purity, there might of course be no need for them to extend to each other mutual help through uses and occupations. Besides, if all in heaven were directly inspired and led of God, there would be no need for governments and subordinations and for judges and graded courts of justice such as actually exist there. Here again we leave an angel to explain:
 
@@ -3364,7 +3364,7 @@ They are said to be the best of all the angels, and are classed among the celest
 Certainly, these celestials who live alone are yet at the very heart of the complex of uses which is the kingdom of the Lord. Their "society" is the universal heaven; their power is exerted modestly and perhaps secretly, but the extension of their uses and influence surpasses that of others. And the inference we draw from what is said about them in the Writings is that they are few as compared with the untold numbers of angels who dwell in societies.2
 2. @HH 50,189, cp @AE 988:6, @CL 205, @AC 471, 10813
 
-* * * * *
+---
 
 The life of the angels is closely tied up with the uses of others in their society, and in consequence they naturally progress on the basis of the reaction and the stimulus which they receive from their companions. And so they enter into common states of enlightenment and common states of affection. All finite life has fluctuations and periodicities in it. The angels are sometimes in a state of intense love and highest illustration and then in lessening degrees of love and wisdom-a state of relaxation from uses. Thus by turns they come into less heat and less light; something of shade and cold or of obscurity and less delightful moods steal over them and modify their enjoyment in their work, or confine their use to a more limited range.
 
@@ -3419,7 +3419,7 @@ And in ever greater perfection he will be able to express these individual perce
 15. @DP 42. It is true of the angels that "the more closely one is conjoined with the Lord, the more distinctly does he seem to himself as if he were his own, and the more clearly does he recognize that he is the Lord's."
 16. @AC 3343f, 3475, 1869, @SD 2186f, 2192f, 4006, 5519
 
-* * * * *
+---
 
 The uses of the society during the morning period, which alone is dignified by the angels as their work-period, are (we take it)
 spiritual uses properly so called. Such uses need not necessarily be performed by social contacts. The thought of person brings spirits into social presence in the other life. If personal thought ruled in the morning hours, the city would then have a different appearance. But spiritual uses are performed by the power and aid of spiritual thought which is abstracted from persons and places and which views the essence of things, views principles, and is thus more immediately under the guidance of the Lord. We are thus taught, that
@@ -3447,7 +3447,7 @@ The uses performed spiritually by the angels in their morning states are too var
 
 And this is done in the morning state! 21. @SD 3617
 
-* * * * *
+---
 
 Still, no society prospers without citizens who look to its welfare, and promote its social development, its "moral, civil and domestic life." And these things also are works done, even in the third heaven, from affection. But because such "works" derive somewhat from the world, and also from what is useful to themselves and their own, they do not regard them as more than "derivations and productions" from their real uses, "which are done with them from the Lord" and have relation to worship, to the church, to the implantation of holy things, to innocence, to the good of society in general and particular; and which "do not regard persons but such things as are with persons."22
 22. @AE 828
@@ -3491,7 +3491,7 @@ Their states together are not confined merely to the evening states. But their n
 
 Yet the glorious morning state is also theirs, together, however short it may perhaps seem. And in the more specific uses of the forenoon, there is a conjunction more interior than ever before-a conjunction in the more abstract things of spiritual thought and affection, which is necessary to each and both.
 
-* * * * *
+---
 
 It is not to be expected that the life of heaven can ever be grasped by natural thought, still less described in a brief narration of the outward features. Yet these features, as given in the Writings, are to be the basis of our rational thought about the other world.
 
@@ -3535,7 +3535,7 @@ Christians have usually taken this quite literally. Modern Catholic textbooks br
 And it was left for a New Church man4 to remind us that the "eternal punishment" of the wicked, in the Greek text (Matthew 25:46), meant rather discipline than torture, and that the word used (kolasis), suggests "pruning," "checking ... .. tempering," "correcting"; which, of course, must be an eternal process in the hells; even though punishments are neither continuous nor everlasting. 3. See God and Creation, by T. B. Chetwood, S. J.; Bemiger Bros., New York, 1928
 4. C. J. N. Manby, The Eternal Duration of Hell, Carswell Co., Toronto, 1901, page 62.
 
-* * * * *
+---
 
 The aversion of men to recognize the nature of evil has led thinkers in every age to seek for some way of evading the fact that it can persist permanently. In the ancient Orient such a way was found in the doctrine of "Nirvana;" according to which all creation, after an epoch, returns into its infinite source - leaving no trace, like a flame that has been "blown out." Another oriental phantasy, - of much influence even among Western peoples - is the doctrine of transmigration of Souls, according to which the period of man's choice is extended over many life-times, man's spirit being reincarnated, either as a higher or lower form of life, and re-born, as a king or a pauper, as a man or as a beast, until he attains the Nirvana of blessed extinction; unless the world is dissolved ere then.
 
@@ -3545,7 +3545,7 @@ Later a Universalist church was founded, in 1770, in America, on the creed that 
 
 Modern Christendom about us is more and more veering away from dogmas. It has "found a formula" for evading the force of the Gospel teachings. The idea of hell lingers in the theological schools, even though the fear of a personal Devil is very rare and the clergy have to reduce their flocks into very unsound emotional states before hell-fire has any meaning for them. The real underpinnings of religious motive are weakened by the influence of a popularized version of evolutionary teachings which present man as basically good, evil as a superficial disease due to the infection of the environment, and civilization, not religion, as the healer. "Give man what he wants, feed him and clothe him and amuse him and he will become good" - that is the general philosophy.
 
-* * * * *
+---
 
 The demoralizing influence of the persuasion that the hells are eventually redeemed has penetrated even into the organized New Church. In the middle of last century, Thomas Lake Harris, by an apparent reception of the Writings, gained a number of leading New Church men as converts to his amazing form of spiritistic "celestialism." He claimed to divulge - in inspired doggerel verse - the celestial sense of the Word. And among his teachings was the redemption of the hells! A number of years later, Dr. W. H. Holcombe, the author of several popular New Church works, became a prey to a similar influence and a pretender to a "celestial" status, from the point of view of which he felt free to make good the supposed omissions of Swedenborg. He claimed that evil spirits could descend and corporeally obsess men who were fully regenerated, and that, by living in their organism, the sensual spirits would have a new chance for repentance; and this until all the hells were "redeemed!"
 
@@ -4168,7 +4168,7 @@ When an infernal spirit is let out from his place of punishment, it is not to be
 No. Punishments do not take away the will or thought or intention, but merely stop the determination to act. It is told in the Arcana that when released from age-long confinement in an infernal vat or "tun," certain deceitful spirits whose worldly success had gone to their heads were at once possessed of an insane phantasy that they were gods and owned the universe. That indeed kept them quiet, and out of harm's way, so long as they kept to themselves. But it showed that their nature had not changed. Their evil merely took a different form.32
 32. @AC 947
 
-* * * * *
+---
 
 We have traced the development of evil spirits to this point - when fear of penalties render them less harmful to others, less aggressive. Three more phases of their life remain to be considered. One of these is their life of phantasy - the real arena in which they can indulge their full license.
 
@@ -4458,9 +4458,9 @@ Evil cannot contribute to good. Yet one evil may balance the effects of another,
 
 === 24 EXPECTATIONS AND PROPHECIES
 
-Among the many startling claims made in the Writings of Emanuel Swedenborg the most extraordinary is this, that the long awaited "last judgment" - the day of doom predicted by the prophets of Israel and by the Lord Himself - has already taken place. It occurred, these Writings testify, in the year 1757. A more world-shaking event could hardly be imagined. Yet even as the Lord was made incarnate by birth from a virgin in the obscure town of Bethlehem, and lived his early life in a backward and despised country far from the centers of civilization, unnoticed by the high and the mighty; and even as His redemptive work was performed without leaving any remarkable effects upon the contemporary scene; so also the Last judgment, which, He foretold, would take place at His second coming, occurred as it were inconspicuously as far as the world was concerned, and unobserved by any mortal save the Lord's servant, Emanuel Swedenborg, who acted as an appointed witness and recorder.*
+Among the many startling claims made in the Writings of Emanuel Swedenborg the most extraordinary is this, that the long awaited "last judgment" - the day of doom predicted by the prophets of Israel and by the Lord Himself - has already taken place. It occurred, these Writings testify, in the year 1757. A more world-shaking event could hardly be imagined. Yet even as the Lord was made incarnate by birth from a virgin in the obscure town of Bethlehem, and lived his early life in a backward and despised country far from the centers of civilization, unnoticed by the high and the mighty; and even as His redemptive work was performed without leaving any remarkable effects upon the contemporary scene; so also the Last judgment, which, He foretold, would take place at His second coming, occurred as it were inconspicuously as far as the world was concerned, and unobserved by any mortal save the Lord's servant, Emanuel Swedenborg, who acted as an appointed witness and recorder.(*)
 
-* The main treatments on the last judgment are found in the published works The Last Judgment (1758) and Continuation concerning the Last Judgment (1763); also recurrently in The Apocalypse Revealed (1766). The Spiritual Diary contains extensive descriptions of events connected with the judgment (nos. 4925 to about 6022), as does the posthumous work, The Last Judgment, written before 1763. The Apocalypse Explained, written 1758 to 1759, also gives many teachings on the subject.
+(*) The main treatments on the last judgment are found in the published works The Last Judgment (1758) and Continuation concerning the Last Judgment (1763); also recurrently in The Apocalypse Revealed (1766). The Spiritual Diary contains extensive descriptions of events connected with the judgment (nos. 4925 to about 6022), as does the posthumous work, The Last Judgment, written before 1763. The Apocalypse Explained, written 1758 to 1759, also gives many teachings on the subject.
 
 And the reason neither of these two events - the incarnate life of the Lord and His coming again to judgment - made any immediate stir in the world was that they concerned a kingdom that was not of this world. When the Lord was asked how the kingdom of God would come, He therefore answered: "The Kingdom of God cometh not with observation" (Luke 17:20). At His first advent the Lord's work of redemption was effected beyond the sight of men, in the spiritual world, where He subjugated the hells. And at His second advent, which was not a coming in the flesh but a coming as Divine truth, the Last judgment was also performed in the spiritual world, thus not among men but among spirits.
 
@@ -4568,8 +4568,8 @@ But the spiritual world is hidden from the eyes of men, and this for the sake of
 
 Swedenborg's Record of the Last Judgment
 
-From these journals, as well as from many statements in the Arcana Coelestia, we find that Swedenborg had long seen, in the confused and perturbed state of the world of spirits, the signs of an inevitable judgment. He saw this more than ten years before it came.* And when the judgment finally broke in sudden fury, he recorded what he saw from day to day in his journal. Seemingly he was so fully occupied in observing and reporting that he had time for little else. We have no record of any letters or memorials written by Swedenborg during this period.
-* @SD 1316, 488, 4371, @AC 1850:4, 2121ff, 2243:7, 4057
+From these journals, as well as from many statements in the Arcana Coelestia, we find that Swedenborg had long seen, in the confused and perturbed state of the world of spirits, the signs of an inevitable judgment. He saw this more than ten years before it came.(*) And when the judgment finally broke in sudden fury, he recorded what he saw from day to day in his journal. Seemingly he was so fully occupied in observing and reporting that he had time for little else. We have no record of any letters or memorials written by Swedenborg during this period.
+(*) @SD 1316, 488, 4371, @AC 1850:4, 2121ff, 2243:7, 4057
 
 His journal of every stage of the judgment enables us also to see its progress through his eyes. He mentions the fate of a number of historically known persons and what happened to many of his deceased friends, and describes how the very face of the world of spirits was changed and reformed amid the sometimes phantastic events which marked the destruction of the old order in that world.
 
