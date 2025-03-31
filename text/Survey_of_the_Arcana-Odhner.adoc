@@ -3,6 +3,15 @@ By Hugo Lj. Odhner - Bryn Athyn, Pennsylvania
 include::../template-attributes.adoc[]
 
 
+//// 
+EDITORS' NOTES:
+Throughout this text there exists a sequence of bracketed {numbers} which appear to be something of footnotes, being numbered sequentially, for which I have no source. 
+There are also regular inline footnotes(*)
+
+(end of editors notes)
+////
+
+
 "Of the Lord's mercy I too have been permitted to see the Lord's Word in its beauty in the internal sense, and this many times: not as it is when the words are being explained as to the internal sense in detail, but with all things both in general and in particular brought together into a single series or connection, which one can call a seeing of a heavenly paradise from the earthly one." - Swedenborg, in Arcana Coelestia, par.1772 {1}
 
 <<<

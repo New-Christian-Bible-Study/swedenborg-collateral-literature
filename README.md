@@ -7,9 +7,12 @@ Target titles for this experience can be found at https://newchristianbiblestudy
 Accordingly, there is an AsciiDoc extension published by AsciiDoctor for use with VSCode, and available in VSCode's Extension Marketplace
 To set up a working environment, start with the instruction guides in docs/setup locally, and online at https://github.com/New-Christian-Bible-Study/swedenborg-collateral-literature/tree/main/docs/setup (still being improved)
 
-Once configured, the workflow here is as follows:
+Once configured, the general workflow here is as follows:
 Select a file to work on from the status list, docs/title-status.csv
 Open the file from the text/ directory.
+
+
+
 As appropriate, update the status file and/or create or update an Issue via the online repo at github, https://github.com/New-Christian-Bible-Study/swedenborg-collateral-literature/issues
 
 
