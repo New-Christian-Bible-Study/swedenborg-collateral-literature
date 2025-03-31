@@ -154,7 +154,7 @@ It follows from this that since the Lord can only be present in things created b
 
 This concept is captured in the Psalm:
 
-"The earth is the Lord's, and all its fullness, The world and those who dwell therein. For He has founded it upon the seas, and established it upon the waters" (Psalm 24:1, 2).
+"The earth is the Lord's, and all its fullness, The world and those who dwell therein. For He has founded it upon the seas, and established it upon the waters" (Psalms 24:1, 2).
 
 === THE SPIRITUAL SUN
 
@@ -846,23 +846,23 @@ So, the Writings tell us, there are three general kinds of freedom (see @DP 73),
 
 * The first is natural freedom, which is the freedom to act according to our evil inclinations.
 
-DP 73:3: "Natural freedom every person has from inheritance. From it a person loves nothing but self and the world: his first love is nothing else..."
+@DP 73[3]: "Natural freedom every person has from inheritance. From it a person loves nothing but self and the world: his first love is nothing else..."
 
 A thief, for example, acts from natural freedom when he steals. In a sense natural freedom is the freedom to act according to the lowest things in human nature:
 
-DP 73:4: "A person's desire, for example, to commit adultery, to defraud, to blaspheme, to take revenge, is from the love into which he is born..."
+@DP 73[4]: "A person's desire, for example, to commit adultery, to defraud, to blaspheme, to take revenge, is from the love into which he is born..."
 
 * The second kind is rational freedom, which is the freedom to pretend to be something we are not.
 
-DP 73:5: "Rational freedom is from the love of reputation for the sake of honor and gain. The delight of this love is to appear externally as a moral person..."
+@DP 73[5]: "Rational freedom is from the love of reputation for the sake of honor and gain. The delight of this love is to appear externally as a moral person..."
 
 A person, who wishes to present himself to the world as an honest person, may act honestly, but on the inside feel that lying and cheating are permissible. He refrains from doing certain things, not because he thinks they are evil, but because he wants to preserve his reputation.
 
-DP 73:5: "His freedom, therefore, derives nothing from a love of public welfare, nor does his reason derive anything, for it harmonizes with his love..."
+@DP 73[5]: "His freedom, therefore, derives nothing from a love of public welfare, nor does his reason derive anything, for it harmonizes with his love..."
 
 * The third kind of freedom is the freedom that comes from actually not doing evil things because they are sins against the Lord.
 
-DP 73:6: "Spiritual freedom is from the love of eternal life. Into this love and its delight no one comes but the person who thinks that evils are sins, and consequently does not will them, and at the same time looks to the Lord..."
+@DP 73[6]: "Spiritual freedom is from the love of eternal life. Into this love and its delight no one comes but the person who thinks that evils are sins, and consequently does not will them, and at the same time looks to the Lord..."
 
 A person, who believes theft is a sin, and does not commit it for that reason, exercises spiritual freedom.
 
@@ -933,7 +933,7 @@ The discrepancy between the two, however, arises in the matter or motive. The pe
 
 But, the person who is truly reforming exercises more a spiritual freedom. Note the description of that freedom:
 
-DP 73:6: "Spiritual freedom is from the love of eternal life. Into this love and its delight no one comes but the person who thinks that evils are sins, and consequently does not will them, and at the same time looks to the Lord."
+@DP 73[6]: "Spiritual freedom is from the love of eternal life. Into this love and its delight no one comes but the person who thinks that evils are sins, and consequently does not will them, and at the same time looks to the Lord."
 
 Thus in a state of reformation a person is midway between rational freedom and spiritual freedom. As he or she progresses away from natural things, he or she will move towards spiritual things:
 
@@ -943,7 +943,7 @@ DP 84: "Man's third state, which is a state of regeneration, follows upon and is
 
 At this point the person exercises true spiritual freedom:
 
-DP 73:6: "Spiritual freedom is from the love of eternal life. Into this love and its delight no one comes but the person who thinks that evils are sins, and consequently does not will them, and at the same time looks to the Lord."
+@DP 73[6]: "Spiritual freedom is from the love of eternal life. Into this love and its delight no one comes but the person who thinks that evils are sins, and consequently does not will them, and at the same time looks to the Lord."
 
 The importance of this concept of freedom and reason in our regeneration cannot be stressed enough. We are told in no uncertain terms that:
 
@@ -1759,7 +1759,7 @@ The word "temporal" comes form the Latin "tempore" which means "in time". We oft
 
 In the New Testament the Lord warns us against putting too much stock in temporal things. He says:
 
-"Do not lay up for yourselves treasures on earth, where moth and rust destroy and where thieves break in and steal; but lay up for yourselves treasures in heaven, where neither moth nor rust destroys and where thieves do not break in and steal" (Mat 6:19,20).
+"Do not lay up for yourselves treasures on earth, where moth and rust destroy and where thieves break in and steal; but lay up for yourselves treasures in heaven, where neither moth nor rust destroys and where thieves do not break in and steal" (Matthew 6:19,20).
 
 In the book Divine Providence we are given a clear view of the kinds of things which inspire people in this world:
 
@@ -2033,7 +2033,7 @@ Understanding and Understanding introduces Luke 12:48: acknowledging Div. truth 
 
 // troubles here in source
 
-Apply sense of the Confirmation of falsity is described by Letter to confirm evil a denial of truth. Con- "bloods" in loves and false firmation of evil is a Word. eg. principles. rejection of good. Thus Isa 1:15
+Apply sense of the Confirmation of falsity is described by Letter to confirm evil a denial of truth. Con- "bloods" in loves and false firmation of evil is a Word. eg. principles. rejection of good. Thus Isaiah 1:15
  the Word is adulterated.
 
 // troubles here in source
@@ -2057,14 +2057,14 @@ Attribution to them- Isa 14 selves what is Divine. Rev 17
 
 // troubles here in source
 
-Acknowledgment of the The condition of all such is Mat 12:32
+Acknowledgment of the The condition of all such is Matthew 12:32
 Word, yet denial of that they call upon the Father, Divinity of the Lord. and not upon the Lord. Profanation lies in the fact that the
 
 Lord is one.
 
 WARNING: Big mess here; scanned columns ??
 
-Those who first ack- This is the worst profanation. Rev 3:14,15 nowledge Divine truth This mingles holy and profane Mat 12:43-5 and live according things so they cannot be to it, but afterward separated. Therefore person depart from it and can be neither in heaven nor deny it. hell. Ceases to be human.
+Those who first ack- This is the worst profanation. Revelation 3:14,15 nowledge Divine truth This mingles holy and profane Matthew 12:43-5 and live according things so they cannot be to it, but afterward separated. Therefore person depart from it and can be neither in heaven nor deny it. hell. Ceases to be human.
 
 The protection against all these types of profanation, therefore, is fro the Lord to ensure that we will only be allowed to accept truth on a spiritual level of our lives if He can see that we will be held in those truths to eternity:
 
@@ -3042,11 +3042,11 @@ What would our eternal life be without happiness? It would be the life of hell. 
 
 Can we really blame Him? Through out the constitution of His Divine Government He does every thing short of denying our freedom to bring us out of states of evil into states of reconciliation and happiness. There is a surprising statement at the end of this paragraph in Divine Providence, which will be discussed in more detail later:
 
-DP 324:7: "Hence it is clear that eternal life is also eternal happiness. This state of a person is the end of creation; and it is not the Lord's fault but a person's that only those who enter heaven are in that state. That a person is in fault will be seen in what follows."
+@DP 324[7]: "Hence it is clear that eternal life is also eternal happiness. This state of a person is the end of creation; and it is not the Lord's fault but a person's that only those who enter heaven are in that state. That a person is in fault will be seen in what follows."
 
 * Thus everyone is created to enter heaven.
 
-DP 324:7: "This is the end of creation; but all do not enter heaven because they have become imbued with the delights of hell which are opposite to the happiness of heaven; and those who are not in the happiness of heaven cannot enter heaven, for they cannot endure it."
+@DP 324[7]: "This is the end of creation; but all do not enter heaven because they have become imbued with the delights of hell which are opposite to the happiness of heaven; and those who are not in the happiness of heaven cannot enter heaven, for they cannot endure it."
 
 Heaven is a state of mind, one we experience more fully after death than before, but no less real in each world. In this world a person's ruling love is often clothed with the externals of natural life, with the result that people of various inner qualities life intermixed. After death, however, that mixing cannot be, for there people are conscious of each others sphere, exhaled from their ruling love. The result is that different people repel each other. The Writings give several accounts of people who tried to enter heaven when either their love is incompatible with it, or they are not fully prepared.
 
@@ -3056,7 +3056,7 @@ This does not alter the fact that the Lord made people to go to heaven, and, as 
 
 Everything builds up to this conclusion: that people, created to go to heaven, are assisted in every way possible in order for the Lord to fulfill His desire of a heaven from the human race. This concept is the most powerful in all New Church doctrine, for it established beyond any doubt the foundations of the Lord's relationship with us:
 
-DP 324:12: "Now since a person from his birth is endowed with these two faculties by the Lord, and consequently the Lord is in them as in His own with a person, it is clear that His Divine Love cannot but will that a person should go to heaven and there enjoy eternal happiness, and also that the Divine Wisdom cannot but provide for this."
+@DP 324[12]: "Now since a person from his birth is endowed with these two faculties by the Lord, and consequently the Lord is in them as in His own with a person, it is clear that His Divine Love cannot but will that a person should go to heaven and there enjoy eternal happiness, and also that the Divine Wisdom cannot but provide for this."
 
 The power of this teaching is most strongly felt when one compares it with other concepts about the Lord drawn from the previous church, such as the idea that God is angry, wrathful, vengeful. Or that the God required the sacrifice of His "son", or that belief alone will bring a person into harmony with the Lord. All these teachings pale into insignificance in the face of the powerfully true teaching that the Lord, who is love itself and wisdom itself works unceasingly, within His all embracing laws of Divine Providence, to draw people into heaven.
 
@@ -3080,13 +3080,13 @@ DP 326: "... when anyone thinks about another and desires to converse with him, 
 
 Thought about the Lord, therefore, brings the Lord's presence to that person, thus establishing the image of the Lord within a person:
 
-DP 326:4: "From this it is clear that so far as one knows the Lord and from this knowledge thinks about Him, so far the Lord is present; and so far as anyone acknowledges Him from an affection of love, so far the Lord is conjoined to him; but on the other hand, so far as anyone does not know the Lord so far the Lord is absent, and so far as anyone denies Him, so far is He separated from him."
+@DP 326[4]: "From this it is clear that so far as one knows the Lord and from this knowledge thinks about Him, so far the Lord is present; and so far as anyone acknowledges Him from an affection of love, so far the Lord is conjoined to him; but on the other hand, so far as anyone does not know the Lord so far the Lord is absent, and so far as anyone denies Him, so far is He separated from him."
 
 Consideration of this passage strikes one with the realization that the Lord, pressing and urging to be received, nevertheless leaves it up to the individual to take the next step of accepting or rejecting. Thus personal freedom in spiritual matters is preserved at all costs.
 
 Thinking about the Lord, however, is not enough: faith has to be coupled to charity, thought to action. The action seals the thought, making an indelible part of the person's being. The aim of much religious thought is purification from evil for the sake of a conjunction with the Lord, be it Christian, Jewish, Moslem or Hindu.
 
-DP 326:9: "These are the general principles of all religions by which everyone can be saved... It has been provided by the Lord that almost everywhere there should be some form of religion, and that in every religion there should be these two principles; and it has also been provided by the Lord that everyone who acknowledges God and refrains from doing evil because it is against God should have a place in heaven."
+@DP 326[9]: "These are the general principles of all religions by which everyone can be saved... It has been provided by the Lord that almost everywhere there should be some form of religion, and that in every religion there should be these two principles; and it has also been provided by the Lord that everyone who acknowledges God and refrains from doing evil because it is against God should have a place in heaven."
 
 The human role in salvation
 
@@ -3103,7 +3103,7 @@ DP 328: "Every religion declines and is consummated by the inversion of the imag
 
 As we have seen, people are created into the image and likeness of the Lord, and it is this very form of creation, in all people, which enables a church to be formed within the human breast, and ultimately leads the person to heaven. But, because people are free to abuse the freedom given them by the Lord, the Lord's image itself, though it cannot be removed, can be inverted. When that happens the will and understanding of good and truth seem to be destroyed, for, by turning away from the Lord, the person turns
 
-DP 328:6: "... these receptacles away from God and thus turned them towards himself. Consequently they have become closed above and opened below, or closed in front and opened behind. When they have thus been inversely opened and closed, the receptacle of love, that is the will, receives influx from hell or one's own proprium; and so also does the receptacle of wisdom, that is, ones understanding."
+@DP 328[6]: "... these receptacles away from God and thus turned them towards himself. Consequently they have become closed above and opened below, or closed in front and opened behind. When they have thus been inversely opened and closed, the receptacle of love, that is the will, receives influx from hell or one's own proprium; and so also does the receptacle of wisdom, that is, ones understanding."
 
 When this happens, the church existing in series on earth perished. The same is true for the individual, for communication with the Lord is broken off, leaving communication with hell to run rampant.
 
@@ -3131,11 +3131,11 @@ A powerful statement in a world where evil, sin and misery seem to be the norm, 
 
 The issue of predestination in the Christian religion has been a divisive force. In considering the relationship of the Lord and human beings, it is impossible to conceive of any other than that of a continual predestination to heaven. This work shows the nature of the Lord, confirming His Divine love and Divine wisdom:
 
-DP 330:3: "The Divine Love through the Divine Wisdom provides the means by which every one may be saved; and therefore to say that there is any predestination except to heaven is to say that the Divine Love cannot provide the means by which salvation may be effected."
+@DP 330[3]: "The Divine Love through the Divine Wisdom provides the means by which every one may be saved; and therefore to say that there is any predestination except to heaven is to say that the Divine Love cannot provide the means by which salvation may be effected."
 
 The whole thrust of the work Divine Providence, is to show exactly how the Lord sets about the task of saving the human race. Any concept of predestination to hell makes nonsense of the concept we are given of the Lord. In light of the teachings revealed to us, it is foolish to limit the Lord's salvation to a portion of the race, and cruel to suggest that He sends anyone to hell. Both make a mockery of the Lord Himself.
 
-DP 330:8: "The Lord is every the Creator and Savior of all; and He alone leads all and desires the death of no one. It is therefore cruel to believe and think that so great a multitude of nations and peoples under His auspices and oversight should be handed over as prey to the devil by predestination."
+@DP 330[8]: "The Lord is every the Creator and Savior of all; and He alone leads all and desires the death of no one. It is therefore cruel to believe and think that so great a multitude of nations and peoples under His auspices and oversight should be handed over as prey to the devil by predestination."
 
 === CONCLUSION
 
@@ -3155,7 +3155,7 @@ Unlike many human governments, the Lord binds Himself absolutely to the Laws of 
 
 The entire thrust of Divine Providence is to create a heaven from the human race, but this can only be achieved in a state of order:
 
-DP 331:2 "... the Divine Providence is the Divine Order primarily with regard to the salvation of men; and as there is no order without laws, for laws constitute order and every law derives from order that it also is order, it follows that as God is Order He is also the law of His own Order."
+@DP 331[2]: "... the Divine Providence is the Divine Order primarily with regard to the salvation of men; and as there is no order without laws, for laws constitute order and every law derives from order that it also is order, it follows that as God is Order He is also the law of His own Order."
 
 Therefore, for the Lord to act against His own laws, would be for Him to deviate from His own order.
 
@@ -3183,7 +3183,7 @@ DP 332: The operation of the Divine Providence for the salvation of a person bei
 
 Our lives are spend in the embrace of these laws. Nothing can, or will every alter that. If a person chooses to accept the Lord, the Laws of Providence provide and environment in which that person may grow and develop spiritually. Should one choose evil, the Laws of Permission "which are also laws of the Divine Providence" work unceasingly to stimulate the conscience, and lead the person either right out of evil, or at least into a milder hell. Consider the following passage:
 
-DP 332:4 "... there must be a constant progression in the reformation and regeneration of men..."
+@DP 332[4] "... there must be a constant progression in the reformation and regeneration of men..."
 
 Because the Lord governs and regulates the laws of providence and permission to suit the needs of a particular person, it follows that the Lord knows each and every individual intimately. He knows what kinds of choices we will make, and how we will use those choices:
 
@@ -3264,7 +3264,7 @@ In this statement we are shown how many of the teachings of orthodox Christianit
 * Interestingly, the official doctrines of the Christian religion recognize this, and "are against instantaneous salvation from immediate mercy, but still it is maintained by the external men in the church"
 (@DP 338[8]). The truth of this can be seen if one realizes that all church teach repentance from evil, and so teach life.
 
-DP 338:9: "Now a person's life is not breathed into him in a moment, but is formed gradually, and is reformed as the person shuns evils as sins; consequently, as he knows what sin is, and recognizing it acknowledges it, and as he does not will it and therefore desists from it, and as he leans also the means which relate to the knowledge of God."
+@DP 338[9]: "Now a person's life is not breathed into him in a moment, but is formed gradually, and is reformed as the person shuns evils as sins; consequently, as he knows what sin is, and recognizing it acknowledges it, and as he does not will it and therefore desists from it, and as he leans also the means which relate to the knowledge of God."
 
 === INSTANTANEOUS SALVATION AND IMMEDIATE MERCY DESTROY THE CHURCH
 
