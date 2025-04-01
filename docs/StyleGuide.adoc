@@ -24,6 +24,10 @@ Editors' comments and notes
 (end of Editors' comments
 ////
 
+WARNING: When the comments should also be displayed on the output files, such as this from Spiritual_World-Odhner :
+WARNING: Tremendous! quantity of footnotes is posing a problem here
+
+
 ##[.underline]#Line Breaks:###
 
 You'll readily note that two separated

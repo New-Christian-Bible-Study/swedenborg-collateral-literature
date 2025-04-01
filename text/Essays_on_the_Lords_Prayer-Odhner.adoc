@@ -56,7 +56,7 @@ SELECTED READING FOR SERVICES
 // reference the Contents above for associating the numerical "chapter"s
 Text Old Test., etc. New Testament Writings + 
 1 Luke 11:1 Psalm 102 Luke 11:1-13 @AE 815[10] (part) + 
-2 Luke 11:2 Isa. 64 Matthew 6:1-21 @AC 8705[4], 5 (part) + 
+2 Luke 11:2 Isaiah 64 Matthew 6:1-21 @AC 8705[4], 5 (part) + 
 3 Luke 11:2 Psalms 99:1-3 Mark 9:33-50 @DP 230, 231 + 
 4 Luke 11:2 Daniel 7:1-3, 9-28 John 18:33-19:4 @AE 726[2] + 
 5 Luke 11:2 Deuteronomy 11:18-29 Matthew 26:36-46 @AC 2447[2], 3 + 
@@ -64,7 +64,7 @@ Text Old Test., etc. New Testament Writings +
 7 Matthew 6:12 Genesis 45:1-15 Matthew 18:21-35 @AC 3014[3], 4 + 
 8 Luke 11:4 Isaiah 45:1-19 Matthew 10:24-39 @AC 6324-6325 + 
 9 Luke 11:4 Psalm 44 Matthew 11:11-30 @AE 1164 (2, 3) + 
-10 Matthew 6:13 Rev. 5 Matthew 6:1, 5-15 @AE 726[1]
+10 Matthew 6:13 Revelation 5 Matthew 6:1, 5-15 @AE 726[1]
 
 <<<
 
