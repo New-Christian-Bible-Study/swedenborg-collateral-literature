@@ -7,6 +7,15 @@ include::../template-attributes.adoc[]
 
 2008
 
+////
+Heavy use of outlining (nested ordered lists) errors resolved with multiple {empty} insertions.
+
+----
+maybe multiple paragraphs per section
+can be blocked
+?
+////
+
 
 <<<
 
@@ -1820,7 +1829,7 @@ c. @CL 331[2], 3: If a man loves his intelligence in himself, that intelligence 
 
 B. Complementary qualities (1): the soul of each
 
-6. The soul, the deepest being of a man is the love of growing wise, or truth from good.
+6{empty}. The soul, the deepest being of a man is the love of growing wise, or truth from good.
 
 a. @CL 32: The inmost quality in masculinity is love, and its veil wisdom, or in other words, it is love veiled over with wisdom; while the inmost quality in femininity is that same wisdom, the wisdom of masculinity, and its veil the love resulting from it.
 
@@ -1828,7 +1837,7 @@ b. @CL 90: In the subjects of the animate kingdom, the truth of good or truth fr
 
 c. @CL 88: There are two loves with the male, of which the one, which is prior, is the love of becoming wise, and the other, which is posterior, is the love of wisdom. But this latter love, if it remains with the man, is an evil love and is called pride or the love of self-intelligence. This love was taken from man lest it destroy him, and was transcribed into woman that it might become conjugial love which reintegrates him, and that this was foreseen from eternity.
 
-7. The soul, the deepest being of a woman is conjugial love, or the love of conjoining good and truth. + 
+7{empty}. The soul, the deepest being of a woman is conjugial love, or the love of conjoining good and truth. + 
 Please note that this next passage is talking about the most universal sphere which flows from the Lord into all created things. No more vital influx from the Lord exists. It is called the sphere of conjugial love. Because it is the most universal, it clearly means, the sphere of the love of conjoining good and truth. Think about that: From the Lord as the Sun of heaven there is this powerful conjunctive force, proceeding, to unite the two parts of creation. Into whom does it flow directly?
 a. @CL 223: This sphere is received by the female sex and through this sex is transferred into the male sex. The masculine is intellectual and the feminine voluntary, and an intellectual form cannot grow warm with conjugial heat from itself but only from the conjunctive heat of one in whom that heat has been implanted by creation.
 b. @CL 160: Women are born loves, but men, with whom they unite themselves that they may be loved in return, are receptions. Moreover, love is continually working.
@@ -1840,7 +1849,7 @@ g. @CL 102: Rational wisdom perceives the truths and goods which appear interior
 h. @CL 165: Rational wisdom is proper to the understanding of men and climbs into a light in which women are not.
 i. @CL 90: The affection of the male is an affection for learning, understanding, and being wise the affection of learning in boyhood, the affection of understanding in adolescence and young manhood, and the affection of being wise from this manhood to old age.... His innate disposition inclines to the formation of an understanding.
 
-8. Perception with women is from a wisdom inherent within her love. Note that the Writings usually speak of this perception in the married state, but three passages (@CL 21, 44 and 156e) make it clear that they have this perception in their dealings with people at large, and that they have it before marriage also.
+8{empty}. Perception with women is from a wisdom inherent within her love. Note that the Writings usually speak of this perception in the married state, but three passages (@CL 21, 44 and 156e) make it clear that they have this perception in their dealings with people at large, and that they have it before marriage also.
 
 a. @CL 166: In order that this union may be achieved, a wife is given a perception of her husbands affections, and also the highest prudence in knowing how to moderate them.
 
@@ -1850,18 +1859,18 @@ c. @CL 156[e]: They then said: Every man has five senses; but we have in additio
 
 d. @CL 156[e]: [In this passage the wives of heaven were immediately perceptive of Swedenborgs state, even though they had never met him before!] The wives looked searchingly into my eyes, and I asked why. They said, We are able exquisitely to see what your inclination is in respect to love of the sex, and hence what your affection, and from this what your thought; and we see that you are meditating on it intensely but yet chastely.
 
-D. Complementary (III): wisdom with both
+D{empty}. Complementary (III): wisdom with both
 
 Please note a little realized fact: the primary thing of wisdom with both men and women has to do with the preservation of marriage. Sometimes we think that this applies only to a womens wisdom. It doesnt.
 
-10. Wisdom with men is insight into truth and how it applies to life. It comes primarily from a willingness to shun adulteries, and to love one wife.
+10{empty}. Wisdom with men is insight into truth and how it applies to life. It comes primarily from a willingness to shun adulteries, and to love one wife.
 
 CL 130: What is wisdom of life? In a comprehensive summary it is this:
 To shun evils because they are hurtful to the soul, hurtful to the commonwealth, and hurtful to the body; and to do goods because they are beneficial to the soul, the commonwealth and the body. This is the wisdom that is meant by the wisdom with which conjugial love binds itself; for it binds itself by shunning the evil of adultery as the pest of the soul, the commonwealth, and the body.
 
 CL 161: Men are receptions [of love] especially according to that wisdom from religion which teaches that the wife alone is to be loved.
 
-11. Wisdom with women is to perceive the states, particularly of the husband, but of all people, and to moderate them gently. In this way women cooperate with the Lord, modeling His secret inner leading (see @CL 293 below).
+11{empty}. Wisdom with women is to perceive the states, particularly of the husband, but of all people, and to moderate them gently. In this way women cooperate with the Lord, modeling His secret inner leading (see @CL 293 below).
 
 CL 168: It is feminine to perceive from love. What pertains to warmth is felt. This perception is the wifes wisdom, and it is not possible with the man; nor is the mans rational wisdom possible with women.
 
@@ -1869,19 +1878,18 @@ CL 166: With the conjunction of the wife with her husbands wisdom as an end, the
 
 CL 294: The male man shall act from freedom according to reason, and his freedom which has regard to inclinations and affections is therefore moderated from within by the Lord Himself, and from without by means of the wife. This she accomplishes in a thousand ways, taking especial care that none of these ways be detected by her husband; for she knows well that love cannot be compelled, but is subtly infused in a state of freedom.
 
-CL 208: From the zeal of love for your happiness [said wives in heaven]
-and at the same time for our own, we pretend not to know them.
+CL 208: From the zeal of love for your happiness [said wives in heaven] and at the same time for our own, we pretend not to know them.
 
-E. Complementary IV: each is superior in some way
+E{empty}. Complementary IV: each is superior in some way
 
-12. With men, it is the ability to see in a deeper light.
+12{empty}. With men, it is the ability to see in a deeper light.
 
 CL 168: It is masculine to perceive from the understanding, and the understanding perceives things which are above the body and beyond the world, it being to these that rational and spiritual sight extends; while love does not go beyond what it feels. When it does go beyond, it does this by drawing on that conjunction with the male understanding which was established by creation.
 
 CL 165: That the conjunction of the wife with the rational wisdom of the man is from within is because this wisdom is proper to the understanding of men and climbs into a light in which women are not
 [the passage goes on to say that they do however, recognize in their husbands, and, it seems, in men in general].
 
-13. With women it is the ability, not just to perceive states in others, but to adapt themselves to them and to help, secretly, to moderate them.
+13{empty}. With women it is the ability, not just to perceive states in others, but to adapt themselves to them and to help, secretly, to moderate them.
 
 CL 208: You men glory over us on account of your wisdom, but we do not glory over you on account of ours; and yet ours excels yours because it enters into your inclinations and affections and sees, perceives, and feels them. You know nothing whatever about the inclinations and affections of your love, though it is these from which and according to which your understanding thinks: consequently, from which and according to which you are wise.
 
@@ -1889,7 +1897,7 @@ CL 156e: In addition a sixth sense, being the sensation of all the delights of t
 
 CL 294: [Swedenborg said] You continually contemplate your husbands with the eyes of your spirit and consider how to turn and guide their hearts to becoming wise.
 
-14. Both these special qualities are from creation.
+14{empty}. Both these special qualities are from creation.
 
 CL 168: [If a womans spiritual sight goes beyond her own loves, it does so] by drawing on that conjunction with the male understanding which was established by creation.
 
@@ -1897,30 +1905,30 @@ CL 293:3 I asked, Whence do you have that wisdom? They answered: it is implanted
 
 CL 223: The masculine is intellectual and the feminine voluntary, and an intellectual form cannot grow warm with conjugial [i.e. conjunctive!] heat from itself, but only from the conjunctive heat of one in whom that heat has been implanted by creation.
 
-F. Complementary V: What first attracts a man to a woman and vice versa. Note what the Writings really mean by beauty.
+F{empty}. Complementary V: What first attracts a man to a woman and vice versa. Note what the Writings really mean by beauty.
 
-15. A young man is attracted to a young womans beauty. (@CL 98)
+15{empty}. A young man is attracted to a young womans beauty. (@CL 98)
 
 AC 5199: Spiritual beauty is the affection of interior truth. Beauty is not produced by the truth of faith, but by the affection itself within the truths of faith, which is from good.
 
 AC 3080: The damsel exceedingly good to look upon signifies beauty of the affection of truth in which there is good [also in which is innocence].
 
-15. A young woman is attracted to a young mans morality (@CL 98).
+15{empty}. A young woman is attracted to a young mans morality (@CL 98).
 
 AC 4574: In civil and moral life there exist what is honest and what is becoming. What is honest is to will well to others from the heart in the affairs of civil life, and what is becoming is to testify this in speech and gesture.
 
-G. Complementary VI: The understanding of a woman (sometimes translated intellect) is superior to that of a man before he is united to her:
+G{empty}. Complementary VI: The understanding of a woman (sometimes translated intellect) is superior to that of a man before he is united to her:
 after union, the male understanding becomes gentle, thus a recipient of wisdom.
 
-16. @CL 218: The intelligence of women is by nature modest, gracious, peaceable compliant, soft and gentle, while the intelligence of men is by nature critical, rough, resistant, argumentative, and given to intemperance.... With respect to their speech, mens is given to intemperance and argumentativeness, while womens is modest and peaceable.... The nature of men and the nature of women are different even from the time they are born.... [Swedenborg saw young boys fighting and being noisy, and the girls sitting quietly.] I could also see what the nature of the intellect is and what the nature of love is in their beginnings, and thus what a mans intellect in its development would be like without conjunction with feminine love and eventually conjugial love. (Note the implication of the last few words a man may be gentled by the feminine sphere before he is married.)
+16{empty}. @CL 218: The intelligence of women is by nature modest, gracious, peaceable compliant, soft and gentle, while the intelligence of men is by nature critical, rough, resistant, argumentative, and given to intemperance.... With respect to their speech, mens is given to intemperance and argumentativeness, while womens is modest and peaceable.... The nature of men and the nature of women are different even from the time they are born.... [Swedenborg saw young boys fighting and being noisy, and the girls sitting quietly.] I could also see what the nature of the intellect is and what the nature of love is in their beginnings, and thus what a mans intellect in its development would be like without conjunction with feminine love and eventually conjugial love. (Note the implication of the last few words a man may be gentled by the feminine sphere before he is married.)
 
 CL 56: [An angel said] The Lord has taken the beauty and grace of life from man and transcribed them into woman. Hence, without reunion with his beauty and grace in woman, a man is stern, austere, dry, and unlovely; not is he wise save for himself alone, and then he is stupid. But when man is united with his beauty and grace of life in his wife, he becomes agreeable, pleasant, animated, and lovely, and thus wise.
 
 [Later in that passage] After these sentiments had been expressed, the wife appeared through the crystal partition and said to her husband, Speak, if you please. And when he spoke, the life of wisdom from his wife was perceived in his speech; for her love was in the tone of his voice. Thus experience bore witness to truth.
 
-H. Closing summary
+H{empty}. Closing summary
 
-17. The soul of a man manifests its strength in the regenerative series, where truth appears to lead the way. Hence the church is formed first in the husband, and if not, then order is inverted. (@CL 63, 125)
+17{empty}. The soul of a man manifests its strength in the regenerative series, where truth appears to lead the way. Hence the church is formed first in the husband, and if not, then order is inverted. (@CL 63, 125)
 
 The soul of a woman manifests its strength in the conjunction of love and wisdom in use. Her soul provides the connection between truth and good, and between men and women. Such connection manifests itself in tenderness (@SD 6110[2]; @CL 330; Missing index 2019). It is also shown in the love of friendship, and the protection of it (@CL 167).
 
@@ -1928,7 +1936,7 @@ Note @CL 156[e]: The husbands then said: Our wives know all the states of our mi
 
 Note that friendship implies also trustworthiness, and communication.
 
-18. The souls of men and women are different, and all that flow from them are thus different, yet, of the Lords great mercy, perfectly complementary. If men and women are to fulfill their destinies, individually and together, they need to pursue the qualities the Lord has revealed. Pursuing something else has always resulted in an imbalance between the sexes, and a further delay in the restoration of love truly conjugial.
+18{empty}. The souls of men and women are different, and all that flow from them are thus different, yet, of the Lords great mercy, perfectly complementary. If men and women are to fulfill their destinies, individually and together, they need to pursue the qualities the Lord has revealed. Pursuing something else has always resulted in an imbalance between the sexes, and a further delay in the restoration of love truly conjugial.
 
 CL 81e: After His advent, conjugial love will be raised up anew by the Lord, such as it was with the ancient peoples; for this love is from the Lord alone and is with those who are made spiritual by Him through the Word.
 
@@ -2092,7 +2100,7 @@ This doctrine is unique to the New Church, and within it lies the secret of how 
 
 The entire doctrine of repentance hinges on acknowledging the power of two totally hostile forces inside of us. The old will has to be separated completely from the new will and from the understanding (@AC 933; cf. 1034). When a person has been regenerated... all things in him have life, and the life they have bears an exact proportion to the degree in which his own will - which is foul and dead - can be separated from the new will and understanding that he has received from the Lord (@AC 1040[3]).
 
-2. The old will doesnt go away
+2{empty}. The old will doesnt go away
 
 Sincere people in the world around us have recognized the reality which this teaching declares. People who counsel alcoholics or drug abusers impress on them that the desire to drink or take drugs will stay with them all their lives: only constant vigilance will save them. It is so with many other evils - with child abuse, for example.
 
@@ -2106,7 +2114,7 @@ Watch and pray, lest you enter into temptation. The spirit indeed is willing, bu
 
 And what I say to you I say to all: Watch! (Mark 13:37).
 
-3. A loss of perception
+3{empty}. A loss of perception
 
 When humankind turned to evil one of our biggest losses was the ability to see clearly. We need to remember that this is not our fault, but it is a reality nonetheless.
 
@@ -2150,7 +2158,7 @@ In our society today transgressors are being encouraged more and more to admit t
 
 Is it hard? Consider this passage from the Writings on why we wont even admit our evils in private. It is strange that anyone can find fault with another for his evil intentions and say, Do not do that because it is a sin, and yet find it difficult to say this to himself; but this is because the latter touches the will, but the former only the thought nearest to hearing (@TCR 536).
 
-2. Fear of condemnation
+2{empty}. Fear of condemnation
 
 Probably the greatest reason why people who are caught doing something wrong plead for secrecy is because they fear the condemnation of others. They feel sure people will revel in their downfall, and they will never get a chance to come back into society.
 
@@ -2167,7 +2175,7 @@ The Pharisees thought that Jesus shouldnt spend time with the sinners. There is 
 
 The trouble is that condemnation is so much fun! How can we balance the appropriate disapproval of evil with that primary longing of our Lord - to call sinners to repentance?
 
-3. Without step # 1, nothing more can happen
+3{empty}. Without step # 1, nothing more can happen
 
 I am referring here to the willingness to accept responsibility for what one has done. Unless that is clearly admitted, the church cannot offer help.
 
@@ -2185,7 +2193,7 @@ And society seems to support him. We hear things like, Theres never an innocent 
 
 I dont mean to suggest that people dont commit evils under pressure. We must try to excuse where excuses are real. We must have sympathy for the pressures others live under. It is avoidance, or the unfair shifting of blame that must not be encouraged.
 
-4. After step # 1 occurs, we should concentrate on progress
+4{empty}. After step # 1 occurs, we should concentrate on progress
 
 I have acknowledged my sin to You, and my iniquity I have not hidden. I said, I will confess my transgression to the Lord, and You forgave the iniquity of my sin (Psalms 32:5).
 
@@ -2193,13 +2201,13 @@ We all know that lip confession does no good. Heartfelt acceptance of our faults
 
 What should society do? Clearly it too should focus on how to help a person to overcome a problem. And it should offer the hope of forgetting the transgression as soon as that is reasonable. Remember, we cant forget until the danger is past.
 
-5. Recovery is a journey
+5{empty}. Recovery is a journey
 
 I well remember punishing a student for something he had done which was not good. Almost immediately he wanted to forget it ever happened.
 
 Thats fine for children. They dont purposely do wrong. For us adults, overcoming something wrong takes a lot of time.
 
-6. Probing the evil
+6{empty}. Probing the evil
 
 This is a step we tend to ignore. Were all embarrassed if someone has admitted to doing something wrong, so we want to pass on to the comforting phase. Yet step # 2 is Seeing and acknowledging ones evils. That means understanding them.
 
@@ -2209,7 +2217,7 @@ Thats strong language. Note the term, thoroughly acquainted with evils. If we do
 
 Surely the church can be of help here. We try hard to help people to prepare for the good parts of their lives - for weddings, or baptisms. Today we are trying, I think, to help them more and more with the hard parts. Do you have suggestions for helping people to understand the anatomy of a particular evil? One minister was once interested in preparing a dossier on each of the Ten Commandments to help people who are wrestling with a particular problem. Other ministers are trying something similar with spiritual growth courses. We can do more. Take one example. In parts of our society today sexual fantasy is considered relatively acceptable. The Writings speak a lot about fantasy and about the presence of evil in the imagination and the harm it does. Are some of our married couples being encouraged by articles they read to think that unchaste fantasy is acceptable, while we remain silent on the anatomy of this evil?
 
-7. Making yourself guilty
+7{empty}. Making yourself guilty
 
 We know that guilt can be a crippling thing, if we let the evil spirits take possession of our minds and condemn us. We also know that it is one, very necessary step towards recovery.
 
@@ -2223,12 +2231,12 @@ The Lord led him to search out his evils, He disclosed them and inspired grief f
 
 The Lord inspires grief, yet He does not impute the evil. As the Lord is mercy itself, He forgives all people their sins, nor does He impute a single sin to anyone, for He says, They know not what they do (@TCR 529).
 
-7. Confession
+7{empty}. Confession
 
 Father, I have sinned against heaven and before You and am no longer worthy to be called Your son (Luke 15:18). The church can (and does)
 provide help to people who feel the need to speak to the Lord about their sins. As we know, this is an internal confession. It does no harm for one burdened in conscience to enumerate his sins before a minister of the church, in order to lighten his burden and obtain absolution. But this kind of confession is natural, while that described above is spiritual (@TCR 539). What a Roman Catholic does before a priest, we all should do in private before God (@AR 531).
 
-8. Prayer
+8{empty}. Prayer
 
 Although it would seem self-evident, we should not omit the thought that the church should encourage people wrestling with their faults to pray regularly.
 
@@ -2238,7 +2246,7 @@ Evening prayer allows us to look back, to see what went right and what went wron
 
 We should, however, remember that every truth we utter is a prayer, which the Lord answers immediately. This is a powerful thought for all who are in combat.
 
-9. Making amends
+9{empty}. Making amends
 
 Some of my colleagues disagree with my interpretation of the story of Zacchaeus. Im sorry to be so intransigent, and I really dont want to side-track the important subject of this paper with a debate on a small point. I do believe, however, that this story powerfully illustrates the responsibility of one who has done evil to make amends.
 
@@ -2258,7 +2266,7 @@ A person who has hurt others may not be able to help them. He should signify his
 
 Making amends is important. Without some effort on the part of the transgressor, how can people know that he truly feels the gravity of what he did?
 
-10. Desisting from evil and living a good life
+10{empty}. Desisting from evil and living a good life
 
 Here is a real problem. If society is going to be able to forget someones past faults, it needs to be sure that they are really in the past. How does he prove that?
 
@@ -2279,7 +2287,7 @@ Baptism, the Holy Supper and worship in general are all signs of our covenant wi
 
 Note that none of these things are proofs: they are only signs (@AC 2042). The real sign of repentance is what someone does over a period of time. Demonstrating a change of heart takes time. People may be impatient to have a phase of their lives forgotten. We can all understand that; but confidence once lost takes time to rebuild. I used to tell teenage students that I will take their word - unless I found that they lied. Then they would have to work to reestablish the trust I once automatically showed to them.
 
-11. Constantly watchful
+11{empty}. Constantly watchful
 
 Nothing will help to restore a person more surely in the eyes of society than his admission that he needs to be watchful for all of his life on this earth against the problems which beset him. This takes us back to the first premise - that sins are not wiped out, that the old will is with us always (@AC 868 et al). That humility has an appeal to which all but the most sanctimonious will respond.
 

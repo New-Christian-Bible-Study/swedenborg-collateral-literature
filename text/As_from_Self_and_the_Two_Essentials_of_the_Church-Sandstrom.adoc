@@ -4,6 +4,7 @@ include::../template-attributes.adoc[]
 
 //this is a partial of something larger//
 
+== {empty}
 One might say that reception, the existere of love, is the life of our love, or from our love, which we feel as if it were our own, though both our love itself and all the lifeforms from it, are and exist solely from the Lord, by touch.
 
 Summing up this section we therefore conclude: That what is received, namely life inflowing from the Lord, is Divine; but that the recipient (or that which receives the Lord's life by contiguity and not by continuity), thus the esse or love of man, is created and finite; and that reception, since it is the existere of that esse (or the coming forth of that love) is created and finite also. The recipient itself, and the reception itself, are together what is called "the life of man."

@@ -9,11 +9,7 @@ sourcedir='../text'
 pdfdest='../pdfs'
 epubdest='../epubs'
 
-#fail () {
-#	echo "directory $1 not found" && exit
-#}
-#[ -d $pdfdest ] || fail "$pdftest"
-#exit
+[ -f /tmp/adoc.log ] && rm /tmp/adoc.log
 
 createpdf () {
 #	echo "Creating $pdfdest/$title.pdf from $sourcedir/$title.adoc"
