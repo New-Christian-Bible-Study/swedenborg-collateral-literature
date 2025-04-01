@@ -1,0 +1,88 @@
+== Style Guide for NCBS Collateral Literature
+a work *in progress* ........   {docdatetime}
+//:doctype: book
+
+.Note
+NOTE: This document is quite raw at this stage of development. 
+
+For reviewing this in VSCode, + 
+open the source file using the Explorer, + 
+and preview it on the right. + 
+(instructions elsewhere, eventually)
+
+##[.underline]#Comments:###
+For inserting unprinted comments into the file,
+ [.underline]#_see this file's source._#
+
+
+// As in the header above for :doctype:, two slashes start a comment line. As in the block below, four slashes start and end a comment block.
+
+////
+Editors' comments and notes
+
+
+(end of Editors' comments
+////
+
+##[.underline]#Line Breaks:###
+
+You'll readily note that two separated
+but adjacent 
+lines will be joined into a seamless flowed paragraph. + 
+_here again, compare the source with the preview_ + 
+For separating short lines, + 
+without a blank line between them + 
+append the spaceplusspace sequence  ` + `
+
+##[.underline]#Page Breaks:###
+
+following a blank line, a new line starting with three '<' characters:
+
+<<<
+
+Note that this kind of markup only works for document types which understand page breaks. The default document type (:doctype:) is html. + 
+Changing the doctype happens in the header section at the top of the file. + 
+_See there for this._
+
+
+##[.underline]#Footnotes:###
+
+In accommodation of many of our source files, the asterisk(*) is adopted for footnotes. 
+
+(*)But since it conflicts with the markup's uses, we enclose it in parens, below the insertion block, separated by a blank line, as shown here and below.
+
+In some cases(*1), there is a need for multiple footnotes(*2) in the same line.
+
+(*1). the source would use multiple asterisks
+
+(*2). I couldn't get that to work in AsciiDoc
+
+There have also been numbered footnotes (23) in documents prepared for maybe an endnotes section.
+
+(23). They came with wrapping parentheses.
+
+In order to match the footnote insertion with the footnote explanation, the regex format is `\([*0-9.]+\)`
+
+
+
+a horizontal line separator, generated with three dashes following a blank line, as below:
+
+---
+Many source files used a multiple of asterisks, some with alternate spaces, for this use. Again, incompatible conflict with AsciiDoc's need for asterisks.
+
+##[.underline]#Ordered Lists:###
+
+This has been a pretty big headache. Read about it here:
+
+Escaping the List marker : insert '{empty}' before the period + 
+https://docs.asciidoctor.org/asciidoc/latest/lists/ordered/#escaping-the-list-marker
+
+
+---
+'''
+=== References:
+
+This page catalogs all the built-in (i.e., reserved) document attributes in AsciiDoc:
+https://docs.asciidoctor.org/asciidoc/latest/attributes/document-attributes-ref/
+
+
