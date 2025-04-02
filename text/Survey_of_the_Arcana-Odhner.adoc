@@ -2,16 +2,10 @@
 By Hugo Lj. Odhner - Bryn Athyn, Pennsylvania
 include::../template-attributes.adoc[]
 
-Problem with source text in gray italics ???
-//// 
 
-EDITORS' NOTES:
-Throughout this text there exists a sequence of bracketed {numbers} which appear to be something of footnotes, being numbered sequentially, for which I have no source. 
-There are also regular inline footnotes(*)
-
-(end of editors notes)
-
-////
+//EDITORS' NOTES:
+// Throughout this text there exists a sequence of bracketed {numbers} which appear to be something of footnotes, being numbered sequentially, for which I have no source. 
+// There are also regular inline footnotes(*)
 
 
 "Of the Lord's mercy I too have been permitted to see the Lord's Word in its beauty in the internal sense, and this many times: not as it is when the words are being explained as to the internal sense in detail, but with all things both in general and in particular brought together into a single series or connection, which one can call a seeing of a heavenly paradise from the earthly one." - Swedenborg, in Arcana Coelestia, par.1772 {1}
@@ -1520,19 +1514,19 @@ Man's freedom. Nos. 2870-2893 +
 IV +
 Concerning the Word. Nos. 2894, 3004-3011 +
 Representations and correspondences. Nos. 2987-3003, 3213-3227, 3337-3552, 3472-3485 +
-Explication of Matthew xxiv. Nos. 3353-3356, 3386-3489 +
+Explication of Matthew 24, Nos. 3353-3356, 3386-3489 +
 Correspondence of man's organs and members with the Grand Man. Nos. 3624-3649 +
 
 
 V +
-Explication of Matthew xxiv. Nos. 3650-3655, 3751-3757, 3897-3901, 4056-4060 +
+Explication of Matthew 24, Nos. 3650-3655, 3751-3757, 3897-3901, 4056-4060 +
 Correspondences with the Grand Man. Nos. 3741-3750 +
 Heart and lungs, 3885-3896. Cerebrum and cerebellum, 4039-4055. Nos. 4218-4228 +
 
 
 VI +
-Explication of Matthew xxiv. Nos. 4229-4231, 4332-4335, 4422-4424 +
-Explication of Matthew xxv. Nos. 4635-4638, 4661-4664, 4807-4810 +
+Explication of Matthew 24, Nos. 4229-4231, 4332-4335, 4422-4424 +
+Explication of Matthew 25, Nos. 4635-4638, 4661-4664, 4807-4810 +
 Correspondences with the Grand Man. The Senses in general, Nos. 4318-4331 +
 The eye and light, Nos. 4403-442l, 4523-4534. Odor and the nostrils, Nos. 4622-4634 +
 Hearing and the ears, Nos. 4652-4660 +
@@ -1541,7 +1535,7 @@ The hands, feet, and loins, Nos. 4931-4953 +
 The consummation of the age. No. 4535 +
 
 VII +
- Explication of Matthew xxv. Nos. 4954-4959, 5063-5071 +
+ Explication of Matthew 25, Nos. 4954-4959, 5063-5071 +
 Correspondences with the Grand Man. The loins and the members of generation, Nos. 5050-5062 +
 The interior viscera, Nos. 5171-5190, 5377-5396 +
 The skin, hair and bones, Nos. 5552-5573 +

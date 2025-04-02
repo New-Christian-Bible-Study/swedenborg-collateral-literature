@@ -272,7 +272,7 @@ Even when he was in appearance seeking information from good or evil spirits or 
 (*41.) WE 7006 + 
 (*42.) @TCR 779[e] + 
 (*43.) @SD 4034, 1647 + 
-(*44.) Inv. vii, 55, Coro. Mir. iv
+(*44.) Inv. 7, 55, Coro. Mir. iv
 
 If we are to study Swedenborg's testimony as to the spiritual world, it is of course important to understand the unique state in which he was able to explore that world as no other man had. For although - for the sake of preparation and instruction - he was permitted to pass through many experimental states, and among these also to experience "visions" such as those of the prophets, he affirms solemnly that the things which he had seen habitually in the other life for so many years and described, were in no wise visions "but things seen in the highest wakefulness of the body."(*45)
 
@@ -489,7 +489,7 @@ The Writings thus show us that the miracle of birth is a one with the miracle of
 
 It is now distinct and carries with it a distinct heredity different from that of any other being. The soul dwells in the whole body, since it is a spiritual substance of which we can predicate "impletion," but not extension. As the supreme formative essence, it is active in every fibre, cell and tissue.(15) But it is not yet appropriated to the future child. It is merely a loan from God. It is present in the ultimate organics of the body, but is not yet wedded to the flesh, not yet appropriated by the body which it has fashioned. 14. @TCR 103, @CL 172, 183:4, 220:2, 315:11, @DP 277[3]. The paternal heredity includes not only the 'inmost' or 'human internal', but also the form or inclination of the father's loves and affections-thus his mind as to its interiors. This heredity "remains to eternity." (@AC 1573[3]) That the sex is from the seed of the father, is known. 15. @AC 3570[4], @DWis 7:2:4
 
-We read in Genesis that the Lord God formed man out of dust of the ground, and then breathed into his nostrils the breath of life, and so man "became a living soul." Only by the first breath of earth's air, or, as the Writings say, by the opening of the lungs, does the soul obtain immortality. For the respiration of the lungs is a condition of consciousness. No feeling of self-life is possible, no sensation is felt, as long as the lungs are inactive. The cerebrum, in which we consider consciousness to operate, must be stimulated by the oxygen breathed into the lungs and carried up to the brain by the bloodstream. The brain, which in prenatal life has been conjoined with the motion of the heart, becomes instead harmoniously attached to the rhythm of breathing, and takes up the conscious government of its body.(16) Life, which had hitherto been directed solely to the formation of the body, is thus short-circuited in the intricate organic network of the cortical cells and fibres of the cerebrum, and the soul begins to realize its individual independence for the first time! The body is born-but also the spirit! 16. @DLW 401, 407, @DWis 3:5, 6, v, vi. 8, 9
+We read in Genesis that the Lord God formed man out of dust of the ground, and then breathed into his nostrils the breath of life, and so man "became a living soul." Only by the first breath of earth's air, or, as the Writings say, by the opening of the lungs, does the soul obtain immortality. For the respiration of the lungs is a condition of consciousness. No feeling of self-life is possible, no sensation is felt, as long as the lungs are inactive. The cerebrum, in which we consider consciousness to operate, must be stimulated by the oxygen breathed into the lungs and carried up to the brain by the bloodstream. The brain, which in prenatal life has been conjoined with the motion of the heart, becomes instead harmoniously attached to the rhythm of breathing, and takes up the conscious government of its body.(16) Life, which had hitherto been directed solely to the formation of the body, is thus short-circuited in the intricate organic network of the cortical cells and fibres of the cerebrum, and the soul begins to realize its individual independence for the first time! The body is born-but also the spirit! 16. @DLW 401, 407, @DWis 3:5, 6, v, 6, 8, 9
 
 Memory and Personality
 
@@ -1189,7 +1189,7 @@ What Is Meant by "The Spiritual World"
 (104). @DLW 163
 (105). Lord 62, @DLW 83-92
 (106). @DLW 154, 340, @AE 1206[3], 1207:4, @SD 4585f, Coro. 19 etc. 107. @AE 1207[3]
-(108). @CL 320,328, 207, @SD 4066, Can., God iv, @HH 89
+(108). @CL 320,328, 207, @SD 4066, Can., God 4, @HH 89
 109 @TCR 76, 33
 (110). Can., God iv
 
@@ -1582,7 +1582,7 @@ But it is specially provided that although spirits can insinuate their special a
 (58). @SD 5607, 5617. The remarkable fact seems to be that the spirits most closely associated with us are often doing what we are doing at the time. They sleep (@SD 3231f, 3418), dream (@SD 7, 664, 2436, 3792), and eat (@SD 3566) at the same time as man. But guardian spirits who insinuate dreams into a man, are awake while the man sleeps. (@SD 3231f., @AC 1977ff) To confirm, this, Swedenborg-as a spirit-was allowed to induce dreams upon a man who was sleeping. (@SD 3181)
 
 (59). @AC 5853, 1880
-(60). @SD 4001, 3782f, 4114 1/2, @AC 5858ff 61. @AC 5851, De Ver. xiii, @HH 298
+(60). @SD 4001, 3782f, 4114 1/2, @AC 5858ff 61. @AC 5851, De Ver. 13, @HH 298
 (62). @HH 292[2]
 (63). @SD 1928, 1938, 2928, @AC 5853, 5858ff, 5862, @TCR 137
 
@@ -1766,7 +1766,7 @@ It seems to unfold before them in pictorial forms appearing in utmost reality an
 (120). @AE 926[2]
 (121). @AE 582[2], @AC 1764
 (122). @AC 4528[2], cp @SD 5943
-(123). @SD 4214f, @DLW 322,432, @TCR 78; Can., God iv, 12 (margin); AE
+(123). @SD 4214f, @DLW 322,432, @TCR 78; Can., God 4, 12 (margin); AE
 1211:4
 
 Speaking is a bodily function. But spiritual speech is utterly different from earthly languages. It is "not one of material words, but of spiritual words, which are ideas modified into words in a spiritual aura"- indeed, in the lowest atmosphere there, which serves as the spiritual air.(124) "It is distinguished into words equally as is human speech; it is also uttered and heard with equal sound"; yet "it affects not only the ears but also the interiors of the mind."(125)
@@ -1805,7 +1805,7 @@ Indeed, spirits can also make calculations at incredible speeds.(135)
 Swedenborg testifies that when he was among spirits in the state of a spirit, he also could speak with them in their own speech, and was then ignorant of his own languages or his own sphere of ideas.(136) But when he returned into his natural state, the spirits, if still with him, communicated in his own vernacular. If he then strove to retain in his memory the spiritual expressions, whether as sounds or as alphabetic writing, he found them utterly meaningless. But he learnt that each letter or sound in the language of spirits had a distinct correspondence and that their words were formed spontaneously. The letter L, for instance, meant both "a horse and chariot" and "the understanding of doctrine." Not one angelic expression coincided with any earthly word. Yet some spiritual expressions-like other spiritual objects-had an external resemblance to some natural words of different meaning-as was the case with the words "bono," "vita," "vitam velle"-or only as to sound, as "rua raha" or "scapuleja." The name of a certain nuptial garden was, for instance, "Adramandoni."(137)
 
 (136). @CL 326, De Ver. 5, 6, @SD 5102[3], 5770, 5589, @AC 9094, 3346, cp 6210, @AR 961, @HH 255, 239:2
-(137). These instances are given in @SD 6063, 6090, 4866, LJ post. 324, De Ver. iii (9), xxvi, and @CL 183
+(137). These instances are given in @SD 6063, 6090, 4866, LJ post. 324, De Ver. iii (9), 26, and @CL 183
 
 ---
 
@@ -2936,7 +2936,7 @@ In these representatives from the Word, the lower angels have a perception of th
 
 And what is it that is represented to the senses and the minds of all in the spiritual world, unless it is the presence and operation of the Lord and the reception of His love and wisdom in the human minds of angels and spirits?
 
-The world of nature displays the gifts which the Creator offers to mankind as the means of eternal happiness. But the spiritual world reveals the measure in which men finally make use of these gifts - for good or for ill, The world of men is like a field where the Sower plants the seeds of truth. In the spiritual world comes the harvest, which may be thirtyfold, or sixtyfold, or a hundredfold; but which also contains the tares and thorns and poison things which the enemy has planted.(39) The heavens and the hells and their innumerable societies-separated and distinguished in most discriminating detail-are perceived by the spiritual senses in their common relation to the Lord and to each other. All the phenomena of the spiritual world conspire to reveal this internal relationship, to represent how each soul receives the Divine seed of life and responds to it by filling a place-freely chosen-in the kingdom of eternal uses. 39. Matthew 13
+The world of nature displays the gifts which the Creator offers to mankind as the means of eternal happiness. But the spiritual world reveals the measure in which men finally make use of these gifts - for good or for 99, The world of men is like a field where the Sower plants the seeds of truth. In the spiritual world comes the harvest, which may be thirtyfold, or sixtyfold, or a hundredfold; but which also contains the tares and thorns and poison things which the enemy has planted.(39) The heavens and the hells and their innumerable societies-separated and distinguished in most discriminating detail-are perceived by the spiritual senses in their common relation to the Lord and to each other. All the phenomena of the spiritual world conspire to reveal this internal relationship, to represent how each soul receives the Divine seed of life and responds to it by filling a place-freely chosen-in the kingdom of eternal uses. 39. Matthew 13
 
 One phase of this reception of the Divine love and wisdom is represented in the three heavens, which mark the degree to which men have attained in their life of regeneration, or how far their rational minds have been opened interiorly. The three heavens represent successive states, therefore, as well as final achievements. A salvable spirit might therefore be introduced first into "the heaven of spirits," then into "the heaven of angelic spirits," and eventually into "the angelic heaven," before he has found his eternal home.(40)
 
@@ -2958,7 +2958,7 @@ This is, among men, the greatest concern of governments, both of nations and of 
 
 But imagine what infinite wisdom and power must be required to order that eternal world: That world into which the Lord receives daily inestimable numbers of spirits who by a thousand secret ways are led, each to the place of his life in the heavens or the hells. "Man's spirit is nothing but an affection."(2) Each soul represents a different affection-and all vary and conflict unless so placed relative to the rest that each has his freedom and delight and his greatest possible usefulness, howsoever the heavens and the hells are multiplied to eternity.(3)
 
-(2). Love ix, x 3. @AE 726 (i)
+(2). Love 9, x 3. @AE 726 (i)
 
 It is a part of the Divine government to separate the heavens and the hells, to ordinate the heavens according to the degrees of good loves, in a trinal order, and also to arrange the hells according to their opposition to these heavenly loves. "From the necessity of order, heaven is threefold."(4) There are therefore three heavens and three hells; which represent the degrees to which men have allowed themselves to be regenerated by the Lord or the degrees to which they have confirmed themselves in evils and falsities. 4. @HH 29
 
@@ -3550,7 +3550,7 @@ Each society is a form of use. Within the society, mutual love binds all togethe
 
 In the attempt to picture what the life of heaven might be like, Christians have gone to various extremes. Some have thought that heaven was to be a material paradise planted on earth after this had been purged and renovated by the fire of the last judgment-an abundant paradise in which the elect of God without labor were to enjoy the utmost luxuries after their spirits had been reincarnated in their earthly bodies. Others, rejecting such gross concepts of eternal happiness, have imagined that the souls of the blessed, after death (and possibly to eternity), would remain as unembodied minds in a perpetual state of ecstasy. Both these ideas sprang from an inability to see that the spirit of man after death remains a man, in a spiritual body, having heart and lungs and brain and senses, and thus a complete human life in a complete and permanent spiritual world.(1)
 
-(1). Wis. vii.
+(1). Wis. 7,
 
 The life of heaven is a complete human life, and the blessedness of the angels comes from a love of uses, from a delight in cooperating with other spirits in acts of charity and mutual service.
 
@@ -4134,7 +4134,7 @@ The first requirement for satisfying their hunger - for drawing in the knowledge
 That this is the case appears from the following teaching. After describing the evil as being interiorly insane, our quotation states:
 "There is this sole remedy for their insanity - to be put to work in hell under a judge. So long as they are at work there, they are not insane; for the works with which they are occupied hold the mind, as it were, in prison or bonds, to prevent its wandering into the delirious fancies of their lusts. Their tasks are done for the sake of food, clothing, and a bed, thus unwillingly from necessity, and not freely from affection."(10)
 
-(10). Love xv, cp LJ post. 230, @AE 122
+(10). Love 15, cp LJ post. 230, @AE 122
 
 The second requirement is that evils, when they are indulged in, should bring punishments upon them. These punishments are necessary because through them something of the life of reason is restored. And reason, sufficient to see facts, speak truth, and perform uses, is necessary if spirits are to draw knowledge - or have spiritual food. All punishment is "done for the sake of the amendment" of the spirit.(11) For the penalties are such that they as it were take away the evils, or imbue the faculty of doing what is good; thus, in themselves, all the punishments are vastations, because they devastate evils by the putting on of the faculty of speaking truth and doing good; and this faculty is a something superadded - the gift of the Lord;
 
@@ -4700,7 +4700,7 @@ Yet even the creations of phantasy are correspondences, but they correspond to u
 
 For this reason phantasies cannot be maintained for long. They come to a sudden forcible end by encountering some bitter reality that cannot be evaded. An evil spirit cannot live in a dream-world for long. He is, after all, an inhabitant of a very real world - the spiritual world - which has its unchanging laws. He is a member of a society on which he depends for subsistence. He has a spiritual body which hungers and thirsts and feels cold and heat. His enjoyable life of phantasy can be fed only by contacts with the actual world around him. He has no power even to think and will unless he can have a share of spiritual food to sustain him. And the Writings state that food in the spiritual world "is similar to food in our world, but it is from a spiritual origin and is given from heaven by the Lord to all according to the uses they perform; to the idle, nothing is given, because they are useless."(17)
 
-(17). @AR 153, vii.
+(17). @AR 153, 7,
 
 The Food of the Devils
 
@@ -4731,7 +4731,7 @@ Such vagrant spirits may wander about in deserts for a time. But eventually they
 
 Those in the world of spirits - not yet in hell - may spend their wages on bread, which can be bought from good spirits who work for their living willingly and thus have some abundance. But foods other than bread cannot be bought.(26) Even those in hell are nourished by such food, which in their case is coarse and sparse. Their spiritual bodies are thereby restored with a sense of wellbeing, even if they complain about the quality and quantity of what they are given. 26. @SD 6088
 
-It is to be noticed that even as angelic happiness lies in the performance of uses and responsibilities, so the evil spirits are relieved of their insanity and of the pressure of their evil delights, so far as their minds are held to their work. In fact, when they are performing their tasks, which are described as menial and vile, they "are not so much in torment."(27) For even though the devils do their work grudgingly, from necessity rather than from choice, yet their labor assists them to forget themselves to some degree; and it is the remembrance of self that is the cause of most human unhappiness. 27. Love xv, @AC 696
+It is to be noticed that even as angelic happiness lies in the performance of uses and responsibilities, so the evil spirits are relieved of their insanity and of the pressure of their evil delights, so far as their minds are held to their work. In fact, when they are performing their tasks, which are described as menial and vile, they "are not so much in torment."(27) For even though the devils do their work grudgingly, from necessity rather than from choice, yet their labor assists them to forget themselves to some degree; and it is the remembrance of self that is the cause of most human unhappiness. 27. Love 15, @AC 696
 
 Uses in the Hells
 
@@ -4739,7 +4739,7 @@ It might be questioned what kind of uses the evil spirits in hell are able to pe
 . . do not fall into the ideas of natural thought."(28) Certain heavenly uses, having to do with instruction or the communication of affections and thoughts, can be conceived as purely spiritual. But other spiritual uses can be thought of only in their correspondential appearance; for indeed they appear as earthly occupations, as a multitude of trades and manufactures, having to do with nourishment, clothing, habitation, recreation, etc.(29)
 
 It must be understood that in heaven all these functions concern spiritual exchanges of knowledges and delights which are the real commodities that are shared by human minds. 28. @AE 1226
-(29). Cp. @AE 1191, Wis. vii, 5, Char. 142, @DLW 333
+(29). Cp. @AE 1191, Wis. 7, 5, Char. 142, @DLW 333
 
 It is told, in the Spiritual Diary, that in the other life "there must be no one who does not perform a use, to his world, to the human race, to the world of spirits, to heaven. . ."(30) Thus even devils perform uses. And we are reminded that in the human body, there are excretions from various organs that serve a use even though vile: as for instance the bile which aids in digestion, and even certain lymphs rejected by the brain, which temper the blood. And these excrementitious matters contain valuable chemicals, such as minerals, which are salvaged by the bloodstream and used again in the economy of the body, much as manure is utilized to enrich the soil of the fields.(31)
 
@@ -5917,7 +5917,7 @@ That the Lord had now subjugated the hells and ordered the heavens was indeed cl
 (27). @AR 866
 (28). @HH 426, 498, @AR 866, @SD 5361
 ----
-The reason the normal processes of judgment are now again operative in the world of spirits, and everyone is borne to his place in heaven or hell according to his life, is that the equilibrium between heaven and hell, which was at the point of perishing, is now restored, and the communication of heaven with men is no longer Cut off.(29) No man was ever born who could not be in free choice. But before the judgment spirits could not progress or advance according to that choice, but were arrested and detained. Even the happiness of the angels of heaven was diminished when the powers of evil had secured footholds in the lower heavens. And the doctrine states that "unless judgment were then executed, no man on earth would be saved, nor could any angel in the heavens remain in his state of safety."(30) For man as to his spirit is in the world of spirits, and his spiritual freedom depends on the equilibrium there between heaven and hell. 29. @AE 754[3], Can. Rdn ii, v; @LJCont 11, @HH 589ff, LJ 33f 30. Can. Rdn v:9
+The reason the normal processes of judgment are now again operative in the world of spirits, and everyone is borne to his place in heaven or hell according to his life, is that the equilibrium between heaven and hell, which was at the point of perishing, is now restored, and the communication of heaven with men is no longer Cut off.(29) No man was ever born who could not be in free choice. But before the judgment spirits could not progress or advance according to that choice, but were arrested and detained. Even the happiness of the angels of heaven was diminished when the powers of evil had secured footholds in the lower heavens. And the doctrine states that "unless judgment were then executed, no man on earth would be saved, nor could any angel in the heavens remain in his state of safety."(30) For man as to his spirit is in the world of spirits, and his spiritual freedom depends on the equilibrium there between heaven and hell. 29. @AE 754[3], Can. Rdn 2, v; @LJCont 11, @HH 589ff, LJ 33f 30. Can. Rdn v:9
 
 After the Last judgment the prayers which are addressed to an impersonal God or to a Godhead of three persons, or prayers which are offered from a state of faith without charity, can no longer be heard, but are driven back like smoke before the wind.(31) For the response to such prayers comes only from spirits cast down from heaven. 31. @TCR 108, @AE 277[9]
 

@@ -15,14 +15,7 @@ For inserting unprinted comments into the file,
  [.underline]#_see this file's source._#
 
 
-// As in the header above for :doctype:, two slashes start a comment line. As in the block below, four slashes start and end a comment block.
-
-////
-Editors' comments and notes
-
-
-(end of Editors' comments
-////
+// As in the header above for :doctype:, two slashes start a comment line. As in the block below
 
 WARNING: When the comments should also be displayed on the output files, such as this from Spiritual_World-Odhner :
 WARNING: Tremendous! quantity of footnotes is posing a problem here
