@@ -91,7 +91,7 @@ AE - Apocalypse Explained AR - Apocalypse Revealed (1766)
 Ath. - Athanasian Creed (posth.)
 BE - Brief Exposition (1769)
 Can. - Canons (posth.)
-Char. - Doctrine of Charity (posth.)
+@Char - Doctrine of Charity (posth.)
 CL - Conjugial Love (1768)
 CLJ - Continuation of The Last Judgment (1763)
 Conv. Ang. - Conversations with Angels (posth.)
@@ -108,7 +108,7 @@ F - Doctrine of Faith (1763)
 HD - New Jerusalem and Its Heavenly Doctrine (1758)
 HH - Heaven and Hell (1758)
 ISB - Intercourse of Soul and Body (1769)
-Inv. - Invitation to the New Church (posth.)
+@Inv - Invitation to the New Church (posth.)
 LJ - The Last Judgment (1758)
 LJ post. - Last Judgment and the Spiritual World (posth.)
 Life - Doctrine of Life (1763)
@@ -159,7 +159,7 @@ But many of the erroneous ideas of Christendom stem directly from too literal an
 
 The fact is that men generally have no concept of what the soul is or what a spiritual world is, or what heaven and hell really mean. Even in ancient times we mark how people confused the two worlds.
 
-The men of the Golden Age of the celestial church indeed had open intercourse with the spiritual world, yet it is said that they only beheld it "in natural light"; which implies that they had no abstract thought, but saw spiritual things depicted in the symbolism of nature.(Inv. 52)
+The men of the Golden Age of the celestial church indeed had open intercourse with the spiritual world, yet it is said that they only beheld it "in natural light"; which implies that they had no abstract thought, but saw spiritual things depicted in the symbolism of nature.(@Inv 52)
 The ancients of later millennia also expressed all their perceptions of spiritual realities in correspondential natural language - picturing the after-life as an indefinite prolongation of natural existence. Gradually the idea of a transmigration of souls added to the confusion as it became widely spread among the nations. 
 
 In the Christian Church no clear boundary line was drawn between the natural and the spiritual. The departed spirit was usually thought of as a purified natural body, or - in its intermediate state before the resurrection - as devoid of the human form, as a flame or breath in the atmospheres; and angels were imagined as at home in the stars. And while there have been philosophers who sought to show that the spirit of man is of a nature or substance widely differing from that of the physical body, there has not been - before the revelations to the New Church - any clear idea of a spiritual world.
@@ -272,7 +272,7 @@ Even when he was in appearance seeking information from good or evil spirits or 
 (*41.) WE 7006 + 
 (*42.) @TCR 779[e] + 
 (*43.) @SE 4034, 1647 + 
-(*44.) Inv. 7, 55,@Coro Mir. iv
+(*44.) @Inv 7, 55,@Coro Mir. iv
 
 If we are to study Swedenborg's testimony as to the spiritual world, it is of course important to understand the unique state in which he was able to explore that world as no other man had. For although - for the sake of preparation and instruction - he was permitted to pass through many experimental states, and among these also to experience "visions" such as those of the prophets, he affirms solemnly that the things which he had seen habitually in the other life for so many years and described, were in no wise visions "but things seen in the highest wakefulness of the body."(*45)
 
@@ -291,7 +291,7 @@ But Swedenborg makes clear that he did not see spiritual things simply in "visio
 It is of course utterly impossible for the physical body to enter into the spiritual world! But Swedenborg explains: "The Lord has so united my spirit to my body, that I am in both at the same time."(*48) "To me it is granted to be in both spiritual and natural light at the same time. By this means it has been granted me to see the marvels of heaven, to be together with angels like one of them, and at the same time to draw forth truths in light, and thus to perceive and teach them; consequently to be led by the Lord."(*49) He declined to have this called a miracle. For "every man is in the spiritual world as to his spirit, without separation from his body in the natural world; I however, with a certain separation, though only as to the intellectual part of my mind, but not as to the voluntary."(*50)
 
 (*48.) @AR 484[e] + 
-(*49.) Inv. 52 + 
+(*49.) @Inv 52 + 
 (*50.)@Coro Mir. v
 
 Swedenborg was thus led through the realms of the other world, not by spirits but by the Lord, and not (as the prophets) by compulsion but by his own choice and with free exercise of his reason. His voluntary part was equally active while among men and spirits. His own free life as an inhabitant of earth was not given up. It is remarkable that he had lived consciously among spiritual beings constantly for at least fifteen years, had written down his experiences meanwhile in his private journal, and had published anonymously the Arcana and five other books, before it became known to his friends, among whom he moved as before, that he was in society with spirits.(*51)
@@ -820,7 +820,7 @@ Immortal man has not only a substantial body-which was the sensual degree of his
 Yet all angels have a natural degree of the mind as well as a spiritual body. The body is the outward form of the mind and makes one with it.(102) But since hereditary and other evils of man remain in his spiritual body like scars, there are things in the angel "so depraved that never to eternity can correspondence occur, did not the Lord continually bring it about."
 
 For the Lord makes it possible for the natural to become as it were "transparent" or removed so that the interiors can be displayed.(103) The humiliating fact is that even with angels, there is correspondence only in a few things of the mind!104
-(102). @HH 340, @DLW 369, Inv. 14, @DWis iv 103. @SE 2157-2159
+(102). @HH 340, @DLW 369, @Inv 14, @DWis iv 103. @SE 2157-2159
 (104). @SE 2292
 
 It is therefore a law in the spiritual world that a state becomes apparent, either in the features of the visible spiritual body or in the corresponding environment which is created about spirits and angels, only if it is an active state. Here again the mercy of the Lord is seen. For who could stand if all the inner turmoil of his heart were always apparent, or the dormant hereditary passions which man had never measured were always exposed to view?(105)
@@ -1690,7 +1690,7 @@ Among good people true friendship stems from a charity which acts from justice a
 It does not lead to domination or mental subjection. Nor does it judge the internal state of another, but loves each one according to the civil, moral, and spiritual good to which that man's life testifies.(97)
 
 (96). @TCR 448, 459:13
-(97). Char. 46-71
+(97). @Char 46-71
 
 The Meeting of Husbands and Wives
 
@@ -1751,7 +1751,7 @@ If the ideas of others should always appear as our own, there would be utter con
 (114). @HH 498. The speech of hypocrites always betrays them. @AR 294, DP
 224:3
 (115). @AC 5383, 4126, 1389ff, @AE 674[3], 675:3
-(116). Inv. 42, @AC 10130[5]
+(116). @Inv 42, @AC 10130[5]
 
 The spiritual world, in contrast to the world of nature, may indeed be described as a purely mental world; for it is the mind of man that becomes the spirit after death. Yet in itself that spiritual realm is quite as completely furnished with spiritual things as the corresponding natural world is with material things. It is a world, not a dream or a phantasy. The immortal spirit is there present as a complete spiritual man, having body, brain, and senses, as well as every spiritual organism of thought and affection.(117) He lives in a world which has all the discrete degrees and planes necessary for life- including spiritual ultimates which are seen as lands and waters, and spiritual "intermediates" or atmospheres which consist of discreted substances or least forms originating in the spiritual Sun.(118)
 
@@ -2025,11 +2025,11 @@ A good spirit's approach to "the state of his internals" would take the form of 
 
 A merchant, with whom charity would take the form of honesty, trust in the Divine providence, and a shunning of avarice as the root of many evils, would enter interiorly into his use when he comes to act from the faith that all the fruits and profits which he reaps, are really derived from the common good. He sees that the good of his fellow citizens, the public welfare and civic order, must be loved and protected because they all look to the treasures of wisdom, truth, and sustaining delight which the Lord provides out of heaven. He sees that the real trading of spiritual life is the exchange of spiritual truths and goods.(13)
 
-(13). @DP 217[4], @TCR 801, Love 6:2, Char. 167, @SE 3523, @AC 5527
+(13). @DP 217[4], @TCR 801, Love 6:2, @Char 167, @SE 3523, @AC 5527
 
 We may surmise that similar experiences befall those in other uses. And if some occupation is such that it does not conduce to a progression into interiors, a good spirit would find no difficulty in finding some employment which can be a better means to express an interior charity.(14)
 
-(14). @HH 394, Char. 142, 137ff, 158ff, @AE 1191, @DWis 7:5:3, Love xii
+(14). @HH 394, @Char 142, 137ff, 158ff, @AE 1191, @DWis 7:5:3, Love xii
 
 Exploration by Angels
 
@@ -2753,7 +2753,7 @@ Always, the Word which exists in heaven presents the internal meaning which is b
 
 What the Writings give in abstract doctrinal wording is a summary presentation to men of the angelic Word. Therefore Swedenborg, in the Arcana Coelestia and elsewhere, after giving an exposition of the spiritual contents of some chapter of the Scripture was authorized to make such statements as the following: "This then is the internal sense of the Word, its veriest life, which does not at all appear from the sense of the letter."(38)
 
-(37). SS 97e 38. @AC 64, 1783:2, 1965, 6597, @HD 7, Inv. 44
+(37). SS 97e 38. @AC 64, 1783:2, 1965, 6597, @HD 7, @Inv 44
 
 To read falsities into the Word closes heaven to man. But to interpret the spiritual sense from genuine truths of revealed doctrine, opens heaven so that man may "think together with the angels and thus conjoin them to himself in his intellectual mind" - provided of course that man is at the same time in good.(39)
 
@@ -3229,7 +3229,7 @@ When the spiritual angels think of love to the neighbor, they mean by neighbor n
 
 Chastity and moral virtues reign among them. They know that only those who love to be useful and are intent on their work, can be maintained in spiritual good. For this keeps their thoughts "as it were at home" and holds them back from idleness which is called "the devil's pillow."(43)
 
-(43). @AE 831, @CL 16[3], Char. 137f, 128
+(43). @AE 831, @CL 16[3], @Char 137f, 128
 
 Yet their delight in good works does not mean that they are deprived of external joys. In the spiritual heaven there may be seen magnificent palaces in which everything within shines with precious stones and with forms unequalled in the world and of beauty indescribable. "For art, especially that of architecture, is there in its own art," since it is from that heaven that "many arts in the world derive their laws and harmonies."(44) Scenic paradises and rainbow colors of ineffable loveliness meet their eyes. Their garments which they sometimes receive as gifts, and sometimes are clothed with unawares, are often of fine linen and silk, and vary according to their functions.(45) These angels live on the fairest of hills, surrounded by lawns, gardens, and Orchards. Their houses are mostly of stone, like marble and alabaster, and their temples may be of precious jewels.(46) Stone signifies natural truth, and-as will be noted-the spiritual is founded in the interior of the natural.(47)
 
@@ -3561,7 +3561,7 @@ In its organization and life, an angelic society therefore resembles a human com
 
 Although offices and manual occupations in the other world thus resemble ours in appearance, we are warned that they are all spiritual, and so utterly different that they cannot be described in the words of human language, except as to external form. Angelic uses cannot be understood except by spiritual ideas which in some measure can fall into the interior rational sight when a man withdraws his mind from ideas of quantities and instead thinks of qualities.(4)
 
-(4). @DWis 7:5:3, @AE 1191, 1226, Char. 142, De Ver. 10
+(4). @DWis 7:5:3, @AE 1191, 1226, @Char 142, De Ver. 10
 
 With this in mind, let us note that all the societies of heaven are distinguished by their uses, functions, or goods of charity. Some of the angels mentioned by name in the Word, like Michael and Gabriel, were actually angelic societies who appeared to the open vision of men in a personification, or through a "subject spirit." Michael appeared before Daniel as the champion of Israel against the forces of the world, and to John at Patmos as the defender of the faith in the Lord and the protector of the New Church against the dragon of "faith alone."
 
@@ -3633,7 +3633,7 @@ The Writings compare the Lord's immediate giving of what angels need to the way 
 What ever is needed by any part is drawn from the common good - the blood stream and the vital fluids - through the neighboring tissues. And each part thus contributes something new and shares of its own with the rest. It is by opening and directing the paths of influx from one heaven to another that the Lord provides for angelic needs, so that each heaven may contribute to the needs of the other.(23)
 
 (22). @AC 8719
-(23). Char. 137, 138, Love 12:4
+(23). @Char 137, 138, Love 12:4
 
 This is illustrated by the manner in which the conversation among angels of a higher heaven may cause the angels of a lower heaven to receive the truths broached, not in their abstract form, but "substantially," in the form of a paradise or a palace which is livingly before their sight; and there may be a constant succession of such changing correspondences, or concrete forms of truth.(24) These are indeed instantaneous spiritual creations by the Lord. Yet they are mediated by the higher angels and presented in forms taken from the lower heaven and thus adapted for reception. It must be the same with food and clothing and with the homes of the angels, which correspond to their more constant states. 24. @AC 4411
 
@@ -4739,7 +4739,7 @@ It might be questioned what kind of uses the evil spirits in hell are able to pe
 . . do not fall into the ideas of natural thought."(28) Certain heavenly uses, having to do with instruction or the communication of affections and thoughts, can be conceived as purely spiritual. But other spiritual uses can be thought of only in their correspondential appearance; for indeed they appear as earthly occupations, as a multitude of trades and manufactures, having to do with nourishment, clothing, habitation, recreation, etc.(29)
 
 It must be understood that in heaven all these functions concern spiritual exchanges of knowledges and delights which are the real commodities that are shared by human minds. 28. @AE 1226
-(29). Cp. @AE 1191, Wis. 7, 5, Char. 142, @DLW 333
+(29). Cp. @AE 1191, Wis. 7, 5, @Char 142, @DLW 333
 
 It is told, in the Spiritual Diary, that in the other life "there must be no one who does not perform a use, to his world, to the human race, to the world of spirits, to heaven. . ."(30) Thus even devils perform uses. And we are reminded that in the human body, there are excretions from various organs that serve a use even though vile: as for instance the bile which aids in digestion, and even certain lymphs rejected by the brain, which temper the blood. And these excrementitious matters contain valuable chemicals, such as minerals, which are salvaged by the bloodstream and used again in the economy of the body, much as manure is utilized to enrich the soil of the fields.(31)
 
