@@ -37,8 +37,8 @@ ls -1 $sourcedir |
 		[ -f $pdfdest/$title.pdf ] || createpdf
 		[ -f $epubdest/$title.epub ] || createepub
 		sourcetime=$(stat -c %Y $sourcedir/$t) 2>/dev/null
-		pdftime=$(stat -c %Y $pdfdest/$t) 2>/dev/null
-		epubtime=$(stat -c %Y $epubdest/$t) 2>/dev/null
+		pdftime=$(stat -c %W $pdfdest/$t) 2>/dev/null
+		epubtime=$(stat -c %W $epubdest/$t) 2>/dev/null
 		printf ".s=$sourcetime.p=$pdftime.e=$epubtime "
 		[[ $sourcetime -gt $pdftime ]] && createpdf
 		[[ $sourcetime -gt $epubtime ]] && createepub
