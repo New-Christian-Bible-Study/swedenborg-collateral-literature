@@ -2,7 +2,8 @@
 By Edward S. Hyatt  1935
 //include::../template-attributes.adoc[]
 
-// AsciiDoctor is so quick to grab a single character followed immediately by a dot/decimal .... thinking it to be part of an ordered list .... I kludged a fix by prefixing a '@' to ^([A-Z]\.)
+// {empty} inserted before periods as necessary markup
+// you'll see that they aren't printed
 
 BY + 
 EDWARD S. HYATT + 
@@ -34,7 +35,7 @@ September 13th 1891. Reference: @HD 260.
 
 John 1:8. [Greek.]
 
-@E.272. Non erat ille Lux, sed ut testaretur de Luce.
+E{empty}.272. Non erat ille Lux, sed ut testaretur de Luce.
 
 John 1:8. He (John the Baptist) was not the Light, but that he might testify concerning the Light.
 
@@ -164,7 +165,7 @@ October 18th 1891. Reference: @HD 261.
 
 [Hebrew.] Genesis 15:2.
 
-@A.1795. Et filius procurator domus meae, is Damascenus Eliezer. Genesis 15:2. And the son, the steward of my house, he is the Damascene, Eliezer.
+A{empty}.1795. Et filius procurator domus meae, is Damascenus Eliezer. Genesis 15:2. And the son, the steward of my house, he is the Damascene, Eliezer.
 
 "'And the son the steward of my house', signifies the External Church
 ... for all stewardship pertains to the External of the Church, as the administration of rituals, and of many things which are of the Temple and of the Church itself, that is, of the House of Jehovah or the Lord". @AC 1795.
@@ -345,7 +346,7 @@ November 8th 1891. Reference: @HD 264.
 
 [Hebrew.] Genesis 43:32.
 
-@A.5683. Non possunt Aegyptii comedere cum Hebraeis panem, quia abominatio id Aegyptiis.
+A{empty}.5683. Non possunt Aegyptii comedere cum Hebraeis panem, quia abominatio id Aegyptiis.
 
 Genesis 43:32. The Egyptians cannot eat bread with the Hebrews, because that is an abomination to the Egyptians.
 
@@ -399,7 +400,7 @@ November 15th 1891. Reference: @HD 2651
 
 [Hebrew.] Isaiah 40:8.
 
-@A.9553. E. 507. Exaruit gramen, decidit flos, sed Verbum Dei nostri consistet in aeternum.
+A{empty}.9553. E. 507. Exaruit gramen, decidit flos, sed Verbum Dei nostri consistet in aeternum.
 
 Isaiah 40:8. The grass hath withered, the flower hath fallen, but the Word of our God will stand into eternity.
 
@@ -458,7 +459,7 @@ December 7th 1891. Reference: @HD 2652-266.
 
 [Hebrew.] MICAH 4:2.
 
-@E.22011. Nam a Zione exibit doctrina, et Verbum (Jehovae) ex Hierosolyma.
+E{empty}.22011. Nam a Zione exibit doctrina, et Verbum (Jehovae) ex Hierosolyma.
 
 MICAH 4:2. For from Zion shall go forth doctrine, and the Word of Jehovah out of Jerusalem.
 
@@ -510,7 +511,7 @@ November 17th 1895. Reference: T. 189-192.
 
 John 1:1. [Greek.]
 
-@T.190. Et Deus erat Verbum.
+T{empty}.190. Et Deus erat Verbum.
 
 John 1:1. And God was the Word.
 
@@ -542,7 +543,7 @@ November 24th 1895. Reference: T. 193-195.
 
 John 6:63. [Greek.]
 
-@T.190. Verba quae Ego loquor vobis, Spiritus sunt et Vita sunt.
+T{empty}.190. Verba quae Ego loquor vobis, Spiritus sunt et Vita sunt.
 
 John 6:63. The words which I speak to you are Spirit and are Life.
 
@@ -614,7 +615,7 @@ December 8th 1895. Reference: T. 200.
 
 [Hebrew.] ISA 19:24.
 
-@E.31310. T. 200. In die illo erit Israel trina (tertia) Aegypto et Aschuri, benedictio in medio terrae.
+E{empty}.31310. T. 200. In die illo erit Israel trina (tertia) Aegypto et Aschuri, benedictio in medio terrae.
 
 Isaiah 19:24. In that day Israel shall be a trine with Egypt and Ashur, a blessing in the midst of the earth.
 
@@ -656,7 +657,7 @@ December 15th 1895. Reference: T. 201-203.
 
 [Hebrew.] Genesis 5:24.
 
-@A.520. Et ambulavit sibi Chanoch cum Deo, et non amplius, quia sumsit illum Deus.
+A{empty}.520. Et ambulavit sibi Chanoch cum Deo, et non amplius, quia sumsit illum Deus.
 
 Genesis 5:24. And Chanoch walked with God, and he was not anymore for God took him.
 
@@ -706,7 +707,7 @@ December 29th 1895. Reference: T 204-207.
 
 [Hebrew.] Isaiah 31:7.
  + 
-@E.5859. In die illo rejicient quisque idola argenti sui et idola auri sui quae fecerunt vobis manus vestrae, peccatum.
+E{empty}.5859. In die illo rejicient quisque idola argenti sui et idola auri sui quae fecerunt vobis manus vestrae, peccatum.
 
 Isaiah 31:7. For in that day they shall cast away each man the idols of his silver and the idols of his gold what your hands have made for you a sin.
 
@@ -745,7 +746,7 @@ January 12th 1896. Reference: T. 208.
 
 [Hebrew.] Genesis 3:24.
 
-@A.306. Et habitare fecit ab oriente ad hortum Edenis Cherubos; et flammam gladii vertentis se, ad custodiendam viam arboris vitarum.
+A{empty}.306. Et habitare fecit ab oriente ad hortum Edenis Cherubos; et flammam gladii vertentis se, ad custodiendam viam arboris vitarum.
 
 Genesis 3:24. And He caused to dwell from the east towards the garden of Eden, Cherubim, and the flame of a sword turning itself to guard the way of the tree of lives.
 
@@ -792,7 +793,7 @@ January 19th 1896. Reference: T. 300.
 
 [Hebrew.] Psalms 119:18
 
-@A.3382. Revela oculos meos ut videam mirabilia e Lege tua.
+A{empty}.3382. Revela oculos meos ut videam mirabilia e Lege tua.
 
 Psalms 119:18. Unveil my eyes that I may see the wonderful things out of Thy Law.
 
@@ -847,7 +848,7 @@ January 26th 1896. Reference: T. 210-213.
 
 John 19:36. [Greek.]
 
-@T.262. A. 9163. Facta sunt (enim) haec ut Scriptura impleretur, Os non confringetis.
+T{empty}.262. A. 9163. Facta sunt (enim) haec ut Scriptura impleretur, Os non confringetis.
 
 John 19:36. For these things were done that the Scripture might be fulfilled - a bone of Him shall not be broken.
 
@@ -886,7 +887,7 @@ February 2nd 1896. Reference: T. 214-215.
 
 Matthew 28:18. [Greek.]
 
-@L.46. Data est Mihi omnis potestas in caelo et in terra.
+L{empty}.46. Data est Mihi omnis potestas in caelo et in terra.
 
 Matthew 28:18. All power has been given to Me in heaven and on earth.
 
@@ -929,7 +930,7 @@ February 9th 1896. Reference: T. 216-219.
 
 Revelation 21:19, 20. [Greek.]
 
-@R.914, 915. Et fundamenta muri urbis omni lapide pretioso exornata. Fundamentum primum jaspis, secundum sapphirus, tertium chalcedonius, quartum sardonyx, sextum sardius, septimum chrysolithus, octavum beryllus, nonum topazius, decimum chrysoprasus, undecimum hyacinthus, duodecimum amethystus.
+R{empty}.914, 915. Et fundamenta muri urbis omni lapide pretioso exornata. Fundamentum primum jaspis, secundum sapphirus, tertium chalcedonius, quartum sardonyx, sextum sardius, septimum chrysolithus, octavum beryllus, nonum topazius, decimum chrysoprasus, undecimum hyacinthus, duodecimum amethystus.
 
 Revelation 21:19. And the foundations of the wall of the city garnished with every precious stone. The first foundation jasper, the second sapphire, the third chalcedony, the fourth emerald, the fifth sardonyx, the sixth sardius, the seventh chrysolite, the eighth beryl, the ninth topas, the tenth chrysoprasus, the eleventh hyacinth, the twelfth an amethyst.
 
@@ -963,7 +964,7 @@ February 16th 1896. Reference: T. 220-221.
 
 [Hebrew.] Exodus 26:1.
 
-@A.9593. Et Habitaculum facies, decem aulaea, byssino contexto, et hyacinthino, et purpura et coccinea debapho, cherubis, opere excogitatoris (artificis) facies illa.
+A{empty}.9593. Et Habitaculum facies, decem aulaea, byssino contexto, et hyacinthino, et purpura et coccinea debapho, cherubis, opere excogitatoris (artificis) facies illa.
 
 Exodus 26:1. And thou shalt make a habitation with ten curtains of twined byssus and hyacinth and purple and scarlet double dyed, with cherubim, the work of a contriver thou shalt make them.
 
@@ -1014,7 +1015,7 @@ February 23rd 1896. Reference: T. 222.
 
 Matthew 17:1, 2. [Greek.]
 
-@E.64. (Et post dies sex) assumpsit Jesus Petrum, (et) Jacobum, et Johannem (fratrem ejus, et subducit illos) in montem altum valde (seorsim). Et transformatus est coram illis.
+E{empty}.64. (Et post dies sex) assumpsit Jesus Petrum, (et) Jacobum, et Johannem (fratrem ejus, et subducit illos) in montem altum valde (seorsim). Et transformatus est coram illis.
 
 Matthew 17:1, 2. And after six days Jesus took Peter and James and John his brother, and led them up into la very high mountain, apart. And was transformed before them.
 
@@ -1052,7 +1053,7 @@ The letter of every Divine Revelation constitutes the clouds in which it is give
 
 March 1st 1896. Reference: T. 223.
 
-@A.3301. Omnibus diebus naziraeatus eorum novacula non transiret super caput eorum.
+A{empty}.3301. Omnibus diebus naziraeatus eorum novacula non transiret super caput eorum.
 
 NUM. 6:5. All the days of the vow of his Nazariteship a razor shall not pass upon his head.
 
@@ -1102,7 +1103,7 @@ March 8th 1896. Reference: T. 221.
 
 Matthew 16:18. [Greek.]
 
-@A.43683. (Et) Ego tibi dice, quod tu sis Petrus, et super hac petra aedificabo meam Ecclesiam, et portae inferni non praevalebunt ei.
+A{empty}.43683. (Et) Ego tibi dice, quod tu sis Petrus, et super hac petra aedificabo meam Ecclesiam, et portae inferni non praevalebunt ei.
 
 Matthew 16:18. And I, I say to thee, that thou art Peter, and upon this rock I will build My Church, and the gates of hell shall not prevail against it.
 
@@ -1132,7 +1133,7 @@ March 15th 1896. Reference: T. 285-228
 
 [Hebrew.] Exodus 23:13.
 
-@A.9271. Et nomen deorum aliorum non memorabitis, non audietur super ore tuo.
+A{empty}.9271. Et nomen deorum aliorum non memorabitis, non audietur super ore tuo.
 
 Exodus 23:13. And the name of other gods ye shall not mention, it shall not be heard upon thy mouth.
 
@@ -1212,7 +1213,7 @@ April 12th 1896. Reference: T. 231-233.
 
 Matthew 13:13. [Greek.]
 
-@A.3869. Propterea per parabolas loquor illis, quia videntes non vident, et audientes non audiunt, nec intelligunt.
+A{empty}.3869. Propterea per parabolas loquor illis, quia videntes non vident, et audientes non audiunt, nec intelligunt.
 
 Matthew 13:13. Wherefore I speak to them in parables, because seeing they do not see, and hearing they do not hear, neither do they understand.
 
@@ -1297,7 +1298,7 @@ April 26th 1896. Reference: T. 240-242.
 
 [Hebrew.] Psalms 119:89.
 
-@A.2838. In aeternum Jehovah Verbum tuum consistit in coelis.
+A{empty}.2838. In aeternum Jehovah Verbum tuum consistit in coelis.
 
 Psalms 119:89. Into eternity, O Jehovah, Thy Word is settled in the heavens.
 
@@ -1348,7 +1349,7 @@ May 3rd 1896. Reference: T. 243-247.
 
 [Hebrew.] Deuteronomy 33:17.
 
-@E.3364. Et hi myriades Ephraimi, et hi chiliades Menascheh.
+E{empty}.3364. Et hi myriades Ephraimi, et hi chiliades Menascheh.
 
 Deuteronomy 33:17. And these are the ten thousands of Ephraim, and these are the thousands of Manasseh.
 
@@ -1382,7 +1383,7 @@ May 10th 1896. Reference: T. 248-253.
 
 [Hebrew.] Jeremiah 33:10, 11.
 
-@T.252. (Sic dixit Jehovah) Adhuc audietur in loco hoc vox gaudii et vox laetitiae, ac vox sponsi et vox sponsae.
+T{empty}.252. (Sic dixit Jehovah) Adhuc audietur in loco hoc vox gaudii et vox laetitiae, ac vox sponsi et vox sponsae.
 
 Jeremiah 33:10, 11. Thus saith Jehovah: Again there shall be heard in this place the voice of joy and the voice of gladness, the voice of the bridegroom and the voice of the bride.
 
@@ -1422,7 +1423,7 @@ May 17th 1896. Reference T. 254-259.
 
 [Hebrew.] EX. 20 :14.
 
-@A.8904. Non adulterabis.
+A{empty}.8904. Non adulterabis.
 
 Exodus 20:14. Thou shalt not commit adultery.
 
@@ -1468,7 +1469,7 @@ May 24th 1896. Reference T. 260.
 
 Revelation 1:16. [Greek.]
 
-@R.52. Et ex ore Ipsius romphaea anceps acuta exiens.
+R{empty}.52. Et ex ore Ipsius romphaea anceps acuta exiens.
 
 Revelation 1:16. And out of His mouth a sharp two-edged sword going forth.
 
@@ -1492,7 +1493,7 @@ May 31st 1896. Reference: T. 261-263.
 
 LUKE 24:25, 26, 27. [Greek.]
 
-@T.262. (Et Ipse) dixit ad illos, (O) stulti et tardi corde ad credendum omnibus quae locuti sunt Prophetae; nonne hoc oportebat pati Christum, et ingredi in gloriam (Ipsius); incipiens porro a Mose et ab omnibus Prophetis, et interpretatus est illis in omnibus Scripturis de Ipso.
+T{empty}.262. (Et Ipse) dixit ad illos, (O) stulti et tardi corde ad credendum omnibus quae locuti sunt Prophetae; nonne hoc oportebat pati Christum, et ingredi in gloriam (Ipsius); incipiens porro a Mose et ab omnibus Prophetis, et interpretatus est illis in omnibus Scripturis de Ipso.
 
 LUKE 24:25, 26, 27. And He said to them, O ye foolish and slow in heart to believe all which the Prophets have spoken. Did it not behoove Christ to suffer and to enter into His glory. And beginning from Moses and all the Prophets He interpreted to them in all the Scriptures the things concerning Himself.
 
@@ -1524,7 +1525,7 @@ June 17th 1896. Reference: T. 264-266, 279.
 
 [Hebrew.] Genesis 14:18.
 
-@A.1724. Et Malkizedech, Rex Schalem, eduxit panem et vinum, et ille Sacerdos Deo Altissimo.
+A{empty}.1724. Et Malkizedech, Rex Schalem, eduxit panem et vinum, et ille Sacerdos Deo Altissimo.
 
 Genesis 14:18. And Malchizedek, King of Salem, brought forth bread and wine, and he was a priest to God Most High.
 
@@ -1567,7 +1568,7 @@ June 14th 1896. Reference T. 267-272.
 
 John 1:9. [Greek.]
 
-@E.27. T. 269. Erat Lux vera quae illustrat omnem hominem venientem in mundum.
+E{empty}.27. @TCR 269. Erat Lux vera quae illustrat omnem hominem venientem in mundum.
 
 John 1:9. He was the true Light which enlightens every man coming into the world.
 
@@ -1613,7 +1614,7 @@ July 12th 1896. Reference: T. 273-276.
 
 [Hebrew.] Genesis 11:4.
 
-@A.1302. Et dixerunt, age aedificemus nobis urbem et turrim, et caput ejus in coelo.
+A{empty}.1302. Et dixerunt, age aedificemus nobis urbem et turrim, et caput ejus in coelo.
 
 Genesis 11:4. And they said, come let us build us a city and a tower whose head may be in heaven.
 
@@ -1645,7 +1646,7 @@ July 19th 1896. Reference: T. 277.
 
 [Hebrew.] Psalms 12:7.
 
-@A.15514 Sermones Jehovae, sermones puri, Argentum conflatum in catino terrae, (purificatum) fusum septies.
+A{empty}.15514 Sermones Jehovae, sermones puri, Argentum conflatum in catino terrae, (purificatum) fusum septies.
 
 Psalms 12:7 (6). The words of Jehovah are pure words, silver moulded in a pot of earth, purified seven times.
 
@@ -1667,11 +1668,11 @@ Thus knowledges of truth are indeed open to all, though at the same time the spi
 
 "The place where they were stored up appeared like a manger in a stable;... the manger as in a stable signified spiritual nutrition for the understanding; a manger signifies this because a horse that eats thence signifies the understanding", @TCR 277.
 
-It was for the same reason that the Word made flesh was laid in a manger as a babe. But this was only at first, and thus it represents how the Word first comes to us as merely nutrition for the understanding. This is especially the case with the Word as revealed by the Lord in His New Advent - it is apt to be received so as to do little more at first than interest the understanding and flatter the conceit of self-intelligence. In the DIARY it; adds that the manger in a stable "was an unsuitable place, signifying that the human understanding ought not to have part in setting forth the interiors of the Word", @SD 3605 1/2.
+It was for the same reason that the Word made flesh was laid in a manger as a babe. But this was only at first, and thus it represents how the Word first comes to us as merely nutrition for the understanding. This is especially the case with the Word as revealed by the Lord in His New Advent - it is apt to be received so as to do little more at first than interest the understanding and flatter the conceit of self-intelligence. In the DIARY it; adds that the manger in a stable "was an unsuitable place, signifying that the human understanding ought not to have part in setting forth the interiors of the Word", @SE 3605 1/2.
 
 If the natural rational attempt to have part in setting forth the interiors of the Word it invariably perverts them to make them agree with what seems good to it. Therefore it is taught that that rational should not be consulted but a receptive attitude towards the Word cultivated independently of it. It is only so far as a man compels his understanding to receive the teaching: of the Word in that manner that the new or spiritual rational can be formed in him by the truth. The manger in a stable is an unsuitable place for storing up the silver of the Word.
 
-"I then went into a small room where at first it seemed to me it would have been delightful to dwell. There were modest virgins there with a modest wife, signifying that they should not be set forth thus as preachers are wont to do, for moving the affections, for thus not much would remain", @SD 36051/2.
+"I then went into a small room where at first it seemed to me it would have been delightful to dwell. There were modest virgins there with a modest wife, signifying that they should not be set forth thus as preachers are wont to do, for moving the affections, for thus not much would remain", @SE 36051/2.
 
 "The modest virgins who were seen in a neighboring room signified affections of truth and the chaste wife the conjunction of good and truth", @TCR 277.
 
@@ -1681,7 +1682,7 @@ Hence although this room appeared so attractive and to be more suitable, really 
 
 Those who are in bondage to their natural rational are apt to make sport of the very simplicity of the Word especially of an attitude thereto of simple unquestioning receptivity. Such a state seems to them to be too foolish to he treated seriously. But wise consideration would cause them to admit that such an attitude is the only really rational one to he taken towards the Lord's Word by those who acknowledge Him to he the only God of heaven and earth - the infinite source of all love and of all wisdom. Swedenborg says in the DIARY that he himself wished to sport with those two infants, but that it was allowed to converse with them but not to sport in an infantile manner. The innocence of wisdom is a rational innocence.
 
-Then "there came forth from the room a very obscene girl among the more beautiful ones, who wished to seize me by force and when was fleeing away I awoke and saw the carcass of a horse, signifying that eloquence is not to be studied, which appears as a beautiful virgin, but because it was a harlot breaking forth from such a room, it seemed to me that it was of such a quality as the black carcass of a horse", @SD 3605
+Then "there came forth from the room a very obscene girl among the more beautiful ones, who wished to seize me by force and when was fleeing away I awoke and saw the carcass of a horse, signifying that eloquence is not to be studied, which appears as a beautiful virgin, but because it was a harlot breaking forth from such a room, it seemed to me that it was of such a quality as the black carcass of a horse", @SE 3605
 1/2.
 
 As it is not of order in teaching the Word to apply oneself to the moving of the affections, so neither is it of order to study to please the understanding by mere eloquence, although the appearance of so doing is compared to that of a beautiful virgin. For what the Word is given to teach men is not something that is pleasing to them in the first place, but something which cannot be seen in a. state of pleasure, namely the altogether spiritually evil state in which every man naturally is, and which must be met by painful self-compulsion until something of actual repentance is accomplished before any step of regeneration call be taken, thus before any step can be taken towards the realization of anything of heavenly happiness. To lead a man to this is not a matter of eloquence but solely of the power of Divine Truth presented in its simplicity and integrity. If that cannot effect the desired end nothing can. Whether it is able to do so or not depends upon the humility and innocence with which it is received. The eloquence which many depend upon may seem to have the beauty of a. virgin but it is really that of a harlot, when it, rather than the purity and integrity of truth, is most regarded.
@@ -1696,7 +1697,7 @@ July 26th 1896. Reference: T. 278.
 
 [Hebrew.] Psalms 32:2.
 
-@E.866. Beatus homo cui non imputat Jehovah iniquitatem, modo non in spiritu ejus dolus.
+E{empty}.866. Beatus homo cui non imputat Jehovah iniquitatem, modo non in spiritu ejus dolus.
 
 Psalms 32:2. Happy the man to whom Jehovah imputeth not iniquity, if only there be not in his spirit deceit.
 
@@ -1742,7 +1743,7 @@ August 2nd 1896. Reference: T. 230.
 
 Matthew 16:23. [Greek.]
 
-@E.820. Abi post Me, Satana; scandalum Mihi es; quia non sapis ea quae Dei sunt, sed quae hominum.
+E{empty}.820. Abi post Me, Satana; scandalum Mihi es; quia non sapis ea quae Dei sunt, sed quae hominum.
 
 Matthew 16:23. Get thee behind Me, Satan; thou art a scandal to Me; because thou savourest not of those things which are of God, but of those things which are of men.
 
@@ -1780,7 +1781,7 @@ August 9th 1896. Reference: T. 281.
 
 Revelation 20:13. [Greek.]
 
-@R.871. Et judicat sunt quisque secundum opera illorum.
+R{empty}.871. Et judicat sunt quisque secundum opera illorum.
 
 Revelation 20:13. And they were judged each according to their works.
 
