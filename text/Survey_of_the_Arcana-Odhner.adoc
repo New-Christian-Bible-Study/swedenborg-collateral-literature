@@ -2,13 +2,15 @@
 By Hugo Lj. Odhner - Bryn Athyn, Pennsylvania
 include::../template-attributes.adoc[]
 
-
+Problem with source text in gray italics ???
 //// 
+
 EDITORS' NOTES:
 Throughout this text there exists a sequence of bracketed {numbers} which appear to be something of footnotes, being numbered sequentially, for which I have no source. 
 There are also regular inline footnotes(*)
 
 (end of editors notes)
+
 ////
 
 

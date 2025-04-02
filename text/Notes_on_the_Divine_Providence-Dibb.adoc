@@ -2,7 +2,11 @@
 a 13 lecture series by Andy Dibb
 include::../template-attributes.adoc[]
 
+////
+troubles in source (below)
+?significant scan fail?
 
+////
 == Introduction
 
 Secular society governs itself through laws, which in turn are controlled by national constitutions, outlining the "spirit" of the law. A national constitution, while it may mandate certain specific laws, more generally interprets the attitudes and intentions national laws will follow. National constitutions are the single most important declaration of nationhood, and without them the ship of state is without a rudder, the rights, privileges and guarantees of the citizenry are neither defined nor protected.
