@@ -1,45 +1,45 @@
-TITLE,AUTHOR,Proofing,Markup,Status Notes
-Additamentum,Sandstrom,,,ready to edit
-Application_of_Doctrine,DeCharms,,,ready to edit
-As_from_Self_and_the_Two_Essentials_of_the_Church,Sandstrom,,,ready to edit
-Authority_in_the_New_Church,Tafel,,,ready to edit
-BSN,Dole,,,ready to edit
-Chapel_Talks_on_Vital_Subjects,Odhner,,,ready to edit
-Crown_of_Revelations,Acton,,,ready to edit
-Divine_Allegory,Odhner,,,ready to edit
-Divine_Word_Opened,Bayley,,,ready to edit
-Doctrinal_Papers,Alden,,,ready to edit
-Doctrine_of_Reflection,DeCharms,,,ready to edit
-Effects_of_the_Last_Judgment,Odhner,,,ready to edit
-Essays_on_the_Lords_Prayer,Odhner,,,ready to edit
-Essays_on_the_Ten_Commandments,Odhner,,,ready to edit
-Externals_of_the_New_Church,Odhner,,,ready to edit
-Faith_and_Falsity,Odhner,,,ready to edit
-Fundamentals_of_the_New_Church,Odhner,,,ready to edit
-Glorification,Pendleton,,,ready to edit
-Grand_Man,Odhner,,,ready to edit
-Great_Truths_on_Great_Subjects,Bayley,,,ready to edit
-Magnificent_Scenes,Bayley,,,ready to edit
-Nature_of_the_Spiritual_World,Acton,,,ready to edit
-New_Church_and_Modern_Christianity,DeCharms,,,ready to edit
-Notes_on_the_Divine_Providence,Dibb,,,ready to edit
-Parables_of_the_Old_Testament_Explained,Mitchell,,,ready to edit
-Principles_of_Government,DeCharms,,,ready to edit
-Reflections_on_Some_Popular_Fallacies,Odhner,,,ready to edit
-Repentance,Pendleton,,,ready to edit
-Saul_David_and_Solomon,Odhner,,,ready to edit
-Scripture_Paradoxes_-_Their_True_Explanation,Bayley,,,ready to edit
-Selected_Papers_and_Addresses,Buss,,,ready to edit
-Sermons_Concerning_the_Lord,Gladish,,,ready to edit
-Sermons_-_Expository_and_Practical,Bruce,,,ready to edit
-Sermons_Illustrating_the_Doctrine_of_the_Lord,DeCharms,,,ready to edit
-Sermons_on_the_Ten_Commandments_Volume_1,Acton,,,ready to edit
-Sermons_on_the_Ten_Commandments_Volume_2,Acton,,,ready to edit
-Sermons_on_the_Word,Hyatt,,,ready to edit
-Spiritual_World,Odhner,,,ready to edit
-Survey_of_the_Arcana,Odhner,complete/MHR,,see notes in file
-Ten_Commandments,Cranch,,,ready to edit
-Topics_from_the_Writings,Pendleton,,,ready to edit
-Twelve_Discourses,Bayley,,,ready to edit
-Visible_God,Sandstrom,,,ready to edit
-What_the_New_Church_Teaches,Buss,,,ready to edit
+TITLE,AUTHOR,Proofing,Markup,Markup Errors,Spelling Errors,Notes
+Additamentum,Sandstrom,ready,ready,0,28,
+Application_of_Doctrine,DeCharms,ready,ready,0,?-2,tricky outlining (nested ordered lists)
+As_from_Self_and_the_Two_Essentials_of_the_Church,Sandstrom,ready,ready,0,?-1,this file looks to be only a segment of something larger
+Authority_in_the_New_Church,Tafel,ready,ready,0,>,lots of proper names and latin
+BSN,Dole,Steve,don't,-,,not presently integrated
+Chapel_Talks_on_Vital_Subjects,Odhner,ready,ready,0,11,
+Crown_of_Revelations,Acton,ready,ready,0,,
+Divine_Allegory,Odhner,ready,ready,0,,
+Divine_Word_Opened,Bayley,ready,ready,0,,
+Doctrinal_Papers,Alden,ready,ready,0,,
+Doctrine_of_Reflection,DeCharms,ready,ready,0,0,
+Effects_of_the_Last_Judgment,Odhner,ready,ready,0,,
+Essays_on_the_Lords_Prayer,Odhner,ready,ready,0,,
+Essays_on_the_Ten_Commandments,Odhner,ready,ready,0,,
+Externals_of_the_New_Church,Odhner,ready,ready,0,,
+Faith_and_Falsity,Odhner,ready,ready,0,,
+Fundamentals_of_the_New_Church,Odhner,ready,ready,0,,
+Glorification,Pendleton,ready,ready,0,,
+Grand_Man,Odhner,ready,ready,0,,
+Great_Truths_on_Great_Subjects,Bayley,ready,ready,0,,
+Magnificent_Scenes,Bayley,ready,ready,0,,
+Nature_of_the_Spiritual_World,Acton,ready,ready,0,,
+New_Church_and_Modern_Christianity,DeCharms,ready,ready,0,3,
+Notes_on_the_Divine_Providence,Dibb,ready,ready,0,,
+Parables_of_the_Old_Testament_Explained,Mitchell,ready,ready,0,,
+Principles_of_Government,DeCharms,ready,ready,0,0,
+Reflections_on_Some_Popular_Fallacies,Odhner,ready,ready,0,15,
+Repentance,Pendleton,ready,ready,0,,
+Saul_David_and_Solomon,Odhner,ready,ready,0,,
+Scripture_Paradoxes_-_Their_True_Explanation,Bayley,ready,ready,0,,
+Selected_Papers_and_Addresses,Buss,ready,ready,0,,
+Sermons_Concerning_the_Lord,Gladish,ready,ready,0,,
+Sermons_-_Expository_and_Practical,Bruce,ready,ready,0,,
+Sermons_Illustrating_the_Doctrine_of_the_Lord,DeCharms,ready,ready,0,,
+Sermons_on_the_Ten_Commandments_Volume_1,Acton,ready,ready,0,,
+Sermons_on_the_Ten_Commandments_Volume_2,Acton,ready,ready,0,,
+Sermons_on_the_Word,Hyatt,ready,ready,0,,
+Spiritual_World,Odhner,ready,ready,0,,
+Survey_of_the_Arcana,Odhner,complete/MHR,ready,0,,
+Ten_Commandments,Cranch,ready,ready,0,,
+Topics_from_the_Writings,Pendleton,ready,ready,0,,
+Twelve_Discourses,Bayley,ready,ready,0,,
+Visible_God,Sandstrom,ready,ready,0,32,
+What_the_New_Church_Teaches,Buss,ready,ready,0,,
