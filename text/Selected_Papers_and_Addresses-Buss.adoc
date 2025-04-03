@@ -1,9 +1,7 @@
 = Selected Papers and Addresses
-By Rt. Rev. Peter M. Buss
-:toclevels: 3
+By Rt. Rev. Peter M. Buss    2008
 include::../template-attributes.adoc[]
-:toclevels: 3
-// I don't think the toclevels overrode the include ??
+
 
 2008
 
@@ -29,7 +27,7 @@ All the paths of the Lord are mercy and truth to such as keep His covenant and H
 
 Part of the wonder of the revelation the Lord gave in His second Advent is the vision of true married love, or love truly conjugial: a love so rare that it is scarcely known, and its quality is not known; the precious jewel of human life; a love so beautiful that the Lord made it to be His ultimate gift to all who will follow Him; a love so powerful that for its sake a man may leave the father and mother of selfishness and pride and cleave to his wife, and in becoming one flesh find heaven.
 
-It is so great a love that we may be deceived by its power. Love conquers all, is a common saying. In a sense this is true. Because of the love of two people for each other, they have withstood torture and oppression. They have undergone hardship and misery and deprivation.. They have lived in abject poverty and yet been happy.
+It is so great a love that we may be deceived by its power. Love conquers all, is a common saying. In a sense this is true. Because of the love of two people for each other, they have withstood torture and oppression. They have undergone hardship and misery and deprivation. They have lived in abject poverty and yet been happy.
 
 Love conquers all that is outside of us. But the Writings tell us and experience shows that love does not conquer selfishness - not at first. The enemy within is proof against love. Love is not sufficient to banish the mean emotions of the unregenerate heart, the petty jealousies, the desire to dominate another, the spirit of distrust, the sword of anger. In a most remarkable passage, one that is key to all our understanding of the Lord's way to us, He said that when He came on earth, He came because His love was not enough. The Divine good by itself, He said, was inadequate to overcome evil. Love is like the blunt edge of a sword, or like a bow without arrows - powerless in the face of determined evil. So the Lord clothed Himself in truth, and from that truth He conquered hell (@TCR 85, 86). He established the way of truth, and this way, this path leads us to our dreams (@AC 2034).
 
