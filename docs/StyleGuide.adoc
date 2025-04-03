@@ -27,6 +27,9 @@ WARNING: Tremendous! quantity of footnotes is posing a problem here
 , comma separates verses + 
 - for a range of chapters or verses + 
 : colon separates chapter:verse + 
+all numerals Arabic, not Roman
+
+Code or searches should consider commas *_optionally_* followed by a space.
 
 (1 Chronicles|1 Corinthians|1 Esdras|1 John|1 Kings|1 Maccabees|1 Peter|1 Samuel|1 Thessalonians|1 Timothy|2 Chronicles|2 Corinthians|2 Esdras|2 John|2 Kings|2 Peter|2 Samuel|2 Thessalonians|2 Timothy|3 John|Acts|Amos|Colossians|Daniel|Deuteronomy|Ecclesiastes|Ecclesiasticus|Ephesians|Esther|Exodus|Ezekiel|Ezra|Galatians|Genesis|Habakkuk|Haggai|Hebrews|Hosea|Isaiah|James|Jeremiah|Job|Joel|John|Jonah|Joshua|Jude|Judges|Judith|Lamentations|Leviticus|Luke|Malachi|Mark|Matthew|Micah|Nahum|Nehemiah|Numbers|Obadiah|Odes|Philemon|Philippians|Proverbs|Psalms|Revelation|Romans|Ruth|Song of Solomon|Titus|Zechariah|Zephaniah)
 
@@ -35,12 +38,15 @@ WARNING: Tremendous! quantity of footnotes is posing a problem here
 
 (@AC 123-125, 1234[5]; @DP 3) + 
 wrapped in parentheses unless inappropriate + 
+Titles are abbreviated, without trailing period + 
+space between title and number
 leading @ + 
 , comma separates numbers in same book
 ; semi-colon separates books + 
-- ranges acceptable
+  spaces around punctuation are possible and optional + 
+- ranges acceptable + 
+[] sections in brackets
 
-Titles are abbreviated, without trailing period:
 
 @(5M|9Q|AC|AE|AngIdea|AR|Ath|BE|CL|CanonsNC|Char|ConvAng|Coro|DFaith|DLW|DLife|DLord|DLove|DMin|DP|DSS|DWis|DeConj|DeConsum|DeDeoSalv|DeDomino|DeInfluxus|DeJust|DeMiraculis|DeVerbo|Dicta Probantia|Docu|EU|EccHist|HH|HistCrea|ISB|Inv|LJCont|LJPost|LJ|Letters|NJHD|PP|SE|SciaDoc|TCR|Adversaria|WHApp|WH)
 
@@ -63,13 +69,20 @@ For separating short lines, +
 without a blank line between them + 
 append the spaceplusspace sequence  ` + `
 
+==== ##[.underline]#Thematic Breaks:###
+
+Several titles use a visible paragraph separator to indicate a thematic break. For our project, these should be converted to three dashes.
+
+---
+
+
 ==== ##[.underline]#Page Breaks:###
 
 following a blank line, a new line starting with three '<' characters:
 
 <<<
 
-Note that this kind of markup only works for document types which understand page breaks. The default document type (:doctype:) is html. + 
+Note that this kind of markup only works for document types which understand pages. The default document type (:doctype:) is html. + 
 Changing the doctype happens in the header section at the top of the file. + 
 _See there for this._
 
