@@ -7,6 +7,7 @@ include::../template-attributes.adoc[]
 The book actually uses Ahimelech five times (for Abimelech)
 NCBS search can't find it
 ////
+
 General Church Publication Committee + 
 Bryn Athyn, Pennsylvania + 
 1967
