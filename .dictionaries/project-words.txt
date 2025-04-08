@@ -12,6 +12,7 @@ apud
 Athyn
 Aulen
 bakemeat
+behaviour
 Benade
 Bethphage
 Bezalel
@@ -19,8 +20,11 @@ Bryces
 Bryn
 Canaanitish
 Celestia
+changeth
 Chedorlaomer
+Christiana
 Christiandom
+Clowes
 Coelestia
 cognitions
 committeh
@@ -34,6 +38,7 @@ DANDRIDGE
 Davidic
 detre
 Dibb
+Divinum
 doctrinals
 Duell
 Eber
@@ -52,6 +57,7 @@ Fosdick
 Fosdick's
 Gerar
 Glenview
+Glorifcation
 Gustave
 Gyllenhaal
 Hadad
@@ -60,9 +66,12 @@ Haran
 Hindmarsh
 historicals
 Hivites
+Houghton
+Humanum
 Hyatt
 illum
 implantations
+inbuilding
 inmostly
 inmosts
 intellectualiter
@@ -112,6 +121,7 @@ propter
 puer
 Rabboni
 reasonings
+Religio
 roamings
 saidst
 salvability
@@ -157,3 +167,4 @@ vastation
 vastations
 Verbo
 Vergilius
+verimost
