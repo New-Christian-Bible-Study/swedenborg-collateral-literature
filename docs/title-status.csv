@@ -1,45 +1,45 @@
 TITLE,AUTHOR,Proofing,Markup,Markup Errors,Spelling Errors,Notes
-Additamentum,Sandstrom,Maynard,Maynard,0,-,spelling errors all latin words
-Application_of_Doctrine,DeCharms,,,0,?-2,tricky outlining (nested ordered lists)
-As_from_Self_and_the_Two_Essentials_of_the_Church,Sandstrom,,,0,?-1,"this file is only a segment of something larger; first part missing, clearly."
-Authority_in_the_New_Church,Tafel,,,0,>,lots of proper names and latin
+Additamentum,Sandstrom,Maynard,Maynard,0,-,
+Application_of_Doctrine,DeCharms,,,0,-,tricky outlining (nested ordered lists)
+As_from_Self_and_the_Two_Essentials_of_the_Church,Sandstrom,,,0,-,"this file is only a segment of something larger; first part missing, clearly."
+Authority_in_the_New_Church,Tafel,,,0,-,lots of proper names and latin
 BSN,Dole,Steve,don't,-,,not presently integrated
-Chapel_Talks_on_Vital_Subjects,Odhner,,,0,11,
-Crown_of_Revelations,Acton,,,0,10,
+Chapel_Talks_on_Vital_Subjects,Odhner,,,0,-,
+Crown_of_Revelations,Acton,,,0,-,
 Divine_Allegory,Odhner,,,0,-,spellings are OK; proper names and old style
 Divine_Word_Opened,Bayley,,,0,-,spellings are OK; proper names and old style
 Doctrinal_Papers,Alden,,,0,>,
 Doctrine_of_Reflection,DeCharms,,,0,0,
-Effects_of_the_Last_Judgment,Odhner,,,0,68,
-Essays_on_the_Lords_Prayer,Odhner,,,0,20,
-Essays_on_the_Ten_Commandments,Odhner,,,0,15,
-Externals_of_the_New_Church,Odhner,,,0,16,
+Effects_of_the_Last_Judgment,Odhner,,,0,66,
+Essays_on_the_Lords_Prayer,Odhner,,,0,-,
+Essays_on_the_Ten_Commandments,Odhner,,,0,-,
+Externals_of_the_New_Church,Odhner,,,0,-,
 Faith_and_Falsity,Odhner,,,0,>,
 Fundamentals_of_the_New_Church,Odhner,,,0,>,
-Glorification,Pendleton,,,0,60,
-Grand_Man,Odhner,,,0,35,
+Glorification,Pendleton,,,0,55,
+Grand_Man,Odhner,,,0,-,
 Great_Truths_on_Great_Subjects,Bayley,,,0,>,some  bogus Romans (xxlvii); merit close confirmation
 Magnificent_Scenes,Bayley,,,0,>>,
-Nature_of_the_Spiritual_World,Acton,,,0,56,
-New_Church_and_Modern_Christianity,DeCharms,,,0,3,
+Nature_of_the_Spiritual_World,Acton,,,0,-,
+New_Church_and_Modern_Christianity,DeCharms,,,0,-,
 Notes_on_the_Divine_Providence,Dibb,,,0,13,investigate significant troubles with source
 Parables_of_the_Old_Testament_Explained,Mitchell,,,0,78,some  bogus Romans (xxlvii); merit close confirmation
 Principles_of_Government,DeCharms,done/MHR,done/MHR,0,0,
-Reflections_on_Some_Popular_Fallacies,Odhner,,,0,15,
-Repentance,Pendleton,,,0,10,
+Reflections_on_Some_Popular_Fallacies,Odhner,,,0,-,
+Repentance,Pendleton,,,0,-,
 Saul_David_and_Solomon,Odhner,done/MHR,done/MHR,0,OK,
-Scripture_Paradoxes_-_Their_True_Explanation,Bayley,,,0,100,
-Selected_Papers_and_Addresses,Buss,,,0,20,?original diagrams available??
-Sermons_Concerning_the_Lord,Gladish,,,0,44,
-Sermons_-_Expository_and_Practical,Bruce,,,0,86,
+Scripture_Paradoxes_-_Their_True_Explanation,Bayley,,,0,>,
+Selected_Papers_and_Addresses,Buss,,,0,-,?original diagrams available??
+Sermons_Concerning_the_Lord,Gladish,,,0,40,
+Sermons_-_Expository_and_Practical,Bruce,,,0,-,
 Sermons_Illustrating_the_Doctrine_of_the_Lord,DeCharms,,,0,>,work to be done on Bible refs
-Sermons_on_the_Ten_Commandments_Volume_1,Acton,,,0,38,some Romans
-Sermons_on_the_Ten_Commandments_Volume_2,Acton,,,0,17,some Romans
-Sermons_on_the_Word,Hyatt,,,0,>,
-Spiritual_World,Odhner,,,0,79,over 1200 Footnotes
-Survey_of_the_Arcana,Odhner,complete/MHR,done,0,5,
-Ten_Commandments,Cranch,,,0,19,
-Topics_from_the_Writings,Pendleton,,,0,68,
+Sermons_on_the_Ten_Commandments_Volume_1,Acton,,,0,34,some Romans
+Sermons_on_the_Ten_Commandments_Volume_2,Acton,,,0,-,some Romans
+Sermons_on_the_Word,Hyatt,,,0,-,
+Spiritual_World,Odhner,,,0,-,over 1200 Footnotes
+Survey_of_the_Arcana,Odhner,complete/MHR,done,0,0,
+Ten_Commandments,Cranch,,,0,-,
+Topics_from_the_Writings,Pendleton,,,0,-,
 Twelve_Discourses,Bayley,,,0,>,
 Visible_God,Sandstrom,done/MHR,done/MHR,0,0,should be checked against an original; see //comments
-What_the_New_Church_Teaches,Buss,,,0,78,
+What_the_New_Church_Teaches,Buss,,,0,58,looks like a rough scan/ocr

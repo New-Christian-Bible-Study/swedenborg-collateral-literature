@@ -151,7 +151,7 @@ This is the true love of country, and as this love animates the defenders of a c
 
 Numbers 35:15, 34.
 
-Matth. V. 21-26.
+Matthew 5:21-26.
 
 @CL 365-6.
 
@@ -200,7 +200,7 @@ And here let us again bear in mind that the neighbor who is to be loved and prot
 
 Isaiah 12, 12-22.
 
-Matth. Vi, 19-34.
+Matthew 6:19-34.
 
 @TCR 493, or
 
@@ -285,9 +285,9 @@ But every man who shuns evil as sin against God, on whatever plane he shuns it, 
 
 Deuteronomy 32:22-30,34.
 
-Matth. V. 27-32.
+Matthew 5:27-32.
 
-@TCR 316, or
+@TCR 316 or
 
 @HH 379.
 
@@ -301,7 +301,7 @@ The first reference to polygamy that occurs in the Old Testament is found in Gen
 
 and, in the historical sense, that nation or church which was in such a state. We say, nation or church, because in ancient times the nation and the church were one and the same, the church being a matter of the whole nation. By Cain and his descendants, therefore, is meant those nations or churches which descended from the primitive Adamic Church after the crime committed on Abel; i. e., after the separation of faith from charity. it was in these nations, or, at any rate, in the last of them, and not in the laws of God, that polygamy originated.
 
-Because the churches descended from Cain were thus perverted it was necessary that a new beginning be made in the Adamic Church. And, therefore, to Adam and Eve was born a third son, who was called Seth, because he was given instead of Abel whom Cain slew (Genesis 4, 25). From Seth was descended the church or nation called Noah,--a nation which, when the flood of evils descended to destroy the Adamic Church, was preserved as the nucleus of a new church. This nation had evidently preserved the spirit of obedience to God. It is also clear that it had preserved the institution of monogamy, for this is involved in the fact that Noahs wife and the three wives of his [three] sons, entered into the ark (Gen. Vii, 13)
+Because the churches descended from Cain were thus perverted it was necessary that a new beginning be made in the Adamic Church. And, therefore, to Adam and Eve was born a third son, who was called Seth, because he was given instead of Abel whom Cain slew (Genesis 4, 25). From Seth was descended the church or nation called Noah,--a nation which, when the flood of evils descended to destroy the Adamic Church, was preserved as the nucleus of a new church. This nation had evidently preserved the spirit of obedience to God. It is also clear that it had preserved the institution of monogamy, for this is involved in the fact that Noah's wife and the three wives of his [three] sons, entered into the ark (Gen. Vii, 13)
 
 After Noah with whom a new church was established, comes a long line of nations or churches ending in tire nation of Terah the fattier of Abram. It is quite clear that this nation was a perverted and idolatrous offspring of the Ancient Church. The account of Abrams temptation to sacrifice his son, Isaac, shows that Abram was accustomed to the ideas of human sacrifices as a part of the worship of his God; for a nine cannot be tempted except to that to which he is inclined or accustomed. Again, the fact that Rachel, when leaving her home, which was the nation from which Abram had come, took with her her fathers images or idols (Genesis 31, 19), plainly indicates that this nation was in idolatry.
 
@@ -570,7 +570,7 @@ In the inmost sense therefore, the commandment, Thou shalt not commit adultery, 
 
 == XXX. MARRIAGE AND ADULTERY.
 
-Psalms xlvi.
+Psalms 46.
 
 Revelation 21, 9-27.
 
@@ -650,11 +650,11 @@ The conflict between these two men or minds is a conflict which all must enter; 
 
 == XXXII. THE ORIGIN OF EVIL.
 
-Psalms cxxxix.
+Psalms 139.
 
-Revelation v, 1-6.
+Revelation 5:1-6.
 
-@CL 528, or
+@CL 528 or
 
 @HH 302.
 
@@ -842,7 +842,7 @@ But in the supreme sense the Lord Himself is the neighbor. For He says, Ye are m
 
 == XXXVII. THE LUST OF EVILS.
 
-grep -oPh "[A-Z][a-z]{1,3}\.(\s[0-9ivxlc]+)", 10-20.
+Isaiah 1:10-20.
 
 Matthew 15, 1-20.
 
