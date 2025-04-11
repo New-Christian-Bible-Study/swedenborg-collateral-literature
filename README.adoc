@@ -14,11 +14,10 @@ Accordingly, there is an AsciiDoc extension published by AsciiDoctor for use wit
 
 To set up a working environment, start with the instruction guides online at https://github.com/New-Christian-Bible-Study/swedenborg-collateral-literature/tree/main/docs/setup (still being improved) .... 
 
-Once configured, the general workflow here is as follows:
-Select a file to work on from the status list: `docs/title-status.csv`
-Open the file from the `text/` directory.
+Once configured, the general workflow here is envisioned to be:
+Select a file to work on from the status list: `docs/title-status.csv`; then open the .adoc file from the `text/` directory.
 
-Each file is exposed to multiple work streams which can be concurrent.
+Each file is available for multiple work streams which can be concurrent.
 
 1. Editing Text - proofreading and editing the text; what we're working with here has been through a process which is likely paginated, likely line wrapped, likely includes dash characters which split a word at the line boundary, or represent a common term such as parent-in-law, or breaks the stream of thought - as a semicolon might also serve. The digital tools which have processed these files don't really distinguish between these uses, and you'll see where dashes need spaces added or removed, or need to be deleted, or inserted. Lines may ought to be broken, or joined. The only authoritative guide to any individual text is usually not available to us. Some of us will have bound published books which would be considered authoritative. Some authoritative sources may no longer be available at all.
 
@@ -26,9 +25,11 @@ Each file is exposed to multiple work streams which can be concurrent.
 
 3. Background Editing - can be applied to the entire project fileset, at any time, for doing things such as converting roman numerals to integers, standardizing the form and style of common elements such as Biblical and Writings references. It's where the text and the markup intersect. See the document `docs/StyleGuide.adoc` for punctuation usage as it should be applied to both text and markup editing.
 
+4. Proofing against an Original - which can encompass the others - requires access to some presentation of the authoritative original.
+
 One way to proceed with text proofing is in real time in the VSCode interface. Commit your changes to the repo at least once per day.
 
-Another way to engage the proofreading is to download the .PDF for local reading, or print it out and edit on paper; or download the EPUB for reading on your mobile device.
+Another way to engage the proofreading is to download the .PDF for local reading, or print it out and edit on paper; or download the EPUB for reading on your mobile device. From these you can make annotations while reading offline; and return to enter the edits.
 
 In any case, please annotate(*) **the Status file (docs/title-file.csv)** by putting your name into the Proofing field for your chosen Title, and use VSCode from time to time (weekly or so; whatever you're comfortable with) to make the edits which your proofreading revealed. All edits are made to the .adoc file in `text/`
 
