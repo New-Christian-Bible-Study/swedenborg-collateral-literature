@@ -8,6 +8,7 @@
 sourcedir='../text'
 pdfdest='../pdfs'
 epubdest='../epubs'
+mobidest='../mobis'
 
 [ -f /tmp/adoc.log ] && rm /tmp/adoc.log
 
@@ -22,6 +23,9 @@ createepub () {
 #	echo "Creating $epubdest/$title.pdf from $sourcedir/$title.adoc"
 	printf "...e"
 	asciidoctor-epub3 -D $epubdest $sourcedir/$sourcefile 2>/dev/null && printf "pub "
+	printf "...m"
+	ebook-convert $epubdest/$title.epub $mobidest/$title.mobi >/dev/null && printf "obi"
+	
 }
 
 
