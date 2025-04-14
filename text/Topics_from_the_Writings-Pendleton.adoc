@@ -30,7 +30,7 @@ Ath. Cr. --Athanasian Creed. +
 @LJCont --Continuation of the Last Judgment. + 
 @DLove --Divine Love. + 
 @DLW --Divine Love and Wisdom. + 
-Docu. --Documents Concerning Swedenborg. + 
+@Docu --Documents Concerning Swedenborg. + 
 @DP --Divine Providence. + 
 @DWis --Divine Wisdom. + 
 @EAK --Economy of the Animal Kingdom. + 

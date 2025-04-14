@@ -99,7 +99,7 @@ Coro. - Coronis to TCR (posth.)
 De Conj. On Marriage (posth.)
 @DeVerbo - The Word from Experience (posth.)
 DLW - Divine Love and Wisdom (1763)
-Docu. - Tafel's "Documents"
+@Docu - Tafel's "Documents"
 DP - Divine Providence (1764)
 Ecc. Hist. - Ecclestiastical History of the New Church (posth.)
 EU - Earths in the Universe (1758)
@@ -323,7 +323,7 @@ Swedenborg was gradually introduced into full wakeful consciousness of the spiri
 
 Swedenborg was chosen for this exploration of the spirit-world partly on account of his love of truth and his experience in natural research.(*58) It was necessary that he should approach his task objectively-discarding the preconceptions of his contemporaries. He had to gather his material patiently, and record with fidelity what he saw and heard and felt even when he did not understand it fully or at once. That he did not always understand the reasons or causes which lay behind the phenomena which he describes in the first years of his sojourn among spirits and angels, is clear from the early entries in his Diary where he frequently uses the expressions, "I do not yet know," or "I do not know."(*59) Rather than jumping to quick conclusions he suspended his judgment in the manner of a mature student. And when the explanation came, he notes it with the phrase, "It was granted me to know . . . ." or "granted me to perceive. . . ."
 
-(*58.) @TCR 850; @ISB 20, Docu. 246
+(*58.) @TCR 850; @ISB 20, @Docu 246
 (*59.) @SE 281, 278, 637e, 1011, 1005, 1042, etc.
 
 Even spiritual experiences require time! He could not at once enter into the inmost heavens. In the first few years after his call, the spirits with whom he openly associated were largely "spirits such as are with man," or spirits recently deceased. There were many mixed strata of spirits in the unjudged spirit-world! These ranged in quality from very good to very bad. But owing to the state of the world of spirits at that time, most of them were very corporeal and in gross hallucinations, thinking that there was no after-life but that they were still in the material body. Since spirits are unable to use their own corporeal memory they usually did not know who they had been on earth; but they entered into agreeable parts of Swedenborg's memory-field so fully that at the time they believed themselves to be he, and thought that they were doing and writing and experiencing the things which he did and sensed in the natural world. Such spirits could not remain long with Swedenborg, for he often undertook to show them that they were not men. They spoke with Swedenborg in his own language, taking on the forms of his natural memory which they then felt as their own.
@@ -1112,7 +1112,7 @@ The risen spirit may thus find death imperceptible, and at first nothing seems t
 
 (79). @CL 192
 (80). @HH 457
-(81). Docu. 243, "Letters and Memorials . . ." (Acton), 1955, page 696
+(81). @Docu 243, "Letters and Memorials . . ." (Acton), 1955, page 696
 
 We need not think that the things and persons which are seen by the novitiate spirit during these first few days are merely phantasies, mere memory survivals or insubstantial illusions. The spirit actually sees and handles spiritual things. The illusive features which distort the inner truth come solely from the fact that he interprets spiritual things as material, and sees them through the spectacles of his earthly past. Yet angels, visiting a newcomer in his little home of memory, would see that home almost as the spirit did. For what the angels would see as a spiritual object is the state of that spirit.
 
@@ -5080,7 +5080,7 @@ This day by day recital, told by a trained observer in entirely objective fashio
 
 The account of the judgment may indeed be classed with other memorable relations which are found interspersed in the Writings. One of Swedenborg's friends, Count von Hopken, once asked him why he published such relations of his experiences in the other life, which would prove an obstacle to the reception of the doctrine. But Swedenborg then replied that the Lord had commanded him to publish them, although he realized that there would be those Who would ridicule him for them and regard them as incredible.(1)
 
-(1). Docu. 6:27
+(1). @Docu 6:27
 
 Men have a reluctance to picture the life of the spiritual world for fear of materializing it. Even Swedenborg himself went through a state, during the first few years after his spiritual senses had been opened, when he experienced repeated shocks at finding the spiritual world so substantially complete, so complicated, so confusingly like the natural world and yet so utterly different! Spirits had bodies, yet no bodies; they lived upon spaces, yet not in spaces; they were surrounded by nature, yet it was not nature. There were so many perplexing appearances and apparent contradictions!
 
@@ -5898,9 +5898,9 @@ Only those spirits receive the doctrine "who have been in a spiritual affection 
 In a letter to Dr. Beyer, written in 1766, Swedenborg states that "the New Heaven of Christians, out of which the New Jerusalem will descend from the Lord (Revelation 21:1, 2), is not yet fully completed."(20) The next year he relates: "I daily see spirits and angels, from ten to twenty thousand, descending and ascending and being set in order."
 Later, in 1770, he comments that "the spheres of spiritual truths are as yet few, being only in the new heavens."(21) But in April, 1771, he wrote Dr. Beyer that "the New Heaven from which the New Jerusalem will descend is now almost completed."(22)
 
-(20). Docu. 230
-(21). Docu. 234; @TCR 619[6]
-(22). Docu. 245, BB
+(20). @Docu 230
+(21). @Docu 234; @TCR 619[6]
+(22). @Docu 245, BB
 
 By the "completion" of the New Heaven was meant, of course, only that it had become a functional whole, complete as to all the uses that are represented in a human form. And this near completion followed within a year of that memorable day, June 19, 1770, when the Lord sent forth His twelve apostles into various provinces of the spiritual world to proclaim the new gospel that the Lord God Jesus Christ alone ruled over the two worlds and over the lives of men and angels.(23)
 
@@ -5957,9 +5957,9 @@ or to think that acts of social justice or generosity, or devotion to scientific
 (39). BE 102f; @TCR 619,784
 
 When and how the New Church would be established on earth Swedenborg was not allowed to know or predict, beyond hinting that there had to be Christian universities to prepare a new clergy free from the old errors, and that the gentiles would eventually be more receptive than those of the European world.(40) But that the Writings were to be the means of its establishment is clear from one of his letters to Beyer:
-(40). Docu. 234, LJ 74
+(40). @Docu 234, LJ 74
 
-"I am certain of this: that at the appearance of [the "Universal Theology of the New Heaven and the New Church"] the Lord our Savior will labor both mediately and immediately toward the establishment throughout the whole of Christendom of a new church based upon this theology" (Docu. 245BB, April 30, 1771).
+"I am certain of this: that at the appearance of [the "Universal Theology of the New Heaven and the New Church"] the Lord our Savior will labor both mediately and immediately toward the establishment throughout the whole of Christendom of a new church based upon this theology" (@Docu 245BB, April 30, 1771).
 
 Indeed, the New Church would become the "truly Christian Church."
 However its various organized bodies may grow, decrease, or be replaced by others, yet as the final dispensation it "will never undergo consummation," but will "endure to eternity"; being "foreseen from the creation of the world" as "the crown of the four antecedent churches."(41)
