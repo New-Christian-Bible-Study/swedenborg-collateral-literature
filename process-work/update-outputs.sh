@@ -6,9 +6,9 @@
 # 	if adoc last modified, create a new one
 
 sourcedir='../text'
-pdfdest='../pdfs'
-epubdest='../epubs'
-mobidest='../mobis'
+pdfdest='/ssd1/Concordance/publish/pdfs'
+epubdest='/ssd1/Concordance/publish/epubs'
+mobidest='/ssd1/Concordance/publish/mobis'
 
 [ -f /tmp/adoc.log ] && rm /tmp/adoc.log
 
