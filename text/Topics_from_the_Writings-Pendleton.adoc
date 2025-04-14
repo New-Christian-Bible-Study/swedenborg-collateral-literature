@@ -30,7 +30,7 @@ Ath. Cr. --Athanasian Creed. +
 @LJCont --Continuation of the Last Judgment. + 
 @DLove --Divine Love. + 
 @DLW --Divine Love and Wisdom. + 
-Docu. --Documents Concerning Swedenborg. + 
+@Docu --Documents Concerning Swedenborg. + 
 @DP --Divine Providence. + 
 @DWis --Divine Wisdom. + 
 @EAK --Economy of the Animal Kingdom. + 
@@ -925,7 +925,7 @@ In the other world, the odor of wine was perceived, coming from those who conver
 
 It is stated (@AC 10040) that bread without wine does not give nourishment to the body; that is, that the body is "better nourished" when there is wine. (See @AC 8352, and compare @AC 5576; @AC 6078.)
 
-Wine is spoken of as being used in heaven, especially at marriage feasts. (@CL 14; @CL 20.) Conjugial love is compared to "noble wine." (@CL 475.) So also is the genuine truth of the Word. (@TCR 215.) The true worship of the Lord is compared to the "odor of the grape and the taste of wine." (Coronis 51.)
+Wine is spoken of as being used in heaven, especially at marriage feasts. (@CL 14; @CL 20.) Conjugial love is compared to "noble wine." (@CL 475.) So also is the genuine truth of the Word. (@TCR 215.) The true worship of the Lord is compared to the "odor of the grape and the taste of wine" (@Coro 51).
 
 Avarice is compared to "new unfermented wine, which is sweet to the taste, but infests the stomach." (@TCR 404.)
 
