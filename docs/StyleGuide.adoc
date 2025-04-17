@@ -22,9 +22,9 @@ WARNING: Tremendous! quantity of footnotes is posing a problem here
 ==== ##[.underline]#References to Bible verses:###
 
 (Genesis 1, 3:1-4,8; Exodus 2:6,9) + 
- wrapped in parentheses + 
-; semi-colon separates Books + 
-, comma separates verses + 
+ wrapped in parentheses (optional) + 
+; semi-colon separates Chapters, and Books + 
+, comma separates verses, and chapters + 
 - for a range of chapters or verses + 
 : colon separates chapter:verse + 
 all numerals Arabic, not Roman
@@ -45,7 +45,7 @@ leading @ +
 ; semi-colon separates books + 
   spaces around punctuation are possible and optional + 
 - ranges acceptable + 
-[] sections in brackets
+[] sections, including comma separated, and hyphenated ranges, in brackets
 
 
 @(5M|9Q|AC|AE|AngIdea|AR|Ath|BE|CL|CanonsNC|Char|ConvAng|Coro|DFaith|DLW|DLife|DLord|DLove|DMin|DP|DSS|DWis|DeConj|DeConsum|DeDeoSalv|DeDomino|DeInfluxus|DeJust|DeMiraculis|DeVerbo|Dicta Probantia|Docu|EU|EccHist|HH|HistCrea|ISB|Inv|LJCont|LJPost|LJ|Letters|NJHD|PP|SE|SciaDoc|TCR|Adversaria|WHApp|WH)
