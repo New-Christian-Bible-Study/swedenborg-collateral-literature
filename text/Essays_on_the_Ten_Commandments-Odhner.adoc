@@ -1,7 +1,8 @@
 = Essays on the Ten Commandments
-By Hugo Lj. Odhner
+By Hugo Lj. Odhner   1972
 include::../template-attributes.adoc[]
 
+Essays on the Ten Commandments + 
 By Hugo Lj. Odhner +
 General Church Publication Committee +
 Bryn Athyn, Pa. +
@@ -14,18 +15,24 @@ Bryn Athyn, Pa. +
 
 This little volume is prepared for private reading or for use in public worship.
 
-The TEN COMMANDMENTS, also called the DECALOGUE, are a summary of all things of religion (@TCR 286). They are explained in their natural and interior meanings in the Divinely inspired Writings of Emanuel Swedenborg (1688-1772) written for the use of the New Church which is meant by "the New Jerusalem." In his last published work, The True Christian Religion, a chapter (nos. 282-331) is devoted to this subject. And in the posthumous work The Apocalypse Explained the Ten Commandments are dealt within a series of inserts - especially between paragraphs 948-1028. In the exegetical text The Arcana Coelestia their spiritual meaning is laid clear in the setting of chapter twenty of the book of Exodus (nos. 8860-8912). Further explanations are given in The Doctrine of Life, 53-91 and nos. 108ff., in The Doctrine of the Sacred Scripture 67, and in The Divine Providence nos. 329 ff., etc.
+The TEN COMMANDMENTS, also called the DECALOGUE, are a summary of all things of religion (@TCR 286). They are explained in their natural and interior meanings in the Divinely inspired Writings of Emanuel Swedenborg (1688-1772) written for the use of the New Church which is meant by "the New Jerusalem." 
 
-__For the sake of completeness a copy of the two versions of the Commandments are prefaced.
-[line-through]#(pages 5-7).#
+- In his last published work, "The True Christian Religion", a chapter (@TCR 282-331) is devoted to this subject.
 
-// NOTE: page numbers above and below are no longer valid.
+- And in the posthumous work "The Apocalypse Explained", the Ten Commandments are dealt within a series of inserts - especially between paragraphs (@AE 948-1028).
 
-And in order to facilitate the use of these Scripture passages in worship, a selection of lessons from the threefold Word is also given [line-through]#on p. 8.#
+- In the exegetical text "The Arcana Coelestia", their spiritual meaning is laid clear in the setting of chapter twenty of the book of Exodus (@AC 8860-8912).
 
-__
-Hugo Lj. Odhner
+- Further explanations are given in "The Doctrine of Life", (@DLife 53-91) and (@DLife 108ff),
 
+- in "The Doctrine of the Sacred Scripture" (@DSS 67), + 
+and in "The Divine Providence" (@DP 329 ff).
+
+For the sake of completeness a copy of the two versions of the Commandments is appended on following pages.
+
+And in order to facilitate the use of these Scripture passages in worship, a selection of lessons from the threefold Word is also provided
+
+Hugo Lj. Odhner + 
 Bryn Athyn, Pennsylvania +
 April 1971
 
@@ -59,6 +66,8 @@ Thou shalt not covet thy neighbor's wife, nor his manservant, nor his maidservan
 
 Exodus 20:1-17
 
+---
+
 <<<
 
 === The Ten Commandments from Deuteronomy
@@ -89,6 +98,8 @@ Thou shalt not covet thy neighbor's house, his field, or his manservant, or his 
 
 Deuteronomy 5:1,6-22
 
+---
+
 <<<
 
 Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind. This is the first and great commandment. And the second is like unto it, thou shalt love thy neighbor as thyself. On these two commandments hang all the law and the prophets.
@@ -99,113 +110,23 @@ A new commandment I give unto you, That ye love one another; as I have loved you
 
 John 13:34,35
 
-=== Selected Readings for Services _is an unresolved table_
-// preserve for now; maybe insert image? but could be a table?
-////
-Text Old Testament, etc. New Testament
+=== Selected Readings for Services 
 
-Writings
+[cols="4"]
+[%autowidth]
+|===
+|1|Exodus 20:1-21|Matthew 12:30-45|@AC 8862
+|2|Deuteronomy 5:1-22|Mark 3:20-35|@SE 1304
+|3|Isaiah 55,56 |Luke 13:10-22|@AC 8885 (parts)
+|4|Deuteronomy 32:1-20, 44- 46|Luke 2:39-52|@TCR 307,308 (parts)
+|5|Genesis 9:1-17|John 15:1-17|@DSS 67
+|6|Genesis 2:15-25|Matthew 19:1-15|@CL 204-205
+|7|Joshua 7:16-26|John 10:1-18|@DLife 91-97
+|8|Genesis 3:1-19|Matthew 26:59-75|@TCR 321-323
+|9|Deuteronomy 6:1-15|Matthew 18:21-35|@TCR 400: 11-14
+|10|Revelation 18:1-21|Matthew 18:1-20|@TCR 400:8-10
+|===
 
-1
-
-2
-
-3
-
-4
-
-5
-
-6
-
-7
-
-8
-
-9
-
-Exodus 20:3-7
-
-Exodus 20:1-21
-
-Matthew 12: 30-45
-
-AC 8862
-
-Exodus 20:7
-
-Deuteronomy 5:1-22
-
-Mark 3:20-35
-
-SD 1304
-
-Exodus 20:8-11
-
-Isaiah 55,56
-
-Luke 13:10-22
-
-AC 8885 (parts)
-
-Exodus 20:12
-
-Deuteronomy 32:1-20, 44- 46
-
-Luke 2:39-52
-
-@TCR 307, 308 (parts)
-
-Exodus 20:13
-
-Genesis 9:1-17
-
-John 15:1-17
-
-SS 67
-
-Exodus 20 14
-
-Genesis 2:15-25
-
-Matthew 19:1-15
-
-CL 204-205
-
-Exodus 20:15
-
-Joshua 7:16-26
-
-John 10:1-18
-
-@DLife 91-97
-
-Exodus 20:16
-
-Genesis 3:1-19
-
-Matthew 26:59-75
-
-@TCR 321-323
-
-Exodus 20:17
-
-Deuteronomy 6:1-15
-
-Matthew 18:21-35
-
-@TCR 400: 11-14
-
-10
-
-Exodus 20:17
-
-Revelation 18:1-21
-
-Matthew 18:1-20
-
-@TCR 400[8]-10
-////
 
 <<<
 
