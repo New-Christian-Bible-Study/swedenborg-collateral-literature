@@ -23,11 +23,11 @@ WARNING: Tremendous! quantity of footnotes is posing a problem here
 
 (Genesis 1, 3:1-4,8; Exodus 2:6,9) + 
  wrapped in parentheses (optional) + 
-; semi-colon separates Chapters, and Books + 
+; semi-colon separates Verses from new Chapters, and Books + 
 , comma separates verses, and chapters + 
-- for a range of chapters or verses + 
+- hyphenate a range of chapters or verses + 
 : colon separates chapter:verse + 
-all numerals Arabic, not Roman
+all numerals Arabic, not Roman + 
 
 Code or searches should consider commas *_optionally_* followed by a space.
 
@@ -39,16 +39,16 @@ Code or searches should consider commas *_optionally_* followed by a space.
 (@AC 123-125, 1234[5]; @DP 3) + 
 wrapped in parentheses unless inappropriate + 
 Titles are abbreviated, without trailing period + 
-space between title and number
+space between title and number; period following number is discouraged
 leading @ + 
-, comma separates numbers in same book
+, comma separates numbers in same book + 
 ; semi-colon separates books + 
   spaces around punctuation are possible and optional + 
 - ranges acceptable + 
-[] sections, including comma separated, and hyphenated ranges, in brackets
-
+[] sections, including comma separated, and hyphenated ranges, in brackets + 
 
 @(5M|9Q|AC|AE|AngIdea|AR|Ath|BE|CL|CanonsNC|Char|ConvAng|Coro|DFaith|DLW|DLife|DLord|DLove|DMin|DP|DSS|DWis|DeConj|DeConsum|DeDeoSalv|DeDomino|DeInfluxus|DeJust|DeMiraculis|DeVerbo|Dicta Probantia|Docu|EU|EccHist|HH|HistCrea|ISB|Inv|LJCont|LJPost|LJ|Letters|NJHD|PP|SE|SciaDoc|TCR|Adversaria|WHApp|WH)
+
 
 See this sheet for more information: + 
 https://github.com/New-Christian-Bible-Study/swedenborg-concordance/blob/main/docs/swedenborg-works-info.csv

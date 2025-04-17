@@ -21,5 +21,5 @@
 Edited and Printed by NCBS + 
 from best available representations of original manuscript.
 
-Last Revised {docdatetime}
+Last Revised {docdate}
 

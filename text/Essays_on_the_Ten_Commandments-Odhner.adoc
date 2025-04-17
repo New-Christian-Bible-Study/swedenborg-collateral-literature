@@ -30,7 +30,7 @@ and in "The Divine Providence" (@DP 329 ff).
 
 For the sake of completeness a copy of the two versions of the Commandments is appended on following pages.
 
-And in order to facilitate the use of these Scripture passages in worship, a selection of lessons from the threefold Word is also provided
+And in order to facilitate the use of these Scripture passages in worship, a selection of lessons from the threefold Word is also provided.
 
 Hugo Lj. Odhner + 
 Bryn Athyn, Pennsylvania +
@@ -98,22 +98,28 @@ Thou shalt not covet thy neighbor's house, his field, or his manservant, or his 
 
 Deuteronomy 5:1,6-22
 
+{empty}
+
 ---
+
+{empty}
 
 <<<
 
-Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind. This is the first and great commandment. And the second is like unto it, thou shalt love thy neighbor as thyself. On these two commandments hang all the law and the prophets.
+=== Selected Readings for Services 
 
+Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind. This is the first and great commandment. And the second is like unto it, thou shalt love thy neighbor as thyself. On these two commandments hang all the law and the prophets. + 
 Matthew 22:27-40
 
-A new commandment I give unto you, That ye love one another; as I have loved you, that ye also love one another. By this shall all men know that ye are my disciples, if ye have love one to another.
-
+A new commandment I give unto you, That ye love one another; as I have loved you, that ye also love one another. By this shall all men know that ye are my disciples, if ye have love one to another. + 
 John 13:34,35
 
-=== Selected Readings for Services 
 
 [cols="4"]
 [%autowidth]
+[frame=none]
+[grid=none]
+.Selected Readings for Services
 |===
 |1|Exodus 20:1-21|Matthew 12:30-45|@AC 8862
 |2|Deuteronomy 5:1-22|Mark 3:20-35|@SE 1304
