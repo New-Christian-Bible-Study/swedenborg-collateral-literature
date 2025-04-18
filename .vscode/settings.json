@@ -4,37 +4,31 @@
       "name": "Swedenborg English words",
       "path": "${workspaceFolder}/.dictionaries/dictionary-en-swedenborg.txt",
       "scope": "workspace",
-      "addWords": true
+      "addWords": false
     },
     "swedenborgWorksAbbrevs": {
       "name": "Swedenborg Works abbreviations",
       "path": "${workspaceFolder}/.dictionaries/dictionary-works-abbrev.txt",
       "scope": "workspace",
-      "addWords": true
+      "addWords": false
     },
     "swedenborgLatin": {
       "name": "Swedenborg Latin words",
       "path": "${workspaceFolder}/.dictionaries/dictionary-la-swedenborg.txt",
       "scope": "workspace",
-      "addWords": true
+      "addWords": false
     },
     "Swedish": {
       "name": "Swedish dictionary",
       "path": "${workspaceFolder}/.dictionaries/dictionary-sv.txt",
       "scope": "workspace",
-      "addWords": true
+      "addWords": false
     },
     "Latin": {
       "name": "Latin dictionary provided by Lewis and Short (do not modify)",
       "path": "${workspaceFolder}/.dictionaries/dictionary-la-lewis-short.txt",
       "scope": "workspace",
-      "addWords": true
-    },
-    "project-words": {
-      "name": "project-words",
-      "path": "${workspaceFolder}/.dictionaries/project-words.txt",
-      "description": "Words used in this project",
-      "addWords": true
+      "addWords": false
     },
     "concordance-words": {
       "name": "concordance-words",
@@ -42,18 +36,20 @@
       "description": "Words used in this project",
       "addWords": false
     },
+   "project-words": {
+      "name": "project-words",
+      "path": "${workspaceFolder}/.dictionaries/project-words.txt",
+      "description": "Words used in this project",
+      "addWords": true
+    }
   },
 
-  "custom": true, // Enable the `custom` dictionary
-  "internal-terms": false // Disable the `internal-terms` dictionary
+"cSpell.minWordLength": 2,
 
 "cSpell.enabledFileTypes": {
   "asciidoc": true
   },
-"cSpell.ignoreWords": [
-  "Paddanaram",
-  "Aix-la-Chapelle"
-  ],
+
 
 // Always assume first line of CSV file is the header
 "csv-edit.readOption_hasHeader": "true",
@@ -62,59 +58,8 @@
 "scm.diffDecorations": "none",
 
 "asciidoc.preview.asciidoctorAttributes": {
-  }
+  },
 
-  "cSpell.words": [
-        "Abihu",
-        "Abimelech",
-        "Abiram",
-        "Agag",
-        "Almont",
-        "antiquitatis",
-        "ariseth",
-        "Astruc",
-        "Carolsfeld",
-        "cataloguer",
-        "Coelestia",
-        "Dathan",
-        "dont",
-        "Elim",
-        "endureth",
-        "Fryeburg",
-        "Genèse",
-        "Gibeonites",
-        "Gihon",
-        "Gilgal",
-        "heareth",
-        "Hiddekel",
-        "inmostly",
-        "Korah",
-        "Marah",
-        "Memoires",
-        "MEMORIAM",
-        "Mineola",
-        "Moise",
-        "moveth",
-        "Naaman",
-        "Nadab",
-        "Nain",
-        "Originaux",
-        "Parait",
-        "Pison",
-        "principiates",
-        "proprium",
-        "reasonings",
-        "Rephidim",
-        "Schnorr",
-        "scientifica",
-        "Servi",
-        "Shem",
-        "sheweth",
-        "springeth",
-        "Sturges",
-        "Tremblay",
-        "uttereth",
-        "Woofenden"
-    ]
+
 }
 
