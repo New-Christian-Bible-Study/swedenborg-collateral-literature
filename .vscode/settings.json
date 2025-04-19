@@ -1,13 +1,18 @@
 {
 
-"cSpell.language": "en,la,sv,en-GB",
+"cSpell.words": [
+  "swconcord",
+  "adoc"
+  ],
+
+"cSpell.language": "en-US,la,sv,en-GB",
 
 "cSpell.customDictionaries": {
     "swedenborgEnglish": {
       "name": "Swedenborg English words",
       "path": "${workspaceFolder}/.dictionaries/dictionary-en-swedenborg.txt",
       "scope": "workspace",
-      "addWords": false
+      "addWords": true
     },
     "swedenborgWorksAbbrevs": {
       "name": "Swedenborg Works abbreviations",
@@ -19,7 +24,7 @@
       "name": "Swedenborg Latin words",
       "path": "${workspaceFolder}/.dictionaries/dictionary-la-swedenborg.txt",
       "scope": "workspace",
-      "addWords": false
+      "addWords": true
     },
     "Swedish": {
       "name": "Swedish dictionary",
@@ -39,6 +44,18 @@
       "description": "Words used in this project",
       "addWords": false
     },
+    "proper-names": {
+      "name": "proper-names",
+      "path": "${workspaceFolder}/.dictionaries/proper-names.txt",
+      "description": "Proper Names",
+      "addWords": true
+    },
+    "old-style": {
+      "name": "old-style",
+      "path": "${workspaceFolder}/.dictionaries/old-style.txt",
+      "description": "Old Style [...(est|eth)]",
+      "addWords": true
+    },
    "project-words": {
       "name": "project-words",
       "path": "${workspaceFolder}/.dictionaries/project-words.txt",
@@ -50,8 +67,9 @@
 "cSpell.minWordLength": 2,
 
 "cSpell.enabledFileTypes": {
-  "asciidoc": true
-  },
+  "asciidoc": true,
+  "txt": true
+},
 
 
 // Always assume first line of CSV file is the header
@@ -62,6 +80,7 @@
 
 "asciidoc.preview.asciidoctorAttributes": {
   },
+  "cSpell.showAutocompleteDirectiveSuggestions": false,
 
 
 }
