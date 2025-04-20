@@ -6,7 +6,7 @@ include::../template-attributes.adoc[]
 
 Pastor of the New-Jerusalem (or Swedenborgian) Church, St. Paul, Minn. 1903
 
-=== Preface
+== Preface
 
 The Sacred Scriptures are the Word of God, written in a Divine way, and for a Divine purpose.
 
