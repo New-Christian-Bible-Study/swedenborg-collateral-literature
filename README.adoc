@@ -29,7 +29,8 @@ Each file is available for multiple work streams which can be concurrent.
 
 One way to proceed with text proofing is in real time in the VSCode interface. Commit your changes to the repo at least once per day.
 
-Another way to engage the proofreading is to download the .PDF for local reading, or print it out and edit on paper; or download the EPUB or MOBI for reading on your mobile device. From these you can make annotations while reading offline; and return to enter the edits.
+Another way to engage the proofreading is to download the .PDF for local reading, or print it out and edit on paper; or download the EPUB or MOBI for reading on your mobile device. From these you can make annotations while reading offline; and return to enter the edits. + 
+These published files are frequently updated and available at https://angelharbor.org/NCBS
 
 In any case, please annotate(*) **the Status file (docs/title-file.csv)** by putting your name into the Proofing field for your chosen Title, and use VSCode from time to time (weekly or so; whatever you're comfortable with) to make the edits which your proofreading revealed. All edits are made to the .adoc file in `text/`
 

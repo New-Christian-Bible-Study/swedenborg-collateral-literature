@@ -1,59 +1,75 @@
 {
+
+"cSpell.words": [
+  "swconcord",
+  "adoc"
+  ],
+
+"cSpell.language": "en-US,la,sv,en-GB",
+
 "cSpell.customDictionaries": {
     "swedenborgEnglish": {
       "name": "Swedenborg English words",
-      "path": "${workspaceFolder}/.dictionaries/dictionary-en-swedenborg.txt",
-      "scope": "workspace",
+      "path": "${workspaceFolder}/../swedenborg-dictionaries/.dictionaries/dictionary-en-swedenborg.txt",
       "addWords": true
     },
     "swedenborgWorksAbbrevs": {
       "name": "Swedenborg Works abbreviations",
-      "path": "${workspaceFolder}/.dictionaries/dictionary-works-abbrev.txt",
+      "path": "${workspaceFolder}/../swedenborg-dictionaries/.dictionaries/dictionary-works-abbrev.txt",
       "scope": "workspace",
-      "addWords": true
+      "addWords": false
     },
     "swedenborgLatin": {
       "name": "Swedenborg Latin words",
-      "path": "${workspaceFolder}/.dictionaries/dictionary-la-swedenborg.txt",
-      "scope": "workspace",
+      "path": "${workspaceFolder}/../swedenborg-dictionaries/.dictionaries/dictionary-la-swedenborg.txt",
       "addWords": true
     },
     "Swedish": {
       "name": "Swedish dictionary",
-      "path": "${workspaceFolder}/.dictionaries/dictionary-sv.txt",
+      "path": "${workspaceFolder}/../swedenborg-dictionaries/.dictionaries/dictionary-sv.txt",
       "scope": "workspace",
-      "addWords": true
+      "addWords": false
     },
     "Latin": {
       "name": "Latin dictionary provided by Lewis and Short (do not modify)",
-      "path": "${workspaceFolder}/.dictionaries/dictionary-la-lewis-short.txt",
+      "path": "${workspaceFolder}/../swedenborg-dictionaries/.dictionaries/dictionary-la-lewis-short.txt",
       "scope": "workspace",
-      "addWords": true
-    },
-    "project-words": {
-      "name": "project-words",
-      "path": "${workspaceFolder}/.dictionaries/project-words.txt",
-      "description": "Words used in this project",
-      "addWords": true
+      "addWords": false
     },
     "concordance-words": {
       "name": "concordance-words",
-      "path": "${workspaceFolder}/.dictionaries/concordance-words.txt",
+      "path": "${workspaceFolder}/../swedenborg-dictionaries/.dictionaries/concordance-words.txt",
       "description": "Words used in this project",
+      "scope": "workspace",
       "addWords": false
     },
+    "proper-names": {
+      "name": "proper-names",
+      "path": "${workspaceFolder}/../swedenborg-dictionaries/.dictionaries/proper-names.txt",
+      "description": "Proper Names",
+      "addWords": true
+    },
+    "old-style": {
+      "name": "old-style",
+      "path": "${workspaceFolder}/../swedenborg-dictionaries/.dictionaries/old-style.txt",
+      "description": "Old Style [...(est|eth)]",
+      "addWords": true
+    },
+   "project-words": {
+      "name": "project-words",
+      "path": "${workspaceFolder}/../swedenborg-dictionaries/.dictionaries/project-words.txt",
+      "description": "Words used in this project",
+      "addWords": true
+    }
   },
 
-  "custom": true, // Enable the `custom` dictionary
-  "internal-terms": false // Disable the `internal-terms` dictionary
+"cSpell.minWordLength": 2,
 
 "cSpell.enabledFileTypes": {
-  "asciidoc": true
-  },
-"cSpell.ignoreWords": [
-  "Paddanaram",
-  "Aix-la-Chapelle"
-  ],
+  "asciidoc": true,
+  "txt": true
+},
+
 
 // Always assume first line of CSV file is the header
 "csv-edit.readOption_hasHeader": "true",
@@ -62,59 +78,9 @@
 "scm.diffDecorations": "none",
 
 "asciidoc.preview.asciidoctorAttributes": {
-  }
+  },
+  "cSpell.showAutocompleteDirectiveSuggestions": false,
 
-  "cSpell.words": [
-        "Abihu",
-        "Abimelech",
-        "Abiram",
-        "Agag",
-        "Almont",
-        "antiquitatis",
-        "ariseth",
-        "Astruc",
-        "Carolsfeld",
-        "cataloguer",
-        "Coelestia",
-        "Dathan",
-        "dont",
-        "Elim",
-        "endureth",
-        "Fryeburg",
-        "Genèse",
-        "Gibeonites",
-        "Gihon",
-        "Gilgal",
-        "heareth",
-        "Hiddekel",
-        "inmostly",
-        "Korah",
-        "Marah",
-        "Memoires",
-        "MEMORIAM",
-        "Mineola",
-        "Moise",
-        "moveth",
-        "Naaman",
-        "Nadab",
-        "Nain",
-        "Originaux",
-        "Parait",
-        "Pison",
-        "principiates",
-        "proprium",
-        "reasonings",
-        "Rephidim",
-        "Schnorr",
-        "scientifica",
-        "Servi",
-        "Shem",
-        "sheweth",
-        "springeth",
-        "Sturges",
-        "Tremblay",
-        "uttereth",
-        "Woofenden"
-    ]
+
 }
 

@@ -1,0 +1,4 @@
+
+New files entering the process stream enter here for preliminary processing before they are moved into the ../text directory for further processing.
+
+
