@@ -1,5 +1,5 @@
 = Essays on the Ten Commandments
-By Hugo Lj. Odhner   1972
+By Hugo Lj. Odhner 
 include::../template-attributes.adoc[]
 
 Essays on the Ten Commandments + 
