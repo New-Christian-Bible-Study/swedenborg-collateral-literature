@@ -10,55 +10,55 @@
 "cSpell.customDictionaries": {
     "swedenborgEnglish": {
       "name": "Swedenborg English words",
-      "path": "${workspaceFolder}/.dictionaries/dictionary-en-swedenborg.txt",
+      "path": "${workspaceFolder}/../swedenborg-dictionaries/.dictionaries/dictionary-en-swedenborg.txt",
       "scope": "workspace",
       "addWords": true
     },
     "swedenborgWorksAbbrevs": {
       "name": "Swedenborg Works abbreviations",
-      "path": "${workspaceFolder}/.dictionaries/dictionary-works-abbrev.txt",
+      "path": "${workspaceFolder}/../swedenborg-dictionaries/.dictionaries/dictionary-works-abbrev.txt",
       "scope": "workspace",
       "addWords": false
     },
     "swedenborgLatin": {
       "name": "Swedenborg Latin words",
-      "path": "${workspaceFolder}/.dictionaries/dictionary-la-swedenborg.txt",
+      "path": "${workspaceFolder}/../swedenborg-dictionaries/.dictionaries/dictionary-la-swedenborg.txt",
       "scope": "workspace",
       "addWords": true
     },
     "Swedish": {
       "name": "Swedish dictionary",
-      "path": "${workspaceFolder}/.dictionaries/dictionary-sv.txt",
+      "path": "${workspaceFolder}/../swedenborg-dictionaries/.dictionaries/dictionary-sv.txt",
       "scope": "workspace",
       "addWords": false
     },
     "Latin": {
       "name": "Latin dictionary provided by Lewis and Short (do not modify)",
-      "path": "${workspaceFolder}/.dictionaries/dictionary-la-lewis-short.txt",
+      "path": "${workspaceFolder}/../swedenborg-dictionaries/.dictionaries/dictionary-la-lewis-short.txt",
       "scope": "workspace",
       "addWords": false
     },
     "concordance-words": {
       "name": "concordance-words",
-      "path": "${workspaceFolder}/.dictionaries/concordance-words.txt",
+      "path": "${workspaceFolder}/../swedenborg-dictionaries/.dictionaries/concordance-words.txt",
       "description": "Words used in this project",
       "addWords": false
     },
     "proper-names": {
       "name": "proper-names",
-      "path": "${workspaceFolder}/.dictionaries/proper-names.txt",
+      "path": "${workspaceFolder}/../swedenborg-dictionaries/.dictionaries/proper-names.txt",
       "description": "Proper Names",
       "addWords": true
     },
     "old-style": {
       "name": "old-style",
-      "path": "${workspaceFolder}/.dictionaries/old-style.txt",
+      "path": "${workspaceFolder}/../swedenborg-dictionaries/.dictionaries/old-style.txt",
       "description": "Old Style [...(est|eth)]",
       "addWords": true
     },
    "project-words": {
       "name": "project-words",
-      "path": "${workspaceFolder}/.dictionaries/project-words.txt",
+      "path": "${workspaceFolder}/../swedenborg-dictionaries/.dictionaries/project-words.txt",
       "description": "Words used in this project",
       "addWords": true
     }
