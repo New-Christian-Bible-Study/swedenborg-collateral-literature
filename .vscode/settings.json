@@ -11,7 +11,6 @@
     "swedenborgEnglish": {
       "name": "Swedenborg English words",
       "path": "${workspaceFolder}/../swedenborg-dictionaries/.dictionaries/dictionary-en-swedenborg.txt",
-      "scope": "workspace",
       "addWords": true
     },
     "swedenborgWorksAbbrevs": {
@@ -23,7 +22,6 @@
     "swedenborgLatin": {
       "name": "Swedenborg Latin words",
       "path": "${workspaceFolder}/../swedenborg-dictionaries/.dictionaries/dictionary-la-swedenborg.txt",
-      "scope": "workspace",
       "addWords": true
     },
     "Swedish": {
@@ -42,6 +40,7 @@
       "name": "concordance-words",
       "path": "${workspaceFolder}/../swedenborg-dictionaries/.dictionaries/concordance-words.txt",
       "description": "Words used in this project",
+      "scope": "workspace",
       "addWords": false
     },
     "proper-names": {
