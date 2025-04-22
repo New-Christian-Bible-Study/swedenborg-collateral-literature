@@ -21,7 +21,9 @@
 Edited and Printed by NCBS + 
 from best available representations of original manuscript.
 
+[.text-right]
 Last Revised {docdate}
+
 // separator:
 
 '''
