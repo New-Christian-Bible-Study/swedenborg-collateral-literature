@@ -4,12 +4,8 @@ include::../template-attributes.adoc[]
 
 
 ////
-Note: many ' or ' words should be ' of ' words. + 
-(surround with spaces when searching)
-and there are a thousand of ' o[rf] '
-
-I took care of all those; and see many instances of other wrong words
-
+I converted ~900 ' or ' words to ' of ' words.
+EPUB converter isn't handling this many levels well. PDF and HTML do.
 ////
 
 
@@ -79,7 +75,7 @@ February 23, 1971
 [loweralpha]
 ... They are brought within the grasp of any normally intelligent person who approaches them with an open mind.
 [loweralpha]
-... And the whole world is invited to receive these doctrines in heart and faith, and to join in the task of building that spiritual city of God which is called in the Apocalypse the New Jerusalem,
+... And the whole world is invited to receive these doctrines in heart and faith, and to join in the task of building that spiritual city of God which is called in the Apocalypse the New Jerusalem.
 [upperalpha]
 . It is not so difficult for any one to acknowledge intellectually the general teachings of the Writings.
 [arabic]
@@ -87,7 +83,7 @@ February 23, 1971
 [loweralpha]
 ... Unless the mind is deeply imbued with traditional doctrines, and literal interpretation of the Bible, many of the teachings of the Writings are spontaneously recognized as true.
 [lowerroman]
-.... Indeed, many, on people hearing them for the first time, will often say, Yes, that is what I have always believed, although they could not possibly have formulated the idea for themselves or have expressed it in words,
+.... Indeed, many, on people hearing them for the first time, will often say, Yes, that is what I have always believed, although they could not possibly have formulated the idea for themselves or have expressed it in words.
 [lowerroman]
 .... They recognize it as true, but they do not see how greatly it differs from what they had previously been taught.
 [loweralpha]
@@ -101,9 +97,10 @@ February 23, 1971
 [loweralpha]
 ... The doctrines must be clearly understood.
 [loweralpha]
-... The way in which they differ from the established tenets of the former Christian Church must; be clearly seen.
+... The way in which they differ from the established tenets of the former Christian Church must be clearly seen.
 [loweralpha]
 ... And finally, their practical application to the problems or are must be not only understood, but brought into practice.
+//mess above
 [loweralpha]
 ... As the Writings plainly state: All religion is of life, and the life of religion is to do what is good (@DLife 1).
 [lowerroman]
@@ -119,9 +116,9 @@ February 23, 1971
 [arabic]
 .. Let us not suppose that the difficulty of realizing the difference between the teaching of the Writings and the generally accepted religious ideas of the day, and thus the difficulty of understanding how those teachings are intended to be applied, is limited to those who come into contact with the Heavenly Doctrine for the first time.
 [loweralpha]
-... Those of us who have been brought; up in the New Church, and have been familiar with the Writings from earliest childhood, are all too aware of this difficulty.
+... Those of us who have been brought up in the New Church, and have been familiar with the Writings from earliest childhood, are all too aware of this difficulty.
 [lowerroman]
-.... Much of what as know of the doctrine is retained in the memory as abstract knowledge accepted and believed without deep understanding, merely because we are convinced that everything in the Writings is true. And this applies to the most learned of the clergy, as well as to the least learned of the laity.
+.... Much of what we know of the doctrine is retained in the memory as abstract knowledge, accepted and believed without deep understanding, merely because we are convinced that everything in the Writings is true. And this applies to the most learned of the clergy as well as to the least learned of the laity.
 [lowerroman]
 .... A relatively few things - more of course with some than with others - have been rationally confirmed by individual study and reflection, so that they have become matters of deep conviction.
 [lowerroman]
@@ -129,28 +126,28 @@ February 23, 1971
 [loweralpha]
 ... As members of the New Church, therefore, there is nothing more important for us to consider than the all-pervading question of how doctrine is to be applied to life.
 [lowerroman]
-.... We would propose therefore to present a few reflections on this subject in an effort to understand more clearly what; the Writings really mean by the life of religion.
+.... We would propose therefore to present a few reflections on this subject in an effort to understand more clearly what the Writings really mean by the life of religion.
 [lowerroman]
-.... To this end we would examine a few specific teachings, contrast them with parallel ideas prevalent in the Christian world and analyze just what their impact upon our actual life is intended to produce.
+.... To this end we would examine a few specific teachings, contrast them with parallel ideas prevalent in the Christian world, and analyze just what their impact upon our actual life is intended to produce.
 
-`II`. As a general introduction to the subject we would ask ourselves this evening, what do the Writings really mean when they say, All religion is of life find the life of religion is to do that which is good?
+`II`. As a general introduction to the subject we would ask ourselves this evening, what do the Writings really mean when they say, "All religion is of life and the life of religion is to do that which is good"?
 [upperalpha]
 . Surely this is something that we spontaneously recognize as true.
 [arabic]
-.. It must be obvious to every one that; the end and purpose of religion of the good life.
+.. It must be obvious to every one that the end and purpose of religion of the good life.
 [arabic]
 .. That the good life consists in keeping the Commandments of God is the universal testimony of the Word.
 [loweralpha]
 ... As we read in the Law of Moses: Thou shalt hearken to the voice of the Lord thy God, to keep all His commandments which I command thee this day, to do that which is right in the eyes of the Lord thy God (Deuteronomy 13:18).
 [loweralpha]
-... Again: Keep therefore the words of this covenant, and do them, that; ye may prosper in all that ye do (Deuteronomy 29:9).
+... Again: Keep therefore the words of this covenant, and do them, that ye may prosper in all that ye do (Deuteronomy 29:9).
 [loweralpha]
 ... And again: When a righteous man turneth away from his righteousness and committeth iniquity, and dieth in them; for his iniquity that he hath done shall he die. Again when a wicked man turneth away from his wickedness that he hath committed, and doeth that which is lawful and right, he shall save his soul alive.... Therefore, I will judge you, O
 house of Israel, every one according to his ways, saith the Lord God (Ezekiel 18:24, 26, 27, 30).
 [loweralpha]
 ... And in the New Testament: He that; hath my commandments and keepeth them, he it is that loveth me (John 14:21).
 [loweralpha]
-... And again: If ye keep my commandments ye shall abide in my love, even as I have kept; my Fathers commandments and abide in his love (John 15:10). And in many other places.
+... And again: If ye keep my commandments ye shall abide in my love, even as I have kept my Fathers commandments and abide in his love (John 15:10). And in many other places.
 [arabic]
 .. But what then is new about the teaching that religion is of life, and the life of religion is to do that which is good?
 [loweralpha]
@@ -176,7 +173,7 @@ house of Israel, every one according to his ways, saith the Lord God (Ezekiel 18
 [loweralpha]
 ... It is quite possible to profess this faith, and at the same time to be carried along in the stream of life that swirls about us.
 [lowerroman]
-.... We may to all intents and purposes continue to feel, and speak, and. act very much as before.
+.... We may to all intents and purposes continue to feel, and speak, and act very much as before.
 [lowerroman]
 .... And in this case our faith will not greatly change the deeper currents of our life.
 [arabic]
@@ -202,7 +199,7 @@ house of Israel, every one according to his ways, saith the Lord God (Ezekiel 18
 [lowerroman]
 .... For all these things have to do with the life of the body.
 [lowerroman]
-.... But when the Writings any that all religion is of life they refer primarily not to the life of the body, hut above all to the life of the inner mind and spirit of man.
+.... But when the Writings say that all religion is of life, they refer primarily not to the life of the body, but above all to the life of the inner mind and spirit of man.
 [upperalpha]
 . The essence of life is love, Whatever a man loves supremely - loves so deeply that he will sacrifice everything else to attain it, and to protect it - this is his God. And the activity of this love - whatever he thinks, speaks, and does under the impulse of this love - this constitutes his real religion.
 [arabic]
@@ -237,11 +234,11 @@ True intelligence and wisdom is seeing and perceiving what is true and good, and
 [lowerroman]
 .... Such intuition and perception are possible only so far us the spiritual or internal mind is opened and formed.
 [lowerroman]
-.... Mans internal mind can be formed only in one way, namely by man's looking to the Divine and to heaven, and by an inmost willingness to be led by the Divine.
+.... Man's internal mind can be formed only in one way, namely by man's looking to the Divine and to heaven, and by an inmost willingness to be led by the Divine.
 [lowerroman]
 .... When man looks to the Divine and is willing from the heart to be led by the Divine, everything he learns and applies to life causes him to grow in intelligence and wisdom, because then the interior sight belonging to his understanding, and the interior affection belonging to his will are perfected.
 [loweralpha]
-... This, however, is no easy task, The loves into which we are born are those of self and the world; and the loves into which the Lord's teaching is intended to lead us are those of heaven and eternal life.
+... This, however, is no easy task. The loves into which we are born are those of self and the world; and the loves into which the Lord's teaching is intended to lead us are those of heaven and eternal life.
 [lowerroman]
 .... Creeds, doctrines, rituals, moral precepts, all are but necessary means whereby this essential change of love may be effected.
 [lowerroman]
@@ -294,7 +291,7 @@ March 8, 1971
 [upperalpha]
 . This is so obvious that every religion in the world, at least theoretically, teaches the importance of humility.
 [arabic]
-.. Yet ideas as to what genuine humility really is, why it is demanded of us and how it is to be expressed, are extremely various.
+.. Yet ideas as to what genuine humility really is, why it is demanded of us, and how it is to be expressed, are extremely various.
 [loweralpha]
 ... It is in regard to these concepts that the teaching of the Writings is altogether new and distinct from anything to be found in the doctrines of other churches.
 [loweralpha]
@@ -314,7 +311,7 @@ March 8, 1971
 [loweralpha]
 ... A conscientious observance of the prescribed sacrifices and burnt offerings, according to the Law of Moses, was regarded as a sign of humble allegiance to Jehovah.
 [loweralpha]
-... But in times of special danger, distress, or rear, it was thought efficacious to express the spirit of humility by prostration before the altar, or sitting in sackcloth and ashes, or beating the breast, rending the clothing, and loudly proclaiming one's guilt and unworthiness.
+... But in times of special danger, distress, or fear, it was thought efficacious to express the spirit of humility by prostration before the altar, or sitting in sackcloth and ashes, or beating the breast, rending the clothing, and loudly proclaiming one's guilt and unworthiness.
 [loweralpha]
 ... Such outward forms of humility, even though sincerely expressed at the time, could nevertheless be a cloak for a deep sense of pride, and a feeling of self-merit combined with contempt for others who were not so careful to observe the minutiae of the law.
 [loweralpha]
@@ -338,11 +335,11 @@ March 8, 1971
 [loweralpha]
 ... As a result there was impressed upon the child at a very early age a deep sense of guilt, and a powerful fear - the fear of hell-fire and of eternal punishment.
 [loweralpha]
-... Such teaching tended strongly to discourage any spirit; or imitative, to produce a feeling of inferiority, and to inculcate an attitude of unquestioning submission to authority, and of obsequious obedience.
+... Such teaching tended strongly to discourage any spirit, or imitative, to produce a feeling of inferiority, and to inculcate an attitude of unquestioning submission to authority, and of obsequious obedience.
 [arabic]
 .. Although this Christian concept probed much deeper into the heart and the life than did the religion of the Jews, it tended to rouse a spirit of rebellion because it ran counter to the instinctive love of freedom which is perhaps the deepest and most powerful of all man's affections.
 [loweralpha]
-... The Lord wills that man should be free in order that he may enjoy the sense, of achievement and of possession that can be given only with the exercise of judgment and responsibility.
+... The Lord wills that man should be free in order that he may enjoy the sense of achievement and of possession that can be given only with the exercise of judgment and responsibility.
 [lowerroman]
 .... And for this reason a longing for freedom and independence is implanted in the human soul from creation.
 [loweralpha]
@@ -358,7 +355,7 @@ March 8, 1971
 [loweralpha]
 ... It is now declared that so far from being innately corrupt and defiled, man is inherently good, with unlimited possibilities of future progress in the perception of moral and spiritual truth.
 [arabic]
-.. Furthermore, scientific psychology has demonstrated that deep-seated rears implanted in early childhood are the hidden cause of many abnormal mental states.
+.. Furthermore, scientific psychology has demonstrated that deep-seated fears implanted in early childhood are the hidden cause of many abnormal mental states.
 [loweralpha]
 ... Even in their milder forms, such fears engender diffidence, hesitation and uncertainty in moments of stress, when decisive action is essential to success.
 [loweralpha]
@@ -366,7 +363,7 @@ March 8, 1971
 [loweralpha]
 ... In extreme cases this fear and sense of guilt can lead to manic depression, and various forms of melancholia and insanity.
 [arabic]
-.. As a result of these scientific findings, which have been amply confirmed by experiments, and which can readily be demonstrated in everyday experience, the whole teaching of the medieval Church concerning humility has been very widely abrogated, by modern thinkers.
+.. As a result of these scientific findings, which have been amply confirmed by experiments, and which can readily be demonstrated in everyday experience, the whole teaching of the medieval Church concerning humility has been very widely abrogated by modern thinkers.
 [loweralpha]
 ... Present day philosophy demands that any idea of inborn evil must be removed.
 [lowerroman]
@@ -379,6 +376,7 @@ March 8, 1971
 .... It lies at the root of nearly all the more modern sectarian movements in the Christian world such as New Thought, Theosophy, Christian Science, Unity, and many others.
 [lowerroman]
 .... They all agree in seeking escape from the traditional doctrine of original sin by denying either the existence of the inherent power of evil, and emphasizing the innate goodness of human nature, the spark of Divinity in every man.
+//help above
 [lowerroman]
 .... We see the same idea exemplified in the widespread insistence upon the dignity and worth of the individual, the profound respect due to his personality, and to his inalienable human rights.
 
@@ -390,7 +388,7 @@ March 8, 1971
 [loweralpha]
 ... But increasingly it is a humility toward a God who is identified with man's inmost self.
 [loweralpha]
-... The scientific attitude of mind does indeed imply a lack of trust in one's own untried theories, and a humble recognition of the supreme authority of natures laws.
+... The scientific attitude of mind does indeed imply a lack of trust in one's own untried theories, and a humble recognition of the supreme authority of nature's laws.
 [loweralpha]
 ... In addition there is constant teaching of the importance of acknowledging the superior judgment of great thinkers, learned men, and geniuses in every field.
 [loweralpha]
@@ -398,7 +396,8 @@ March 8, 1971
 
 `III`. Superficially viewed, the teaching of the Writings can easily be mistaken for a throwback to the thought of the Middle Ages; but further examination will show that this is by no means the case. That teaching differs radically from both the medieval and the modern concepts of humility.
 [upperalpha]
-. The Writings seats that man is indeed born into evils of every kind, and that his native will is irredeemably corrupt.
+. The Writings state that man is indeed born into evils of every kind, and that his native will is irredeemably corrupt.
+//'state' above for 'seats'
 [arabic]
 .. But this appearance of similarity with the traditional Christian doctrine is profoundly modified by the further teaching:
 [loweralpha]
@@ -408,7 +407,7 @@ March 8, 1971
 [loweralpha]
 ... God therefore does not condemn him on account of them unless, or until, he, of his own free choice, confirms them in faith and life.
 [arabic]
-.. It is true that man cannot liberate, himself from these tendencies to evil by any will or power of his own but he is entirely dependant upon the Divine Providence, and mercy of the Lord for deliverance.
+.. It is true that man cannot liberate himself from these tendencies to evil by any will or power of his own; but he is entirely dependant upon the Divine Providence, and mercy of the Lord for deliverance.
 [loweralpha]
 ... True humility is an acknowledgment from the heart that this is so, and such an acknowledgment is a prime essential of man's salvation.
 [loweralpha]
@@ -444,7 +443,7 @@ March 8, 1971
 [loweralpha]
 ... They encourage man therefore in self-condemnation and morbid introspection, seeking thereby to weaken his resistance and increase the power of evil to imprison his will and his thought.
 [upperalpha]
-. All this is true, but the cure for these ills of the spirit; the antidote to the poison of fear and guilt does not lie in the denial that evil exists, nor in the false assertion that man is inherently good.
+. All this is true, but the cure for these ills of the spirit - the antidote to the poison of fear and guilt - does not lie in the denial that evil exists, nor in the false assertion that man is inherently good.
 [arabic]
 .. It does not lie in a false confidence that he has life, power, intelligence, and ability in himself.
 [loweralpha]
@@ -452,17 +451,17 @@ March 8, 1971
 [loweralpha]
 ... It will do so temporarily, or so long as one is successful, or has hope of succeeding.
 [loweralpha]
-... But if and when one is opposed by circumstances that are unchangeable, or by irresistible force; if and when one is brought face to face with disaster and the inevitable loss of what one most deeply desires, the illusion of self-power is destroyed, and man is left altogether helpless, the victim of utter despair.
+... But if and when one is opposed by circumstances that are unchangeable, or by irresistible force - if and when one is brought face to face with disaster and the inevitable loss of what one most deeply desires -  the illusion of self-power is destroyed, and man is left altogether helpless, the victim of utter despair.
 [arabic]
-.. The cure lies solely in the acknowledgment of the truth, that man is born into a tendency to evils of every kind; that he has no power, nor will in himself whereby these tendencies may be overcome, and therefore that he is in need of constant Divine help.
+.. The cure lies solely in the acknowledgment of the truth that man is born into a tendency to evils of every kind; that he has no power, nor will in himself whereby these tendencies may be overcome, and therefore that he is in need of constant Divine help.
 [loweralpha]
 ... But it lies at the same time in the recognition that these tendencies to evil are not himself; that he is not under Divine condemnation because of them; that he need not make himself guilty of them.
 [loweralpha]
 ... It lies in a recognition of the fact that the Lord has secretly insinuated into his mind and heart a counter tendency to feel delight in what is good, and heavenly, and of Divine order. This also is not himself, but is a gift of Divine mercy for which he can claim no iota of merit.
 [loweralpha]
-... It lies in the realization that; the Lord endows him with life and power to resist the evil tendencies, and to choose instead those that are good.
+... It lies in the realization that the Lord endows him with life and power to resist the evil tendencies, and to choose instead those that are good.
 [lowerroman]
-.... It lies in the acknowledgment that he in required to make this choice on his own initiative, altogether as if his life were his own, even while in his heart he knows and acknowledges that the power to do so is not his own, but; codes from the Lord alone.
+.... It lies in the acknowledgment that he is required to make this choice on his own initiative, altogether as if his life were his own, even while in his heart he knows and acknowledges that the power to do so is not his own, but comes from the Lord alone.
 [lowerroman]
 .... It lies in the realization that while he, as of himself, is consciously endeavoring to overcome one evil, the Lord is secretly protecting him from the overpowering influence of hell, constantly maintaining a balance between the forces of good and evil, and thus protecting his freedom to choose the one and reject the other, and this by a thousand unseen operations of His Providence, without which man would be completely helpless.
 [arabic]
@@ -472,7 +471,7 @@ March 8, 1971
 [loweralpha]
 ... It is an ideal of humility that overcomes fear not by any delusion of our own goodness or power, but by a profound confidence in the ever-present power and the mercy of the Lord.
 [loweralpha]
-... But as to the distinctive nature of this confidence as revealed for us in the Heavenly Doctrine, we would speak at the next; class.
+... But as to the distinctive nature of this confidence as revealed for us in the Heavenly Doctrine, we would speak at the next class.
 
 Reading: @AC 8271, 7550; @DP 320. Music: Hymn 64- 489 (verse 1 to open)
 
@@ -480,9 +479,9 @@ Reading: @AC 8271, 7550; @DP 320. Music: Hymn 64- 489 (verse 1 to open)
 
 TRUE CONFIDENCE.
 
-@TCR 137: ... (An angel said to Swedenborg) Our faith (the faith of heaven) ... is, was, and forever will be, a faith in the Lord God the Savior, whose Human is Divine, and whose Divine is Human. Thus it is adapted to reception, and by it the Divine spiritual is united to the natural of man and a spiritual faith is formed in the natural, and from the spiritual light in which our faith is, the natural becomes as it were transparent. The truths of which our faith consists are as many as the verses in the sacred volume. These truths are like stars, which by their light make the faith manifest, and give it form. Man acquires this faith from the Word by means of his natural light, in which light it is knowledge, thought, persuasion; but the Lord causes it, in those who believe in Him, to become conviction, trust, confidence. Thus faith becomes spiritual-natural, and by means of charity becomes living.
+(@TCR 137[5]): ... (An angel said to Swedenborg) Our faith (the faith of heaven) ... is, was, and forever will be, a faith in the Lord God the Savior, whose Human is Divine, and whose Divine is Human. Thus it is adapted to reception, and by it the Divine spiritual is united to the natural of man and a spiritual faith is formed in the natural, and from the spiritual light in which our faith is, the natural becomes as it were transparent. The truths of which our faith consists are as many as the verses in the sacred volume. These truths are like stars, which by their light make the faith manifest, and give it form. Man acquires this faith from the Word by means of his natural light, in which light it is knowledge, thought, and persuasion; but the Lord causes it, in those who believe in Him, to become conviction, trust, and confidence. Thus faith becomes spiritual-natural, and by means of charity becomes living.
 
-AC 5963: ... (The states of those in the other life) are according to the perception of Good and truth with those who are there, thus according to their perception of the Lord's presence. According to this perception they have tranquillity; for they who are in the perception of the Lord's presence are in the perception that; each and all things which befall them tend to their good, and that evils do not reach them; hence they are in tranquillity. Without such faith or confidence in the Lord no one can possibly come to the tranquillity of peace.
+(AC 5963): ... (The states of those in the other life) are according to the perception of good and truth with those who are there, thus according to their perception of the Lord's presence. According to this perception they have tranquillity; for they who are in the perception of the Lord's presence are in the perception that each and all things which befall them tend to their good, and that evils do not reach them; hence they are in tranquillity. Without such faith or confidence in the Lord no one can possibly come to the tranquillity of peace.
 
 @TCR 344: The esse of the faith of the New Church is: confidence in the Lord God the Savior Jesus Christ; a trust that he who lives well and believes aright is saved by Him.
 
@@ -498,9 +497,9 @@ March 23, 1971
 
 `I`. We have said that an attitude of internal humility is the very first essential of a truly religious life. But the Writings teach that genuine humility must be accompanied by a deep sense of confidence in the Lord, and by an abiding trust in the dispensations of His Providence.
 [upperalpha]
-. The one indeed is the compliment of the other.
+. The one indeed is the complement of the other.
 [arabic]
-.. Humiliation is but a source of weakness that is born of fear, unless it; is balanced by confidence in some power outside of one's self that can give a sense of security and assurance.
+.. Humiliation is but a source of weakness that is born of fear, unless it is balanced by confidence in some power outside of one's self that can give a sense of security and assurance.
 [arabic]
 .. For this reason, just as every religion teaches humility, so every religion also teaches that we must have faith in God, and confidence in His power to protect and save.
 [upperalpha]
@@ -520,7 +519,8 @@ March 23, 1971
 [loweralpha]
 ... A research scientist may have faith in a mistaken theory or cure for a disease; or he may have a wrong idea as to how to solve some mechanical problem; and in consequence he may spend months or years in a fruitless attempt to demonstrate his theory.
 [loweralpha]
-... It is equally true that a man may dine throughout life to a faith in a false god - in a god who does not exist, or in an imaginary heaven that has no reality, or in a kind of religious life that is not saving.
+... It is equally true that a man may incline throughout life to a faith in a false god - in a god who does not exist, or in an imaginary heaven that has no reality, or in a kind of religious life that is not saving.
+//'incline' was a fix of 'dine'
 [lowerroman]
 .... He may of course be utterly sincere.
 [lowerroman]
@@ -586,7 +586,7 @@ March 23, 1971
 [loweralpha]
 ... Regarding everything human as limited and imperfect, they tend to deny that God is human.
 [loweralpha]
-... They postulate a formless force, mechanical, utterly impersonal, devoid of purpose, producing the wonders of nature by accident, or by chance,
+... They postulate a formless force, mechanical, utterly impersonal, devoid of purpose, producing the wonders of nature by accident, or by chance.
 [loweralpha]
 ... Such a God is altogether unapproachable, unresponsive, incapable of loving or of being loved, and the mind reverts to atheism, with nothing in which to place confidence except self-will and self-intelligence.
 [loweralpha]
@@ -1306,7 +1306,7 @@ February 27, 1953. May 4, 1971 +
 [loweralpha]
 ... And these are the evils against which those who belong to the New Church are to give battle, by resolutely striving to live according to that spiritual truth.
 [loweralpha]
-... And as this is done, we have the Divine promise that the Lord, in a thousand miraculous ways, will deliver mankind from the power of evil, and will establish His heavenly kingdom in the hearts of men, that; they may come at last into the peace, security, and happiness of genuine charity and mutual love.
+... And as this is done, we have the Divine promise that the Lord, in a thousand miraculous ways, will deliver mankind from the power of evil, and will establish His heavenly kingdom in the hearts of men, that they may come at last into the peace, security, and happiness of genuine charity and mutual love.
 [loweralpha]
 ... Then indeed will the prophecy be fulfilled: Behold, the tabernacle of God is with men and He will dwell with them, and they shall be His people, and God Himself shall be with them, and be their God (Revelation 21:3).
 
