@@ -1,6 +1,6 @@
 = Chapel Talks on Vital Subjects
 By Reverend Ormond de Charms Odhner
-// include::../template-attributes.adoc[]
+include::../template-attributes.adoc[]
 
 PREFACE
 
@@ -15,133 +15,20 @@ There has been a great demand on the part of those New Church people who do not 
 The talks here presented were given originally to the boys and girls of the Secondary Schools of the Academy of the New Church at their regular morning worship services. The talks are remarkable in that few of them are more than five minutes long, yet they cover the subject with virility and clearness.
 // ?'virility'? //
 
-Another work, endeavoring to do the same thing, is now available. It is a similar booklet by the editor containing ten talks on the prophet Elijah, twenty-six talks on the prophet Daniel, and fourteen talks on Easter. Yet another book by him, in process or completion, will contain fifty talks to children on the Creed, and other selected subjects.
+Another work, endeavoring to do the same thing, is now available. It is a similar booklet by the editor containing ten talks on the prophet Elijah, twenty-six talks on the prophet Daniel, and fourteen talks on Easter. Yet another book by him, in process of completion, will contain fifty talks to children on the Creed, and other selected subjects.
 
 Rev. Karl R. Alden, Editor
 
 ////
-TABLE OF CONTENTS
-
-Preface I Prayer I 1
-
-Prayer II 2
-
-Prayer III: Why Pray? 3
-
-Prayer IV: For What is it Right to Pray? 4
-
-Prayer V: Praying for Others 5
-
-Prayer VI: Particulars Concerning Prayer 6
-
-II Selected Subjects
-
-Worship 7
-
-Ritual I 8
-
-Ritual II 9
-
-With or Against I 10
-
-With or Against II 11
-
-Greatness of Service I 12
-
-Greatness of Service II: Ambition 13
-
-III Knowledges and Uses
-
-Knowledge of God 14
-
-Knowledge of the Means of Salvation 15
-
-Knowledge of the Life After Death 16
-
-Knowledge of the Purpose of Creation 17
-
-Knowledge of Conjugial Love 18
-
-Uses are the Lord with Man 19
-
-Use and Pleasure 20
-
-Sincerely, Justly, and Faithfully 21
-
-Use and Youth 22
-
-IV The Book of Judges
-
-I 23
-
-II 24
-
-Story of Gideon I 25
-
-Story of Gideon II 26
-
-Story of Gideon III 27
-
-Story of Gideon IV 28
-
-Abimelech 29
-
-Jephtha I 30
-
-Jephtha II 31
-
-Shibboleth 32
-
-Hair 33
-
-Samson's Instability 34
-
-Philistines 35
-
-Samson 36
-
-Samson and Delilah 37
-
-V The Book or Jonah
-
-I 38
-
-II 39
-
-III 40
-
-IV 41
-
-V 42
-
-VI The Christmas Story
-
-Advent I: Prophecies 43
-
-Advent II 44
-
-Virgin Birth 45
-
-Reformation and Regeneration 46
-
-Preparation by John 47
-
-And He Called His Name Jesus 48
-
-The Incarnation 49
-
-Thoughts Revealed 50
-
-The Christmas Star 51
-
-Out of Egypt 52
-
-The Incarnate Word 53
+see the author's TOC here:
+https://newchristianbiblestudy.org/bundles/ncbsw/on-deck/english/books/Chapel%20Talks%20on%20Vital%20Subjects%20-%20O.%20Odhner.html
 ////
 
-== CHAPTER I
+<<<
 
-=== PRAYER -- I
+== Chapter `I` -- Prayer
+
+=== PRAYER -- `I`
 
 Psalm 66
 
@@ -149,16 +36,16 @@ This morning we have begun a series of chapel services dealing with the subject 
 
 Almost from infancy we have indulged in prayer. Today, with all of us prayer is habitual, and anything that becomes a habit tends to lose meaning. Occasionally, therefore, it is well to pause and give serious consideration to the subject. What is prayer? What should it be? How does it work? For what is it right to pray?
 
-Perhaps the most general definition or prayer given in the Writings is found in the Arcana (2535) where it is taught that prayer is talk with God together with some internal view or the subject of the prayer.
+Perhaps the most general definition of prayer given in the Writings is found in the Arcana (2535) where it is taught that prayer is talk with God together with some internal view of the subject of the prayer.
 
-Talk with God - that conceivably could be mere idle prattling. But, it is added, together with an internal view or the subject. That makes prayer serious and also helps to teach what it is right to pray for. You might want a candy bar; you could hardly have any internal view on the subject, though, and you therefore would not pray for it.
+Talk with God - that conceivably could be mere idle prattling. But, it is added, together with an internal view of the subject. That makes prayer serious and also helps to teach what it is right to pray for. You might want a candy bar; you could hardly have any internal view on the subject, though, and you therefore would not pray for it.
 
 Prayer should be serious, done with real thought. Yet there is probably not a person here who has not frequently experienced a certain common embarrassment. We begin to say the Lord's Prayer; all of a sudden we find ourselves at the Amen, with no memory at all of what went before. Is that wrong? Is it evil? Would it be better not to pray?
 
-It is not wrong, if such prayer is said from a sense or duty. Swedenborg wrote, I perceived that prayers to the Lord, if made from conscience, as a duty, are they good. (@SE 3126) Nor is such prayer evil if it is done from habit, provided, and that is important:
+It is not wrong, if such prayer is said from a sense of duty. Swedenborg wrote, I perceived that prayers to the Lord, if made from conscience, as a duty, are they good. (@SE 3126) Nor is such prayer evil if it is done from habit, provided, and that is important:
 Provided - that a sense of duty inspires that habit.
 
-But prayer - prayer without thought, or prayer with thought - is evil if it is done for show. As the Lord taught in the. Sermon on the Mount, prayer is evil if it is done to be seen or men.
+But prayer - prayer without thought, or prayer with thought - is evil if it is done for show. As the Lord taught in the. Sermon on the Mount, prayer is evil if it is done to be seen of men.
 
 Evil prayer? In the Psalms it is written, I cried unto God with my mouth. If I had regarded iniquity in my heart, the Lord would not have heard. Yes, prayer can be evil, for, as the Writings teach again and again, men's prayers are such as the men themselves are in their hearts.
 
@@ -172,7 +59,7 @@ It is the heart, then, (the will and the consequent faith) which determines the 
 
 When the Lord was on earth and was teaching men how to pray, He said, When ye pray, use not vain repetitions as the heathen do, for they think that they shall be heard for their much speaking. Be not ye, therefore, like unto them; for your Father knoweth what things ye have need of, before ye ask Him.
 
-A striking instance or the much - speaking of the heathen was told or in the above reading: From morning to evening the prophets of Baal called to their god to send fire from heaven to light their sacrifice. They howled and yelled; they leaped upon Baals altar; they cut themselves with knives, after their manner, until the blood rushed out. But there was neither voice, nor any answer, nor any that had regard. The prophets could not get Baal to answer them, for all their much speaking.
+A striking instance of the much - speaking of the heathen was told of in the above reading: From morning to evening the prophets of Baal called to their god to send fire from heaven to light their sacrifice. They howled and yelled; they leaped upon Baals altar; they cut themselves with knives, after their manner, until the blood rushed out. But there was neither voice, nor any answer, nor any that had regard. The prophets could not get Baal to answer them, for all their much speaking.
 
 Now, Baal, of course, was no god and could not answer. But in regard to the true God, our heavenly Father, the Lord also taught, Think not that ye shall be heard for your much speaking. Your Father knoweth what things ye have need of, before ye ask Him.
 
@@ -240,25 +127,25 @@ It is remotely possible that our prayers for another may have some effect upon t
 
 And yet, prayer for another can be efficacious if he knows that he is being prayed for, for he then may think of his well - wishers desires and act accordingly, though that, too, is up to him.
 
-Probably, therefore, the greatest use of prayer for another is one with the use of all prayer: It changes us. If we consider another persons plight seriously enough to pray for him, that prayer may move us to do some actual work for his good. And even beyond. that, in prayer, thinking of the other person, our minds will be opened upward to the Lord, so that He may give us a deeper understanding or what the other person really needs in life, and may inspire us with a better concept of how his eternal good may be achieved.
+Probably, therefore, the greatest use of prayer for another is one with the use of all prayer: It changes us. If we consider another persons plight seriously enough to pray for him, that prayer may move us to do some actual work for his good. And even beyond. that, in prayer, thinking of the other person, our minds will be opened upward to the Lord, so that He may give us a deeper understanding of what the other person really needs in life, and may inspire us with a better concept of how his eternal good may be achieved.
 
 Tomorrow we shall conclude our talks on prayer with a consideration of a few of the lesser teachings on the subject given in the Writings.
 
 === PRAYER -- VI: PARTICULARS CONCERNING PRAYER
 
-This morning we conclude our series of talks on prayer with a consideration of certain lesser teachings of the Writings concerning it - the God to whom to pray, and, finally, consideration or prayer without thought.
+This morning we conclude our series of talks on prayer with a consideration of certain lesser teachings of the Writings concerning it - the God to whom to pray, and, finally, consideration of prayer without thought.
 
 We pray, of course, to our heavenly Father, the Lord Jesus Christ. One of the great purposes in the incarnation was to show men forever that God is in the human form - to make the Divine Human God visible. During prayer, therefore, it is right to hold in the mind a picture of a human figure - an image of the Lord as a Man. There is, of course, no actual picture or portrait of the Lord. We thus do not need to have in our mind a picture of Him based on any portrait we have seen. But we should, nevertheless, each have in our minds our own individual picture of Him, and it should be the picture of a Man, for that alone is the correspondential image of what He really is - a Divine Human God, because a God of love and wisdom.
 
 And now, finally, a few words concerning prayer without thought. Frequent repetition of the Lord's Prayer almost invariably brings with it a lack of attention to the words of the Prayer, and the Writings have much to say about that. First, they teach that the words of Scripture -- (and this includes the Prayer) -- the words of Scripture, when present in a man's conscious mind, are actually the basis from which the angels of heaven draw their wisdom and intelligence. In other words, when we read, hear, or recite the words of Scripture, the angels of heaven gain wisdom therefrom. This is especially the case with the repetition of the Lord's Prayer.
 
-But several remarkable statements are made concerning this, namely, that when little children repeat the Lord's Prayer, the angels get more wisdom from it than when it is said by adults; that when adults repeat the Prayer without thought, the angels get more out of it than when it is said by adults with thought; but also that when Swedenborg himself repeated it, the angels got the most of all out or it.
+But several remarkable statements are made concerning this, namely, that when little children repeat the Lord's Prayer, the angels get more wisdom from it than when it is said by adults; that when adults repeat the Prayer without thought, the angels get more out of it than when it is said by adults with thought; but also that when Swedenborg himself repeated it, the angels got the most of all out of it.
 
 A deeper study of these teachings, however, reveals the following things. 1. When little children say the Prayer, without understanding, but in innocence and aware of its holiness, the angels gain wisdom from it - more wisdom than they can gain when adults say it who misunderstand its meaning. 2. When adults say it without thought - without thinking of their misinterpretation of its meaning - angels gain more wisdom from it than when adults say it, consciously thinking of its misinterpretation. But, 3. When Swedenborg said it, consciously thinking of the true meaning of it that he had learned from heaven, than the angels got he most of all out of it.
 
-It is of use, then, to say the Prayer without thought - not of much use to us, but of use to the angels of heaven. It is better to do that than to think of it and put the wrong meaning into it. But of the greatest use or all is its repetition with conscious thought of its true meaning as that is now revealed in the Writings.
+It is of use, then, to say the Prayer without thought - not of much use to us, but of use to the angels of heaven. It is better to do that than to think of it and put the wrong meaning into it. But of the greatest use of all is its repetition with conscious thought of its true meaning as that is now revealed in the Writings.
 
-== CHAPTER II
+== Chapter `II` -- Selected Subjects
 
 === WORSHIP
 
@@ -266,27 +153,27 @@ Luke 4:16-22
 
 When the Lord was on earth He said that He had given us an example of what we, too, should do. One of the things He did one of the things it was His custom to do - was to enter into the synagogue and worship. Worship, then, is a thing Divinely commanded, as, indeed, all three parts of the Word - the Old Testament, the New Testament, and the Writings - frequently state.
 
-It is our intention to devote our morning chapel services this week to a consideration of the subject or our morning, worship the place where we worship, the form of our ritual, and the purpose and use of this daily service.
+It is our intention to devote our morning chapel services this week to a consideration of the subject of our morning, worship the place where we worship, the form of our ritual, and the purpose and use of this daily service.
 
 From now on when you enter this room the curtains will already be opened. When the curtains are shut this room is simply an auditorium, and it is proper to use it for any purpose at all. But when the curtains are parted, it becomes our chapel, a house of the Lord, a church, and our conduct here must then be regulated accordingly. In the house of the Lord we do not talk, slouch, push, or pass notes, but rather comport ourselves with dignity and reverence, as we would in the presence of the Lord Himself, shutting from our minds all thoughts of worldly and personal matters, that we may turn our whole heart and mind to the praise and contemplation of our God.
 
-On the valance above the curtains you see the Latin words, _Nunc licet intellectualiter in arcana fidel_ - the words which Swedenborg saw inscribed above the door of a heavenly temple which represented the New Church - Now it is permitted to enter intellectually, into the mysteries of faith. And that is one of the chief uses of all New Church worship - to help us comprehend with the understanding the meaning or the worship of our lives.
+On the valance above the curtains you see the Latin words, _Nunc licet intellectualiter in arcana fidel_ - the words which Swedenborg saw inscribed above the door of a heavenly temple which represented the New Church - Now it is permitted to enter intellectually, into the mysteries of faith. And that is one of the chief uses of all New Church worship - to help us comprehend with the understanding the meaning of the worship of our lives.
 
 In the East, in the very center of the chancel, raised above all else, is the altar on which rests a copy of the Word. All worship, to be genuine, is founded upon the Word, the teachings of the Lord. The Word, then, is the very center of our worship, and is higher, more important, than anything else. And on our chancels the Word is placed in the East, for in heaven the spiritual East, the origin and arising of all things, is the Lord.
 
 But it is the open Word that is the center of our worship, and this is truly significative. The Lord's teachings kept shut up on a bookshelf have never done anyone any good at all. The Word must be opened, studied, understood, applied to life. That is real worship. And even more than this is signified by the opening of the Word in our services. It is an interesting historical fact that at the very first Mew Church service of worship ever held, the leader, Robert Hindmarsh, spontaneously opened the Word at the beginning of the service. The practice has remained with us ever since - the one distinctive ritual of New Church worship. It is most appropriate, for the whole purpose of the revelation the Lord gave at His second advent was to open up the Word in order to show the genuine Divine power and glory within its stories.
 
-Flanking the lord, therefore, is a complete set of the Writings; arranged in chronological order, for it is in the Writings that the Lord has now revealed Himself, and on each volume of the Writings here there is inscribed, in a facsimile or Swedenborg's handwriting, the words which Swedenborg himself wrote upon two copies of the Writings in Holland: Hic Liber est adventus Domini - This book is the advent; of the Lord. (One of those copies has been found, and is now in the British Museum.) Swedenborg said that he wrote the same words on all copies of the Writings in heaven.
+Flanking the lord, therefore, is a complete set of the Writings; arranged in chronological order, for it is in the Writings that the Lord has now revealed Himself, and on each volume of the Writings here there is inscribed, in a facsimile of Swedenborg's handwriting, the words which Swedenborg himself wrote upon two copies of the Writings in Holland: Hic Liber est adventus Domini - This book is the advent; of the Lord. (One of those copies has been found, and is now in the British Museum.) Swedenborg said that he wrote the same words on all copies of the Writings in heaven.
 
-Now, it is a peculiar thing that when the Lord was crucified, Pilate, the governor, placed above His cross a sign on which the words, Jesus or Nazareth, the King of the Jews, were written in Hebrew, Greek, and Latin. Jesus the King; Hebrew, Greek, and Latin, The whole of revelation proclaims that the Lord Jesus Christ is our God and King. But that revelation was written in three parts - the Old Testament in Hebrew, the New Testament in Greek, and the Writings in Latin.
+Now, it is a peculiar thing that when the Lord was crucified, Pilate, the governor, placed above His cross a sign on which the words, Jesus of Nazareth, the King of the Jews, were written in Hebrew, Greek, and Latin. Jesus the King; Hebrew, Greek, and Latin, The whole of revelation proclaims that the Lord Jesus Christ is our God and King. But that revelation was written in three parts - the Old Testament in Hebrew, the New Testament in Greek, and the Writings in Latin.
 
-In recognition of this certain other features have been incorporated into the decoration of our chancel. On the wall to the North, in Hebrew, we see the Ten Commandments, the very center or the worship or the Jews, and the fundamental rules of life for us today. It is significant that they are on the North, for the Jews were in little spiritual light; and it is significant also that they are commandments, for religion, to the Jew consisted in a rather blind following of Jehovah's commands. On the wall to the South, in Greek, are the words or the Lord's Prayer that prayer which contains the very heart of the religion the Lord revealed on earth, when the real warmth and fire of Divine Love was again made known to mankind. And on the very center of the wall, raised above all else, there is written in Latin those words which the Lord's disciples proclaimed in the spiritual world on the 19th or June in 1770, when the revelation or the Second Advent had been completed - those words of truth toward which all our worship looks; those words of truth which we individually must work to make true in ourselves, The Lord God Jesus Christ doth reign, whose Kingdom shall be for ages of ages.
+In recognition of this certain other features have been incorporated into the decoration of our chancel. On the wall to the North, in Hebrew, we see the Ten Commandments, the very center of the worship of the Jews, and the fundamental rules of life for us today. It is significant that they are on the North, for the Jews were in little spiritual light; and it is significant also that they are commandments, for religion, to the Jew consisted in a rather blind following of Jehovah's commands. On the wall to the South, in Greek, are the words of the Lord's Prayer that prayer which contains the very heart of the religion the Lord revealed on earth, when the real warmth and fire of Divine Love was again made known to mankind. And on the very center of the wall, raised above all else, there is written in Latin those words which the Lord's disciples proclaimed in the spiritual world on the 19th of June in 1770, when the revelation of the Second Advent had been completed - those words of truth toward which all our worship looks; those words of truth which we individually must work to make true in ourselves, The Lord God Jesus Christ doth reign, whose Kingdom shall be for ages of ages.
 
 === RITUAL -- I
 
 Luke 1:5, 17
 
-Today and tomorrow in our chapel services we shall consider the form or ritual of our worship. Ritual is the external of worship, and the Writings teach that in the New Church there is to be nothing external unless there be an internal within it. Each part of our ritual, therefore, has been incorporated into our services only because it has an internal, a meaning - only because it is significative or something:
+Today and tomorrow in our chapel services we shall consider the form of ritual of our worship. Ritual is the external of worship, and the Writings teach that in the New Church there is to be nothing external unless there be an internal within it. Each part of our ritual, therefore, has been incorporated into our services only because it has an internal, a meaning - only because it is significative of something:
 of internal worship. But external ritual still has no internal for us, individually, unless we know something of the meaning, the significance, of each act.
 
 In order to be of any eternal value to you, your worship each morning must begin even before you enter this chapel. As with anything important, there must be preparation. You have to prepare yourself for heaven, in order to live a useful and happy life there. You have to prepare yourself for marriage, or you enter it unfit to be a husband or wife, a father or mother. You have to prepare for your job in life. So, too, if your morning worship is going to mean anything, you have to prepare yourself for it.
@@ -295,19 +182,19 @@ How? Real preparation for worship comes in your daily life in looking to the Lor
 
 But a bit of more formal preparation is also extremely useful. It is impossible to jump all at once from frolicking or fighting to formal worship. Here in school a bell announces the approach of worship. If each of us then turned his thought to preparation for this service - even if only on the way downstairs - our worship would have more meaning. There would be an internal in this external. And the best preparation possible is to practice a bit of self - examination, to see if, in our hearts, we have been harboring aught of distrust of the Divine Providence or ill - will toward our neighbor, for as David the Psalmist truly wrote, If I regard iniquity in my heart, the Lord will not hear me.
 
-The second thing I would speak of in connection with ritual is not used here in chapel, but is rather a feature of our services on Sundays. It is the voluntary or free - will offering. This should always be considered an act of worship - the first formal act of worship each or us makes.
+The second thing I would speak of in connection with ritual is not used here in chapel, but is rather a feature of our services on Sundays. It is the voluntary or free - will offering. This should always be considered an act of worship - the first formal act of worship each of us makes.
 
-But, you may say, what has money got to do with worship? My pennies and dimes just go to support some minister or other. Yes, it is true that the priesthood is primarily supported by your voluntary offerings. But in the Writings it is taught that the Lord wants a priesthood to exist in order to provide that Divine things may be present with men. Anything you do to carry out the Lord's will is worship in the truest sense. Therefore when you provide that there may be a priesthood to carry out its uses, you are actually engaging in worship. Your free - will offering, then, is an act or worship and should be so regarded. It is not a gift to any man or men. It is the support of a use. It is an offering to the Lord.
+But, you may say, what has money got to do with worship? My pennies and dimes just go to support some minister or other. Yes, it is true that the priesthood is primarily supported by your voluntary offerings. But in the Writings it is taught that the Lord wants a priesthood to exist in order to provide that Divine things may be present with men. Anything you do to carry out the Lord's will is worship in the truest sense. Therefore when you provide that there may be a priesthood to carry out its uses, you are actually engaging in worship. Your free - will offering, then, is an act of worship and should be so regarded. It is not a gift to any man or men. It is the support of a use. It is an offering to the Lord.
 
 === RITUAL -- II
 
 Psalms 27:1-14
 
-Yesterday we spoke or the preparation that should precede worship a few thoughts, at least, of self - examination and also or the voluntary offering made on Sundays an offering to the Lord. Today we will briefly review the order of our chapel services.
+Yesterday we spoke of the preparation that should precede worship a few thoughts, at least, of self - examination and also of the voluntary offering made on Sundays an offering to the Lord. Today we will briefly review the order of our chapel services.
 
 Our worship begins with the singing of an introit - a doxology of praise to the God we have come to worship. The word introit means an entering within. During the introit the congregation and minister together enter with reverence within the sphere of worship.
 
-There follows the opening of the Word - one of the high points or our service. The opened Word gives spiritual enlightenment, and the Lord in His Second Coming opened the Word to our understanding, even as He said, Nunc licet. -- Now it is permitted to enter intellectually into the mysteries of faith. ...When the Word is opened you come, more closely, as it were, into the presence or the Lord as now revealed. It is a solemn moment, to be observed with reverence. Some people choose to recognize it by bowing the head, others, by standing at strict attention. Whichever you choose, observe it.
+There follows the opening of the Word - one of the high points of our service. The opened Word gives spiritual enlightenment, and the Lord in His Second Coming opened the Word to our understanding, even as He said, Nunc licet. -- Now it is permitted to enter intellectually into the mysteries of faith. ...When the Word is opened you come, more closely, as it were, into the presence of the Lord as now revealed. It is a solemn moment, to be observed with reverence. Some people choose to recognize it by bowing the head, others, by standing at strict attention. Whichever you choose, observe it.
 
 Following a sentence of Scripture, there comes the invitation to prayer. The Lord invites man, never compels him, to conjunction with Himself. Man accepts of his own free will, guided by his rationality.
 
@@ -319,12 +206,12 @@ Mark 9:40
 
 He that is not against us is on our part.
 
-The Writings teach that anyone in any religion will be saved, if only he live according to what he believes to be true, for the sake of his God or his neighbor. Salvation the right to be happy in heaven to eternity - is not confined to the pitifully few who today make up the Lord's New Church. Heaven would be an awfully lonely, empty place, if that were the case.
+The Writings teach that anyone in any religion will be saved, if only he live according to what he believes to be true, for the sake of his God or his neighbor. Salvation - the right to be happy in heaven to eternity - is not confined to the pitifully few who today make up the Lord's New Church. Heaven would be an awfully lonely, empty place, if that were the case.
 
 Anyone in any religion will be saved, if only he lives according to what he believes to be true for the sake of his God or his neighbor. A
 boy might be brought up in such ghastly mental slums that he never realized it was wrong to cheat and swear and lie. He might commit all those evils and more, all his life. But he might also have been taught that it was evil to kill his neighbor, evil even to inflict physical harm upon him. Then if, throughout his life, he refrained from killing, refrained from injuring his neighbor; and if he did this for the sake of whatever god he believed in, or because he loved his neighbor; eventually he would be saved and go to heaven. Oh, he would have a hard time in the world of spirits getting over his evil habits the longer you practice an evil habit, the harder it is to break it but he would be willing to do just that, and at last would conquer them. Why? Because on earth he had loved what he knew to be true, and after death, when he finally learned what really is true, he would love that, too, and would pattern his life according to it. His basic character would not be changed after death, you see: He already loved truth; he would only be perfected in that love.
 
-He that is not against us is on our part. You will often hear it said that the Old Church is dead. That does not mean that every single person in the Old Church is going to hell. Only a little child would believe that. The Old Church is dead, because as churches they do not teach their people the real truth about the Lord, the life after death, the means of regeneration. But inside the Old Churches there are thousands millions, probably ministers and laymen both who are trying to do what is right. From a love of good they live what they believe to be true. All or them will be saved. They are building up within themselves a love or truth, and when they hear the real truth after death, they will accept it, and be regenerated by it, and then they too will enter into heaven. They are not against the truth that the Lord now teaches in the Writings. They have not knowingly rejected it. They are not hateful enemies of the Lord's New Church. Salvation can come to them as well as to us, for he that is not against us is on our part.
+He that is not against us is on our part. You will often hear it said that the Old Church is dead. That does not mean that every single person in the Old Church is going to hell. Only a little child would believe that. The Old Church is dead, because as churches they do not teach their people the real truth about the Lord, the life after death, the means of regeneration. But inside the Old Churches there are thousands millions, probably ministers and laymen both who are trying to do what is right. From a love of good they live what they believe to be true. All of them will be saved. They are building up within themselves a love of truth, and when they hear the real truth after death, they will accept it, and be regenerated by it, and then they too will enter into heaven. They are not against the truth that the Lord now teaches in the Writings. They have not knowingly rejected it. They are not hateful enemies of the Lord's New Church. Salvation can come to them as well as to us, for he that is not against us is on our part.
 
 === WITH OR AGAINST -- II
 
@@ -348,23 +235,23 @@ But the others-- those who, no matter what their church, had built up within the
 
 What, then, is the difference between them and the New Church men and women you can be, here on earth? First, its easier for you than for them. You can learn the truth here and can start now to conquer your evils; they have to wait, and their evils get more deeply embedded. Second, and more important, because you can learn the truth here, you can start out in regeneration early and get well along the way. You, therefore, can be of greater spiritual service to all your fellow men.
 
-The love or truth. It is that alone which saves New Church men or Old. The love or truth. It is. that above everything else which your teachers and ministers here hope to enkindle in your hearts, so that you, as New Church men and women will seek the Lord for yourselves where now He may be found, in the Heavenly Doctrines of the New Jerusalem.
+The love of truth. It is that alone which saves New Church men or Old. The love of truth. It is. that above everything else which your teachers and ministers here hope to enkindle in your hearts, so that you, as New Church men and women will seek the Lord for yourselves where now He may be found, in the Heavenly Doctrines of the New Jerusalem.
 
 === THE GREATNESS OF SERVICE
 
 Mark 10:35-45
 
-Several times when He was on earth the Lord told His disciples what they had to do in order to be great, Whosoever will be great among you, let him be your minister, and whosoever will be chief among you, let him be your servant.... He that shall humble himself shall be exalted.... Whosoever of you will be the chiefest, shall be servant or all... He that is least among you all, the same shall be great.
+Several times when He was on earth the Lord told His disciples what they had to do in order to be great, Whosoever will be great among you, let him be your minister, and whosoever will be chief among you, let him be your servant.... He that shall humble himself shall be exalted.... Whosoever of you will be the chiefest, shall be servant of all... He that is least among you all, the same shall be great.
 
 Probably there is not a teenager on earth who does not dream, secretly at least, or his own future, personal greatness. It is right that everyone should. Greatness is much to be desired. How, then, achieve it? The Lord gave the answer: Whosoever will be chief among you, let him be your servant.
 
-But what did the Lord mean? The apostle Paul, the greatest Christian missionary of history, thought he knew the answer. Endless and unstinted labor in the Lord's vineyard would bring him the reward of greatness after death. For years on end he worked, worked hard, in the church, and according to legend, he died in the persecution under Nero. Yes, he thought he knew the answer, and toward the end of his life he wrote to a friend, I have fought a good fight, I have finished my course, I have kept the faith; henceforth there is laid up for me a crown or righteousness, which the Lord, the just judge, shall give me.
+But what did the Lord mean? The apostle Paul, the greatest Christian missionary of history, thought he knew the answer. Endless and unstinted labor in the Lord's vineyard would bring him the reward of greatness after death. For years on end he worked, worked hard, in the church, and according to legend, he died in the persecution under Nero. Yes, he thought he knew the answer, and toward the end of his life he wrote to a friend, I have fought a good fight, I have finished my course, I have kept the faith; henceforth there is laid up for me a crown of righteousness, which the Lord, the just judge, shall give me.
 
 Paul wanted greatness; to achieve it, he became servant unto all. But the Writings, unfortunately, leave very little doubt as to Paul's eternal lot. He is not great; he is nothing, He did not even achieve the very lowest reaches of heaven. He put entirely the wrong interpretation on those words of the Lord. Whosoever will be great among you, let him be your servant. And each and every one of us, before regeneration is complete, is prone to do the same: Well work, well serve, well humble ourselves; but boy, wed better get something out of it, and if not here, then hereafter. What? What Paul got?
 
 No, that ifs not what the Lord meant. In fact, He was not then even speaking of how to achieve greatness, but was simply telling His disciples what real greatness is. He was giving definition of greatness. Listen to them. Whosoever will be great among you, let him be your minister and whosoever will be chief among you, let him be your servant.
 
-Greatness is service, the Lord was saying - a life of usefulness to other people, working for them, helping them, doing whatever has to be done in order to help them get along. That's greatnessservice. And therefore, even when we have served others, served them all our lives, we can take no pride in having done it. Rather we must be like those servants of whom the Lord spoke in one or His parables. All day long they had labored in the fields, and when they came in to dinner, what happened? Their master told them to wash up, get his dinner ready, and serve him. More work. That's greatness. That's what the Lord created us for. And at the end of that parable the Lord said, So likewise ye, when ye have done all those things which are commanded you, say, we are unprofitable servants; we have done that which was our duty to do.
+Greatness is service, the Lord was saying - a life of usefulness to other people, working for them, helping them, doing whatever has to be done in order to help them get along. That's greatness service. And therefore, even when we have served others, served them all our lives, we can take no pride in having done it. Rather we must be like those servants of whom the Lord spoke in one of His parables. All day long they had labored in the fields, and when they came in to dinner, what happened? Their master told them to wash up, get his dinner ready, and serve him. More work. That's greatness. That's what the Lord created us for. And at the end of that parable the Lord said, So likewise ye, when ye have done all those things which are commanded you, say, we are unprofitable servants; we have done that which was our duty to do.
 
 Work, service, self - abasement - greatness. The same greatness exactly that the Lord Himself had. The Lord, the only really great Person there is, who has given us an example, that we should do even as He has done. The Lord, the God of heaven and earth, the Son of Man - He came, not to be ministered unto, but to minister and to give His life a ransom for many.
 
@@ -390,9 +277,9 @@ The truly great man will not consider himself above any job that comes his way i
 
 Each of us is born to be of use to others. That is the greatness that is our destiny, Each of us is told of our duty of seeking to extend the sphere of our use, so as to serve as many people as possible in the most important ways open to us. That takes two things, self - searching and determination self - searching to discover our abilities (as well as our limitations), and determination to use our abilities to the greatest possible extent. Only thus can we fulfill the Lord's injunction, whosoever will be great among you, let him be your minister, and whosoever of you be the chiefest, shall be servant of all.
 
-== CHAPTER III
+== Chapter `III` -- Knowledges and Uses
 
-=== KNOWLEDGES AND USES - I: THE KNOWLEDGE OF GOD
+=== I: THE KNOWLEDGE OF GOD
 
 Exodus 6:1-15
 
@@ -400,9 +287,9 @@ A persons god is that which he loves more than anything else. A girls god might 
 
 Its obvious that such gods as these are not enough. Whats needed is genuine understanding of who and what God really is. If we have that knowledge, then we can know exactly what we should love above everything else. We can make that true God our ideal, and strive to live according to His will. And its only that which is going to bring lasting personal happiness, good will among men, and angelic life after death.
 
-Now, there are millions of people on earth, fundamentally good, who want the knowledge of the genuine nature or God. They want to know what God really is like, so they can make that their ideal in life. But in spite of that, there are only a pitifully few thousand who do know what God really is - only a few thousand who even can know while they live here on earth. And of those few thousands, more than a hundred are here in this room - you.
+Now, there are millions of people on earth, fundamentally good, who want the knowledge of the genuine nature of God. They want to know what God really is like, so they can make that their ideal in life. But in spite of that, there are only a pitifully few thousand who do know what God really is - only a few thousand who even can know while they live here on earth. And of those few thousands, more than a hundred are here in this room - you.
 
-Who are the gods of the worlds one hundred and twenty million people who still believe in primitive religions? Mysterious spirits who rule wind and storm and vegetation - spirits to be feared, fawned at, propitiated with sacrifice. What are the gods of the hundred and fifty million Buddhists? Gods if they can even be so - called - who demand renunciation of every bodily pleasure and or all desire for individuality. Who are the gods of the three hundred million followers of Confucius? Hardly gods at all, for Confucius centered his whole interest in the world - in good government and polite society. Who are the myriad gods of the three hundred and twenty million Hindus? Almost anything and everything, and at the top an unknown infinity into which the just shall be absorbed and first lose their individuality. Who is Allah, god of the four hundred and twenty million Moslems? All - powerful, power unlimited, arbitrarily predestining man's every move and breath, and so far removed from man and man's comprehension that man cannot ever try to understand him.
+Who are the gods of the worlds one hundred and twenty million people who still believe in primitive religions? Mysterious spirits who rule wind and storm and vegetation - spirits to be feared, fawned at, propitiated with sacrifice. What are the gods of the hundred and fifty million Buddhists? Gods if they can even be so - called - who demand renunciation of every bodily pleasure and of all desire for individuality. Who are the gods of the three hundred million followers of Confucius? Hardly gods at all, for Confucius centered his whole interest in the world - in good government and polite society. Who are the myriad gods of the three hundred and twenty million Hindus? Almost anything and everything, and at the top an unknown infinity into which the just shall be absorbed and first lose their individuality. Who is Allah, god of the four hundred and twenty million Moslems? All - powerful, power unlimited, arbitrarily predestining man's every move and breath, and so far removed from man and man's comprehension that man cannot ever try to understand him.
 
 Who is Jehovah, God of the Jews? Something like our God - a heavenly Father, but a father who plays favorites with His arbitrarily chosen people, and who judges the acts, rather than the hearts, of men. Who is the God of the worlds six hundred million Catholics? At best, a split personality, damning the world, yet loving it; allowing it to be redeemed by the suffering of His infinite Son; allowing His Son to give the power of salvation to mortal priests; allowing human beings to buy their places in heaven with mortal good works. And who is the God of the worlds two hundred million Protestants? That is the saddest of all. They don't know. Something to do with Jesus. Something to do with damning humanity. Something to do with instantaneous salvation. Listen to their prayers on the radio. They pray for anything, for they know not the nature of the God who answers prayers. And Ive even heard some of their leaders say that it is wrong to call God He that makes Him too much like a man. Ive heard their leaders, trying to solve the problem of evil, say that there must be something evil in God Himself - an evil He can't always control.
 
@@ -434,15 +321,15 @@ Each one of you has some love of something good. As far as you are concerned, it
 
 John 14:1-14
 
-In a few weeks we celebrate the one hundred and eighty-eighth anniversary of the establishment or the Lord's New Church. In preparation for that I. am treating in our chapel services this week of various distinctive things about our doctrines for which, I feel, New Churchmen should be especially thankful. You might choose a list different from mine; possibly no two people would ever choose exactly the same things. I have chosen to treat of the knowledge of God, the knowledge of the life after death, the knowledge of the Divine purpose in creation, the knowledge of the means of salvation, and the knowledge of conjugial love.
+In a few weeks we celebrate the one hundred and eighty-eighth anniversary of the establishment of the Lord's New Church. In preparation for that I. am treating in our chapel services this week of various distinctive things about our doctrines for which, I feel, New Churchmen should be especially thankful. You might choose a list different from mine; possibly no two people would ever choose exactly the same things. I have chosen to treat of the knowledge of God, the knowledge of the life after death, the knowledge of the Divine purpose in creation, the knowledge of the means of salvation, and the knowledge of conjugial love.
 
-Death is a thing usually pretty far removed from the minds of young people, so its perhaps hard for you to realize just how fortunate you are to know what you do about the other world. You are so pre - occupied with the joy of living, with the fun of growing up, that you don't spend much or your time thinking about heaven. That's all right.
+Death is a thing usually pretty far removed from the minds of young people, so its perhaps hard for you to realize just how fortunate you are to know what you do about the other world. You are so pre - occupied with the joy of living, with the fun of growing up, that you don't spend much of your time thinking about heaven. That's all right.
 
 But there will be times in your lives when death will suddenly be very present. Some one you love very much will suddenly be gone from this earth forever. Most of you here will probably live through the deaths of your fathers and mothers. Some of your best friends will be killed in accidents or in war. Death will suddenly loom on your horizons. And then, possibly more than at any other specific times in your lives, you'll be glad you're New Churchmen.
 
 Or course, its never pleasant to lose a loved one. You can hardly ever be really glad that the Lord has taken some one you love. Death is always hard to face. It hurts, hurts very, very deeply. The bravest of men weep uncontrollably when death hits home. But the attitude of New Churchmen toward death always inwardly, usually outwardly is tremendously different from the attitude of those outside the church, and its different because of our certain knowledge of what life after death is like.
 
-Old Churchmen, when they think from doctrine, either believe in a future earthly life following some distant resurrection or the body, or hold that God intends men on earth to remain in ignorance of the other world. And when Old Churchmen think apart from doctrine, then, even when they guess the truth, they can be certain of absolutely none of their beliefs.
+Old Churchmen, when they think from doctrine, either believe in a future earthly life following some distant resurrection of the body, or hold that God intends men on earth to remain in ignorance of the other world. And when Old Churchmen think apart from doctrine, then, even when they guess the truth, they can be certain of absolutely none of their beliefs.
 
 Is there a life after death at all? What is it like? What do you do there? Is it any fun? Do you have to work? Are men still men, and women still women? Many of todays thoughtful Christians have made some pretty shrewd guesses at the answers to those questions, but even when they hit the truth, its still only theory with them, not certain fact. They have no revelation which tells them what the other world is really like. And so, when death hits them, it leaves them not only saddened, but also bewildered. They know not what to think. Its a wonder to me that they can ever face up to death, recover from its shock, and continue to put their trust in God.
 
@@ -472,15 +359,15 @@ That, then, is why we are born - born to find happiness from the Lord by going t
 
 Matthew 19:1-9
 
-If there is one doctrine for which, above all else, New Church men and women should be thankful, it surely is that which the Lord has revealed in the Writings concerning marriage. Marriage means so much in life. marriage so intimately affects each one of us, even if we remain single; marriage is so definitely the institution in which we personally live out our religion - or our lack or it - that it is truly wonderful that we should have Divine guidance in the subject.
+If there is one doctrine for which, above all else, New Church men and women should be thankful, it surely is that which the Lord has revealed in the Writings concerning marriage. Marriage means so much in life. marriage so intimately affects each one of us, even if we remain single; marriage is so definitely the institution in which we personally live out our religion - or our lack of it - that it is truly wonderful that we should have Divine guidance in the subject.
 
 When the Lord was here on earth He could teach but little concerning marriage. Mens ideas of marriage were then so low that He could not even tell them that there was marriage in heaven.
 
 Indeed, there is no marriage in heaven of the nature of their marriages, and they could understand no other kind. but He did lay down strict laws of morality for marriage; He spoke of marriage as a Divine institution; and He compared Himself to a Bridegroom and a Husband - the bridegroom and Husband of the Church.
 
-In spite of such teachings, however, the Catholic Church very soon began to look down on the institution of marriage as definitely inferior to celibacy (celibacy: the unmarried state). Basing its doctrine primarily on the sayings of Paul, Catholicism taught that marriage is a thing the Lord permits to the weak or will, a thing which in itself tends to turn man away from the Lord and make him more selfish. Celibacy was held up as a better way of life, spiritually preferable. Priests and monks and nuns shunned marriage as a thing of evil, end laymen were told that if they married they must pay for it with the bearing of children. What a horrible doctrine! Indeed, in only one thing concerning marriage was Catholicism correct. It insisted that those who married must lead strictly moral lives, and that helped to raise the concept of marriage above what it had been with the Jews.
+In spite of such teachings, however, the Catholic Church very soon began to look down on the institution of marriage as definitely inferior to celibacy (celibacy: the unmarried state). Basing its doctrine primarily on the sayings of Paul, Catholicism taught that marriage is a thing the Lord permits to the weak of will, a thing which in itself tends to turn man away from the Lord and make him more selfish. Celibacy was held up as a better way of life, spiritually preferable. Priests and monks and nuns shunned marriage as a thing of evil, end laymen were told that if they married they must pay for it with the bearing of children. What a horrible doctrine! Indeed, in only one thing concerning marriage was Catholicism correct. It insisted that those who married must lead strictly moral lives, and that helped to raise the concept of marriage above what it had been with the Jews.
 
-When Luther started the Reformation he broke entirely from the Roman doctrine or marriage. He went back to those truths that marriage is a Divine institution, those sayings of the Lord in which He compared Himself to the Bridegroom and Husband of the Church. If the Lord had done that, Luther saw, marriage must be essentially a good thing, rather than a thing of evil. It must be of Divine will, rather than or Divine permission. There must, in fact, be something holy about it, even if, as Luther and his Protestants saw it, marriage ended with bodily death. Something holy in the Divine institution of marriage that made possible the revelation of the doctrine of conjugial love.
+When Luther started the Reformation he broke entirely from the Roman doctrine of marriage. He went back to those truths that marriage is a Divine institution, those sayings of the Lord in which He compared Himself to the Bridegroom and Husband of the Church. If the Lord had done that, Luther saw, marriage must be essentially a good thing, rather than a thing of evil. It must be of Divine will, rather than of Divine permission. There must, in fact, be something holy about it, even if, as Luther and his Protestants saw it, marriage ended with bodily death. Something holy in the Divine institution of marriage that made possible the revelation of the doctrine of conjugial love.
 
 He who made them at the beginning made them male and female, and said, For this cause shall a man cleave unto his wife. Man and woman each made incomplete, so that each, looking for completion, would look out from himself to someone else. The source of every love we have. Man and woman together, the perfect unit of both earthly and heavenly society. Husband and wife, blessed with the first blessing recorded in the Word:
 Be fruitful, and multiply, and replenish the earth, and the heavens. Husband and wife, helping each other toward regeneration, raised up out of themselves by a love of something higher than themselves, raised up out of the word of selfishness that separates their propriums into a perfect and eternal union in the Lord. One in mind, one in life, and one - in body; united in thought and will, in truth and in good; and blessed with all the delights of life, even to the inmost - eternal blessedness. And for those who do not marry on this earth, but to regenerate and hold fast to the true ideals of marriage, the eternal blessedness of conjugial love awaits them after death.
@@ -499,7 +386,7 @@ But God also is omnipotent; He has all power. Theoretically speaking, it would b
 
 Then why didn't He do it? Because His only desire is to make men happy, and only when He can do that can He know any satisfaction or happiness or delight. Only when He is being of use to men can He have happiness, and His only delight is in being of use.
 
-But He wants to make men happy. He wants to give them delight. Well, can you give a person something you yourself do not possess? He wants to give us happiness. The only delight He has is in being or use and service to men. That, therefore, is the only happiness He can give to us - the happiness that comes from being useful to others.
+But He wants to make men happy. He wants to give them delight. Well, can you give a person something you yourself do not possess? He wants to give us happiness. The only delight He has is in being of use and service to men. That, therefore, is the only happiness He can give to us - the happiness that comes from being useful to others.
 
 That is why the Lord gives us work to do, uses to perform. It is said in the Arcana that the Lord does good to men through other men through their uses - not because He needs their help - He could do all things by Himself - but in order that men might have something to do and might find happiness in doing it.
 
@@ -570,7 +457,7 @@ But it is primarily in your studies that you too can live the life that leads to
 
 To do your studies sincerely - to do them out of regard for the usefulness to society for which they are preparing you; to do them justly - honestly, fairly; to do them faithfully - to the best of your abilities, day by day; that is your use at present. It is in that that regeneration can begin.
 
-== CHAPTER IV
+== Chapter `IV` -- The Book of Judges
 
 === THE BOOK OF JUDGES - I
 
@@ -578,7 +465,7 @@ Judges 1:1-7, 9, 17, 19, 21.
 
 For the next few weeks in morning worship we shall be rending selections from the Book of Judges, and, for the most part, passages from the Writings bearing on the material read. Occasionally, however, there will be addresses or talks. Today and tomorrow I shall speak on the Book of Judges in general.
 
-The book contains some wonderful stories - tales of heroes who rose up to deliver Israel from her enemies. We call it one of the historical books or the Word, and are likely to think of it as a mere history of the Jews from the period following Joshua's conquest of Canaan up to the establishment of the kingdom by Saul. To the Jew it was more than that to him it was a prophecy. The Jew celled the books of Joshua, Judges, Samuel, and Kings the former prophets.
+The book contains some wonderful stories - tales of heroes who rose up to deliver Israel from her enemies. We call it one of the historical books of the Word, and are likely to think of it as a mere history of the Jews from the period following Joshua's conquest of Canaan up to the establishment of the kingdom by Saul. To the Jew it was more than that to him it was a prophecy. The Jew celled the books of Joshua, Judges, Samuel, and Kings the former prophets.
 
 The word prophesy really does not mean to forecast the future. Actually it means to speak on behalf of, to speak for - to speak on behalf of God. The prophets of Israel spoke on behalf of God to the people. Once in a while they spoke on behalf of God about the future, and hence the meaning we usually attach to the term. But with this in mind, let us see why the Jews called Joshua, Judges, Samuel, and Kings the former prophets, when we call them the historical books of the Word.
 
@@ -589,19 +476,19 @@ Over and over again you will hear that theme in the book of Judges. Israel sinne
 
 That is why they called their history prophecy. It was a message from their God; it spoke for or on behalf of Jehovah. And they called these particular books of their history the former prophets, because much later in their story there arose a remarkable series of men who laid claim to speak for Jehovah in a very particular was Elijah, Amos, Isaiah, Daniel, Malachi, etc. These were the latter prophets, Joshua, Judges, Samuel, and Kings were the former prophets the former message from their God.
 
-In the introductory lesson read from Judges this morning we heard how, after the death of their leader, Joshua, the tribes of Israel completed their conquest of Canaan. One tribe helped the other conquer one enemy after another - Canaanites, Perizites, Zidonians, etc. But one horribly important thing should be observed - either because they were plain, ordinary tired of fighting, or because they were not strong enough to win, all the tribes of Israel allowed remnants of their enemies to, survive in the land. That would mean trouble - trouble just as certain as if you decided to stop telling lies, except on one particular day or each week.
+In the introductory lesson read from Judges this morning we heard how, after the death of their leader, Joshua, the tribes of Israel completed their conquest of Canaan. One tribe helped the other conquer one enemy after another - Canaanites, Perizites, Zidonians, etc. But one horribly important thing should be observed - either because they were plain, ordinary tired of fighting, or because they were not strong enough to win, all the tribes of Israel allowed remnants of their enemies to, survive in the land. That would mean trouble - trouble just as certain as if you decided to stop telling lies, except on one particular day of each week.
 
 === THE BOOK OF JUDGES - II
 
 Judges 2:7-23
 
-In the days of Moses and of his successor, Joshua, the Lord performed so many manifest miracles that even the stiff - necked Israelites were convinced that Jehovah was a God of power, whose word they had better obey. The plagues in Egypt, the crossing of the Red Sea, the daily manna the water out of the rock, the Ark parting the River Jordan, the fall of the walls of Jericho - these and many more were enough to make Israel believe that Jehovah was really an unusual Being. They were enough to inspire Israel to conquer Canaan in His name. Ruthlessly the Israelites slaughtered almost every enemy they came across. Almost all - but not all. Here and there throughout the - land they left remnants or the enemies of the Lord - remnants who would increase and multiply and cause them trouble.
+In the days of Moses and of his successor, Joshua, the Lord performed so many manifest miracles that even the stiff - necked Israelites were convinced that Jehovah was a God of power, whose word they had better obey. The plagues in Egypt, the crossing of the Red Sea, the daily manna the water out of the rock, the Ark parting the River Jordan, the fall of the walls of Jericho - these and many more were enough to make Israel believe that Jehovah was really an unusual Being. They were enough to inspire Israel to conquer Canaan in His name. Ruthlessly the Israelites slaughtered almost every enemy they came across. Almost all - but not all. Here and there throughout the - land they left remnants of the enemies of the Lord - remnants who would increase and multiply and cause them trouble.
 
-The tribes of Israel had fought together, close - knit, as they conquered Canaan, but now a new phase of their life was beginning, and it is this which is described in the Book of Judges. They were comparatively small tribes, and the land was comparatively large. Tribe separated from tribe. They wandered away from each other, and there was little communication between them as they began to settle in their new homes, planting their farms and building their cities. There was no feeling or national unity at all. On occasions there was even civil war between the tribes.
+The tribes of Israel had fought together, close - knit, as they conquered Canaan, but now a new phase of their life was beginning, and it is this which is described in the Book of Judges. They were comparatively small tribes, and the land was comparatively large. Tribe separated from tribe. They wandered away from each other, and there was little communication between them as they began to settle in their new homes, planting their farms and building their cities. There was no feeling of national unity at all. On occasions there was even civil war between the tribes.
 
 It is important to know this if we would understand the Book of Judges. Almost none of its stories concerns the nation as a whole. Rather is judges a collection of various unrelated tales, dealing now with this tribe, now with that. In one section of the land trouble descended upon the Israelites - an enemy conquered them. A judge, a leader, arose and liberated them. And then the book moves on, years later, to another section of the land. The stories, we say, are unrelated, and so they are, but the writer of the book unifies them all with that ever - recurring theme: Israel sinned by turning away from the worship of the Lord; the Lord allowed an enemy to conquer them; in trouble, Israel repented and called to the Lord for help; the Lord raised up a judge, so celled, to help them; worship of the Lord continued pure for a while thereafter.
 
-It was a wonderful, but a very wild land that Israel had conquered. Before the centuries saw it stripped or its trees, it was rich and fertile, a land flowing with milk and honey. But native to the land when Israel got there were some of the most perverted forms of worship that have ever existed. Human sacrifice was practiced near the village or Jerusalem babies were thrown into a fire that burned in the belly of a brazen bull, tended by profane priestesses. And all throughout the land were many other Baals gods each claiming his local devotees. Usually their worship was connected with the cycle of winter and summer, but almost always their worship involved the grossest immoralities. And without fail such worship exerted a peculiar, apparently irresistible attraction upon the Jews.
+It was a wonderful, but a very wild land that Israel had conquered. Before the centuries saw it stripped of its trees, it was rich and fertile, a land flowing with milk and honey. But native to the land when Israel got there were some of the most perverted forms of worship that have ever existed. Human sacrifice was practiced near the village of Jerusalem babies were thrown into a fire that burned in the belly of a brazen bull, tended by profane priestesses. And all throughout the land were many other Baals gods each claiming his local devotees. Usually their worship was connected with the cycle of winter and summer, but almost always their worship involved the grossest immoralities. And without fail such worship exerted a peculiar, apparently irresistible attraction upon the Jews.
 
 If there is any single moral lesson that the Book of Judges has for us it is probably this. When you are trying to conquer your evils, the enemies that would keep you from your promised land, heaven, DO IT. Be ruthless with your evils. Slaughter them. Don't toy with them; don't temporize; don't think you can keep them under control. You cant. They'll get the best of you. They'll grow in you - grow and multiply - and as surely as night follows day, you will be the loser.
 
@@ -611,17 +498,17 @@ Judges 6:25-32
 
 In the period of history recounted in the Book of Judges covering, roughly, the one hundred and fifty years from 1200 to 1050 B, C. -- there was practically no monotheism anywhere on the earth. (Monotheism is the belief that there is one, and only one, God.)
 
-Mans original religion had been monotheistic. The men of the Most Ancient Church, represented by Adam, had known front revelation that there was but one God, and that He was Divinely Human - Jehovah. As those first men became more worldly, however, they began to make images and pictures of the different things they knew about Jehovah - a statue of a man with wings on his feet, to remind them that God could be everywhere at once; a statue or a strong; young man, to remind them of Gods power, His omnipotence. And, later, as men became evil, they began to worship these things as different gods in themselves. Polytheism - the belief that there are many gods - arose.
+Mans original religion had been monotheistic. The men of the Most Ancient Church, represented by Adam, had known front revelation that there was but one God, and that He was Divinely Human - Jehovah. As those first men became more worldly, however, they began to make images and pictures of the different things they knew about Jehovah - a statue of a man with wings on his feet, to remind them that God could be everywhere at once; a statue of a strong; young man, to remind them of Gods power, His omnipotence. And, later, as men became evil, they began to worship these things as different gods in themselves. Polytheism - the belief that there are many gods - arose.
 
 It was necessary, then, for the Lord to start men back on the road to true religion, so that when God Himself should be born on earth, they could understand that it was not one god of many, but the one and only God who had all power in heaven and on earth. To do this, He began to raise up a special church among the Jews.
 
-For centuries the Jews had been slaves in Egypt and had absorbed Egypt's polytheism. At last, out or a burning bush, Jehovah spoke to Moses and proclaimed Himself to be the god worshiped by the ancient Jews. Moses got his people to accept that teaching, and behind the banner of Jehovah, as it were, they marched out of Egypt. Yet two things should be noted. First, they knew that they were supposed to worship the Lord, Jehovah, a god powerful enough to do great miracles. Second, it apparently never even dawned on them that Jehovah was anything but their special god, one god among many, many others.
+For centuries the Jews had been slaves in Egypt and had absorbed Egypt's polytheism. At last, out of a burning bush, Jehovah spoke to Moses and proclaimed Himself to be the god worshiped by the ancient Jews. Moses got his people to accept that teaching, and behind the banner of Jehovah, as it were, they marched out of Egypt. Yet two things should be noted. First, they knew that they were supposed to worship the Lord, Jehovah, a god powerful enough to do great miracles. Second, it apparently never even dawned on them that Jehovah was anything but their special god, one god among many, many others.
 
-That was their belief in the days of the Judges. It would be another three centuries before one of their prophets, Amos, could first reveal that Jehovah was the god or other nations than their own. And it would be another three centuries after that before they would understand that they could worship the Lord outside the Land of Canaan, and that their god, in fact, was the only God of ail the earth.
+That was their belief in the days of the Judges. It would be another three centuries before one of their prophets, Amos, could first reveal that Jehovah was the god of other nations than their own. And it would be another three centuries after that before they would understand that they could worship the Lord outside the Land of Canaan, and that their god, in fact, was the only God of ail the earth.
 
-The Jews came into Canaan worshiping Jehovah. But the people they met up with all had gods of their own - a god who ruled this valley, a god who ruled that hill. Baals, these people called their gods gods, they said, who brought them prosperity. So, said the Jews, all right, Jehovah brought us up from Egypt, led us through the desert, conquered this land for us. We will go on worshiping Him. But just to be an the safe side, why not also worship the gods of the land where we are growing our wheat and grapes? They did - and usually the worship or Jehovah was forgotten in the process.
+The Jews came into Canaan worshiping Jehovah. But the people they met up with all had gods of their own - a god who ruled this valley, a god who ruled that hill. Baals, these people called their gods gods, they said, who brought them prosperity. So, said the Jews, all right, Jehovah brought us up from Egypt, led us through the desert, conquered this land for us. We will go on worshiping Him. But just to be an the safe side, why not also worship the gods of the land where we are growing our wheat and grapes? They did - and usually the worship of Jehovah was forgotten in the process.
 
-So it was in the days of Gideon. His father, Joash, worshiped the local Baal. He also worshiped some other god whose name we do not know - some god worshiped in a grove of trees. Gideon, at the Lord's command, broke down his fathers altar to Baal one night, cut down the grove dedicated to the other god, and built instead an altar to the Lord and offered sacrifice thereon. Next morning the men of the city, discovering what Gideon had done, said to Joash, Bring out thy son, that he may die. But Joash stood up for his son, who had thus reinstituted the worship or the Lord. Baal? he asked. Does he need men to plead for him? Does he need men to save him? If he is really a god, why does he not do something to save himself? Let Baal plead his own cause. But the Baal did nothing, Baal, after all, was not much of a god.
+So it was in the days of Gideon. His father, Joash, worshiped the local Baal. He also worshiped some other god whose name we do not know - some god worshiped in a grove of trees. Gideon, at the Lord's command, broke down his fathers altar to Baal one night, cut down the grove dedicated to the other god, and built instead an altar to the Lord and offered sacrifice thereon. Next morning the men of the city, discovering what Gideon had done, said to Joash, Bring out thy son, that he may die. But Joash stood up for his son, who had thus reinstituted the worship of the Lord. Baal? he asked. Does he need men to plead for him? Does he need men to save him? If he is really a god, why does he not do something to save himself? Let Baal plead his own cause. But the Baal did nothing, Baal, after all, was not much of a god.
 
 === THE BOOK OF JUDGES - IV: THE STORY OF GIDEON (2)
 
@@ -629,16 +516,16 @@ Judges 6:33-40
 
 Gideon had broken down his fathers altar to Baal and had destroyed the grove that stood by it. Infuriated, the local worshipers of Baal had demanded Gideon's life. But Joash, his father, stood up for his son and said, Does Baal need men: to plead for him? Let Baal plead for himself. And from that day on, Gideon was nicknamed Jerubbaal, a Hebrew name meaning Let Baal plead.
 
-Frequently, to arrive at the genuine internal sense or the Word, its stories must be inverted, the Writings say. An evil must be understood as representing something good. Thus Solomon's sin in marrying a thousand wives represents the Lord's Divine love going forth to the many different churches and peoples of the earth. Similarly, in the story just referred to, we must invert it to derive any moral teaching from it. Let Baal plead for himself. Baal, the false god, inverted, represents the truth. Let the truth plead for itself.
+Frequently, to arrive at the genuine internal sense of the Word, its stories must be inverted, the Writings say. An evil must be understood as representing something good. Thus Solomon's sin in marrying a thousand wives represents the Lord's Divine love going forth to the many different churches and peoples of the earth. Similarly, in the story just referred to, we must invert it to derive any moral teaching from it. Let Baal plead for himself. Baal, the false god, inverted, represents the truth. Let the truth plead for itself.
 
-Occasionally, both in youth and in adult life, each or us gets a new idea of what is true or right, a new idea or how something ought to be done. We tell it to others. No one accepts it. Our idea, they say, is completely and totally wrong. We are utterly certain it is correct. What then? Shall we keep on pushing it, until everybody is tired of hearing it and is afraid to see us come around? No. Let the truth speak for itself. If what we have said is wrong, we would not really want other people to accept it. And if what we have said is true, but other people are not yet ready to see it, we need not worry. We have stated the truth. From then on the truth will plead for itself. Eventually, even if not right now, the Lord will be able to get others to see it.
+Occasionally, both in youth and in adult life, each of us gets a new idea of what is true or right, a new idea of how something ought to be done. We tell it to others. No one accepts it. Our idea, they say, is completely and totally wrong. We are utterly certain it is correct. What then? Shall we keep on pushing it, until everybody is tired of hearing it and is afraid to see us come around? No. Let the truth speak for itself. If what we have said is wrong, we would not really want other people to accept it. And if what we have said is true, but other people are not yet ready to see it, we need not worry. We have stated the truth. From then on the truth will plead for itself. Eventually, even if not right now, the Lord will be able to get others to see it.
 
 Gideon had received divine command to lead Israel to victory over the Midianites. At the Lord's command he had cast down the altar of Baal, and Baal had not defended himself. And now war was immediately ahead of him. He was afraid - afraid to go out without divine help. And as yet he did not know much about the Lord. Was He really a god powerful enough to give him victory? Gideon wanted a sign. And the Lord gave him two signs dew on a piece of fleece, but not on the ground around it; dew on the ground, but not on the fleece upon it. Gideon went off to war.
 
 A sign that the Lord has power. A sign that the Lord exists. The Israelites often sought such signs, and often the Lord gave them. But when the Lord Himself was born on earth and was raising men further up the road to truth, He refused to give unbelievers any sign at all. A
 wicked and adulterous generation seeketh after a signs. He said,
 
-A sign that God exists, A sign that the Lord has power. What sign do you need, in order to believe? What sign is there? Is there any? Christians have argued these questions for centuries. One sign they have come up with is the argument that everything has to have a cause. Any rational man will agree with that. Well, some thing, some one had to cause creation God, Again they point to the wonderful order so evident everywhere in nature and in the human body. Who but a god of wisdom could be responsible for that? And who but a god or kindness and or love could give us beauty and the ability to appreciate it? These, and other such things, are their signs today. They are good signs, too,
+A sign that God exists, A sign that the Lord has power. What sign do you need, in order to believe? What sign is there? Is there any? Christians have argued these questions for centuries. One sign they have come up with is the argument that everything has to have a cause. Any rational man will agree with that. Well, some thing, some one had to cause creation God, Again they point to the wonderful order so evident everywhere in nature and in the human body. Who but a god of wisdom could be responsible for that? And who but a god of kindness and of love could give us beauty and the ability to appreciate it? These, and other such things, are their signs today. They are good signs, too,
 
 But think a bit. Good as these signs are, they do not really prove anything at all. An atheist knows all these arguments, and simply denies them, so that he can deny God, too. Really, there is no proof of God at all, and no good man needs any proof. It is a wicked and adulterous generation that demands a proof. But in the inmost heart of every good man there is that which is sufficient to make him see that God exists the desire to believe, a love which asks no proof and needs none, is and finds its own proof, and sees the truth because it wants to.
 
@@ -670,7 +557,7 @@ Judges 8:22-35
 
 Gideon had conquered Israels oppressors, the Midianites, and in gratitude the Israelites had offered him and his family kingship over them. But Gideon refused: I will not rule over you, neither shall my son rule over you: the Lord shall rule over you.
 
-But so low was the state of religion in Israel at that time that not even Gideon knew what those words implied, even though with his own eyes he had seen miracles wrought by the Lord. I will not rule over you, he said, but give me the golden earrings you have taken from the slaughtered Midianites. About seventy pounds of gold was laid at his feet, and out or it Gideon made some sort of a statue or image to some unnamed god, and set it up in his city. He worshiped it himself, and many others in Israel came and worshiped it also, adding this too to their worship of the Lord.
+But so low was the state of religion in Israel at that time that not even Gideon knew what those words implied, even though with his own eyes he had seen miracles wrought by the Lord. I will not rule over you, he said, but give me the golden earrings you have taken from the slaughtered Midianites. About seventy pounds of gold was laid at his feet, and out of it Gideon made some sort of a statue or image to some unnamed god, and set it up in his city. He worshiped it himself, and many others in Israel came and worshiped it also, adding this too to their worship of the Lord.
 
 Polytheism again, the worship of many gods. For centuries still to come, polytheism would attract Israel almost as irresistibly as a flame attracts a moth.
 
@@ -692,15 +579,15 @@ Judges 9:1-57
 
 The ninth chapter of the Book of Judges recounts the treachery of Abimelech, son of Gideon. Gideon had many wives and seventy legitimate sons. The wives were Israelites, as was Gideon himself, for the Lord had forbidden the Israelites to marry outside their church.
 
-But still living in the land in the days of the Judges were remnants or the heathen Canaanites, and one of their strongholds was the city of Shechem in west - central Palestine. Gideon had taken to himself a woman from that city to be, not his wife that was impossible, for she was heathen but his concubine, and to them also was born a son, Abimelech.
+But still living in the land in the days of the Judges were remnants of the heathen Canaanites, and one of their strongholds was the city of Shechem in west - central Palestine. Gideon had taken to himself a woman from that city to be, not his wife that was impossible, for she was heathen but his concubine, and to them also was born a son, Abimelech.
 
 After Gideon had defeated the Midianites, the Jews, in gratitude, offered to make him their king him, and his sons after him, Gideon refused, saying, The Lord shall rule over you.
 
 There the matter should have ended. But after Gideon's death, Abimelech, half - breed that he was and of lowly birth, kept thinking of that offer of royalty and began to plot to establish himself as king. He went to Shechem, his mothers city, and spoke to his Canaanitish relatives there. Look, he said, do you want to be ruled over by Gideon's seventy sons Jews, foreigners, your conquerors? Would it not be better to have just one man be your king, a man of your own flesh and blood?
 
-It worked. The men of Shechem took money from the temple of their Baal and gave it to Abimelech, and with it Abimelech hired a band of villains to follow him. In Ophrah they seized Gideon's seventy sons and killed them - all but one, Jotham, who had managed to hide. And Abimelech was now crowned king, at least or the cities of Shechem and Millo.
+It worked. The men of Shechem took money from the temple of their Baal and gave it to Abimelech, and with it Abimelech hired a band of villains to follow him. In Ophrah they seized Gideon's seventy sons and killed them - all but one, Jotham, who had managed to hide. And Abimelech was now crowned king, at least of the cities of Shechem and Millo.
 
-If there is any moral lesson to be learned from this mornings reading, it is in connection with Abimelech's words to the men or Shechem, would you rather be ruled over by Gideon's seventy sons, or by one who is your brother? Nowhere is there any indication at all that Gideon's other. sons wanted the kingship, any more than Gideon himself had wanted it. But Abimelech coveted the rule, and a man of evil loves suspects all others of having the same evil loves. The covetous Abimelech suspected his brothers of being covetous, too.
+If there is any moral lesson to be learned from this mornings reading, it is in connection with Abimelech's words to the men of Shechem, would you rather be ruled over by Gideon's seventy sons, or by one who is your brother? Nowhere is there any indication at all that Gideon's other. sons wanted the kingship, any more than Gideon himself had wanted it. But Abimelech coveted the rule, and a man of evil loves suspects all others of having the same evil loves. The covetous Abimelech suspected his brothers of being covetous, too.
 
 As the jaundiced eye sees all things yellow, the evil eye sees all men evil. All too often when we suspect other peoples motives, we do so because our own motives are open to suspicion. The good man consciously looks for what is good in others. He takes it for granted that others are good and trustworthy, and if he is forced to see an evil in another, he tries to excuse it and to put a good interpretation on it. Not so the evil, He delights in discovering and publishing the evils of others, and where no evil is apparent he makes it up, accusing others of the same evil motives which he has himself. It is a sorry lot, the lot of hell.
 
@@ -750,7 +637,7 @@ After the battle was over the people of Ephraim - one of the tribes of Israel - 
 
 It was a ridiculous threat. Jephtha had called all Israel to help him. The cowardly Ephraimites had stayed home as long as there was danger facing them.
 
-Jephtha lost his patience. He and his army turned on the Ephraimites, fought them, and beat them, and then, to prevent any escaping alive, he took the fords of Jordan, which the Ephraimites had to dress to gel; home, and barricaded them. To anyone who came to cross the fords or Jordan a simple demand was put. Say the password-- the first record of a password in history. Say Shibboleth. Most people could, but the Ephraimites could not. The Ephraimite tried to say. Shibboleth, and said Sibboleth instead. His speech betrayed him. Jephtha took him and slew him.
+Jephtha lost his patience. He and his army turned on the Ephraimites, fought them, and beat them, and then, to prevent any escaping alive, he took the fords of Jordan, which the Ephraimites had to dress to gel; home, and barricaded them. To anyone who came to cross the fords of Jordan a simple demand was put. Say the password-- the first record of a password in history. Say Shibboleth. Most people could, but the Ephraimites could not. The Ephraimite tried to say. Shibboleth, and said Sibboleth instead. His speech betrayed him. Jephtha took him and slew him.
 
 Their speech betrayed them, and even hereon earth our speech sometimes betrays us; it reveals our character. Observe another's conversation ford while. What does he apparently like to talk about? -- himself, light and silly things, things that are evil and wrong? His speech betrays him. What do you yourself like to talk about? Often on earth - but not infallibly - your speech betrays you.
 
@@ -799,14 +686,14 @@ In the letter of revelation there is spiritual strength when it is interpreted a
 
 Judges 15:9-20
 
-One of the most common temptations to come upon New Churchmen as they grow up and enter more deeply into the mysteries of faith, is to believe that the whole of religion consists in knowing and understanding the tenets or their faith. If you can give a rational explanation of the Trinity, showing that the whole of it exists in Jesus Christ; if you can explain how an eternal, conjugial marriage is effected by the union of the will of the wife and the understanding of the husband; if you can show that the Lord's purpose in creation is a heaven from the human race; -- well, then you are really New Church, intelligently and rationally New Church.
+One of the most common temptations to come upon New Churchmen as they grow up and enter more deeply into the mysteries of faith, is to believe that the whole of religion consists in knowing and understanding the tenets of their faith. If you can give a rational explanation of the Trinity, showing that the whole of it exists in Jesus Christ; if you can explain how an eternal, conjugial marriage is effected by the union of the will of the wife and the understanding of the husband; if you can show that the Lord's purpose in creation is a heaven from the human race; -- well, then you are really New Church, intelligently and rationally New Church.
 
-Or so we are tempted to think, making religion to consist solely of doctrine, separating it from life. But what good is it to be able to explain the Trinity, but not live the explanation? -- and a person who allows himself to be guided by teachings other than those or the Lord Jesus Christ is not living the doctrine of the Trinity, for, above everything else, this doctrine teaches that the human words spoken by Christ are the words of God Himself, and that there is no Divinity elsewhere. And what good is it for a boy to be able to prate beautifully of marriage and conjugial love, if, as a boy, he is not preparing himself for that love by purity of word and thought? And what good is it to speak of an eternal purpose in creation, if one lives as though all that mattered in life is the present here and now?
+Or so we are tempted to think, making religion to consist solely of doctrine, separating it from life. But what good is it to be able to explain the Trinity, but not live the explanation? -- and a person who allows himself to be guided by teachings other than those of the Lord Jesus Christ is not living the doctrine of the Trinity, for, above everything else, this doctrine teaches that the human words spoken by Christ are the words of God Himself, and that there is no Divinity elsewhere. And what good is it for a boy to be able to prate beautifully of marriage and conjugial love, if, as a boy, he is not preparing himself for that love by purity of word and thought? And what good is it to speak of an eternal purpose in creation, if one lives as though all that mattered in life is the present here and now?
 
 Religion is not merely what you say you believe. Religion is the way you live according to your belief. Yet, as we mature, we are constantly tempted to make the whole of religion consist only of knowledge and doctrine.
 
 Each of the nations who conquered the Israelites as they were settling:
-in their promised land signified not only the particular evil into which Israel had fallen, but also one of the various evils that attacks the Church in each or us. The Philistines, the Writings say, signify the evil of which we have just spoken, the evil of making religion to consist merely in doctrine and knowledge, while ignoring application to life.
+in their promised land signified not only the particular evil into which Israel had fallen, but also one of the various evils that attacks the Church in each of us. The Philistines, the Writings say, signify the evil of which we have just spoken, the evil of making religion to consist merely in doctrine and knowledge, while ignoring application to life.
 
 It was Samson, strong and mighty Samson, who, on a one - man crusade, began to lead Israel to deliverance from the Philistines. Samson, we have already seen, represents the literal sense of the Word, the plain meaning of the literal teachings of the Old and New Testaments and the Writings, And it is the literal sense of the Word which alone can deliver us when, tempted by spiritual Philistines, we would make the whole of religion to consist of mere knowledges and doctrine. It is in the letter of the Word that we will find the strength of Samson, if only we will turn to it again and again when in such temptation.
 
@@ -818,9 +705,9 @@ The letter of the Word - its plain and simple, homely teachings. In intellectual
 
 Judges 16:1-5
 
-The few verses read today from the story of Samson tell one full incident of his life and the beginning or another - the last. One of the most remarkable features of the letter of the Word, incidentally, is the brevity of its stories. Probably forever there will remain in your minds a picture of Samson ripping off the huge gates of the city of Gaza, and carrying them off into the hills. It took exactly three verses of Scripture to tell that whole story and to describe the incidents that led up to it.
+The few verses read today from the story of Samson tell one full incident of his life and the beginning of another - the last. One of the most remarkable features of the letter of the Word, incidentally, is the brevity of its stories. Probably forever there will remain in your minds a picture of Samson ripping off the huge gates of the city of Gaza, and carrying them off into the hills. It took exactly three verses of Scripture to tell that whole story and to describe the incidents that led up to it.
 
-The story of Samson, the Writings say, is literally true, and is to be accepted as such. It is not what the Writings call made - up history, such as we find in the first few chapters of Genesis - stories made up for the sake of their internal meaning - the flood of water, for example, to describe the flood of evil and falsity that practically destroyed the human race at the end of the Most Ancient Church. Nor is the story of Samson mere legend or fable, such as we find in the ancient Greek tales or Hercules. The story of Samson is literally true. There was a man named Samson. He was strong - almost unbelievably strong. And - note this most carefully - his strength actually lay in his hair. Literally, when his hair was long he had strength; when his hair was shorn he was powerless.
+The story of Samson, the Writings say, is literally true, and is to be accepted as such. It is not what the Writings call made - up history, such as we find in the first few chapters of Genesis - stories made up for the sake of their internal meaning - the flood of water, for example, to describe the flood of evil and falsity that practically destroyed the human race at the end of the Most Ancient Church. Nor is the story of Samson mere legend or fable, such as we find in the ancient Greek tales of Hercules. The story of Samson is literally true. There was a man named Samson. He was strong - almost unbelievably strong. And - note this most carefully - his strength actually lay in his hair. Literally, when his hair was long he had strength; when his hair was shorn he was powerless.
 
 To us today, this seems almost impossible. We accept it only because revelation tells us that we must. And yet, the Writings give some indications of how such things could be, and, to some extent, so does common experience. There seem to be on record authenticated cases wherein men, under great emotional stress, have performed almost superhuman feats of strength. The most common examples of this which we usually hear tell how two or three men will carry some such thing as a huge piano out of a burning building, and then, once outside, are unable to lift it. Whether these particular tales are factual or not is unimportant. What is important is that they illustrate the general truth that under emotional stress men can sometimes do that which they are incapable of under ordinary circumstances.
 
@@ -852,7 +739,7 @@ The Writings teach that the male acts primarily from intelligence; the female, p
 
 And Samson wist not that the Lord had departed from him. Actually, the Lord never departs from anyone. He is infinite, eternal, and unending love. But for the Lord's love to do man any good, there must be in man something to receive it. What? A knowledge, a living knowledge, of the plain teachings of His Word. Cast these away from yourself, and nothing in heaven or earth can save you from hell. To all intents and purposes, the Lord will have departed from you. The hair of the head represents these knowledges. Samson's hair had now been shorn. The Philistines took him, blinded him, and threw him into prison.
 
-== CHAPTER V
+== Chapter `V` -- The Book of Jonah
 
 === THE BOOK OF JONAH - I
 
@@ -874,13 +761,13 @@ Overnight the Lord caused a wonder - plant to spring up to give shade to Jonah. 
 
 The Lord said to him, You are very sorry about that plant, which came up in a night and went the next night. You feel badly about it, though you did not create it, nor make it grow. Should not I spare Nineveh, that great city of more than a million persons who do not know right from wrong?
 
-And there the story ends abruptly, without another word, its moral all too clear for our comfort. We talk and prate of Gods mercy and kindness, His love and His wisdom, His desire that we should live a lire or usefulness to others. But we do not do much about it; we do not put much heart in it. But let any little bit or personal good luck or fortune be taken from us, and our emotions are aroused at once to a burning intensity. Life is no longer worth living. We want to die.
+And there the story ends abruptly, without another word, its moral all too clear for our comfort. We talk and prate of Gods mercy and kindness, His love and His wisdom, His desire that we should live a lire of usefulness to others. But we do not do much about it; we do not put much heart in it. But let any little bit of personal good luck or fortune be taken from us, and our emotions are aroused at once to a burning intensity. Life is no longer worth living. We want to die.
 
 === THE BOOK OF JONAH - II
 
 Jonah 1:8-16
 
-In the portion or Jonah read today we came across two things: Jonahs one unselfish act; the kindness of the very heathen whom Jonah so thoroughly despised.
+In the portion of Jonah read today we came across two things: Jonahs one unselfish act; the kindness of the very heathen whom Jonah so thoroughly despised.
 
 Jonah admitted his guilt, but in a very peculiar manner. I am an Hebrew, he began, and I fear the Lord, the God of heaven, which hath made the sea and the dry land. I fear the Lord. Indeed! To fear the Lord meant to obey Him, and Jonah had disobeyed the Lord s command to preach salvation to the Gentiles. For this reason the storm was upon them. Yet Jonah now admitted his guilt, and his words imply an admission that the punishment the Lord was bringing upon him was absolutely justified. Throw me overboard, and the sea shall be calm unto you.
 
@@ -892,7 +779,7 @@ Mass hatred - it is a diabolical thing, yet very common. The ancient Jew, believ
 
 The Writings condemn this attitude in their teachings concerning societies of friendship, groups with no real point to their existence, save friendly intercourse, yet closely knit into cliques, unwilling to admit that the good done by others than themselves is really good. Such, the Writings say, are not in heaven.
 
-Perhaps more than any other people in history, New Church men are in danger or making our church a society of friendship, of adopting the attitude of Jonah. The Writings teach flatly that the Old Church is dead. It is. As New Church parents we teach our children that our church is better than others. It is, and children should know this. Yet here lies the danger.
+Perhaps more than any other people in history, New Church men are in danger of making our church a society of friendship, of adopting the attitude of Jonah. The Writings teach flatly that the Old Church is dead. It is. As New Church parents we teach our children that our church is better than others. It is, and children should know this. Yet here lies the danger.
 
 The Old Church is dead. That means only that as a church, as a body capable of teaching the genuine truths of heaven, the Old Church is dead, Our church is better than others. That means only that our doctrines are infinitely superior to the teachings of any other church. Not a word is said concerning the people of these churches.
 
@@ -951,9 +838,9 @@ The second thing is to compare ourselves with what we learn concerning the Lord 
 
 Having discovered our evils, we must then pick out one or two of them and determine to shun them as sins - determine to turn away from them, not only in word and act, but also in thought and intention.
 
-What comes next is not easy. Temptations follow. Temptations to go on with the evil we have determined to shun, temptations as hard as was the plight or Jonah in the fish. But temptations which the Lord will always give us strength to endure to the end. And the end will come. If we persist in our determination to cease from doing and thinking the evil, then, in the Lord's good time, the end will come, and we will find our love of the evil entirely gone. Our sin will have been forgiven. New loves will take the place of the old. We will truly be glad that the Lord is what He is, and we will eagerly want that which He seeks to give us, for His desires will have become our own.
+What comes next is not easy. Temptations follow. Temptations to go on with the evil we have determined to shun, temptations as hard as was the plight of Jonah in the fish. But temptations which the Lord will always give us strength to endure to the end. And the end will come. If we persist in our determination to cease from doing and thinking the evil, then, in the Lord's good time, the end will come, and we will find our love of the evil entirely gone. Our sin will have been forgiven. New loves will take the place of the old. We will truly be glad that the Lord is what He is, and we will eagerly want that which He seeks to give us, for His desires will have become our own.
 
-== CHAPTER VI
+== Chapter `VI` -- The Christmas Story
 
 === THE ADVENT -  I: PROPHECIES
 
@@ -963,17 +850,17 @@ In order to be saved it is absolutely necessary to believe that God is a Divine 
 
 The men and women of the Most Ancient Church (signified by Adam) knew perceptively that God is a Divine Man. Wherever they looked in nature, they saw evidences of the Lord's Divine love, evidences of His Divine wisdom; and love and wisdom, they perceived, are Man.
 
-When the Most Ancient Church fell, the birth or the Lord on earth was at once inevitable. Faith in the Divine humanity of God, it was foreseen, would otherwise parish, God would eventually have to be born on earth, both to show forever that God is Man, and to show what Man is and should be.
+When the Most Ancient Church fell, the birth of the Lord on earth was at once inevitable. Faith in the Divine humanity of God, it was foreseen, would otherwise parish, God would eventually have to be born on earth, both to show forever that God is Man, and to show what Man is and should be.
 
-Yet not immediately could the incarnation take place. The seeds of all imaginable evils had been implanted in men's hearts at the Fall, but it would be .... before they all grew and flowered and bore their hideous fruits. The Lord could not be born until the spiritual state or man had sunk to the depths. Were He to come earlier, men would at first have accepted Him and then would have utterly rejected Him, for evil was still growing within them unseen and unrecognized. Their last state would have been far worse than their first.
+Yet not immediately could the incarnation take place. The seeds of all imaginable evils had been implanted in men's hearts at the Fall, but it would be .... before they all grew and flowered and bore their hideous fruits. The Lord could not be born until the spiritual state of man had sunk to the depths. Were He to come earlier, men would at first have accepted Him and then would have utterly rejected Him, for evil was still growing within them unseen and unrecognized. Their last state would have been far worse than their first.
 
 Faith in the Lord's Divine humanity, then, had to be kept alive. But the Lord Himself could not yet be born on earth. Prophecy, however, could keep that faith alive - prophecy that God would be born as Man - and faith in the Lord to come was, for the ancients, saving faith.
 
 The first prophecy was given as soon as the Fall took place. It is told of in the curse upon the serpent: I will put enmity between thee and the woman, and between thy seed and her seed; He shall trample thy head, and thou shall bruise His heel.
 
-Very general this prophecy is, but the whole or truth is contained within it. The seed of woman: not the seed of man, but one born of a virgin. The enemy of evil. The power of evil would hurt Him, bruise His heel, crucify His body. But He would trample the head. of the Serpent, break the power or evil, conquer all the hells.
+Very general this prophecy is, but the whole of truth is contained within it. The seed of woman: not the seed of man, but one born of a virgin. The enemy of evil. The power of evil would hurt Him, bruise His heel, crucify His body. But He would trample the head. of the Serpent, break the power of evil, conquer all the hells.
 
-For the Most Ancients this was enough. It told the whole story. For their descendants, however, an increase in prophecy would be necessary, ever bolstering the central truth that God is Man, actually to be born on earth. Judah would have dominion until He came whose name was Peace. A star shall rise out of Jacob. Jehovah will raise up a prophet like unto me; Him shall ye obey. Behold, a virgin shall conceive, and bring forth a Son, Wonderful, God, Father of Eternity, Prince or Peace. Thou Bethlehem, out of thee shall come a Governor that shall rule my people, Israel. The dromedaries of Midian shall come; they shall bring gold and incense, and shall show forth the praises of the Lord. The voice of one crying in the wilderness. Prepare ye the way of the Lord. The glory of the Lord shall be revealed, and all flesh shall see it together. And the Word was made flesh and dwelt among us full of grace and truth.
+For the Most Ancients this was enough. It told the whole story. For their descendants, however, an increase in prophecy would be necessary, ever bolstering the central truth that God is Man, actually to be born on earth. Judah would have dominion until He came whose name was Peace. A star shall rise out of Jacob. Jehovah will raise up a prophet like unto me; Him shall ye obey. Behold, a virgin shall conceive, and bring forth a Son, Wonderful, God, Father of Eternity, Prince of Peace. Thou Bethlehem, out of thee shall come a Governor that shall rule my people, Israel. The dromedaries of Midian shall come; they shall bring gold and incense, and shall show forth the praises of the Lord. The voice of one crying in the wilderness. Prepare ye the way of the Lord. The glory of the Lord shall be revealed, and all flesh shall see it together. And the Word was made flesh and dwelt among us full of grace and truth.
 
 === THE ADVENT -  II
 
@@ -1001,7 +888,7 @@ The Holy Spirit shall come upon thee, and the power of the Highest shall oversha
 
 Everything born receives its soul from its father, and becomes such a being as its father. An animal receives its animal soul from its father, and becomes an animal. A human being receives a human soul from his father, and becomes a man. The Lord, when born on earth of the Virgin Mary, had no human father, else He too would have been a mortal man as we all. It was God Himself who thus assumed the human through the Virgin birth. His soul was Divine, and He therefore made the whole of His Human Divine. It was God Himself who thus became Emanuel, God - with - us, God on earth in human form.
 
-The doctrine that each thing born receives its soul from its father is a doctrine absolutely distinctive to the New Church, today. It is not among the facts of science. It is not even known science. It is a matter of revelation - the revelation of the Writings - and it is the eternal reason why we, as a church, will always uphold belief in the Virgin Birth or Christ. It is the very cornerstone of our faith that the Lord Jesus Christ is the one and only God.
+The doctrine that each thing born receives its soul from its father is a doctrine absolutely distinctive to the New Church, today. It is not among the facts of science. It is not even known science. It is a matter of revelation - the revelation of the Writings - and it is the eternal reason why we, as a church, will always uphold belief in the Virgin Birth of Christ. It is the very cornerstone of our faith that the Lord Jesus Christ is the one and only God.
 
 Had Joseph been the father of the Lord, the Lord could never have become a being different from Joseph. He could never have been more than a man, a good man. Through the Virgin Birth, however, He could be, and He was, our God on earth.
 
@@ -1019,11 +906,11 @@ Mary and Elizabeth were cousins Mary, the mother of the Lord, and Elizabeth, mot
 
 Now, even the Christmas stories of the Word have an internal sense, which treats, not of the Lord, but of the individuals reformation and regeneration, and in this sense the facts just mentioned are of great importance the relationship of Mary and Elizabeth, the Virgin birth of Christ and the human birth of John.
 
-The birth of the Lord on earth is said to signify man's regeneration; the work or John the Baptist, that which the Writings call reformation. Reformation and regeneration what are they, and what is the difference between them?
+The birth of the Lord on earth is said to signify man's regeneration; the work of John the Baptist, that which the Writings call reformation. Reformation and regeneration what are they, and what is the difference between them?
 
-Regeneration - spiritual rebirth - consists of the removal or evil loves from the heart and the establishment of good loves in their place. There is not a one of us who does not have some love of evil and who does not actually find enjoyment in that evil. Yet, when we become regenerate, every single evil love will be taken from us; we will love only what is good; and evil will simply horrify quite a difference from now. Truly, we will be reborn into entirely new people.
+Regeneration - spiritual rebirth - consists of the removal of evil loves from the heart and the establishment of good loves in their place. There is not a one of us who does not have some love of evil and who does not actually find enjoyment in that evil. Yet, when we become regenerate, every single evil love will be taken from us; we will love only what is good; and evil will simply horrify quite a difference from now. Truly, we will be reborn into entirely new people.
 
-Let us picture a man strong, intelligent, handsome, powerful - and horribly conceited. He gets lots of compliments in life, and every single one or them fills him with a glow of pride. He considers himself pretty neat. He revels in his sense of personal power. Yet if he becomes regenerate, all his enjoyment of such selfish loves will be gone.
+Let us picture a man strong, intelligent, handsome, powerful - and horribly conceited. He gets lots of compliments in life, and every single one of them fills him with a glow of pride. He considers himself pretty neat. He revels in his sense of personal power. Yet if he becomes regenerate, all his enjoyment of such selfish loves will be gone.
 
 So let us suppose that he discovers that his loves are evil. He wants to be regenerated. He asks the Lord to take his evil loves from him. What would happen if the Lord immediately did what he asked? -- if the Lord then and there regenerated him?
 
@@ -1049,7 +936,7 @@ The Writings say some strange things about the importance of John the Baptist. W
 
 But what was it he did which was of such tremendous effect?
 
-First of all, the sense or mystery surrounding his birth caused many in Israel to think once again concerning Jehovah a practice all but forgotten by myriads. Knowledge of Zacharias vision and of his miraculous dumbness spread throughout the land. And then, at the naming or the child, the fathers tongue was loosed, and he prophesied wondrous things concerning his son.
+First of all, the sense of mystery surrounding his birth caused many in Israel to think once again concerning Jehovah a practice all but forgotten by myriads. Knowledge of Zacharias vision and of his miraculous dumbness spread throughout the land. And then, at the naming of the child, the fathers tongue was loosed, and he prophesied wondrous things concerning his son.
 
 Fear came on all that dwelt round about ... and these sayings were noised abroad.
 
@@ -1057,7 +944,7 @@ John spent his childhood and youth in the desert. It is popular today to believe
 
 He roamed the streets or the cities, a strange man, indeed his hair uncut, his clothes rough leather and camels hair, his only food grasshoppers and wild honey. Repent ye, he cried. Be baptized unto the remission of sins. Flee from the wrath to come! He frightened the people. Myriads came out to his baptism. What shall we do? they asked. He gave them good moral advice: Show charity to the neighbor ... fairness ... mercy ... contentment. On express command, he baptized the Lord, He whose shoes I am not worthy to unloose. And finally his path crossed that of Herod the king, He condemned the king for murder and adultery. The king imprisoned him, and at last, to satisfy his lust, beheaded him and gave his head to his stepdaughter to dance with.
 
-This was John the Baptist, who prepared the way of the Lord. It was his baptizing. that was important. Today, in the sacrament or baptism, angels are associated with the one baptized. The Jews of that day were a lowly and evil people, and evil cannot stand in the presence of the Lord. But Johns baptism associated with the Jews certain angels of heaven - lowly angels - and their angelic sphere would protect the Jews from the all - consuming assault or hell, which otherwise would have destroyed them as God on earth revealed Himself among them.
+This was John the Baptist, who prepared the way of the Lord. It was his baptizing. that was important. Today, in the sacrament of baptism, angels are associated with the one baptized. The Jews of that day were a lowly and evil people, and evil cannot stand in the presence of the Lord. But Johns baptism associated with the Jews certain angels of heaven - lowly angels - and their angelic sphere would protect the Jews from the all - consuming assault of hell, which otherwise would have destroyed them as God on earth revealed Himself among them.
 
 === THE ADVENT - VI: AND HE CALLED HIS NAME JESUS.
 
@@ -1113,7 +1000,7 @@ It must have been before the visit of the Wise Men that this occurred, for after
 
 In Jerusalem at this time lived a man named Simeon, just and devout, and to him it had been revealed that he would not die before he saw the Lord's Christ - the Messiah, that is. And now, under the guidance of the Holy Spirit, he came into the temple, just as Joseph and Mary arrived. At once he took the young Child in his arms. His life - long --ambition had been achieved. He was an old man; he knew he faced imminent death; but now he faced death in perfect peace: Mine eyes have seen Thy salvation.... A light to lighten the Gentiles, and the glory of Thy people Israel.... A sign which shall be spoken against, that the thoughts of many hearts may be revealed. The glory of Thy people Israel.
 
-If the Jews had had their way - the good Jews who believed in the Lord, that is - Christianity would have remained a sect confined within the Jewish Church. The Messiah was going to be their King, making them the ruling nation of the earth. But it was not to be thus. The Lord loves all men equally, not just Jews, nor even New Churchmen. His truth is for all men, of all nations, in all times, and from all earths, even as it is destined to penetrate to the darkest corners or the minds of each of us. The salvation of .all men was and is the Lord's only love.
+If the Jews had had their way - the good Jews who believed in the Lord, that is - Christianity would have remained a sect confined within the Jewish Church. The Messiah was going to be their King, making them the ruling nation of the earth. But it was not to be thus. The Lord loves all men equally, not just Jews, nor even New Churchmen. His truth is for all men, of all nations, in all times, and from all earths, even as it is destined to penetrate to the darkest corners of the minds of each of us. The salvation of .all men was and is the Lord's only love.
 
 But Simeon also said of the Lord that He was a Sign which should be spoken against, that the thoughts of many hearts might be revealed. How literally true was his prophecy! Evil men did speak against the Lord, and good men spoke in His favor. In His presence the thoughts of many hearts were revealed. It is ever so. The Lord does not come to judge man and condemn. He comes only to save. But the first effect of the Lord's Advent to man is always judgment. Man, in His presence, judges himself. When any one of us - youth or adult - hears and understands a teaching of the Lord, the first effect is always a judgment. He who would follow the Lord in the service of his neighbor, accepts the truth, and changes his life according to it. He who insists upon having his own way in life, no matter what the truth, rejects it, and thereby condemns himself.
 
@@ -1125,13 +1012,13 @@ Matthew 2:1-12
 
 We have seen His star in the East, and are come to worship Him. Among certain wise men of Syria, the worship of Jehovah persisted long after it had died out elsewhere. Magi, these men were called, and they were well - versed in the knowledge of correspondences. They knew too the ancient prophecies that some day God Himself would be born on earth, to save men from their sins.
 
-Somehow, when the Lord at last was born, they were given a revelation or that fact. Perhaps they saw a spiritual light. It is popular to believe that they saw light from the society of angels which spoke to the shepherds. (Certainly it was not a natural light. If it had been, even Herod would have followed it in his hideous hunt for Him born King.) Perhaps they were given a verbal revelation that mankind's Savior had been born, and they then spoke of this new knowledge as a star. This would have been enough to bring them to Jerusalem, for the prophecy that the Lord would be born among the Jews was very ancient, while the prophecy of His birth in Bethlehem was comparatively recent.
+Somehow, when the Lord at last was born, they were given a revelation of that fact. Perhaps they saw a spiritual light. It is popular to believe that they saw light from the society of angels which spoke to the shepherds. (Certainly it was not a natural light. If it had been, even Herod would have followed it in his hideous hunt for Him born King.) Perhaps they were given a verbal revelation that mankind's Savior had been born, and they then spoke of this new knowledge as a star. This would have been enough to bring them to Jerusalem, for the prophecy that the Lord would be born among the Jews was very ancient, while the prophecy of His birth in Bethlehem was comparatively recent.
 
-A star to follow! Every man has some star that he follows, some goal shining before him which guides him on the way he wants to go in life. But it was His star that the Magi followed. A star: Light ... high up. A most exalted truth, a star thus signifies; and His star is the most exalted truth there is. It is knowledge or the Divine Humanity of God.
+A star to follow! Every man has some star that he follows, some goal shining before him which guides him on the way he wants to go in life. But it was His star that the Magi followed. A star: Light ... high up. A most exalted truth, a star thus signifies; and His star is the most exalted truth there is. It is knowledge of the Divine Humanity of God.
 
-What more could any man ask than this - to know His God? To know the nature or the God who created him; to know why God created him and what the purpose in his creation is; to know what Gods will is and thus to know how to achieve Gods purpose in his creation. This is His star - knowledge or the Divine Human nature in God.
+What more could any man ask than this - to know His God? To know the nature of the God who created him; to know why God created him and what the purpose in his creation is; to know what Gods will is and thus to know how to achieve Gods purpose in his creation. This is His star - knowledge of the Divine Human nature in God.
 
-But when first we begin to see it, it does not lead us directly to the Lord. It leads, instead, to Jerusalem, which signifies the church. It leads us to see that if we are going to rind the Lord, each one of us for himself, we must go first to the church to receive instructions Only after that can we as individuals each rind the Lord for himself in Bethlehem, the Word, and enter into His house and offer Him that worship which is signified by gold, frankincense, and myrrh. Gold it was then the most precious thing there was, and it signifies love to the Lord, frankincense man's love or his neighbor ascends to the Lord as a grateful incense. And myrrh - an ointment for the body, a bodily thing: the uses we perform for one another.
+But when first we begin to see it, it does not lead us directly to the Lord. It leads, instead, to Jerusalem, which signifies the church. It leads us to see that if we are going to rind the Lord, each one of us for himself, we must go first to the church to receive instructions Only after that can we as individuals each rind the Lord for himself in Bethlehem, the Word, and enter into His house and offer Him that worship which is signified by gold, frankincense, and myrrh. Gold it was then the most precious thing there was, and it signifies love to the Lord, frankincense man's love of his neighbor ascends to the Lord as a grateful incense. And myrrh - an ointment for the body, a bodily thing: the uses we perform for one another.
 
 We have seen His star in the East, and are come to worship Him. The Lord also had His star, a star He followed all His life, and that is why He is the God we worship. His guiding star was His infinite desire to make possible the salvation and eternal happiness of every man who will freely take salvation. No greater love hath any man than that; indeed, no love so great.
 
@@ -1143,35 +1030,35 @@ We, too, like the Magi, now have seen this, His guiding star, and it is for this
 
 Matthew 2:13-23
 
-It is more than mere coincidence that several people mentioned in the Word spent some time in Egypt before coming to live in the Promised Land. Each had a glimpse or the Holy Land, as it were and then went to Egypt. Abraham was the first; he went down into Egypt and there received riches from Pharaoh before going back to live in Canaan. The whole nation of Israel, in fact, was in Egypt for centuries before the Lord called them out under Moses to occupy Canaan as His chosen people. And now the Lord Himself spent His early childhood in Egypt, before returning to the Holy Land to grow up in the city of Nazareth.
+It is more than mere coincidence that several people mentioned in the Word spent some time in Egypt before coming to live in the Promised Land. Each had a glimpse of the Holy Land, as it were and then went to Egypt. Abraham was the first; he went down into Egypt and there received riches from Pharaoh before going back to live in Canaan. The whole nation of Israel, in fact, was in Egypt for centuries before the Lord called them out under Moses to occupy Canaan as His chosen people. And now the Lord Himself spent His early childhood in Egypt, before returning to the Holy Land to grow up in the city of Nazareth.
 
-Matthew saw significance in this. He saw it as fulfillment of the ancient prophecy of Hosea, Out of Egypt have I called My Son. But Matthew never saw what the real significance or it was.
+Matthew saw significance in this. He saw it as fulfillment of the ancient prophecy of Hosea, Out of Egypt have I called My Son. But Matthew never saw what the real significance of it was.
 
 Egypt. Why did Abraham grow rich there? Why did Israel go there for relief from famine, become enslaved there, and finally escape, after robbing the Egyptians of their jewels and their gold? Why was it the Lord was in Egypt as a Child? And why must we all spend time in Egypt before we can attain our destiny in our promised land?
 
-Egypt, in ancient times, was the land of worldly learning. Astronomy, mathematics, engineering, and other sciences then flourished there. As such, in the story of the Word, Egypt signifies science or worldly learning.
+Egypt, in ancient times, was the land of worldly learning. Astronomy, mathematics, engineering, and other sciences then flourished there. As such, in the story of the Word, Egypt signifies science of worldly learning.
 
-Canaan, on the other hand, (the Promised Land, it was called), obviously signifies heaven; or, putting it another way, man's heavenly destiny, which is regeneration. This, of course, in reference to Abraham's and Israels return to Canaan. In reference to the Lord, Canaan signifies even more His glorification or the making Divine of His assumed human mind and character.
+Canaan, on the other hand, (the Promised Land, it was called), obviously signifies heaven; or, putting it another way, man's heavenly destiny, which is regeneration. This, of course, in reference to Abraham's and Israels return to Canaan. In reference to the Lord, Canaan signifies even more His glorification of the making Divine of His assumed human mind and character.
 
-It is easy to see, then., that a residence in Egypt, preparatory to life in Canaan, signifies the necessity or gaining worldly learning; before we can undertake the adult uses of regenerate life. We must know how to live in the world and be or use in the world, before we can successfully serve the Lord in usefulness to our fellow man.
+It is easy to see, then., that a residence in Egypt, preparatory to life in Canaan, signifies the necessity of gaining worldly learning; before we can undertake the adult uses of regenerate life. We must know how to live in the world and be of use in the world, before we can successfully serve the Lord in usefulness to our fellow man.
 
 And with the Lord, residence in Egypt signified even more. As a Man on earth, He, too, had to receive a worldly education before He could begin His Divine use of teaching men the way to heaven. In His conscious natural mind, He had to learn what men knew, so that He could penetrate their knowledges to the genuine truth within them and then teach that to men.
 
 That is why Egypt, in the Word, was so often the source of riches. It was with the jewels and gold borrowed from the Egyptians that Israel built her tabernacle in which to worship the Lord. And it is with the learning and science we can take from the world that we can build up our minds into fit dwelling - places in which to serve the Lord in a lire of use to others.
 
-But Egypt can be too captivating a thing at times, Israel was enslaved there for hundreds of years. Worldly learning and science can become so attractive that we forget that in themselves they are not our destiny. They are not, Canaan, the Promised Land, the life or regeneration, is. Out or Egypt have I called My Son.
+But Egypt can be too captivating a thing at times, Israel was enslaved there for hundreds of years. Worldly learning and science can become so attractive that we forget that in themselves they are not our destiny. They are not, Canaan, the Promised Land, the life of regeneration, is. Out of Egypt have I called My Son.
 
 === THE ADVENT - XI: THE INCARNATE WORD
 
 John 1:1-14
 
-The historical details of the Christmas story are found only in the Gospels of Matthew and Luke. Yet John also tells the story or Christmas, though without mentioning a single event connected with it. He tells it in a philosophical presentation of the really important thing that then took piece: The Word ... the Divine Truth ... which from eternity was with God and was God; this Divine Truth by which all things were made and which was both the light and life of man; this was made flesh and dwelt among us, and we beheld His glory.
+The historical details of the Christmas story are found only in the Gospels of Matthew and Luke. Yet John also tells the story of Christmas, though without mentioning a single event connected with it. He tells it in a philosophical presentation of the really important thing that then took piece: The Word ... the Divine Truth ... which from eternity was with God and was God; this Divine Truth by which all things were made and which was both the light and life of man; this was made flesh and dwelt among us, and we beheld His glory.
 
 This is the real meaning of Christmas, and it is why we celebrate the day. Without this, Christmas would be naught but commercialized gift - giving, cheap sentiment, and gaudy tinsel.
 
 The Word was made flesh and dwelt among us. The Lord's whole life is the love of humanity's salvation. But this, the Writings show, means more then just giving us salvation, as though it were a wrapped - up gift. It means leading men to find eternal happiness for themselves. That, then, is the Lord's whole purpose: to lead each of us to find eternal happiness for himself. Now, how can that be done? In one way only. First, He must give us a picture of what real happiness is, to serve as our ideal. How does He do that? By teaching; us the truth concerning it. Then He must teach us how to attain that happiness. Again He must teach us truth - truth which will show us what things within us prevent us from having that happiness now; truths by which we can overcome those evils within ourselves; truths which can serve us as a pattern of heavenly life, so that we may live accordingly, until we come to love that way of life and find salvation in it. Only through the teaching of truth can the Lord lead men to find happiness for themselves.
 
-And before the Advent, genuine spiritual truth was utterly unknown on earth. The Jews were the last remnant of the Lord's church on earth, and Mary, who became the Lord's mother, must have been among the best of her race. But what did she then know or truth? She praised and magnified the Lord, -- but why? Because all future generations would call her blessed, and because now, she thought, had come the day of Israels release from her hated Roman captors.
+And before the Advent, genuine spiritual truth was utterly unknown on earth. The Jews were the last remnant of the Lord's church on earth, and Mary, who became the Lord's mother, must have been among the best of her race. But what did she then know of truth? She praised and magnified the Lord, -- but why? Because all future generations would call her blessed, and because now, she thought, had come the day of Israels release from her hated Roman captors.
 
 Truth was lost before the Advent. The Jews knew Gods command against murder. But the Lord's words were almost unintelligible to them that anger against one's brother was also a sin. They worshiped God; and thought that God sat in the sky, drinking in with delight the stench of their burning sacrifices.
 
