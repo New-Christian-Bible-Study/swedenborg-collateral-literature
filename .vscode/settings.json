@@ -11,6 +11,7 @@
     "swedenborgEnglish": {
       "name": "Swedenborg English words",
       "path": "${workspaceFolder}/../swedenborg-dictionaries/.dictionaries/dictionary-en-swedenborg.txt",
+      "scope": "workspace",
       "addWords": true
     },
     "swedenborgWorksAbbrevs": {
@@ -22,6 +23,7 @@
     "swedenborgLatin": {
       "name": "Swedenborg Latin words",
       "path": "${workspaceFolder}/../swedenborg-dictionaries/.dictionaries/dictionary-la-swedenborg.txt",
+      "scope": "workspace",
       "addWords": true
     },
     "Swedish": {
@@ -47,12 +49,14 @@
       "name": "proper-names",
       "path": "${workspaceFolder}/../swedenborg-dictionaries/.dictionaries/proper-names.txt",
       "description": "Proper Names",
+      "scope": "workspace",
       "addWords": true
     },
     "old-style": {
       "name": "old-style",
       "path": "${workspaceFolder}/../swedenborg-dictionaries/.dictionaries/old-style.txt",
       "description": "Old Style [...(est|eth)]",
+      "scope": "workspace",
       "addWords": true
     },
    "project-words": {
@@ -75,7 +79,7 @@
 "csv-edit.readOption_hasHeader": "true",
 
 // Don't show distracting git diffs in overview ruler
-"scm.diffDecorations": "none",
+// "scm.diffDecorations": "none",
 
 "asciidoc.preview.asciidoctorAttributes": {
   },
