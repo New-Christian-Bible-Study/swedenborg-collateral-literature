@@ -84,6 +84,8 @@
 "asciidoc.preview.asciidoctorAttributes": {
   },
   "cSpell.showAutocompleteDirectiveSuggestions": false,
+  "cSpell.suggestionMenuType": "quickFix",
+  "cSpell.suggestionNumChanges": 1,
 
 
 }
