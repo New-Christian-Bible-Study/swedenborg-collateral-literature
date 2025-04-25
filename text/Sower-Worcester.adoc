@@ -3,7 +3,7 @@ by W.L. Worcester
 include::../template-attributes.adoc[]
 
 
-The Sower - Bible Stories and Their Inner Meaning. 
+The Sower - Bible Stories and Their Inner Meaning. +  
 by W.L. Worcester
 
 A Family Study Guide
@@ -22,7 +22,7 @@ These wonderfully-written and family-friendly lessons provide a practical help t
 
 
 
-== Genesis: The Pentateuch (The Five Books of Moses)
+== Genesis |  The Pentateuch (The Five Books of Moses)
 
 THE STORY
 
@@ -58,7 +58,7 @@ by John Worcester.) The Lord said that Moses wrote of Him. He also opened to the
 
 <<<
 
-== Genesis 1: The Creation
+== Genesis 1 |  The Creation
 
 THE STORY
 
@@ -97,9 +97,7 @@ till we come to the measure of a true human being and angel, into the image of G
 
 2. Who made the world? What is the world made for?
 
-3. Was the world made in a moment, or gradually step by step, through long ages? How do
-
-you know?
+3. Was the world made in a moment, or gradually step by step, through long ages? How do you know?
 
 4. Does the Lord give dominion to each of us? Over what?
 
@@ -132,7 +130,7 @@ What followed the six days of creation? What will follow if we are faithful thro
 
 <<<
 
-== Genesis 2: The Garden of Eden
+== Genesis 2 |  The Garden of Eden
 
 THE STORY
 
@@ -198,7 +196,7 @@ Compare the picture of the garden in the beginning of the Bible with the picture
 
 <<<
 
-== Genesis 3: The Serpent
+== Genesis 3 |  The Serpent
 
 THE STORY
 
@@ -262,7 +260,7 @@ but afterward, when they disobeyed, the other tree is spoken of as in the midst.
 
 <<<
 
-== Genesis 6: The Ark
+== Genesis 6 |  The Ark
 
 THE STORY
 
@@ -310,7 +308,7 @@ The people meant by Adam and Eve were "celestial" people, of the Golden Age. The
 
 <<<
 
-== Genesis 7: The Flood
+== Genesis 7 |  The Flood
 
 THE STORY
 
@@ -376,7 +374,7 @@ There are places in the Bible that speak of the waters of Noah as if they had co
 
 <<<
 
-== Genesis 8: Raven and Dove
+== Genesis 8 |  Raven and Dove
 
 THE STORY
 
@@ -446,7 +444,7 @@ the lesser word comes first, suggesting development from less to greater; also t
 
 <<<
 
-== Genesis 9:1-23: The Rainbow
+== Genesis 9:1-23 |  The Rainbow
 
 THE STORY
 
@@ -498,6 +496,7 @@ being for meat means that we must be careful that the heavenly spirit, the spiri
 Read Gen. 1:29, 30, and @AC 1002.
 
 What law given to them of old time does verse 6 remind you of? (Matt. 5:38) What principle of spiritual life was expressed in the old requirement that one should be punished for doing injury by suffering the same injury himself? It means that in doing wrong to others we hurt our own spiritual life. The same principle was taught by the Lord by the Golden Rule. Can you repeat it? 
+
 See also Luke 6:38. (@AC 1011, 1012)
 
 The rainbow is formed by the sunshine passing through the raindrops, and is seen against the cloud. What are the clouds and rain of the mind? Gentle rain represents teaching which is cleansing and refreshing. (Isa. 55:10) Dark stormy clouds represent thoughts so ignorant and false that they shut out the Lord and His loving presence. The ignorant, false thoughts of the Jews were represented by the dark clouds which hid the Lord upon Mount Sinai. The ignorant and imperfect thoughts of the disciples were represented by the cloud which shaded the Lord's glory on the mountain of Transfiguration, but then it was a bright cloud. The warm sunshine coming through the cloud and rain is something of the Lord's great love which comes to us even though our knowledge is imperfect and in many things quite false. The Lord comes to children through their simple thoughts of Him; He comes to heathen people through such knowledge as they have; 
@@ -518,7 +517,7 @@ Verse 23 contains a beautiful lesson of Christian charity. It teaches that we ou
 
 <<<
 
-== Genesis 11:1-9: The Tower of Babel
+== Genesis 11:1-9 |  The Tower of Babel
 
 THE STORY
 
@@ -588,7 +587,7 @@ In chapters 10 and 11, we find a transition from the first chapters, which are p
 
 <<<
 
-== Genesis 12: Call of Abram
+== Genesis 12 |  Call of Abram
 
 THE STORY
 
@@ -672,7 +671,7 @@ This story of the Old Testament makes more full our understanding of the brief s
 
 <<<
 
-== Genesis 13: Abram and Lot
+== Genesis 13 |  Abram and Lot
 
 THE STORY
 
@@ -762,7 +761,7 @@ We have spoken of Abram and Lot as representing the more interior and external n
 
 <<<
 
-== Genesis 14: War with the Eastern Kings
+== Genesis 14 |  War with the Eastern Kings
 
 THE STORY
 
@@ -836,7 +835,7 @@ We have thought especially of the application of this story to our own spiritual
 
 <<<
 
-== Genesis 17:1-22: Change of Name
+== Genesis 17:1-22 |  Change of Name
 
 THE STORY
 
@@ -889,7 +888,7 @@ There is a beautiful thought in this giving of a son to Abraham and Sarah in the
 
 <<<
 
-== Genesis 18: Visit of Angels
+== Genesis 18 |  Visit of Angels
 
 THE STORY
 
@@ -952,7 +951,7 @@ forty-five, forty, thirty, twenty, ten, you will know describe spiritual states 
 
 <<<
 
-== Genesis 21:1-21: Ishmael and Isaac
+== Genesis 21:1-21 |  Ishmael and Isaac
 
 THE STORY
 
@@ -1013,7 +1012,7 @@ The phases of development of rational power that we recognize in ourselves had t
 
 <<<
 
-== Genesis 22:1-19: The Sacrifice of Isaac
+== Genesis 22:1-19 |  The Sacrifice of Isaac
 
 THE STORY
 
@@ -1074,7 +1073,7 @@ Notice the closing verses of the chapter (Verses 20-24). They tell of increase i
 
 <<<
 
-== Genesis 23: Buying a Burial Place
+== Genesis 23 |  Buying a Burial Place
 
 THE STORY
 
@@ -1120,7 +1119,7 @@ The other spiritual lesson grows out of the thought that when we read in the let
 
 <<<
 
-== Genesis 24: Rebekah at the Well
+== Genesis 24 |  Rebekah at the Well
 
 THE STORY
 
@@ -1180,7 +1179,7 @@ Spiritually the affection for truth which is sought must be able and ready to sa
 
 <<<
 
-== Genesis 27: Jacob and Esau
+== Genesis 27 |  Jacob and Esau
 
 THE STORY
 
@@ -1311,7 +1310,7 @@ Isaac's love for Esau and desire to give him the blessing represents the desire 
 
 <<<
 
-== Genesis 29:1-20: Serving for Rachel
+== Genesis 29:1-20 |  Serving for Rachel
 
 THE STORY
 
@@ -1366,7 +1365,7 @@ The story is a wonderful picture of the Divine patience of the Lord's life, of H
 
 <<<
 
-== Genesis 31: Jacob and Laban
+== Genesis 31 |  Jacob and Laban
 
 THE STORY
 
@@ -1421,7 +1420,7 @@ The story closes with the covenant of peace between Laban and Jacob. Jacob's ret
 
 <<<
 
-== Genesis 32: The New Name
+== Genesis 32 |  The New Name
 
 THE STORY
 
@@ -1469,7 +1468,7 @@ Jacob's struggle and lameness have a special meaning as applied to the Jewish pe
 
 <<<
 
-== Genesis 33: Meeting with Esau
+== Genesis 33 |  Meeting with Esau
 
 THE STORY
 
@@ -1556,7 +1555,7 @@ goodness with people. He lets His goodness come into people, as the sun lets its
 
 <<<
 
-== Genesis 37: Jacob and His Brothers
+== Genesis 37 |  Jacob and His Brothers
 
 THE STORY
 
@@ -1615,7 +1614,7 @@ What in our Lord's own life would seem to be analogous to the experience of the 
 
 <<<
 
-== Genesis 40: Butler and Baker
+== Genesis 40 |  Butler and Baker
 
 THE STORY
 
@@ -1700,7 +1699,7 @@ You may remember that Joseph stands for, or represents, the Lord. When Joseph wa
 
 <<<
 
-== Genesis 41: Plenty and Famine
+== Genesis 41 |  Plenty and Famine
 
 THE STORY
 
@@ -1771,7 +1770,7 @@ and for this reason he wants you to learn just as much as you possibly can about
 
 <<<
 
-== Genesis 42: The Brothers Come
+== Genesis 42 |  The Brothers Come
 
 THE STORY
 
@@ -1847,7 +1846,7 @@ The angels said more; but don't you think it would be fine to commit to memory t
 
 <<<
 
-== Genesis 43: Joseph and Benjamin
+== Genesis 43 |  Joseph and Benjamin
 
 THE STORY
 
@@ -1918,7 +1917,7 @@ Is this hard to understand? Let me illustrate. Suppose that you do not like some
 
 <<<
 
-== Genesis 44: The Silver Cup
+== Genesis 44 |  The Silver Cup
 
 THE STORY
 
@@ -2004,7 +2003,7 @@ Whatever you learn about the Lord and heaven, and whatever your pastor preaches 
 
 <<<
 
-== Genesis 45-47:12: Jacob in Goshen
+== Genesis 45-47:12 |  Jacob in Goshen
 
 THE STORY
 
@@ -2091,7 +2090,7 @@ In whatever trouble we may be, we may be sure that, if we keep our conscience cl
 
 <<<
 
-== Genesis 48: Ephraim and Manasseh
+== Genesis 48 |  Ephraim and Manasseh
 
 THE STORY
 
@@ -2142,7 +2141,7 @@ which shows the lots given to the tribes in the land of Canaan, and notice the l
 
 <<<
 
-== Genesis 50: Burial of Jacob
+== Genesis 50 |  Burial of Jacob
 
 THE STORY
 
@@ -2223,7 +2222,7 @@ the colors of which change from time to time. Everything is so lovely that we ca
 
 <<<
 
-== Exodus 2: Birth of Moses: His Flight
+== Exodus 2: Birth of Moses |  His Flight
 
 THE STORY
 
@@ -2334,7 +2333,7 @@ If the historical books are represented by Moses, are the prophetical books also
 
 <<<
 
-== Exodus 3:1-9: At the Burning Bush
+== Exodus 3:1-9 |  At the Burning Bush
 
 THE STORY
 
@@ -2432,7 +2431,7 @@ The Ten Commandments teach "Thou shalt not take the name of the Lord thy God in 
 
 <<<
 
-== Exodus 5: Egyptian Bondage
+== Exodus 5 |  Egyptian Bondage
 
 THE STORY
 
@@ -2526,7 +2525,7 @@ Swedenborg tells us how he saw and heard the poor people who lived in spiritual 
 
 <<<
 
-== Exodus 9: Plagues of Egypt
+== Exodus 9 |  Plagues of Egypt
 
 THE STORY
 
@@ -2650,7 +2649,7 @@ You can see from this how very important it is for people to study the Word, and
 
 <<<
 
-== Exodus 12: The Passover Kept
+== Exodus 12 |  The Passover Kept
 
 THE STORY
 
@@ -2742,7 +2741,7 @@ You see from this that at the Second Coming as well as at the First, the Lord de
 
 <<<
 
-== Exodus 13: In Memory of Deliverance
+== Exodus 13 |  In Memory of Deliverance
 
 THE STORY
 
@@ -2791,7 +2790,7 @@ Our cloud is our perception of the Lord's truth and the fire the perception of H
 
 <<<
 
-== Exodus 14: Crossing the Red Sea
+== Exodus 14 |  Crossing the Red Sea
 
 THE STORY
 
@@ -2851,7 +2850,7 @@ Read in @AC 8261 beautiful things about the power of songs which relate to the L
 
 <<<
 
-== Exodus 16: Quails and Manna
+== Exodus 16 |  Quails and Manna
 
 THE STORY
 
@@ -2909,7 +2908,7 @@ There was no manna on the Sabbath, and it ceased when the people came into the l
 
 <<<
 
-== Exodus 17: Water Given: Amalek Overcome
+== Exodus 17: Water Given |  Amalek Overcome
 
 THE STORY
 
@@ -2965,7 +2964,7 @@ There is a grand lesson in the story of this battle. We must fight as Joshua fou
 
 <<<
 
-== Exodus 19, 20:1-18: Commandments Spoken
+== Exodus 19, 20:1-18 |  Commandments Spoken
 
 THE STORY
 
@@ -3060,7 +3059,7 @@ even though we seem to forget them. The Lord keeps them warm and bright away ins
 
 <<<
 
-== Exodus 32: On Tablets of Stone
+== Exodus 32 |  On Tablets of Stone
 
 THE STORY
 
@@ -3150,7 +3149,7 @@ that they would turn to worship an Egyptian idol within little more than a month
 
 <<<
 
-== Exodus 36-38:20: The Tabernacle
+== Exodus 36-38:20 |  The Tabernacle
 
 THE STORY
 
@@ -3316,7 +3315,7 @@ And so in like manner in the encampment of the children of Israel there was a gr
 
 <<<
 
-== Exodus 39:1-31: The Holy Garments
+== Exodus 39:1-31 |  The Holy Garments
 
 THE STORY
 
@@ -3371,7 +3370,7 @@ And now again we see what our breastplate is, and how the Lord gives us answers 
 
 <<<
 
-== Numbers 9: The Guiding Cloud
+== Numbers 9 |  The Guiding Cloud
 
 THE STORY
 
@@ -3462,7 +3461,7 @@ The order in which the tribes encamped about the tabernacle and the order in whi
 
 <<<
 
-== Numbers 13: Report of Spies
+== Numbers 13 |  Report of Spies
 
 THE STORY
 
@@ -3515,7 +3514,7 @@ Notice the statement about Hebron and Zoan, in Num. 13:22. Which come first, hea
 
 <<<
 
-== Numbers 14: To Wander Forty Years
+== Numbers 14 |  To Wander Forty Years
 
 THE STORY
 
@@ -3612,7 +3611,7 @@ No other principles of life are so fruitful as those that spring from love to th
 
 <<<
 
-== Numbers 20: Passage Refused
+== Numbers 20 |  Passage Refused
 
 THE STORY
 
@@ -3692,7 +3691,7 @@ The desire to be disobedient, and to have your own way, is like the king of Edom
 
 <<<
 
-== Numbers 21: Fiery Serpents
+== Numbers 21 |  Fiery Serpents
 
 THE STORY
 
@@ -3751,7 +3750,7 @@ In verse 14, "the book of the wars of Jehovah" is mentioned, and words are quote
 
 <<<
 
-== Numbers 22: Balaam Called
+== Numbers 22 |  Balaam Called
 
 THE STORY
 
@@ -3934,7 +3933,7 @@ about the seed of the woman crushing the head of the serpent, only that it tells
 
 <<<
 
-== Numbers 32: Homes East of Jordan
+== Numbers 32 |  Homes East of Jordan
 
 THE STORY
 
@@ -4033,7 +4032,7 @@ Where do we find out these great heavenly secrets about Gad, Reuben and Manasseh
 
 <<<
 
-== Deuteronomy 6: Obedience to the Lord
+== Deuteronomy 6 |  Obedience to the Lord
 
 THE STORY
 
@@ -4108,7 +4107,7 @@ which will not do anything to grieve Him. (@AC 3718)
 
 <<<
 
-== Deuteronomy 8: The Lord's Mercy
+== Deuteronomy 8 |  The Lord's Mercy
 
 THE STORY
 
@@ -4260,7 +4259,7 @@ Do you remember that the Lord said, that on this commandment "hang all the law a
 
 <<<
 
-== Deuteronomy 31: The Written Law
+== Deuteronomy 31 |  The Written Law
 
 THE STORY
 
@@ -4311,7 +4310,7 @@ Compare Ps. 91:4; Matt. 23:37. (@AE 281, 283)
 
 <<<
 
-== Deuteronomy 34: Death of Moses
+== Deuteronomy 34 |  Death of Moses
 
 THE STORY
 
@@ -4369,7 +4368,7 @@ and to dwell in the promised land and the holy city. (@AR 896)
 
 <<<
 
-== Joshua 1: At the Jordan
+== Joshua 1 |  At the Jordan
 
 THE STORY
 
@@ -4435,7 +4434,7 @@ and then to bless the loaves and feed the multitude, this in the old land of Bas
 
 <<<
 
-== Joshua 2: Visit to Jericho
+== Joshua 2 |  Visit to Jericho
 
 THE STORY
 
@@ -4481,7 +4480,7 @@ Does the story of the spies, how they found safety on the housetop and afterward
 
 <<<
 
-== Joshua 3: Crossing the Jordan
+== Joshua 3 |  Crossing the Jordan
 
 THE STORY
 
@@ -4541,7 +4540,7 @@ This lesson of the Divine power in the ark and the commandments is followed by o
 
 <<<
 
-== Joshua 4; 5:10-15: Coming into the Land
+== Joshua 4; 5:10-15 |  Coming into the Land
 
 THE STORY
 
@@ -4604,7 +4603,7 @@ and willingness to set aside mere worldly appearances and let the Lord teach us 
 
 <<<
 
-== Joshua 6: Jericho Taken
+== Joshua 6 |  Jericho Taken
 
 THE STORY
 
@@ -4667,7 +4666,7 @@ The prediction concerning one who should rebuild Jericho shows that our spiritua
 
 <<<
 
-== Joshua 7: The Sin of Achan
+== Joshua 7 |  The Sin of Achan
 
 THE STORY
 
@@ -4747,7 +4746,7 @@ what by the burning with fire?
 
 <<<
 
-== Joshua 8:1-29: Ai Taken
+== Joshua 8:1-29 |  Ai Taken
 
 THE STORY
 
@@ -4783,7 +4782,7 @@ The requirement to build the altar of stones over which no one hath lifted up an
 
 <<<
 
-== Joshua 8:30-35: The Law Read at Schechem
+== Joshua 8:30-35 |  The Law Read at Schechem
 
 THE STORY
 
@@ -4832,7 +4831,7 @@ It would be interesting to make some study of the spiritual meaning of the tribe
 
 <<<
 
-== Joshua 9: League with the Gibeonites
+== Joshua 9 |  League with the Gibeonites
 
 THE STORY
 
@@ -4884,7 +4883,7 @@ In ourselves, we may think of the Gibeonites as representing something of extern
 
 <<<
 
-== Joshua 10: Victory in the South
+== Joshua 10 |  Victory in the South
 
 THE STORY
 
@@ -4958,7 +4957,7 @@ The spiritual nature hastens with the Lord's help to the defense.
 
 <<<
 
-== Joshua 11: Victory in the North
+== Joshua 11 |  Victory in the North
 
 THE STORY
 
@@ -5009,7 +5008,7 @@ strong and good, and to be trustful as a little child. Have you noticed that the
 
 <<<
 
-== Joshua 18:1-20; 22:1-9: The Land Divided
+== Joshua 18:1-20; 22:1-9 |  The Land Divided
 
 THE STORY
 
@@ -5061,7 +5060,7 @@ The study here suggested is carried out with more detail, and with many referenc
 
 <<<
 
-== Joshua 20; 21:1-8: Cities of Refuge
+== Joshua 20; 21:1-8 |  Cities of Refuge
 
 THE STORY
 
@@ -5189,7 +5188,7 @@ Joseph among his brethren in the Holy Land represents a living sense of the Lord
 
 <<<
 
-== Judges 2: Forgetting the Lord
+== Judges 2 |  Forgetting the Lord
 
 THE STORY
 
@@ -5234,7 +5233,7 @@ It seems very strange that the children of Israel could again and again disobey 
 
 <<<
 
-== Judges 4: Deborah and Barak
+== Judges 4 |  Deborah and Barak
 
 THE STORY
 
@@ -5297,7 +5296,7 @@ The meaning of Jael and her help. Her people the Kenites were the shepherd peopl
 
 <<<
 
-== Judges 6: Gideon Called
+== Judges 6 |  Gideon Called
 
 THE STORY
 
@@ -5435,7 +5434,7 @@ Barley bread, like that with which the Lord fed the five thousand, represents th
 
 <<<
 
-== Judges 9:1-21: Parable of the Trees
+== Judges 9:1-21 |  Parable of the Trees
 
 THE STORY
 
@@ -5514,7 +5513,7 @@ Compare this statement in relation to the sacrifice of Isaac: "By these words, t
 
 <<<
 
-== Judges 13: Samson Promised
+== Judges 13 |  Samson Promised
 
 THE STORY
 
@@ -5716,7 +5715,7 @@ Burial in the Scriptures suggests resurrection. The burial of Samson near his ol
 
 <<<
 
-== Judges 17, 18: Micah and His Idols
+== Judges 17, 18 |  Micah and His Idols
 
 THE STORY
 
@@ -5776,7 +5775,7 @@ Be sure to read the whole of @HH 324, which describes the sympathy of an innocen
 
 <<<
 
-== 1 Samuel 1: Samuel Promised
+== 1 Samuel 1 |  Samuel Promised
 
 THE STORY
 
@@ -5840,7 +5839,7 @@ Another thought in regard to Samuel's garments. Garments in the Bible represent 
 
 <<<
 
-== 1 Samuel 2: The Child Samuel
+== 1 Samuel 2 |  The Child Samuel
 
 THE STORY
 
@@ -5891,7 +5890,7 @@ Samuel was a type of the Lord, and the ephod and little coat which the child Sam
 
 <<<
 
-== 1 Samuel 3: Samuel Called
+== 1 Samuel 3 |  Samuel Called
 
 THE STORY
 
@@ -5949,7 +5948,7 @@ Samuel seems to stand as a type of the best traits of childhood, especially of c
 
 <<<
 
-== 1 Samuel 4:1-11; 5: The Ark with Philistia
+== 1 Samuel 4:1-11; 5 |  The Ark with Philistia
 
 THE STORY
 
@@ -6012,7 +6011,7 @@ Explanations in @DFaith 52, @AC 938, and P. 326 help us recognize the boils and 
 
 <<<
 
-== 1 Samuel 6: The Ark Sent Home
+== 1 Samuel 6 |  The Ark Sent Home
 
 THE STORY
 
@@ -6072,7 +6071,7 @@ see Me, and live." The fullness of the Lord's love unveiled would be as a consum
 
 <<<
 
-== 1 Samuel 7: Samuel as Judge
+== 1 Samuel 7 |  Samuel as Judge
 
 THE STORY
 
@@ -6146,7 +6145,7 @@ The Lord's Word is our prophet calling us to repentance and teaching us what is 
 
 <<<
 
-== 1 Samuel 8: Asking for a King
+== 1 Samuel 8 |  Asking for a King
 
 THE STORY
 
@@ -6190,7 +6189,7 @@ less obedient. They question things that they are told to do; they try to decide
 
 <<<
 
-== 1 Samuel 9:1-4; 10:1, 17-27: Saul Made King
+== 1 Samuel 9:1-4; 10:1, 17-27 |  Saul Made King
 
 THE STORY
 
@@ -6320,7 +6319,7 @@ We have learned that the desire of the people for a king was sinful because it r
 
 <<<
 
-== 1 Samuel 13: Saul Disobeys
+== 1 Samuel 13 |  Saul Disobeys
 
 THE STORY
 
@@ -6467,7 +6466,7 @@ This was the commandment in Gen. 9:4 and Deut. 12:16, 23-24. It meant that exter
 
 <<<
 
-== 1 Samuel 15: Saul Rejected
+== 1 Samuel 15 |  Saul Rejected
 
 THE STORY
 
@@ -6542,7 +6541,7 @@ Garments represent forms of truth in which the living affections find expression
 
 <<<
 
-== 1 Samuel 16: David Anointed
+== 1 Samuel 16 |  David Anointed
 
 THE STORY
 
@@ -6602,7 +6601,7 @@ They are in their deepest meaning expressions of the Lord's own heart in times o
 
 <<<
 
-== 1 Samuel 17: David and Goliath
+== 1 Samuel 17 |  David and Goliath
 
 THE STORY
 
@@ -6661,7 +6660,7 @@ People and angels stood helpless (like Saul's army), their fate depending upon t
 
 <<<
 
-== 1 Samuel 18; 20: David and Jonathan
+== 1 Samuel 18; 20 |  David and Jonathan
 
 THE STORY
 
@@ -6719,7 +6718,7 @@ Jonathan gave David a sign by shooting the arrows beyond him. Truths from the Lo
 
 <<<
 
-== 1 Samuel 21; 22:1-5: David and the Showbread
+== 1 Samuel 21; 22:1-5 |  David and the Showbread
 
 THE STORY
 
@@ -6836,7 +6835,7 @@ The water also represents this truth, as it cleanses and refreshes. David claime
 
 <<<
 
-== 1 Samuel 28: Saul at Endor
+== 1 Samuel 28 |  Saul at Endor
 
 THE STORY
 
@@ -6942,7 +6941,7 @@ The book of Jasher, we are told, was a book of the Ancient Word, which was given
 
 <<<
 
-== 2 Samuel 2: David Made King
+== 2 Samuel 2 |  David Made King
 
 THE STORY
 
@@ -6998,7 +6997,7 @@ The dependence of Jonathan's lame son on David's bounty suggests the blessing to
 
 <<<
 
-== 2 Samuel 5:1-12; 6:1-19: Bringing up the Ark
+== 2 Samuel 5:1-12; 6:1-19 |  Bringing up the Ark
 
 THE STORY
 
@@ -7279,7 +7278,7 @@ his gentleness toward him, his solicitude for his safety, and his grief at his d
 
 <<<
 
-== 1 Kings 1:5-10, 32-40; 3:5-15: Solomon Anointed
+== 1 Kings 1:5-10, 32-40; 3:5-15 |  Solomon Anointed
 
 THE STORY
 
@@ -7344,7 +7343,7 @@ but which we trust the Lord will some day help us to overcome.
 
 <<<
 
-== 1 Kings 5; 6:1, 38: Building the Temple
+== 1 Kings 5; 6:1, 38 |  Building the Temple
 
 THE STORY
 
@@ -7417,7 +7416,7 @@ What is represented by Hiram's league with Solomon, and his help in building the
 
 <<<
 
-== 1 Kings 8: Dedication of the Temple
+== 1 Kings 8 |  Dedication of the Temple
 
 THE STORY
 
@@ -7645,7 +7644,7 @@ The glory of Solomon, then, consisted primarily in wisdom, his wise and understa
 
 <<<
 
-== 1 Kings 11:1-13: Disobedience and Trouble
+== 1 Kings 11:1-13 |  Disobedience and Trouble
 
 THE STORY
 
@@ -7704,7 +7703,7 @@ disobeyed, and our kingdom cannot stand. (@AC 4763; @AE 395)
 
 <<<
 
-== 1 Kings 12: The Kingdom Divided
+== 1 Kings 12 |  The Kingdom Divided
 
 THE STORY
 
@@ -7778,7 +7777,7 @@ The turning away from heavenly love and deeper heavenly life to mere knowledge a
 
 <<<
 
-== 1 Kings 17: Ahab and Elijah
+== 1 Kings 17 |  Ahab and Elijah
 
 THE STORY
 
@@ -7985,7 +7984,7 @@ as in heaven, but only misery which is like being dead - dead to all the beautif
 
 <<<
 
-== 1 Kings 18: Elijah at Horeb
+== 1 Kings 18 |  Elijah at Horeb
 
 THE STORY
 
@@ -8085,7 +8084,7 @@ The comfort which the angels give is not always a promise that trouble will ceas
 
 <<<
 
-== 1 Kings 20:1-21: The Syrian Invasion
+== 1 Kings 20:1-21 |  The Syrian Invasion
 
 THE STORY
 
@@ -8130,7 +8129,7 @@ Syria was fighting with Israel, and by and by Israel was destroyed by Assyria. F
 
 <<<
 
-== 1 Kings 20:22-43: Prophet and King
+== 1 Kings 20:22-43 |  Prophet and King
 
 THE STORY
 
@@ -8188,7 +8187,7 @@ There is a similar suggestion of the mingling of our own natural thought with th
 
 <<<
 
-== 1 Kings 21:1-20: Ahab and Jezebel
+== 1 Kings 21:1-20 |  Ahab and Jezebel
 
 THE STORY
 
@@ -8244,7 +8243,7 @@ dogs represent a simple but earnest desire for the good things of heaven. But in
 
 <<<
 
-== 1 Kings 22:1-28: Micaiah the Prophet
+== 1 Kings 22:1-28 |  Micaiah the Prophet
 
 THE STORY
 
@@ -8413,7 +8412,7 @@ The fire from heaven which consumed Elijah's sacrifice represents love from the 
 
 <<<
 
-== 2 Kings 2: Elijah Taken Up
+== 2 Kings 2 |  Elijah Taken Up
 
 THE STORY
 
@@ -8509,7 +8508,7 @@ So Neptune, the god of the ocean, is also depicted with horses because the sea, 
 
 <<<
 
-== 2 Kings 3: Israel and Judah Subdue Moah
+== 2 Kings 3 |  Israel and Judah Subdue Moah
 
 THE STORY
 
@@ -8571,7 +8570,7 @@ Molech was the god of Ammon, and Chemosh was the god of Moab, whom Mesha also me
 
 <<<
 
-== 2 Kings 4: Elisha at Shunem
+== 2 Kings 4 |  Elisha at Shunem
 
 THE STORY
 
@@ -8680,7 +8679,7 @@ If, then, you want to become a really good person, that is, a useful person - on
 
 <<<
 
-== 2 Kings 5: Naaman Healed
+== 2 Kings 5 |  Naaman Healed
 
 THE STORY
 
@@ -8781,7 +8780,7 @@ remember that just as people cannot form themselves and cannot bear themselves (
 
 <<<
 
-== 2 Kings 6:1-23: Elisha Defended
+== 2 Kings 6:1-23 |  Elisha Defended
 
 THE STORY
 
@@ -8839,7 +8838,7 @@ The enlightenment of the understanding by instruction from the Lord’s Word is 
 
 <<<
 
-== 2 Kings 7: Samaria Delivered
+== 2 Kings 7 |  Samaria Delivered
 
 THE STORY
 
@@ -8876,7 +8875,7 @@ We read of famine and then of plenty in Samaria. Famine in the spiritual life is
 
 <<<
 
-== 2 Kings 9:14-37: Jehu the Reformer
+== 2 Kings 9:14-37 |  Jehu the Reformer
 
 THE STORY
 
@@ -8991,7 +8990,7 @@ and the worship of the calves represents a regard for mere forms of truth and go
 
 <<<
 
-== 2 Kings 11: Queen Athaliah
+== 2 Kings 11 |  Queen Athaliah
 
 THE STORY
 
@@ -9050,7 +9049,7 @@ The men who guarded Joash were armed with King David's spears and shields. Our D
 
 <<<
 
-== 2 Kings 12: The Temple Repaired
+== 2 Kings 12 |  The Temple Repaired
 
 THE STORY
 
@@ -9103,7 +9102,7 @@ in which the Lord can dwell. This temple of character may be neglected and becom
 
 <<<
 
-== 2 Kings 13: Death of Elisha
+== 2 Kings 13 |  Death of Elisha
 
 THE STORY
 
@@ -9177,7 +9176,7 @@ Read the prophet Amos and Summary Exposition of Prophets and Psalms upon that pr
 
 <<<
 
-== 2 Kings 14: Israel Against Judah
+== 2 Kings 14 |  Israel Against Judah
 
 THE STORY
 
@@ -9219,7 +9218,7 @@ perverted understanding and one finally destroyed by the passion of an evil will
 
 <<<
 
-== 2 Kings 115:12-31; 16: Assyrian Invaders
+== 2 Kings 115:12-31; 16 |  Assyrian Invaders
 
 THE STORY
 
@@ -9258,7 +9257,7 @@ But it is indirectly the enemy of Judah also. It leads to the substitution of ot
 
 <<<
 
-== 2 Kings 17:6-41: Israel Taken Captive
+== 2 Kings 17:6-41 |  Israel Taken Captive
 
 THE STORY
 
@@ -9361,7 +9360,7 @@ Besides, the most Ancient Church had been in the land of Canaan, and as the peop
 
 <<<
 
-== 2 Kings 18: Hezekiah in Danger
+== 2 Kings 18 |  Hezekiah in Danger
 
 THE STORY
 
@@ -9431,7 +9430,7 @@ Rab-shakeh spoke of the king of Assyria as the great king, just as people speak 
 
 <<<
 
-== 2 Kings 19: Hezekiah Delivered
+== 2 Kings 19 |  Hezekiah Delivered
 
 THE STORY
 
@@ -9520,7 +9519,7 @@ protection of the Lord. We should realize our dependence upon this protection fo
 
 <<<
 
-== 2 Kings 20: Hezekiah and Isaiah
+== 2 Kings 20 |  Hezekiah and Isaiah
 
 THE STORY
 
@@ -9686,7 +9685,7 @@ To “consult familiar spirits” is like the modern practice of consulting spir
 
 <<<
 
-== 2 Kings 22: The Law Found
+== 2 Kings 22 |  The Law Found
 
 THE STORY
 
@@ -9851,7 +9850,7 @@ and Babylon are important factors in the history of the later days of Israel and
 
 <<<
 
-== 2 Kings 24: The King of Babylon Takes Captives
+== 2 Kings 24 |  The King of Babylon Takes Captives
 
 THE STORY
 
@@ -9909,7 +9908,7 @@ It is true that we know something about the return of the Jews to Jerusalem, how
 
 <<<
 
-== 2 Kings 25:1-21: Jerusalem Destroyed
+== 2 Kings 25:1-21 |  Jerusalem Destroyed
 
 THE STORY
 
@@ -10074,7 +10073,7 @@ You will be interested to read some chapters from each of these prophets.
 
 <<<
 
-== Isaiah to Malachi: The Prophets
+== Isaiah to Malachi |  The Prophets
 
 CHRONOLOGICAL TABLE
 
@@ -10465,7 +10464,7 @@ NOTE: In A.D. 70, the city and temple were completely destroyed by Titus. The la
 
 <<<
 
-== Isaiah to Malachi: The Prophets
+== Isaiah to Malachi |  The Prophets
 
 INTRODUCTORY
 
@@ -10505,7 +10504,7 @@ to bear them in mind; particulars will fall into line more readily afterward. Un
 
 <<<
 
-== Isaiah to Malachi: The Prophet
+== Isaiah to Malachi |  The Prophet
 
 THE STORY
 
@@ -10591,7 +10590,7 @@ years. We must begin with the truth as we know it, the truth we understand best 
 
 <<<
 
-== Isaiah 11; 12: The Rod Out of Jesse
+== Isaiah 11; 12 |  The Rod Out of Jesse
 
 HISTORICAL STUDY
 
@@ -10633,7 +10632,7 @@ deceit and hypocrisy. (8; @AC 9013; @AE 410) The knowledge of the Lord (verse 9)
 
 <<<
 
-== Isaiah 37: Isaiah and Hezekiah
+== Isaiah 37 |  Isaiah and Hezekiah
 
 HISTORICAL STUDY
 
@@ -10660,7 +10659,7 @@ because they increasingly appear to be from the Word. "Jehovah said unto me (Ass
 
 <<<
 
-== Isaiah 40: The Voice in the Wilderness
+== Isaiah 40 |  The Voice in the Wilderness
 
 THE STORY
 
@@ -10728,7 +10727,7 @@ and depend upon idols, means death. They who place confidence in themselves shal
 
 <<<
 
-== Isaiah 53: Who Hath Believed Our Report?
+== Isaiah 53 |  Who Hath Believed Our Report?
 
 THE STORY
 
@@ -10763,7 +10762,7 @@ when the means of grace are so freely offered to us? He is still among us as He 
 
 <<<
 
-== Isaiah 58: The Acceptable Feast
+== Isaiah 58 |  The Acceptable Feast
 
 THE STORY
 
@@ -10846,7 +10845,7 @@ assembling of the peoples and the treasures of the earth represents the tribute 
 
 <<<
 
-== Jeremiah 1: Taming the Love of Dominion
+== Jeremiah 1 |  Taming the Love of Dominion
 
 THE STORY
 
@@ -10892,7 +10891,7 @@ concerning the Lord who is (represented) there (by) Jeremiah, that He will be bo
 
 <<<
 
-== Jeremiah 7: Appeal to Judah to Repent
+== Jeremiah 7 |  Appeal to Judah to Repent
 
 THE STORY
 
@@ -10945,7 +10944,7 @@ Could less be expected of anyone?
 
 <<<
 
-== Jeremiah 13: The Prophet's Girdle
+== Jeremiah 13 |  The Prophet's Girdle
 
 THE BOOK
 
@@ -10980,7 +10979,7 @@ Thou not judge and avenge our blood on them that dwell on the earth?" (Rev. 6:10
 
 <<<
 
-== Jeremiah 18: The Potter's Wheel
+== Jeremiah 18 |  The Potter's Wheel
 
 THE STORY
 
@@ -11057,7 +11056,7 @@ Charity is love for the neighbor. In other words, charity is to will well to oth
 
 <<<
 
-== Jeremiah 25: Captivity Foretold
+== Jeremiah 25 |  Captivity Foretold
 
 THE STORY
 
@@ -11090,7 +11089,7 @@ amounts to profanation, then the tormentors present are of the worst type and mo
 
 <<<
 
-== Jeremiah 36: Destroyed Roll Rewritten
+== Jeremiah 36 |  Destroyed Roll Rewritten
 
 THE STORY
 
@@ -11149,7 +11148,7 @@ The whole story of Jeremiah and especially the rejection of his words in our cha
 
 <<<
 
-== Jeremiah 44: To the Jews in Egypt
+== Jeremiah 44 |  To the Jews in Egypt
 
 THE STORY
 
@@ -11191,7 +11190,7 @@ The difference in state between those taken into captivity to Babylon, and those
 
 <<<
 
-== Lamentations: Good Cheer in Tribulation
+== Lamentations |  Good Cheer in Tribulation
 
 THE BOOK
 
@@ -11240,7 +11239,7 @@ the Lord: He invokes the Father that He may not be forsaken, and that He may con
 
 <<<
 
-== Ezekiel 1: Visions Born of Captivity
+== Ezekiel 1 |  Visions Born of Captivity
 
 HISTORICAL STUDY
 
@@ -11287,7 +11286,7 @@ The first chapter is the key-note to the prophecy. Taking it in connection with 
 
 <<<
 
-== Ezekiel 18: Call to Repentence
+== Ezekiel 18 |  Call to Repentence
 
 THE STORY
 
@@ -11325,7 +11324,7 @@ In verse 25, the Lord's way is described as equal or just. The word does not imp
 
 <<<
 
-== Ezekiel 27: Glory and Fall of Tyre
+== Ezekiel 27 |  Glory and Fall of Tyre
 
 THE STORY
 
@@ -11374,7 +11373,7 @@ Word. When we are made conscious by the Lord of the presence of this deep-seated
 
 <<<
 
-== Ezekiel 45: Ezekiel With the Captives
+== Ezekiel 45 |  Ezekiel With the Captives
 
 THE STORY
 
@@ -11420,7 +11419,7 @@ Read in @AC 10794 of priests who teach truths and by them lead to the good of li
 
 <<<
 
-== Ezekiel 37: Dry Bones Revived
+== Ezekiel 37 |  Dry Bones Revived
 
 THE STORY
 
@@ -11457,7 +11456,7 @@ when rebuked for telling a lie, has little consciousness of the extent of wrong 
 
 <<<
 
-== Ezekiel 47: Vision of the Temple Restored
+== Ezekiel 47 |  Vision of the Temple Restored
 
 THE STORY
 
@@ -11591,7 +11590,7 @@ Doubtless he had his light in spiritual knowledges from above under the Lord’s
 
 <<<
 
-== Daniel 3: The Fiery Furnace
+== Daniel 3 |  The Fiery Furnace
 
 THE STORY
 
@@ -11665,7 +11664,7 @@ verses 25-28; @AE 370; Life l) "God hath numbered thy kingdom, and finished it."
 
 <<<
 
-== Daniel 6: The Lions' Den
+== Daniel 6 |  The Lions' Den
 
 THE STORY
 
@@ -11758,7 +11757,7 @@ On the contrary, those who invented that horrible crime were cast into hell, whi
 
 <<<
 
-== Daniel 8: Vision of the Ram and Goat
+== Daniel 8 |  Vision of the Ram and Goat
 
 THE STORY
 
@@ -11794,7 +11793,7 @@ Daniel fainted and was sick after the vision. (Verse 27) The "end of the Church"
 
 <<<
 
-== Ezra 1:3 (Historical): Return of the Captives from Babylon
+== Ezra 1:3 (Historical) |  Return of the Captives from Babylon
 
 THE STORY
 
@@ -11836,7 +11835,7 @@ Should we use the terms "Word" and "Bible" with precisely the same meaning?
 
 <<<
 
-== Nehemiah 1:2 (Historical): Rebuilding the City Walls
+== Nehemiah 1:2 (Historical) |  Rebuilding the City Walls
 
 THE STORY
 
@@ -11950,7 +11949,7 @@ namely, dew, lily, Lebanon (the rational), branches, beauty, corn, and vine. Eph
 
 <<<
 
-== Joel: Judgment Foretold
+== Joel |  Judgment Foretold
 
 HISTORICAL STUDY
 
@@ -11974,7 +11973,7 @@ and will restore the soul to its original purity. (Verses 18-21) It is useless t
 
 <<<
 
-== Amos 5: Insufferable Social Injustices
+== Amos 5 |  Insufferable Social Injustices
 
 THE TIMES OF AMOS
 
@@ -12044,7 +12043,7 @@ for those who hate evil and love good, those who struggle to do the will of God,
 
 <<<
 
-== Obadiah: Pity in the Place of Contempt
+== Obadiah |  Pity in the Place of Contempt
 
 THE STORY
 
@@ -12081,7 +12080,7 @@ which readily turns us to the Lord for instruction, and prepares us for the rece
 
 <<<
 
-== Jonah: Give Light to All in the House
+== Jonah |  Give Light to All in the House
 
 THE STORY
 
@@ -12209,7 +12208,7 @@ The closing verses of the book revert to the Lord's Divine compassion and mercy.
 
 <<<
 
-== Nahum: Excuse No Evil
+== Nahum |  Excuse No Evil
 
 HISTORICAL STUDY
 
@@ -12251,7 +12250,7 @@ How early the child learns the expediency of being good outwardly, but inwardly 
 
 <<<
 
-== Habakkuk: Renewing Trust in God
+== Habakkuk |  Renewing Trust in God
 
 HISTORICAL STUDY
 
@@ -12451,7 +12450,7 @@ and to think how very important the Lord thinks it is that there should be a Chu
 
 <<<
 
-== Zechariah 14: The Lord to be King
+== Zechariah 14 |  The Lord to be King
 
 CONTENTS
 
@@ -12475,7 +12474,7 @@ and every lowest form of truth (every pot in Jerusalem) shall be consecrated to 
 
 <<<
 
-== Malachi 3; 4: Preparation for the Lord's Coming
+== Malachi 3; 4 |  Preparation for the Lord's Coming
 
 THE STORY
 
@@ -12547,7 +12546,7 @@ Lord, bear our trials in patience, shun whatever is evil, and so be prepared to 
 
 <<<
 
-== Maccabees (Historical): Temple Defiled and Rededicated
+== Maccabees (Historical) |  Temple Defiled and Rededicated
 
 HISTORICAL STUDY
 
@@ -12592,7 +12591,7 @@ Did the Lord also need to resist in people and in His own human nature this tend
 
 <<<
 
-== Psalms 98: 4, 5, 96: The Psalms: Poetry and Song
+== Psalms 98: 4, 5, 96: The Psalms |  Poetry and Song
 
 THE STORY
 
@@ -12652,7 +12651,7 @@ In speech, the affection is expressed by the tone, and the thought by the articu
 
 <<<
 
-== Psalms 23; 46; 14; 53: The Divine Names in the Psalms
+== Psalms 23; 46; 14; 53 |  The Divine Names in the Psalms
 
 THE STORY
 
@@ -12694,7 +12693,7 @@ The children have noticed that Psalms 14 and 53 are almost the same, with the ex
 
 <<<
 
-== Psalms 119; 111; 112: Alphabetical Psalms
+== Psalms 119; 111; 112 |  Alphabetical Psalms
 
 THE STORY
 
@@ -12806,7 +12805,7 @@ The relation of the long Psalm to the Lord is indicated in Prophets and Psalms i
 
 <<<
 
-== Psalms 120-134: The Pilgrim Psalms
+== Psalms 120-134 |  The Pilgrim Psalms
 
 THE STORY
 
@@ -12859,7 +12858,7 @@ Prophets and Psalms interprets these Psalms especially as expressions of the Lor
 
 <<<
 
-== Psalms 41; 72; 89; 106; 150: The Five Books
+== Psalms 41; 72; 89; 106; 150 |  The Five Books
 
 THE STORY
 
@@ -12898,7 +12897,7 @@ Another still more important consideration is the use of the Divine names in the
 
 <<<
 
-== Psalms 1; 23; 46; 139: Songs of the Christian Life
+== Psalms 1; 23; 46; 139 |  Songs of the Christian Life
 
 THE STORY
 
@@ -12941,7 +12940,7 @@ concluding with the statement, "It is hereby meant, that he is blessed who dispe
 
 <<<
 
-== Psalms 22; 118: Songs of the Lord's Life
+== Psalms 22; 118 |  Songs of the Lord's Life
 
 THE STORY
 
@@ -12999,7 +12998,7 @@ Read Ps. 118, which we have thought of as the hymn sung by the Lord and His disc
 
 <<<
 
-== Psalms 95; 100: Use of the Psalms in Worship
+== Psalms 95; 100 |  Use of the Psalms in Worship
 
 THE STORY
 
@@ -13043,7 +13042,7 @@ In Ps. 95:7 is the beautiful picture of ourselves as the Lord's Sheep. You can r
 
 <<<
 
-== Psalms 23; 91; 121: Psalms That We Love
+== Psalms 23; 91; 121 |  Psalms That We Love
 
 THE STORY
 
@@ -13100,7 +13099,7 @@ Have also at hand Prophets and Psalms to suggest the relation of the Psalms to t
 
 <<<
 
-== Matthew 1: Birth of the Lord
+== Matthew 1 |  Birth of the Lord
 
 THE STORY
 
@@ -13238,7 +13237,7 @@ All this shows that God is Love. "The Divine Itself, which is called 'Jehovah' a
 
 <<<
 
-== Matthew 2: The Wise Men
+== Matthew 2 |  The Wise Men
 
 THE STORY
 
@@ -13376,7 +13375,7 @@ We also have the star, the knowledge about the Lord, and we must follow that sta
 
 <<<
 
-== Matthew 3: John the Baptist
+== Matthew 3 |  John the Baptist
 
 THE STORY
 
@@ -13416,17 +13415,11 @@ seen descending upon Him. By His repentance the way was opened for the Divine Sp
 
 1. Where is the Jordan? Where does its water come from? Where does it go to?
 
-2. Who was the prophet Esaias? Why was baptism the fitting sign to accompany John's
+2. Who was the prophet Esaias? Why was baptism the fitting sign to accompany John's teaching?
 
-teaching?
+3. Why was the Lord baptized? What was seen when the Lord was baptized? What was heard?
 
-3. Why was the Lord baptized? What was seen when the Lord was baptized? What was
-
-heard?
-
-4. Write the burden of John's preaching. And as you write it think of some wrong thing in
-
-your life, and resolve for the Lord's sake to put it away.
+4. Write the burden of John's preaching. And as you write it think of some wrong thing in your life, and resolve for the Lord's sake to put it away.
 
 SPIRITUAL STUDY
 
@@ -13482,7 +13475,7 @@ When you think of your baptism, remember that it means that you were baptized as
 
 <<<
 
-== Matthew 4: Tempted in the Wilderness
+== Matthew 4 |  Tempted in the Wilderness
 
 THE STORY
 
@@ -13597,7 +13590,7 @@ And just as, after the temptation of Jesus, angels came and ministered unto Him,
 
 <<<
 
-== Matthew 5: The Blessings
+== Matthew 5 |  The Blessings
 
 THE STORY
 
@@ -13742,7 +13735,7 @@ It is not only evil-minded men and children who "persecute" those who believe in
 
 <<<
 
-== Matthew 6: The Prayer
+== Matthew 6 |  The Prayer
 
 THE STORY
 
@@ -13803,7 +13796,7 @@ The Gentiles are said to seek the things of the world. They mean the natural fac
 
 <<<
 
-== Matthew 7: The Golden Rule
+== Matthew 7 |  The Golden Rule
 
 THE STORY
 
@@ -13865,7 +13858,7 @@ As one having authority. The Lord did not repeat traditions as the scribes did. 
 
 <<<
 
-== Matthew 8: 1-17: Healing the Sick
+== Matthew 8: 1-17 |  Healing the Sick
 
 THE STORY
 
@@ -13970,7 +13963,7 @@ and the great number of those that were possessed of demons were brought in the 
 
 <<<
 
-== Matthew 8: 18-34: Casting Out Devils
+== Matthew 8: 18-34 |  Casting Out Devils
 
 THE STORY
 
@@ -14066,7 +14059,7 @@ Read again the beautiful verse 17, which quotes Isaiah 53:4, "Himself took our i
 
 <<<
 
-== Matthew 9: 1-17: Forgiving Sins
+== Matthew 9: 1-17 |  Forgiving Sins
 
 THE STORY
 
@@ -14171,7 +14164,7 @@ Is He not a kind, merciful and wise Lord?
 
 <<<
 
-== Matthew 9: 18-38: Raising the Dead
+== Matthew 9: 18-38 |  Raising the Dead
 
 THE STORY
 
@@ -14259,7 +14252,7 @@ expression and power that you would marvel. And all this because all in heaven a
 
 <<<
 
-== Matthew 10: Disciples Sent Out
+== Matthew 10 |  Disciples Sent Out
 
 THE STORY
 
@@ -14376,7 +14369,7 @@ This is the Gospel that the Lord has ordained the ministers of the New Church to
 
 <<<
 
-== Matthew 11: Messengers of John
+== Matthew 11 |  Messengers of John
 
 THE STORY
 
@@ -14495,7 +14488,7 @@ The prophets represented the Lord who was going to come into the world; and the 
 
 <<<
 
-== Matthew 12: 1-21: Keeping the Sabbath
+== Matthew 12: 1-21 |  Keeping the Sabbath
 
 THE STORY
 
@@ -14598,7 +14591,7 @@ Since it is one of the delightful things that people can do on Sundays to read g
 
 <<<
 
-== Matthew 12: 22-27: The Sin of Blasphemy
+== Matthew 12: 22-27 |  The Sin of Blasphemy
 
 THE STORY
 
@@ -14651,7 +14644,7 @@ When is the "day of judgment"? It is for each one when, soon after death, his re
 
 <<<
 
-== Matthew 12: 38-50: Mother and Brethren
+== Matthew 12: 38-50 |  Mother and Brethren
 
 THE STORY
 
@@ -14693,7 +14686,7 @@ The Lord's saying of His disciples, that they are His brother and sister and mot
 
 <<<
 
-== Matthew 13: 1-23: Parable of the Sower
+== Matthew 13: 1-23 |  Parable of the Sower
 
 THE STORY
 
@@ -14794,7 +14787,7 @@ But people who do not really love the truth which they have learned, cannot keep
 
 <<<
 
-== Matthew 13: 24-43: Wheat and Tares
+== Matthew 13: 24-43 |  Wheat and Tares
 
 THE STORY
 
@@ -14812,7 +14805,7 @@ See how the parable teaches us this lesson about the other world. The going to t
 are the reapers. The selfish feelings and passions, in which the evil choose to live, are the furnace of fire. The good love of those who go to heaven grows stronger and happier; which is meant by the words, "Then shall the righteous shine forth as the sun in the kingdom of their Father." (E. 
 911)
 
-Mustard seeds are very little things, but in Palestine the plants grow large. They are often taller than a man's head as he rides on horseback. Suppose we have learned only a very little and made only a little beginning of heavenly life in this world (and nobody learns very much or makes more than a beginning), do you think from this parable that the little may grow in the other world into a great deal that is good and beautiful? The mustard seed is not only little, but it is sharp to the taste. The beginning that we have made of heavenly life is not very sweet and good. Still, what is really heavenly may grow from it. "If by combat against evils, as sins, man has procured to himself anything spiritual in the world, be it ever so small, he is saved, and his uses grow afterward, like a grain of mustard seed into a tree." (D. L. in A. E. xvii.)
+Mustard seeds are very little things, but in Palestine the plants grow large. They are often taller than a man's head as he rides on horseback. Suppose we have learned only a very little and made only a little beginning of heavenly life in this world (and nobody learns very much or makes more than a beginning), do you think from this parable that the little may grow in the other world into a great deal that is good and beautiful? The mustard seed is not only little, but it is sharp to the taste. The beginning that we have made of heavenly life is not very sweet and good. Still, what is really heavenly may grow from it. "If by combat against evils, as sins, man has procured to himself anything spiritual in the world, be it ever so small, he is saved, and his uses grow afterward, like a grain of mustard seed into a tree." (D. L. in @AE xvii.)
 
 We often read about "unleavened bread." It means bread that is not raised. We usually raise bread with yeast. In old times it was done with a bit of the old dough which was called "leaven." From
 
@@ -14851,7 +14844,7 @@ The Lord had spoken to the people outside in parables. When they went into the h
 
 <<<
 
-== Matthew 13: 44-58: The Pearl of Great Price
+== Matthew 13: 44-58 |  The Pearl of Great Price
 
 THE STORY
 
@@ -14910,7 +14903,7 @@ A carpenter builds homes for people to live in. Was the Lord doing this in a dee
 
 <<<
 
-== Matthew 14: 1-21: The Multitude
+== Matthew 14: 1-21 |  The Multitude
 
 THE STORY
 
@@ -15039,7 +15032,7 @@ The twelve baskets that were taken up after the meal signify what is full; namel
 
 <<<
 
-== Matthew 14: 22-26: Walking on the Sea
+== Matthew 14: 22-26 |  Walking on the Sea
 
 THE STORY
 
@@ -15150,7 +15143,7 @@ if they will only go to the Lord and take hold of Him, that is, trust absolutely
 
 <<<
 
-== Matthew 15: The Gentile's Daughter
+== Matthew 15 |  The Gentile's Daughter
 
 THE STORY
 
@@ -15367,7 +15360,7 @@ Remember the truth, that Peter represented faith from charity, or belief from th
 
 <<<
 
-== Matthew 17: In the Mountain
+== Matthew 17 |  In the Mountain
 
 THE STORY
 
@@ -15474,7 +15467,7 @@ First, we learn the truth about the Lord and His Word, and have faith in Him; th
 
 <<<
 
-== Matthew 18:1-20: The Lord and the Children
+== Matthew 18:1-20 |  The Lord and the Children
 
 THE STORY
 
@@ -15686,7 +15679,7 @@ So long as we are not ready to forgive others for being remiss and for doing thi
 
 <<<
 
-== Matthew 19:13-30: The Rich Young Man
+== Matthew 19:13-30 |  The Rich Young Man
 
 THE STORY
 
@@ -15793,7 +15786,7 @@ And yet these things do not belong to them in any way different from that in whi
 
 <<<
 
-== Matthew 20: Laborers in the Vineyard
+== Matthew 20 |  Laborers in the Vineyard
 
 THE STORY
 
@@ -15916,7 +15909,7 @@ But it is from the merciful goodness of the Lord, that He is willing to give hea
 
 <<<
 
-== Matthew 21:1-22: Riding into Jerusalem
+== Matthew 21:1-22 |  Riding into Jerusalem
 
 THE STORY
 
@@ -16019,7 +16012,7 @@ The story of the fig tree reminds us of the first Psalm. The man who studies the
 
 <<<
 
-== Matthew 21:23-46: Wicked Husbandmen
+== Matthew 21:23-46 |  Wicked Husbandmen
 
 THE STORY
 
@@ -16075,7 +16068,7 @@ The stone which the Jewish priests, the builders of the church in those days, we
 
 <<<
 
-== Matthew 22:1-22: Tribute to Caesar
+== Matthew 22:1-22 |  Tribute to Caesar
 
 THE STORY
 
@@ -16160,7 +16153,7 @@ To be a good citizen and to be a good churchman, we must learn the laws of our-c
 
 <<<
 
-== Matthew 22:23-46: The Two Great Commandments
+== Matthew 22:23-46 |  The Two Great Commandments
 
 THE STORY
 
@@ -16212,7 +16205,7 @@ and that He was therefore more than human. In a deeper sense the words teach how
 
 <<<
 
-== Matthew 24: The Second Coming
+== Matthew 24 |  The Second Coming
 
 THE STORY
 
@@ -16268,7 +16261,7 @@ The Lord says that we are stewards, and asks us to be faithful stewards. If we m
 
 <<<
 
-== Matthew 25: Parables of Judgment
+== Matthew 25 |  Parables of Judgment
 
 THE STORY
 
@@ -16361,7 +16354,7 @@ There will never again be such a general judgment. For now and forever people ar
 
 <<<
 
-== Matthew 26:1-35: The Last Supper
+== Matthew 26:1-35 |  The Last Supper
 
 THE STORY
 
@@ -16470,7 +16463,7 @@ You must look forward to the time when you are grown up and come to the Holy Sup
 
 <<<
 
-== Matthew 26:36-75: The Night of the Trial
+== Matthew 26:36-75 |  The Night of the Trial
 
 THE STORY
 
@@ -16573,7 +16566,7 @@ and His righteousness, it sustained Him." (Isaiah 59:16) And again he foretold t
 
 <<<
 
-== Matthew 27:1-30: Before Pilate
+== Matthew 27:1-30 |  Before Pilate
 
 THE STORY
 
@@ -16669,7 +16662,7 @@ So the Lord saved men in the other world, having accomplished the great judgment
 
 <<<
 
-== Matthew 27:31-66: At the Cross
+== Matthew 27:31-66 |  At the Cross
 
 THE STORY
 
@@ -16707,7 +16700,7 @@ Remembering that garments represent any external thing which clothes a more inte
 
 <<<
 
-== Matthew 28: The Risen Lord
+== Matthew 28 |  The Risen Lord
 
 THE STORY
 
@@ -16881,7 +16874,7 @@ Do you remember another story of a wilderness experience with which the number f
 
 <<<
 
-== Mark 1:14-45: Disciples: Miracles of Healing
+== Mark 1:14-45: Disciples |  Miracles of Healing
 
 THE STORY
 
@@ -16958,7 +16951,7 @@ These should be a true, living expression of the spirit within. If they are dead
 
 <<<
 
-== Mark 1:1-12: Healing the Palsied Man
+== Mark 1:1-12 |  Healing the Palsied Man
 
 THE STORY
 
@@ -17015,7 +17008,7 @@ where we find safety in troubled times (Matthew 24:17); the closet with closed d
 
 <<<
 
-== Mark 2:13-28; 3:1-12: Keeping the Sabbath
+== Mark 2:13-28; 3:1-12 |  Keeping the Sabbath
 
 THE STORY
 
@@ -17071,7 +17064,7 @@ Do you see in the Lord's teaching of new and truer ways of keeping the Sabbath, 
 
 <<<
 
-== Mark 3:13-35: Twelve Apostles Chosen
+== Mark 3:13-35 |  Twelve Apostles Chosen
 
 THE STORY
 
@@ -17118,7 +17111,7 @@ There are spiritual relationships of common interest and purpose, which are stro
 
 <<<
 
-== Mark 4:1-34: Parables by the Seaside
+== Mark 4:1-34 |  Parables by the Seaside
 
 THE STORY
 
@@ -17182,7 +17175,7 @@ thought which will come by and by. Notice the different meaning of the birds in 
 
 <<<
 
-== Mark 4:5-41: Calming Winds and Waves
+== Mark 4:5-41 |  Calming Winds and Waves
 
 THE STORY
 
@@ -17244,7 +17237,7 @@ the Lord never forgets us. He is always near. In temptations He is nearer than a
 
 <<<
 
-== Mark 5:1-20: The Devils and the Swine
+== Mark 5:1-20 |  The Devils and the Swine
 
 THE STORY
 
@@ -17361,7 +17354,7 @@ We can ask the Lord's help to make our life right as far as we can. We can read 
 
 <<<
 
-== Mark 6:1-13: The Return to Nazareth
+== Mark 6:1-13 |  The Return to Nazareth
 
 THE STORY
 
@@ -17412,7 +17405,7 @@ thinking ourselves very strong and good. Which is the spirit in which the Lord's
 
 <<<
 
-== Mark 6:14-29: Death of John the Baptist
+== Mark 6:14-29 |  Death of John the Baptist
 
 THE STORY
 
@@ -17459,7 +17452,7 @@ wife who urged him to do violence to John. She stands for the evil which the fal
 
 <<<
 
-== Mark 6:30-44: Feeding the Five Thousand
+== Mark 6:30-44 |  Feeding the Five Thousand
 
 THE STORY
 
@@ -17517,7 +17510,7 @@ and we have the more ourselves for sharing the little we have. Is it not so when
 
 <<<
 
-== Mark 6:45-56: Walking on the Sea
+== Mark 6:45-56 |  Walking on the Sea
 
 THE STORY
 
@@ -17579,7 +17572,7 @@ Tell me of other times when we read of the Lord's praying. (Luke 6:12; Mark 14:3
 
 <<<
 
-== Mark 7:1-23: Washing of Hands
+== Mark 7:1-23 |  Washing of Hands
 
 THE STORY
 
@@ -17640,7 +17633,7 @@ do them, then we make them of our heart and they defile us. (@AE 580, 622) No mo
 
 <<<
 
-== Mark 7:24-37: The Gentile's Daughter
+== Mark 7:24-37 |  The Gentile's Daughter
 
 THE STORY
 
@@ -17703,7 +17696,7 @@ He is "deaf to instruction" if he will not learn and obey. "Hear, O Israel, and 
 
 <<<
 
-== Mark 8:1-26: Feeding Four Thousand
+== Mark 8:1-26 |  Feeding Four Thousand
 
 THE STORY
 
@@ -17832,7 +17825,7 @@ Remember the warning in verse 38.
 
 <<<
 
-== Mark 9:1-13: The Transfiguration
+== Mark 9:1-13 |  The Transfiguration
 
 THE STORY
 
@@ -17878,7 +17871,7 @@ After the Sermon on the Mount, the coming down from the mountain describes the b
 
 <<<
 
-== Mark 9:14-29: At the Foot of the Mountain
+== Mark 9:14-29 |  At the Foot of the Mountain
 
 THE STORY
 
@@ -17927,7 +17920,7 @@ confessing our own utter helplessness. Notice that the words which follow in eac
 
 <<<
 
-== Mark 9:30-50: Who is Greatest
+== Mark 9:30-50 |  Who is Greatest
 
 THE STORY
 
@@ -18029,7 +18022,7 @@ brethren. You see the meaning of the command to offer salt with every sacrifice.
 
 <<<
 
-== Mark 10:17-31: The Rich Young Man
+== Mark 10:17-31 |  The Rich Young Man
 
 THE STORY
 
@@ -18163,7 +18156,7 @@ this time," and more abundantly in heaven. (Matthew 10:34-38; @AE 724)
 
 <<<
 
-== Mark 10:32-52: Servant of All: Blind Man Healed
+== Mark 10:32-52: Servant of All |  Blind Man Healed
 
 THE STORY
 
@@ -18303,7 +18296,7 @@ and to confess them to the Lord is the first step in being healed. (@NJHD 162)
 
 <<<
 
-== Mark 11:1-11: Riding into Jerusalem
+== Mark 11:1-11 |  Riding into Jerusalem
 
 THE STORY
 
@@ -18422,7 +18415,7 @@ With enthusiasm?
 
 <<<
 
-== Mark 11:12-33: Cleansing the Temple
+== Mark 11:12-33 |  Cleansing the Temple
 
 THE STORY
 
@@ -18531,7 +18524,7 @@ possible with His help. (@AE 405, 510)
 
 <<<
 
-== Mark 12:1-27: Parable of the Vineyard
+== Mark 12:1-27 |  Parable of the Vineyard
 
 THE STORY
 
@@ -18666,7 +18659,7 @@ church itself was about to die.
 
 <<<
 
-== Mark 12:28-44: The Two Great Commandments
+== Mark 12:28-44 |  The Two Great Commandments
 
 THE STORY
 
@@ -18782,7 +18775,7 @@ state of need? What can it mean spiritually, that they devoured widows' houses? 
 
 <<<
 
-== Mark 13: Signs of the Lord's Coming
+== Mark 13 |  Signs of the Lord's Coming
 
 THE STORY
 
@@ -18873,7 +18866,7 @@ works of natural benevolence. It is the sign of the Lord's coming, and of bright
 
 <<<
 
-== Mark 14:1-11: The Anointing in Bethany
+== Mark 14:1-11 |  The Anointing in Bethany
 
 THE STORY
 
@@ -18994,7 +18987,7 @@ heaven.
 
 <<<
 
-== Mark 14:12-26: The Last Supper
+== Mark 14:12-26 |  The Last Supper
 
 THE STORY
 
@@ -19099,7 +19092,7 @@ were John and Peter sent? What is the meaning of the large upper room?
 
 <<<
 
-== Mark 14:27-52: In Gethsemane
+== Mark 14:27-52 |  In Gethsemane
 
 THE STORY
 
@@ -19192,7 +19185,7 @@ saves us from. There is a wrong sleep of indifference, and a right sleep of peac
 
 <<<
 
-== Mark 14:53-72: Before the Priests
+== Mark 14:53-72 |  Before the Priests
 
 THE STORY
 
@@ -19284,7 +19277,7 @@ beginning of a new state with Peter? (@AE 9)
 
 <<<
 
-== Mark 15:1-21: Before Pilate
+== Mark 15:1-21 |  Before Pilate
 
 THE STORY
 
@@ -19379,7 +19372,7 @@ suggests the love from which he rules. Both these they ridiculed and despised. (
 
 <<<
 
-== Mark 15:22-47: At the Cross
+== Mark 15:22-47 |  At the Cross
 
 THE STORY
 
@@ -19485,7 +19478,7 @@ needs to know, that the Lord's Humanity by glorification became Divine. (@AC 102
 
 <<<
 
-== Mark 16:1-11: At the Sepulchre
+== Mark 16:1-11 |  At the Sepulchre
 
 THE STORY
 
@@ -19582,7 +19575,7 @@ of God among men was finished.
 
 <<<
 
-== Mark 16:12-20: The Risen Lord
+== Mark 16:12-20 |  The Risen Lord
 
 THE STORY
 
@@ -19691,7 +19684,7 @@ second coming in the opening of His Word to the New Church.
 
 <<<
 
-== Luke 1:1-25: The Promise to Zacharias
+== Luke 1:1-25 |  The Promise to Zacharias
 
 THE STORY
 
@@ -19800,7 +19793,7 @@ believed, his tongue was loosed. (@AE 455; @AC 6988)
 
 <<<
 
-== Luke 1:26-56: Promise to Mary
+== Luke 1:26-56 |  Promise to Mary
 
 THE STORY
 
@@ -19906,7 +19899,7 @@ only for Samuel, but for the Lord's own coming. (@AR 323; @AE 386.)
 
 <<<
 
-== Luke 1:57-80: John the Baptist
+== Luke 1:57-80 |  John the Baptist
 
 THE STORY
 
@@ -20046,7 +20039,7 @@ own life is associated with the wilderness? (@AC 2708; @AR 546)
 
 <<<
 
-== Luke 2:1-20: Birth of the Lord
+== Luke 2:1-20 |  Birth of the Lord
 
 THE STORY
 
@@ -20221,7 +20214,7 @@ heart. See also Luke 2:51.
 
 <<<
 
-== Luke 2:21-39: Simeon and Anna
+== Luke 2:21-39 |  Simeon and Anna
 
 THE STORY
 
@@ -20321,7 +20314,7 @@ redeeming power. (@AC 10574)
 
 <<<
 
-== Luke 2:40-52: Childhood of the Lord
+== Luke 2:40-52 |  Childhood of the Lord
 
 THE STORY
 
@@ -20426,7 +20419,7 @@ faithfulness we do the Father's business best.
 
 <<<
 
-== Luke 3:1-23: Baptism of the Lord
+== Luke 3:1-23 |  Baptism of the Lord
 
 THE STORY
 
@@ -20548,7 +20541,7 @@ descent of the Holy Spirit at the baptism of the Lord. See Matthew's Gospel, J. 
 
 <<<
 
-== Luke 4: In the Synagogue at Nazareth
+== Luke 4 |  In the Synagogue at Nazareth
 
 THE STORY
 
@@ -20657,7 +20650,7 @@ themselves Christians. (@HH 324; @AC 4844, 9198; @AE 475)
 
 <<<
 
-== Luke 5: Call of the Disciples
+== Luke 5 |  Call of the Disciples
 
 THE STORY
 
@@ -20773,7 +20766,7 @@ and new bottles of Christian life and worship were needed to contain the Christi
 
 <<<
 
-== Luke 6:1-26: Healing the Sick
+== Luke 6:1-26 |  Healing the Sick
 
 THE STORY
 
@@ -20887,7 +20880,7 @@ house and by the way, lying down and rising up.
 
 <<<
 
-== Luke 7:1-23: At the Gate of Nain
+== Luke 7:1-23 |  At the Gate of Nain
 
 THE STORY
 
@@ -20990,7 +20983,7 @@ doctrine, whether it be of God, or whether I speak of Myself." (John 7:17)
 
 <<<
 
-== Luke 7:24-50: Anointing the Lord's Feet
+== Luke 7:24-50 |  Anointing the Lord's Feet
 
 THE STORY
 
@@ -21098,7 +21091,7 @@ this? (@AE 815; @NJHD 177, 178)
 
 <<<
 
-== Luke 8:1-21: Parable of the Sower
+== Luke 8:1-21 |  Parable of the Sower
 
 THE STORY
 
@@ -21171,7 +21164,7 @@ Compare verse 21 with John 1:11-13; 3:4-6. (R.32)
 
 <<<
 
-== Luke 8:22-39: Calming the Storm: Casting Out Devils
+== Luke 8:22-39: Calming the Storm |  Casting Out Devils
 
 THE STORY
 
@@ -21339,7 +21332,7 @@ Word. (@AE 195; @AC 10023)
 
 <<<
 
-== Luke 9:1-10: Sending Out the Twelve
+== Luke 9:1-10 |  Sending Out the Twelve
 
 THE STORY
 
@@ -21408,7 +21401,7 @@ Luke 7:29, 30)
 
 <<<
 
-== Luke 9:10-17: Feeding the Five Thousand
+== Luke 9:10-17 |  Feeding the Five Thousand
 
 THE STORY
 
@@ -21594,7 +21587,7 @@ him? It represents our spiritual life overpowered by what is evil and false. (@A
 
 <<<
 
-== Luke 9:43-62: Leaving Galilee
+== Luke 9:43-62 |  Leaving Galilee
 
 THE STORY
 
@@ -21714,7 +21707,7 @@ to give. (@AC 3652, 5895)
 
 <<<
 
-== Luke 10:1-20: Sending Out the Seventy
+== Luke 10:1-20 |  Sending Out the Seventy
 
 THE STORY
 
@@ -21783,7 +21776,7 @@ rather in the development of heavenly life for which this opens the way. (@AE 54
 
 <<<
 
-== Luke 10:21-42: The Good Samaritan
+== Luke 10:21-42 |  The Good Samaritan
 
 THE STORY
 
@@ -21940,7 +21933,7 @@ her service.
 
 <<<
 
-== Luke 11:1-26: Prayer: Casting Out Devils
+== Luke 11:1-26: Prayer |  Casting Out Devils
 
 THE STORY
 
@@ -22053,7 +22046,7 @@ testimony from experience of its practical power.
 
 <<<
 
-== Luke 12:1-12: Our Hairs Numbered
+== Luke 12:1-12 |  Our Hairs Numbered
 
 THE STORY
 
@@ -22260,7 +22253,7 @@ thought see @AE 532.
 
 <<<
 
-== Luke 13: In the Synagogue and by the Way
+== Luke 13 |  In the Synagogue and by the Way
 
 THE STORY
 
@@ -22396,7 +22389,7 @@ daily domestic life. (@AE 281, 283)
 
 <<<
 
-== Luke 14: The Great Supper
+== Luke 14 |  The Great Supper
 
 THE STORY
 
@@ -22512,7 +22505,7 @@ truth with no desire to put it in practice. It is of no use at all. (@AC 9207)
 
 <<<
 
-== Luke 15: The Lost Found
+== Luke 15 |  The Lost Found
 
 THE STORY
 
@@ -22637,7 +22630,7 @@ Lord's joy in helping everyone who feels his need and asks His help.
 
 <<<
 
-== Luke 16:1-18: The Unjust Steward
+== Luke 16:1-18 |  The Unjust Steward
 
 THE STORY
 
@@ -22743,7 +22736,7 @@ truly, and "ashamed to beg" the impossibility of desiring what is good.
 
 <<<
 
-== Luke 16:19-31: The Rich Man and Lazarus
+== Luke 16:19-31 |  The Rich Man and Lazarus
 
 THE STORY
 
@@ -22858,7 +22851,7 @@ where we can learn without compulsion and choose freely the good ways.
 
 <<<
 
-== Luke 17: Lepers Healed and Second Coming Foretold
+== Luke 17 |  Lepers Healed and Second Coming Foretold
 
 THE STORY
 
@@ -22985,7 +22978,7 @@ when the church is dead, and consequently false reasonings are multiplied. (A.39
 
 <<<
 
-== Luke 18:1-17: Pharisees and Publican: Blessing Little Children
+== Luke 18:1-17: Pharisees and Publican |  Blessing Little Children
 
 THE STORY
 
@@ -23113,7 +23106,7 @@ angels which makes them receptive of all blessings. (@HH 281-283)
 
 <<<
 
-== Luke 18:18-43: The Rich Ruler: Blind Man Healed
+== Luke 18:18-43: The Rich Ruler |  Blind Man Healed
 
 THE STORY
 
@@ -23233,7 +23226,7 @@ it?
 
 <<<
 
-== Luke 19:1-27: Zaccheus: Parable of Pounds
+== Luke 19:1-27: Zaccheus |  Parable of Pounds
 
 THE STORY
 
@@ -23368,7 +23361,7 @@ doing it, it is forgotten and he becomes utterly stupid. (@HH 501, and on.)
 
 <<<
 
-== Luke 19:28-48: Riding into Jerusalem
+== Luke 19:28-48 |  Riding into Jerusalem
 
 THE STORY
 
@@ -23507,7 +23500,7 @@ experience. (@AC 9212)
 
 <<<
 
-== Luke 20: Husbandmen: Tribute to Caesar
+== Luke 20: Husbandmen |  Tribute to Caesar
 
 THE STORY
 
@@ -23609,7 +23602,7 @@ soul, in our life here. (M.41, 44; @HH 366-386)
 
 <<<
 
-== Luke 21: The Widow's Mites: On the Mount of Olives
+== Luke 21: The Widow's Mites |  On the Mount of Olives
 
 THE STORY
 
@@ -23724,7 +23717,7 @@ higher states. The Lord and His Divine truth alone are perfect and unchanging.
 
 <<<
 
-== Luke 22: 1-30: The Passover
+== Luke 22: 1-30 |  The Passover
 
 THE STORY
 
@@ -23855,7 +23848,7 @@ heavenly life. (Revelation 21:12, 14; @AR 900, 903)
 
 <<<
 
-== Luke 22: 31-71: The Night of Trial
+== Luke 22: 31-71 |  The Night of Trial
 
 THE STORY
 
@@ -23949,7 +23942,7 @@ whole sad picture comes to us as a warning of cruelty of which we may ourselves 
 
 <<<
 
-== Luke 23: 1-25: The Lord Condemned
+== Luke 23: 1-25 |  The Lord Condemned
 
 THE STORY
 
@@ -24027,7 +24020,7 @@ saying, "Let him be crucified"; for we are destroying His presence from our hear
 
 <<<
 
-== Luke 23: 26-56: The Crucifixion
+== Luke 23: 26-56 |  The Crucifixion
 
 THE STORY
 
@@ -24124,7 +24117,7 @@ stand for those who love the Lord and who know His love. (@AC 10252)
 
 <<<
 
-== Luke 24: 1-35: Easter Gladness
+== Luke 24: 1-35 |  Easter Gladness
 
 THE STORY
 
@@ -24290,7 +24283,7 @@ shall know Him and shall have a glad message to tell to others. (@AE 617)
 
 <<<
 
-== Luke 24: 36-53: The Disciples Made Sure
+== Luke 24: 36-53 |  The Disciples Made Sure
 
 THE STORY
 
@@ -24425,7 +24418,7 @@ that He would come in the clouds of heaven, with power and great glory. (Mark 13
 
 <<<
 
-== John 1: 1-18: One Lord Creates and Saves
+== John 1: 1-18 |  One Lord Creates and Saves
 
 THE STORY
 
@@ -24583,7 +24576,7 @@ Lord's great love and the blessing of it! (@DLord 1)
 
 <<<
 
-== John 1: 19-34: Witness of John the Baptist
+== John 1: 19-34 |  Witness of John the Baptist
 
 THE STORY
 
@@ -24682,7 +24675,7 @@ to the faithfulness of our repentance, we shall be prepared for all good and hap
 
 <<<
 
-== John 1: 35-51: First Followers of the Lord
+== John 1: 35-51 |  First Followers of the Lord
 
 THE STORY
 
@@ -24776,7 +24769,7 @@ life of the world. (@AE 684)
 
 <<<
 
-== John 2: 1-11: The Beginning of Miracles
+== John 2: 1-11 |  The Beginning of Miracles
 
 THE STORY
 
@@ -24927,7 +24920,7 @@ way to confirm faith with those who feel His Divineness in their hearts.
 
 <<<
 
-== John 2: 12-25: The Lord and the Temple
+== John 2: 12-25 |  The Lord and the Temple
 
 THE STORY
 
@@ -25072,7 +25065,7 @@ which is caused by miracles is an external belief which is not deep and genuine.
 
 <<<
 
-== John 3: 1-17: The Lesson to Nicodemus
+== John 3: 1-17 |  The Lesson to Nicodemus
 
 THE STORY
 
@@ -25206,7 +25199,7 @@ forever with His saving power? (@TCR 23; @AC 3161)
 
 <<<
 
-== John 4: 1-42: At Jacob's Well
+== John 4: 1-42 |  At Jacob's Well
 
 THE STORY
 
@@ -25358,7 +25351,7 @@ and we are together in our rejoicing. (@AE 911)
 
 <<<
 
-== John 4: 43-54: The Nobleman's Son Healed
+== John 4: 43-54 |  The Nobleman's Son Healed
 
 THE STORY
 
@@ -25476,7 +25469,7 @@ always, in a sense, the seventh hour. (@AC 716, 10360)
 
 <<<
 
-== John 5: 1-18: At the Pool of Bethesda
+== John 5: 1-18 |  At the Pool of Bethesda
 
 THE STORY
 
@@ -25654,7 +25647,7 @@ no more. Compare Mark 2:10. Until we know the Lord so, we really do not know Him
 
 <<<
 
-== John 5: 30-47: The Scriptures Testify of the Lord
+== John 5: 30-47 |  The Scriptures Testify of the Lord
 
 THE STORY
 
@@ -25783,7 +25776,7 @@ witness of truth convincing. (@AC 4197)
 
 <<<
 
-== John 6: 1-14: Feeding the Multitude
+== John 6: 1-14 |  Feeding the Multitude
 
 THE STORY
 
@@ -25915,7 +25908,7 @@ life that is from the Lord. (@AC 5078 near end)
 
 <<<
 
-== John 6: 15-21: Walking on the Sea
+== John 6: 15-21 |  Walking on the Sea
 
 THE STORY
 
@@ -26001,7 +25994,7 @@ them to their desired haven." (Psalm 107:29, 30) Find much help in @AE 514; @TCR
 
 <<<
 
-== John 7: 1-18: At the Feast of Tabernacles
+== John 7: 1-18 |  At the Feast of Tabernacles
 
 THE STORY
 
@@ -26171,7 +26164,7 @@ Let me suggest verses 17, 24 and 43 for you to think about. With verse 17, compa
 
 <<<
 
-== John 9: The Man Born Blind
+== John 9 |  The Man Born Blind
 
 THE STORY
 
@@ -26306,7 +26299,7 @@ and the natural effects of following the Lord.
 
 <<<
 
-== John 10: The Good Shepherd
+== John 10 |  The Good Shepherd
 
 THE STORY
 
@@ -26661,7 +26654,7 @@ faithful and humble in following the Lord.
 
 <<<
 
-== John 11:17-46: Raising of Lazareth
+== John 11:17-46 |  Raising of Lazareth
 
 THE STORY
 
@@ -26785,7 +26778,7 @@ right on into the eternity of heaven. (@AE 899; @AC 10083)
 
 <<<
 
-== John 12:1-11: The Supper in Bethany
+== John 12:1-11 |  The Supper in Bethany
 
 THE STORY
 
@@ -26945,7 +26938,7 @@ Me ye have not always."
 
 <<<
 
-== John 12:12-26: Riding into Jerusalem
+== John 12:12-26 |  Riding into Jerusalem
 
 THE STORY
 
@@ -27069,7 +27062,7 @@ Lord, and be with Him. (@AC 880, 5115)
 
 <<<
 
-== John 13:1-17: Washing the Disciples' Feet
+== John 13:1-17 |  Washing the Disciples' Feet
 
 THE STORY
 
@@ -27357,7 +27350,7 @@ teaches the same lesson of conjunction with the Lord, but in another way.
 
 <<<
 
-== John 14:1-11: The Many Mansions
+== John 14:1-11 |  The Many Mansions
 
 THE STORY
 
@@ -27497,7 +27490,7 @@ commandments in this world. (@AC 1013, 10578)
 
 <<<
 
-== John 15: The Vine and the Branches
+== John 15 |  The Vine and the Branches
 
 THE STORY
 
@@ -27644,7 +27637,7 @@ charity. (@AE 340)
 
 <<<
 
-== John 16: The Comforter
+== John 16 |  The Comforter
 
 THE STORY
 
@@ -27699,7 +27692,7 @@ beautiful way His oneness with the Father, and our union with Him.
 
 <<<
 
-== John 18: 1-14: The Garden of Gethsemane
+== John 18: 1-14 |  The Garden of Gethsemane
 
 THE STORY
 
@@ -27806,7 +27799,7 @@ wicked acts of the other priests and of Pilate. See John 18:24; 19:11. (@AC 6827
 
 <<<
 
-== John 18: 15-27: In the High Priest's Palace
+== John 18: 15-27 |  In the High Priest's Palace
 
 THE STORY
 
@@ -27923,7 +27916,7 @@ and the scene in the high priest's palace help us to be faithful?
 
 <<<
 
-== John 18: 28-40; 19:1-15: Before Pilate
+== John 18: 28-40; 19:1-15 |  Before Pilate
 
 THE STORY
 
@@ -28011,7 +28004,7 @@ standards (Caesar), and reject true manliness, true kingliness, with spiteful ha
 
 <<<
 
-== John 19: 16-42: Hate and Love at the Cross
+== John 19: 16-42 |  Hate and Love at the Cross
 
 THE STORY
 
@@ -28231,7 +28224,7 @@ finished," "Father, into Thy hands I commend My spirit!"
 
 <<<
 
-== John 20: 1-18: Early at the Sepulchre
+== John 20: 1-18 |  Early at the Sepulchre
 
 THE STORY
 
@@ -28373,7 +28366,7 @@ What did the Lord mean by ascending to the Father? (@AE 899)
 
 <<<
 
-== John 20: 19-31: With the Disciples at Jerusalem
+== John 20: 19-31 |  With the Disciples at Jerusalem
 
 THE STORY
 
@@ -28494,7 +28487,7 @@ purpose of this Gospel of John.
 
 <<<
 
-== John 21: 1-14: At the Sea of Galilee
+== John 21: 1-14 |  At the Sea of Galilee
 
 THE STORY
 
@@ -28772,7 +28765,7 @@ asked it? To whom was He speaking? Was the question asked once? twice? How many 
 
 <<<
 
-== Acts 1; 2:1-18, 41-47: Ascension: The Holy Spirit at Pentecost
+== Acts 1; 2:1-18, 41-47: Ascension |  The Holy Spirit at Pentecost
 
 Study in connection with Mark 16:14-20, and Luke 24:50-53
 
@@ -29030,7 +29023,7 @@ from on high, out of His New Heaven.
 
 <<<
 
-== Acts 3; 4:1-12: The Lame Man Healed at the Beautiful Gate
+== Acts 3; 4:1-12 |  The Lame Man Healed at the Beautiful Gate
 
 Study in connection with Luke 12:4-12
 
@@ -29306,7 +29299,7 @@ affections in you move in a healthy and quick manner.
 
 <<<
 
-== Acts 6; 7:51-60: Stephen and His Death
+== Acts 6; 7:51-60 |  Stephen and His Death
 
 Study in connection with Luke 6:27, 28
 
@@ -29528,7 +29521,7 @@ unbroken from beginning to end, such as the books of the Word contain.
 
 <<<
 
-== Acts 8: Samaritans Study in Connection with John 4:39-42
+== Acts 8 |  Samaritans Study in Connection with John 4:39-42
 
 THE STORY
 
@@ -30022,7 +30015,7 @@ You will now understand why the church is often called "the communion of saints.
 
 <<<
 
-== Acts 9:32-43: Peter at Joppa and Caesarea
+== Acts 9:32-43 |  Peter at Joppa and Caesarea
 
 Study in connection with Matthew 28:19-20; Luke 24:45-47
 
@@ -30311,7 +30304,7 @@ Himself, in the Writings of the New Church.
 
 <<<
 
-== Acts 12: Peter Released from Prison
+== Acts 12 |  Peter Released from Prison
 
 THE STORY
 
@@ -30676,7 +30669,7 @@ desire to learn something new that is worth while knowing.
 
 <<<
 
-== Acts 19: The Holy Spirit
+== Acts 19 |  The Holy Spirit
 
 Study in connection with John 11:15-18
 
@@ -30919,7 +30912,7 @@ You may read more about the beginnings of the Church in Ephesus in Acts 18:18-28
 
 <<<
 
-== Acts 21:30-40; 23:22-35; 24: Paul Seized at Jerusalem Before Felix
+== Acts 21:30-40; 23:22-35; 24 |  Paul Seized at Jerusalem Before Felix
 
 Study in connection with John 15:18-21; 16:1-3
 
@@ -31455,7 +31448,7 @@ Church. (@TCR 791)
 
 <<<
 
-== Revelation 1: Appearing of the Lord to John
+== Revelation 1 |  Appearing of the Lord to John
 
 THE STORY
 
@@ -31657,7 +31650,7 @@ R.42-56)
 
 <<<
 
-== Revelation 2; 3: Appeal to the Seven Churches
+== Revelation 2; 3 |  Appeal to the Seven Churches
 
 THE STORY
 
@@ -31932,7 +31925,7 @@ powerful but whose evil hearts are now revealed. Find help in R. and E. on chapt
 
 <<<
 
-== Revelation 7: Foregleams of Blessing
+== Revelation 7 |  Foregleams of Blessing
 
 THE STORY
 
@@ -32071,7 +32064,7 @@ thereby in sorrow, but in goods and truths, and thence in celestial joys from th
 
 <<<
 
-== Revelation 18: Babylon is Overthrown
+== Revelation 18 |  Babylon is Overthrown
 
 THE STORY
 
@@ -32186,7 +32179,7 @@ verses to which I have directed the thought of the juniors. Find help in @AR 753
 
 <<<
 
-== Revelation 21: The New Jerusalem
+== Revelation 21 |  The New Jerusalem
 
 THE STORY
 
@@ -32335,7 +32328,7 @@ now be present and would be known in the fuller, truer way, which the temple onl
 
 <<<
 
-== Revelation 22: The Time is at Hand
+== Revelation 22 |  The Time is at Hand
 
 THE STORY
 

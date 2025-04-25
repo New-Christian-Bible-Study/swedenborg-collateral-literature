@@ -8,6 +8,8 @@
 "cSpell.language": "en-US,la,sv,en-GB",
 
 "cSpell.customDictionaries": {
+
+
     "swedenborgEnglish": {
       "name": "Swedenborg English words",
       "path": "${workspaceFolder}/../swedenborg-dictionaries/.dictionaries/dictionary-en-swedenborg.txt",
@@ -84,8 +86,8 @@
 "asciidoc.preview.asciidoctorAttributes": {
   },
   "cSpell.showAutocompleteDirectiveSuggestions": false,
-  "cSpell.suggestionMenuType": "quickFix",
-  "cSpell.suggestionNumChanges": 1,
+  "cSpell.suggestionMenuType": "quickPick",
+  "cSpell.suggestionNumChanges": 3,
 
 
 }
