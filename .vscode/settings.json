@@ -22,8 +22,10 @@
 "cSpell.flagWords": [
   "Lords:Lord's",
   "Gods->God's",
-  "Jehovahs->Jehovah's"
-  ],
+  "Jehovahs->Jehovah's",
+  "natures: nature's",
+  "mans: man's"
+],
   
 "cSpell.customDictionaries": {
 
@@ -101,4 +103,6 @@
 
 
 }
+
+// https://streetsidesoftware.com/vscode-spell-checker/docs/configuration
 

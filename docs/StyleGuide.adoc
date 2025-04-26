@@ -1,11 +1,14 @@
-== Style Guide for NCBS Collateral Literature
+= Style Guide for NCBS Collateral Literature
 a work *in progress* ........   {docdatetime}
-//:doctype: book
-
-=== {empty}
+include::../template-attributes.adoc[]
 
 .Note
 NOTE: This document is quite raw at this stage of development. 
+
+== {empty}
+//empty levels here enable smaller heading fonts with next level
+=== {empty}
+
 
 For reviewing this in VSCode, + 
 open the source file using the Explorer, + 
@@ -15,6 +18,11 @@ and preview it on the right. +
 ##[.underline]#Comments:###
 
 `//` two slashes start a comment line.
+intenchionally mizpelled werds
+////
+comment block bounded by ////
+ok
+////
 
 WARNING: When the comments should also be displayed on the output files, such as this from Spiritual_World-Odhner :
 WARNING: Tremendous! quantity of footnotes is posing a problem here
