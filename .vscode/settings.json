@@ -1,14 +1,31 @@
 {
 
+"cSpell.language": "en-US,la,sv,en-GB",
+
+"cSpell.enabledFileTypes": {
+  "asciidoc": true,
+  "txt": true
+},
+
+"cSpell.numSuggestions": 3,
+"cSpell.mergeCSpellSettingsFields": {
+  "allowCompoundWords": false
+},
+
+"cSpell.suggestionMenuType": "quickFix",
+
 "cSpell.words": [
   "swconcord",
   "adoc"
   ],
 
-"cSpell.language": "en-US,la,sv,en-GB",
-
+"cSpell.flagWords": [
+  "Lords:Lord's",
+  "Gods->God's",
+  "Jehovahs->Jehovah's"
+  ],
+  
 "cSpell.customDictionaries": {
-
 
     "swedenborgEnglish": {
       "name": "Swedenborg English words",
@@ -69,12 +86,7 @@
     }
   },
 
-"cSpell.minWordLength": 2,
-
-"cSpell.enabledFileTypes": {
-  "asciidoc": true,
-  "txt": true
-},
+"cSpell.minWordLength": 4,
 
 
 // Always assume first line of CSV file is the header
@@ -85,9 +97,7 @@
 
 "asciidoc.preview.asciidoctorAttributes": {
   },
-  "cSpell.showAutocompleteDirectiveSuggestions": false,
-  "cSpell.suggestionMenuType": "quickPick",
-  "cSpell.suggestionNumChanges": 3,
+
 
 
 }
