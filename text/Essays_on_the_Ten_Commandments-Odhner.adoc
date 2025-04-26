@@ -114,7 +114,7 @@ Matthew 22:27-40
 A new commandment I give unto you, That ye love one another; as I have loved you, that ye also love one another. By this shall all men know that ye are my disciples, if ye have love one to another. + 
 John 13:34,35
 
-
+//table
 [cols="4"]
 [%autowidth]
 [frame=none]
