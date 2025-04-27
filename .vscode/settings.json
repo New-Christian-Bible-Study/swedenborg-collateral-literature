@@ -1,17 +1,14 @@
 {
-
-"cSpell.language": "en-US,la,sv,en-GB",
+"mhr.removed": "la,sv,en-GB",
+"cSpell.language": "en-US",
 
 "cSpell.enabledFileTypes": {
   "asciidoc": true,
   "txt": true
 },
 
+"cSpell.allowCompoundWords": false,
 "cSpell.numSuggestions": 3,
-"cSpell.mergeCSpellSettingsFields": {
-  "allowCompoundWords": false
-},
-
 "cSpell.suggestionMenuType": "quickFix",
 
 "cSpell.words": [
@@ -29,6 +26,7 @@
   
 "cSpell.customDictionaries": {
 
+
     "swedenborgEnglish": {
       "name": "Swedenborg English words",
       "path": "${workspaceFolder}/../swedenborg-dictionaries/.dictionaries/dictionary-en-swedenborg.txt",
@@ -43,19 +41,19 @@
     },
     "swedenborgLatin": {
       "name": "Swedenborg Latin words",
-      "path": "${workspaceFolder}/../swedenborg-dictionaries/.dictionaries/dictionary-la-swedenborg.txt",
+      "path": "-DISABLE-${workspaceFolder}/../swedenborg-dictionaries/.dictionaries/dictionary-la-swedenborg.txt",
       "scope": "workspace",
-      "addWords": true
+      "addWords": false
     },
     "Swedish": {
       "name": "Swedish dictionary",
-      "path": "${workspaceFolder}/../swedenborg-dictionaries/.dictionaries/dictionary-sv.txt",
+      "path": "-DISABLE-${workspaceFolder}/../swedenborg-dictionaries/.dictionaries/dictionary-sv.txt",
       "scope": "workspace",
       "addWords": false
     },
     "Latin": {
       "name": "Latin dictionary provided by Lewis and Short (do not modify)",
-      "path": "${workspaceFolder}/../swedenborg-dictionaries/.dictionaries/dictionary-la-lewis-short.txt",
+      "path": "-DISABLE-${workspaceFolder}/../swedenborg-dictionaries/.dictionaries/dictionary-la-lewis-short.txt",
       "scope": "workspace",
       "addWords": false
     },
@@ -88,7 +86,7 @@
     }
   },
 
-"cSpell.minWordLength": 4,
+"cSpell.minWordLength": 3,
 
 
 // Always assume first line of CSV file is the header
@@ -99,7 +97,6 @@
 
 "asciidoc.preview.asciidoctorAttributes": {
   },
-
 
 
 }
