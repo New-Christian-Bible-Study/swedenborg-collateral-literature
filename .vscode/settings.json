@@ -7,6 +7,7 @@
   "txt": true
 },
 
+"cSpell.minWordLength": 3,
 "cSpell.allowCompoundWords": false,
 "cSpell.numSuggestions": 3,
 "cSpell.suggestionMenuType": "quickFix",
@@ -17,9 +18,9 @@
   ],
 
 "cSpell.flagWords": [
-  "Lords:Lord's",
-  "Gods->God's",
-  "Jehovahs->Jehovah's",
+  "Lords: Lord's",
+  "Gods: God's",
+  "Jehovahs: Jehovah's",
   "Abrahams: Abraham's",
   "Isaacs: Isaac's",
   "Jacobs: Jacob's",
@@ -89,7 +90,7 @@
     }
   },
 
-"cSpell.minWordLength": 3,
+
 
 
 // Always assume first line of CSV file is the header
