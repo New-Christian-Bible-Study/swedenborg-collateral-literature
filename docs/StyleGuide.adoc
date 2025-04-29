@@ -141,13 +141,14 @@ by example, use this markup where and as you see fit, until we develop more defi
 
 ==== ##[.underline]#Inconclusive Editing:###
 
-Sometimes a word or phrase just can't be resolved at the time of encounter while proofreading. These can be designated by enclosing the mystery in `[?...?]` + 
+Sometimes a word or phrase just can't be resolved at the time of encounter while proofreading. These can be designated by enclosing the mystery, or a comment, within `[?...?]` ; 
 as `not [?set?] by` and thereby easy to find by subsequent search, and to convey the uncertainty in the printed output. + 
 An alternative may refer to an entire sentence or paragraph: + 
-`//[? the last sentence isn't clear ?]`
+`//[? the last sentence isn't clear ?]` + 
+Use the double slashes to remove what follows from being output, as you'll see in the preview pane.
 
 
-
+NOTE:
 Editors with access to authoritative sources are encouraged to seek and resolve these mysteries within the entire collection.
 
 ---
