@@ -96,6 +96,7 @@
 // Always assume first line of CSV file is the header
 "csv-edit.readOption_hasHeader": "true",
 "cSpell.mergeCSpellSettings": true,
+"cSpell.enabled": true,
 
 // Don't show distracting git diffs in overview ruler
 // "scm.diffDecorations": "none",
