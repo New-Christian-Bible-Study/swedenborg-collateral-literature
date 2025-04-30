@@ -147,6 +147,8 @@ An alternative may refer to an entire sentence or paragraph: +
 `//[? the last sentence isn't clear ?]` + 
 Use the double slashes to remove what follows from being output, as you'll see in the preview pane.
 
+Sometimes the editor may have a clear idea of what word should be used, but it differs greatly from what is given. This can be annotated as .... `the [?which?evil?] gain power` .... where 'evil' fits the phrase or sentence, and 'which' definitely does not; yet the exchange does not resemble a scan/ocr error of processing; and a simple replacement feels a possible disservice to the original author intent.
+
 
 NOTE:
 Editors with access to authoritative sources are encouraged to seek and resolve these mysteries within the entire collection.
