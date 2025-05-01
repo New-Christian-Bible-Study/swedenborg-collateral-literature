@@ -2,6 +2,8 @@
 By Erik Sandstrom - 1983
 include::../template-attributes.adoc[]
 
+
+////
 //this is a partial of something larger//
 
 == {empty}
@@ -14,6 +16,7 @@ Summing up this section we therefore conclude: That what is received, namely lif
 As we all well know, "it is a universal law that influx adjusts itself to efflux" (@AC 5828; see also @TCR 814).
 
 We need not stay for long with this point, yet should note that efflux is the "life of man;" and that it is to this life of man that influx, which is the Divine life, adjusts itself. It is of mercy that it is thus, and not the reverse. The reverse would be that man's life (thus efflux) would adjust itself to the Lord's life (thus influx); but this would force all into heaven, in fact would force all into the Divine, and would destroy all human freedom.
+////
 
 === The as-from-self and the Visible God
 
