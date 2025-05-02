@@ -130,7 +130,7 @@ https://docs.asciidoctor.org/asciidoc/latest/lists/ordered/#escaping-the-list-ma
 
 See our file "Application_of_Doctrine-DeCharms" for having worked this out. The entire file is nested ordered lists.
 
-==== ##[.underline]#Tagging Concepts:###
+==== ##[.underline]#Tagging Concepts and Verses:###
 
 by example, use this markup where and as you see fit, until we develop more definitive instruction ...
 
@@ -138,6 +138,18 @@ by example, use this markup where and as you see fit, until we develop more defi
 === What is Man?
 //<soul><spirit>
 ```
+
+Also for use with Bible Verses, prepended to the adoc line to be used as descriptive. First example:
+
+```
+"I am the First, and I am the Last: yea, my hand hath founded the earth, and my right hand hath spanned the heavens. I call them together; they stand together." (Isaiah 48:12-13).
+
+//<Isaiah 48:12-13>
+The doctrine of the text is that the first, by lasts, builds intermediates and holds them in form, connection, and order; ...
+```
+(the full descriptive content is not included in this example; + 
+the source is NDPendleton's "Glorification")
+
 
 ==== ##[.underline]#Inconclusive Editing:###
 
