@@ -34,6 +34,7 @@
     "swedenborgEnglish": {
       "name": "Swedenborg English words",
       "path": "${workspaceFolder}/../swedenborg-dictionaries/.dictionaries/dictionary-en-swedenborg.txt",
+      "description": "distinctively Swedenborgian",
       "scope": "workspace",
       "addWords": true
     },
@@ -64,7 +65,7 @@
     "concordance-words": {
       "name": "concordance-words",
       "path": "${workspaceFolder}/../swedenborg-dictionaries/.dictionaries/concordance-words.txt",
-      "description": "Words used in this project",
+      "description": "Concordance Principal Phrase first words",
       "scope": "workspace",
       "addWords": false
     },
@@ -78,7 +79,7 @@
     "old-style": {
       "name": "old-style",
       "path": "${workspaceFolder}/../swedenborg-dictionaries/.dictionaries/old-style.txt",
-      "description": "Old Style [...(est|eth)]",
+      "description": "Old Style [...(est|eth)], incl. Scripture",
       "scope": "workspace",
       "addWords": true
     },
