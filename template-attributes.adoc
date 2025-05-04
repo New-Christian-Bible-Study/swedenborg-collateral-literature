@@ -18,6 +18,9 @@
 {empty}
 
 // Begin inserting frontpiece text
+{doctitle} + 
+{author}
+
 Edited and Printed by NCBS + 
 from best available representations of original manuscript.
 

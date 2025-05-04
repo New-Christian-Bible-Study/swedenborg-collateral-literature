@@ -1,16 +1,40 @@
 {
+"mhr.removed": "la,sv,en-GB",
+"cSpell.language": "en-US",
+
+"cSpell.enabledFileTypes": {
+  "asciidoc": true,
+  "txt": true
+},
+
+"cSpell.minWordLength": 3,
+"cSpell.allowCompoundWords": false,
+"cSpell.numSuggestions": 3,
+"cSpell.suggestionMenuType": "quickFix",
 
 "cSpell.words": [
   "swconcord",
   "adoc"
   ],
 
-"cSpell.language": "en-US,la,sv,en-GB",
-
+"cSpell.flagWords": [
+  "Lords: Lord's",
+  "Gods: God's",
+  "Jehovahs: Jehovah's",
+  "Abrahams: Abraham's",
+  "Isaacs: Isaac's",
+  "Jacobs: Jacob's",
+  "natures: nature's",
+  "mans: man's"
+],
+  
 "cSpell.customDictionaries": {
+
+
     "swedenborgEnglish": {
       "name": "Swedenborg English words",
       "path": "${workspaceFolder}/../swedenborg-dictionaries/.dictionaries/dictionary-en-swedenborg.txt",
+      "description": "distinctively Swedenborgian",
       "scope": "workspace",
       "addWords": true
     },
@@ -22,26 +46,26 @@
     },
     "swedenborgLatin": {
       "name": "Swedenborg Latin words",
-      "path": "${workspaceFolder}/../swedenborg-dictionaries/.dictionaries/dictionary-la-swedenborg.txt",
+      "path": "-DISABLE-${workspaceFolder}/../swedenborg-dictionaries/.dictionaries/dictionary-la-swedenborg.txt",
       "scope": "workspace",
-      "addWords": true
+      "addWords": false
     },
     "Swedish": {
       "name": "Swedish dictionary",
-      "path": "${workspaceFolder}/../swedenborg-dictionaries/.dictionaries/dictionary-sv.txt",
+      "path": "-DISABLE-${workspaceFolder}/../swedenborg-dictionaries/.dictionaries/dictionary-sv.txt",
       "scope": "workspace",
       "addWords": false
     },
     "Latin": {
       "name": "Latin dictionary provided by Lewis and Short (do not modify)",
-      "path": "${workspaceFolder}/../swedenborg-dictionaries/.dictionaries/dictionary-la-lewis-short.txt",
+      "path": "-DISABLE-${workspaceFolder}/../swedenborg-dictionaries/.dictionaries/dictionary-la-lewis-short.txt",
       "scope": "workspace",
       "addWords": false
     },
     "concordance-words": {
       "name": "concordance-words",
       "path": "${workspaceFolder}/../swedenborg-dictionaries/.dictionaries/concordance-words.txt",
-      "description": "Words used in this project",
+      "description": "Concordance Principal Phrase first words",
       "scope": "workspace",
       "addWords": false
     },
@@ -55,7 +79,7 @@
     "old-style": {
       "name": "old-style",
       "path": "${workspaceFolder}/../swedenborg-dictionaries/.dictionaries/old-style.txt",
-      "description": "Old Style [...(est|eth)]",
+      "description": "Old Style [...(est|eth)], incl. Scripture",
       "scope": "workspace",
       "addWords": true
     },
@@ -67,26 +91,19 @@
     }
   },
 
-"cSpell.minWordLength": 2,
 
-"cSpell.enabledFileTypes": {
-  "asciidoc": true,
-  "txt": true
-},
 
 
 // Always assume first line of CSV file is the header
 "csv-edit.readOption_hasHeader": "true",
+"cSpell.mergeCSpellSettings": true,
+"cSpell.enabled": true,
 
 // Don't show distracting git diffs in overview ruler
 // "scm.diffDecorations": "none",
 
-"asciidoc.preview.asciidoctorAttributes": {
-  },
-  "cSpell.showAutocompleteDirectiveSuggestions": false,
-  "cSpell.suggestionMenuType": "quickFix",
-  "cSpell.suggestionNumChanges": 1,
-
 
 }
+
+// https://streetsidesoftware.com/vscode-spell-checker/docs/configuration
 
