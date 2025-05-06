@@ -8,7 +8,7 @@ Editors' notes and comments go in this block
 
 Here we support a collaborative effort to proofread, edit, and clean up some of our raw sources of collaborative literature, to enable integration with the NCBS environment, translation, and user readability in either PDF, EPUB, MOBI, and other requested formats. The original printed materials were scanned a few years ago, and computer processed with OCR (Optical Character Reading) software with mixed results. There are numerous "glitches" in that process which provide us with a product which we can edit as we enjoy the reading.
 
-Target titles for this experience can be found at https://newchristianbiblestudy.org/explanatory-works (including the linked Bible Commentary titles). Source files there are relatively rough .PDF or .HTML, and are here rendered into plain text which is then marked up with AsciiDoc and published by AsciiDoctor. [ref. https://asciidoctor.org]
+Target titles for this experience can be found at https://newchristianbiblestudy.org/explanatory-works (including the linked Bible Commentary titles); most if not all of these are now local in this repository's 'beanstalk' directory. Source files there are relatively rough .PDF or .HTML, and are moved into the 'new-sources' directory for rendering into plain text which is then reviewed and cleaned up before moving into our 'text' directory for further editing and mark up with AsciiDoc, and published by AsciiDoctor. [ref. https://asciidoctor.org]
 
 Accordingly, there is an AsciiDoc extension published by AsciiDoctor for use with VSCode, and available in VSCode's Extension Marketplace.
 
