@@ -1,6 +1,6 @@
 = Joel
 Hyde
-include::../template-attributes.adoc[]
+include::../../template-attributes.adoc[]
 
 A FORE-NOTE.
 

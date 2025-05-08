@@ -1,6 +1,6 @@
-= Doc_Vol_2_Part_1
+= Doc Vol 2 Part 1
 Doc_Vol_2_Part_1
-include::../template-attributes.adoc[]
+include::../../template-attributes.adoc[]
 
 THE LIFE AND CHARACTER
 

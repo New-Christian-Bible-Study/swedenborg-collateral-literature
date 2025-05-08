@@ -1,6 +1,6 @@
-= Sermons_Call_and_Deliverance
+= Sermons Call and Deliverance
 Clowes
-include::../template-attributes.adoc[]
+include::../../template-attributes.adoc[]
 
 TO WHICH ARE ADDED, FROM THE AUTHOR'S MANUSCRIPTS. TWENTY-TWO
 DISCOURSES ON IMPORTANT SUBJECTS. BY THE LATE

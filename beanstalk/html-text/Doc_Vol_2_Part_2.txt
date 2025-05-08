@@ -1,6 +1,6 @@
-= Doc_Vol_2_Part_2
+= Doc Vol 2 Part 2
 Doc_Vol_2_Part_2
-include::../template-attributes.adoc[]
+include::../../template-attributes.adoc[]
 
 THE LIFE AND CHARACTER OF EMANUEL SWEDENBORG
 COLLECTED, TRANSLATED, AND ANNOTATED

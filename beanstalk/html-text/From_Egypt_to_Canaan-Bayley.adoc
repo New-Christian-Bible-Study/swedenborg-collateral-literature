@@ -1,28 +1,26 @@
-= From_Egypt_to_Canaan
-Bayley
-include::../template-attributes.adoc[]
+= From Egypt to Canaan
+By the Rev. Dr. Bayley
+include::../../template-attributes.adoc[]
 
 BEING
 
-THE DIVINE DESCRIPTION
-OF THE REGENERATE LIFE SHEWN BY
-ISRAEL IN EGYPT, THE JOURNEY
-IN THE WILDERNESS, AND
-THE CONQUEST OF
-CANAAN
+THE DIVINE DESCRIPTION + 
+OF THE REGENERATE LIFE SHEWN BY + 
+ISRAEL IN EGYPT, + 
+THE JOURNEY IN THE WILDERNESS, + 
+ AND THE CONQUEST OF CANAAN
 
-Sermons by
-
-THE REV. DR. BAYLEY
-
-MINISTER OF ARGYLE SQUARE CHURCH, KINGS CROSS, LONDON
+Sermons by + 
+THE REV. DR. BAYLEY + 
+MINISTER OF ARGYLE SQUARE CHURCH, + 
+KINGS CROSS, LONDON
 
 THIRD EDITION
 
 NEW CHURCH PRESS LTD., 20 BLOOMSBURY WAY. LONDON, W. C. 1.
 
-PRINTED BY
-THE RIVERSIDE PRESS LIMITED
+PRINTED BY + 
+THE RIVERSIDE PRESS LIMITED + 
 EDINBURGH
 
 PREFACE
@@ -32,6 +30,7 @@ THE Discourses on the Divine History of the Journey of the Israelites FROM EGYPT
 
 One thing is needful for us all,--that we be fitted for heaven. The mode is declared, and unfolded in the Divine Volume. May we so profit by it that we shall eschew the bondage of sin, and led by the truth flowing from the center of all loving freedom, the Lord Jesus Christ, enter into the glorious liberty of the children of light, thus passing FROM EGYPT TO CANAAN.
 
+////
 CONTENTS
 
 PAGE
@@ -95,10 +94,11 @@ Ai taken 449
 The Covenant with the Gibeonites 457
 The Battle with the Five Rings, and the Sun and Moon standing still 465
 The Death of Joshua 473
+////
 
 FROM EGYPT TO CANAAN
 
-ISRAEL SUFFERING
+== ISRAEL SUFFERING
 
 Now there arose up a new king over Egypt, which knew not Joseph.--Exodus 1. 8.
 

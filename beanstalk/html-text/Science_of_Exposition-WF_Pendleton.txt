@@ -1,6 +1,6 @@
-= Science_of_Exposition
+= Science of Exposition
 WF_Pendleton
-include::../template-attributes.adoc[]
+include::../../template-attributes.adoc[]
 
 PREFACE
 

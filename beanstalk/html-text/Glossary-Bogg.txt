@@ -1,6 +1,6 @@
 = Glossary
 Bogg
-include::../template-attributes.adoc[]
+include::../../template-attributes.adoc[]
 
 COMPILED BY
 

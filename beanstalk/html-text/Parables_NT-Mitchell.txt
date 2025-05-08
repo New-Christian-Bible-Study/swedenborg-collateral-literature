@@ -1,6 +1,6 @@
-= Parables_NT
+= Parables NT
 Mitchell
-include::../template-attributes.adoc[]
+include::../../template-attributes.adoc[]
 
 SPIRITUALLY UNFOLDED
 

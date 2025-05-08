@@ -1,6 +1,6 @@
-= Moral_Virtues
+= Moral Virtues
 Schnarr
-include::../template-attributes.adoc[]
+include::../../template-attributes.adoc[]
 
 By
 

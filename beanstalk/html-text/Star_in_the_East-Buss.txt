@@ -1,6 +1,6 @@
-= Star_in_the_East
+= Star in the East
 Buss
-include::../template-attributes.adoc[]
+include::../../template-attributes.adoc[]
 
 BY
 

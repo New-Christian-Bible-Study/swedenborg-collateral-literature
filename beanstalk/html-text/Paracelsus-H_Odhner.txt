@@ -1,6 +1,6 @@
 = Paracelsus
 H_Odhner
-include::../template-attributes.adoc[]
+include::../../template-attributes.adoc[]
 
 By Hugo Lj. Odhner
 

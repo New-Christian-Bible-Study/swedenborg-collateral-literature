@@ -1,6 +1,6 @@
-= Paul_and_David
+= Paul and David
 Clissold
-include::../template-attributes.adoc[]
+include::../../template-attributes.adoc[]
 
 PAUL AND DAVID; OR, THE RELATIONS BETWEEN PERSONAL CHARACTER
 AND THE

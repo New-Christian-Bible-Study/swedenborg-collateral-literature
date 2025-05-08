@@ -1,17 +1,13 @@
-= First_Three_Kings
+= First Three Kings
 Bruce
-include::../template-attributes.adoc[]
+include::../../template-attributes.adoc[]
 
-BY THE
-
-REV. WILLIAM BRUCE
-
+BY THE + 
+REV. WILLIAM BRUCE + 
 AUTHOR OF "COMMENTARY ON THE GOSPEL ACCORDING TO ST. MATTHEW" ETC.
 
-JAMES SPEIRS
-
-36 BLOOMSBURY STREET, LONDON
-
+JAMES SPEIRS + 
+36 BLOOMSBURY STREET, LONDON + 
 1879
 
 PREFACE
@@ -20,11 +16,13 @@ THIS work is based on a series of discourses delivered about twenty years ago, w
 
 LONDON, 1879.
 
+////
+
+----
+
 CONTENTS.
 
-BOOK I.
-
-THE REIGN OF SAUL.
+== BOOK I -- THE REIGN OF SAUL.
 
 INTRODUCTORY. PAGE
 ISRAEL DESIRES A KING (I Samuel viii.) 3
@@ -91,9 +89,7 @@ CHAPTER XXII. PREPARATION FOR BATTLE. THE AMALEKITES SPOIL ZIKLAG. DAVID RECOVER
 
 CHAPTER XXIII. THE DEFEAT OF ISRAEL AND THE DEATH OF SAUL (I Samuel xxxi.) 198
 
-BOOK II.
-
-THE REIGN OF DAVID.
+== BOOK II -- THE REIGN OF DAVID.
 
 CHAPTER I. PRELIMINARY 215
 
@@ -167,9 +163,7 @@ CHAPTER XXIX. ABISHAG THE SHUNAMMITE NOURISHES DAVID (1 Kings i. 1-5) 400
 
 CHAPTER XXX. ADONIJAH'S REBELLION (1 Kings i. 5-31) 405
 
-BOOK III.
-
-THE REIGN OF SOLOMON.
+== BOOK III -- THE REIGN OF SOLOMON.
 
 CHAPTER I. SOLOMON ANOINTED KING (1 Kings i. 32-40) 413
 
@@ -220,15 +214,14 @@ CHAPTER XXI. THE PREDICTED REVOLT OF THE TEN TRIBES (1 Kings xi. 29-35) 541
 
 CHAPTER XXII. THE TWO KINGDOMS OF JUDAH AND ISRAEL (1 Kings xii.) 548
 
-BOOK I.
+----
 
-THE REIGN OF SAUL.
+////
 
-[Blank page.]
+== BOOK I -- THE REIGN OF SAUL.
 
-INTRODUCTORY.
 
-ISRAEL DESIRES A KING.
+=== INTRODUCTORY -- ISRAEL DESIRES A KING.
 
 I Samuel viii.
 
@@ -290,9 +283,7 @@ In a special sense, Saul, as representing truth Divine, represented the humanity
 
 Such are the spiritual and Divine subjects treated of in the history of the first three kings of Israel, which it will be my endeavour, with Divine assistance: to trace in the inspired record of their successive reigns.
 
-CHAPTER I.
-
-SAUL SENT IN SEARCH OF HIS FATHER'S ASSES.
+=== CHAPTER I -- SAUL SENT IN SEARCH OF HIS FATHER'S ASSES.
 
 1 Samuel ix. 1-14.
 
@@ -344,9 +335,7 @@ When Saul and his servant "went unto the city where the man of God was, as they 
 
 To this Saul was to go up by the direction of the prophet, whom he was exhorted to meet, and whom he met in the city; that he might, under the guidance of the seer, ascend from the doctrine to the love of goodness and truth.
 
-CHAPTER II.
-
-SAMUEL RECEIVES AND ENTERTAINS SAUL.
+=== CHAPTER II -- SAMUEL RECEIVES AND ENTERTAINS SAUL.
 
 1 Samuel ix. 15-27.
 
@@ -377,9 +366,7 @@ At the dawn Samuel called Saul to the top of the house, again representing eleva
 am God," this is a command to cease from all activity originating in self, and place entire reliance upon God. The meaning is expressed by the Lord Himself where He says to the people, "In quietness and confidence shall be your strength;" and where the prophet says of them,
 "Their strength is to sit still" (Isa. xxx. 7, 15). But sitting has relation to a state of the will and of love, and standing to a state of the understanding and of faith; it is this stillness, therefore, that Samuel requires of Saul. It is this standing still from the activity of our own intellectual selfhood that enables us to receive the word of God in faith; for true faith is trust in God, as able to do for us more and better for us than we can do for ourselves. It is this also which prepares us for the sanctification which the anointing of Saul by the prophet represented; for it was to anoint him as the king of Israel that he required him to stand still. This subject is treated of in the next chapter.
 
-CHAPTER III.
-
-SAUL ANOINTED KING, WITH SIGNS FOLLOWING.
+=== CHAPTER III -- SAUL ANOINTED KING, WITH SIGNS FOLLOWING.
 
 1 Samuel x.
 
@@ -1574,17 +1561,11 @@ But why, it may be thought, should burial signify both rejection and resurrectio
 
 The seven days' fast which the men of Jabesh observed, when they buried the bones of Saul, while expressive of their own grief on account of the loss of their king, is expressive also of mourning over the defeat or the loss of truth and goodness, which is one of the meanings of fasting. There is sometimes resemblance where there is no correspondence; but may there not be both a resemblance and a correspondence between the case of Saul, as the Lord's anointed, and that of the Lord Himself? Both were crucified by their enemies and buried by their friends. The disciples of the one and the subjects of the other mourned and wept over their loss; and both sorrowed over the blighted hope that it was he who should have redeemed Israel. He on whom had been "all the desire of Israel," to lead out their armies, and fight their battles, and deliver them from the oppression of the Philistines, had been conquered by the very power he should have broken. Saul and his sons and his army were no more. The panic-stricken Israelites on both sides of the Jordan were fleeing from their cities, which their pursuing enemies entered and occupied. Philistia was jubilant. Her gods, to whom her sons offered the most precious trophies of their victory, were held to have triumphed over Jehovah. To despairing Israel all seemed to be lost. A brighter day is soon to dawn upon them. But for the time fasting is the most suitable expression of their state. So with spiritual Israel, "The days will come, when the bridegroom shall be taken away from them, and then shall they fast in those days."
 
-[Blank page]
 
-BOOK II
 
-THE REIGN OF DAVID.
+== BOOK II -- THE REIGN OF DAVID.
 
-[Blank page]
-
-CHAPTER I.
-
-PRELIMINARY.
+=== CHAPTER I -- PRELIMINARY.
 
 Sauls reign is ended. David's, reign has not yet actually commenced. Although David had long been the anointed king of Israel, his reign is commonly considered not to have begun till he came to Hebron, and was anointed king over the house of Judah. The monarchy in Israel had not yet become hereditary; and the saying that the king never dies, had not become a maxim of state. The intervening period between Saul's death and David's assuming the reins of government would be called an interregnum. But as our object does not require constitutional accuracy or formal precision, it will be no serious violation of historic propriety to follow up the end of the reign of Saul with the beginning of the reign of David. This will better suit the spiritual requirements of the history. The Divine government knows no interruption. It may pass through a succession of forms and degrees; but all these are connected with each other either by continuity or contiguity. The government of truth Divine is not separate, although it is distinct, from that of Divine truth. As successive states of the Divine government in the human mind, during the progress of the regenerate life, the higher is evolved from the lower by the orderly process of development, which is the progressive advancement of a being from his lowest to his highest condition of existence. What is evolved must exist in embryo in that from which it is produced. Divine truth exists in embryo in truth Divine, and Divine good in Divine truth. It is as a seed sown in the earth, which "first puts forth the blade, then the ear, after that the full corn in the ear" (Mark iv. 28). It is not to be supposed that this seed is in man by nature. The human mind consists indeed of three degrees, answering to the three heavens, the natural, the spiritual, and the celestial. These exist in embryo in every human being; and they are successively opened and perfected in those who are regenerated to the highest attainable state. The opening and perfecting of the first, or natural degree is described by the reign of Saul; the second or spiritual by the reign of David; the third or celestial by the reign of Solomon. But these degrees are opened and perfected by means of seeds of truth that are sown in the mind. For these seeds, descending as they do from the Lord through all the heavens, have in themselves, besides the Divine truth, all the degrees of truth that exist in heaven; and it is by the opening and perfecting of these in the mind that the mind itself is opened and perfected.
 
@@ -1604,9 +1585,7 @@ In the history of David's reign we have, in the internal sense, the history of a
 
 We shall not attempt to follow the history of David, as describing in series the progress of the regenerate life which his reign represents; but we hope to draw from it some spiritual instruction and practical lessons that may direct and guide us in our progress through the regenerate life, as the only way to the kingdom of our Divine Sovereign.
 
-CHAPTER II.
-
-DAVID RECEIVES TIDINGS OF THE DEFEAT OF ISRAEL AND
+=== CHAPTER II -- DAVID RECEIVES TIDINGS OF THE DEFEAT OF ISRAEL AND
 
 THE DEATH OF SAUL.
 
@@ -1632,9 +1611,7 @@ That which enters into and affects the will causes the understanding to turn in 
 
 We can see a sufficient reason, on the ground of the spiritual sense, for David slaying the seemingly blameless Amalekite. Not that an act of natural injustice could be permitted for the purpose of representing a spiritual truth, or teaching a spiritual lesson. But spiritual causes lie at the root of all natural effects. And although the effect may sometimes seem different in its character from that of the cause, there is still a real relation between them, the outward seeming being all that produces the apparent want of harmony.
 
-CHAPTER III.
-
-DAVID'S LAMENTATION OVER SAUL AND JONATHAN.
+=== CHAPTER III -- DAVID'S LAMENTATION OVER SAUL AND JONATHAN.
 
 2 Samuel i. 17-27
 
@@ -3049,15 +3026,11 @@ In every transition period and state of life it is the same. There are always di
 
 We may learn, then, from the history of Adonijah that in the regeneration there are changes of state which act upon the inmost principles of our spiritual life; but are so overruled by a wise and merciful God as to bring everlasting benefit to those who love and serve Him.
 
-BOOK III.
-
-THE REIGN OF SOLOMON.
+== BOOK III -- THE REIGN OF SOLOMON.
 
 [Blank page.]
 
-CHAPTER I.
-
-SOLOMON ANOINTED KING.
+=== CHAPTER I -- SOLOMON ANOINTED KING.
 
 I Kings i. 32-40
 
@@ -3104,9 +3077,7 @@ The first act of Solomon, as the king of Israel, was one worthy of his kingly ch
 but if wickedness shall be found in him, he shall die. So king Solomon sent, and they brought him down from the altar. And he came and bowed himself to king Solomon: and Solomon said unto him, Go to thine house."
 Divine pardon is not unconditional, and clemency is not exercised without regard to character and conduct. Worthiness secures life, wickedness brings condemnation and death. The Lord delighteth in mercy; and these acts of clemency which His creatures perform are but the shadow of those which He is continually doing to the penitents, however grievously they have sinned against Him.
 
-CHAPTER II.
-
-DAVID'S DYING CHARGE TO SOLOMON, AND HIS DEATH.
+=== CHAPTER II -- DAVID'S DYING CHARGE TO SOLOMON, AND HIS DEATH.
 
 I Kings ii. 5-10
 
@@ -3173,9 +3144,7 @@ But his unlawful freedom cost him his life. So with those who deeply sin against
 Shimei was the last who fell under the sword of Benaiah of those who had transgressed in the time of David. And it is added, as the result of the removal of these discordant elements, that the kingdom was established in the hand of Solomon. In delivering the parable of the wheat and the tares, which relates to the time and the process of judgment, the Lord says of the angels, "They shall gather out of His kingdom all things that offend, and them which do iniquity. Then shall the righteous shine forth as the sun in the kingdom of their Father"
 (Matt. xiii. 41, 43). Divine judgment is designed to remove all things that offend against the laws of truth, and that sin against the laws of goodness, that righteousness may shine forth as the sun of love and truth in the kingdom of the Father, which is the kingdom of love that rules by wisdom. This is the kingdom represented by that of Solomon.
 
-CHAPTER III.
-
-SOLOMON'S CHOICE.
+=== CHAPTER III -- SOLOMON'S CHOICE.
 
 I King's iii. 1-14
 
@@ -3511,26 +3480,26 @@ The circumstances in which the Divine aid is to be sought are as
 
 In the prayer of Solomon there are seven different petitions, relating to as many different circumstances, six relating to the Israelites themselves, and one to the sojourner that is amongst them. The first petition is for him who trespasses against his neighbour; the second is for the people when smitten in battle; the third is for relief when the heaven is shut up because there is no rain; the fourth is for succour when famine is in the land; the fifth is for the sojourner; the sixth is for success in divinely sanctioned wars; and the seventh is for the people when they have been carried into captivity. In every series of events or circumstances that occurs in the Divine Word there is a connection between the parts, however independent of each other they may be in the historical relation. The circumstances or conditions of the people which are enumerated in this prayer, in which the Divine aid is implored for those who see their sins, and repent, and turn in earnest supplication to God in His temple, describe states of the spiritual life that follow in succession during the progress of regeneration. It may not be essentially necessary to see this connection to derive instruction from the several petitions. Our various individual states may find in some one of the circumstances something that comes home more immediately and forcibly to ourselves; but if there is nothing in our own hearts or understandings, in our words or works, that strike us, while considering these petitions, with a sense of sin or a feeling of penitence, we may be sure that the train of spiritual ideas that the series contains will afford us little satisfaction or yield us little profit of a spiritual kind. Trusting, however, that our contemplation of these various petitions may find for them an inward witness and response, we will proceed to consider them at such length as our space will permit.
 
-I. In his first petition Solomon prays, "If any man trespass against his neighbour, and an oath be laid upon him to cause him to swear, and the oath come before Thine altar in this house: then hear Thou in. heaven, and do, and judge Thy servants, condemning the wicked, to bring his way upon his head; and justifying the righteous, to give him according to his righteousness." This petition evidently refers to the law delivered in the twenty-second chapter of Exodus in which it is enacted, that if any one delivers any thing or beast to his neighbour
+1.{empty} In his first petition Solomon prays, "If any man trespass against his neighbour, and an oath be laid upon him to cause him to swear, and the oath come before Thine altar in this house: then hear Thou in. heaven, and do, and judge Thy servants, condemning the wicked, to bring his way upon his head; and justifying the righteous, to give him according to his righteousness." This petition evidently refers to the law delivered in the twenty-second chapter of Exodus in which it is enacted, that if any one delivers any thing or beast to his neighbour
 (or companion) to keep, and it be stolen, or be driven away, or die, no man seeing it, "an oath of the Lord shall be between them, that he hath not put his hand unto his neighbour's goods." That which is given by one man to another to keep is that which has been given by the internal to the external man, and is laid up in the mind as a means of preserving and supporting the spiritual life of the soul. This, may be lost, or may pass away from the mind, which may result either from evils of intention or evils of infirmity. When the question is brought to God, or submitted to the decision of Divine Truth, a true judgment is obtained. If it has proceeded from an evil intention, and thus from wickedness, the evil is seen and condemned; but if it has only proceeded from infirmity, or has resulted from error of judgment, no wickedness is imputed. The case supposed by Solomon seems, however, to refer further to a judgment between two, one of whom has actually trespassed against his neighbour; and the Divine decision brings to light the guilt of the one and the righteousness of the other. Such a Divine judgment is that which enables us to distinguish and to separate between good and evil, and truth and falsity in ourselves And this is the first act of saving truth in the mind that has entered on the regeneration. The unregenerate have no clear distinction between spiritual good and evil in themselves. They call that good which they love, and that truth which favours their own ends; and on, the other hand they call that evil which they do not love, and that falsity which is unfavourable to their own ends. It is Divine Truth, alone-it is God-that enables us to see what is evil in itself and what is good in itself; for that only is good which comes from God and leads to Him, and that is evil that comes from self and leads to self. The first of our petitions to the throne of grace should therefore be, to receive into our minds the judgment of eternal truth, which will enable us to distinguish and to sever between the righteous and wicked in. ourselves.
 
-2. Although the first act of the spiritual life is to distinguish and to sever between good and evil in the judgment, many other acts are required before they can be entirely and finally separated in the life.
+2.{empty} Although the first act of the spiritual life is to distinguish and to sever between good and evil in the judgment, many other acts are required before they can be entirely and finally separated in the life.
 
 Evils, although seen and acknowledged, cannot be removed but by actively resisting them, and this resistance is compared in Scripture to a warfare. The second petition of Solomon, therefore, has relation to the people when contending with and smitten down before the enemy. In our first conflicts with the enemy of our own heart, we fight very much in our own strength, and in the confidence of the victory, and thus sin against Him who alone can strengthen us with strength in the inner man to overcome our corruptions. Our weakness is made manifest to us by defeat; and defeat begets humility and dependence. When we turn from ourselves to the Lord, and confess, His name, and pray, and make supplication unto the Lord in His house, then does He hear and forgive, and bring us again into the land that He gave unto our fathers, by bringing us into some degree of spiritual goodness, as the result of submission to the will and wisdom of our Divine Deliverer. In the earlier states of the religious life there, is inexperience of the difficulties and dangers attending real progress in truth and goodness. For these principles have not only to be known and understood, but to be made our own by being admitted into the life of the understanding and will. They are not received into the inner life without trial and temptation respecting them. These temptations are described in the next two subjects of Solomon's prayer. Truth and good are the water and the bread of the soul's true life; and a famine for bread and water are spiritually famine for the inward spiritual hearing of the Word of God.
 
-3. Solomon therefore prays, "When heaven is shut up, and there is no rain, because they have sinned against Thee; if they pray hear Thou in heaven, and give rain upon Thy land." And again
+3.{empty} Solomon therefore prays, "When heaven is shut up, and there is no rain, because they have sinned against Thee; if they pray hear Thou in heaven, and give rain upon Thy land." And again
 
-4. "If there be in the land famine, if there be pestilence, blasting', mildew, locust, or if there be caterpillar; if their enemy besiege them in the land of their cities; whatsoever plague, whatsoever sickness there be; what prayer and supplication soever be made by any man, or by all Thy people Israel, which shall know every man the plague of his own heart, and spread forth his hands toward this house: then hear Thou in heaven Thy dwelling-place, and forgive, and do, and give to, every man according to his ways, whose heart Thou knowest."
+4.{empty} "If there be in the land famine, if there be pestilence, blasting', mildew, locust, or if there be caterpillar; if their enemy besiege them in the land of their cities; whatsoever plague, whatsoever sickness there be; what prayer and supplication soever be made by any man, or by all Thy people Israel, which shall know every man the plague of his own heart, and spread forth his hands toward this house: then hear Thou in heaven Thy dwelling-place, and forgive, and do, and give to, every man according to his ways, whose heart Thou knowest."
 
 Heaven is shut up, and no rain descends to refresh the earth, when the inner man is either temporarily or permanently closed, and no truth flows down into the outer man to refresh and fructify him. When this continues, famine, or defect of goodness, must follow, for a defect of the one produces a defect of the other. But when good fails, how many evils spring up to desolate the mind! With the want of rain no other evil is connected in the prayer of Solomon; but when famine is the subject, pestilence, blasting, mildew, caterpillar, and the besieging army follow in its train. Goodness is the staff of spiritual life; and when this fails, the gate is opened for the entrance of every pestilential, consuming, and destructive principle.
 
 Above all thing's is it, then, important for every man to know the plague of his own heart; and this we do spiritually when we know not only our general sinfulness, but our particular evils, and include that knowledge in the general confession of our sinfulness.
 
-5. Those experiences which give the mind a sense of its inherent deficiencies in goodness and truth, inspire it with a desire to increase in the knowledge of these essential elements of eternal life. One who desires to be instructed in the knowledge of these principles, and, in the abstract sense, the desire itself to receive instruction, is signified by a sojourner; for those who came from a far country for the Lord's name's sake were in search of the wisdom which the children of Israel possessed. The fifth petition of Solomon's prayer is, therefore, for the sojourner, that the Lord might do for him, when he prayed towards the temple, all that he might call for. And the object of this request was not merely for the sake of the sojourner himself, but "that all people of the earth might know the name of the Lord, and fear Him, as the people Israel;" that is, that the influence of the Divine love and wisdom may be diffused over the whole mind-that the whole natural mind may yield a willing obedience to the Lord's will, as well as the spiritual.
+5.{empty} Those experiences which give the mind a sense of its inherent deficiencies in goodness and truth, inspire it with a desire to increase in the knowledge of these essential elements of eternal life. One who desires to be instructed in the knowledge of these principles, and, in the abstract sense, the desire itself to receive instruction, is signified by a sojourner; for those who came from a far country for the Lord's name's sake were in search of the wisdom which the children of Israel possessed. The fifth petition of Solomon's prayer is, therefore, for the sojourner, that the Lord might do for him, when he prayed towards the temple, all that he might call for. And the object of this request was not merely for the sake of the sojourner himself, but "that all people of the earth might know the name of the Lord, and fear Him, as the people Israel;" that is, that the influence of the Divine love and wisdom may be diffused over the whole mind-that the whole natural mind may yield a willing obedience to the Lord's will, as well as the spiritual.
 
-6. The sixth petition of the prayer of Solomon has, like the second, relation to war, but in this instance the people are spoken of as going out to battle against their enemy by the command of the Lord" whit her soever Thou shalt send them." And here the prayer is that the Most High will maintain their cause, when they pray towards the city which the Lord had chosen and the house that had been built for His name.
+6.{empty} The sixth petition of the prayer of Solomon has, like the second, relation to war, but in this instance the people are spoken of as going out to battle against their enemy by the command of the Lord" whit her soever Thou shalt send them." And here the prayer is that the Most High will maintain their cause, when they pray towards the city which the Lord had chosen and the house that had been built for His name.
 
-7. The seventh petition has also relation to war; but the prayer in this is on behalf of the people when they sin, and when the Lord is angry with them, and delivers them to the enemy, so that they carry them away captives unto the land of the enemy far or near. If they bethink themselves and repent, and make supplication, the Lord is entreated, not only to forgive them, but to give them compassion before them that carried them away. All this literally happened to the people afterwards, when they were carried away captive into Babylon. And this captivity, like that of Egypt, represented the complete end of one state; and their deliverance and re-establishment in their own land represented the beginning of another. The Divine Being by whose inspiration Solomon delivered that beautiful prayer at the dedication of the temple foresaw the captivity of the people which was thus comprehended in it. But as that captivity was representative of the last and severest temptation which the spiritual undergo, in one state and stage of the new life, and through which they pass into another, it formed the last subject of that supplication which was designed to include all possible states in which the mind can feel the necessity of drawing near to God and seeking conjunction with Him.
+7.{empty} The seventh petition has also relation to war; but the prayer in this is on behalf of the people when they sin, and when the Lord is angry with them, and delivers them to the enemy, so that they carry them away captives unto the land of the enemy far or near. If they bethink themselves and repent, and make supplication, the Lord is entreated, not only to forgive them, but to give them compassion before them that carried them away. All this literally happened to the people afterwards, when they were carried away captive into Babylon. And this captivity, like that of Egypt, represented the complete end of one state; and their deliverance and re-establishment in their own land represented the beginning of another. The Divine Being by whose inspiration Solomon delivered that beautiful prayer at the dedication of the temple foresaw the captivity of the people which was thus comprehended in it. But as that captivity was representative of the last and severest temptation which the spiritual undergo, in one state and stage of the new life, and through which they pass into another, it formed the last subject of that supplication which was designed to include all possible states in which the mind can feel the necessity of drawing near to God and seeking conjunction with Him.
 
 And here it is not deliverance that is immediately prayed for, but the compassion of their enemies towards them; as if the last stage was to subdue enmity itself, and turn their very captivity into freedom and their sorrow into joy.
 

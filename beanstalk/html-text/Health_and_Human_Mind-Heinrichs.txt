@@ -1,6 +1,6 @@
-= Health_and_Human_Mind
+= Health and Human Mind
 Heinrichs
-include::../template-attributes.adoc[]
+include::../../template-attributes.adoc[]
 
 A STUDY BY
 

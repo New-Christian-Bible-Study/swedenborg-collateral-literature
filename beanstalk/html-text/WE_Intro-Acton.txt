@@ -1,6 +1,6 @@
-= WE_Intro
+= WE Intro
 Acton
-include::../template-attributes.adoc[]
+include::../../template-attributes.adoc[]
 
 A STUDY OF THE MEANS BY WHICH
 SWEDENBORG THE SCIENTIST

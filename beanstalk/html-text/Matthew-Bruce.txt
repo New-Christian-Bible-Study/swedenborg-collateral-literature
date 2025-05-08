@@ -1,6 +1,6 @@
 = Matthew
 Bruce
-include::../template-attributes.adoc[]
+include::../../template-attributes.adoc[]
 
 BY
 

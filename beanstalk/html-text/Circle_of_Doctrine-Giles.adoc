@@ -1,6 +1,6 @@
-= Circle_of_Doctrine
+= Circle of Doctrine
 Giles
-include::../template-attributes.adoc[]
+include::../../template-attributes.adoc[]
 
 PREFACE
 
@@ -11,6 +11,8 @@ The want of such a volume-a want ably supplied on a smaller scales by many well-
 The articles here grouped together will be recognized as each of them having also a separate existence, a form in which for special purposes they will continue to be obtainable. The present work is merely intended to be an extension of their career of usefulness.
 
 PUBLISHER
+
+////
 
 CONTENTS.
 
@@ -76,6 +78,8 @@ Rev. Joseph Ashby
 XVI. Is there a Personal Devil? 233
 
 Rev. John Presland
+
+////
 
 The Church of the New Jerusalem
 

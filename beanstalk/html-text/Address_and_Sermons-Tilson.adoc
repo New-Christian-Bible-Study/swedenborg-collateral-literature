@@ -1,6 +1,6 @@
-= Address_and_Sermons
+= Address and Sermons
 Tilson
-include::../template-attributes.adoc[]
+include::../../template-attributes.adoc[]
 
 
 BY
@@ -21,6 +21,7 @@ Pastor of Michael Church, 1892-1938
 
 Bishop in the General Church of the New Jerusalem, 1928-1942
 
+////
 CONTENTS
 
 PAGE
@@ -39,7 +40,7 @@ THE NEW JERUSALEM AND THE OLD 3
 
 THE THREE WORDS 4
 
-== THE HUMAN BODY AND ITS CORRESPONDENCE
+THE HUMAN BODY AND ITS CORRESPONDENCE
 
 WITH HEAVEN AND THE SPIRITUAL WORLD 5
 
@@ -53,7 +54,7 @@ THE LOVE OF COUNTRY, AND THE DUTIES
 
 OF CITIZENSHIP 8
 
-== THE POST-RESURRECTION APPEARANCES OF
+THE POST-RESURRECTION APPEARANCES OF
 
 THE LORD 9
 
@@ -61,7 +62,9 @@ THE ORIGIN OF LOVE TRULY CONJUGIAL 10
 
 SPEECH WITH SPIRITS 11
 
-== FOREWORD
+////
+
+FOREWORD
 
 THE Members of Michael Church publish this volume of selected Addresses and Sermons by Bishop Robert James Tilson as a Memorial of their affectionate esteem, and as an appreciation of his forty-six-years Pastorate. It is hoped it may be of benefit to the whole Church to present in accessible and permanent form some of the doctrinal and expository studies of one who laboured so zealously and ably for the establishment of the New Church.
 

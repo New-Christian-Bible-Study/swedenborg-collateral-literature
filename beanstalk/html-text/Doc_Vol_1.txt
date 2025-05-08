@@ -1,6 +1,6 @@
-= Doc_Vol_1
+= Doc Vol 1
 Doc_Vol_1
-include::../template-attributes.adoc[]
+include::../../template-attributes.adoc[]
 
 THE LIFE AND CHARACTER OF EMANUEL SWEDENBORG
 

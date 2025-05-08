@@ -1,6 +1,6 @@
-= Writings_Testify
+= Writings Testify
 Writings_Testify
-include::../template-attributes.adoc[]
+include::../../template-attributes.adoc[]
 
 A Compilation of Teachings
 

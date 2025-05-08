@@ -1,6 +1,6 @@
 = Dialogues
 Clowes
-include::../template-attributes.adoc[]
+include::../../template-attributes.adoc[]
 
 THE SECOND EDITION, WITH ADDITIONS.
 

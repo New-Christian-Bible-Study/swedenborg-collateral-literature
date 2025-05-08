@@ -1,6 +1,6 @@
-= Spirits_and_Men
+= Spirits and Men
 Odhner
-include::../template-attributes.adoc[]
+include::../../template-attributes.adoc[]
 
 Some Essays on the Influence of Spirits upon Men, as Described in the Writings of Emanuel Swedenborg
 

@@ -1,6 +1,6 @@
-= Words_for_the_NC_Vol_II
+= Words for the NC Vol II
 Words_for_the_NC_Vol_II
-include::../template-attributes.adoc[]
+include::../../template-attributes.adoc[]
 
 A SERIAL
 
