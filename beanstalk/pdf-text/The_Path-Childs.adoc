@@ -2,13 +2,7 @@
 Childs
 include::../../template-attributes.adoc[]
 
-THE PATH
-
-THE INNER LIFE OF JESUS CHRIST
-
-THE PATH
-
-Copyright © 2002 by Geoffrey S. Childs
+THE PATH THE INNER LIFE OF JESUS CHRIST THE PATH Copyright © 2002 by Geoffrey S. Childs
 All rights reserved.  No part of this book may be reproduced or transmitted in
 any form or by any means, electronic or mechanical, including photocopying,
 recording, or by any information storage and retrieval system, without
@@ -22,32 +16,14 @@ in cooperation with the General Church Publication Committee
 ®
 
 Book Design by Lisa Alfelt Eller
-Cover art © 2001 by Kären Childs Elder
-
-Childs, Geoffrey S, 1926-2009
-
-The Path: The Inner Life of Jesus Christ/ Geoffrey S. Childs
-
-ISBN 0-9659164-6-4
-
-THE
-PATH
-
-THE INNER LIFE OF JESUS CHRIST
-
-GEOFFREY S. CHILDS
-
-Fountain Publishing
+Cover art © 2001 by Kären Childs Elder Childs, Geoffrey S, 1926-2009 The Path: The Inner Life of Jesus Christ/ Geoffrey S. Childs ISBN 0-9659164-6-4 THE
+PATH THE INNER LIFE OF JESUS CHRIST GEOFFREY S. CHILDS Fountain Publishing
 Rochester, Michigan
 ®
 
 ®
 
-DEDICATION
-
-To our friends in South Africa
-
-ACKNOWLEDGEMENTS
+DEDICATION To our friends in South Africa ACKNOWLEDGEMENTS
 
 I would like to thank Keith Morley, the Rev. Erik Sandstrom,
 Sr., David Childs, and my wife Helga for their advice and support.
@@ -60,9 +36,7 @@ encouragement  and  affection  for  the  subject  matter  are  deeply
 heartening. In particular I would like to thank Karin Alfelt Childs
 for her careful scholarship and sensitive perceptions.
 
-NOTE FROM THE AUTHOR
-
-The Theological Writings of Emanuel Swedenborg are quoted
+NOTE FROM THE AUTHOR The Theological Writings of Emanuel Swedenborg are quoted
 and referred to throughout this book as the source for much of the
 information about the inner life of Jesus. However, these Writings
 do not tell of the Lord’s inner life in a continuous way, because they
@@ -71,189 +45,63 @@ study  and  reflection,  I  have  filled  in  some  gaps.  With  the  same
 approach I also have matched descriptions of the Lord’s inner life
 with known incidents in His life on earth.
 
-TABLE OF CONTENTS
+TABLE OF CONTENTS Introduction
 
-Introduction
+Abbreviations Glossary
 
-Abbreviations
+1. The Birth and Infancy of Jesus 2. The Early Education of Jesus Christ 3. The First Temptations of Jesus 4. Comfort and Insights for the Child Jesus 5. The First Rational of the Lord as a Child 6. The Salvation of Humankind 7. “His Mercy Is Forever”
 
-Glossary
+8. The Origin of Doctrine 9. The Birth of the Divine Rational 10. The Lord’s Most Grievous and Inmost Temptations 11. Enrichment of Jesus’ Rational 12. Birth of the Divine Natural 13. The Divine Rational Is Fully Blessed 14. The Natural Level of Jesus to be Glorified 15. The Means to Glorify the Natural 16. Initial Stages of Glorification of the Natural 17. Later Stages of Glorification of the Natural 8
 
-1. The Birth and Infancy of Jesus
+13 14
 
-2. The Early Education of Jesus Christ
+17 23
 
-3. The First Temptations of Jesus
+30 37
 
-4. Comfort and Insights for the Child Jesus
+41 48
 
-5. The First Rational of the Lord as a Child
+51 59
 
-6. The Salvation of Humankind
+63 68
 
-7. “His Mercy Is Forever”
+77 85
 
-8. The Origin of Doctrine
+92 95
 
-9. The Birth of the Divine Rational
+100 105
 
-10. The Lord’s Most Grievous and Inmost Temptations
 
-11. Enrichment of Jesus’ Rational
 
-12. Birth of the Divine Natural
 
-13. The Divine Rational Is Fully Blessed
+19. Advanced Glorification of the Natural 20. Further Glorification 21. The Lord’s Temptations in Glorifying His Natural 22. Glorification of the Natural Nears Completion 23. The Fallen Sensuous 24. Full Glorification of the Natural 25. Overview of the Glorification of the Sensuous 26. The Betrayal by the Hereditary Sensuous 27. Love of Dominion in the Hereditary Sensuous 28. Early Temptations in the Sensuous 29. The Setting for Jesus’ Sensuous Temptation 30. Steps in Glorifying the Sensuous 31. Divine Changes in the Sensuous 32. The New Will and Understanding in the Sensuous 33. The Sensuous Responds to a New Order 34. “New” Truths Come to Celestial Love 35. Temptations to Spiritual Theft 36. Celestial Love Revealed 37. Celestial Love and Charity Reunite 38. Rebirth of the Sensuous 39. A New Understanding and Will in the Sensuous 40. A Review of the Glorification 41. Anguish, Reconciliation, Glorification 117
 
-14. The Natural Level of Jesus to be Glorified
+122 127
 
-15. The Means to Glorify the Natural
+132 138
 
-16. Initial Stages of Glorification of the Natural
+141 146
 
-17. Later Stages of Glorification of the Natural
+152 157
 
-8
+160 164
 
-13
+169 174
 
-14
+181 187
 
-17
+191 197
 
-23
+203 211
 
-30
+217 224
 
-37
+233 238
 
-41
 
-48
 
-51
 
-59
-
-63
-
-68
-
-77
-
-85
-
-92
-
-95
-
-100
-
-105
-
-112
-
-18. Further Stages of Glorification of the Natural
-
-19. Advanced Glorification of the Natural
-
-20. Further Glorification
-
-21. The Lord’s Temptations in Glorifying His Natural
-
-22. Glorification of the Natural Nears Completion
-
-23. The Fallen Sensuous
-
-24. Full Glorification of the Natural
-
-25. Overview of the Glorification of the Sensuous
-
-26. The Betrayal by the Hereditary Sensuous
-
-27. Love of Dominion in the Hereditary Sensuous
-
-28. Early Temptations in the Sensuous
-
-29. The Setting for Jesus’ Sensuous Temptation
-
-30. Steps in Glorifying the Sensuous
-
-31. Divine Changes in the Sensuous
-
-32. The New Will and Understanding in the Sensuous
-
-33. The Sensuous Responds to a New Order
-
-34. “New” Truths Come to Celestial Love
-
-35. Temptations to Spiritual Theft
-
-36. Celestial Love Revealed
-
-37. Celestial Love and Charity Reunite
-
-38. Rebirth of the Sensuous
-
-39. A New Understanding and Will in the Sensuous
-
-40. A Review of the Glorification
-
-41. Anguish, Reconciliation, Glorification
-
-117
-
-122
-
-127
-
-132
-
-138
-
-141
-
-146
-
-152
-
-157
-
-160
-
-164
-
-169
-
-174
-
-181
-
-187
-
-191
-
-197
-
-203
-
-211
-
-217
-
-224
-
-233
-
-238
-
-247
-
-INTRODUCTION
-
-"For  if  you  believed  Moses,  you  would  believe  Me,  for  he
-
-wrote about Me" (John 5:46).
+"For  if  you  believed  Moses,  you  would  believe  Me,  for  he wrote about Me" (John 5:46).
 
 The  New  Testament  is  silent  about  much  of  Jesus’  life  as  an
 infant and child. What was happening then? What was He experi-
@@ -286,9 +134,8 @@ The  next  time  we  hear  of  Jesus,  He  is  thirty.  Eighteen  years
 have passed. What happened during these years? It seems that the
 Lord had stayed in Egypt for about three years before returning to
 
-8
 
-INTRODUCTION
+
 
 Nazareth  with  Joseph  and  Mary.  If  this  is  accurate,  nine  years
 passed  in  Nazareth  between  the  ages  of  three  and  twelve.  Nine
@@ -306,17 +153,13 @@ many legends. Some say He went to the lost tribes of Israel; others
 that He traveled to the Orient and taught there. But these are sim-
 ply guesses. There is no conclusive evidence.
 
-During His ministry on earth the Lord promised that He would
-
-disclose more.
+During His ministry on earth the Lord promised that He would disclose more.
 
 "I  still  have  many  things  to  say  to  you,  but  you  cannot  bear
 them  now.  However,  when  He,  the  Spirit  of Truth,  has  come,  He
 will guide you into all truth" (John 16:12,13).
 
-On  the  walk  to  Emmaus  with  two  of  His  followers  on  Easter
-
-afternoon, the Lord responded to their terrible anxieties:
+On  the  walk  to  Emmaus  with  two  of  His  followers  on  Easter afternoon, the Lord responded to their terrible anxieties:
 
 "Ought  not  Christ  to  have  suffered  these  things,  and  to  enter
 into His glory?" And beginning at Moses and all the Prophets, He
@@ -329,16 +172,13 @@ Scriptures to us?" (Luke 24:32)
 
 What did Jesus tell them? Did He reveal how, within the Old
 
-9
 
-THE PATH
+
 
 Testament,  Moses  and  the  Prophets  speak  about  His  own  life  on
 earth?
 
-Later in Luke we read that Jesus also unfolded the Scriptures to
-
-His disciples on Easter evening. He said to them, 
+Later in Luke we read that Jesus also unfolded the Scriptures to His disciples on Easter evening. He said to them,
 
 "These are the words which I spoke to you while I was still with
 you, that all things might be fulfilled which were written in the Law
@@ -370,13 +210,7 @@ did "the Word become flesh"? (John 1:14)
 
 The young virgin Mary was at first frightened and bewildered
 by the appearance of the angel Gabriel, announcing that she would
-give  birth  to  the  Savior  of  humankind.  And  yet,  despite  being
-
-10
-
-INTRODUCTION
-
-unable  to  fully  understand  what  this  event  would  mean,  she
+give  birth  to  the  Savior  of  humankind.  And  yet,  despite  being unable  to  fully  understand  what  this  event  would  mean,  she
 answered willingly from her heart: "Behold the maidservant of the
 Lord! Let it be to me according to your word" (Luke 1:38).
 
@@ -412,13 +246,7 @@ within the stories of Genesis and Exodus. These books are entitled
 Arcana  Coelestia (abbreviation  AC)  which  in  Latin  means
 Heavenly Secrets.
 
-The Arcana begins by describing the inner meaning or "internal
-
-11
-
-THE PATH
-
-sense"  of  the  stories  of  creation: Adam  and  Eve,  Cain  and Abel,
+The Arcana begins by describing the inner meaning or "internal sense"  of  the  stories  of  creation: Adam  and  Eve,  Cain  and Abel,
 Noah  and  the  flood,  and  the  tower  of  Babel.  For  instance,  in  the
 internal sense the stories of creation are the stories of our spiritual
 creation - of our regeneration, or rebirth, in seven "days" or seven
@@ -431,21 +259,16 @@ ness to the completion of His Divine mission. This is revealed in
 the  inner  meaning  of  the  stories  of  Abraham,  Isaac,  Jacob,  and
 Joseph.
 
-12
 
-ABBREVIATIONS
 
-Abbreviations  of  the  theological  Writings  of  Emanuel
 
-Swedenborg used in this volume:
+Abbreviations  of  the  theological  Writings  of  Emanuel Swedenborg used in this volume:
 
 AC
 TCR
 Lord
 SE
-CL
-
-Life
+CL Life
 AE
 Ath. Cr.
 
@@ -457,11 +280,7 @@ Conjugial Love
 (sometimes translated "True Marriage Love")
 Doctrine of Life (Part of "The Four Doctrines")
 Apocalypse Explained
-The Athanasian Creed
-
-All number references in the text refer to paragraphs, not pages,
-
-in conformity with Swedenborg’s own numbering system.
+The Athanasian Creed All number references in the text refer to paragraphs, not pages, in conformity with Swedenborg’s own numbering system.
 
 Most  references  to  the  Writings  are  from  Swedenborg
 Foundation  standard  editions  of  Arcana  Coelestia (John  F.  Potts
@@ -475,98 +294,46 @@ translations of Swedenborg’s works. Other Bible quotes are taken
 from the New King James Version (Copyright 1979, 1980, 1982 by
 Thomas Nelson, Inc.).
 
-13
 
-GLOSSARY
+
 
 Some terms used in certain translations of Swedenborg’s works.
 
-Ancient Church = religion of the people of ancient times,
-
-represented by Noah and his descendants
-
-Celestial = supremely heavenly; having a quality of highest
+Ancient Church = religion of the people of ancient times, represented by Noah and his descendants Celestial = supremely heavenly; having a quality of highest
 goodness and love (the quality of loving the Lord)
 
-Celestial of the spiritual = 1. heavenly and loving qualities on 
-the spiritual level; 2. good qualities that come from living 
-according to true beliefs from love
-
-Charity = love of the neighbor
+Celestial of the spiritual = 1. heavenly and loving qualities on the spiritual level; 2. good qualities that come from living according to true beliefs from love Charity = love of the neighbor
 Cognition = items of knowledge relating to interior things
-Conjugial love = the love in a monogamous marriage of souls, 
-
-minds, and bodies
-
-Correspondence = the relationship between things on two
-
-different levels of reality, usually the spiritual and the physical
-
-Evil spirit = an evil person in the world of spirits
-Glorification = being exalted to glory (the process by which 
+Conjugial love = the love in a monogamous marriage of souls, minds, and bodies Correspondence = the relationship between things on two different levels of reality, usually the spiritual and the physical Evil spirit = an evil person in the world of spirits
+Glorification = being exalted to glory (the process by which
 
 Jesus became Divine)
 
-(The) hells = a collective reference to evil people in the spiritual 
+(The) hells = a collective reference to evil people in the spiritual world Mediate good = goodness that is not genuine but is allied to what is genuine and is useful Merit = taking credit or glory for achievements (in Swedenborg’s works, often used to describe taking credit for something in which credit really belongs to God)
 
-world
+Most Ancient Church = the most ancient religion in which highest love and perception ruled, represented by Adam and Eve
 
-Mediate good = goodness that is not genuine but is allied to what 
-
-is genuine and is useful
-
-Merit = taking credit or glory for achievements (in Swedenborg’s 
-works, often used to describe taking credit for something in 
-which credit really belongs to God)
-
-Most Ancient Church = the most ancient religion in which 
-
-highest love and perception ruled, represented by Adam and 
-Eve
-
-Natural = belonging to nature; worldly; earthly (in contrast with 
+Natural = belonging to nature; worldly; earthly (in contrast with
 
 “spiritual”)
 
-14
 
-GLOSSARY
+
 
 Proprium = what is one’s own; self; selfhood, the feeling of self
-Regeneration = the lifelong process of being spiritually reborn, 
-
-and of becoming an angel
-
-Remains = good loves and thoughts that are deeply impressed on 
-the inner part of a person and “remain” with him (the most
+Regeneration = the lifelong process of being spiritually reborn, and of becoming an angel Remains = good loves and thoughts that are deeply impressed on the inner part of a person and “remain” with him (the most
 significant of these are acquired in infancy)
 
-Sensuous = involving the senses; physical sensation; the part of 
-the mind that draws evidence and experience from the senses
-Spiritual = 1. belonging to the spirit (with special emphasis on 
-
-the quality of truth in contrast to “celestial” which is a quality 
-of goodness and love); 2. not natural; not external; higher 
-level than the natural
-
-Spiritual of the celestial = truth that comes from celestial
-
-goodness
-
-Most of these definitions are drawn from Words in Swedenborg and
+Sensuous = involving the senses; physical sensation; the part of the mind that draws evidence and experience from the senses
+Spiritual = 1. belonging to the spirit (with special emphasis on the quality of truth in contrast to “celestial” which is a quality of goodness and love); 2. not natural; not external; higher level than the natural Spiritual of the celestial = truth that comes from celestial goodness Most of these definitions are drawn from Words in Swedenborg and
 Their Meanings in Modern English by Frank Rose (General Church
 Press, 1985).
 
-15
 
-Chapter One
 
-THE BIRTH AND INFANCY OF JESUS
 
-THE CALL OF ABRAM
-GENESIS 12, VERSES 1-7
-
-Jehovah tells Abram to leave Haran.
+THE BIRTH AND INFANCY OF JESUS THE CALL OF ABRAM
+GENESIS 12, VERSES 1-7 Jehovah tells Abram to leave Haran.
 
 Abram takes his wife and family to Canaan.
 
@@ -589,13 +356,7 @@ Jehovah’s  appearing  to Abram  and  calling  him  out  of  Haran  to  a
 land that “I will cause you to see.”
 
 Genesis 12 says:
-“And  Jehovah  said  to Abram,  ‘Go  away  from  your  land,
-
-17
-
-THE PATH, CHAPTER 1
-
-and  from  the  place  of  your  nativity  and  from  your  father’s
+“And  Jehovah  said  to Abram,  ‘Go  away  from  your  land, and  from  the  place  of  your  nativity  and  from  your  father’s
 house, to the land that I will cause you to see. And I will make
 you a great nation. . . .’ And Abram went as Jehovah had told
 him. . . .And they came to go into the land of Canaan; and into
@@ -631,13 +392,7 @@ or spiritual by regeneration from the Lord” (AC 4594).
 
 “Spiritual” refers to things concerned with the spirit, with a spe-
 cial  emphasis  on  the  quality  of  truth.  “Celestial”  refers  to  even
-deeper, more heavenly aspects of the spirit, which have to do with
-
-18
-
-THE BIRTH AND INFANCY OF JESUS
-
-goodness  and  love.  We  humans  are  born  “natural,”  meaning  that
+deeper, more heavenly aspects of the spirit, which have to do with goodness  and  love.  We  humans  are  born  “natural,”  meaning  that
 our first concerns have to do with worldly and physical things. We
 have to learn and grow to achieve appreciation of things of the spir-
 it. The Lord, on the other hand, is born a “spiritual-celestial” per-
@@ -675,9 +430,8 @@ heredity that He received through Mary, a finite human mother, He
 has to combat inclinations toward the same hellish desires that we
 finite humans have to fight.
 
-19
 
-THE PATH, CHAPTER 1
+
 
 Jesus is a child born with pure love. How this love is developed
 is revealed in the inner meaning of Genesis as it unfolds the com-
@@ -716,13 +470,7 @@ Jesus  responds  to  Jehovah’s  call,  leaving  lower  bodily  things
 and  traveling  toward  the  celestial  itself.  We  read  in  Genesis  12,
 “and into the land of Canaan they came” (Gen. 1:5). This rep-
 resents  that  Jesus  “attained  to  the  celestial  things  of  love”  (AC
-1438). Canaan represents heaven and also represents the Divine as
-
-20
-
-THE BIRTH AND INFANCY OF JESUS
-
-the  origin  of  all  things.  The  infant  Jesus  was  looking  upward  to
+1438). Canaan represents heaven and also represents the Divine as the  origin  of  all  things.  The  infant  Jesus  was  looking  upward  to
 Divine Love.
 
 The celestial things of love are the inmost keys to life. Every
@@ -748,7 +496,7 @@ within Him.
 This  infant  is  specially  endowed  and  Divinely  protected.
 Imagine how the hells lust to attack and destroy Him in these ear-
 liest states. But they cannot. They cannot even approach closely, for
-the Divine Soul protects Him. 
+the Divine Soul protects Him.
 
 At the same time, this infant has inherited tendencies to evil.
 In this early innocent state these are quiescent, but they are pres-
@@ -759,13 +507,7 @@ This is represented by the phrase: “and the Canaanite was then
 in the land” (AC 1444).
 
 “And Jehovah appeared to Abram. . . and there he built an
-altar  to  Jehovah Who  appeared  to  him”  (Gen.  12:7). It  would
-
-21
-
-THE PATH, CHAPTER 1
-
-follow  from  the  whole  purpose  of  the  life  of  Jesus  that  Jehovah
+altar  to  Jehovah Who  appeared  to  him”  (Gen.  12:7). It  would follow  from  the  whole  purpose  of  the  life  of  Jesus  that  Jehovah
 would appear to Him (see AC 1445). The altar Abram built is Jesus’
 initial worship of Jehovah.
 
@@ -805,16 +547,8 @@ This is unique. It is a preparation for His Divine mission.
 ---
 ~~~
 
-== Chapter Two
-
-THE EARLY EDUCATION OF
-
-JESUS CHRIST
-
-ABRAM’S TRAVELS
-GENESIS 12, VERSES 8-20
-
-Abram and his family journey to Bethel.
+== Chapter Two THE EARLY EDUCATION OF JESUS CHRIST ABRAM’S TRAVELS
+GENESIS 12, VERSES 8-20 Abram and his family journey to Bethel.
 
 Then they journey further, to the south.
 
@@ -833,13 +567,7 @@ The New Testament story implies that after Jesus is presented
 in the temple, Joseph and Mary return with Him to Bethlehem and
 there find a home in which to live. There the wise men from the east
 come to find the babe. They “fell down and worshiped Him. And
-when  they  had  opened  their  treasures,  they  presented  unto  Him
-
-23
-
-THE PATH, CHAPTER 2
-
-gifts: gold, frankincense and myrrh” (Matt. 2:11). These gifts rep-
+when  they  had  opened  their  treasures,  they  presented  unto  Him gifts: gold, frankincense and myrrh” (Matt. 2:11). These gifts rep-
 resent their love, faith, and obedience.
 
 The  wise  men  are  among  the  last  people  of  an  Ancient
@@ -877,9 +605,8 @@ Abram’s traveling down into Egypt and “sojourning” there rep-
 resent the Lord’s instruction and gaining knowledge from the Word
 of  God.  This  Word  exists  in  the  Old  Testament  and  in  an  older
 
-24
 
-THE EARLY EDUCATION OF JESUS CHRIST
+
 
 Ancient Word1, as well as other ancient knowledge, including the
 hidden  symbolism  in  nature  itself.  For  Egypt  symbolizes  knowl-
@@ -912,18 +639,15 @@ for the sake of uplifting others. This happens in Providence from His
 Soul, so that He learns this wonderful knowledge with great swift-
 ness and eagerness. But later He is made aware that He must rise
 above loving this knowledge merely for the sake of the delight that
-it gives Him. He must yield up that delight to a higher one, a delight
-
-A  written  revelation  that  existed  among  the  Ancients  before  the  Israelitish  Word.
+it gives Him. He must yield up that delight to a higher one, a delight A  written  revelation  that  existed  among  the  Ancients  before  the  Israelitish  Word.
 1.
 Moses was acquainted with this Ancient Word. From it He acquired the symbolic stories of
 creation, Adam and Eve, Noah, and the Tower of Babel. Moses also refers to portions of the
 Ancient Word in Numbers 21:14, 15, 27-30, and references are made in 2 Samuel 1:17, 18
-and Joshua 10:12,13 (cf. TCR 264-266)] 
+and Joshua 10:12,13 (cf. TCR 264-266)]
 
-25
 
-THE PATH, CHAPTER 2
+
 
 in learning for the sake of loving others. Knowledge is not an end in
 itself but a means of showing kindness to others out of genuine love.
@@ -935,16 +659,12 @@ higher and more delightful state of the deepest love for others (AC
 1492, see also AC 1462:6).
 
 ABRAM AND LOT SEPARATE
-GENESIS 13
-
-After the famine, Abram and his family return
+GENESIS 13 After the famine, Abram and his family return
 to Canaan.
 
-The herdsman for both Abram and Lot, Abram’s 
-nephew, fight over the land.
+The herdsman for both Abram and Lot, Abram’s nephew, fight over the land.
 
-Once Lot has left, Jehovah shows Abram the land 
-and promises the land to him and his descendants.
+Once Lot has left, Jehovah shows Abram the land and promises the land to him and his descendants.
 
 After the famine eased, Abram and his entire family went up
 out of Egypt and returned to the land of Canaan. So too, after
@@ -961,13 +681,10 @@ goes on learning while in Nazareth, but the level of learning then is
 on a celestial or inmost plane rather than the lower plane symbol-
 ized by Egypt.
 
-As  a  young  boy  in  Nazareth,  the  Lord  experiences  heavenly
+As  a  young  boy  in  Nazareth,  the  Lord  experiences  heavenly states. The Arcana says of Abram traveling back up to Canaan:
 
-states. The Arcana says of Abram traveling back up to Canaan: 
 
-26
 
-THE EARLY EDUCATION OF JESUS CHRIST
 
 “Described here is the state of His external man as it existed in
 childhood when it was first endowed with facts and cognitions —
@@ -1005,13 +722,7 @@ very young. “Herdsmen” or shepherds symbolize “those who teach”
 herdsmen  shows  a  picture  of  the  disagreement  between  what  is
 “teaching” the internal level of young Jesus and what is “teaching”
 His external level. The deeper part of Jesus is being taught by celes-
-tial  love  coming  from  Jehovah,  and  the  external  part  of  Jesus  is
-
-27
-
-THE PATH, CHAPTER 2
-
-being taught by what He is sensing outwardly. At this time, the two
+tial  love  coming  from  Jehovah,  and  the  external  part  of  Jesus  is being taught by what He is sensing outwardly. At this time, the two
 points  of  view  are  not  in  agreement.  Evil  influences  that  come
 through  Jesus’  finite  maternal  heredity  are  clouding  His  sensory
 awareness, tempting Him to false and confused ideas.
@@ -1045,13 +756,7 @@ the east, and towards the west’ ” (Gen. 13:14).
 
 At this time the child Jesus is in a state that allows Him, from
 His Soul, to see things to come. Looking toward the north, south,
-east, and west means to see all people, as many as there are in the
-
-28
-
-THE EARLY EDUCATION OF JESUS CHRIST
-
-universe (AC 1601). Those Jesus sees in the north are people who
+east, and west means to see all people, as many as there are in the universe (AC 1601). Those Jesus sees in the north are people who
 are in darkness in regard to spiritual truths and knowledges; those
 in the south are people who are in spiritual light. Those in the east
 are people who lived in the past, and also those in celestial love,
@@ -1069,39 +774,27 @@ Divine all-seeing power.
 ---
 ~~~
 
-== Chapter Three
-
-THE FIRST TEMPTATIONS OF JESUS
-
-THE BATTLE OF THE KINGS
-GENESIS 14
-
-In the land where Abram lives there is an alliance of 
-four kings and an opposing alliance of five kings.
+== Chapter Three THE FIRST TEMPTATIONS OF JESUS THE BATTLE OF THE KINGS
+GENESIS 14 In the land where Abram lives there is an alliance of four kings and an opposing alliance of five kings.
 
 The alliance of the four kings defeats the alliance
 of the five kings.
 
-Chedorlaomer, one of the kings in the four-king 
-alliance, captures Lot, who lives in Sodom.
+Chedorlaomer, one of the kings in the four-king alliance, captures Lot, who lives in Sodom.
 
-One citizen of Sodom escapes and tells Abram about 
-the capture of Lot.
+One citizen of Sodom escapes and tells Abram about the capture of Lot.
 
 Abram attacks and defeats Chedorlaomer, freeing Lot.
 
-Two kings in the land of Canaan meet and thank 
-Abram when he returns from defeating 
-Chedorlaomer.
+Two kings in the land of Canaan meet and thank Abram when he returns from defeating Chedorlaomer.
 
 Once the child Jesus has this vision of the north, south, east and
 west — of the past and future — it is inevitable that the hells will
 attack. They hate a love that undermines them, and they especially
 hate the Lord’s love for the salvation of the whole of humankind.
 
-30
 
-THE FIRST TEMPTATIONS OF JESUS
+
 
 The Lord’s vision of His purposes fulfilled is a declaration of war
 to the devils and satans. But Jesus is only in early childhood. Can
@@ -1141,9 +834,8 @@ the inhabitants of the lowest hells. Inevitably they attack the Lord
 as early in His life as possible, for they wish to approach Him when
 He is most vulnerable, and they are permitted to do so.
 
-31
 
-THE PATH, CHAPTER 3
+
 
 Dreadful  persuasions  filled  those  tribes  who  lived  before  the
 “flood”  (the  symbolic  end  of  the  Church  of  those  times  —  the
@@ -1180,13 +872,7 @@ spirits had lurked nearby from the moment He was born, Jehovah
 did not permit them to attack. Just as with us, Jehovah does not per-
 mit  temptations,  or  attacks  by  the  forces  of  hell,  until  Jesus  first
 learns  something  about  the  distinctions  between  good  and  evil.
-With us, these full assaults do not happen until adulthood. But with
-
-32
-
-THE FIRST TEMPTATIONS OF JESUS
-
-this  boy,  our  Savior,  they  happen  in  youngest  childhood.  Once
+With us, these full assaults do not happen until adulthood. But with this  boy,  our  Savior,  they  happen  in  youngest  childhood.  Once
 Jesus has gained some initial knowledge and insight, the hells are
 let loose, and they attack with a vengeance.
 
@@ -1222,13 +908,7 @@ bring trouble at a later time.
 The Lord’s intense love for humankind and His desire to save
 us are demonstrated by His willingness to endure these trials, and
 the  fact  that  they  begin  for  Him  in  what  for  others  is  the  age  of
-innocence and ignorance. He is born with a love for our salvation,
-
-33
-
-THE PATH, CHAPTER 3
-
-and fostering this is to be His inmost joy (AC 2034). This is what
+innocence and ignorance. He is born with a love for our salvation, and fostering this is to be His inmost joy (AC 2034). This is what
 sustains Him in childhood.
 
 However, not all of His states are those of temptations or trial.
@@ -1266,9 +946,8 @@ With such merit, “The ignorance excuses, and the innocence makes
 it  appear  good”  (Ibid.)  Children  hunger  for  appropriate  praise;  it
 will  lead  them  later  to  praise  of  the  Lord  (see  AC  1661).
 
-34
 
-THE FIRST TEMPTATIONS OF JESUS
+
 
 Recognition of merit’s usefulness is a key element behind the “self-
 esteem” movement that is popular today. But when the Lord feels
@@ -1304,13 +983,7 @@ the bread and wine given to Abram prefigure the Holy Supper. The
 Lord gains Divine “remains” in these earliest victories (AC 1734),
 and in the victories does not use or retain any of the methods or
 tactics  or  motivations  of  the  hells  (AC  1739-1748),  as  when
-Abram says to the King of Sodom “. . .nor anything that is yours
-
-35
-
-THE PATH, CHAPTER 3
-
-will I take” (Gen. 14:23). It is the same with His invitation to us:
+Abram says to the King of Sodom “. . .nor anything that is yours will I take” (Gen. 14:23). It is the same with His invitation to us:
 if we turn to Him in dire temptation, He will lead us to victory and
 freedom.
 
@@ -1319,17 +992,8 @@ freedom.
 ---
 ~~~
 
-== Chapter Four
-
-COMFORT AND INSIGHTS FOR
-
-THE CHILD JESUS
-
-THE VISION OF THE STARS
-GENESIS 15
-
-Jehovah comes to Abram in a vision and makes a 
-promise to him that his descendants will be in
+== Chapter Four COMFORT AND INSIGHTS FOR THE CHILD JESUS THE VISION OF THE STARS
+GENESIS 15 Jehovah comes to Abram in a vision and makes a promise to him that his descendants will be in
 number like the stars in the sky.
 
 “After these events, the word of Jehovah came to Abram in
@@ -1347,13 +1011,7 @@ which brings an “inmost revelation” (AC 1784).
 After these events the child Jesus laments that there is no spiri-
 tual  depth  in  the  church  on  earth.  This  is  embodied  in  Abram’s
 words  “seeing  I  go  childless”  (Gen.  15:2). Jesus  can  only  see  a
-church of an external nature without inner heart. Would this be His
-
-37
-
-THE PATH, CHAPTER 4
-
-heir?  Would  there  be  no  real  celestial  love,  no  mutual  love  and
+church of an external nature without inner heart. Would this be His heir?  Would  there  be  no  real  celestial  love,  no  mutual  love  and
 heavenly kindness? He can see that “there was no internal dimen-
 sion to the church” (AC 1797).
 
@@ -1391,13 +1049,7 @@ heaven, or to the Lord’s Love. They instinctively knew the corre-
 spondences  of  mountains,  seas,  lakes,  meadows,  woods,  flowers,
 animals, birds, and, in fact, all things of creation.
 
-A touch of this instinctive feeling or perception is left with us
-
-38
-
-COMFORT AND INSIGHTS FOR THE CHILD JESUS
-
-today,  perhaps  from  our  remains  or  from  the  very  order  of  our
+A touch of this instinctive feeling or perception is left with us today,  perhaps  from  our  remains  or  from  the  very  order  of  our
 souls. We see a soaring snowcapped mountain and sense its power.
 We  do  not  know  without  instruction  that  high  mountains  corre-
 spond to love of the Lord, a love soaring to the skies, yet we seem
@@ -1432,42 +1084,26 @@ eousness” (Gen. 15:6).
 “What is meant here by “believing in Jehovah” is that the Lord
 was filled repeatedly with an inmost confidence and faith. He was
 shown, and He believed, that because it was pure love from which
-He  was  fighting  for  the  salvation  of  the  whole  human  race,  He
-
-39
-
-THE PATH, CHAPTER 4
-
-could not be anything but victorious” (AC 1812).
+He  was  fighting  for  the  salvation  of  the  whole  human  race,  He could not be anything but victorious” (AC 1812).
 
 The Lord offers this same hope for us in our temptations. His
 pure  love,  glorified,  conquers  death,  and  rises  in  resurrection.
 Because of this, when our bodies die, His Divine love also lifts us
 up. No force can resist this.
 
-40
 
-THE FIRST RATIONAL OF THE LORD
 
-Chapter Five
 
-AS A CHILD
-
-ISHMAEL
-GENESIS 16
-
-Sarai, Abram’s wife, is unable to have a child, so she 
-has her servant Hagar conceive a child from Abram.
+Chapter Five AS A CHILD ISHMAEL
+GENESIS 16 Sarai, Abram’s wife, is unable to have a child, so she has her servant Hagar conceive a child from Abram.
 
 Hagar gives birth to a son named Ishmael.
 
 Hagar now feels superior to her mistress.
-Sarai is disturbed by this, and tries to humble her. 
+Sarai is disturbed by this, and tries to humble her.
 Hagar runs away.
 
-An angel appears to Hagar and tells her to return 
-to Sarai. The angel also tells her that Ishmael 
-will be a wild man, struggling against everyone.
+An angel appears to Hagar and tells her to return to Sarai. The angel also tells her that Ishmael will be a wild man, struggling against everyone.
 
 Ishmael represents the first “rational,” or first reasoning ability, of
 the Lord and of ourselves. Understanding the nature of this first rea-
@@ -1479,9 +1115,8 @@ itual  thinking.  Humanity  begins  in  the  inmost  of  this  true  rational,
 which is the “Isaac” reasoning ability, not the “Ishmael” (AC 2194).
 Who is Ishmael spiritually? What is his role? The drama in the
 
-41
 
-THE PATH, CHAPTER 5
+
 
 Genesis story (chapter 16) gives the key. Since Sarai was barren,
 it was necessary that Ishmael be born to provide an heir at this
@@ -1518,13 +1153,7 @@ thinking is born. This is an outer reasoning, thinking from worldly
 knowledge.
 
 When is this “Ishmael rational” born within Him? I believe He
-is  younger  than  twelve  years  old.  The  second  or  Isaac  rational
-
-42
-
-THE FIRST RATIONAL OF THE LORD AS A CHILD
-
-seems to be speaking in the temple when the Lord is twelve. For all
+is  younger  than  twelve  years  old.  The  second  or  Isaac  rational seems to be speaking in the temple when the Lord is twelve. For all
 who  heard  Jesus  then  “were  astonished  at  His  understanding  and
 answers” (Luke 2:47). And He said to Joseph and Mary, “Did you
 not know that I must be about My Father’s business?” or literally,
@@ -1560,13 +1189,7 @@ this state?
 regards everyone as being in error, is instantly prepared to rebuke,
 to chasten, and to punish, shows no pity, does not apply himself and
 makes no effort to redirect people’s thinking; for he views every-
-thing from the standpoint of truth, and nothing from the standpoint
-
-43
-
-THE PATH, CHAPTER 5
-
-of good. In short, he is a hard person” (AC 1949:2).
+thing from the standpoint of truth, and nothing from the standpoint of good. In short, he is a hard person” (AC 1949:2).
 
 An  even  lower  element  in  this  first  reasoning  is  seen  when  it
 does  not  acknowledge  truth,  but  rather  reasons  from  the  senses
@@ -1602,13 +1225,7 @@ jugated, and so it is said that Hagar runs away from her mistress,
 Sarai. But then, in the wilderness, the Angel of Jehovah comes
 to Hagar, and speaks to her. The Angel tells Hagar to go back
 and submit to her mistress, and then describes the nature of the
-son that will be born to her. As Hagar listens, she softens, and
-
-44
-
-THE FIRST RATIONAL OF THE LORD AS A CHILD
-
-marvels at the power of the “God Who Sees.”
+son that will be born to her. As Hagar listens, she softens, and marvels at the power of the “God Who Sees.”
 
 The voice of Jehovah, represented by the Angel, comes down
 into the first rational stirrings within the mind of young Jesus. His
@@ -1645,13 +1262,7 @@ that softens the hardness of that initial way of thinking is goodness
 — the good of kindness. This is the heart of the second rational.
 
 The  Lord  as  a  boy  thinks  from  higher  truth  and  from  higher
-love, and from these He subdues the evil tendencies that affect His
-
-45
-
-THE PATH, CHAPTER 5
-
-first reasoning. Because He does this, He makes it possible for us
+love, and from these He subdues the evil tendencies that affect His first reasoning. Because He does this, He makes it possible for us
 to do the same. With the Lord’s help we are able to fight against
 false reason — reason that is tied to conceit. Our minds can become
 free to see and love Divine truth. “If you abide in My Word, then
@@ -1687,13 +1298,7 @@ ceit, has viciously attacked churches in the past. It also destroys our
 own individual perception or sight of truth. Our arrogance does not
 like to admit this, true though it is.
 
-But  the  affirmative  principle,  thinking  from  the  Lord’s  light,
-
-46
-
-THE FIRST RATIONAL OF THE LORD AS A CHILD
-
-opens our eyes (Ibid.). This is a promise to each of us, and it is true.
+But  the  affirmative  principle,  thinking  from  the  Lord’s  light, opens our eyes (Ibid.). This is a promise to each of us, and it is true.
 In the journey and development of the Lord as a boy, Isaac replaces
 Ishmael.
 
@@ -1702,23 +1307,12 @@ Ishmael.
 ---
 ~~~
 
-== Chapter Six
+== Chapter Six THE SALVATION OF HUMANKIND A COVENANT
+GENESIS 17 Jehovah makes a covenant with Abram, that he will be a father of many nations, and Jehovah changes his name to Abraham.
 
-THE SALVATION OF HUMANKIND
+The sign of the covenant between Jehovah and Abraham, as well as his descendants, is that Abraham and his descendants will be circumcised.
 
-A COVENANT
-GENESIS 17
-
-Jehovah makes a covenant with Abram, that he will 
-be a father of many nations, and Jehovah changes 
-his name to Abraham.
-
-The sign of the covenant between Jehovah and 
-Abraham, as well as his descendants, is that 
-Abraham and his descendants will be circumcised.
-
-Abraham, Ishmael and all the men of his house 
-are circumcised.
+Abraham, Ishmael and all the men of his house are circumcised.
 
 Jehovah is Love itself. He, in essence, is the deepest possible
 love for others, the desire to be one with them, and to make them
@@ -1730,13 +1324,7 @@ sensitive moments that we can perceive something of His nature
 (AC 2077:1,2).
 
 In Genesis 17 Jehovah makes a covenant with Abram. This
-covenant pledges a closer union of Jehovah and the human part or
-
-48
-
-THE SALVATION OF HUMAN KIND
-
-human essence of Jesus. Jesus the boy is growing up. “He increased
+covenant pledges a closer union of Jehovah and the human part or human essence of Jesus. Jesus the boy is growing up. “He increased
 in wisdom and stature and in favor with God and men” (Luke 2:52).
 He has reasoning ability, represented by Ishmael. He has subordi-
 nated  His  reasoning  to  the  higher  love  within  Him,  bringing  in
@@ -1772,20 +1360,14 @@ made Divine His rational, His natural, His sensuous, and His very
 body, He becomes present with us in a way never before possible.
 He becomes present to save us.
 
-The  sign  of  the  covenant  between  Jehovah  and Abraham
-
-49
-
-THE PATH, CHAPTER 6
-
-was  circumcision  (Gen.  17:10). It  was  also  a  covenant  between
+The  sign  of  the  covenant  between  Jehovah  and Abraham was  circumcision  (Gen.  17:10). It  was  also  a  covenant  between
 Abraham and his “seed” or descendants. Spiritually this covenant is
 between  the  Lord  and  all  people,  and  it  leads  to  each  person’s
 rebirth,  for  all  that  are  willing.  Circumcision  symbolizes  “the
 removal and rejection of those things that were impeding and defil-
 ing  celestial  love”  (AC  2039).  To  reject,  from  the  Lord’s  power,
 those lusts and evils that impede our deepest love is to circumcise
-the heart. 
+the heart.
 
 Jehovah’s covenant with Abraham led to the further covenant
 with us. As we circumcise our hearts with deep prayer to the Lord,
@@ -1815,20 +1397,15 @@ the future reception of true marriage love (AC 2034, 2039).
 
 == Chapter Seven
 
-“HIS MERCY IS FOREVER” 
+“HIS MERCY IS FOREVER”
 
 ISAAC’S BIRTH FORETOLD
-GENESIS 18
-
-Jehovah appears to Abraham as three men (angels), 
-and Abraham and Sarah feed them.
+GENESIS 18 Jehovah appears to Abraham as three men (angels), and Abraham and Sarah feed them.
 
 Jehovah tells Abraham that he and Sarah will have
 a child.
 
-When the angels are going to leave, Abraham looks 
-toward Sodom with them, and discusses with 
-Jehovah His plan to destroy Sodom.
+When the angels are going to leave, Abraham looks toward Sodom with them, and discusses with Jehovah His plan to destroy Sodom.
 
 Abraham begs Jehovah to spare the city.
 
@@ -1839,13 +1416,7 @@ Jehovah’s  message  to  Abraham  and  Sarah  about  Isaac’s  future
 conception  and  birth;  and  finally  by  Jehovah’s  and  Abraham’s
 looking down upon Sodom and Gomorrah, and Abraham’s plead-
 ing with Jehovah that they be spared. These three events describe
-Jesus’  learning  about  the  perfect  Oneness  in  God,  the  coming
-
-51
-
-THE PATH, CHAPTER 7
-
-birth  of  His  Divine  rational  level,  and  about  the  extent  of
+Jesus’  learning  about  the  perfect  Oneness  in  God,  the  coming birth  of  His  Divine  rational  level,  and  about  the  extent  of
 Jehovah’s mercy.
 
 “And  Jehovah  appeared  to Abraham  in  the  oak-groves  of
@@ -1884,9 +1455,8 @@ and be close to Him. Abraham, representing the boy Jesus, asked
 the angels or Jehovah to stay and refresh themselves, and said
 that He would prepare food and drink for them (Gen. 18:4-8).
 
-52
 
-“HIS MERCY IS FOREVER”
+
 
 This symbolizes how the Divine accommodates itself to communi-
 cate  with  the  child. And  the  boy  Jesus  also  comes  into  a  special
@@ -1924,13 +1494,7 @@ laughed in disbelief. She thought that she and Abraham were
 far too old to have a child. Her disbelief illustrates our own lack
 of trust in the Lord’s inner miracles.
 
-In our lower states we find it incredible that something higher
-
-53
-
-THE PATH, CHAPTER 7
-
-and more beautiful can be born within us. The birth of the Lord in
+In our lower states we find it incredible that something higher and more beautiful can be born within us. The birth of the Lord in
 the human heart seems unbelievable at times. The coming of living
 faith to us as adults seems incredible. To this the Lord our Creator
 and Father says, “Will anything be too wonderful for Jehovah?”
@@ -1952,9 +1516,7 @@ rified rational, from that time until eternity, comes the salvation of
 each person. Within the child there is recognition of this, and sur-
 passing joy and gratitude, for this birth was to change the world.
 
-It is true that further development is needed to make this Divine
-
-birth complete, but the miracle is about to take place.
+It is true that further development is needed to make this Divine birth complete, but the miracle is about to take place.
 
 The  third  phase  of  Jesus’  being  taught  by  Jehovah  is  now  to
 begin.  It  concerns  the  nature  of  good  and  evil  within  humankind.
@@ -1969,9 +1531,8 @@ were forty-five, then if there were fewer and fewer, even down
 to ten. Abraham’s pleading represents Jesus’ great love and concern
 for  humankind,  and  His  fear  that  no  one  could  be  saved.  For
 
-54
 
-“HIS MERCY IS FOREVER”
+
 
 Jehovah  showed Abraham  “the  face  of  Sodom”  (Gen.  18:16),
 which represents the evil within human hearts.
@@ -2009,13 +1570,7 @@ The boy Jesus, with Jehovah, now views the various states of
 humankind throughout the earth, from the most regenerate, or spir-
 itually  developed,  to  the  least  regenerate,  and  then  to  those  con-
 firmed  in  evil.  The  descending  numbers  for  which  Jesus  pleads
-with Jehovah to spare the human race (fifty, forty-five, forty, thirty,
-
-55
-
-THE PATH, CHAPTER 7
-
-twenty, and ten) represent lesser and lesser degrees of good within
+with Jehovah to spare the human race (fifty, forty-five, forty, thirty, twenty, and ten) represent lesser and lesser degrees of good within
 various  people  on  earth.  By  means  of  this  looking  at  humankind
 together  with  His  Soul,  the  boy  Jesus  is  to  learn  many  beautiful
 things, and He has the chance for His human love to be strength-
@@ -2051,13 +1606,7 @@ Every decent human being is at times depressed over his or her
 evil. We feel then that there is nothing good enough within us to ever
 achieve heaven. This type of humility is not bad for us if we don’t
 then  give  in  to  evil.  Instead,  we  may  think  about  the  sparing  of
-Sodom  for  only  “ten,”  and  pray  to  the  Lord  for  His  presence  and
-
-56
-
-“HIS MERCY IS FOREVER”
-
-help. His mercy is infinite and deeply loving. What He is saying here
+Sodom  for  only  “ten,”  and  pray  to  the  Lord  for  His  presence  and help. His mercy is infinite and deeply loving. What He is saying here
 to each of us is, “I love you, and will save you, if you are only will-
 ing.” We need only to respond from the heart and show this by obey-
 ing His commandments, for this preserves our hidden innocence.
@@ -2072,13 +1621,9 @@ inmost  joy.  He  sees  that  many,  many  will  be  saved,  and  that  His
 purposes on earth will be fulfilled.
 
 LOT SAVED
-Genesis 19
+Genesis 19 The story shifts to Lot, Abraham’s nephew, who lives in the city of Sodom.
 
-The story shifts to Lot, Abraham’s nephew, who lives 
-in the city of Sodom.
-
-Two angels visit Lot in his home, and the home is 
-attacked by the people of Sodom.
+Two angels visit Lot in his home, and the home is attacked by the people of Sodom.
 
 Lot and his family flee; Sodom and Gomorrah
 are destroyed.
@@ -2092,13 +1637,7 @@ In the Divine drama of the Lord’s boyhood on earth, this is a
 prophecy  of  a  fulfillment  of  His  love  for  the  salvation  of
 humankind. In the rescuing of Lot and his daughters from Sodom,
 Jesus sees the present and future salvation of uncounted millions of
-human beings. He is moved at heart, but at the same time He sees
-
-57
-
-THE PATH, CHAPTER 7
-
-the inevitable reality that evil (Sodom) rushes to its own self-judg-
+human beings. He is moved at heart, but at the same time He sees the inevitable reality that evil (Sodom) rushes to its own self-judg-
 ment. He also realizes that some people will turn back from good
 and truth, and profane them, just as Lot’s wife turned back to look
 at Sodom and turned into a pillar of salt. He wishes it were not so.
@@ -2118,22 +1657,12 @@ towards it.
 ---
 ~~~
 
-== Chapter Eight
+== Chapter Eight THE ORIGIN OF DOCTRINE ABRAHAM, SARAH, AND ABIMELECH
+GENESIS 20 The story shifts back to Abraham and Sarah, who travel south to Gerar.
 
-THE ORIGIN OF DOCTRINE
+Abraham tells Abimelech, the king of Gerar, that Sarah is his sister, for fear that Abimelech will kill him to take Sarah for his own.
 
-ABRAHAM, SARAH, AND ABIMELECH
-GENESIS 20
-
-The story shifts back to Abraham and Sarah, who 
-travel south to Gerar.
-
-Abraham tells Abimelech, the king of Gerar, that 
-Sarah is his sister, for fear that Abimelech will kill 
-him to take Sarah for his own.
-
-God warns Abimelech in a dream not to take Sarah 
-for a wife, so Abimelech restores Sarah to Abraham.
+God warns Abimelech in a dream not to take Sarah for a wife, so Abimelech restores Sarah to Abraham.
 
 A final preparation is needed before Isaac, or the Divine ration-
 al, can be born. Abraham’s and Sarah’s sojourning in Gerar of
@@ -2146,13 +1675,7 @@ many gifts.
 Hidden  in  this  story  is  a  Divine  warning. Also  hidden  here  is
 how  the  Lord,  as  He  neared  the  end  of  childhood,  prepared  to
 receive the Divine “doctrine” or religious principles to live by. In
-infancy in Egypt, Jesus had been instructed in knowledges and had
-
-59
-
-THE PATH, CHAPTER 8
-
-received insights. Now, in a far more advanced state, He is taught
+infancy in Egypt, Jesus had been instructed in knowledges and had received insights. Now, in a far more advanced state, He is taught
 doctrinal  things  (AC  2496).  He  is  taught  how  to  convert  these
 knowledges and insights into spiritual principles for living.
 
@@ -2189,13 +1712,7 @@ finite human heredity (AC 2511).
 
 This story of Abraham, Sarah, and Abimelech seems to be an
 historical case of unintentional adultery. Spiritually, though, for the
-Lord and for us, it reveals a crucial axiom about external reasoning
-
-60
-
-THE ORIGIN OF DOCTRINE
-
-and its place in the search for faith. This axiom is not in harmony
+Lord and for us, it reveals a crucial axiom about external reasoning and its place in the search for faith. This axiom is not in harmony
 with  the  attitude  prevailing  in  much  of  higher  education,  which
 believes  that  “Of  course  you  use  reason  in  determining  what  is
 (spiritually) true! The scientific or inductive method is the key to
@@ -2232,9 +1749,8 @@ levels of our minds. Truths can be revealed or disclosed to our high-
 er  rational.  But  our  lower  rational  or  reasoning  simply  does  not
 have the ability to see or believe truths and goods that are on a high-
 
-61
 
-THE PATH, CHAPTER 8
+
 
 er  or  heavenly  level.  They  are  above  its  range  of  competence. A
 camel cannot go through the eye of a needle.
@@ -2247,24 +1763,16 @@ humility and with the affection of truth is to invite the Lord to open
 our eyes (AC 6047). A quiet miracle happens. “One thing I know:
 that whereas I was blind, now I see” (John 9:25).
 
-62
 
-THE BIRTH OF THE DIVINE RATIONAL
 
-Chapter Nine
 
-ISAAC
-GENESIS 21
+Chapter Nine ISAAC
+GENESIS 21 Isaac is born to Abraham and Sarah.
 
-Isaac is born to Abraham and Sarah.
-
-Ishmael mocks Isaac during the feast to celebrate 
-Isaac’s weaning, so Sarah banishes Hagar
+Ishmael mocks Isaac during the feast to celebrate Isaac’s weaning, so Sarah banishes Hagar
 and Ishmael.
 
-Hagar and Ishmael wander in the wilderness of 
-Beersheba and nearly die of thirst until God 
-leads them to water.
+Hagar and Ishmael wander in the wilderness of Beersheba and nearly die of thirst until God leads them to water.
 
 Hagar and Ishmael survive and settle in Egypt.
 
@@ -2279,9 +1787,8 @@ In the inmost meaning of this event from Genesis is the culmi-
 nation of the Lord’s entire childhood. What Isaac’s birth symbol-
 izes  and  what  it  means  to  humankind  is  profoundly  significant.
 
-63
 
-THE PATH, CHAPTER 9
+
 
 With  Jesus  Christ,  when  His  Divine  rational  is  born,  the  Divine
 Human has its beginning.
@@ -2321,9 +1828,8 @@ birth,  the  Lord  sees  the  means  (the  truths)  to  fulfill  His  inmost
 loves.  This  gives  a  new  character  to  His  human  essence.  He
 knows this ability is only in its infancy, but as it grows and is fur-
 
-64
 
-THE BIRTH OF THE DIVINE RATIONAL
+
 
 ther made Divine, it is part of the means of rescuing us. His heart
 is deeply moved.
@@ -2363,9 +1869,8 @@ that the merely human reasoning in His own maternal heredity has
 to be banished. This is what Sarah (the Divine Truth) asked. She
 asked that Ishmael be banished.
 
-65
 
-THE PATH, CHAPTER 9
+
 
 Abraham loved Ishmael, and he found it very hard at first
 to  banish  him  and  his  mother  Hagar. Jesus  feels  “grief  from
@@ -2403,9 +1908,8 @@ These  help  him  to  comprehend  doctrine  and  make  it  valid  in  his
 daily thinking and reflecting. We see much in human literature, in
 novels like Tolstoy’s War and Peace, in works of history, and psy-
 
-66
 
-THE BIRTH OF THE DIVINE RATIONAL
+
 
 chological studies like M. Scott Peck’s Further on the Road Less
 Traveled, that support and strengthen our faith.
@@ -2424,19 +1928,12 @@ Him inner consolation.
 ---
 ~~~
 
-== Chapter Ten
-
-THE LORD’S MOST GRIEVOUS
-AND INMOST TEMPTATIONS
-
-THE NEAR SACRIFICE OF ISAAC
-GENESIS 22
-
-God tells Abraham to sacrifice Isaac as a
+== Chapter Ten THE LORD’S MOST GRIEVOUS
+AND INMOST TEMPTATIONS THE NEAR SACRIFICE OF ISAAC
+GENESIS 22 God tells Abraham to sacrifice Isaac as a
 burnt offering.
 
-Abraham nearly sacrifices Isaac, but an angel of 
-Jehovah stops him and a ram is sacrificed instead.
+Abraham nearly sacrifices Isaac, but an angel of Jehovah stops him and a ram is sacrificed instead.
 
 Isaac  was  the  fulfillment  of  Jehovah’s  promise  to
 Abraham.  He  had  been  born,  circumcised,  and  in  due  time
@@ -2453,13 +1950,7 @@ Abraham  represents  the  Divine  Love  in  Jesus  in  His  human
 essence (AC 2816, 2795). Isaac here is the young Divine rational
 with  limited  vision  (AC  2795:2).  The  attack  is  about  to  happen.
 God called Abraham to take “your son, your only one, whom
-you love, even Isaac, and get to the land of Moriah, and offer
-
-68
-
-THE LORD’S MOST GRIEVOUS AND INMOST TEMPTATIONS
-
-him there for a burnt-offering upon one of the mountains which
+you love, even Isaac, and get to the land of Moriah, and offer him there for a burnt-offering upon one of the mountains which
 I will tell you of” (Gen. 22:2).
 
 God was calling Abraham to sacrifice his son whom he loved.
@@ -2497,13 +1988,7 @@ deeper truth within the Word of God was no longer acknowledged
 (AC 2813). Instead, religious leaders focused on the literal words
 of Scripture, with no interest in deeper Divine meanings. The liter-
 al words of Scripture could not remain alive without the presence
-of deeper truth, any more than a body can remain alive without the
-
-69
-
-THE PATH, CHAPTER 10
-
-presence of a soul. Only by bringing Divinity to rational thinking
+of deeper truth, any more than a body can remain alive without the presence of a soul. Only by bringing Divinity to rational thinking
 could Jesus establish truly rational thinking into the life of religion.
 In this way, He makes it possible for us to see and understand deep-
 er  truth  in  the  Word  of  God.  In  this  way,  He  creates  a  new  link
@@ -2539,9 +2024,8 @@ within,  another  state  was  strongly  present.  The  destination  was
 mountain signifies Divine Love (AC 2777), and with Jesus, it is His
 love for our salvation.
 
-70
 
-THE LORD’S MOST GRIEVOUS AND INMOST TEMPTATIONS
+
 
 This love for others and for their salvation transcends the dread
 of facing temptations. It is a love that is strongly present through-
@@ -2579,13 +2063,7 @@ In  the  story  in  Genesis,  Isaac  did  not  know  that  he  himself
 was to be sacrificed: “Behold the fire and the wood; and where
 is the lamb for a burnt-offering?” (Gen. 22:7) These words touch
 our  hearts.  In  the  celestial  sense,  they  go  even  more  deeply.  The
-young Divine rational, in a state of limited truth, asks the Divine
-
-71
-
-THE PATH, CHAPTER 10
-
-itself, “Where are those in the human race who are to ‘be sancti-
+young Divine rational, in a state of limited truth, asks the Divine itself, “Where are those in the human race who are to ‘be sancti-
 fied’ or who are to be saved? (see AC 2805). Where are the good
 people that I may save? I don’t see any.”
 
@@ -2624,9 +2102,8 @@ ently about to be destroyed. Jesus’ agony at this time is beyond our
 bearing. The hells are attempting to kill the young rational. It seems
 to the boy Jesus at the height of this temptation that He will fail.
 
-72
 
-THE LORD’S MOST GRIEVOUS AND INMOST TEMPTATIONS
+
 
 The hells maliciously attack with their rejection of the deep, inner
 truth that will save humankind. They inject into Him the message
@@ -2665,9 +2142,8 @@ Jesus the Divine Human begins in the inmost of His now glorified
 Divine Rational. No wonder the hells tried to destroy this great step
 into Divinity, but they failed.
 
-73
 
-THE PATH, CHAPTER 10
+
 
 Out of this temptation — Abraham’s nearly sacrificing Isaac —
 comes something wonderful (AC 2776). Before His birth on earth,
@@ -2690,7 +2166,7 @@ power to save and redeem (see TCR 109).
 There  is  an  ancient  prophecy  that  spoke  of  this.  “The  scepter
 shall not be removed from Judah, nor a lawgiver from between his
 feet, even until Shiloh comes” (Gen. 49:10), (AC 6371). “Judah”
-represents the celestial kingdom and the Human Divine. 
+represents the celestial kingdom and the Human Divine.
 
 But  this  is  changed  when  Shiloh  comes.  Shiloh  is  the  Lord
 Incarnate,  having  been  born  on  earth  and  then  Glorified  in  His
@@ -2706,13 +2182,7 @@ stops the temptation from continuing any longer (AC 2822).
 “And He said, ‘Put not forth your hand upon the boy, and
 do not do anything unto him; for now I know that you fear God,
 and you have not withheld your son, your only one, from Me’ ”
-(Gen. 22:12). This is liberation from the temptation. The tenderest
-
-74
-
-THE LORD’S MOST GRIEVOUS AND INMOST TEMPTATIONS
-
-love  was  under  attack  at  Moriah. This  liberation  brought  greatest
+(Gen. 22:12). This is liberation from the temptation. The tenderest love  was  under  attack  at  Moriah. This  liberation  brought  greatest
 joy.  The  inmost  love  of  the  boy  Jesus  is  moved  with  delight,
 because those He feared would be lost can now be saved! It would
 be akin to that incredible feeling of joy when a major war is over
@@ -2747,13 +2217,7 @@ gle our thinking, in facts or apparent facts and conflicting theories.
 With many students, the sciences and arts of higher education do
 not lead to an opening of the mind to the reality of the Lord. Instead
 they lead to entanglement and often to the negative view that there
-is no God and that we are animals. The ram is often caught, behind,
-
-75
-
-THE PATH, CHAPTER 10
-
-helpless. The Lord is fully aware of this weakness. In the tempta-
+is no God and that we are animals. The ram is often caught, behind, helpless. The Lord is fully aware of this weakness. In the tempta-
 tion at Mount Moriah and in the victory, He gives us the means of
 liberation  and  true  freedom.  Jesus  has  brought  Divinity  to  the
 rational level of human thinking, making it possible for rationality
@@ -2776,19 +2240,13 @@ through the death of Sarah in the next chapter. How does a death
 lead to enrichment? This will be shown through the inner meaning
 of the next step of the Divine story we are following.
 
-76
 
-THE ENRICHMENT OF JESUS’ RATIONAL
 
-Chapter Eleven
 
-THE DEATH OF SARAH
-GENESIS 23
+Chapter Eleven THE DEATH OF SARAH
+GENESIS 23 Sarah dies of old age.
 
-Sarah dies of old age.
-
-Abraham asks the sons of Heth, in the land of 
-Canaan, for a burial plot and they give him one.
+Abraham asks the sons of Heth, in the land of Canaan, for a burial plot and they give him one.
 
 Sarah is buried.
 
@@ -2805,13 +2263,7 @@ ers, for Your testimonies are my meditation. I understand more than
 the ancients, because I have kept Your precepts. I have restrained
 my feet from every evil way, that I may keep Your word. I have not
 departed from Your judgments, for You Yourself have taught me.
-How sweet are Your words to my taste, sweeter than honey to my
-
-77
-
-THE PATH, CHAPTER 11
-
-mouth! Through Your precepts I get understanding; therefore I hate
+How sweet are Your words to my taste, sweeter than honey to my mouth! Through Your precepts I get understanding; therefore I hate
 every false way” (Psalm 119: 97-104).
 
 Now in Chapter 23 of the Genesis story comes the death of
@@ -2846,13 +2298,7 @@ ease his grief. Ephron offers his sepulcher to Abraham.
 
 There are many levels of meaning to this story. In the internal
 historical  sense  Sarah’s  death  may  be  taken  as  a  prophecy  of  the
-end of the first Christian Church, which occurred when all charity
-
-78
-
-THE ENRICHMENT OF JESUS’ RATIONAL
-
-and faith had disappeared (AC 2908). Jesus on earth foresees that
+end of the first Christian Church, which occurred when all charity and faith had disappeared (AC 2908). Jesus on earth foresees that
 this will happen, and Abraham’s grief over Sarah’s death pictures
 His  grief  over  the  death  of  this  Christian  Church.  Such  as  is  the
 love, such is the grief. The Lord’s love is for the salvation of the
@@ -2887,13 +2333,7 @@ receive and live the new understanding and love that will be called
 the New Church. They show how these future people will gradual-
 ly discover the Lord, and then go through stages of mediate good,
 including merit, until at last they receive the Lord completely, and
-from  the  heart  come  to  ascribe  all  good  and  truth  to  Him.  This
-
-79
-
-THE PATH, CHAPTER 11
-
-promise  also  gives  the  Lord  joy.  The  cave  of  Machpelah,  where
+from  the  heart  come  to  ascribe  all  good  and  truth  to  Him.  This promise  also  gives  the  Lord  joy.  The  cave  of  Machpelah,  where
 Sarah was buried, may have a sad connotation naturally, but in the
 internal sense, it speaks of resurrection, of a rediscovery of the Lord
 upon this earth. It has within it the wonder of the Lord’s sepulcher
@@ -2902,17 +2342,11 @@ resurrection in joy.
 
 INNER UNION OF LOVE AND WISDOM IN THE DIVINE HUMAN
 REBEKAH AND ISAAC
-GENESIS 24
+GENESIS 24 Abraham has his servant travel to Mesopotamia, to the city of Nahor, to find a wife for Isaac among Abraham’s family in his homeland.
 
-Abraham has his servant travel to Mesopotamia, 
-to the city of Nahor, to find a wife for Isaac 
-among Abraham’s family in his homeland.
+The servant is led by Jehovah to find Rebekah, who is Abraham’s niece.
 
-The servant is led by Jehovah to find Rebekah, 
-who is Abraham’s niece.
-
-Rebekah consents to come back with the servant 
-of Abraham, and Isaac and Rebekah are married.
+Rebekah consents to come back with the servant of Abraham, and Isaac and Rebekah are married.
 
 Genesis next tells of Abraham’s wish that his son Isaac find
 a wife, one that comes from the land of Abraham’s origin (Gen.
@@ -2931,9 +2365,8 @@ mind that takes in outer knowledge (AC 3019). This is subservient
 to His Divine Love, just as the servant carries out the bidding of his
 master.  Now  that  the  Divine  Rational  level  (Isaac)  is  fully  estab-
 
-80
 
-THE ENRICHMENT OF JESUS’ RATIONAL
+
 
 lished, it must join with compatible truth that will come from natu-
 ral-level knowledge. Jesus wishes to go through the process that we
@@ -2973,9 +2406,8 @@ conjunction  between  the  Rebekah  and  Isaac  of  His  mind  takes
 place within Jesus, there will be no hope of conjugial love for the
 people on earth.
 
-81
 
-THE PATH, CHAPTER 11
+
 
 Abraham’s servant is led to the city of Nahor and comes to
 a well there. This pictures how Jesus travels into the knowledges
@@ -3012,13 +2444,7 @@ When we are young, we are taught doctrinal concepts, such as
 a wonderful thought, and it fills us with affection. Later, when we
 develop rational thinking, we can go back to these innocent, beau-
 tiful affections for doctrinal concepts. If we can then take them in
-and “marry” them to spiritual rational thinking, they will become
-
-82
-
-THE ENRICHMENT OF JESUS’ RATIONAL
-
-real truth for us. “God takes care of us” will no longer be just a nice
+and “marry” them to spiritual rational thinking, they will become real truth for us. “God takes care of us” will no longer be just a nice
 thing someone told us. It makes sense to us. We see it in life and
 believe it for ourselves. It becomes our own and is transformed, as
 the water was changed to wine at the marriage in Cana (Luke 2:9).
@@ -3054,13 +2480,7 @@ simply, the Lord says, “Yes, conjugial love is possible, and this is
 the story of how it starts. The Lord sends His angel.”
 
 This gift is not possible unless in the supreme sense Rebekah is
-found and led to Isaac. This Divine union is essential to the birth of
-
-83
-
-THE PATH, CHAPTER 11
-
-conjugial love with every human being. Isaac is the Divine good in
+found and led to Isaac. This Divine union is essential to the birth of conjugial love with every human being. Isaac is the Divine good in
 the Lord’s newly established Divine rational (AC 3210). This good
 with Him is key: from good or love comes all else that is truly alive,
 filled with buoyancy and potential joy. But good cannot be effec-
@@ -3103,14 +2523,8 @@ marriage of the Divine and Human within the Lord.
 ---
 ~~~
 
-== Chapter Twelve
-
-BIRTH OF THE DIVINE NATURAL
-
-ESAU AND JACOB
-GENESIS 25
-
-Abraham dies of old age.
+== Chapter Twelve BIRTH OF THE DIVINE NATURAL ESAU AND JACOB
+GENESIS 25 Abraham dies of old age.
 
 Isaac and Rebekah have twins, Jacob and Esau.
 
@@ -3133,9 +2547,8 @@ lives are changed. Through this growing intellectual faith we devel-
 op an inner orientation that looks to heaven and to the Lord. Our
 purposes in life are established in response to Him.
 
-85
 
-THE PATH, CHAPTER 12
+
 
 As we grow older and perhaps are married and have children,
 our perspectives change. We often focus more on life’s challenges
@@ -3174,9 +2587,8 @@ Swedenborg’s Writings reveal that the natural level “receives
 truths  much  later,  and  with  greater  difficulty,  than  the  rational”
 (AC  3321:3).  In  our  natural  minds  is  a  quality  that  opposes  the
 
-86
 
-BIRTH OF THE DIVINE NATURAL
+
 
 Lord, which fights against Him. It leads us into a darkness of mind
 (AC 3322:1,2).
@@ -3216,9 +2628,8 @@ en can actually come to us here in our homes and our work and our
 recreation.  Without  these  births  we  would  be  like  animals  in  our
 lower minds. Now, from the Lord, we can become human.
 
-87
 
-THE PATH, CHAPTER 12
+
 
 Right at the birth we glimpse how this change happens. “The
 elder  shall  serve  the  younger”  (Gen.  25:23). After  our  rational
@@ -3257,9 +2668,8 @@ This  is  clear  even  in  the  story,  where  Jacob  steals both  Esau’s
 birthright and his blessing. Jacob represents knowledge of truth
 from the Word that we compel ourselves to put into our lives. The
 
-88
 
-BIRTH OF THE DIVINE NATURAL
+
 
 Esau in us caves in to evil, but applied truth brings order and puts
 us on the path to the Lord.
@@ -3299,9 +2709,8 @@ delightful  learning  experiences  as  well  as  severe  temptations  in
 childhood.  His  mind  is  filled  with  perceptions  and  love  for
 Jehovah.  He  knows  His  future  mission  and  is  preparing  for  it.
 
-89
 
-THE PATH, CHAPTER 12
+
 
 Outwardly, he is an apprentice carpenter with his earthly stepfather.
 He must have been seen as an extra-ordinary child and youth, lov-
@@ -3333,19 +2742,13 @@ progress.  The  focus  in  the  glorification  now  shifts  to  Isaac  and
 then before long to Jacob. Each change represents a further stage
 in  the  glorification,  the  process  by  which  Jesus  would  become
 fully Divine, and an extending of the power of the Divine Human
-to save humankind. 
+to save humankind.
 
 In  the  broadest  sense,  we  see  an  aspect  of  childhood  with  us
 until we are thirty. Even contemporary psychology recognizes this.
 Although adult age is said to start at twenty (AC 10225), a part of
 us  is  still  in  childhood  states  for  another  decade  or  so  (see  AC
-5353).  It  is  in  harmony  with  this  that  Abraham  stayed  alive
-
-90
-
-BIRTH OF THE DIVINE NATURAL
-
-throughout much of Isaac’s life. Only a short time after Abraham
+5353).  It  is  in  harmony  with  this  that  Abraham  stayed  alive throughout much of Isaac’s life. Only a short time after Abraham
 died, when his representation of the Lord ceased, Jacob and Esau
 were born. States overlap, and one state becomes rich and full of
 remains before yielding to the next. “And Abraham gave all that
@@ -3362,42 +2765,21 @@ though this is not always evident.
 ---
 ~~~
 
-== Chapter Thirteen
+== Chapter Thirteen THE DIVINE RATIONAL IS FULLY BLESSED JEHOVAH BLESSES ISAAC
+GENESIS 26 Jehovah appears to Isaac and promises descendants
+“as the stars of heaven” and that they would be blessed.
 
-THE DIVINE RATIONAL IS
+Isaac tells the men of Gerar that Rebekah is his sister, for the same reason Abraham did earlier.
 
-FULLY BLESSED
+Abimelech, the king of the Philistines in Gerar, discovers Isaac’s deception and warns the men of Gerar not to touch Rebekah.
 
-JEHOVAH BLESSES ISAAC
-GENESIS 26
+Isaac begins to prosper in the land of the Philistines, and the Philistines quarrel with Isaac’s herdsmen over access to the well water in the land.
 
-Jehovah appears to Isaac and promises descendants 
-“as the stars of heaven” and that they would be 
-blessed.
-
-Isaac tells the men of Gerar that Rebekah is his 
-sister, for the same reason Abraham did earlier.
-
-Abimelech, the king of the Philistines in Gerar, 
-discovers Isaac’s deception and warns the men 
-of Gerar not to touch Rebekah.
-
-Isaac begins to prosper in the land of the Philistines, 
-and the Philistines quarrel with Isaac’s herdsmen 
-over access to the well water in the land.
-
-Isaac moves to Beersheba, makes peace with 
-Abimelech and is prosperous.
+Isaac moves to Beersheba, makes peace with Abimelech and is prosperous.
 
 In  Genesis  26  Jehovah  blesses  Isaac. More  deeply,  the  story
 tells how the Isaac rational with the Lord is enriched, and how the
-Lord rediscovers truths long since lost on this earth. If He is to order
-
-92
-
-THE DIVINE RATIONAL IS FULLY BLESSED
-
-and glorify His natural, the rational within Him also needs further
+Lord rediscovers truths long since lost on this earth. If He is to order and glorify His natural, the rational within Him also needs further
 glorification. It must be blessed. The blessing of His Divine ration-
 al comes from an even higher level within Himself, from His Soul.
 In  glorifying  His  Human,  Jesus  achieves  the  power  to  work
@@ -3432,13 +2814,7 @@ the mind, cannot easily conceive of a rational revelation as being
 Divine (AC 3394:2,3), but rather thinks of it as merely human, and
 thus here as a sister.
 
-Jesus Himself was attacked by the illusion that “Rebekah,” or
-
-93
-
-THE PATH, CHAPTER 13
-
-the truth He had gained from the Word of God, was only as a sister
+Jesus Himself was attacked by the illusion that “Rebekah,” or the truth He had gained from the Word of God, was only as a sister
 to Him. His finite maternal heredity instilled the false concept that
 rational  truths  inflowing  from  His  Soul  are  only  finite  and  not
 Divine. But He sees the horror of this suggestion that comes from
@@ -3460,30 +2836,14 @@ become “heaven-made.”
 ---
 ~~~
 
-== Chapter Fourteen
+== Chapter Fourteen THE NATURAL LEVEL OF JESUS TO BE GLORIFIED THE BLESSING OF JACOB AND ESAU
+GENESIS 27 Isaac has become very old and blind. He asks Esau to bring him a meal before he dies so that he can bless Esau.
 
-THE NATURAL LEVEL OF JESUS
+Rebekah overhears Isaac’s request and has Jacob, disguised as Esau, bring Isaac a meal to deceive him into blessing Jacob.
 
-TO BE GLORIFIED
+Isaac blesses Jacob. Esau returns, finds out that Jacob has stolen his blessing and begs Isaac for some type of blessing, which he receives.
 
-THE BLESSING OF JACOB AND ESAU
-GENESIS 27
-
-Isaac has become very old and blind. He asks 
-Esau to bring him a meal before he dies so that he 
-can bless Esau.
-
-Rebekah overhears Isaac’s request and has Jacob, 
-disguised as Esau, bring Isaac a meal to deceive 
-him into blessing Jacob.
-
-Isaac blesses Jacob. Esau returns, finds out that 
-Jacob has stolen his blessing and begs Isaac for 
-some type of blessing, which he receives.
-
-After hearing Esau threaten Jacob’s life, Rebekah 
-urges Jacob to flee to Laban, Rebekah’s brother, 
-in Haran.
+After hearing Esau threaten Jacob’s life, Rebekah urges Jacob to flee to Laban, Rebekah’s brother, in Haran.
 
 Chapter  27  of  Genesis  returns  to  the  story  of  Jacob  and
 Esau and the blessing of each by Isaac their father. Isaac was
@@ -3492,9 +2852,8 @@ now “old, and his eyes were dim that he could not see” (Gen.
 angels  do  not  know  what  old  age  is  because  they  are  perpetually
 young.  Instead,  “old”  means  “the  presence  of  a  new  state,”  (AC
 
-95
 
-THE PATH, CHAPTER 14
+
 
 3492) and this chapter deals with a new state in the Lord’s natural
 level.
@@ -3532,12 +2891,11 @@ and our thinking, about wishing for spontaneous good to rule with-
 in us, yet finding that it cannot. Truth must lead instead.
 
 My mind knows You are here
-But my heart, 
+But my heart,
 Oh my heart is left behind.
 
-96
 
-THE NATURAL LEVEL OF JESUS TO BE GLORIFIED
+
 
 I am leaving the door open for You.
 Please come through.
@@ -3545,7 +2903,7 @@ Please come through.
 My life is an open book
 Let the end be written by You.
 
-My hands are in Your hands; 
+My hands are in Your hands;
 Let them do as You want to.
 
 My spirit longs for You to
@@ -3557,9 +2915,7 @@ That earthly water cannot touch.
 Only a cup of Your water of life
 Can make me whole.
 
-Heather Childs
-
-Swedenborg’s Writings speak about the same subject that this
+Heather Childs Swedenborg’s Writings speak about the same subject that this
 song does: “The natural does not become new, or receive life cor-
 responding  to  the  rational,  that  is,  is  not  regenerated,  except  by
 means  of  doctrinal  things,  or  the  knowledges  of  good  and  truth”
@@ -3575,9 +2931,8 @@ us (AC 3504).
 Jacob  steals  the  blessing  because  the  initial  blessing  in  the
 rebirth  of  the  natural  level  is  by  means  of  truth,  represented  by
 
-97
 
-THE PATH, CHAPTER 14
+
 
 Jacob.  That  this  is  not the  way  the  Lord  originally  created  the
 process  of  spiritual  human  development  is  evident  from  the  fact
@@ -3613,15 +2968,12 @@ was working constantly to reject all thoughts and feelings that were
 not in accord with Divine Love, and thus glorify His human heart
 into a Divinely Human heart.
 
-In  establishing  this  path,  the  Lord’s  purpose  was  to  set  our
-
-hearts free, so that we will want to do only what is good. 
+In  establishing  this  path,  the  Lord’s  purpose  was  to  set  our hearts free, so that we will want to do only what is good.
 
 “Bless  the  Lord,  O  my  soul. And  forget  not  all  His  benefits:
 
-98
 
-THE NATURAL LEVEL OF JESUS TO BE GLORIFIED
+
 
 Who forgives all your iniquities, Who heals all your diseases, Who
 redeems your life from destruction, Who crowns you with loving-
@@ -3634,22 +2986,13 @@ things, so that your youth is renewed like the eagle’s” (Psalm 103:
 ---
 ~~~
 
-== Chapter Fifteen
+== Chapter Fifteen THE MEANS TO GLORIFY
+THE NATURAL JACOB’S LADDER
+GENESIS 28 Jacob leaves his father and mother to find a wife from Laban’s daughters.
 
-THE MEANS TO GLORIFY
-THE NATURAL
+Esau leaves also, to find a wife from Ishmael’s daughters.
 
-JACOB’S LADDER
-GENESIS 28
-
-Jacob leaves his father and mother to find a wife 
-from Laban’s daughters.
-
-Esau leaves also, to find a wife from Ishmael’s 
-daughters.
-
-On his journey Jacob has a dream about angels 
-descending and ascending on a ladder to God.
+On his journey Jacob has a dream about angels descending and ascending on a ladder to God.
 
 Isaac called Jacob, blessed him, and asked him to travel to
 Paddan-aram to find a wife from the daughters of Laban. Isaac
@@ -3663,13 +3006,7 @@ It is now time for the natural level of Jesus, His “everyday”
 mind represented by Jacob, to join with outer knowledge that will
 lead  this  level  to  Divinity.  Outer  knowledge  involves  simple
 truths found in the literal stories of the Word, as well as knowl-
-edge  of  how  things  function  in  nature,  and  the  outer,  everyday
-
-100
-
-THE MEANS TO GLORIFY THE NATURAL
-
-dealings among human beings.
+edge  of  how  things  function  in  nature,  and  the  outer,  everyday dealings among human beings.
 
 But  Jesus  must  not  join  with  outer  knowledge  that  denies  the
 existence  of  spiritual  and  celestial  truth,  symbolized  by  the
@@ -3704,13 +3041,7 @@ does not have the ability to discern among all the deeper issues that
 are so clear to His higher levels of consciousness.
 
 Jacob’s dream symbolizes something that is revealed to Jesus
-by His Divine Soul. Jesus is shown that there will indeed be a full
-
-101
-
-THE PATH, CHAPTER 15
-
-and active connection between the outer knowledge in His natural
+by His Divine Soul. Jesus is shown that there will indeed be a full and active connection between the outer knowledge in His natural
 mind  and  the  Divine  level  of  celestial  truth  and  goodness.  There
 will  be  “infinite  and  eternal”  communication  and  conjunction
 between the lowest truths of nature and the Word, and the highest
@@ -3748,9 +3079,8 @@ In  this  part  of  Genesis  our  own  natural  level  is  being  reborn
 (representatively) as to its thinking (truth) and as to its love (good).
 This is done step by step, symbolized by ascending a ladder of life.
 
-102
 
-THE MEANS TO GLORIFY THE NATURAL
+
 
 But first consider the setting that leads up to the dream and its sym-
 bolism. Jacob is now the central focus of the story. He represents a
@@ -3788,9 +3118,8 @@ this order. He establishes this ladder of life for us and makes it pos-
 sible for us to ascend. Doing this brings Him into severe struggles.
 Isaac said to Jacob his son, “God Shaddai will bless you” (Gen.
 
-103
 
-THE PATH, CHAPTER 15
+
 
 28:3). God Shaddai represents God’s presence during temptations
 (AC 3667). It is through temptations that Jesus, our Savior, makes
@@ -3835,28 +3164,17 @@ for My yoke is easy, and My burden light” (Matt. 11:28-30).
 ---
 ~~~
 
-== Chapter Sixteen
+== Chapter Sixteen INITIAL STAGES OF GLORIFICATION OF THE NATURAL JACOB IN HARAN: THE EARLY YEARS
+GENESIS 29 Jacob journeys to Paddan-aram and meets Laban’s daughter Rachel at a well.
 
-INITIAL STAGES OF GLORIFICATION
-
-OF THE NATURAL
-
-JACOB IN HARAN: THE EARLY YEARS
-GENESIS 29
-
-Jacob journeys to Paddan-aram and meets Laban’s 
-daughter Rachel at a well.
-
-Jacob loves Rachel and asks Laban for permission to 
-marry her.
+Jacob loves Rachel and asks Laban for permission to marry her.
 
 Laban tricks Jacob into marrying his older
 daughter, Leah.
 
-Laban says Jacob can also marry Rachel if he works 
-for seven more years, which Jacob does.
+Laban says Jacob can also marry Rachel if he works for seven more years, which Jacob does.
 
-Rachel is unable to have children, but Leah has four: 
+Rachel is unable to have children, but Leah has four:
 Reuben, Simeon, Levi, and Judah.
 
 Here at a well Jacob met Rachel, who was coming to water
@@ -3865,9 +3183,8 @@ watered her sheep, and then “Jacob kissed Rachel, and lifted
 up his voice and wept” (Gen. 29:11). Providence had led him
 to  his  kindred.  Soon  Laban,  Rachel’s  father,  came  to  meet
 
-105
 
-THE PATH, CHAPTER 16
+
 
 Jacob and took him into his home.
 
@@ -3908,9 +3225,8 @@ these  lower  truths prepares  for  the  deeper  marriage  with  Rachel
 
 Laban is the father of both Leah and Rachel. He symbolizes
 
-106
 
-INITIAL STAGES OF GLORIFICATION OF THE NATURAL
+
 
 a good that begets loves of truth, loves of the Word. This good is
 called “corporeal good” (AC 3778:3). Within us, “corporeal good”
@@ -3947,9 +3263,8 @@ nal truth” (AC 3758). She too is the daughter of Laban: the elder
 daughter. At first Jesus did not see deeply into the Word. His love
 for the Word was at first an external affection of truth or “weak-
 
-107
 
-THE PATH, CHAPTER 16
+
 
 eyed” which did not see the truths that could change the patterns
 in  His  not-yet-glorified  natural.  But  this  love  is  followed  by  a
@@ -3969,9 +3284,7 @@ Reuben, Simeon, Levi, and Judah, all sons of the affection of
 external truth (Leah), depict initial or preparatory stages that lead
 the  way  to  the  actual  glorification  of  the  natural.  They  depict  a
 “honeymoon” state, preparing for fundamental changes to follow.
-Reuben,  the  first-born,  literally  means  “has  seen.” With
-
-Jesus, Reuben represents “foresight” (AC 3859). 
+Reuben,  the  first-born,  literally  means  “has  seen.” With Jesus, Reuben represents “foresight” (AC 3859).
 
 “That in the supreme sense ‘to see’ is foresight must be evident,
 for the intelligence which is predicated of the Lord is infinite intel-
@@ -3987,13 +3300,7 @@ had been in darkness. It had lacked faith and real vision. But now a
 change is coming. The young Jesus is to experience an insight, a
 vision that initiates His natural into becoming Immanuel, God with
 us. His Soul, Jehovah, now unfolds before Him the inmost source
-of faith in the natural — Divine foresight. Here, in His natural, He
-
-108
-
-INITIAL STAGES OF GLORIFICATION OF THE NATURAL
-
-begins  to  see  with  new  eyes.  He  sees  things  past  and  future;  He
+of faith in the natural — Divine foresight. Here, in His natural, He begins  to  see  with  new  eyes.  He  sees  things  past  and  future;  He
 begins  to  foresee salvation  for  us,  and  glorification  for  Himself.
 This  foresight  is  a  glimpse  into  infinity,  a  seeing  into  unlimited
 promises and spiritual distances.
@@ -4028,13 +3335,7 @@ When Simeon is born to the Lord in His glorification, it leads
 Him to see how He can provide for us and lead us to heaven. We
 are  as  little  children  in  trying  to  perceive  how  this  is  so.  This
 Simeon state comes to Jesus while He still lives in Nazareth, acting
-outwardly as a carpenter. This too is representative, for carpenters
-
-109
-
-THE PATH, CHAPTER 16
-
-work with wood, using tools of iron. Wood corresponds to natural
+outwardly as a carpenter. This too is representative, for carpenters work with wood, using tools of iron. Wood corresponds to natural
 goodness, which is fashioned through natural truths (iron).
 
 “And Leah conceived again, and bare a son, and said, ‘Now
@@ -4069,13 +3370,7 @@ love (Judah) is at the top of the ladder, but there will be many more
 sons and rungs before the natural is fully glorified. The mother of
 these first four states is Leah who, as we have seen, represents an
 external affection  of  truth. This  indicates  that  more  beautiful  and
-powerful states are still to follow. These are represented by Jacob’s
-
-110
-
-INITIAL STAGES OF GLORIFICATION OF THE NATURAL
-
-experiences  in  his  later  years  in  Haran  as  he  gradually  becomes
+powerful states are still to follow. These are represented by Jacob’s experiences  in  his  later  years  in  Haran  as  he  gradually  becomes
 wealthy and has further sons and a daughter.
 
 For us, each of these first four sons represents a new state that
@@ -4091,21 +3386,10 @@ they bring happiness where before there was a feeling of misery.
 ---
 ~~~
 
-== Chapter Seventeen
+== Chapter Seventeen LATER STAGES OF GLORIFICATION OF THE NATURAL JACOB IN HARAN: THE LATER YEARS
+GENESIS 30 Rachel envies her sister and gives her maid Bilhah to Jacob. Bilhah has two sons named Dan and Naphtali.
 
-LATER STAGES OF GLORIFICATION
-
-OF THE NATURAL
-
-JACOB IN HARAN: THE LATER YEARS
-GENESIS 30
-
-Rachel envies her sister and gives her maid Bilhah to 
-Jacob. Bilhah has two sons named Dan and 
-Naphtali.
-
-Leah, who had stopped having children of her own, 
-gives her maid Zilpah to Jacob. Zilpah has two sons, 
+Leah, who had stopped having children of her own, gives her maid Zilpah to Jacob. Zilpah has two sons,
 Gad and Asher.
 
 The first four sons of Jacob were all born from Leah, and
@@ -4122,13 +3406,12 @@ conceived and bore Jacob a son. Rachel then said: “ ‘God has
 judged  me,  and  also  has  heard  my  voice,  and  has  given  me  a
 son’; therefore she called his name Dan” (Gen. 30:2-6, selected).
 
-112
 
-LATER STAGES OF GLORIFICATION OF THE NATURAL
+
 
 A new series of sons is now born, and the first of these is Dan. As
 the firstborn in this group, he represents the key to all that follows
-with this unit. 
+with this unit.
 
 In Jesus, Dan represents “justice and mercy” (AC 3920, 3923).
 As the young Jesus Christ comes into the actual glorification of His
@@ -4164,9 +3447,8 @@ love for each of us.
 
 In summary, the Lord instilled justice and mercy in His natural
 
-113
 
-THE PATH, CHAPTER 17
+
 
 (Dan) where before had been the finite heredity through Mary. He
 then endured further temptations (Naphtali), the real key to change
@@ -4206,9 +3488,8 @@ grasp  or  perception.  But  they  inflow  from  the  Lord,  through  His
 Divine  Human,  accommodated  to  our  daily  lives.  They  inflow
 through  the  operation  of  His  Holy  Spirit,  which  is  His  Divine
 
-114
 
-LATER STAGES OF GLORIFICATION OF THE NATURAL
+
 
 Human  touching  and  uplifting  our  hearts  and  minds.  For  Jesus
 Christ  on  earth,  His  coming  into  the  representation  of  Gad  is  a
@@ -4246,13 +3527,7 @@ hearts  on  riches;  if  they  are  raised  to  honors,  they  do  not  regard
 themselves as more worthy than others; if they become poor, they
 are  not  made  sad;  if  their  circumstances  are  mean,  they  are  not
 dejected.  They  know  that  for  those  who  trust  in  the  Divine,  all
-things advance toward a happy state to eternity, and that whatever
-
-115
-
-THE PATH, CHAPTER 17
-
-befalls them in time is still conducive thereto.
+things advance toward a happy state to eternity, and that whatever befalls them in time is still conducive thereto.
 
 Be it known that the Divine Providence is universal, that is, in
 things  the  most  minute;  and  that  they  who  are  in  the  stream  of
@@ -4268,17 +3543,8 @@ of peace” (AC 8478:3,4).
 ---
 ~~~
 
-== Chapter Eighteen
-
-FURTHER STAGES OF GLORIFICATION
-
-OF THE NATURAL
-
-THE BIRTHS OF ISSACHAR, ZEBULUN, AND DINAH
-GENESIS 30 CONTINUED
-
-Leah conceives again and bears sons named 
-Issachar and Zebulun and a daughter named Dinah.
+== Chapter Eighteen FURTHER STAGES OF GLORIFICATION OF THE NATURAL THE BIRTHS OF ISSACHAR, ZEBULUN, AND DINAH
+GENESIS 30 CONTINUED Leah conceives again and bears sons named Issachar and Zebulun and a daughter named Dinah.
 
 “And  Reuben  went  in  the  days  of  the  wheat-harvest,  and
 found  dudaim  in  the  field,  and  brought  them  unto  Leah  his
@@ -4295,13 +3561,7 @@ signified the conjugial of good and truth. . . .It is derived from the
 word  ‘dudim,’  which  means  loves  and  conjunction  by  means  of
 them” (Ibid.).
 
-The focus is now on the final key stages of the glorification of
-
-117
-
-THE PATH, CHAPTER 18
-
-the  Lord’s  natural.  The  subject  is  a  progressive  conjunction  of
+The focus is now on the final key stages of the glorification of the  Lord’s  natural.  The  subject  is  a  progressive  conjunction  of
 Divine  good  and  Divine  truth.  From  these  come  the  influx  and
 force  enabling  good  and  truth  (love  and  faith)  progressively  to
 unite  in  us. And  this  uniting  brings  us  into  heaven  even  on  our
@@ -4338,9 +3598,8 @@ by the sun’s warmth. In order to bring Divinity to the path we must
 take, Jesus chooses to develop His mind in this order. His maternal
 heredity also leads to this pathway.
 
-118
 
-FURTHER STAGES OF GLORIFICATION OF THE NATURAL
+
 
 Just as both wives gain something in this exchange in Genesis
 30,  both  levels  of  affection  in  Jesus  gain  something  through  this
@@ -4376,13 +3635,7 @@ riage  now  taking  place,  the  Writings  reveal  a  new  principle:  that
 this marriage is between the good of a lower plane and the truth of
 a higher one (AC 3952). Lower goods need the discipline of truths
 from a higher level of revelation. For example, the good of a sexu-
-al relationship needs the higher truths regarding conjugial love, or
-
-119
-
-THE PATH, CHAPTER 18
-
-the outer sexual act will be profaned. With the Lord, the marriage
+al relationship needs the higher truths regarding conjugial love, or the outer sexual act will be profaned. With the Lord, the marriage
 is between His Divine Human and the Divine itself, His Soul. This
 is a holy marriage between the Son of God (His Divine Human) and
 the Father. In the Lord these two became One by glorification (see
@@ -4421,9 +3674,8 @@ sis added).
 In the supreme sense, dealing with the Lord’s glorification, the
 coming  of  Zebulun  is  of  profound  significance.  It  signifies  the
 
-120
 
-FURTHER STAGES OF GLORIFICATION OF THE NATURAL
+
 
 “One-ness”  Who  is  Jesus  Christ  (AC  3960:3),  Jesus  being  the
 Divine Love, and Christ the Divine Wisdom. These are not two but
@@ -4451,26 +3703,13 @@ the natural consciousness of Jesus.
 ---
 ~~~
 
-== Chapter Nineteen
-
-ADVANCED GLORIFICATION
-
-OF THE NATURAL
-
-JOSEPH BORN, JACOB ENRICHED
-GENESIS 30 CONTINUED
-
-Rachel finally conceives and has a son
+== Chapter Nineteen ADVANCED GLORIFICATION OF THE NATURAL JOSEPH BORN, JACOB ENRICHED
+GENESIS 30 CONTINUED Rachel finally conceives and has a son
 named Joseph.
 
-Jacob decides it is time to leave Laban, but Laban 
-doesn’t want him to go because he has prospered 
-with Jacob working for him. Jacob agrees to stay 
-on longer if he is allowed to keep the speckled and 
-spotted goats and black lambs from Laban’s herds.
+Jacob decides it is time to leave Laban, but Laban doesn’t want him to go because he has prospered with Jacob working for him. Jacob agrees to stay on longer if he is allowed to keep the speckled and spotted goats and black lambs from Laban’s herds.
 
-Jacob shrewdly builds up large flocks of the 
-healthiest goats and lambs.
+Jacob shrewdly builds up large flocks of the healthiest goats and lambs.
 
 “And God remembered Rachel, and God hearkened to her,
 and opened her womb. And she conceived, and bare a son, and
@@ -4481,13 +3720,7 @@ glorification and the coming of a new love in Jesus. Joseph’s birth
 is like the morning star.
 
 Joseph’s  life  story  in  Genesis  –  his  dreams,  his  betrayal,  his
-exile in Egypt, and then his coming to great power – indicates his
-
-122
-
-ADVANCED GLORIFICATION OF THE NATURAL
-
-high  representation.  Swedenborg’s  Writings  say  that  here  in
+exile in Egypt, and then his coming to great power – indicates his high  representation.  Swedenborg’s  Writings  say  that  here  in
 Genesis Joseph represents “the celestial-spiritual man” (AC 3969:
 3). The  celestial  level  is  love,  and  its  inmost  is  love  of  the  Lord.
 With the Lord Jesus Christ on earth, the birth of Joseph heralds the
@@ -4519,17 +3752,14 @@ In  our  own  rebirth  process  Joseph’s  birth  is  also  a  miracle.
 Joseph is the birth of a celestial love that leads to wise innocence
 — a wisdom that is willing to be led by the Lord.
 
-Joseph’s birth means much to Jesus. The Word speaks of this in
-
-Jacob’s later blessing of this son:
+Joseph’s birth means much to Jesus. The Word speaks of this in Jacob’s later blessing of this son:
 
 “Joseph is the son of a fruitful one, the son of a fruitful one
 by a fountain. . . .He shall abide in the strength of his bow; and
 the arms of his hands shall be made strong by the hands of the
 
-123
 
-THE PATH, CHAPTER 19
+
 
 Mighty One of Jacob; from there is the Shepherd, the Stone of
 Israel,  by  the  God  of  your  father,  and  He  shall  help  you,  and
@@ -4543,7 +3773,7 @@ the everlasting hills; they shall be upon the head of Joseph. . .”
 Much of this Divine, poetic blessing is mysterious, but its affec-
 tional  and  poetic  ring  is  clear:  Joseph  brings  wondrous  blessings
 which reach to “the everlasting hills.” He is the Shepherd and the
-Stone of Israel. 
+Stone of Israel.
 
 “And it came to pass, when Rachel had borne Joseph, that
 Jacob  said  unto  Laban,  ‘Send  me  away,  and  I  will  go  to  my
@@ -4566,13 +3796,7 @@ now  wants  to  dissociate  from  the  mediate  good  represented  by
 Laban. He begins to be uncomfortable in Laban’s presence. Higher
 goods and truths have now come into the Lord’s natural level, and
 the Jacob within desires to get away from the self-serving qualities
-Laban now represents. Representations in the stories of the Word
-
-124
-
-ADVANCED GLORIFICATION OF THE NATURAL
-
-change  within  general  parameters,  according  to  the  spiritual  con-
+Laban now represents. Representations in the stories of the Word change  within  general  parameters,  according  to  the  spiritual  con-
 text, and Laban at this point represents the lower of evil qualities in
 mediate good. In the context of a prior chapter Laban represented
 remains, but remains with flaws attached to them.
@@ -4610,9 +3834,8 @@ a mixture of darkness and light.
 
 But  what  were  the  mediate  goods  with  the  Lord  Himself?
 
-125
 
-THE PATH, CHAPTER 19
+
 
 Because  of  His  spiritual-celestial  endowment  at  birth  and  His
 Divine  Soul,  His  mediate  goods  would  have  been  of  a  higher
@@ -4631,41 +3854,23 @@ the higher or pure goods (AC 4026).
 ---
 ~~~
 
-== Chapter Twenty
+== Chapter Twenty FURTHER GLORIFICATION JACOB SEPARATES FROM LABAN
+GENESIS 31 Laban and his sons become openly jealous and angry with Jacob.
 
-FURTHER GLORIFICATION
+Jehovah appears to Jacob and tells him to return to Canaan. Jacob and his family flee from Laban with the possessions Jacob had earned.
 
-JACOB SEPARATES FROM LABAN
-GENESIS 31
+Laban and his sons pursue Jacob and catch up with Jacob and his family.
 
-Laban and his sons become openly jealous and angry 
-with Jacob.
-
-Jehovah appears to Jacob and tells him to return 
-to Canaan. Jacob and his family flee from Laban 
-with the possessions Jacob had earned.
-
-Laban and his sons pursue Jacob and catch up with 
-Jacob and his family.
-
-Laban and Jacob argue over whether Jacob should be 
-allowed to leave with Laban’s daughters and the
+Laban and Jacob argue over whether Jacob should be allowed to leave with Laban’s daughters and the
 possessions Jacob has earned.
 
-Jacob and Laban settle their dispute and make a 
-covenant to stay out of each other’s territory.
+Jacob and Laban settle their dispute and make a covenant to stay out of each other’s territory.
 
 Jacob  had  served  Laban  for  twenty  years,  fourteen  years
 for  his  two  daughters  and  six  years  for  his  flocks.  He  found
 Laban a harsh father-in-law. Although the farmstead had been
 blessed  under  Jacob’s  leadership,  it  was  also  true  that  Jacob
-had been greatly enriched himself. Laban’s sons saw this, and
-
-127
-
-THE PATH, CHAPTER 20
-
-unfairly  criticized  Jacob:  “Jacob  has  taken  all  that  was  our
+had been greatly enriched himself. Laban’s sons saw this, and unfairly  criticized  Jacob:  “Jacob  has  taken  all  that  was  our
 father’s, and from that which was our father’s has he made all
 this abundance” (Gen. 31:1).
 
@@ -4701,13 +3906,7 @@ gathered  up  their  families  and  possessions  and  left  without
 Laban’s  knowledge.  Also,  Rachel  stole  her  father’s  idols  or
 teraphim (Gen. 31:9).
 
-When news reached Laban that Jacob and his family had
-
-128
-
-FURTHER GLORIFICATION
-
-departed,  Laban  gathered  his  men  and  pursued  in  anger.  He
+When news reached Laban that Jacob and his family had departed,  Laban  gathered  his  men  and  pursued  in  anger.  He
 felt that all of Jacob’s goods and family were his own, although
 they were not. Laban might well have attacked Jacob and per-
 haps even killed him, but “God came to Laban the Aramean in
@@ -4744,13 +3943,7 @@ actually travel from place to place in the spiritual world as we grow
 and  change. With  each  new  development,  we  associate  ourselves
 with a new “society” or group of spirits or angels.
 
-Jesus  “summoned  to  Himself  such  [heavenly  societies]  as
-
-129
-
-THE PATH, CHAPTER 20
-
-might be of service, and changed them at His good pleasure” (AC
+Jesus  “summoned  to  Himself  such  [heavenly  societies]  as might be of service, and changed them at His good pleasure” (AC
 4075). He did this in order that by means of them He might glorify
 His natural and thus be able to redeem and save us. He in no way
 harmed these societies but rather by means of them acquired Divine
@@ -4787,9 +3980,8 @@ Divine mercy regarding their states they will spiritually perish (AC
 look only to the vast Infinite and worship an invisible God. He sees
 that unless they have some finite concept of God they will be “look-
 
-130
 
-FURTHER GLORIFICATION
+
 
 ing  into  thick  darkness”  only  (AC  4075:3)  and  will  have  only
 strange and false fancies. He sees the terribly limited nature of their
@@ -4825,24 +4017,13 @@ tion, and a step away from Laban’s homeland.
 ---
 ~~~
 
-== Chapter Twenty-One
+== Chapter Twenty-One THE LORD’S TEMPTATIONS IN
+GLORIFYING HIS NATURAL COMING HOME
+GENESIS 32 On his way back to Cannan Jacob sends out messengers to Esau, his brother. The messengers return, saying Esau is coming toward him with four hundred men.
 
-THE LORD’S TEMPTATIONS IN
-GLORIFYING HIS NATURAL
+Jacob is afraid and separates his family into groups to allow for an escape if Esau attacks.
 
-COMING HOME
-GENESIS 32
-
-On his way back to Cannan Jacob sends out 
-messengers to Esau, his brother. The messengers 
-return, saying Esau is coming toward him with 
-four hundred men.
-
-Jacob is afraid and separates his family into groups to 
-allow for an escape if Esau attacks.
-
-During the night Jacob wrestles with an angel 
-and prevails. Jacob is then renamed Israel by God.
+During the night Jacob wrestles with an angel and prevails. Jacob is then renamed Israel by God.
 
 After twenty years away from his parents and his homeland
 of Canaan, Jacob now journeyed toward a reunion. For him the
@@ -4854,13 +4035,7 @@ returning seemed justified. But twenty years had gone by, and
 in such a long time many changes occur.
 
 After Jacob and his family separated from Laban and went
-on  their  way,  the  Word  says,  “the  angels  of  God  ran  to  meet
-
-132
-
-THE LORD’S TEMPTATIONS IN GLORIFYING HIS NATURAL
-
-him” (Gen. 32:1). Again, the angels! First in his dream of the lad-
+on  their  way,  the  Word  says,  “the  angels  of  God  ran  to  meet him” (Gen. 32:1). Again, the angels! First in his dream of the lad-
 der at Bethel and now, two decades later, as Jacob came near home.
 The “angels” are enlightenment coming in from goodness, prepar-
 ing us for the meeting with Esau, preparing Jacob within us to meet
@@ -4897,9 +4072,8 @@ home, enters our door, and takes us into his arms. By coming home
 he gives us a warmth and light we would never know without him
 (TCR 109). One of Jesus’ greatest gifts is that He glorifies His nat-
 
-133
 
-THE PATH, CHAPTER 21
+
 
 ural level, and that He puts Esau or Divine good first, with Jacob
 becoming  as  one  who  serves.  Good  comes  first  with  Him  —  the
@@ -4938,9 +4112,8 @@ only  with  the  hells,  but  also  with  the  angels:  “That  the  Lord  in
 temptation at last fought with the angels themselves, no, with the
 whole angelic heaven, is a secret that has not yet been disclosed”
 
-134
 
-THE LORD’S TEMPTATIONS IN GLORIFYING HIS NATURAL
+
 
 (AC 4295:2).
 
@@ -4979,13 +4152,7 @@ focused on the Lord’s chief end: to save us. They perceived how in
 myriad cases this seems almost impossible.
 
 The angels then, in a state of obscurity, try to instill in Jesus an
-immediate apparent need: to force humankind into goodness. The
-
-135
-
-THE PATH, CHAPTER 21
-
-most powerful evil, the love of dominion, would work through the
+immediate apparent need: to force humankind into goodness. The most powerful evil, the love of dominion, would work through the
 angels’ low states and urge the Lord to “command that these stones
 become bread” (Matt. 4:3). The angels would urge this innocently,
 out of misguided love, and in agonized obscurity.
@@ -5024,9 +4191,8 @@ Him and an innocent love of salvation (Gen. 14). As a young man,
 He fights for the preservation of the Divine rational in its vulnera-
 ble beginnings (Gen. 22, the near sacrifice of Isaac), for this ration-
 
-136
 
-THE LORD’S TEMPTATIONS IN GLORIFYING HIS NATURAL
+
 
 al is the vital tool in saving us. Now, in wrestling and overcoming
 the angel, Israel is established. The Divine natural is firmly in place
@@ -5049,21 +4215,10 @@ take the journey to heaven, even while He holds our hand.
 ---
 ~~~
 
-== Chapter Twenty-Two
+== Chapter Twenty-Two GLORIFICATION OF THE NATURAL NEARS COMPLETION THE RECONCILIATION OF JACOB AND ESAU
+GENESIS 33 Jacob fearfully approaches Esau, but Esau runs to embrace him and they are happily reunited.
 
-GLORIFICATION OF THE NATURAL
-
-NEARS COMPLETION
-
-THE RECONCILIATION OF JACOB AND ESAU
-GENESIS 33
-
-Jacob fearfully approaches Esau, but Esau runs to 
-embrace him and they are happily reunited.
-
-Jacob convinces Esau to return to where he came 
-from, and Jacob and his family travel slowly to 
-Succoth and buy land there.
+Jacob convinces Esau to return to where he came from, and Jacob and his family travel slowly to Succoth and buy land there.
 
 “And Jacob lifted up his eyes, and saw, and behold, Esau
 came, and with him four hundred men. And Jacob divided the
@@ -5080,9 +4235,8 @@ At  last  the  twin  brothers  were  reunited.  Jacob  had
 approached  Esau  with  fear.  Esau  had  come  to  him  with  four
 hundred  warriors.  But  there  was  no  anger,  no  confrontation.
 
-138
 
-GLORIFICATION OF THE NATURAL NEARS COMPLETION
+
 
 Instead, Esau ran to Jacob and embraced him with great love.
 The two wept together, not in sorrow but in relief and joy.
@@ -5120,13 +4274,7 @@ goodness at last, goodness like “the faces of God.” When this real-
 ly  happens  to  us,  when  we  see  it  in  our  natural  lives,  it  stirs  the
 affections and brings an inner love of others, a love made real by
 performing useful services, especially spiritual services, for others.
-This  state  of  experiencing  love  of  others  in  our  natural  level
-
-139
-
-THE PATH, CHAPTER 22
-
-deepens  step  by  step.  The  full  uniting  of  Jacob  and  Esau,  on  the
+This  state  of  experiencing  love  of  others  in  our  natural  level deepens  step  by  step.  The  full  uniting  of  Jacob  and  Esau,  on  the
 spiritual plane, is successive, stage by stage (see AC 4375 et al). In
 each  increasing  stage  of  closeness  we  experience  greater  delight,
 usefulness, and creativity.
@@ -5161,27 +4309,15 @@ and finally of His very body.
 ---
 ~~~
 
-== Chapter Twenty-Three
+== Chapter Twenty-Three THE FALLEN SENSUOUS THE LOST DREAM
+GENESIS 34 Shechem, a prince of the country, rapes Jacob’s daughter Dinah.
 
-THE FALLEN SENSUOUS
+Yet Shechem loves Dinah, and his father asks Jacob and her brothers if Shechem may marry her.
 
-THE LOST DREAM
-GENESIS 34
+Dinah’s brothers say they will allow the marriage if the males of the land will be circumcised. In reality, they have no intention of allowing it at all.
 
-Shechem, a prince of the country, rapes Jacob’s 
-daughter Dinah.
-
-Yet Shechem loves Dinah, and his father asks 
-Jacob and her brothers if Shechem may marry her.
-
-Dinah’s brothers say they will allow the marriage 
-if the males of the land will be circumcised. In 
-reality, they have no intention of allowing it at all.
-
-Shechem and his father consent, and when they are 
-recovering from the circumcisions, Simeon and Levi,
-Dinah’s brothers, kill them, and all the sons plunder 
-the city.
+Shechem and his father consent, and when they are recovering from the circumcisions, Simeon and Levi,
+Dinah’s brothers, kill them, and all the sons plunder the city.
 
 Jacob rebukes Simeon and Levi.
 
@@ -5189,13 +4325,7 @@ Chapter  34  in  the  Genesis  narrative  tells  of  the  rape  of
 Dinah by Shechem and the dreadful revenge of her brothers.
 This is the sad story of a forced sexual union followed by an
 extreme  and  evil  revenge. What  has  this  to  do  with  the  Lord’s
-glorification?  Why  is  it  placed  spiritually  or  representatively  in
-
-141
-
-THE PATH, CHAPTER 23
-
-the context of late stages of the glorification of the Lord’s natu-
+glorification?  Why  is  it  placed  spiritually  or  representatively  in the context of late stages of the glorification of the Lord’s natu-
 ral?
 
 This  story  appears  where  it  does  because  this  is  where  it
@@ -5231,13 +4361,7 @@ mous sin in receiving circumcision” (AC 4489:4e).
 This  was  because,  as  people  of  the  Most  Ancient  Church,
 Hamor and Shechem were internal in nature (AC 4489:3). But cir-
 cumcision is an external rite, symbolic for the representative of a
-church,  the  Israelitish  Church,  which  rejected  internal  things.  In
-
-142
-
-THE FALLEN SENSUOUS
-
-accepting  circumcision,  Hamor  and  Shechem  and  their  followers
+church,  the  Israelitish  Church,  which  rejected  internal  things.  In accepting  circumcision,  Hamor  and  Shechem  and  their  followers
 turned away from celestial things to empty externals, from a celes-
 tial innocence to a sensuous act.
 
@@ -5276,9 +4400,8 @@ entirely  sensuous  people. With  the  Israelitish/Jewish  Church,  and
 indeed with the Christian and New Churches, there is from heredi-
 ty a strong tendency toward evil in our sensuous level. In fact, ten-
 
-143
 
-THE PATH, CHAPTER 23
+
 
 dencies to evil are present in the hereditary will on every plane, but
 especially in the sensuous. The Lord came on earth to confront this
@@ -5317,13 +4440,7 @@ wilderness  to  “Command  this  stone  to  become  bread”;  in  other
 words, to “force people to be what you want them to be.” And yet,
 though Jesus can be tempted in this way because of His great desire
 for our happiness, He does not give in. His Divine Soul knows well
-that to force anything upon human beings would be to remove their
-
-144
-
-THE FALLEN SENSUOUS
-
-freedom and thus their very humanity. His human essence (the spir-
+that to force anything upon human beings would be to remove their freedom and thus their very humanity. His human essence (the spir-
 itual-celestial within Him) knows compulsion cannot lead to a true
 union. It is an appearance flowing in through His maternal human
 that tempts Him here.
@@ -5351,25 +4468,17 @@ glorification of this level within Himself out of love for us.
 ---
 ~~~
 
-== Chapter Twenty-Four
-
-FULL GLORIFICATION OF THE NATURAL
-
-BETHEL, BENJAMIN, AND ESAU’S GENEALOGY
-GENESIS 35 AND 36
-
-God appears to Jacob and tells him to go to Bethel. 
+== Chapter Twenty-Four FULL GLORIFICATION OF THE NATURAL BETHEL, BENJAMIN, AND ESAU’S GENEALOGY
+GENESIS 35 AND 36 God appears to Jacob and tells him to go to Bethel.
 Jacob does so, and builds there an altar to God.
 
 God blesses Jacob and again names him Israel.
 
 Jacob and his family leave Bethel for Ephrath.
 
-During the journey Rachel has hard labor, giving 
-birth to Benjamin before she dies.
+During the journey Rachel has hard labor, giving birth to Benjamin before she dies.
 
-They arrive at Hebron where Jacob’s father Isaac, 
-lives. Isaac is very old, and he dies.
+They arrive at Hebron where Jacob’s father Isaac, lives. Isaac is very old, and he dies.
 
 Esau’s genealogy is given in Genesis 36.
 
@@ -5382,9 +4491,8 @@ before Esau your brother’ ” (Gen. 35:1). Reflected here is the cir-
 cle of life in which one starts from a spiritual base, travels through
 a thousand states and changes, and in the end returns to that start-
 
-146
 
-FULL GLORIFICATION OF THE NATURAL
+
 
 ing place, now as an entirely different person.
 
@@ -5423,9 +4531,8 @@ Benjamin’s birth is representatively a warm and beautiful thing. In
 the spiritual sense, Rachel’s death and Benjamin’s birth represent
 new and beautiful states. The birth of Benjamin signifies a break-
 
-147
 
-THE PATH, CHAPTER 24
+
 
 through  in  the  Lord’s  glorification  in  which  He  gains  insights  of
 truth which enable Him to enter a new and higher state. So with us:
@@ -5463,13 +4570,7 @@ natural  level  is  reborn,  and  a  miraculous  new  insight  of  truth
 
 Bethlehem and Benjamin symbolize a step beyond the regener-
 ation  of  the  natural  level.    Benjamin  brings  sparkling  truth  to  us.
-This  truth  is  “new”  in  the  sense  that  we  see  it  with  a  clarity  and
-
-148
-
-FULL GLORIFICATION OF THE NATURAL
-
-insight we have never experienced before. It is seen in this new way
+This  truth  is  “new”  in  the  sense  that  we  see  it  with  a  clarity  and insight we have never experienced before. It is seen in this new way
 because this truth comes from a higher, inmost good. Here then is
 a breakthrough — it leads to being an angel of the middle heaven,
 close to the Lord.
@@ -5506,13 +4607,7 @@ entity — dies, old and sated of days. His two sons bury his body
 lovingly.
 
 Spiritually, as with Rachel, this death is not a tragedy. Rather, it
-represents  new  life  (AC  4618).  Here  then  is  an  integration  of
-
-149
-
-THE PATH, CHAPTER 24
-
-tremendous impact. With Jesus Christ now comes an ascent from
+represents  new  life  (AC  4618).  Here  then  is  an  integration  of tremendous impact. With Jesus Christ now comes an ascent from
 the  glorified  natural  to  the  glorified  rational,  and  an  integration.
 Then  He  comes  to  these  levels  in  us  anew,  with  a  power  never
 before present (AC 4603). For this the angels sang. Yet there is still
@@ -5549,13 +4644,7 @@ sphere of love from the Lord benefits both the angels and us.
 
 It is the same with the genealogies of the Lord Jesus Christ in
 the New Testament: when people on earth read these in a state of
-worship and humility, angels are deeply moved. Something of the
-
-150
-
-FULL GLORIFICATION OF THE NATURAL
-
-highest internal senses affects them with a flame of love. We may
+worship and humility, angels are deeply moved. Something of the highest internal senses affects them with a flame of love. We may
 perceive the spiritual meanings only “as faint outlines” (AC 4644),
 but these can affect us. We can know from the treatment of Genesis
 36  in  the  Arcana that  now  Divinity  and  Humanity  in  the  Lord’s
@@ -5567,24 +4656,12 @@ be reborn.
 ---
 ~~~
 
-== Chapter Twenty-Five
+== Chapter Twenty-Five OVERVIEW OF THE GLORIFICATION OF THE SENSUOUS JOSEPH: HIS DREAMS AND BETRAYAL
+GENESIS 37 Jacob gives a coat of many colors to his son Joseph.
 
-OVERVIEW OF THE GLORIFICATION
+Joseph dreams symbolic dreams that his family will bow down to him.
 
-OF THE SENSUOUS
-
-JOSEPH: HIS DREAMS AND BETRAYAL
-GENESIS 37
-
-Jacob gives a coat of many colors to his son 
-Joseph. 
-
-Joseph dreams symbolic dreams that his family will 
-bow down to him.
-
-Later, Joseph’s brothers betray him and sell him into 
-slavery. They cause their father to believe that 
-Joseph is dead.
+Later, Joseph’s brothers betray him and sell him into slavery. They cause their father to believe that Joseph is dead.
 
 Joseph’s  life  story  contains  both  an  innocence  and  a  promise
 that no other patriarch’s story conveys. Joseph’s dreams, his betray-
@@ -5597,13 +4674,7 @@ sages. Spiritually, Joseph represents the Lord and our coming into
 love of Him.
 
 Joseph’s life completes the series of the four patriarchs. It also
-brings  to  an  end  the  book  of  Genesis. Abraham’s  life,  spiritually
-
-152
-
-OVERVIEW OF THE GLORIFICATION OF THE SENSUOUS
-
-viewed, depicts the Lord’s childhood. Isaac’s life depicts the com-
+brings  to  an  end  the  book  of  Genesis. Abraham’s  life,  spiritually viewed, depicts the Lord’s childhood. Isaac’s life depicts the com-
 ing of the Divine rational to the Lord. Jacob, later renamed Israel,
 is the Divine natural. Joseph completes the series. His life depicts
 the  coming  of  glorification  to  the  sensuous  level,  and  even  the
@@ -5638,13 +4709,7 @@ story is that he does not die. He can be restored to the central posi-
 tion in our hearts, even as this occurred with the Lord Jesus Christ
 at the end of His glorification.
 
-If Joseph’s life story portrays the rebirth of the sensuous level
-
-153
-
-THE PATH, CHAPTER 25
-
-in us, isn’t that the very lowest step in regeneration or rebirth? How
+If Joseph’s life story portrays the rebirth of the sensuous level in us, isn’t that the very lowest step in regeneration or rebirth? How
 is it that what is most ultimate or exterior marks the completion of
 the process of becoming an angel? The reason is that there is a sur-
 prising  linkage  between  the  senses  and  the  celestial,  or  inmost,
@@ -5680,9 +4745,8 @@ Jesus. Joseph represents the wonderful, caring love within Jesus in
 this  state,  when  the  glorification  of  His  sensuous  and  body  are
 about to take place. In Swedenborg’s Writings this love is called the
 
-154
 
-OVERVIEW OF THE GLORIFICATION OF THE SENSUOUS
+
 
 “celestial  of  the  spiritual,”  and  it  involves  both  the  love  of  His
 Father or Divine Soul and His love for the salvation of humankind;
@@ -5722,9 +4786,8 @@ of Joseph represent in the supreme sense the hereditary evils and fal-
 sities in the sensuous level of the Lord: these are tendencies to evils
 and falsities that exist through His finite maternal heredity.
 
-155
 
-THE PATH, CHAPTER 25
+
 
 Here we come to the last major stage of the Lord’s glorification,
 with the goal of its completion. Does the “Joseph” stage of Jesus’
@@ -5745,43 +4808,25 @@ the cross, the serpent bruises Jesus’ heel.
 ---
 ~~~
 
-== Chapter Twenty-Six
-
-THE BETRAYAL BY THE HEREDITARY
-
-SENSUOUS
+== Chapter Twenty-Six THE BETRAYAL BY THE HEREDITARY SENSUOUS
 
 JOSEPH’S BROTHERS BETRAY HIM
-GENESIS 37 CONTINUED
+GENESIS 37 CONTINUED Joseph is sent to help his brothers with the flock of sheep.
 
-Joseph is sent to help his brothers with the flock of 
-sheep.
+When his brothers see him coming, they decide to kill him because they are jealous of his dreams.
 
-When his brothers see him coming, they decide to 
-kill him because they are jealous of his dreams.
+Instead of killing him they sell him to some passing Midianite traders as a slave.
 
-Instead of killing him they sell him to some passing 
-Midianite traders as a slave.
+The brothers take Joseph’s tunic, dipped in goat’s blood, back to their father Jacob. Jacob believes that Joseph is dead, and he mourns.
 
-The brothers take Joseph’s tunic, dipped in goat’s 
-blood, back to their father Jacob. Jacob believes 
-that Joseph is dead, and he mourns.
-
-The Midianites sell Joseph in Egypt to Potiphar, an 
-official of Pharaoh.
+The Midianites sell Joseph in Egypt to Potiphar, an official of Pharaoh.
 
 Joseph  was  seventeen  when  he  had  the  two  dreams  fore-
 telling his future role. When he was sent to his brothers, who
 were tending the sheep at Dothan, his brothers did not warmly
 greet  him,  but  laid  a  plan  to  kill  him  instead.  Reuben  inter-
 vened and discouraged this plan. Yet still, when Joseph came to
-them, the nine brothers grabbed him roughly, stripped him of
-
-157
-
-THE PATH, CHAPTER 26
-
-his coat of many colors, and threw him into a barren pit. Later,
+them, the nine brothers grabbed him roughly, stripped him of his coat of many colors, and threw him into a barren pit. Later,
 Judah noticed Ishmaelites passing by in a caravan and suggest-
 ed that Joseph be sold to them for profit.
 
@@ -5817,9 +4862,8 @@ Him.  Judas  sells  Him  for  thirty  pieces  of  silver,  as  Judah  sold
 Joseph for twenty pieces of silver. The Lord’s outer coat is taken,
 gambled for by lots, and won by a Roman soldier. His enemies put
 
-158
 
-THE BETRAYAL BY THE HEREDITARY SENSUOUS
+
 
 Jesus  to  death,  and  Joseph’s  brothers  nearly  put  him  to  death.
 Joseph  in  the  pit,  without  water,  is  like  Jesus  in  his  final  tempta-
@@ -5860,42 +4904,24 @@ tunic, Jacob believes Joseph to be dead.
 ---
 ~~~
 
-== Chapter Twenty-Seven
+== Chapter Twenty-Seven LOVE OF DOMINION IN THE
+HEREDITARY SENSUOUS JUDAH AND TAMAR
+GENESIS 38 Jacob’s son Judah marries a Canaanite woman and has three sons: Er, Onan, and Shelah.
 
-LOVE OF DOMINION IN THE
-HEREDITARY SENSUOUS
+Judah arranges for Er, his oldest, to marry Tamar, but Er dies before producing any children.
 
-JUDAH AND TAMAR
-GENESIS 38
+According to Israelitish law, Onan must marry his brother’s widow and raise up children for him.
 
-Jacob’s son Judah marries a Canaanite woman 
-and has three sons: Er, Onan, and Shelah.
+Onan marries Tamar, but he also dies with no offspring. Tamar is told to wait for Shelah to grow up for her next husband.
 
-Judah arranges for Er, his oldest, to marry Tamar, 
-but Er dies before producing any children. 
+Judah’s wife dies. Tamar, who desires her right for children, disguises herself and waits by the road for Judah. Judah thinks she is a harlot, and goes in to her.
 
-According to Israelitish law, Onan must marry his 
-brother’s widow and raise up children for him.
+Judah learns that Tamar has become pregnant. He orders that she be killed for harlotry, not knowing that he is the father.
 
-Onan marries Tamar, but he also dies with 
-no offspring. Tamar is told to wait for Shelah to 
-grow up for her next husband.
+When Judah learns the truth, he spares Tamar and she delivers twins: Perez and Zerah.
 
-Judah’s wife dies. Tamar, who desires her right 
-for children, disguises herself and waits by the 
-road for Judah. Judah thinks she is a harlot, and 
-goes in to her.
 
-Judah learns that Tamar has become pregnant. He 
-orders that she be killed for harlotry, not knowing 
-that he is the father.
 
-When Judah learns the truth, he spares Tamar and 
-she delivers twins: Perez and Zerah.
-
-160
-
-LOVE OF DOMINION IN THE HEREDITARY SENSUOUS
 
 Genesis now tells the strange story of Judah and his daugh-
 ter-in-law Tamar. In this story Judah takes on an evil representa-
@@ -5931,13 +4957,7 @@ marriage: Er, Onan, and Shelah. “Judah took a woman for Er
 his firstborn, and her name was Tamar” (Gen. 38:6). There is
 about Tamar, probably from her good correspondence here, a sense
 of beauty and loveliness. Tamar represents a church that is genuine,
-one  whose  spirit  has  innocence  and  humility  (AC  4831).  “The
-
-161
-
-THE PATH, CHAPTER 27
-
-internal of the church here is Tamar, and its external is Judah with
+one  whose  spirit  has  innocence  and  humility  (AC  4831).  “The internal of the church here is Tamar, and its external is Judah with
 his three sons by the Canaanite woman” (Ibid.). Judah and his sons
 are not only the external elements of the church but also an exter-
 nal that has no soul, no true internal.
@@ -5972,13 +4992,7 @@ evil in the Lord’s maternal heredity (AC 4825, 4868:2). This hered-
 itary  evil  could  not  be  conjoined  with  anything  genuine.  To  the
 Lord this is a great sadness. He sees the evil in humankind inroot-
 ed in its sensuous level, as it is in His maternal heredity. If only this
-plane were pure, as it had been in Most Ancient times! Then Tamar,
-
-162
-
-LOVE OF DOMINION IN THE HEREDITARY SENSUOUS
-
-all that is lovely, could have been conjoined with Judah’s son in a
+plane were pure, as it had been in Most Ancient times! Then Tamar, all that is lovely, could have been conjoined with Judah’s son in a
 conjugial marriage. Instead, the sensual level of humanity refused
 to join with something genuine and internal, as Judah and his sons
 refused to provide Tamar with a husband and offspring.
@@ -6020,19 +5034,10 @@ innocently in the sensuous plane.
 ---
 ~~~
 
-== Chapter Twenty-Eight
+== Chapter Twenty-Eight EARLY TEMPTATIONS IN THE SENSUOUS JOSEPH AND POTIPHAR’S WIFE
+GENESIS 39 Joseph proves to be a skilled and loyal servant for Potiphar. Potiphar puts Joseph in charge of his household and possessions.
 
-EARLY TEMPTATIONS IN THE SENSUOUS
-
-JOSEPH AND POTIPHAR’S WIFE
-GENESIS 39
-
-Joseph proves to be a skilled and loyal servant for 
-Potiphar. Potiphar puts Joseph in charge of his 
-household and possessions.
-
-Potiphar’s wife yearns for Joseph, and tries to 
-entice him into an adulterous relationship.
+Potiphar’s wife yearns for Joseph, and tries to entice him into an adulterous relationship.
 
 Joseph refuses, and this makes Potiphar’s wife
 furious. She openly accuses Joseph of trying
@@ -6040,20 +5045,12 @@ to rape her.
 
 Potiphar is enraged, and throws Joseph into prison.
 
-But even in prison, Jehovah gives Joseph “favor in 
-the sight of the keeper of the prison.” The keeper 
-places Joseph in charge of all the other prisoners.
+But even in prison, Jehovah gives Joseph “favor in the sight of the keeper of the prison.” The keeper places Joseph in charge of all the other prisoners.
 
 When  Joseph  was  sold  into  Egypt,  Potiphar,  captain  of
 Pharaoh’s guard, purchased him as a servant. Here “Jehovah
 was  with  Joseph”  (Gen.  39:2).  In  time  he  was  set  over
-Potiphar’s  house  and  all  that  he  had.  But  once  again  he  was
-
-164
-
-EARLY TEMPTATIONS IN THE SENSUOUS
-
-betrayed,  this  time  by  Potiphar’s  wife,  and  then  unjustly  put
+Potiphar’s  house  and  all  that  he  had.  But  once  again  he  was betrayed,  this  time  by  Potiphar’s  wife,  and  then  unjustly  put
 into prison. Here also “Jehovah was with Joseph” (Gen. 39:21).
 Soon  he  supervised  all  things  in  the  prison,  having  won  the
 complete trust of its head keeper.
@@ -6089,13 +5086,7 @@ of shock that we read: “And it happened. . .after these events,
 that  his  lord’s  [Potiphar’s]  wife  lifted  up  her  eyes  towards
 Joseph, and said, ‘Lie with me’ ” (Gen. 39:7). Joseph refused,
 saying, “How. . .shall I do this great evil and sin against God?”
-(Gen. 39:9). But Potiphar’s wife insistently demanded this day
-
-165
-
-THE PATH, CHAPTER 28
-
-after  day,  until  one  day  when  Joseph  came  into  the  house,
+(Gen. 39:9). But Potiphar’s wife insistently demanded this day after  day,  until  one  day  when  Joseph  came  into  the  house,
 which was then deserted of others, “she took hold of him by the
 garment, saying, ‘Lie with me.’ And Joseph left his garment in
 her hand, and fled, and went out of doors” (Gen. 39:11,12).
@@ -6105,7 +5096,7 @@ Potiphar’s  wife,  this  is  not  a  natural  or  physical  adultery  that  is
 being spoken about. It is an attack by the hells on the inner level of
 the sensuous with the Lord Himself. Perhaps when Joseph flees and
 leaves his garment in her hand, this is an early prophecy about the
-Lord Himself when He was being led away to be crucified. 
+Lord Himself when He was being led away to be crucified.
 
 “Then the soldiers, when they had crucified Jesus, took His gar-
 ments and made four parts, to each soldier a part, and also the tunic.
@@ -6131,9 +5122,8 @@ dation in natural or physical adultery.
 In the celestial sense this chapter is speaking of the Lord Jesus
 Christ in the later states of His life on earth. I believe this is when
 
-166
 
-EARLY TEMPTATIONS IN THE SENSUOUS
+
 
 He walked and taught and healed in the land of Canaan. The love
 that is to be glorified is the celestial of the spiritual which is His
@@ -6171,13 +5161,7 @@ the story happens in Egypt, which represents ultimate knowledges
 that come in through the senses (AC 5078:4). The Lord’s goal here
 is to make the whole of His body Divine, including His organs of
 sensation (AC 5078:2). “He rose from the grave with His body, and
-after the resurrection told the disciples, ‘See My hands and My feet,
-
-167
-
-THE PATH, CHAPTER 28
-
-that  it  is  I  Myself;  handle  Me  and  see;  for  a  spirit  does  not  have
+after the resurrection told the disciples, ‘See My hands and My feet, that  it  is  I  Myself;  handle  Me  and  see;  for  a  spirit  does  not  have
 flesh and bones as you see Me have’ ” (Ibid.).
 
 Potiphar  had  Joseph  cast  into  prison. There,  once  again,
@@ -6200,21 +5184,12 @@ toward this.
 ---
 ~~~
 
-== Chapter Twenty-Nine
-
-THE SETTING FOR JESUS’ SENSUOUS
-
-TEMPTATION
+== Chapter Twenty-Nine THE SETTING FOR JESUS’ SENSUOUS TEMPTATION
 
 THE BUTLER AND THE BAKER
-GENESIS 40
+GENESIS 40 Pharaoh’s chief butler and baker offend their king, and thus are put into the same prison where Joseph is being held.
 
-Pharaoh’s chief butler and baker offend their king, 
-and thus are put into the same prison where Joseph 
-is being held.
-
-The prince of the guards places Joseph in charge of 
-these other two prisoners.
+The prince of the guards places Joseph in charge of these other two prisoners.
 
 We come next to the story of Joseph in prison with Pharaoh’s
 butler and baker, and of their dreams (Genesis 40). The inner mean-
@@ -6229,13 +5204,7 @@ baker, that are in great disorder from His finite maternal heredity.
 When  God  originally  created  human  beings,  He  created  our
 senses to serve and reflect our love of God and love of other peo-
 ple. Thus heaven itself could be felt right down in our bodies. But
-over time, human beings used the senses more and more to pursue
-
-169
-
-THE PATH, CHAPTER 29
-
-selfish,  empty,  and  harmful  pleasures  that  shut  out  heaven  alto-
+over time, human beings used the senses more and more to pursue selfish,  empty,  and  harmful  pleasures  that  shut  out  heaven  alto-
 gether. Sensuous thinking and delights were no longer used to serve
 higher  thinking  and  loves,  but  instead  to  shut  out  and  dominate
 them. The Writings  describe  the  ideal  position  of  sensual  experi-
@@ -6246,9 +5215,7 @@ happiness and bliss radiate from the interior man into the delights
 of the senses and make these delights a thousand times better than
 they were before” (AC 5125:2, italics added).
 
-When God came on earth as Jesus, He made this possible again,
-
-if we choose to follow His path.
+When God came on earth as Jesus, He made this possible again, if we choose to follow His path.
 
 Since the corrupted elements in the human sensuous mind, rep-
 resented by the butler and the baker, are so opposed to the purity of
@@ -6274,14 +5241,13 @@ Immediately, Pharaoh’s prince of the guards places Joseph
 in  charge  of  the  other two  prisoners. The  prince  of  the  guards
 represents  true  ideas  from  the  deeper  sense  of  the  Word  of  God.
 
-170
 
-THE SETTING FOR JESUS’ SENSUOUS TEMPTATION
+
 
 From  these  deep  truths  (the  prince  of  the  guards)  Jesus  uses  His
 celestial love now present in this lower level (Joseph) to teach the
 human sensuous mind (AC 5087, 5088), working to guide it back
-toward serving goodness and truth.  
+toward serving goodness and truth. 
 
 Jesus confronts the hells on the level of the senses. He does this
 from the Joseph within Him, from the celestial of the spiritual. His
@@ -6314,9 +5280,8 @@ grave with His body, and after the resurrection told His disciples,
 for  a  spirit  does  not  have  flesh  and  bones  as  you  see  Me  have’  ”
 (Luke 24:39; AC 5078:2).
 
-171
 
-THE PATH, CHAPTER 29
+
 
 The Lord alone glorified His body, or made it Divine (Ibid.). He
 made His body Divine for purposes we are just beginning to under-
@@ -6354,13 +5319,7 @@ childhood on this same level, making a potential equilibrium possi-
 ble (see AC 1555).
 
 The  prison-house  where  the  butler  and  baker  and  Joseph
-were  all  bound represents  temptations  regarding  the  senses  and
-
-172
-
-THE SETTING FOR JESUS’ SENSUOUS TEMPTATION
-
-body. This is an apt representation, for prisons suggest a sphere of
+were  all  bound represents  temptations  regarding  the  senses  and body. This is an apt representation, for prisons suggest a sphere of
 being bound, limited, and also a darkness of atmosphere. Sensuous
 temptations  come  to  us  throughout  our  adult  lives.  Inmost  love
 (Joseph) is about to work with these senses, to instruct them, and to
@@ -6389,27 +5348,17 @@ who held the baby Jesus in his arms.
 ---
 ~~~
 
-== Chapter Thirty
-
-STEPS IN GLORIFYING THE
-SENSUOUS
-
-THE DREAMS OF THE BUTLER AND THE BAKER
-GENESIS 40 CONTINUED
-
-The butler and the baker each describes a dream
+== Chapter Thirty STEPS IN GLORIFYING THE
+SENSUOUS THE DREAMS OF THE BUTLER AND THE BAKER
+GENESIS 40 CONTINUED The butler and the baker each describes a dream
 to Joseph.
 
-Joseph interprets the dreams, gaining this knowledge 
-from God. The interpretations describe the future 
-fate of the butler and the baker.
+Joseph interprets the dreams, gaining this knowledge from God. The interpretations describe the future fate of the butler and the baker.
 
 The fates that Joseph describes come to pass. The
-butler is restored to his former position, while the 
-baker is executed.
+butler is restored to his former position, while the baker is executed.
 
-The butler forgets to ask Pharaoh to grant Joseph’s 
-freedom, as Joseph had asked him to.
+The butler forgets to ask Pharaoh to grant Joseph’s freedom, as Joseph had asked him to.
 
 The  days  that  the  butler  and  the  baker  spent  in  custody
 symbolize  the  long  period  in  which  the  corrupted  finite  sensuous
@@ -6419,13 +5368,7 @@ was working down in the prison of sensuous evil and temptations
 to  teach  and  reform  the  human  sensuous  mind.  But  would  these
 efforts be successful?
 
-A  revelation  about  the  future  comes  to  Jesus,  represented  by
-
-174
-
-STEPS IN GLORIFYING THE SENSUOUS
-
-the dreams of the butler and the baker. The dreams come to these
+A  revelation  about  the  future  comes  to  Jesus,  represented  by the dreams of the butler and the baker. The dreams come to these
 two  prisoners  during  the  night,  and  in  the  morning  they  are
 sad because they do not know the meaning of the dreams. In
 the  part  of  His  mind  that  is  entangled  in  the  impurities  of  finite
@@ -6460,13 +5403,7 @@ ing, but also to some extent through smell and taste (AC 5077).
 The baker, on the other hand, represents the part of the sensu-
 ous mind that experiences delights through the senses. This part of
 the mind functions apart from the intellect. If a person has estab-
-lished a feeling of delight in something disorderly, such as drinking
-
-175
-
-THE PATH, CHAPTER 30
-
-alcohol  excessively,  that  part  of  his  or  her  mind  cannot  be  told,
+lished a feeling of delight in something disorderly, such as drinking alcohol  excessively,  that  part  of  his  or  her  mind  cannot  be  told,
 “You do not find pleasure in drinking excessively.” The “baker” in
 our minds cannot comprehend anything beyond what it feels. A per-
 son must abandon and reject the behavior that feeds that harmful
@@ -6503,9 +5440,8 @@ shoots  are  three  days.  In  yet  three  days  Pharaoh  will  lift  up
 your  head  and  will  restore  you  to  your  position,  and  you  will
 put Pharaoh’s cup into his hand, according to the former man-
 
-176
 
-STEPS IN GLORIFYING THE SENSUOUS
+
 
 ner when you were his cupbearer’ ” (Gen. 40:9-13).
 
@@ -6544,13 +5480,7 @@ inward prison.
 “And  when  the  chief  of  the  bakers  saw  that  Joseph  had
 interpreted what was good, and he said to Joseph, ‘I also was in
 my dream, and behold, three baskets with holes in them were
-on my head. And in the highest basket there were some of every
-
-177
-
-THE PATH, CHAPTER 30
-
-kind of food for Pharaoh, the work of the baker, and the birds
+on my head. And in the highest basket there were some of every kind of food for Pharaoh, the work of the baker, and the birds
 were eating them out of the basket, from upon my head.’ And
 Joseph answered and said, ‘This is the interpretation of it: The
 three baskets are three days. In yet three days Pharaoh will lift
@@ -6585,13 +5515,7 @@ when  food  and  drink  take  precedence  over  any  higher  values  —
 when drugs mean more than revealed truth, when the body means
 more than the spirit. Many, many human beings have been caught
 in  this  bodily  trap.  We  are  all  vulnerable.  It  is  a  primary  way  in
-which the hells can take us over. The bodily senses seem external
-
-178
-
-STEPS IN GLORIFYING THE SENSUOUS
-
-and relatively unimportant, yet they are entry points for evil spirits
+which the hells can take us over. The bodily senses seem external and relatively unimportant, yet they are entry points for evil spirits
 who delight in destroying us.
 
 The Divine will of Jesus is from His Soul. This will does not
@@ -6626,20 +5550,14 @@ thinking  to  remember that  the  Divine  exists  in  all  physical  and
 worldly issues. But this does not happen yet. The butler does not
 speak  to  Pharaoh  about  Joseph  in  order  to  set  him  free. The
 sensuous is not yet fully subordinate and in compliance with heav-
-enly loves. Despite the elevation of the butler and the hanging of
-
-179
-
-THE PATH, CHAPTER 30
-
-the  baker,  rebirths  still  must  take  place  before  the  sensuous  is  in
+enly loves. Despite the elevation of the butler and the hanging of the  baker,  rebirths  still  must  take  place  before  the  sensuous  is  in
 true order.
 
 Toward the end of His life on earth, the Lord clearly foretold the
 coming crucifixion and His resurrection. The story of the baker is
 in one sense a prophecy of the final temptation on the cross when
 the maternal human would be cast aside, rejected. The elevation of
-the butler is a foretelling of the Divine resurrection to come. 
+the butler is a foretelling of the Divine resurrection to come.
 
 The leading factor in the completion of the glorification, and of
 our  regeneration,  is  innocence  (AC  5168:2).  This  is  prophesied
@@ -6652,25 +5570,16 @@ with  Jesus  Christ  on  earth,  when  John  the  Baptist  sees  Him:
 ---
 ~~~
 
-== Chapter Thirty-One
-
-DIVINE CHANGES IN THE SENSUOUS
-
-JOSEPH: TWICE REDEEMED
-GENESIS 41
-
-Pharaoh has two dreams that he does not
+== Chapter Thirty-One DIVINE CHANGES IN THE SENSUOUS JOSEPH: TWICE REDEEMED
+GENESIS 41 Pharaoh has two dreams that he does not
 understand.
 
-The chief butler finally remembers Joseph in 
-prison. He tells Pharaoh that this is a man
+The chief butler finally remembers Joseph in prison. He tells Pharaoh that this is a man
 who can interpret his dreams.
 
-Joseph is brought up out of prison. From the 
-power of God he interprets Pharaoh’s dreams.
+Joseph is brought up out of prison. From the power of God he interprets Pharaoh’s dreams.
 
-Pharaoh is so pleased that he sets Joseph in a great 
-position of power, and gives him the daughter of
+Pharaoh is so pleased that he sets Joseph in a great position of power, and gives him the daughter of
 the priest of On as wife.
 
 Joseph  was  betrayed  first  by  his  brothers  and  then  by
@@ -6681,13 +5590,7 @@ rejections of Joseph, who represents the Lord, have their counter-
 parts in the New Testament.
 
 After Jesus is baptized by John, He is led up by the Spirit into
-the wilderness, and there endures three temptations. After He fasts
-
-181
-
-THE PATH, CHAPTER 31
-
-forty days, the tempter asks Him to turn stones into bread: to force
+the wilderness, and there endures three temptations. After He fasts forty days, the tempter asks Him to turn stones into bread: to force
 the  stony  hearts  of  people  into  being  good.  Then  the  devil  takes
 Him  up  onto  the  pinnacle  of  the  temple  in  Jerusalem,  and  says,
 “Throw yourself down. For it is written: ‘He shall give His angels
@@ -6721,13 +5624,7 @@ evil in His own maternal heredity. He knows the states of evil in
 humankind. No wonder He despairs. It is such evils that led to the
 killing  of  six  million  Jews  in  Nazi  concentration  camps  during
 World War II. It is such evils that lead to the betrayal of a husband
-or a wife by adultery. It is such evil that abuses children. The Lord
-
-182
-
-DIVINE CHANGES IN THE SENSUOUS
-
-sees the desire of the hells to destroy innocence on earth, to remove
+or a wife by adultery. It is such evil that abuses children. The Lord sees the desire of the hells to destroy innocence on earth, to remove
 compassion from human hearts. They drive into the Lord’s lower
 mind the illusion that they, the hells, will easily succeed.
 
@@ -6766,9 +5663,8 @@ and wonderful step in the glorification of His sensuous.
 The  human  essence  is  elevated,  released.  Representatively,
 Pharaoh,  who  wished  to  have  his  dreams  interpreted,  does  this.
 
-183
 
-THE PATH, CHAPTER 31
+
 
 Pharaoh  represents  the  natural,  here  the  natural  in  the  broadest
 sense, which includes the ultimate or the sensuous level. Pharaoh
@@ -6806,13 +5702,7 @@ the new natural” (AC 5249).
 
 Great changes are happening. Jesus is advancing in the glorifi-
 cation of His sensuous level to the point where the celestial of the
-spiritual now arises out of prison and becomes a leader, a profound
-
-184
-
-DIVINE CHANGES IN THE SENSUOUS
-
-interpreter of dreams. Joseph stood before Pharaoh not as a for-
+spiritual now arises out of prison and becomes a leader, a profound interpreter of dreams. Joseph stood before Pharaoh not as a for-
 mer prisoner but as one who could tell the meaning of dreams
 and foretell the future. Here is a hint of the full glorification that
 is to come, a hint of the Divine omniscience to come (AC 5249).
@@ -6848,9 +5738,8 @@ being that by means of which the Lord exercised control over His
 natural  and  also  His  sensory  awareness,  so  that  step  by  step  He
 could make both of these Divine” (AC 5316).
 
-185
 
-THE PATH, CHAPTER 31
+
 
 Pharaoh  gave  Joseph  a  new  name,  “Zaphenath  Paneah”
 (Gen. 41:45), and gave him for a wife Asenath, the daughter of
@@ -6871,24 +5760,12 @@ coming nearer to us.
 ---
 ~~~
 
-== Chapter Thirty-Two
+== Chapter Thirty-Two THE NEW WILL AND UNDERSTANDING IN THE SENSUOUS JOSEPH’S EARLY RULE
+GENESIS 41 CONTINUED As second ruler in Egypt, Joseph works for seven years to store up grain, preparing for the famine.
 
-THE NEW WILL AND UNDERSTANDING
+During this time, his wife bears two sons: Manasseh and Ephraim.
 
-IN THE SENSUOUS
-
-JOSEPH’S EARLY RULE
-GENESIS 41 CONTINUED
-
-As second ruler in Egypt, Joseph works for seven 
-years to store up grain, preparing for the famine.
-
-During this time, his wife bears two sons: Manasseh 
-and Ephraim.
-
-After seven years of plenty, the famine begins. The 
-people of Egypt and of other lands come to Joseph to 
-buy grain.
+After seven years of plenty, the famine begins. The people of Egypt and of other lands come to Joseph to buy grain.
 
 “And Joseph was a son of thirty years when he stood before
 Pharaoh, king of Egypt” (Gen. 41:46). This age of thirty repre-
@@ -6903,9 +5780,8 @@ next few years.
 Pharaoh now appointed Joseph ruler. And Joseph went out
 “through all the land of Egypt. And in the seven years of abun-
 
-187
 
-THE PATH, CHAPTER 32
+
 
 dance of corn the land yielded bunches. And Joseph gathered
 all the food of the seven years which were in the land of Egypt,
@@ -6943,13 +5819,7 @@ many,  many  other  delights. These  things  Jesus  would  store  up  to
 call upon later, during times when all would seem hopeless on the
 natural level of humanity.
 
-“.  .  .To  Joseph  were  born  two  sons.  .  .whom  Asenath  the
-
-188
-
-THE NEW WILL AND UNDERSTANDING IN THE SENSUOUS
-
-daughter  of  Potipherah,  the  priest  of  On,  bore  to  him.  And
+“.  .  .To  Joseph  were  born  two  sons.  .  .whom  Asenath  the daughter  of  Potipherah,  the  priest  of  On,  bore  to  him.  And
 Joseph  called  the  name  of  the  firstborn  ‘Manasseh  –  for  God
 has  made  me  forget  all  my  labor  and  all  my  father’s  house.’
 And the name of the second he called ‘Ephraim – for God has
@@ -6982,13 +5852,7 @@ lation in the spirit, a void or emptying out. Delight seems to disap-
 pear  for  us,  including  delights  of  the  senses. Things  seem  empty,
 purposeless (AC 5360). Fortunately, in this inner famine we do not
 die in our spirits; there is grain stored up in the cities of Egypt.
-If we go to Joseph, to our inmost love, we can draw out memories
-
-189
-
-THE PATH, CHAPTER 32
-
-of remains that sustain us, but just barely. We are poignantly aware
+If we go to Joseph, to our inmost love, we can draw out memories of remains that sustain us, but just barely. We are poignantly aware
 of a famine, an emptiness, all around us within our minds.
 
 The Lord helps to explain what is going on spiritually in rebirth.
@@ -7027,44 +5891,24 @@ found in her, confession and the voice of song” (Isaiah 51:3).
 ---
 ~~~
 
-== Chapter Thirty-Three
+== Chapter Thirty-Three THE SENSUOUS RESPONDS TO A NEW ORDER THE TEN SONS OF JACOB GO TO EGYPT
+GENESIS 42 Back in Canaan, Jacob sends his ten older sons to Egypt to buy grain.
 
-THE SENSUOUS RESPONDS TO
+Joseph recognizes his brothers, but they do not recognize him. Joseph conceals his identity and speaks roughly to them.
 
-A NEW ORDER
-
-THE TEN SONS OF JACOB GO TO EGYPT
-GENESIS 42
-
-Back in Canaan, Jacob sends his ten older sons to 
-Egypt to buy grain.
-
-Joseph recognizes his brothers, but they do not 
-recognize him. Joseph conceals his identity and 
-speaks roughly to them.
-
-The ten brothers believe they are suffering 
-because of their cruel treatment of Joseph.
+The ten brothers believe they are suffering because of their cruel treatment of Joseph.
 In private, Joseph weeps over their remorse.
 
-Joseph holds Simeon hostage while the nine other 
-brothers return to Canaan with grain. Joseph
+Joseph holds Simeon hostage while the nine other brothers return to Canaan with grain. Joseph
 commands them to return with their youngest
-brother, Benjamin. In secret, he returns their money 
-into the sacks of grain that they have bought.
+brother, Benjamin. In secret, he returns their money into the sacks of grain that they have bought.
 
 Learning that there was food in Egypt during the terrible
 famine,  Jacob  sent  Joseph’s  ten  brothers  down  to  buy  grain.
 Benjamin, his beloved youngest son, he kept behind. He did not
 want to lose Benjamin, as he had lost Joseph.
 
-The ten brothers arrived in Egypt, and “Joseph’s brothers
-
-191
-
-THE PATH, CHAPTER 33
-
-came and bowed down to him, faces to the earth. . . .And Joseph
+The ten brothers arrived in Egypt, and “Joseph’s brothers came and bowed down to him, faces to the earth. . . .And Joseph
 recognized  his  brothers,  and  they  did  not  recognize  him. And
 Joseph remembered the dreams which he had dreamed involv-
 ing them” (Gen. 42:6-9, selections).
@@ -7104,9 +5948,8 @@ ning of true glorification in His sensuous level. It may be said that
 Jesus  weeps,  as  indeed  it  is  twice  recorded  of  Him  in  the  New
 Testament. This change in Himself, this glorification of His sensu-
 
-192
 
-THE SENSUOUS RESPONDS TO A NEW ORDER
+
 
 ous,  would  make  possible  almost  incredible  future  changes  for
 humankind on earth. Joseph wept; that is, the Lord weeps. This is
@@ -7145,13 +5988,7 @@ thing genuine (grain) can be taken from knowledges (Egypt) (AC
 
 Without such love and truth present, there is the attempt to rea-
 son one’s way from the senses up to Divine truth. Ishmael, the wild-
-ass rational, is the first to represent this attempt in adult life. Now,
-
-193
-
-THE PATH, CHAPTER 33
-
-many years later, human beings in advanced rebirth attempt to find
+ass rational, is the first to represent this attempt in adult life. Now, many years later, human beings in advanced rebirth attempt to find
 truth on the sensuous level by reasoning their way upward from sci-
 ence and from the senses. But this cannot be done (AC 5397). Truth
 on  any  level  always  comes  from  above,  from  heavenly  love,
@@ -7189,9 +6026,8 @@ and  sparkling  truths,  represented  by  Benjamin’s  presence.  When
 these  two  are  both  present  in  the  interior  levels  of  our  mind,  the
 external truths of the sensuous, represented by the other ten sons of
 
-194
 
-THE SENSUOUS RESPONDS TO A NEW ORDER
+
 
 Jacob, assume true and heavenly order. Willingly and lovingly sub-
 ordinate to Joseph, as he had dreamed long before at the age of sev-
@@ -7228,13 +6064,7 @@ Benjamin:  “And  should  harm  happen  to  him  on  the  road  on
 which you go, you will cause my grey hair to go down in sorrow
 to the grave” (Gen. 42:38).
 
-Spiritually, Jacob or good in the natural is saying, “If inner truth
-
-195
-
-THE PATH, CHAPTER 33
-
-from  good  is  lost  to  me,  then  this  will  be  the  ‘final  phase  of  the
+Spiritually, Jacob or good in the natural is saying, “If inner truth from  good  is  lost  to  me,  then  this  will  be  the  ‘final  phase  of  the
 church’  (AC  5550)  in  me.”  “Grey  hair,”  means  this  final  phase
 (Ibid.). “ ‘In sorrow to the grave’ means without hope of a restora-
 tion to life” (AC 5551). As is so often true of us, Jacob sees only
@@ -7254,23 +6084,13 @@ es this for us as well if we patiently follow the path of life.
 
 == Chapter Thirty-Four
 
-“N E W”  T R U T H S C O M E T O
+“N E W”  T R U T H S C O M E T O C E L E S T I A L L O V E BENJAMIN COMES TO JOSEPH
+GENESIS 43 When their purchased grain runs out, Israel (Jacob)
+tells his sons to travel to Egypt to buy more. Judah reminds him that they have been commanded to bring Benjamin with them.
 
-C E L E S T I A L L O V E
+With great sadness, Israel agrees, and all the brothers leave for Egypt.
 
-BENJAMIN COMES TO JOSEPH
-GENESIS 43
-
-When their purchased grain runs out, Israel (Jacob) 
-tells his sons to travel to Egypt to buy more. Judah 
-reminds him that they have been commanded to 
-bring Benjamin with them.
-
-With great sadness, Israel agrees, and all the 
-brothers leave for Egypt.
-
-Joseph greets them warmly, and prepares a feast 
-for them.
+Joseph greets them warmly, and prepares a feast for them.
 
 Genesis 43 begins, “And the famine grew more serious in the
 land” (Gen. 43:1). The first thing said in a series is often the key
@@ -7283,13 +6103,7 @@ blocks  the  influx  of  Divine  good  into  the  Lord’s  lowest  mind.  In
 this sensuous level He feels desolation, a lack of hope for the sal-
 vation of humankind.
 
-But  this  chapter  brings  a  refreshing  change.  One  of  the  key
-
-197
-
-THE PATH, CHAPTER 34
-
-elements  missing  in  the  Lord’s  human  essence  is  now  brought
+But  this  chapter  brings  a  refreshing  change.  One  of  the  key elements  missing  in  the  Lord’s  human  essence  is  now  brought
 directly  to  Him  where  it  can  help  restore  joy  and  begin  to  push
 away  this  desolation.  Benjamin  was  brought  down  to  Egypt
 and  into  the  presence  of  his  long-lost  brother  Joseph.  The
@@ -7309,9 +6123,7 @@ reunion.  But  it  was  only  a  first  or  preliminary  reunion:  the
 eleven  brothers  still  had  no  idea  that  the  ruler  was  actually
 Joseph. In their minds, Joseph was dead.
 
-Although Benjamin saw Joseph with his own eyes, he, too,
-
-had no idea this was his closest brother.
+Although Benjamin saw Joseph with his own eyes, he, too, had no idea this was his closest brother.
 
 “And Joseph came to the house, and they [the eleven broth-
 ers] brought him the gift that was in their hand, to the house,
@@ -7327,13 +6139,7 @@ er,  his  mother’s  son,  and  said,  ‘Is  this  your  youngest  brother,
 whom you said [something about] to me?’ And he said, ‘God be
 gracious to you, my son.’ And Joseph hastened, because feelings
 of  compassion  were  being  roused  in  him  toward  his  brother,
-and he sought [somewhere] to weep, and he went into his bed
-
-198
-
-“NEW” TRUTHS COME TO CELESTIAL LOVE
-
-chamber and wept there” (Gen. 43:30). Benjamin was his clos-
+and he sought [somewhere] to weep, and he went into his bed chamber and wept there” (Gen. 43:30). Benjamin was his clos-
 est brother; he and Benjamin alone shared Rachel as mother.
 
 Divinely  this  is  a  first  reunion  within  Jesus  in  His  human
@@ -7370,9 +6176,8 @@ in  an  early  stage;  it  was  like  a  “general  influx  before  the  joinin
 together” (AC 5574). But it evokes tenderest love in Jesus, because
 it heralds what is to come when His work on earth is complete.
 
-199
 
-THE PATH, CHAPTER 34
+
 
 The process by which Joseph revealed himself to his brothers
 also  tells  of  the  gradual  unifying  of  our  spiritual  being  —  of  our
@@ -7413,9 +6218,8 @@ leadership in our hearts (AC 5660:2).
 
 The  Lord  is  now  giving  or  offering  us  a  “new  will”  (AC
 
-200
 
-“NEW” TRUTHS COME TO CELESTIAL LOVE
+
 
 5660:3). This is a heavenly selfhood, and those who receive it “no
 longer see only themselves in every single thing they do or in every
@@ -7450,13 +6254,7 @@ eleven brothers. What a fulfillment this was to Joseph. He knew
 who  these  eleven  men  were,  and  his  heart  sang. He  felt  some-
 thing  of  the  release  spoken  of  that  comes  with  a  “heavenly  self-
 hood”! But this would have been like only a prophecy, for the
-eleven  brothers  did  not  know  who  Joseph  was. There  was  no
-
-201
-
-THE PATH, CHAPTER 34
-
-reciprocal  joy  yet  in  their  hearts,  only  a  wonder  and  trepida-
+eleven  brothers  did  not  know  who  Joseph  was. There  was  no reciprocal  joy  yet  in  their  hearts,  only  a  wonder  and  trepida-
 tion. Representatively, evils were still present in the external natu-
 ral  level  (represented  by  the  ten  brothers)  that  prohibited  Joseph
 from revealing who he truly was.
@@ -7466,26 +6264,14 @@ from revealing who he truly was.
 ---
 ~~~
 
-== Chapter Thirty-Five
+== Chapter Thirty-Five TEMPTATIONS TO SPIRITUAL THEFT THE SILVER CUP
+GENESIS 44 Joseph fills his brother’s sacks with grain.  Secretly, he places their money back into the sacks, and his own silver cup into Benjamin’s sack.
 
-TEMPTATIONS TO SPIRITUAL THEFT
+When the brothers have left, Joseph sends his servant to pursue them, and accuses them of stealing his cup.
 
-THE SILVER CUP
-GENESIS 44
+Joseph says he will keep Benjamin as a slave, and the rest may go free.
 
-Joseph fills his brother’s sacks with grain.  Secretly, 
-he places their money back into the sacks, and his 
-own silver cup into Benjamin’s sack.
-
-When the brothers have left, Joseph sends his servant 
-to pursue them, and accuses them of stealing his cup.
-
-Joseph says he will keep Benjamin as a slave, and the 
-rest may go free.
-
-In desperation, Judah offers himself as a slave 
-instead, explaining that their father may die if they 
-do not bring Benjamin back.
+In desperation, Judah offers himself as a slave instead, explaining that their father may die if they do not bring Benjamin back.
 
 The story now centers on Joseph’s silver cup, and is spiritually
 about  temptations  that  are  frighteningly  intense.  Joseph  com-
@@ -7494,13 +6280,7 @@ food, “as much as they can carry; and put each one’s silver in
 the  mouth  of  his  pouch. And  you  are  to  put  my  cup,  the  cup
 made of silver, in the mouth of the pouch of the youngest, and
 his silver for grain” (Gen. 44:1,2). Joseph was speaking to his
-chief servant, giving these instructions. The servant complied,
-
-203
-
-THE PATH, CHAPTER 35
-
-and when morning dawned, the eleven were sent away.
+chief servant, giving these instructions. The servant complied, and when morning dawned, the eleven were sent away.
 
 They  were  only  a  little  beyond  the  city  when  Joseph  com-
 manded his chief servant to pursue the eleven and accuse them
@@ -7536,13 +6316,7 @@ These  temptations  focused  on  theft,  on  the  proclivity  of  the
 Lord’s finite maternal human to steal what was rightfully Divine.
 Theft is so inscribed on hereditary evil that it seems impossible to
 eradicate it. It is deep and fundamental to the states of mediate good
-within us, in which we take much credit for things. However, it is
-
-204
-
-TEMPTATIONS TO SPIRITUAL THEFT
-
-an evil, and in time it must be seen as such and shunned if we are
+within us, in which we take much credit for things. However, it is an evil, and in time it must be seen as such and shunned if we are
 ever to become free.
 
 The apparent theft of Joseph’s cup does not represent the Lord’s
@@ -7578,13 +6352,7 @@ angels perceive truths in heaven. We seek this cup!
 
 Joseph,  the  celestial  within  us,  fills  the  spiritual  level
 (Benjamin) with perceptions of truths — truths that are alive, that
-are the only truths of the true church! They are called this because
-
-205
-
-THE PATH, CHAPTER 35
-
-they  alone  are  truly  living  for  us.  Here  is  one  of  life’s  beautiful
+are the only truths of the true church! They are called this because they  alone  are  truly  living  for  us.  Here  is  one  of  life’s  beautiful
 states:  when  truths  in  us  receive  loves  that  inflow  from  our  very
 inmost,  from  our  earliest  childhood  innocence  and  remains,  and
 these truths become alive. They are like wine in the silver cup (AC
@@ -7621,13 +6389,7 @@ ever  overcoming  spiritual  theft  —  despair  instilled  through  the
 Lord’s maternal human.
 
 The despair is expressed in the literal story by the reaction
-of the brothers when Joseph’s chief servant finds the silver cup
-
-206
-
-TEMPTATIONS TO SPIRITUAL THEFT
-
-in Benjamin’s pouch. They must have felt, “What’s the use?”
+of the brothers when Joseph’s chief servant finds the silver cup in Benjamin’s pouch. They must have felt, “What’s the use?”
 They tore their clothes in misery, and as we have already seen,
 went back to Joseph and fell down to the earth in front of him.
 They said, “God has found out the iniquity of your servants”
@@ -7661,13 +6423,7 @@ that  all  good  and  truth  are  the  Lord’s.  But  to  really  acknowledge
 this is a lifelong struggle, a struggle that intensifies in the advanced
 regeneration of human beings and the advanced glorification of the
 Lord. How many of our daily motivations are based on wanting to
-appear  intelligent  or  sharp  or  wise?  How  often  are  we  concerned
-
-207
-
-THE PATH, CHAPTER 35
-
-about our position, our superiority? How often do we think we are
+appear  intelligent  or  sharp  or  wise?  How  often  are  we  concerned about our position, our superiority? How often do we think we are
 good because we have done this or that? This common human trait
 is termed “self-righteousness” in the Word, and it is said that from
 this quality “many evils well up. Thinking in this way, a person sees
@@ -7703,9 +6459,8 @@ ly self-love that looks to the Lord. This new love of self (the new
 Judah) at last sees the real guilt of the former love and submits itself
 completely  to  what  is  inmost,  which  in  reality  contains  the  Lord
 
-208
 
-TEMPTATIONS TO SPIRITUAL THEFT
+
 
 Himself.  A  real  regeneration  is  taking  place  here,  and  it  comes
 about only through first experiencing despair. The sensuous in us is
@@ -7746,9 +6501,8 @@ is living. We see it as reality itself.
 But Benjamin represents a deeper insight into truth when he is
 with Joseph. Then he is said to represent “truth even more interior”
 
-209
 
-THE PATH, CHAPTER 35
+
 
 (Ibid.). Truth springing from celestial love (Joseph) is from an even
 higher level. Celestial good is higher than spiritual good. Love of
@@ -7789,16 +6543,8 @@ difficult? But the result will be the coming of the Lord.
 ---
 ~~~
 
-== Chapter Thirty-Six
-
-CELESTIAL LOVE REVEALED
-
-JOSEPH REVEALS HIS IDENTITY
-GENESIS 45
-
-With great tenderness, Joseph now reveals his 
-identity to his astonished brothers. He urges them to 
-go and fetch their father and their wives and
+== Chapter Thirty-Six CELESTIAL LOVE REVEALED JOSEPH REVEALS HIS IDENTITY
+GENESIS 45 With great tenderness, Joseph now reveals his identity to his astonished brothers. He urges them to go and fetch their father and their wives and
 children, and to come and live in Egypt with him.
 
 “And  Joseph  could  not  contain  himself  before  all  those
@@ -7814,13 +6560,7 @@ After all, this was the brother they had betrayed, the broth-
 er they had wished to kill. Now Joseph asked them to draw near
 him, and he talked with them from his heart:
 
-“Do not be grieved, and do not have anger in your eyes that
-
-211
-
-THE PATH, CHAPTER 36
-
-you sold me here; for God sent me before you for the bestowal
+“Do not be grieved, and do not have anger in your eyes that you sold me here; for God sent me before you for the bestowal
 of life. . . .God sent me before you to establish for you a remnant
 on  the  earth,  and  for  the  bestowal  of  life  on  you  for  a  great
 escape. And now you did not send me here, but God. . . .Make
@@ -7855,13 +6595,7 @@ same time we are afraid of this damnation. But Joseph now reveals
 that he is sent before us for a great escape. The remains of earliest
 infancy are the counterbalance to all our hereditary evil. And if as
 adults we try to shun evils as best we can with the Lord’s help, then
-the Joseph in us will deliver us from bondage and lead us to a “great
-
-212
-
-CELESTIAL LOVE REVEALED
-
-escape.” Joseph is the Lord’s gift to each human heart, a gift wait-
+the Joseph in us will deliver us from bondage and lead us to a “great escape.” Joseph is the Lord’s gift to each human heart, a gift wait-
 ing to be received.
 
 The affections expressed in this part of Genesis are a revelation
@@ -7899,9 +6633,8 @@ show His glory and deeply move the disciples who were with Him?
 brother, and brought them up on a high mountain by themselves,
 and was transfigured before them. His face shone like the sun, and
 
-213
 
-THE PATH, CHAPTER 36
+
 
 His clothes were as white as light. And behold, Moses and Elijah
 appeared to them, talking with Him. Then Peter answered and said
@@ -7940,13 +6673,7 @@ Goshen to join his family. Even Pharaoh was aware of this key
 absence. He said to Joseph:
 
 “Say to your brothers, ‘Do this: Load your animals and go,
-get you to the land of Canaan. And take your father and your
-
-214
-
-CELESTIAL LOVE REVEALED
-
-households, and come to me’. . . .And Joseph sent his brothers
+get you to the land of Canaan. And take your father and your households, and come to me’. . . .And Joseph sent his brothers
 away, and they went; and Joseph said to them, ‘Do not quarrel
 on the way.’ And they went up out of Egypt, and came to the
 land of Canaan, to Jacob their father. And they told him saying,
@@ -7982,13 +6709,7 @@ truths we love with all our outer life. It brings fulfillment. As Israel
 said: “[It is] enough!”
 
 It  is  vital  that  Israel  come  down  and  join  all  his  family  in
-Egypt. This represents Divine good in the natural level coming to
-
-215
-
-THE PATH, CHAPTER 36
-
-the Divine truth in the sensuous level, and successively becoming
+Egypt. This represents Divine good in the natural level coming to the Divine truth in the sensuous level, and successively becoming
 integrated into the Divine Human. The Lord on earth is becoming,
 successively,  “Divine  love  in  human  form”  (AC  4735).  You  feel
 this in reading the latter parts of the gospels, especially the gospel
@@ -8001,23 +6722,15 @@ temptations (see AC 9670:4).
 ---
 ~~~
 
-== Chapter Thirty-Seven
-
-CELESTIAL LOVE AND CHARITY
-
-REUNITE
+== Chapter Thirty-Seven CELESTIAL LOVE AND CHARITY REUNITE
 
 THE REUNION OF JOSEPH AND ISRAEL
-GENESIS 46
-
-Israel journeys toward Egypt, with all of his
+GENESIS 46 Israel journeys toward Egypt, with all of his
 children and their families.
 
-God assures him that He will make them a great 
-nation in Egypt.
+God assures him that He will make them a great nation in Egypt.
 
-Israel and Joseph are reunited. They embrace and 
-weep together.
+Israel and Joseph are reunited. They embrace and weep together.
 
 Israel’s belief that Joseph had been torn to pieces by a wild
 beast had haunted his life. To him, Joseph was dead. Within this
@@ -8032,9 +6745,8 @@ everything: that He is our Father Who tenderly cares for us every
 moment. In adult life, it seems that a wild beast destroys both this
 earliest innocence and its “childish” beliefs.
 
-217
 
-THE PATH, CHAPTER 37
+
 
 As time goes on in rebirth, Jacob takes on progressively higher
 representations. First he is truth in the natural level, then the good-
@@ -8072,18 +6784,10 @@ and a mutual desire of mind and heart to do the other every good”
 
 Israel’s journey to Egypt and being reunited with Joseph is
 charity, or active love of the neighbor, coming to celestial love and
-being conjoined with it. This changes the nature of the charity, for
-
-218
-
-CELESTIAL LOVE AND CHARITY REUNITE
-
-now it is being conjoined with the highest innocence and love in the
+being conjoined with it. This changes the nature of the charity, for now it is being conjoined with the highest innocence and love in the
 human  mind.  It  is  conjoined  with  that  gentle  and  trusting  quality
 from the earliest times in our lives, a quality we had thought dead.
-In Beersheba, as Israel started his journey down to reunite
-
-with Joseph,
+In Beersheba, as Israel started his journey down to reunite with Joseph,
 
 “God  spoke  to  Israel  in  visions  of  the  night,  and  said,
 ‘Jacob, Jacob.’ And he said, ‘Behold, here I am.’ And He said,
@@ -8118,9 +6822,8 @@ With Him, as with us in potential, spiritual progress is descending
 from  inmosts  to  outmosts.  Divine  love  is  coming,  bringing
 warmth and life to each successive level of the heart and thought.
 
-219
 
-THE PATH, CHAPTER 37
+
 
 When  and  if  our  “Israel”  joins  our  “Joseph,”  it  is  like  an  angel
 putting his hand on our eyes. When his hand is removed, we see
@@ -8158,13 +6861,7 @@ ly made Divine Good of Divine Love by union with the Father”
 This reunion of Joseph and Israel is another of the key stages in
 the Lord’s process of becoming Divine goodness on this earth. This
 process was not completed until the end of His temptation on the
-cross, when “He made His human Divine Good” (AC 9670:4). The
-
-220
-
-CELESTIAL LOVE AND CHARITY REUNITE
-
-specific words here are: “When He departed out of the world, He
+cross, when “He made His human Divine Good” (AC 9670:4). The specific words here are: “When He departed out of the world, He
 made His Human Divine good” (Ibid.). Still, Israel’s and Joseph’s
 reunion is a great step in this process.
 
@@ -8198,13 +6895,7 @@ mind, the truths that have been gathered into it may be recollected
 at the same time” (AC 6004:3).
 
 “It is an essential of Divine order that interior things should be
-gathered into exterior ones, so that finally everything prior should
-
-221
-
-THE PATH, CHAPTER 37
-
-be gathered into what is last and lowest and coexist with it. This is
+gathered into exterior ones, so that finally everything prior should be gathered into what is last and lowest and coexist with it. This is
 what  happens  in  the  entire  creation.  If  this  were  not  so,  no  one
 could be fully regenerated” (AC 6004:4).
 
@@ -8222,7 +6913,7 @@ This is a call to become aware that behind all the beauty of cre-
 ation, the facts of science, the history of civilization, the origin of
 the human species, is the hand of the Divine Creator. When inner
 loves, truths, and data are ordered from above, we are open to the
-song of David: 
+song of David:
 
 “O Lord, our Lord, how excellent is Your name in all the earth,
 You Who  set Your  glory  above  the  heavens.  .  .  .When  I  consider
@@ -8237,13 +6928,7 @@ created each of us, Who loves us, and Who made all of creation in
 order to lead us in freedom to heaven.
 
 It is the Joseph in us that sees. This Joseph welcomes Jacob
-and  all  his  children  and  belongings  into  Egypt. He  welcomes
-
-222
-
-CELESTIAL LOVE AND CHARITY REUNITE
-
-truths and goods and innocence into the Egypt of sensual and sci-
+and  all  his  children  and  belongings  into  Egypt. He  welcomes truths and goods and innocence into the Egypt of sensual and sci-
 entific  knowledge.  For  the  senses  and  sciences  will  gradually
 become  truly  alive  for  us,  brightened  by  the  Lord’s  charity  and
 light. But it will still take some time. There is still a famine in the
@@ -8255,26 +6940,14 @@ coming to us, even to our senses.
 ---
 ~~~
 
-== Chapter Thirty-Eight
-
-REBIRTH OF THE SENSUOUS
-
-DEALING WITH THE FAMINE
-GENESIS 47
-
-Joseph tells Pharaoh of his family’s arrival.
+== Chapter Thirty-Eight REBIRTH OF THE SENSUOUS DEALING WITH THE FAMINE
+GENESIS 47 Joseph tells Pharaoh of his family’s arrival.
 
 They settle in the land of Goshen, in Egypt.
 
-The famine remains very severe. When people run 
-out of money to buy grain from Joseph, he offers to 
-trade them the grain for livestock.
+The famine remains very severe. When people run out of money to buy grain from Joseph, he offers to trade them the grain for livestock.
 
-When the livestock runs out, Joseph accepts land 
-from the people in exchange for food. The land 
-would now belong to Pharaoh. The people would still 
-work the land, but give one fifth of their future 
-crops to Pharaoh.
+When the livestock runs out, Joseph accepts land from the people in exchange for food. The land would now belong to Pharaoh. The people would still work the land, but give one fifth of their future crops to Pharaoh.
 
 Joseph  told  Pharaoh  his  good  news:  Joseph’s  father  and
 brothers had come with all their possessions to settle in the land
@@ -8284,13 +6957,7 @@ could show kindness in return.
 
 “ ‘The land of Egypt is before you; in the best of the land
 cause your father and your brothers to dwell; let them dwell in
-the land of Goshen. . . .’ And Joseph caused Jacob his father to
-
-224
-
-REBIRTH OF THE SENSUOUS
-
-come,  and  placed  him  before  Pharaoh;  and  Jacob  blessed
+the land of Goshen. . . .’ And Joseph caused Jacob his father to come,  and  placed  him  before  Pharaoh;  and  Jacob  blessed
 Pharaoh. . . .And Joseph sustained his father and his brothers,
 and all his father’s household with bread” (Gen. 47:6,7,12).
 
@@ -8328,9 +6995,8 @@ level. Why are our senses not alive to inner beauty and love? Why
 are our knowledges, though ordered from above, still not sparkling,
 seemingly devoid of real life?
 
-225
 
-THE PATH, CHAPTER 38
+
 
 Something powerful and subtle is standing in the way. This is
 hereditary  evil,  still  hidden  within  our  sensuous  level.  It  is  the
@@ -8369,9 +7035,8 @@ everything  is  held  in  place  is  the  Lord  Himself;  and  what  holds
 everything  in  place  is  Divine  Truth  going  forth  from  Him”  (AC
 6115:3).
 
-226
 
-REBIRTH OF THE SENSUOUS
+
 
 With Jesus Christ on earth, this is a far-advanced stage of glo-
 rification. He now is being further glorified even as to His sensu-
@@ -8407,13 +7072,7 @@ Here  is  the  cause  of  obscurity,  of  famine:  “the  person’s  self-
 hood”  cuts off heavenly influx. Knowledges with their truths (sil-
 ver)  have  been  totally  ascribed  to  the  Lord.  But  now  something
 even more meaningful, loves with their truth in the sensuous level
-seem gone (AC 6123). Loves in the natural or sensuous level that
-
-227
-
-THE PATH, CHAPTER 38
-
-spring from truths there — these have sustained us and fed us. But
+seem gone (AC 6123). Loves in the natural or sensuous level that spring from truths there — these have sustained us and fed us. But
 as the famine continues, even these loves with their truths must be
 transferred  to  the  Lord.  The  livestock,  which  represent  our  outer
 sensual  loves,  must  be  given  to  Joseph  in  return  for  bread.  In
@@ -8449,9 +7108,8 @@ die, and the ground may not become a waste’ ” (Gen. 47:18,19).
 “Nothing is left before [my] lord apart from our bodies and
 our ground.” This is the giving up of the belief of our proprium
 
-228
 
-REBIRTH OF THE SENSUOUS
+
 
 (our feeling of selfhood) that our outmost life, our bodies and their
 sensations  are  ours.  Outermost  life  and  sensations  come  through
@@ -8489,13 +7147,10 @@ and not let them be the origin of anxiety. We perceive too that the
 spiritual body is within our natural one and that we will enter into this
 spiritual body with its health and youth upon leaving this world.
 
-229
 
-THE PATH, CHAPTER 38
 
-The body in true order is a receptacle of life and of good from
 
-the Lord (AC 6135).
+The body in true order is a receptacle of life and of good from the Lord (AC 6135).
 
 “I  [Swedenborg]  have  been  able  to  see  quite  clearly  from  the
 angels that ‘body’ in the genuine sense is the good of love. When
@@ -8528,13 +7183,7 @@ The  temptations  and  desolation  represented  by  giving  up  the
 silver, cattle, bodies and ground are nearly the final temptations of
 human regeneration. And with the Lord too, these are almost the
 last temptations. They are certainly near if not identical with the
-temptations  in  the  garden  of  Gethsemane,  when  “His  sweat
-
-230
-
-REBIRTH OF THE SENSUOUS
-
-became  like  great  drops  of  blood  falling  down  to  the  ground”
+temptations  in  the  garden  of  Gethsemane,  when  “His  sweat became  like  great  drops  of  blood  falling  down  to  the  ground”
 (Luke 22:44).
 
 In  return  for  offering  up  their  bodies  and  ground,  the
@@ -8546,7 +7195,7 @@ no  longer”  (AC  6140).  This  seed  they  would  plant  in  the  earth
 (goodness in the sensuous level), awaiting rain from heaven or irri-
 gation from the Nile. “The fear of damnation no longer” – these
 are the sweetest words, and they speak to a fear of old people and
-of many others. 
+of many others.
 
 Of  Joseph’s  final  steps  to  feed  the  Egyptians  through  the
 years of famine, it is said that “only the ground of the priests he
@@ -8568,13 +7217,7 @@ what is good perishes” (AC 6148:2).
 Our  abilities,  our  talents,  and  our  receptions  of  loves  and
 insights — these come from the Lord. He gives them to us as tal-
 ents without any help from ourselves. Sometimes we forget this and
-become elated over our own abilities and creativity. What seems to
-
-231
-
-THE PATH, CHAPTER 38
-
-happen  then,  very  often,  is  that  our  wells  dry  up! We  easily  lose
+become elated over our own abilities and creativity. What seems to happen  then,  very  often,  is  that  our  wells  dry  up! We  easily  lose
 visions and new insights when we get conceited. The painting will
 not come, or the writing encounters a mental block. Things seem to
 go wrong with our creative endeavors. I think this happens in order
@@ -8588,26 +7231,14 @@ Messiah” comes from the Lord.
 ---
 ~~~
 
-== Chapter Thirty-Nine
+== Chapter Thirty-Nine A NEW UNDERSTANDING AND WILL IN THE SENSUOUS BLESSINGS OF EPHRAIM AND MANASSEH
+GENESIS 48 Israel (Jacob) becomes sick, and is near death.
 
-A NEW UNDERSTANDING AND
+Joseph brings his two sons to his father so that they may receive his blessing.
 
-WILL IN THE SENSUOUS
+Joseph puts his older son, Manasseh, at Israel’s right hand to receive the greater blessing.
 
-BLESSINGS OF EPHRAIM AND MANASSEH
-GENESIS 48
-
-Israel (Jacob) becomes sick, and is near death.
-
-Joseph brings his two sons to his father so that they 
-may receive his blessing.
-
-Joseph puts his older son, Manasseh, at Israel’s right 
-hand to receive the greater blessing.
-
-Israel, however, crosses his arms and puts his right 
-hand on the head of Ephraim, the younger son, and 
-his left hand on the head of Manasseh.
+Israel, however, crosses his arms and puts his right hand on the head of Ephraim, the younger son, and his left hand on the head of Manasseh.
 
 This displeases Joseph, but Israel says it must be so.
 
@@ -8618,13 +7249,7 @@ Israel was told: “Behold, your son Joseph has come to you. And
 Israel strengthened himself, and sat on the bed” (Gen. 48:2). He
 reminisced then about outstanding events in his lifetime, things
 that had touched his heart. He spoke of God’s appearing to him
-in Luz (or Bethel), with that vision of the ladder ascending to
-
-233
-
-THE PATH, CHAPTER 39
-
-heaven, and of God’s blessing him then.
+in Luz (or Bethel), with that vision of the ladder ascending to heaven, and of God’s blessing him then.
 
 Israel spoke warmly to Joseph of his sons: “And now your
 two sons. . .they are mine, Ephraim and Manasseh. As Reuben
@@ -8661,9 +7286,8 @@ Manasseh’s  head;  crosswise  he  put  out  his  hands.  .  .  .”  (Gen.
 48:14). In so blessing them, he said: “May God bless the boys,
 and in them will my name be called, and the name of my fathers
 
-234
 
-A NEW UNDERSTANDING AND WILL IN THE SENSUOUS
+
 
 Abraham and Isaac; and may they increase into a multitude in
 the midst of the earth” (Gen. 48:16).
@@ -8704,9 +7328,8 @@ angels (AC 1802-6).
 This is possible because the Lord reaches this stage of the glo-
 rification: His Sensuous is made Divine. He establishes the path of
 
-235
 
-THE PATH, CHAPTER 39
+
 
 Ephraim (a new understanding) as being first in His sensuous, and
 then Manasseh (a new will).
@@ -8742,13 +7365,7 @@ warmth into our outer earth, to our senses. This means that the body
 stops  ruling  us.  Sensual  delights  become  subordinate;  heavenly
 loves are uppermost. Charity and love lead instead of bodily lusts
 and anxieties. It was Joseph who saw a truth when it came to the
-genuine relationship of Manasseh and Ephraim. It was “wrong in
-
-236
-
-A NEW UNDERSTANDING AND WILL IN THE SENSUOUS
-
-his eyes” (Gen. 48: 17) that Israel gave priority of blessing to
+genuine relationship of Manasseh and Ephraim. It was “wrong in his eyes” (Gen. 48: 17) that Israel gave priority of blessing to
 Ephraim.
 
 The Arcana explains that the phrase “it was wrong in his eyes”
@@ -8790,17 +7407,10 @@ ous level and the body.
 ---
 ~~~
 
-== Chapter Forty
+== Chapter Forty A REVIEW OF THE GLORIFICATION ISRAEL’S FINAL BLESSINGS
+GENESIS 49 Israel gives final blessings or curses to his sons.
 
-A REVIEW OF THE GLORIFICATION
-
-ISRAEL’S FINAL BLESSINGS
-GENESIS 49
-
-Israel gives final blessings or curses to his sons.
-
-He instructs them to bury him with his ancestors, 
-and then he dies.
+He instructs them to bury him with his ancestors, and then he dies.
 
 The final two chapters of Genesis bring the history of Israel
 and then of Joseph to fulfilling ends. Israel, an old man, called
@@ -8817,13 +7427,7 @@ true beginning, the fulfillment of the purpose of life on earth. Death
 then, in the spiritual sense, means new life. In this there is the heart-
 beat of hope rather than any lasting tragedy. Israel was “gathered to
 his peoples” in the spiritual world. By this great step in Israel’s life
-is  meant  the  Lord’s  coming  into  Divine  good  in  His  natural  as  a
-
-238
-
-A REVIEW OF THE GLORIFICATION
-
-whole.  This  Divine  good  is  His  intense,  compassionate  love  for
+is  meant  the  Lord’s  coming  into  Divine  good  in  His  natural  as  a whole.  This  Divine  good  is  His  intense,  compassionate  love  for
 each human being ever born.
 
 When  did  He  become  Divine  good  or  love  on  this  natural
@@ -8859,13 +7463,7 @@ human mind: those goods and truths, or their opposites, that make
 up a human being. Why, at the end of His life on this earth, did the
 Lord  make  this  summation  of  qualities  composing  the  human
 mind? It reminds me of the discovery that, when near death and res-
-urrection, a person experiences a quick review of his entire history,
-
-239
-
-THE PATH, CHAPTER 40
-
-his entire lifetime on earth. Did the Lord experience such a review
+urrection, a person experiences a quick review of his entire history, his entire lifetime on earth. Did the Lord experience such a review
 now of His entire glorification?
 
 Israel’s blessings and curses seem to be a summation of the glo-
@@ -8901,13 +7499,7 @@ an  old  lion;  who  will  rouse  him?  The  scepter  will  not  be
 removed from Judah, nor the lawgiver from between his feet,
 until Shiloh comes; and to him will be the obedience of the peo-
 ples. He binds his young ass to the vine, and the foal of his she-
-ass to the outstanding vine; he washes his clothing in wine, and
-
-240
-
-A REVIEW OF THE GLORIFICATION
-
-his garment in the blood of grapes. His eyes are red from wine,
+ass to the outstanding vine; he washes his clothing in wine, and his garment in the blood of grapes. His eyes are red from wine,
 and his teeth white from milk” (Gen. 49:11).
 
 Judah is the celestial church (AC 6363), that is, all those who
@@ -8944,9 +7536,8 @@ Genesis 3:15 that He would be born on earth: “And I will put enmi-
 ty  between  you  [the  serpent]  and  the  woman,  and  between  your
 seed and her Seed. He shall bruise your head, and you shall bruise
 
-241
 
-THE PATH, CHAPTER 40
+
 
 His heel.” This “He” is the Lord Jesus Christ, to be born of the vir-
 gin Mary.
@@ -8983,13 +7574,7 @@ the God of your father, Who will help you, and together with
 Shaddai, Who will bless you with the blessings of heaven from
 above, the blessings of the deep lying beneath, the blessings of
 the breasts and of the womb. The blessings of your father will
-prevail  over  the  blessings  of  my  ancestors,  even  as  far  as  the
-
-242
-
-A REVIEW OF THE GLORIFICATION
-
-desire  of  the  everlasting  hills.  They  will  be  on  the  head  of
+prevail  over  the  blessings  of  my  ancestors,  even  as  far  as  the desire  of  the  everlasting  hills.  They  will  be  on  the  head  of
 Joseph, and on the crown of the head of the Nazarite among his
 brothers” (Gen. 49:22-26, selections).
 
@@ -9025,13 +7610,7 @@ after temptations” (AC 6429).
 From the Lord a regenerating person will receive “blessings of
 heaven  from  above”  (Gen.  49:25).  These  “mean  blessings  with
 goodness and truth from a source within” (AC 6430). This tells of
-love  and  faith  touching  us  tenderly  from  within,  changing  our
-
-243
-
-THE PATH, CHAPTER 40
-
-nature.  Also  given  are  “blessings  of  the  deep  lying  beneath”
+love  and  faith  touching  us  tenderly  from  within,  changing  our nature.  Also  given  are  “blessings  of  the  deep  lying  beneath”
 (Gen.  49:25),  which  tell  of  factual  knowledges  marvelously
 ordered  by  Divine  truth.  When  revealed  truth  orders  our  percep-
 tions of science and nature, it transforms them into real blessings.
@@ -9066,13 +7645,7 @@ a return to a golden age, but now a new golden age of celestial love
 (see AC 6435:1,3).
 
 Following the blessing of Joseph, we read of Benjamin:
-“Benjamin  is  a  wolf;  he  will  seize  in  the  morning,  he  will
-
-244
-
-A REVIEW OF THE GLORIFICATION
-
-devour  the  spoil,  and  at  evening  he  will  divide  the  plunder”
+“Benjamin  is  a  wolf;  he  will  seize  in  the  morning,  he  will devour  the  spoil,  and  at  evening  he  will  divide  the  plunder”
 (Gen. 49:27). How strange! Why, after the beautiful blessing upon
 Joseph, is Benjamin cursed? Why do the blessings end by seeming
 to curse the youngest son?
@@ -9107,13 +7680,7 @@ is said: “There is little Benjamin, their leader…” (Psalm 68:27).
 
 “All  these  are  the  twelve  tribes  of  Israel,  and  this  is  what
 their father spoke to them, and he blessed them, each according
-to  his  blessing  he  blessed  them. And  Israel  commanded  them
-
-245
-
-THE PATH, CHAPTER 40
-
-and said to them, ‘I am being gathered to my people; bury me
+to  his  blessing  he  blessed  them. And  Israel  commanded  them and said to them, ‘I am being gathered to my people; bury me
 with my fathers, at the cave, which is in the field of Ephron the
 Hittite,  in  the  cave  which  is  in  the  field  of  Machpelah,  which
 faces Mamre in the land of Canaan, which Abraham bought. .
@@ -9143,28 +7710,16 @@ gives a different aspect to the Easter story itself.
 ---
 ~~~
 
-== Chapter Forty-One
+== Chapter Forty-One ANGUISH, RECONCILIATION,
 
-ANGUISH, RECONCILIATION, 
+GLORIFICATION THE FINAL YEARS OF JOSEPH
+GENESIS 50 There is a great ceremony honoring the embalming and burial of Israel, with mourning by Joseph and his family, and also by the Egyptians.
 
-GLORIFICATION
+Joseph tenderly assures his brothers that he has forgiven their past sins against him.
 
-THE FINAL YEARS OF JOSEPH
-GENESIS 50
+Joseph lives to see his great grandchildren. Then, after assuring his family that God will eventually bring them back to Canaan, he dies.
 
-There is a great ceremony honoring the embalming 
-and burial of Israel, with mourning by Joseph and 
-his family, and also by the Egyptians.
-
-Joseph tenderly assures his brothers that he has 
-forgiven their past sins against him.
-
-Joseph lives to see his great grandchildren. Then, 
-after assuring his family that God will eventually 
-bring them back to Canaan, he dies.
-
-Joseph’s body is embalmed. Much later, it will be 
-carried to Canaan.
+Joseph’s body is embalmed. Much later, it will be carried to Canaan.
 
 We come now to the end of the Lord’s glorification as shown
 through Genesis. In this final chapter in Genesis, we will learn of a
@@ -9173,13 +7728,7 @@ his  brothers,  and  the  golden  old  age  and  death  of  Joseph.  In  the
 New Testament, the parallel story includes the Lord’s last tempta-
 tion on the cross, His states of love and compassion as His tempta-
 tion ends, and His death and glorification. The Lord’s states of love
-and compassion on the cross are depicted in the internal sense of
-
-247
-
-THE PATH, CHAPTER 41
-
-the final experiences of Joseph’s old age.
+and compassion on the cross are depicted in the internal sense of the final experiences of Joseph’s old age.
 
 “And Joseph fell upon his father’s face, and wept on him,
 and kissed him” (Gen. 50:1). Joseph mourned and felt anguish
@@ -9216,13 +7765,7 @@ Israel symbolizes a general goodness in the natural, and now,
 with his death, this goodness is glorified, made Divine. The Lord
 has almost completed the successive states of becoming the Divine
 Good  (see  Ath.  Cr.  156,  AC  4538).  Jesus  said  in  the  New
-Testament: “ ‘Father, glorify your name.’ Then a voice came from
-
-248
-
-ANGUISH, RECONCILIATION, GLORIFICATION
-
-heaven, saying, ‘I have both glorified it and will glorify it again’ ”
+Testament: “ ‘Father, glorify your name.’ Then a voice came from heaven, saying, ‘I have both glorified it and will glorify it again’ ”
 (John  12:28).  At  this  point  in  the  Genesis  series,  the  Lord  has
 become the Divine good or love as to the whole natural, except its
 outmost parts.
@@ -9258,13 +7801,7 @@ is not yet a goodness in Jesus powerful enough to save humankind,
 not in His last temptations that include the celestial (Joseph) and the
 senses (the Egyptians here). Something is still needed, desperately.
 The procession came “to the threshing-floor of Atad, which is at
-the crossing of the Jordan, and wailed there with a great and
-
-249
-
-THE PATH, CHAPTER 41
-
-extremely loud wailing” (Gen. 50:10). “And the inhabitants of
+the crossing of the Jordan, and wailed there with a great and extremely loud wailing” (Gen. 50:10). “And the inhabitants of
 the land said, ‘This is an intense mourning for the Egyptians’ ”
 (Gen. 50:11).
 
@@ -9300,13 +7837,7 @@ hells force this reality into the Lord’s suffering heart and mind. He
 knows  there  is  still  one  great  and  terrible  step  to  take.  His  finite
 human essence needs to be yielded up and glorified. To have this
 happen, He must endure the agony of this temptation to its end. The
-Lord foresees this in the Garden of Gethsemane: “O My Father, if
-
-250
-
-ANGUISH, RECONCILIATION, GLORIFICATION
-
-this cup cannot pass away from Me unless I drink it, Your will be
+Lord foresees this in the Garden of Gethsemane: “O My Father, if this cup cannot pass away from Me unless I drink it, Your will be
 done”  (Matt.  26:42).  During  the  agony  of  the  temptation  on  the
 cross, He longs for the inmost truth that would lead to our salva-
 tion. He cries, “I thirst” (John 19:28), for water represents the liv-
@@ -9340,13 +7871,7 @@ repaid you, and now forgive, I beg you, the transgressions of the
 servants of your father’s God” ’ ” (Gen. 50:15-17, selections).
 “And Joseph wept as they spoke to him” (Gen. 50:17).
 “And his brothers also went and fell down before him, and
-said, ‘Behold, we are your slaves.’ And Joseph said to them, ‘Do
-
-251
-
-THE PATH, CHAPTER 41
-
-not be afraid, for am I in the place of God? And you thought
+said, ‘Behold, we are your slaves.’ And Joseph said to them, ‘Do not be afraid, for am I in the place of God? And you thought
 evil against me; God thought (to turn) it into good, in order to
 do what is in accord with this day, to bestow life on a great peo-
 ple.  And  now,  do  not  be  afraid.  I  will  sustain  you  and  your
@@ -9383,9 +7908,8 @@ which He united the Human Essence to the Divine Essence. These
 cannot be compared to the remains that pertain to a person, for the
 latter are human, not Divine” (AC 1906:4).
 
-252
 
-ANGUISH, RECONCILIATION, GLORIFICATION
+
 
 “And  Joseph  saw  Ephraim’s  sons  of  the  third  generation;
 also the sons of Machir, Manasseh’s son, were born on Joseph’s
@@ -9423,13 +7947,7 @@ that mark the completion of the glorification: “It is finished” (John
 19: 30). The finite human essence has achieved its inmost goal, and
 now is replaced by the Divine Human in its fullness.
 
-What is not shown in the Joseph story in representative terms is
-
-253
-
-THE PATH, CHAPTER 41
-
-the glorification of the Lord’s body in the tomb, although Joseph
+What is not shown in the Joseph story in representative terms is the glorification of the Lord’s body in the tomb, although Joseph
 did  ask  his  sons  to  bring  back  “my  bones”  to  the  land  of
 Canaan (Gen. 50:25), and Canaan with Jesus signifies the Divine.
 We read that Joseph was “embalmed, and he was put in an ark
@@ -9466,9 +7984,8 @@ name is called “Wonderful.” Jesus has become the Divine Good on
 every  plane,  from  inmosts  to  outmosts.  From  this  good  proceeds
 healing Divine Truth (AC 9670, Ath. Cr. 156).
 
-254
 
-ANGUISH, RECONCILIATION, GLORIFICATION
+
 
 It is to the New Testament that we must turn to see clearly the
 Lord  in  His  Easter  rising  and  in  His  post-Easter  times  with  His
@@ -9503,15 +8020,9 @@ you seeking?’ She, supposing Him to be the gardener, said to Him,
 Him,  and  I  will  take  Him  away.’  Jesus  said  to  her,  ‘Mary.’  She
 turned and said to Him, ‘Rabboni!’ ” (John 20:11-17).
 
-In a sense, each of us is Mary Magdalene. We have sinned in
-
-255
-
-THE PATH, CHAPTER 41
-
-our lives, yet we search for the Lord. The message of Easter is that
+In a sense, each of us is Mary Magdalene. We have sinned in our lives, yet we search for the Lord. The message of Easter is that
 He is not in the tomb, “He is risen.” To each of us He would come
-and say our spiritual name. He waits for us to discover Him.  
+and say our spiritual name. He waits for us to discover Him. 
 
 It is in the Arcana story of Abraham, Isaac, Jacob and Joseph
 that the Lord makes Himself visible to our hearts and thoughts, to
@@ -9542,9 +8053,8 @@ we forgive our debtors. And lead us not into temptation, but deliv-
 er us from evil. For Thine is the kingdom, and the power, and the
 glory forever.” Amen.
 
-256
 
-ABOUT THE AUTHOR
+
 
 Geoffrey  S.  Childs  is  also  author  of  The  Golden  Thread  (1986,
 General  Church  Press).  He  was  ordained  into  the  ministry  of  the
@@ -9556,9 +8066,7 @@ married  to  Helga  Synnestvedt  Childs,  and  they  have  eight  grown
 children. He passed into the spiritual world at age 82 in February,
 2009.
 
-ABOUT THE COVER ART AND ARTIST
-
-Kären Childs Elder is the sixth child of Geoffrey and Helga. She
+ABOUT THE COVER ART AND ARTIST K Childs Elder is the sixth child of Geoffrey and Helga. She
 graduated from the Ontario College of Art in 1981 with a degree in
 fine  arts,  and  now  lives  with  her  husband  Jack  in  Rochester,
 Michigan. They have six children. Kären has taught art at Upland
@@ -9579,4 +8087,3 @@ the number of people He will save will be as numerous as the stars.
 
 259
 
-
