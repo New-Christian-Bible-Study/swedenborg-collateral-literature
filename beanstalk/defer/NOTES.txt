@@ -16,5 +16,16 @@ parables-of-jesus-clowes.pdf
 Again, two different versions.
 Here, the PDF changed from the Q&A format, which the HTML version retained.
 
+=======================
+PDFs .... too big or too clean and complex for useful conversion back to text/markup
+can be broken down first if useful/appropriate/desired
+
+these files, shown with their page counts:
+390     Commentary_on_St_John-Bruce.pdf
+448     Commentary_on_the_Revelation_of_St_John-Bruce.pdf
+457     Commentary_on_Matthew-Bruce.pdf
+498     The_Psalms-Clowes.pdf
+611     The_Two_Books_of_Kings_Explained-Maclagen.pdf
+1134    Minor_Prophets_Major_Message-Mccurdy.pdf
 
 
