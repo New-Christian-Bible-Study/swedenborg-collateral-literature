@@ -1,109 +1,21 @@
 = The Tabernacle of Israel
-DeCharms
+By the Rt. Rev. George de Charms
 include::../../template-attributes.adoc[]
 
-The Tabernacle of Israel
+////
+the Appendices will be a chore; also other drawing images
 
+195 embedded footnotes will be a challenge;
+////
+
+The Tabernacle of Israel + 
 By the Rt. Rev. George de Charms
 
-Pageant Press International Corp. 
-
-New York City
-
+Pageant Press International Corp. +  
+New York City + 
 1969
 
-
-Table of Contents
-
-Preface Introduction
-
-Part I: The Tabernacle as a Whole I. General Description II. Historic Background III. The Use of the Tabernacle to the Jews IV. The Present Use of the Tabernacle Part II: Materials of Construction V. Gold and Silver VI. Copper and Linen VII. Wool, and the Skins of Rams and of Kids VIII. Shittim Wood IX. Oil and Spices X. Onyx Stones and Stones of Fillings Part III: Furniture and Construction XI. The Ark and the Holy of Holies XII. The Holy Place and the Table of Shewbread XIII. The Lampstand XIV. The Altar of Incense XV. The Curtains XVI. The Boards and Bases XVII. The Veils XVIII. The Court and the Laver XIX. The Altar of Burnt Offering Part IV: The Priesthood and Sacrifices XX. The Priesthood XXI. The Priestly Vestments XXII. Burnt Offerings and Sacrifices XXIII. The Levites and Their Order of Encampment XXIV. The Removal of the Tabernacle and the Order of March Appendices
-
-Appendix I. The Materials of the Tabernacle Appendix II. The Lampstand 4
-
-6
-
-9
-
-9
-
-15
-
-19
-
-23
-
-26
-
-26
-
-31
-
-36
-
-41
-
-46
-
-52
-
-58
-
-58
-
-65
-
-71
-
-77
-
-83
-
-91
-
-97
-
-102
-
-109
-
-115
-
-115
-
-120
-
-125
-
-130
-
-137
-
-141
-
-141
-
-145
-
-
-Appendix III. The Corner Boards Appendix IV. The Stones of the Breastplate Appendix V. Table of Sacrifices and Offerings Appendix VI. Genealogy of the Levites Appendix VII. Coverings for the Furniture on the March Appendix VIII. The Order of the March Appendix IX. Reference Key to the Theological Writings of Emanuel Swedenborg 147
-
-148
-
-151
-
-153
-
-154
-
-155
-
-156
-
- 
- 
- 
- 
+<<<
  
 == Preface
 
@@ -117,20 +29,13 @@ As assistant pastor of the Bryn Athyn Church, we delivered a series of addresses
 After having made a preliminary study, the necessary drawings and specifications were prepared and the actual work was begun. A donation of fifteen dollars was received to cover the preliminary cost of materials. Later we proceeded as rapidly as the offering at the children's services would provide the needed funds. Within a period of three years the children made the table on which the model of the tabernacle was to stand. They also made the boards and the stakes, covering them, wherever required, with gold leaf. They had to have the help of a skilled cabinetmaker for the construction of the furniture, and of an expert goldsmith to make the lampstand, the censer, and the vessels for the table of shewbread. Later, the shovels and tongs, the fire pans and ash receptacles of copper were added, as well as figures to represent the priests and Levites. These were hand-carved in wood. The first curtains and veils which were made by the children had to be supplanted by others made by the teachers. The linen material woven in the four colors blue, purple, scarlet and white, with gold cherubim inwoven on the loom was made in Stockholm, Sweden, by a company that provided altar-cloths for the Lutheran Church.
 
 The task throughout has been fraught with difficulties which Jewish and Christian scholarship combined have failed to solve. The fact is that the Hebrew text is in many points obscure, translations vary, and interpreters are legion. Such a writer as T. O. Paine, LL.D., whose monumental work on Solomon's Temple includes a treatment of the tabernacle, has provided a valuable collection of original material which was of great assistance to us, although we were unable to accept many of his deductions. William Brown, E. E. Atwater, G. W. Colton, E. M.
-Epstein and others, all have afforded helpful suggestions, though the plans they adopted differ radically in many respects. The whole problem of the tabernacle construction, as prescribed in Exodus, seemed to be lost in a maze of unsupported conjecture. But the Writings of Emanuel Swedenborg threw an entirely new light upon it. The Rev. Dr. E. E. lungerich, in a short article published in the Academy Journal of Education for 1916 (Vol. 15, p. 135), brought together the new interpretations suggested by Swedenborg, especially those in the Word Explained
-(Adversaria). These provided a reasonable solution of several questions which had vexed the scholars. Further search of Swedenborg's Writings afforded valuable suggestions in regard to modes of construction, as well as an explanation of the spiritual significance of the many details.
+Epstein and others, all have afforded helpful suggestions, though the plans they adopted differ radically in many respects. The whole problem of the tabernacle construction, as prescribed in Exodus, seemed to be lost in a maze of unsupported conjecture. But the Writings of Emanuel Swedenborg threw an entirely new light upon it. The Rev. Dr. E. E. lungerich, in a short article published in the Academy Journal of Education for 1916 (Vol. 15, p. 135), brought together the new interpretations suggested by Swedenborg, especially those in the Word Explained (Adversaria). These provided a reasonable solution of several questions which had vexed the scholars. Further search of Swedenborg's Writings afforded valuable suggestions in regard to modes of construction, as well as an explanation of the spiritual significance of the many details.
 There were still certain problems for which we could find no assured solution, and in regard to these we had to hazard suggestions of our own. Whatever errors may be discovered in the future, I think it may justly be said that the modes of construction we adopted are on the whole more historically probable, and lend themselves more readily to the illustration of the spiritual teaching given in Swedenborg's Writings, than those adopted by other scholars. Our hope is that the present work may prove to be a step in the right direction over which the scholars of the future may pass to more accurate conjectures, and to deeper perceptions of the Divine significance of the tabernacle.
 
 We would acknowledge our indebtedness to all those who gave so willingly of their skill, their time and their energy to promote this project, especially to Mr. Wilfred Howard, the instructor in manual training; Miss Erna Sellner, Miss Venita Roschman, and Miss Elizabeth Ashby, who directed the work of the girls; Mr. Fred J. Cooper, who supervised the construction of the metal work, and identified the precious stones of the breastplate; also Mr. Thorsten Sigstedt, who carved the figures to represent the priests and Levites; and Mr. William R. Cooper, who for many years has taken care of the model, photographed its many parts and furnishings, and kept it in excellent repair.
 
 George de Charms
 
- 
- 
- 
- 
- 
- 
  
 == Introduction
 
@@ -165,17 +70,8 @@ We have added a description of the priests and Levites, noting their tribal divi
 
 That the text may read easily, and not become too involved for the nontechnical student, matters requiring particular analysis or tabulation have been relegated to appendices, to which suitable references are given.
 
- 
- 
- 
- 
- 
- 
-
-
-
 ---
-~~~
+<<<
 
 == Part I: The Tabernacle as a Whole
 
@@ -235,7 +131,7 @@ There are a few principles of construction which are here to be mentioned becaus
 
 
 ---
-~~~
+<<<
 
 === Historic Background
 
@@ -273,7 +169,7 @@ Now, the point we would emphasize is this: as to every detail the tabernacle rep
 
 
 ---
-~~~
+<<<
 
 === The Use of the Tabernacle to the Jews
 
@@ -319,7 +215,7 @@ Egypt, reduced to bondage, and held in ignorance for many generations. Only when
 
 
 ---
-~~~
+<<<
 
 === The Present Use of the Tabernacle
 
@@ -356,16 +252,16 @@ From the construction of the tabernacle, therefore, and from all its specificati
 
 
 ---
-~~~
+<<<
 
 == Part II: Materials of Construction
 
-V. Gold and Silver
+=== Gold and Silver
 
 The materials offered by the Sons of Israel for the construction of the tabernacle represent those spiritual things of which the Church or the Kingdom of God is formed in the human mind.
 It is significant that they were twelve in number, for everywhere in the Word the number twelve signifies all things of the Church in one complex.
 
- 12 One of the indications of how minute was the operation of the Divine Providence in providing a purely representative building is that exactly twelve different materials were employed in its construction. The gifts brought by the children of Israel at the command of Moses were gold, silver, copper, linen, wool, rams' skins, badgers' skins, shittim wood, oil, spices, onyx stones, and stones for the breastplate of Aaron. Each of these represents some spiritual constituent of the Church. But they especially represent those spiritual things which are provided by the Lord during the period of childhood and youth, before regeneration begins, as the necessary means by which it may be inaugurated. They represent remains stored in the mind, without which spiritual faith and a genuine religion in adult age would be impossible of attainment. No man could receive spiritual blessings nor enter upon the life of religion which leads to heaven after death, unless during childhood the Lord prepared the way arid secretly provided the necessary means. For this reason heavenly affections are insinuated before any one can be aware of their nature, or of their great importance. "For so He giveth His beloved in sleep." (Psalm 127:2)
+12 One of the indications of how minute was the operation of the Divine Providence in providing a purely representative building is that exactly twelve different materials were employed in its construction. The gifts brought by the children of Israel at the command of Moses were gold, silver, copper, linen, wool, rams' skins, badgers' skins, shittim wood, oil, spices, onyx stones, and stones for the breastplate of Aaron. Each of these represents some spiritual constituent of the Church. But they especially represent those spiritual things which are provided by the Lord during the period of childhood and youth, before regeneration begins, as the necessary means by which it may be inaugurated. They represent remains stored in the mind, without which spiritual faith and a genuine religion in adult age would be impossible of attainment. No man could receive spiritual blessings nor enter upon the life of religion which leads to heaven after death, unless during childhood the Lord prepared the way arid secretly provided the necessary means. For this reason heavenly affections are insinuated before any one can be aware of their nature, or of their great importance. "For so He giveth His beloved in sleep." (Psalm 127:2)
 Indeed, regeneration is a Divine miracle which the Lord must perform individually for every man.
 We are born into complete ignorance; we live by means of knowledges which come from without through the senses of the body. By this gateway we have touch only with the material world. Manifest sensations of spiritual things cannot be granted during childhood. How then can any knowledge or acknowledgment of God and of heaven be imparted? It is true that children can be taught about spiritual things, but such teaching merely enters the memory and is there retained without being understood. Whatever a child may learn from others is imposed upon him without any choice of his own. Only that which he acquires for himself by his own experience, and confirms by individual reflection becomes part of his life. When one becomes adult, and for the first time begins to think for himself, he inevitably interprets what he has been taught in the light of his personal experience. He then selects and retains from earlier teaching those things that appear to him to be true, and either ignores, or rejects the rest. Because he is primarily interested at that time in achieving some worldly ambition, the truths of religion seem visionary, like the fairies, the goblins, and the sprites of childhood's fancy. They may be remembered with tolerant affection, but they appear to have no important bearing upon the serious concerns of adult life. It is to some such state as this that every man would come unless the Lord provided him with the materials out of which a living faith and worship could be built. Such materials are
 
@@ -425,7 +321,7 @@ The gold offering represented love to the Lord, and the silver offering represen
 
 
 ---
-~~~
+<<<
 
 === Copper and Linen
 
@@ -500,7 +396,7 @@ In a human mind that is fully regenerate, all things of memory, of thought, of u
 
 
 ---
-~~~
+<<<
 
 === Wool, and the Skins of Rams and of Kids
 
@@ -561,7 +457,7 @@ These attitudes of mind are imparted to children, not so much by obvious teachin
 
 
 ---
-~~~
+<<<
 
 === Shittim Wood
 
@@ -627,7 +523,7 @@ This explains why the shittim wood belongs to the same series as the wool, the r
 
 
 ---
-~~~
+<<<
 
 === Oil and Spices
 
@@ -712,7 +608,7 @@ The reason for this becomes evident if we know what is meant by incense, namely,
 
 
 ---
-~~~
+<<<
 
 === Onyx Stones and Stones of Fillings
 
@@ -785,11 +681,11 @@ Answers were given by the "Urim and Thummim" (by which words are meant lights an
 
 
 ---
-~~~
+<<<
 
 == Part III: Furniture and Construction
 
-XI. The Ark and the Holy of Holies
+=== The Ark and the Holy of Holies
 
 The description of the tabernacle begins, not with the building itself, but with the furniture that was to be kept in the inmost sanctuary called the holy of holies.
 
@@ -865,7 +761,7 @@ We see in the ark with its tables of the testimony a wonderfully graphic picture
 
 
 ---
-~~~
+<<<
 
 === The Holy Place and the Table of Shewbread
 
@@ -937,7 +833,7 @@ Such a love is not native with man. It can be formed in him, and gradually perfe
 
 
 ---
-~~~
+<<<
 
 === The Lampstand
 
@@ -985,7 +881,7 @@ After a full progression, represented by the three ornaments on each branch, man
 
 
 ---
-~~~
+<<<
 
 === The Altar of Incense
 
@@ -1041,7 +937,7 @@ Lord and is imparted to man according to his worship of the Lord. In the degree 
 
 
 ---
-~~~
+<<<
 
 === The Curtains
 
@@ -1148,7 +1044,7 @@ The number of pegs and cords is not mentioned, nor are we told just where they w
 
 
 ---
-~~~
+<<<
 
 === The Boards and Bases
 
@@ -1225,7 +1121,7 @@ As these truths derive their real power immediately from the Lord so the rods de
 
 
 ---
-~~~
+<<<
 
 === The Veils
 
@@ -1297,7 +1193,7 @@ The general difference in representation between the veils and the curtains of t
 
 
 ---
-~~~
+<<<
 
 === The Court and the Laver
 
@@ -1408,7 +1304,7 @@ court we shall speak in connection with the representation of the Levites.
 
 
 ---
-~~~
+<<<
 
 === The Altar of Burnt Offering
 
@@ -1483,11 +1379,11 @@ This is the reason why, in the last analysis, the evil can know nothing but frus
 
 
 ---
-~~~
+<<<
 
 == Part IV: The Priesthood and Sacrifices
 
-XX. The Priesthood
+=== The Priesthood
 
 High Priest, Priest, Levite
 
@@ -1580,7 +1476,7 @@ they came to act as judges and as instructors to the people, keeping alive among
 
 
 ---
-~~~
+<<<
 
 === The Priestly Vestments
 
@@ -1698,7 +1594,7 @@ scholars to explain the meaning of the "Urim and Thummim" but no purely natural 
 
 
 ---
-~~~
+<<<
 
 === Burnt Offerings and Sacrifices
 
@@ -1738,7 +1634,7 @@ According to this view, everything that is repulsive and revolting in the outer 
 
 
 ---
-~~~
+<<<
 
 === The Levites and Their Order of Encampment
 
@@ -1820,7 +1716,7 @@ We cannot attempt a detailed exposition of the order of encampment here given. S
 
 
 ---
-~~~
+<<<
 
 === The Removal of the Tabernacle and the Order of March
 
@@ -1871,9 +1767,9 @@ The daily habit of reading the Word is represented by the kidskin covering over 
 195 See table in Appendix VIII. Also Numbers Chapter 10.
 
 
-Appendices
+== Appendices
 
-Appendix I. The Materials of the Tabernacle
+=== Appendix I. The Materials of the Tabernacle
 
  (Zahav) The Hebrew word meaning "brightness, shining." It represents internal good; A.C.
 Gold
@@ -1984,7 +1880,7 @@ Ibid
 ​
 
 
-Appendix II. The Lampstand
+=== Appendix II. The Lampstand
 
 The description of the lampstand given in Exodus is quite inadequate to provide material for its exact reproduction, and it has been necessary to interpret what is said there in the light of some knowledge of ancient craftsmanship and with reference to probable implications of the text. No dimensions are given for it. The only clue to them is involved in the amount of gold which it was said was used in its construction. This is said to be a talent, which weighs 108 pounds. The illustration found on the arch of Titus would appear to be about the height of a man and this may well indicate the approximate size. It was not made of solid gold. The fact that the branches are called "reeds" would seem to indicate that they were tubular. And for this reason we have made the model of gold tubing with a base that is hollow. The fact that it was said to have been made of pure gold and of beaten work does not necessarily imply that it was solid, the beaten work possibly having special reference to the fashion of the ornaments. When made of tubing as has been done in the model, of a size that corresponds to the scale of the whole tabernacle model, we find that the amount of gold required is in proportion.
 
@@ -2052,7 +1948,7 @@ The bowl was almond-shaped, representing the shell of an almond nut opened up, w
 The bowls are said to represent scientifics from good, from the signification of "cup," as being scientifics that are from the good of charity. For scientifics from good are vessels into which truth is poured as wine into a cup. And from the signification of almonds as being the good of life, it corresponds to the truths of interior natural good; A.C. 9557. In A.C. 9551 it is said that the cups represented spiritual things in the natural because they were placed upon the branches of the lampstand which are like the arms and hands of the body, representing a descent into the natural. In A.C. 9552 the "pomegranates" are also said to represent scientifics from good, particularly that of the sensuous man. And in A.C. 9553 the "flowers" are said to signify scientifics of truth. Thus we have in each of these ornaments three degrees of scientifics represented, interior good, external good, and truth respectively. The implication of these in connection with the signification of the lampstand will be seen from what is related in the text.
 
 
-Appendix III. The Corner Boards
+=== Appendix III. The Corner Boards
 
 Dr. E. E. Iungerich's solution (
 mathematics: Let
@@ -2142,7 +2038,7 @@ x =
 ​
 
 
-Appendix IV. The Stones of the Breastplate
+=== Appendix IV. The Stones of the Breastplate
 
 ROW I. The celestial love of good.
 
@@ -2310,7 +2206,7 @@ Benjamin—Spiritual of the celestial. New truth.
 ​
 
 
-Appendix V. Table of Sacrifices and Offerings
+=== Appendix V. Table of Sacrifices and Offerings
 
 KIND
 
@@ -2451,11 +2347,10 @@ The rest eaten by the priests.
 Libation of wine.
 
 
-Appendix VI. Genealogy of the Levites
+=== Appendix VI. Genealogy of the Levites
 
 
-196
-Appendix VII. Coverings for the Furniture on the March 
+=== Appendix VII. Coverings for the Furniture on the March 
 
 (Outer covering mentioned first)
 THE ARK: Blue: Kidskin: Veil THE TABLE OF SHEWBREAD: Kidskin: Scarlet: Blue THE LAMPSTAND: Kidskin: Blue:
@@ -2476,8 +2371,7 @@ The good of external innocence. A.C. 9912. The blue thread in the fringe of the 
 196 Numbers 4.
 
 
-197
-Appendix VIII. The Order of the March 
+=== Appendix VIII. The Order of the March 
 
 1. The Levites bearing the ark of the covenant.
 2. The Army of Judah, consisting of Judah, Issachar, and Zebulon.
@@ -2494,7 +2388,7 @@ Appendix VIII. The Order of the March
 197 Numbers Chapter 10.
 
 
-Appendix IX. Reference Key to the Theological Writings of Emanuel Swedenborg
+=== Appendix IX. Reference Key to the Theological Writings of Emanuel Swedenborg
 
 A.C. 
 A.E. 

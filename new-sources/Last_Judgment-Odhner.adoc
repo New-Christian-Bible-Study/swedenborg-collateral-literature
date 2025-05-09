@@ -1,9 +1,11 @@
 = Last Judgment
 By Hugo Lj. Odhner
-include::../../template-attributes.adoc[]
+include::../template-attributes.adoc[]
 
 ////
 The outline (if it is) needs help
+
+
 ////
 
 

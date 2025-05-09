@@ -1,6 +1,6 @@
 = Creation
 Doctrinal Essays By Hugo Lj. Odhner
-include::../../template-attributes.adoc[]
+include::../template-attributes.adoc[]
 
 ////
 Abbreviations, and Footnotes, could use some cleanup/integration
@@ -14,7 +14,7 @@ Creation. Doctrinal Essays.
 Bryn Athyn: Academy Publication Committee, 1964
 
 ---
-~~~
+<<<
 
 == God and Creation
 
@@ -126,7 +126,7 @@ VII. That an idea concerning these things ought first of all to be obtained; and
 
 
 ---
-~~~
+<<<
 
 == The Spiritual Sun
 
@@ -225,7 +225,7 @@ yea, a different ladder for every man! But by regeneration, the Lord suffers man
 
 
 ---
-~~~
+<<<
 
 == Successive Spheres of  the Spiritual Sun
 
@@ -333,7 +333,7 @@ This process takes place, so we read, in both worlds. But in the natural world, 
 But our spiritual universe, so far as we have followed its creation, is as yet but in process - unrelated to another element which enters into the work of the Creator, namely, the production of the natural world. Before nature and mankind came into being the world of spiritual causes can only be imagined 'as empty of inhabitants, barren of uses; but full of potentialities, rich in provisions, complete in its range of degrees from the Infinite through the spheres of the spiritual Sun and down to the ultimates of its own series. What the function of those ultimates might be, in the further progress of creation, will be the subject of our next essay.
 
 ---
-~~~
+<<<
 
 == The Sequence of Creation
 
@@ -433,7 +433,7 @@ The spiritual world, in its whole range, is a world of conatus. It is the influx
 
 
 ---
-~~~
+<<<
 
 == The Expanse of Nature
 
@@ -537,7 +537,7 @@ But the end of creation is not the formation of the earth, or the rearing of a p
 
 
 ---
-~~~
+<<<
 
 == The Creation of Organic Forms
 
@@ -630,7 +630,7 @@ It is strange that the reason why man could thus introduce evil even into the lo
 
 
 ---
-~~~
+<<<
 
 == Human Beings - The End of Creation
 
@@ -716,7 +716,7 @@ It is through human beings that uses ascend, through discrete degrees, and retur
 
 
 ---
-~~~
+<<<
 
 == Abbreviations
 
@@ -750,7 +750,7 @@ Wis. - On the Divine Wisdom
 
 
 ---
-~~~
+<<<
 
 == Footnotes
 

@@ -1,6 +1,6 @@
 = Book of Daniel
 By Willard H. Hinkley
-include::../../template-attributes.adoc[]
+include::../template-attributes.adoc[]
 
 ////
 In Chapter One, I deleted the empty line between verses; it did not generate a format error; nor did it save space in the PDF output.
@@ -25,7 +25,7 @@ MASSACHUSETTS NEW-CHURCH UNION +
 Republished at www.biblemeanings.info
 © 2005 by I.J. Thompson,
 
-~~~
+<<<
 
 == INTRODUCTION
 
@@ -149,7 +149,7 @@ All the references have been taken from the Index of Le Boys Des Guays.
 NOTE: Table from page 10 not integrated yet.
 
 ---
-~~~
+<<<
 
 == CHAPTER I. DANIEL IN BABYLON
 
@@ -262,7 +262,7 @@ We are told in AC 8989 that "Cyrus represents the Lord as to the Humanity."
 The life of Daniel in Babylon, with the other captive Jews, represents the state of the church at its consummation, when the truth is held in subjection to the power of evil and remains only with a few; but the beginning of the reign of Cyrus denotes the coming of the. Lord, first to restore natural freedom and then to establish a New Church in which the truth will be all powerful to overcome the dominion of evil, and whose members will acknowledge the Lord in His Divine Humanity and worship Him alone.
 
 ---
-~~~
+<<<
 
 == CHAPTER II. NEBUCHADNEZZAR'S FIRST DREAM
 
@@ -437,7 +437,7 @@ As the King of Babylon he represented the dominion of the Divine Love. This is t
 We are not to understand that the Divine homage paid to Daniel by Nebuchadnezzar represents the pure worship of the Lord. The worship of those who are represented by Nebuchadnezzar is not from a free and rational principle — it is not the worship of the Father in spirit and in truth. It is a compulsory worship from fear and not from love. Those who are in the love of dominion are governed by no other motive. They are compelled to acknowledge the power of Divine Truth, but they desire to make use of the knowledge they possess for their own power and gain.
 
 ---
-~~~
+<<<
 
 == CHAPTER III. THE IMAGE OF GOLD AND THE FIERY FURNACE.
 
@@ -555,7 +555,7 @@ The king, when he saw that these men walked forth unhurt, commanded that they sh
 In conclusion we submit the caution to adhere to the mode of interpretation given in the writings of the New Church. Where it is stated in the letter of the Word that things were seen in vision, or where angels are mentioned as appearing to men, we must interpret such statements in the light of what is taught in the New Church of the relation of the natural world to the spiritual world and of man's spiritual nature and connection with that world, and not relegate to the domain of speculation what is clearly revealed by the Lord in His Holy Word.
 
 ---
-~~~
+<<<
 
 == CHAPTER IV. NEBUCHADNEZZAR'S SECOND DREAM
 
@@ -685,7 +685,7 @@ In regard to the interpretation of this dream by Daniel, we have a remarkable st
 The Word of the Lord is interpreted in one way by the good, and in the opposite way by the evil. The king's enemies are those who would confirm him in the love of dominion, and these are the evil spirits who continually act upon man's evil affections and endeavor to confirm him in evil through false persuasions. But the truth always reacts against those who pervert and profane it, so that while the Word is a light and protection to the good, it is the means of destruction to its enemies. Daniel's interpretation of the dream must be understood in this way, and our own application of it, as exhibiting the dangerous and deadly character of this evil love, should be to that love in ourselves, which is our greatest enemy, and is diametrically opposed to the love which reigns in the highest heaven, the love of ruling for the sake only of promoting the good of the Lord's kingdom.
 
 ---
-~~~
+<<<
 
 == CHAPTER V. BELSHAZZAR'S FEAST
 
@@ -839,7 +839,7 @@ It is worthy of note that the thirty-first or concluding verse of the fifth chap
 "And Darius the Median took the kingdom, being about three score and two years old."
 
 ---
-~~~
+<<<
 
 == CHAPTER VI. DANIEL IN THE LIONS' DEN
 
@@ -940,7 +940,7 @@ Let us now briefly consider this narrative in relation to man's regeneration. Da
 The world is moved out of its indifference and unbelief by the results of good living and successful resistance to evil. And the natural man, looking to his own security and protection, may be willing to have the whole world acknowledge and worship the God of Daniel, when he sees that faith in Him gives men such power to overcome danger and evil, when it makes them masters over themselves and guides and teachers to others.
 
 ---
-~~~
+<<<
 
 == CHAPTER VII. THE VISION OF THE FOUR BEASTS
 
@@ -1103,7 +1103,7 @@ And the kingdom and the dominion, and the greatness of the kingdoms under the wh
 In reading these wonderful visions, doubts may arise in our minds, and we may be troubled, but if, like Daniel, we keep the matter in our hearts, the Lord will give us light and peace.
 
 ---
-~~~
+<<<
 
 == CHAPTER VIII. THE RAM AND THE HE-GOAT
 
@@ -1258,7 +1258,7 @@ This fainting and sickness represents a state of the Christian world when there 
 And the glory of the Lord shall be revealed, and all flesh shall see it together: for the mouth of the Lord has spoken it. (Is. 40:5.)
 
 ---
-~~~
+<<<
 
 == CHAPTER IX. DANIEL'S PRAYER AND THE ANSWER
 
@@ -1416,7 +1416,7 @@ four:
  When you, therefore, shall see the abomination of desolation, spoken of by Daniel the prophet, stand in the holy place (whoso reads, let him understand), then let them which be in Judea flee into the mountains: let him which is on the housetop not come down to take anything out of his house: neither let him which is in the field return back to take his clothes.
 
 ---
-~~~
+<<<
 
 == CHAPTER X. THE VISION BY THE RIVER HIDDEKEL
 
@@ -1536,7 +1536,7 @@ The effect of the opening of the spiritual degree of the mind to the light of Di
 The last verse of this chapter contains a promise of the New Revelation, and the teaching that those only will receive it who acknowledge the Lord in His Divine Humanity. What is said to Daniel here is said to those whom he represents, that is, those who in states of humility look to the Lord and desire to know the truth. To these He is constantly saying: "But I will tell you that which is inscribed in the writing of truth." And of those in the heavenly societies who are especially in the love of communicating the idea that the human life of the Lord was made Divine while He was in the world, it is said: "And there is none that holds with Me against these, but Michael your prince." Michael, which means "like God," represents, as before, those who are in this love and faith. "Michael and his angels fought against the dragon." (REV. 12:7.)
 
 ---
-~~~
+<<<
 
 == CHAPTER XI. THE KING OF THE NORTH AND THE KING OF THE SOUTH.
 
@@ -1685,7 +1685,7 @@ These habitations in the world of spirits of those who were in faith alone, were
 "He shall come to his end, and none shall help him."
 
 ---
-~~~
+<<<
 
 == CHAPTER XII. THE END OF PROPHECY
 

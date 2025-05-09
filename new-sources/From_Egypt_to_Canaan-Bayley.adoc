@@ -1,14 +1,18 @@
 = From Egypt to Canaan
 By the Rev. Dr. Bayley
-include::../../template-attributes.adoc[]
+include::../template-attributes.adoc[]
 
-BEING
+////
 
+
+////
+
+BEING + 
 THE DIVINE DESCRIPTION + 
 OF THE REGENERATE LIFE SHEWN BY + 
 ISRAEL IN EGYPT, + 
 THE JOURNEY IN THE WILDERNESS, + 
- AND THE CONQUEST OF CANAAN
+AND THE CONQUEST OF CANAAN
 
 Sermons by + 
 THE REV. DR. BAYLEY + 
@@ -23,80 +27,14 @@ PRINTED BY +
 THE RIVERSIDE PRESS LIMITED + 
 EDINBURGH
 
-PREFACE
+
+== PREFACE
 
 THE Discourses on the Divine History of the Journey of the Israelites FROM EGYPT TO CANAAN, were begun, and the greater part of them delivered, during the excitement occasioned by the publications of Bishop Colenso, which called in question the Inspiration and Accuracy of the Pentateuch, and the Book of Joshua. Their aim was to shew, first, that the Word of God in this portion of its pages had the grandest possible object in view;--the description of the Regeneration of Man, and that this description, when spiritually understood, is true for this age and for all ages; the Word of our God endureth for ever. We venture to hope, that while we have maintained the literal accuracy of the portion of the Sacred Volume upon which we have dwelt, we have, at the same time, drawn such lessons of Eternal Wisdom from the various subjects presented by our texts as to educe those thoughts which are as much higher than our thoughts, as the heavens are higher than the earth
 (Isa. lv. 9), and at the same time to shew how the Law of the Lord is perfect, converting the soul.--Ps. Xix. 7. The Discourses are now committed to the meditation of their readers, with the Authors earnest prayer that they may contribute to make the Divine Word, a lamp unto their feet, and a light unto their path.--Ps. cxix. 105.
 
 One thing is needful for us all,--that we be fitted for heaven. The mode is declared, and unfolded in the Divine Volume. May we so profit by it that we shall eschew the bondage of sin, and led by the truth flowing from the center of all loving freedom, the Lord Jesus Christ, enter into the glorious liberty of the children of light, thus passing FROM EGYPT TO CANAAN.
 
-////
-CONTENTS
-
-PAGE
-Israel Suffering 1
-The Finding of Moses 9
-Moses at the Burning Bush 17
-Moses Rod turned into a Serpent 25
-The Charge of Moses and Aaron to Pharaoh 33
-The Name of Jehovah not known to the Fathers 41
-The Hardening of Pharaohs Heart and the First Three Signs 49
-Why the Magicians could not create Lice, and why the Stinging Flies did not reach Goshen 57
-The Plagues of Murrain, of Boils, and of Hail 65
-The Plagues of Locusts, of Darkness, and the Destruction of the First-Born 73
-The Passover 81
-The Land flowing with Milk and Honey 89
-The Passage of the Red Sea 97
-The Song of Moses, and the Bitter waters of Marah 105
-The Quails and the Dew 113
-The Manna 121
-The Battle with Amalek 129
-Jethros Advice to Moses to choose Rulers 137
-Obedience, our Duty and our Wisdom 145
-The Ten Commandments 153
-Slavery amongst the Israelites 161
-The Ox that gores a Man 169
-A Man smiting his Servant that he Die 177
-Seething the Kid in the Mothers Milk 185
-Driving out our Enemies little by little 193
-The Tabernacle for the Sanctuary 201
-The Ark of the Covenant 209
-The Mercy Seat 217
-The Table of Shewbread 225
-The Sacred Candlestick 233
-The Altar of Incense 241
-The Oil for the Lamps. 249
-The Veil 257
-The Hanging for the Door of the Tent 265
-The Laver for Washing 273
-The Biter of Burnt-offering 281
-The Curtains of the Tabernacle 289
-The Court of the Tabernacle 297
-The Holy Ointment 305
-The Holy Incense 313
-The Garments of Aaron 321
-The Breastplate of Precious Stones 329
-The Atonement Money--the Ransom for Sin 337
-The Worship of the Golden Calf 345
-The Two first Tables of Commandments broken and replaced 353
-The Lord seen from the Cleft of a Rock 361
-The Lords Name declared 369
-The Face of Moses shining and veiled 377
-The Spies and their Report of the Promised Land 385
-The People bitten by Fiery Serpents, and healed by the Brazen Serpent 393
-Balaam and his Ass 401
-Moses appointing Joshua his Successor 409
-The Death and Burial of Moses 417
-Rahab and the Spies 425
-The Fall of Jericho 433
-Achans Sin and Israels Defeat 441
-Ai taken 449
-The Covenant with the Gibeonites 457
-The Battle with the Five Rings, and the Sun and Moon standing still 465
-The Death of Joshua 473
-////
-
-FROM EGYPT TO CANAAN
 
 == ISRAEL SUFFERING
 
@@ -170,7 +108,7 @@ The gentle affections can be made subservient to evil states they can make sin g
 
 When astronomy was new, It was supposed by the opposers of divine things, to serve their purposes; and so with geology. But now, both are seen to point to eternal love, millions of ages past, storing the appliances of metals, minerals, soils, gases, in all their multiform and wondrous varieties while the inner and higher sense of Scripture unfolds to us truths of regeneration, which more than keep the children alive. So the midwives ever reply, the Hebrew women are lively, the children are born and live. And they will live. The Lord Jesus by His law will break the bondage of Pharaoh. Heavens freedom must be given.
 
-THE FINDING OF MOSES
+== THE FINDING OF MOSES
 
 And the daughter of Pharaoh came down to wash herself at the river: and her maidens walked along by the rivers side; and when she saw the ark among the flags, she sent her maid to fetch it. And when she had opened it, she saw the child, and, behold, the babe wept. And she had compassion on him, and said, This is one of the Hebrews children.Exodus ii. 5, 6.
 
@@ -270,7 +208,7 @@ Midian, in the wilderness, represents an external state: feeding the hock is exp
 
 Allow me finally, my beloved brethren, to commend the whole lesson to your meditation and practical use. We are all in Egyptian bondage, until the Lord Jesus by His law, our Moses, leads us forth. Hence, to every one the Lord says at the beginning of the Commandments, I am the Lord thy God which have brought thee out of the land of Egypt, out of the house of bondage. Is Moses yet born within? Is he grown up? And is he doing his holy work of smiting the godless Egyptian, setting right the Hebrews, and feeding the flock by the well? If so, then, is it indeed happy with us. Our spiritual freedom is dawning. From being bond-slaves of sin, we shall become freemen of heaven. And if the truth shall make us free, we shall be free indeed.
 
-MOSES AT THE BURNING BUSH
+== MOSES AT THE BURNING BUSH
 
 And the angel of the Lord appeared unto him in a flame of fire out of the midst of a bush: and he looked, and, behold the bush burned with fire, and the bush was not consumed.Exodus iii. 2.
 
@@ -305,7 +243,7 @@ When the divine love thus speaks in its promises, in its consolations, in its ex
 
 Such is the sacred lesson which we should learn from the spiritual view of Moses by the burning bush. Let me in conclusion, my beloved friends, again impress upon all, that this history was written for us. It is not an historical relation simply of what occurred in days gone by. It is given to be realized in its spiritual import by every one of us. Have we commenced our march from Egypt? Have we freed all the impulses of the soul from spiritual slavery? Have we cast off the manacles of sin, and determined to live for heaven? If we have not yet begun, are we meditating and musing upon this great thing? Are we feeding flocks in the desert near the mount of God? Are we taking care, that until our path becomes clear to us, we will do all the good we can, cultivate all that is kindly, and promote the happiness and comfort of our fellow-creatures? Are we doing all this, and so feeding the flocks of our souls? If we do this, we shall find in a little time that we are near the mount of God, for His righteousness is like the great mountains (Ps. xxxvi. 6). And the divine fire will glow to save and warm, but not to consume.
 
-MOSES ROD TURNED INTO A SERPENT
+== MOSES ROD TURNED INTO A SERPENT
 
 And it shall come to pass, if they will not believe also these two signs, neither hearken unto thy voice, that thou shall take of the water of the river, and pour it upon the dry land; and the water which thou takest out of the river shall become blood upon the dry land.Exodus iv. 9.
 
@@ -381,7 +319,7 @@ He had poured the Niles waters on the ground, and they had become blood. The Egy
 will live for heaven, I will dare to be good, I will dare to conquer all those impulses in me, which promote the reign and government of self and the world. For what is a man profited, if he shall gain the whole world, and lose his own soul? I will not let my staff become a serpent; I will not live so as to have a leprosy entering all I do; I
 will not turn water into blood; I will obey my God and Savior, and go and say to the Pharaoh of every sin that rules within me:--The Lord says, let my people go. I will march out of my Egypt, pass over my Red Sea, and advance onwards and upwards, until I come into that Canaan-like state, of which it is said, The kingdom of God is within you.
 
-THE CHARGE OF MOSES AND AARON TO PHARAOH
+== THE CHARGE OF MOSES AND AARON TO PHARAOH
 
 And afterward Moses and Aaron went in, and told Pharaoh, Thus saith the Lord God of Israel, Let my people go, that they may hold a feast unto me in the wilderness.--Exodus v. 1.
 
@@ -434,7 +372,7 @@ On one of the most ancient tombs of Egypt, there is a representation which shows
 First of all, it tries to break its fetters, but it fails; then, in the sad wretchedness by which man learns that he cannot redeem himself, he turns round and says,--well, then, why does not religion let me alone? You, Moses and Aaron, have come, and instead of getting better I have become worse. Had not you better go away? The soul is thus tempest-tossed, and turns first to one side for help, and then to the other, and it is in this way that it is drawn to know, that help can only come from the great Redeemer-God Himself. But before deliverance, there is always this kind of distress, discouragement, and despair, which are represented here by the afflicted people turning first to one side, and then to the other. Then comes the voice of the eternal Savior, in the consolatory language of the first verse of the next chapter, which permit me, in closing, to commend to your deep consideration, Then the Lord said unto Moses, Now shalt thou see what I
 will do to Pharaoh. You cannot deliver yourselves; it is time, for you are ground down and ruined, almost ready to die. Mans necessity is my opportunity. Now shalt thou see what I will do to Pharaoh. For with a strong hand shall he let them go, and with a strong hand shall he drive them out of his land. And God spake unto Moses, and said unto him, I am the Lord. Whenever this state of spiritual slavery is ended, it is by the Lord our Savior,--that Divine Person who said, Ye call me Master sad Lord, and ye say well, for so I am,--descending into the sin-stricken spirit, lighting up a new lamp of faith in the intellect, acting with this divine power upon the heart, and enabling the soul to come into such a blessed state of life and light as to know how true are the words, The Son of man is come to seek and to save that which is lost.
 
-THE NAME OF JEHOVAH NOT KNOWN TO THE FATHERS
+== THE NAME OF JEHOVAH NOT KNOWN TO THE FATHERS
 
 And I appeared unto Abraham, unto Isaac, and unto Jacob, by the name of God Almighty, but by my name JEHOVAH was I not known to them.Exodus vi. 3.
 
@@ -484,7 +422,7 @@ Let it never be forgotten, that the Scriptures represent redemption, not only as
 
 I am Jehovah, thy God, who brought thee forth out of the land of Egypt, out of the house of bondage. Because He is Jehovah, He will deliver you and me, and the oppressed by sin, in every age, who cry for freedom; and though we all know Him as the Thunderer at first, we shall in time know the wonders of love which are enclosed in that name Jehovah.
 
-THE HARDENING OF PHARAOHS HEART AND THE FIRST THREE SIGNS
+== THE HARDENING OF PHARAOHS HEART AND THE FIRST THREE SIGNS
 
 And I will harden Pharaohs heart, and multiply my signs and my wonders in the land of Egypt.--Exodus vii. 3.
 
@@ -531,11 +469,7 @@ And the third sign, that of the frogs covering everything, was a symbol of what 
 
 How astonishing is this strange perversity of the human character! How wonderful, and yet how true, that multitudes shun in every way the easy method of asking the Lord Jesus to lead them; and when they are shewn what to do, of doing it. The law of right is the simplest law that can be expressed; it is simply when we see the truth, to walk in it; not stopping and hesitating, scheming, and fancying, but simply doing what the Divine Will in mercy tells us to do. Blessed are the pure in heart, for they shall see God. Then all the plagues and distempers of the soul will cease, and the Lord will lead us out of bondage, into the freedom of those that walk in the liberty of light and love.
 
-WHY THE MAGICIANS COULD NOT CREATE LICE
-
-AND
-
-WHY THE STINGING FLIES DID NOT REACH GOSHEN
+== WHY THE MAGICIANS COULD NOT CREATE LICE AND WHY THE STINGING FLIES DID NOT REACH GOSHEN
 
 Then the magicians said unto Pharaoh, This is the finger of God: and Pharaohs heart was hardened, and he hearkened not unto them; as the Lord had said.Exodus viii. 19.
 
@@ -699,7 +633,7 @@ The first-born of Pharaoh is a persuasion that a person is a favorite of heaven 
 On the contrary, the Israelites had light in their dwellings. Those who are of the class of which the Lord said, Behold an Israelite indeed in whom there is no guile--who have endeavored to fight against their own passions and evils--those in the nearness of judgment have light in their dwellings. All around may be dark, but they have the light of life. In the world ye shall have tribulation, but be of good cheer, I
 have overcome the world. True faith works from love. True faith embraces the Lord Jesus with the heart, trusts Him, loves Him, and lives to Him, by keeping His commandments.
 
-THE PASSOVER
+== THE PASSOVER
 
 And thus shall ye eat it; with your loins girded, your shoes on your feet, and your staff in your hand; and ye shall eat it in haste: it is the Lords passover.Exodus xii. 11.
 
@@ -778,7 +712,7 @@ When we are resolved to commence our march towards the heavenly kingdom, we must
 
 Lastly. With your loins girded--that is, with your purposes fully determined; with shoes on your feet-that is, prepared with the truths of daily life; with your staff in your hand--that is, the promises of the letter of the Divine Word sustaining you; eat it in haste--that is, receive the saving good into your hearts without delay or hesitation. Then, go forth children of heaven. Take the freedom your Savior God has wrought for you. Commence the march of the Christian life, which, through the checkered states of time, shall issue in the peace and bliss of heaven.
 
-THE LAND FLOWING WITH MILK AND HONEY
+== THE LAND FLOWING WITH MILK AND HONEY
 
 And it shall be, when the Lord shall bring thee into the land of the Canaanites, and the Hittites, and the Amorites, and the Hivites, and the Jebusites, which he sware unto thy fathers to give thee, a land flowing with milk and honey, that thou shalt keep this service in this month.--Exodus xiii. 5.
 
@@ -849,7 +783,7 @@ They try the lukewarm condition of being neither cold nor hot, and cannot make u
 
 Oh, that my people had hearkened unto me, and Israel had walked in my ways! I should soon have subdued their enemies, and turned my hand against their adversaries.... He should have fed them also with the finest of the wheat: and with honey out of the rock should I have satisfied thee. And is it not so? Do we not when we genuinely endeavor to serve the Lord in the acts of our daily life, when we read the Word thoughtfully, and especially when we endeavor to bring it into practice--do we not find that it is to us so charming in its sweetness, so delightful in the heartfelt joy which it inspires, that we can say as the Psalmist said concerning the statutes of the Lord, More to be desired are than gold; sweeter also than honey and the honeycomb.Ps. xix. 10. It is this then that the land of Canaan signifies to us. This state is one of perpetual enjoyment, in proportion as we have faithfully fought against, and never shrunk from the antagonism of our sins. Our daily career is then a daily endeavor to introduce ourselves into a life of loving usefulness to man and devotion to God--thus preparing ourselves, whether we are taken earlier or later from this world, to go to that heaven where love and wisdom, peace and joy fill the land--the eternal Land of Promise.
 
-THE PASSAGE OF THE RED SEA
+== THE PASSAGE OF THE RED SEA
 
 And Moses said unto the people, Fear ye not, stand still and see the salvation of the Lord, which he will show to you today: for the Egyptians whom ye have seen today, ye shall see them again no more for ever. The Lord shall fight for you, and ye shall hold your peace.Exodus xiv. 13, 14.
 
@@ -1004,7 +938,7 @@ This is said to be for them a statute and an ordinance.
 
 This blessed lesson is for true Israelites in every age. Let us never forget it. Whenever the waters of truth are bitter to us, let us pray to our Heavenly Father to make us faithful, obedient, and true, and soon shall we realize the fact that what is bitter is often salutary, and that afterwards comes the blessing. Light is sown for the righteous, and gladness for the upright in heart.
 
-THE QUAILS AND THE DEW
+== THE QUAILS AND THE DEW
 
 And it came to pass, that at even the quails came up, and covered the camp: and in the morning the dew lay round about the host.Exodus xvi. 13.
 
@@ -1059,7 +993,7 @@ will consider in my dwelling-place like a clear heat upon herbs, and like a clou
 
 Oh! may this dew of peace, too holy for words, descend upon us and bless us, as each new morning comes, and the Sun of Righteousness arises upon us with healing in His wings.
 
-THE MANNA
+== THE MANNA
 
 And when they did mete it with an omer, he that gathered much had nothing over, and he that gathered little had no lack; they gathered every man according to his eating. And Moses said, Let no man have of it till the morning.--Exodus xvi. 18, 10.
 
@@ -1121,7 +1055,7 @@ But it is said it was a smell round thing and sweet like wafers made of honey. I
 
 Let us faithfully walk then in the path of love and duty, and the sweet manna of heavenly blessing will be given. He who watches over our pilgrimage has said, Oh, that my people had hearkened unto me, and Israel had walked in my ways! I should soon have subdued their enemies, and turned my hand against their adversaries. He should have fed them also with the finest of the wheat: and with honey out of the rock should I have satisfied thee.
 
-THE BATTLE WITH AMALEK
+== THE BATTLE WITH AMALEK
 
 But Moses hands were heavy; and they took a stone, and put it under him, and he sat thereon; and Aaron and Hur stayed up his hands, the one on the one side, and the other on the other side; and his hands were steady until the going down of the sun.Exodus xviii. 12.
 
@@ -1193,7 +1127,7 @@ These truths form the rock of heaven: place this under Moses, and then he will s
 
 Moses hands will sometimes become heavy, but put this stone under him, with Aaron on one side, and Hur on the other. With love and faith lifting up his hands Israel will defeat Amalek down to the very setting of the sun. The soul will completely triumph over this fatal evil. And, now, finally, whenever you are harassed by discouragement and despair, take this course, go up to the top of the hill, look to the Savior for strength, take Aaron and Hur with you. Let them take a stone from the Divine Word and do you sit upon it. Say, Here I rest, this is from the eternal God. This is the rock of my salvation, nothing can shake me. Here, I will put my trust. My Friend, my Savior, my Redeemer--He has the love that will save me. He has the power that will prevail over the evil. He shall reign for ever and ever. In such case Amalek will perish and die away until the going down of the sun. So the soul will have rest. You can then lie down in peace and confidence and say, All is right. He giveth his beloved sleep; my troubles are passed. Bless the Lord, O my soul! and all that is within me, bless his Holy Name.
 
-JETHROS ADVICE TO MOSES TO CHOOSE RULERS
+== JETHROS ADVICE TO MOSES TO CHOOSE RULERS
 
 Moreover thou shalt provide out of ail the people able men, such as fear God, men of truth, hating covetousness; and place such over them, to be rulers of thousands, and rulers of hundreds, rulers of fifties, and rulers of tens.Exodus xvxii. 21.
 
@@ -1324,7 +1258,7 @@ An honest mans the noblest work of God.
 
 But one who is interiorly honest, one who is thoughtfully loving, who is honest to God by loving Him with all his heart, is not only a peculiar treasure to the Lord, but is the treasure of treasures to himself; he has heaven itself within him, he has the true essence of all happiness on earth.
 
-THE TEN COMMANDMENTS
+== THE TEN COMMANDMENTS
 
 I am the Lord thy God, which have brought thee out of the land of Egypt, out of the house of bondage.--Exodus xx. 2.
 
@@ -1373,7 +1307,7 @@ To keep the commandments of the Lord, end his statutes, which I command thee thi
 
 If he succeed in his villainy, he has stolen a little property from someone and injured him slightly, but he has robbed himself of his salvation, and injured himself eternally. There is the everlasting difference between right and wrong. If ever that man attain salvation, he will have to undo, as far as possible, all he has done. He will have to hate himself, to fight against himself, to detest himself-to repent in dust end ashes. He has gone down the hill instead of going upwards. He has to retrace his steps and get up back again, and then when he begins to lead a life of goodness, he will only be where he started from. Why, there could not possibly be a greater delusion than to imagine that hells yoke is easy. The Israelites did not find the Egyptian yoke easy. The way to heaven is pleasantness itself compared with the yoke of sin which hell Imposes upon the soul when it turns away from God, from purity and heaven. The Lord Jesus Christ says, My yoke is easy and my burden is light. Let a person earnestly seek to love the Lord, and to keep His commands, and he will find those words are true; the very way of peace, purity, serenity and sufficiency, as well as of order and happiness. God will speak from the mountain again, and his speech will have this gracious lesson for us, Do what I command you; for heaven is formed on the blessed laws that are contained in those ten commandments. If you have difficulty, it is not in the laws themselves, but in your degenerate state. Come to me end I will heal you. Are you imprisoned in guile, in falsehood? I will break the bars of your prison house--I will bring you out of Egypt.
 
-SLAVERY AMONGST THE ISRAELITES
+== SLAVERY AMONGST THE ISRAELITES
 
 And if the servant shall plainly say, I love my master, my wife and my children: I will not go out free: then his master shall bring him unto the judges; he shall also bring him unto the door, or unto the door-post; and his master shall bore his ear through with an awl; and he shall serve him for ever.--Exodus xxi. 5, 6.
 
@@ -1460,7 +1394,7 @@ When we, who in our pupilage have revered these, see apparent truths and mercifu
 
 If he continue a day or two, the law declares the master shall not be punished, for he is his money (in the Hebrew, his silver). This continuance of the dying bondman for a day or two represents the regenerating Christian doing judgment upon past and useful fallacies with full consideration, he must continue a state or two. When the soul in its upward progress rises above the letter of a precept into its spirit, though he rejects the form he once revered, if he does so with serious thought and reverent feeling, he sees the same truth in a diviner light: it becomes his silver. Too much haste in changing old views for new, is to be avoided, as well as too much delay. Let judgment be done when judgment is needed, but let it be done with care, with reverence, and with charity. Then, while we rise from the letter to the inner life of holy things, we shall have ample confirmation of the truth, The words of the Lord are pure words, as silver tried in a furnace of earth: the bondman will become our silver.
 
-THE OX THAT GORES A MAN
+== THE OX THAT GORES A MAN
 
 If an ox gore a man or a woman, that they die: then the ox shall be surely stoned, and his flesh shall not be eaten; but the owner of the ox shall be quit.Exodus xxi. 28.
 
@@ -1512,7 +1446,7 @@ If, unhappily, we have been disposed not only to have no inclination for what is
 
 But what of that, we shall have the Savior for our Guide, Defender and Friend, and Heaven for our Home. Arise, let us go hence.
 
-A MAN SMITING HIS SERVANT THAT HE DIE
+== A MAN SMITING HIS SERVANT THAT HE DIE
 
 And if a man smite his servant, or his maid, with a rod, and he die under his hand; he shall be surely punished. Notwithstanding, if he continue a day or two, he shall not be punished: for he is his money.--Exodus xxi. 20, 21.
 
@@ -1582,7 +1516,7 @@ Let me ask, finally, if there be anything that is unworthy of God in this regula
 
 Let us be ever patient and considerate, not hasty and rash. In the days of our darkness and our weakness our Heavenly Father mercifully permitted us to be aided by views and ideas, not the best in themselves, but the best for us. Some of these are very old habits and customs derived from Pagan times. Some are superstitions, having no real essence of truth in them. We have derived them from the nations round about. We see now they are slaves, not the Lords free-men. And both they and the affections belonging to them, the men-servants and maid-servants, are now injurious to us, yet we must not hastily reject them or deprive them of life. We must take them to the judge. The Lord Himself will be our judge. Let us condemn what truth condemns fully, but no more: forty stripes. Let this be done carefully, considerately, let the dying slave live a day or two; and as the appearance dies away, spiritual wisdom enters in and will be yours in its stead. He will be your silver.
 
-SEETHING THE KID IN THE MOTHERS MILK
+== SEETHING THE KID IN THE MOTHERS MILK
 
 Thou shalt not seethe a kid in his mothers milk.Exodus xxiii. 19.
 
@@ -1635,7 +1569,7 @@ That is to say, each new state, each new generation of what is true and good, ea
 
 Put off old states, do not be for ever looking behind; but go forward to those things that are before. Seek to have opened up new flesh of inward purity, and get new thoughts of clear and holy faith, new experiences of states of inward joy and delight, and in this way you will be able to take up the Divine language of Psalm ciii., Bless the Lord, O my soul, and all that is within me bless his Holy Name. He reneweth thy youth like the eagles. His mercies are fresh every morning. Each new state is a new gift. He is not the God of the past only, but the God of the present: He blesses us, saves us, enlightens us, gives us the victory in all our daily efforts, over whatever would depress, whatever would deprave, whatever would sensualize; and enables us to become ever more and more angel-like, God-like,never seething the kid in his mothers milk, but always getting fresh milk of that kind of which the apostle Peter speaks, when he says, I have fed you with the sincere milk of the Word that ye might grow thereby.
 
-DRIVING OUT OUR ENEMIES LITTLE BY LITTLE
+== DRIVING OUT OUR ENEMIES LITTLE BY LITTLE
 
 And I will send hornets before thee, which shall drive out the Hivite, the Canaanite, and the Hittite, from before thee. I will not drive them out from before thee in one year; lest the land become desolate, and the beast of the field multiply against thee. By little and little I
 will drive them out from before thee, until thou be increased, and inherit the land.--Exodus xxiii. 25, 29, 30.
@@ -1684,7 +1618,7 @@ Their fathers believed them, and, therefore, they must be true. They do not trou
 
 These three things, then, have to be driven out of the soul. Conformity to the world; the evils of the heart; and the false views of the intellect. As these are expelled, the soul will have peace. Only, however, by little and little can this be done. Not that we must be heedless, easy, and indifferent about it, and do little when we could do much. But, on the contrary, we must labor and strive, in the name of the Lord Jesus Christ, to become renewed in heart, mind and life, and neither despair nor be impatient if we find our progress much slower than we had hoped. We can leave outward sin at once, and we must do so. There is no change at all without that. There must be no paltering with outward evil. But there are crowds of inward sins, inward follies and weaknesses, for our iniquities are more than the hairs of our heads, and often when we suppose they have all been expelled we shall find them in force once more. But we must take courage, fight the good fight, day by day, in the Lords strength, and with grateful faith in Him, and by little and little all that is evil will be expelled, and we shall be renewed in all that is good. If we die while the contest is going on, we are on the Lords side, and shall go to His kingdom. Our aim was the complete triumph of the Lord, and that in the other life will give the character to the whole man, that is the whole angel.
 
-THE TABERNACLE FOR THE SANCTUARY
+== THE TABERNACLE FOR THE SANCTUARY
 
 And let them make me a sanctuary; that I may dwell among them. According to all that I shew thee, after the pattern of the tabernacle, and the pattern of all the instruments thereof, even so shall ye make it.Exodus xxv. 8, 9.
 
@@ -1742,7 +1676,7 @@ The state of the highest Christians is here represented. They dwell in love. Lov
 
 Such are the lessons taught us in the contemplation of the Sanctuary, the pattern of things in the heavens. They teach us that religion is progressive. We must do the work of one state, and then we rise to a higher. We must not walk the plain only at the foot of the mount of God, but ascend into the hill of the Lord, and stand in his holy place.--Ps. xxiv. 3. And when we have done our work there, and been victorious in our spiritual conflicts, we must go still higher, to the very mountain top of celestial affection, to be for ever in the splendor of the glory of the Lord.
 
-THE ARK OF THE COVENANT
+== THE ARK OF THE COVENANT
 
 And they shall make an ark of shittim wood: two cubits and a half shall be the length thereof, and a cubit and a half the breadth thereof, and a cubit and a half the height thereof. And thou shalt overlay it with pure gold, within and without shalt thou overlay it, and shalt make upon it a crown of gold round about. And thou shalt cast four rings of gold for it, and put them in the four corners thereof; and two rings shall be in the one side of it, and two rings in the other side of it. And thou shalt make staves of shittim wood, and overlay them with gold. And thou shalt put the staves into the rings by the sides of the ark, that the ark may be borne with them. The staves shall be in the rings of the ark : they shall not be taken from it. And thou shalt put into the ark the testimony which I shall give thee.Exodus xxv. 10-16.
 
@@ -1821,7 +1755,7 @@ And the rod of Aaron, of the house of Levi, indicative of the government of love
 All these things are contained in the inmost of a true Christian. The little heaven within him, ever governed by the divine will, ever grateful for divine mercies, ever running with delight to bow to the scepter of divine government, is a living Ark in which the Lord dwells, and fulfils His gracious promise, There I will meet with thee, and I
 will commune with thee.
 
-THE MERCY SEAT
+== THE MERCY SEAT
 
 And thou shalt make a mercy-seat of pure gold: two cubits and half shall be the length thereof, and a cubit and a half the breadth thereof. And thou shalt make two cherubim of gold, of beaten work shalt thou make them, in the two ends of the mercy-seat. And make one cherub on the one end, and the other cherub on the other end: even of the mercy-seat shall ye make the cherubim on the two ends thereof. And the cherubim shall stretch forth their wings on high, covering the mercy-seat with their wings, and their faces shall look one to another; toward the mercy seat shall the faces of the cherubim be. And thou shalt putt he mercy-seat above upon the ark; and in the ark thou shalt put the testimony that I shall give thee. And there I will meet with thee, and I will commune with thee from above the mercy-seat, from between the two cherubim which are upon the ark of the testimony, of all things which I will give thee in commandment unto the children of Israel.Exodus xxv. 17-22.
 
@@ -1903,7 +1837,7 @@ Go at his command and wash. This is the first duty. Repent and renounce what God
 
 Approach, O my soul, to this Merciful Savior; thou wilt not be cast out. But first wash thyself by repentance; wash thine heart from wickedness, that thou mayest be saved.--Jer. iv. 14. Clothe thyself with the fine linen which is the righteousness of the saints. Let the wisdom of a true faith quicken and purify thee even to fullness, like the blood of the goat sprinkled seven times, and then go in and commune with thy Savior God. The Mercy Seat will glow with a Divine Light, and thou shalt have answers of peace. The Lord will make His abode with thee and bless thee; He will appear on the little golden Mercy Seat within thee; the cherubs will not repel, but invite thee, and never leave thee more.
 
-THE TABLE OF XHEWBREAD
+== THE TABLE OF XHEWBREAD
 
 Thou shalt also make a table of shittim wood: two cubits shall be the length thereof, and a cubit the breadth thereof, and a cubit and a half the height thereof. And thou shalt overlay it with pure gold, and make thereto a crown of gold round about. And thou shalt make unto it a border of an hand-breadth round about, and thou shalt make a golden crown to the border thereof round about. And thou shalt make for it four rings of gold, and put the rings in the four corners that are on the four feet thereof. Over against the border shall the rings be for places of the staves to bear the table. And thou shalt make the staves of shittim wood, and overlay them with gold, that the table may be borne with them. And thou shalt make the dishes thereof, and spoons thereof, and covers thereof, and bowls thereof, to cover withal: of pure gold shalt thou make them. And thou shalt set upon the table shewbread before me always.Exodus xxv. 23-30.
 
@@ -1980,7 +1914,7 @@ Take relaxation, but do not neglect the ministries of life. Work while it is day
 
 Once more, let us turn to the food provided by our Lord in the Holy Place. It is good, like the delights of angels, the bread of heaven. It is served on a golden table, beneath the smile of the Most High. Angels minister while you eat. The food itself gives life, eternal life and happiness. You are filled with joy unspeakable, and this meat endures to everlasting life. The Divine King of the feast Himself invites you. Hear His gracious voice, and obey, Wherefore do ye spend money for that which is not bread? Hearken diligently unto me, and eat ye that which is good, and let your soul delight itself in fatness. Incline your ear, and come unto me hear, and your soul shall live.--Isa. lv. 2, 3.
 
-THE SACRED CANDLESTICK
+== THE SACRED CANDLESTICK
 
 And thou shalt make a candlestick of pure gold: of beaten work shall the candlestick be made: his shaft, and his branches, his bowls, his knops, and his flowers, shall be of the same. And six branches shall come out of the sides of it; three branches of the candlestick out of the one side, and three branches of the candlestick out of the other side: Three bowls made like unto almonds, with a knop and a flower in one branch; and three bowls made like almonds in the other branch, with a knop and a flower: so in the six branches that come out of the candlestick. And in the candlestick shall be four bowls made like unto almonds, with their knops and their flowers. And there shall be a knop under two branches of the same, and a knop under two branches of the same, and a knop under two branches of the same, according to the six branches that proceed out of the candlestick. Their knops and their branches shall be of the same: all of it shall be one beaten work of pure gold. And thou shalt make the seven lamps thereof: and they shall light the lamps thereof, that they may give light over against it. And the tongs thereof, and the snuff-dishes thereof, shall be of pure gold. Of a talent of pure gold shall he make it, with all these vessels. And look that thou make them after their pattern, which was shewed thee in the mount.Exodus xxv. 31-40.
 
@@ -2095,7 +2029,7 @@ Our Lord says, All the law and the prophets hang upon love to God and love to ma
 
 How unspeakably important is it then that we should pray ever to our Lord for more love, for renewed hearts. Let the sacred fire be always on our altar. Let it never go out. Love rejoices in the truth. Nay, truth is but love drawn out. Love learns at the sacred pages given by the love of God, and the stem, the branches and the bowls of the heavenly lamps expand themselves, and in the beautiful luster of an enlightened faith grounded in love, we shall be ready when the cry is heard, the bridegroom cometh, and joyfully go forth to meet him.
 
-THE ALTAR OF INCENSE
+== THE ALTAR OF INCENSE
 
 And thou shalt make an altar to burn incense upon: of shittim wood shalt thou make it. A cubit shall be the length thereof, and a cubit the breadth thereof; four-square shall it be: and two cubits shall be the height thereof: the horns thereof shall be of the same. And thou shalt overlay it with pure gold, the top thereof, and the sides thereof round about, and the horns thereof; and thou shalt make unto it a crown of gold round about. And two golden rings shalt thou make to it under the crown of it, by the two corners thereof, upon the two sides of it shalt thou make it; and they shall be for places for the staves to bear it withal. And thou shalt make the staves of shittim wood, and overlap them with gold. And thou shalt put it before the veil that is by the ark of the testimony, before the mercy-seat that is over the testimony, where I will meet with thee. And Aaron shall burn thereon sweet incense every morning: when he dresseth the lamps, he shall burn incense upon it. And when Aaron lighteth the lamps at even, he shall burn incense upon it; a perpetual incense before the Lord, throughout your generations. Ye shall offer no strange incense thereon, nor burnt sacrifice, nor meat offering; neither shall ye pour drink offering thereon. And Aaron shall make an atonement upon the horns of it once in a year with the blood of the sin offering of atonements; once in the year shall he make atonement upon it throughout your generations: it is most holy unto the Lord.Exodus xxx. 1-10.
 
@@ -2200,7 +2134,7 @@ cease to do evil; learn to do well.--Isaiah i. 12-17. This, therefore, was the g
 
 Lastly, we are told, Aaron shall make an atonement upon the horns of it once in a year with the blood of the sin-offering of atonements: once in the year shall he make atonement upon it throughout your generations: it is most holy unto the Lord. This taking of the blood of the atonement once a year was representative of purification from the Lord. Our worship is pure in proportion as we ourselves become pure. The blood of the atonement represents the Spirit of the Lord flowing from His glorified Humanity. This is the blood that washes us from our sins, both of work and of worship; this is the blood we must drink to have eternal life. This is the living truth which sanctifies. Sanctify them by thy truth: Thy word is truth. The Altar of Incense was touched with blood once a year, to intimate that underlying all our progress, in all the great states of our spiritual life, is this spirit of the Lord Jesus. He is the beginning of it; He also is the end. This will be the case in time; this also will be the case in eternity, throughout all generations.
 
-THE OIL FOR THE LAMPS
+== THE OIL FOR THE LAMPS
 
 And thou shalt command the children of Israel that they bring thee pure oil olive beaten for the light, to cause the lamp to burn always.--Exodus xxvii. 20.
 
@@ -2301,7 +2235,7 @@ religion without celestial oil is cold, hard, and ungenial; but a religion of lo
 
 Let us pray, then, for that obedience of life, and study of the Word, which will enable the trees of righteousness to grow up in our minds, especially those most valuable of all, the holy olive trees of love to God, and charity to man. May our Divine Savior give us power to bear the discipline of life, so that the oil of loving-kindness and tender sympathy may ever flow within, and we may be able to utter the words of grateful thanksgiving. Thou anointest my head with oil my cup runneth over. Surely goodness and mercy shall follow me all the days of my life; and I will dwell in the house of the Lord for ever.--Psalm xxiii. 5, 6.
 
-THE VEIL
+== THE VEIL
 
 And thou shalt make a veil of blue, and purple, and scarlet, and fine twined linen, of cunning work : with cherubim shall it be made: And thou shalt hang it upon four pillars of shittim wood overlaid with gold: their hooks shall be of gold, upon the four sockets of silver. And thou shalt hang up the veil under the taches, that thou mayest bring in thither within the veil the ark of the testimony: and the veil shall divide unto you between the holy place and the most holy.--Exodus xxvi. 31-33.
 
@@ -2407,7 +2341,7 @@ The Lord thus enthroned within, goes wherever we go, dwells wherever we dwell. I
 
 Let us, then, pray that the Lord Jesus may dwell in our hearts by faith, that being rooted and grounded in love, we may be able to comprehend with all saints what is the breadth, and length, and depth, and height, and to know the love of Christ which passeth all understanding, and to be filled with the fullness of God.
 
-THE HANGING FOR THE DOOR OF THE TENT
+== THE HANGING FOR THE DOOR OF THE TENT
 
 And thou shalt make an hanging for the door of the tent, of blue, and purple, and scarlet, and fine twined linen, wrought with needlework. And thou shalt make for the hanging five pillars of shittim wood, and overlay them with gold, and their hooks shall be of gold: and thou shalt cast five sockets of brass for them.--Exodus xxvi. 36, 37.
 
@@ -2482,7 +2416,7 @@ Our Redeemer is always seeking to advance us higher, and to make our states full
 
 Let us, then, in contemplating the divine representation of the Tabernacle, and in this instance of the middle region of it, the holy place, diligently and devoutly seek that a holy place for our Heavenly Father may be formed within us, and may be a fulfillment of that preparation which was symbolized by making the Tabernacle according to the divine pattern, and a realization of the blessed promise: If a man love me, he will keep my words; and my Father will love him, and we will come unto him, and make our abode with him.--John xiv. 23.
 
-THE LAVER FOR WASHING
+== THE LAVER FOR WASHING
 
 And the Lord spake unto Moses, saying, Thou shalt also make a laver of brass, and his foot also of brass, to wash withal: and thou shalt put it between the tabernacle of the congregation and the altar, and thou shalt put water therein. For Aaron and his sons shall wash their hands and their feet thereat. When they go into the tabernacle of the congregation, they shall wash with water, that they die not; or when they come near to the altar to minister, to burn offering made by fire unto the Lord: So they shall wash their hands and their feet, that they die not: and it shall be a statute for ever to them, even to him and to his seed throughout their generations.--Exodus xxx. 17-21.
 
@@ -2643,7 +2577,7 @@ Like the shittim wood of the Tabernacle and of the Temple, the holy sphere of go
 
 Let us pray ever more and more earnestly that whether we adore, or whether we labor, whether we learn, or whether we work, the Lord our Savior, the Lord our righteousness may be our all in all.
 
-THE CURTAINS OF THE TABERNACLE
+== THE CURTAINS OF THE TABERNACLE
 
 Moreover thou shalt make the tabernacle with ten curtains of fine twined linen, and blue, and purple, and scarlet: with cherubim of cunning work shalt thou make them [v. 1]. And thou shalt make curtains of goats hair to be a covering upon the tabernacle, eleven curtains shalt thou make [v. 7]. And thou shalt make a covering for the tent of rams skins dyed red, and a covering above of badgers skins.--Exodus xxvi. 1, 7, 14.
 
@@ -2727,7 +2661,7 @@ The wicked weave the spiders web, combined of subterfuges and lies. The good wea
 Let us seek to be such tabernacles of the Most High. And while our supreme aim is to have the spirit of the Lord Jesus within us, yet let us also ask from Him those blessed gifts which will enable us to say, I
 will greatly rejoice in the Lord, my soul shall be joyful in my God; for He hath clothed me with the garments of salvation, He hath covered me with the robe of righteousness, as a bridegroom decketh himself with ornaments, and as a bride adorneth herself with her jewels.--Isa. lxi. 10.
 
-THE COURT OF THE TABERNACLE
+== THE COURT OF THE TABERNACLE
 
 And thou shalt make the court of the tabernacle.Exodus xxvii. 9.
 
@@ -2809,7 +2743,7 @@ The throne of him who is God and the Lamb shall be in it, and his servants shall
 
 Oh, may this tabernacle of our God speedily descend with power among men, and spread, until all falsity and wrong, all harshness and despotism, all corruption and sin, all ignorance and superstition shall for ever fade away, and reverent hearts, enlightened minds, and happy homes everywhere shrill announce the universal reign of the Lord Jesus!
 
-THE HOLY OINTMENT
+== THE HOLY OINTMENT
 
 Moreover the Lord spake unto Moses, saying, Take thou also unto thee principal spices, of pure myrrh five hundred shekels, and of sweet cinnamon half so much, even two hundred and fifty shekels, and of sweet calamus two hundred and fifty shekels, and of cassia five hundred shekels, after the shekel of the sanctuary, and of oil-olive an hin:
 and thou shalt make it an oil of holy ointment, an ointment compound after the art of the apothecary: it shall be an holy anointing oil.Exodus xxx. 33-35.
@@ -2910,7 +2844,7 @@ That this religious state should not be assumed for any selfish object, or from 
 
 May it be holy to each of us. May a settled purpose make the truths of the Holy Word sacred to us for the end for which they were given. They will then reveal their inherent fragrance, their holy power, and living efficacy. Let us look up for the Lords blessing while we learn, and the Holy Oil will flow down, like that of the widows cruse, and it will never stay, so long as we are willing to receive it. Thus shell we obtain the incomparable ointment that will soften and hallow our whole interior life, and fill us with the fragrance of heaven.
 
-THE HOLY INCENSE
+== THE HOLY INCENSE
 
 And the Lord said unto Moses, Take unto thee sweet spices, stacte, and onycha, and galbanum; these sweet spices with pure frankincense: of each there shall be a like weight: and thou shalt make it a perfume, a confection after the art of the apothecary, tempered together, pure and holy: and thou shalt beat some of it very small, and put of it before the testimony in the tabernacle of the congregation, where I will meet with thee: it shall be unto you most holy. And as for the perfume which thou shalt make, ye shall not make to yourselves according to the composition thereof: it shall be unto thee holy for the Lord. Whosoever shall make like unto that, to smell thereto, shall even be cut off from his people.--Exodus xxx. 34-38.
 
@@ -2993,7 +2927,7 @@ The injunction to the Israelites not to make the perfume for themselves, or to a
 
 And, surely, when the Lord Himself has taught us how to worship him aright, it does seem extraordinary that men are so blind as to invent other forms of worship than those of adoring love, faith and obedience. What doth the Lord thy God require of thee, is the language of our Heavenly Father Himself, but to do justly, to love mercy, and to walk humbly with thy God?
 
-THE GARMENTS OF AARON
+== THE GARMENTS OF AARON
 
 And thou shalt make holy garments for Aaron thy brother for glory and for beauty. And thou shalt speak unto all that are wise-hearted, whom I
 have filled with the spirit of wisdom, that they may make Aarons garments to consecrate him, that he may minister unto me in the priests office.--Exodus xxviii. 2, 3.
@@ -3077,7 +3011,7 @@ There must be concentrated energy in receiving divine things. No feeble grasp sh
 
 Lastly, there was the miter of the High Priest made of the same materials as the rest of the dress, and having a plate of gold on the front with the inscription upon it, Holiness to the Lord. The miter represents a perception on the part of the wearer that the Lord is the source of all good, an acknowledgment that every virtue in heaven and earth, that every pure thought and hallowed disposition is from the Lord alone. Holiness to the Lord. In the highest heavens the inmost affections of the angels are incessantly saying like the four living ones in the midst of the throne, Holy, Holy, Holy, Lord God Almighty, who was, and who is, and who is to come. And upon the miter of every one who wishes to be as the angels will be this confession, from the inmost love of their hearts, like letters of light, on a plate of gold, Holiness to the Lord.
 
-THE BREASTPLATE OF PRECIOUS STONES
+== THE BREASTPLATE OF PRECIOUS STONES
 
 And Aaron shall bear the names of the children of Israel in the breastplate of judgment upon his heart, when he goeth in unto the holy place, for a memorial before the Lord continually. And thou shalt put in the breastplate of judgment the Urim and the Thummim; and they shall be upon Aarons heart, when he goeth in before the Lord: and Aaron shall bear the judgment of the children of Israel upon his heart before the Lord continually.Exodus xxviii. 29, 30.
 
@@ -3248,7 +3182,7 @@ They are used for the service of the sanctuary. They are like the silver of Jose
 
 Thus does the silver of inward truth unite us to the Lord Jesus, and make us At-one-mind with Him and His blessed kingdom, enabling us whenever we are comforted by the self-knowledge that the riches of heaven have been to some extent unfolded within us, to glory at the same time in the acknowledgment, that to the saving mercy of the Lord Jesus we owe all we have, and all we are; the more we have, the more we owe. Let us then cast all our crowns before Him, the King and Lord of all.
 
-THE WORSHIP OF THE GOLDEN CALF
+== THE WORSHIP OF THE GOLDEN CALF
 
 And all the people brake off the golden earrings, which were in their ears, and brought them unto Aaron. And he received them at their hand, and fashioned it with a graving tool, after he had made it a molten calf: and they said, These be thy gods, O Israel, which brought thee up out of the land of Egypt.--Exodus xxxii. 3, 4.
 
@@ -3376,7 +3310,7 @@ The foul forerunner of a general rot.
 
 How deeply important it is then that we should unceasingly watch ourselves, and pray to the Lord for His light and strength; above all things to put on charity; to struggle against our inward evils; to make, by His Holy Spirits guidance, a new heart and a new spirit, that He Himself may warrant our everlasting peace by the gracious words, The kingdom of God is within you.
 
-THE TWO FIRST TABLES OF COMMANDMENTS BROKEN AND REPLACED
+== THE TWO FIRST TABLES OF COMMANDMENTS BROKEN AND REPLACED
 
 And the Lord said unto Moses, Hew thee two tables of stone like unto the first; and I will write upon these tables the words that were in the first tables, which thou breakest.Exodus xxxiv. i.
 
@@ -3470,7 +3404,7 @@ When the precepts of the Word have thus been accepted in the heart, they communi
 Lastly, let us daily pray that the heavenly writing thus forming the spirit and life of the Word map be transferred to the living tables of our inmost affections, so that the new covenant may be ours, whose terms run thus: This shall be the covenant that I will make with the house of Israel; After those days, saith the Lord, I will put my law in their inward parts, and write it in their hearts; and will be their God, and they shall be my people. And they shall teach no more every man his neighbor, saying, Know the Lord: for they shall all know me, from the least of them unto the greatest of them said the Lord: for I
 will forgive their iniquity, and I will remember their sin no more.--Jer. xxxi. 33, 34.
 
-THE LORD SEEN FROM THE CLEFT OF A ROCK
+== THE LORD SEEN FROM THE CLEFT OF A ROCK
 
 And the Lord said, Beheld there is a place by me, and thou shalt stand upon a rock: And it shall come to pass, while my glory passeth by, that I will put thee in a cleft of the rock, and will cover thee with my hand while I pass by: And I will take away my hand, and thou shalt see my back-parts: but my face shall not be seen.--Exodus xxxiii. 21-23.
 
@@ -3562,7 +3496,7 @@ Oh! how I would attend.
 
 He speaks, and says, I will place thee in a cleft of the rock. Thou shalt see so much as will gladden thy heart; as much as thou canst bear. Thou shalt see my goodness, pet thou shalt not be dazzled, and overpowered. I will cover thee with my hand; I will protect thee in thy weakness: and when thy strength increases, I will take away my hand, and thou shalt rejoice in the unclouded splendor of heaven. Arise, shine, for thy light has come, and the glory of the Lord has risen upon thee. My back-parts thou shalt see; and as events unroll themselves before thee, thou shalt know and confess that Infinite Love and Mercy have ruled in all My dealings towards thee, and all shall issue in everlasting order and peace.
 
-THE LORDS NAME DECLARED
+== THE LORDS NAME DECLARED
 
 And the Lord passed by before him, and proclaimed, The Lord, the Lord, God, merciful and gracious, longsuffering, and abundant in goodness and truth, keeping mercy for thousands, forgiving iniquity and transgression and sin, and that will by no means clear the guilty; visiting the iniquity of the fathers upon the children, and upon the childrens children, unto the third and to the fourth generation.--Exodus xxxiv. 6, 7.
 
@@ -3664,7 +3598,7 @@ Blessed, then, for ever blessed, be the Holy Name of the All Good, All His natur
 
 He provides ten thousand blessings in time and in eternity for the good. He delights to bring those who have strayed back to His divine fold, bearing and removing iniquity, transgression, and sin. He will not, cannot alter His Divine Laws, and clear the guilty, so long as he is guilty. But when the wicked man turns away from his wickedness, and doeth that which is lawful and right, he shall save his soul alive. All his transgressions that he hath committed shall not be mentioned unto him; in his righteousness that he hath done he shall live.
 
-THE FACE OF MOSES SHINING AND VEILED
+== THE FACE OF MOSES SHINING AND VEILED
 
 But when Moses went in before the Lord to speak with him, he took the veil off, until he came out. And he came out, and spake unto the children of Israel that which he was commanded. And the children of Israel saw the face of Moses, that the skin of Moses face shone; and Moses put the veil upon his face again, until he went in to speak with him.--Exodus xxxiv. 34, 35.
 
@@ -3769,7 +3703,7 @@ An alternation of state is good. Evening and morning are truly good in spiritual
 
 This ascent and descent, like that of the angels on the ladder which the patriarch saw, will bring a double blessing: a blessing on the mountain where we commune with the Lord; and a blessing in the valley where our inner states are covered; which at the same time are the causes of making our interior light so shine before men that they see our good works--our religion in act, and glorify our Father who is in heaven. Thus, till Moses has done speaking he must put a Veil upon his face. But when Moses goes in before the Lord, to speak with Him, he must take the Veil off until he comes out.
 
-THE SPIES AND THEIR REPORT OF THE PROMISED LAND
+== THE SPIES AND THEIR REPORT OF THE PROMISED LAND
 
 And they spake unto all the company of the children of Israel, saying, The land, which we passed through to search it, is an exceeding good land. If the Lord delight in us, then he will bring us into this land, and give it us; a land which floweth with milk and honey. Only rebel not ye against the Lord, neither fear ye the people of the land; for they are bread for us; their defense is departed from them, and the Lord is with us: fear him not.--Numbers xiv. 7-9.
 
@@ -3959,7 +3893,7 @@ The tossed and the torn in heart, the wearied and the humbled who feel that they
 With what exulting life, what bounding joy would the serpent-bitten find the poison neutralized, health restored, and the terrible danger gone. The earth would glisten in a new light. Fear and dread would give place to gratitude and love. Everything would smile upon them, for they were now freed, saved, and happy. So is it with the sin-delivered spirit wherever found. If any man be in Christ he is a new creature:
 old things are passed away; behold, all things are become new.
 
-BALAAM AND HIS ASS
+== BALAAM AND HIS ASS
 
 And the angel of the Lord said unto him, Wherefore hast thou smitten thine ass these three times? behold, I went out to withstand thee, because thy way is perverse before me: And the ass saw me, and turned from me these three times: unless she had turned from me, surely now also I had slain thee, and saved her alive.Numbers xxii. 32, 33.
 
@@ -4051,7 +3985,7 @@ But alas! what pains men take to curse themselves! With wondrous gifts, with pow
 
 Preserve us, O Divine Savior, from tampering with right. Bless us, Lord Jesus, with a single heart and a single eye, so that we may love thee, and love thy people, and so hare Thee abiding with us until we come at last to the peace of thy kingdom.
 
-MOSES APPOINTING JOSHUA HIS SUCCESSOR
+== MOSES APPOINTING JOSHUA HIS SUCCESSOR
 
 And Moses called unto Joshua, and said unto him in the sight of all Israel, Be strong and of good courage: for thou must go with this people unto the land which the Lord hath sworn unto their fathers to give them; and thou shalt cause them to inherit it. And the Lord, he it is that doth go before thee; he will be with thee, he will not fail thee, neither forsake thee: fear not, neither be dismayed.Deuteronomy xxxi. 7, 8.
 
@@ -4123,7 +4057,7 @@ Let us then say to every earnest soul, Be strong and of good courage. Fear nothi
 
 Look at what needs to be done. Pray for light to see Your evils, and by the Saviors power and guidance to overcome them. He will not fail thee nor forsake thee. Fear not. Conquering them may be hard, but sparing them is harder. Fear not. Be courageous. What is sin that you should dread it. It has no right in creation. It is a disease, an excrescence, an anomaly in the world, an ulcer, a plague, an enormous expense, and worth less than nothing. The strength of sin is in our fear and follies. Be of good cheer. See how brave souls have dared in every age to encounter perils of the most terrible kinds for the welfare of man, and the glory of God. Look up to the Conqueror of all the powers of darkness combined, who is your Savior, and resolve in His might to overcome. He will be with you. Fear not, neither be dismayed. He will not fail thee, nor forsake thee. Conquering sin you gain yourself, you gain a new heaven, and a new earth. You gain peace on earth, and everlasting blessedness among the good.
 
-THE DEATH AND BURIAL OF MOSES
+== THE DEATH AND BURIAL OF MOSES
 
 So Moses, the servant of the Lord, died there in the land of Moab, according to the word of the Lord. And He buried him in a valley in the land of Moab, over against Beth-Peor: but no man knoweth of his sepulchre unto this day.--Deuteronomy xxxiv. 5, 6.
 
@@ -4185,7 +4119,7 @@ The body of Moses, like a spiritual fragrance, purifies the place. The Lord has 
 
 Such are some of the lessons which are suggested by the spiritual consideration of the Death and Burial of Moses. Let us lay them well to heart. Let us follow our Moses, the divine law, until it has led us from Egypt, and disciplined us in the wilderness; until we are prepared to exchange outward law for inward love. Then the Lord will bury him in the valley over against Baal-Peor; and see, surely, that though he is dead to outward sight, he is alive and can never die.
 
-RAHAB AND THE SPIES
+== RAHAB AND THE SPIES
 
 And she said, According unto your words, so be it. And she sent them away, and they departed: and she bound the scarlet line in the window. And they went, and came unto the mountain, and abode there three days, until the pursuers were returned: and the pursuers sought them throughout all the way, but found them not. So the two men returned, and descended from the mountain, and passed over, and came to Joshua the son of Nun, and told him all things that befell them.Joshua ii. 21-23.
 
@@ -4287,7 +4221,7 @@ John saw the holy city, New Jerusalem, descending from God out of heaven, prepar
 
 Rahab was, lastly, to bring her whole household, father, mother, and brethren into her own house, and not to utter the business in any wise to the citizens of Jericho, or she would peril her safety. And in this circumstance we may perceive the representation of decision of character. We who sever ourselves from the evil must have no part nor lot with them; we must have no divided mind, or tell the business of heaven to the adherents of the kingdom of darkness; we must cast no pearls before swine; but resolutely close our house against the evils around, and wait in humble confidence for the salvation of the Lord. Then shall we assuredly find that when ruin and death are around, the walls of superstition and falsehood crumbling on every side, and the sensual and the vile sinking into the miseries they have made, Joshua will save Rahab, and her fathers household, and all that she has alive, and she will dwell in Israel, or in other words, the Lord Jesus will preserve His own, and plant them in His Church, where they will be saved and happy with the whole Israel of God.
 
-THE FALL OF JERICHO
+== THE FALL OF JERICHO
 
 Now Jericho was straitly shut up because of the children of Israel:
 none went out, and none came in. And the Lord said unto Joshua, See, I
@@ -4391,7 +4325,7 @@ Nothing is so black, so defiled, so full of horrors as that least read of all bo
 When the light of divine truth has laid its inner character quite open, by every fancied excuse, and all false pretext falling down like the walls of Jericho, then all that the better principles of the soul have to do is to go straight before them, destroy all the nest of evil impulses and evil thoughts, taking up the words of the Psalmist:
 Innumerable evils have compassed me about: mine iniquities have taken hold upon me so that I am not able to look up, they are more than the hairs of my head.--Ps. xl. 12. They compassed me about, yea, they compassed me about, but in the name of the Lord will I destroy them.--Ps. cxix 11. The inward sins thus unfolded to us will perish and die; while every good, like Rahab and her house, will be preserved, and thus far we shall have attained the greatest of all victories, the victory of self, and be able to lay the crown at the adorable feet of Him whose name is Jesus, because He saves His people from their sins.
 
-ACHANS SIN AND ISRAELS DEFEAT
+== ACHANS SIN AND ISRAELS DEFEAT
 
 And Achan answered Joshua, and said, Indeed I have sinned against the Lord God of Israel, and thus and thus have I done: When I saw among the spoils a goodly Babylonish garment, and two hundred shekels of silver and a wedge of gold of fifty shekels weight, then I coveted them, and took them; and, behold, they are hid in the earth in the midst of my tent, and the silver under it.Joshua vii. 20, 21.
 
@@ -4468,7 +4402,7 @@ The stoning of Achan, and all he had, with stones, and the burning of them with 
 
 The pain, the agony, the despair of such a state, is placed before us when it is said, Wherefore, the name of that place was called the valley of Achor [or trouble] unto this day. How sad the lot of those who continue Achanites until they are so made one with their deplorable evil that their capacity of repentance is gone, they are oil Achan. On the other hand, when, like the Israelites under Joshua, a soul has suffered defeat, and in dismay has entreated the Lord for light, and lain, like Joshua, before the throne until revelation come and it beholds its Achan, and condemns and repudiates it; then the tribulation leads to health, to purity, and to joy, and in the language of another part of the Divine Word, The valley of Achor becomes a door of hope, and a place for the flocks to lie down in. The soul sings there, as in the days of youth, and as in the day when we came out of Egypt (Hosea ii. 15).
 
-AI TAKEN
+== AI TAKEN
 
 And so it was, that all that fell that day, both of men and women, were twelve thousand, even all the men of Ai. For Joshua drew not his hand back, wherewith he stretched out the spear, until he had utterly destroyed all the inhabitants of Ai.Joshua viii. 25, 26.
 
@@ -4557,7 +4491,7 @@ but Joshua is with the host. He is arranging the attack before and behind. Let u
 
 We wrestle not with flesh and blood, but with principalities and powers, with spiritual wickedness in high places. But we wrestle also on the side of Him who is Conqueror of death and hell, and at His command. Let us go on in His strength, for He has said, I give unto you power to tread on serpents and scorpions, and over all the power of the enemy; and nothing shall by any means hurt you.
 
-THE COVENANT WITH THE GIBEONITES
+== THE COVENANT WITH THE GIBEONITES
 
 And the men took of their victuals, and asked not counsel at the mouth of the Lord. And Joshua made peace with them, and made a league with them to let them live: and the princes of the congregation sware unto them.--Joshua ix. 14, 15.
 
@@ -4718,7 +4652,7 @@ That which was spiritually expressive in the book of Jasher of the Divine Love a
 
 So will it be with us when we make decisive battle with our mental foes. The Divine Love and Divine Wisdom will give us light in all the trial. They will not go down for the whole day. The Divine Love will smile upon our affections, our hill of Gibeon; the Divine Wisdom will rest upon our valley of Ajalon, or valley of the harts, which the name signifies, while we are yearning for that wisdom, as the hart panteth for the water-brooks; and these gracious encouragements will continue until evil lies fully subdued within us, and no enemy of the Lord remains to trouble our Canaan within.
 
-THE DEATH OF JOSHUA
+== THE DEATH OF JOSHUA
 
 And it came to pass after these things, that Joshua the son of Nun, the servant of the Lord, died, being an hundred and ten years old. And they buried him in the border of his inheritance in Timnath-serah, which is in mount Ephraim, on the north side of the hill of Gaash.--Joshua xxiv. 29, 30.
 
@@ -4793,4 +4727,4 @@ Many, who like Festus, say, I will hear thee again at a more convenient season, 
 The convenient season is JUST NOW; when truth has shewn us a wrong, and if we are faithful and fearless under the direction of our blessed Lord and Savior, we shall secure years of peace, years of progress, years of usefulness, which otherwise would be worse than wasted. Let us, then, in His name avow His truth and obey it AS SOON AS WE CLEARLY PERCEIVE
 IT. Let us venture our all, cast our every care upon Him, and the result will be, our entrance into such a Canaan as will be to us a land flowing with milk and honey interiorly in this life of time, and we shall live fully and everlastingly in His kingdom above.
 
-THE END
+== THE END

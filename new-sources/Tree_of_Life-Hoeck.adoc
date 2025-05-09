@@ -1,6 +1,6 @@
 = Tree of Life: A Running Commentary on the Inner Meaning of the Word of God
 By Louis G. Hoeck
-include::../../template-attributes.adoc[]
+include::../template-attributes.adoc[]
 
 ////
 Chapter numbering (the 'list' problem) might like some attention.
@@ -86,7 +86,7 @@ This commentary makes no claim to perfection, but is presented rather as a helpe
 
 
 ---
-~~~
+<<<
 
 == "The Law of Moses"
 
@@ -279,7 +279,7 @@ Youth is at the crossroads. The garden of Eden is behind, and the world with all
 
 
 ---
-~~~
+<<<
 
 === Exodus -- The Love of Obedience
 
@@ -390,7 +390,7 @@ Life to Be 34. Now follows the new order of things accepting life as it is. Life
 
 
 ---
-~~~
+<<<
 
 === Leviticus -- The Art of Living
 
@@ -443,7 +443,7 @@ Prayers Motivated by Self-Interest 10. Our prayers also may come under serious c
 
 
 ---
-~~~
+<<<
 
 === Numbers -- The Church Militant
 
@@ -560,7 +560,7 @@ True Marriage and Religion Inseparable 36. The book of Numbers closes with a cha
 
 
 ---
-~~~
+<<<
 
 === Deuteronomy -- The Heart of the Law
 
@@ -678,7 +678,7 @@ To the biblical critic the structure of the books of the law presents many serio
 
 
 ---
-~~~
+<<<
 
 == "The Former Prophets"
 
@@ -753,7 +753,7 @@ A United Front 22. An act, which threatened to break the unity of the tribes and
 
 
 ---
-~~~
+<<<
 
 === Judges -- Forming Principles for Life
 
@@ -819,7 +819,7 @@ The End Justifies the Means?
 21.{empty} The Benjamites were so thoroughly decimated that only six hundred men, who fled to the rock Rimmon in Judah, were left alive. For them four hundred virgins from Jabesh Gilead, beyond Jordan, were provided to save the tribe from extinction. The spiritual, enlisting one's whole being in doing right, because it is right, reopens the way for the inception of the kingdom of the Lord. Hereafter the power and the meaning of the Scriptures is determined by its practicability, The stock of Benjamin is now mothered by the Gileadites. Gilead signifies "the first good, which is that of the senses of the body; for it is the good or the pleasure of these into which the man who is being regenerated is first of all initiated." (@AC 4117.) More and more the growth of the Church will be dependent upon her ability to shew plainly the bearing of revelation upon the daily life of her people. Abstract doctrine will always have a place in the Church. But the power of the Church for good in the world will be measured by her ability to lead men to greater freedom, and peace, and joy. "In these days there was no king in Israel; every man did that which was right in his own eyes." To all appearance we are the same today individually and collectively as we were yesterday and the day before. We have learned nothing from experience. That is the outside, most disappointing and discouraging. Such is the situation because we insist that the cause is on the surface, and not at the centre in our own hearts. It takes a lifetime to learn that from experience.
 
 ---
-~~~
+<<<
 
 === 1 Samuel -- "Asked of God"
 
@@ -907,7 +907,7 @@ Insufficiency of the Letter 28. David's victories, however, mark a distinct step
 31.{empty} The supremacy of the law of love in action throughout the church supersedes the authority of the letter of the law in the regenerate life. The letter of the law is proven inadequate to redeem society. Saul and his armor bearer fell upon their own swords, and Jonathan was slain by the Philistines. Imperialism effectuates its own ruin. Even where the spirit of the Word shines through the letter, that is not enough to save humanity. "The testimony of Jesus" throughout all prophecy is necessary to that great far off event. As might be expected they who regard civilisation as purely cultural noise abroad the pretensions and the failure of religion, and contemptuously discredit its power to preserve the peace of the world, The Philistines impaled the headless body of Saul on the walls of Bethshan -"the house of security." On the other hand, they who have experienced the protection of the law know otherwise. The men of Jabesh Gilead buried the bones of Saul and his sons under a tree at Jabesh. And, later, David reburied the bones of Saul and Jonathan in the sepulchre of Kish. Force has a rightful and necessary place in the social order to restrain criminality and protect the innocent. And it may be added that self- compulsion in obedience to the letter of the law is conformable to the spirit of the kingdom, but the "self" in the compulsion must be the "unself", or "as of one's self," to give it the quality, that is everlasting.
 
 ---
-~~~
+<<<
 
 === 2 Samuel -- The Law of Love
 
@@ -984,7 +984,7 @@ Thirty and seven great and mighty men whom David had are named on the roll of ho
 24.{empty} Is it possible in thus reviewing the exploits of the past to eliminate all thought of self-merit? It is human to say in the heart, "My power and the might of mine hand hath gotten me this wealth. But thou shalt remember the Lord thy God: for it is lie that giveth thee power to get wealth." (Dent. 8:17, 18.) For this reason the law provided that when the census was taken every man should give a ransom for his soul unto the Lord, that there be no plague among the people. The offering of a half shekel to the Lord is the token of an acknowledgment that his is the power to think right, and to do right. (Exod. 30:12.) This offering was omitted on the occasion when the people were numbered. Joab objected, but David would have his own way. And so the plague followed, As fire burns, so self-praise plagues the heart. The more we demand of others, the greater the suffering brought upon ourselves, and others too. Fortunately, David's repentance reflects our consciousness of the sin of taking credit for any good we may accomplish in this world. At best "we are unprofitable servants; we have done that which was our duty to do." (Luke 17:10.) Reason furnishes ample proof. The plague stopped at the threshing floor of Araunah, the Jebusite. David bought the threshing floor and the oxen which he offered on an altar built unto the Lord. And that was on Mount Moriah, the very spot on which Solomon would straightway erect the temple, and hard by the spot where the "Lamb of God that taketh away the sin of the world" (John 1:29) "gave up his life for his friends."(John 15:13.)
 
 ---
-~~~
+<<<
 
 === 1 Kings -- The Higher Law
 
@@ -1079,7 +1079,7 @@ justice, mercy, sincerity, etc. To turn a vineyard into a vegetable garden image
 There is still much hidden from us through our own conceits that has to be brought into the light, and rectified, before we have won our freedom.
 
 ---
-~~~
+<<<
 
 === 2 Kings -- The Captivity - Failure to Heed Conscience
 
@@ -1165,7 +1165,7 @@ On our failure to heed conscience-the captivity of Israel and Judah-the Lord ope
 
 
 ---
-~~~
+<<<
 
 == The Major Prophets
 
@@ -1349,7 +1349,7 @@ have learned the meaning of that law by hard experience. But, for those who did 
 
 
 ---
-~~~
+<<<
 
 === Jeremiah -- Unmasking the Love of Dominion
 
@@ -1500,7 +1500,7 @@ These prophecies are for "those, who in the church have been taken captive by su
 
 
 ---
-~~~
+<<<
 
 === Lamentations -- Comfort in Tribulation
 
@@ -1524,7 +1524,7 @@ Think of the children brought tip in the nurture and admonition of the Lord in t
 
 
 ---
-~~~
+<<<
 
 === Ezekiel -- A Vision Born of the Captivity
 
@@ -1637,7 +1637,7 @@ The prophet saw a new division of the land among the twelve tribes. The existenc
 
 
 ---
-~~~
+<<<
 
 === Daniel -- A New Perception of Justice
 
@@ -1734,7 +1734,7 @@ Harder Trials Are Just Growing Pains 13. To all appearances world conditions tod
 
 
 ---
-~~~
+<<<
 
 === Joel -- Exposing Sensuality for Judgment
 
@@ -1749,7 +1749,7 @@ bartering them for inferior values. It should not be so. We pride ourselves in k
 
 
 ---
-~~~
+<<<
 
 === Amos -- Insufferable Social Injustices
 
@@ -1779,7 +1779,7 @@ Chapter 1. The words of Amos, a Tekoan herdsman, which he saw concerning Israel 
 
 
 ---
-~~~
+<<<
 
 === Obadiah -- A New Pity
 
@@ -1787,7 +1787,7 @@ Everything known about that which is right and that which is wrong is a very sma
 
 
 ---
-~~~
+<<<
 
 === Jonah -- "Giving Light to All That Are in the House"
 
@@ -1803,7 +1803,7 @@ Chapter 1. "Arise, go to Nineveh, that great city, and cry against it: for their
 "Thou hast had pity on the gourd, for which thou hast not labored, neither madest it to grow; which came up in a night, and perished in a night: and should not I spare Nineveh, that great city, wherein are more than six score thousand persons that cannot discern between their right hand and their left hand; and also much cattle."
 
 ---
-~~~
+<<<
 
 === Micah --  A New Sense of Destiny
 
@@ -1827,7 +1827,7 @@ That is the meaning of the prophet Micah's name, the profound reaction to the pr
 
 
 ---
-~~~
+<<<
 
 === Nahum --  No Evil Is Excusable
 
@@ -1842,7 +1842,7 @@ That is the meaning of the prophet Micah's name, the profound reaction to the pr
 
 
 ---
-~~~
+<<<
 
 === Habakkuk --  A New Trust in God
 
@@ -1857,7 +1857,7 @@ but the just shall live by his faithfulness." To trust in self leads downward to
 
 
 ---
-~~~
+<<<
 
 === Zephaniah --  A New Horror of Evil
 
@@ -1871,7 +1871,7 @@ but the just shall live by his faithfulness." To trust in self leads downward to
 
 
 ---
-~~~
+<<<
 
 === Haggai --  A New Church
 
@@ -1884,7 +1884,7 @@ order take its place. "In that day, saith the Lord of hosts, will I take thee, O
 
 
 ---
-~~~
+<<<
 
 === Zechariah --  A New Manhood
 
@@ -1931,7 +1931,7 @@ Truth Lives When Bereft of Self-Love 9. "The burden of the Word of the Lord in t
 
 
 ---
-~~~
+<<<
 
 === Malachi --  Preparation for the Lord's Coming
 
@@ -1946,11 +1946,11 @@ they will be blessed of the Lord when He cometh. Then the difference will be see
 4.{empty} And then the good and the evil within will be altogether separated. "The Sun of righteousness shall arise with healing in his wings. . . . And the wicked shall be as ashes under the soles of your feet in the day that I shall do this, saith the Lord of hosts." Remember the law of Moses. Elijah shall precede the day of the Lord's coming to heal the breach in the home, and avert the curse that hangs over us, until the last attachment to evil in the heart has been severed forever, either here, or there.
 
 ---
-~~~
+<<<
 
 Volume IV: "Psalms, Gospels and Revelation"
 ---
-~~~
+<<<
 
 == Psalms -- Songs of Life
 
@@ -2817,7 +2817,7 @@ Therefore, Wisdom extols love. The rest of this Psalm glorifies the LORD. "Great
 *Psalm 150.* "The Lord ought to be worshipped from every affection of good and truth because He is omnipotent." We agree to it without any reservation. Yet, how much do our words mean? just what our individual lives proclaim. Wherever the love of God has been received in the heart, the quality of it defined in terms of His Word, and expressed in a life that is finally free from any taint of evil, there the Lord finds the praise of man in acknowledgment of his omnipotence. Man, with infinite variation, is himself the instrument which resounds the praise of his Maker. (@AE 326.) The Lord gives of Himself to bless His own without stint. And man fulfills his destiny as he gives in good measure and running over in the same spirit in which he receives it from the hand of God. "Let everything that hath breath praise the LORD. Hallelujah."
 
 ---
-~~~
+<<<
 
 == The Gospels -- The Redemption
 
@@ -3103,7 +3103,7 @@ blessed are they that have not seen, and yet have believed." Thomas Huxley once 
 "the disciple whom Jesus loved, (agapao), which also leaned on Jesus' breast at supper," was taken to the isle of Patmos, to see the visions which, rightly interpreted, enable us to understand the inner causes of the failure of Christianity in the past, and the truths by which the New Church, the crown of all the churches, will be established in the world.
 
 ---
-~~~
+<<<
 
 == Revelation -- The Crown of All the Churches
 

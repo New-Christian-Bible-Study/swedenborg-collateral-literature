@@ -1,6 +1,11 @@
 = First Three Kings
-Bruce
-include::../../template-attributes.adoc[]
+By Rev. William Bruce
+include::../template-attributes.adoc[]
+
+////
+
+
+////
 
 BY THE + 
 REV. WILLIAM BRUCE + 
@@ -16,207 +21,6 @@ THIS work is based on a series of discourses delivered about twenty years ago, w
 
 LONDON, 1879.
 
-////
-
-----
-
-CONTENTS.
-
-== BOOK I -- THE REIGN OF SAUL.
-
-INTRODUCTORY. PAGE
-ISRAEL DESIRES A KING (I Samuel viii.) 3
-
-CHAPTER I. SAUL SENT IN SEARCH OF HIS FATHER'S ASSES (I Samuel ix) 10
-
-CHAPTER II. SAMUEL RECEIVES AND ENTERTAINS SAUL (I Samuel 15-27) 19
-
-CHAPTER III. SAUL ANOINTED KING, WITH SIGNS FOLLOWING (I Samuel x.) 24
-
-CHAPTER IV. SAUL RELEASES THE INHABITANTS OF JABESH-GILEAD AND
-DEFEATS THE AMMONITES (I Samuel xi.) 36
-
-CHAPTER V. SAMUEL'S ADMONITION TO ISRAEL RESPECTING THEIR KING
-(I Samuel xii.) 45
-
-CHAPTER VI. SAUL USURPING THE PROPHET'S OFFICE FORFEITS THE KINGDOM
-(I Samuel xiii.) 50
-
-CHAPTER VII. JONATHAN'S CAPTURE OF THE PHILISTINES' GARRISON, AND
-ROUT OF THE PHILISTINE HOST (I Samuel xiv.) 61
-
-CHAPTER VIII. SAUL SENT TO DESTROY AMALEK (I Samuel xv.) 71
-
-CHAPTER IX. SAMUEL ANOINTS DAVID KING OF ISRAEL (I Samuel xvi.) 88
-
-CHAPTER X. SAMUEL ANOINTS DAVID KING OF ISRAEL (I Samuel xvii.) 97
-
-CHAPTER XI. THE FRIENDSHIP OF JONATHAN AND DAVID (I Samuel xviii.) 111
-
-CHAPTER XII. JONATHAN VINDICATES DAVID FROM THE UNJUST SUSPICION,
-
-AND MICHAL SAVES HIM FROM THE WRATH, OF SAUL
-(I Samuel xix.) 118
-
-CHAPTER XIII. DAVID'S FLIGHT AND JONATHAN'S AID (I Samuel xx.) 127
-
-CHAPTER XIV. DAVID, FLEEING FROM SAUL INTO PHILISTIA, RECEIVES
-
-FROM AHIMELECH THE PRIEST SHOWBREAD AND THE
-SWORD OF GOLIATH (I Samuel xxi.) 134
-
-CHAPTER XV. DAVID IN THE CAVE OF ADULLAM; SAUL'S SLAUGHTER OF
-THE PRIESTS (I Samuel xxii.) 142
-
-CHAPTER XVI. DAVID RELIEVES KEILAH; IS PURSUED BY SAUL; HAS HIS LAST
-INTERVIEW WITH JONATHAN (I Samuel xxiii.) 148
-
-CHAPTER XVII. DAVID SPARES SAUL AND CUTS OFF THE SKIRT OF HIS ROBE
-(I Samuel xxiv.) 155
-
-CHAPTER XVIII. THE THREATENED EFFECTS OF NABAL'S CHURLISHNESS ARE
-AVERTED BY ABIGAIL'S PRUDENCE (I Samuel xxv.) 162
-
-CHAPTER XIX. DAVID PENETRATES SAUL'S CAMP AND TAKES HIS SPEAR (I
-
-Samuel xxvi.) 170
-
-CHAPTER XX. DAVID ESCAPES INTO THE LAND OF THE PHILISTINES (I Samuel xxvii.) 175
-
-CHAPTER XXI. SAUL AND THE WITH OF ENDOR (I Samuel xxviii.) 182
-
-CHAPTER XXII. PREPARATION FOR BATTLE. THE AMALEKITES SPOIL ZIKLAG. DAVID RECOVERS ALL (I Samuel xxix, xxx.) 190
-
-CHAPTER XXIII. THE DEFEAT OF ISRAEL AND THE DEATH OF SAUL (I Samuel xxxi.) 198
-
-== BOOK II -- THE REIGN OF DAVID.
-
-CHAPTER I. PRELIMINARY 215
-
-CHAPTER II. DAVID RECEIVES TIDINGS OF THE DEFEAT OF ISRAEL AND THE
-DEATH OF SAUL (2 Samuel i. 1-16) 218
-
-CHAPTER III. DAVID'S LAMENTATION OVER SAUL AND JONATHAN (2 Samuel i. 17-27) 222
-
-CHAPTER IV. DAVID IN HEBRON ANOINTED KING OVER THE HOUSE OF JUDAH
-(2 Samuel ii.) 233
-
-CHAPTER V. THE DEATH OF ABNER (2 Samuel iii.) 241
-
-CHAPTER VI. THE DEATH OF ISH-BOSHETH (2 Samuel iv.) 250
-
-CHAPTER VII. DAVID IS ANOINTED KING OVER ISRAEL, AND GOES UP AGAINST
-JERUSALEM (2 Samuel v. 1-5) 253
-
-CHAPTER VIII. DAVID TAKES THE STRONGHOLD OF ZION (2 Samuel v. 610) 256
-
-CHAPTER IX. THE ARK OF GOD BROUGHT INTO THE HOLY CITY (2 Samuel vi.) 264
-
-CHAPTER X. DAVID DESIRES BUT IS FORBIDDEN TO BUILD A HOUSE FOR THE
-ARK OF THE LORD TO DWELL IN (2 Samuel vii.) 271
-
-CHAPTER XI. NATIONS OUT OF CANAAN AND MADE TRIBUTARY (2 Samuel viii.) 275
-
-CHAPTER XII. DAVID CHERISHES JONATHAN'S SON (2 Samuel ix.) 283
-
-CHAPTER XIII. DAVID'S ILL-REQUITTED FRIENDSHIP FOR THE KING OF THE
-AMMONITES (2 Samuel x.) 290
-
-CHAPTER XIV. DAVID'S GREAT SIN (2 Samuel xi.) 298
-
-CHAPTER XV. DAVID'S MESSAGE AND NATHAN'S PARABLE (2 Samuel xii.) 306
-
-CHAPTER XVI. ANMON AND TAMAR (2 Samuel xiii.) 311
-
-CHAPTER XVII. THE WIDOW OF TEKOAH'S PARABLE AND ABSALOM'S RETURN
-(2 Samuel xiv.) 319
-
-CHAPTER XVIII. THE REBELLION OF ABSALOM (2 Samuel xv. 1-9) 323
-
-CHAPTER XIX. DAVID'S FLIGHT (2 Samuel xv. 10) 331
-
-CHAPTER XX. THE DEFEAT AND DEATH OF ABSALOM (2 Samuel xviii.) 338
-
-CHAPTER XXI. DAVID'S RETURN TO JERUSALEM (2 Samuel xix.) 346
-
-CHAPTER XXII. THE REVOLT OF ISRAEL UNDER SHEBA (2 Samuel xx.) 353
-
-CHAPTER XXIII. SEVEN MEN OF THE SONS OF SAUL GIVEN UP TO THE
-GIBEONITES (2 Samuel xxi.) 359
-
-CHAPTER XXIV. DAVID'S SONG OF THANKSGIVING (2 Samuel xxii.) 365
-
-CHAPTER XXV. THE LAST WORDS OF DAVID (2 Samuel xxiii. 1-6) 375
-
-CHAPTER XXVI. DAVID'S MIGHTY MEN: THREE BRING HIM WATER FROM THE
-WELL OF BETHLEHEM (2 Samuel xxiii. 8-29) 381
-
-CHAPTER XXVII.
-
-DAVID'S SIN IN NUMBERING THE PEOPLE, AND ITS PUNISHMENT
-(2 Samuel xxiv. 1-15) 388
-
-CHAPTER XXVIII. THE DESTROYING ANGEL COMMANDED TO SPARE JERUSALEM
-(2 Samuel xxiv. 16-25) 394
-
-CHAPTER XXIX. ABISHAG THE SHUNAMMITE NOURISHES DAVID (1 Kings i. 1-5) 400
-
-CHAPTER XXX. ADONIJAH'S REBELLION (1 Kings i. 5-31) 405
-
-== BOOK III -- THE REIGN OF SOLOMON.
-
-CHAPTER I. SOLOMON ANOINTED KING (1 Kings i. 32-40) 413
-
-CHAPTER II. DAVID'S DYING CHARGE TO SOLOMON, AND HIS DEATH
-(1 Kings ii. 5-10) 419
-
-CHAPTER III. SOLOMON'S CHOICE (1 Kings iii. 1-14) 429
-
-CHAPTER IV. SOLOMON'S FIRST AND WISE JUDGMENT (1 Kings iii. 27) 435
-
-CHAPTER V. THE PEACEFUL SECURITY ENJOYED UNDER SOLOMON'S REIGN
-(2 Kings iv. 21) 442
-
-CHAPTER VI. PREPARATIONS FOR BUILDING THE TEMPLE (1 Kings v.) 446
-
-CHAPTER VII. SOLOMON'S TEMPLE. THE CORRESPONDENCE OF ITS PRINCIPAL
-DIVISIONS (1 Kings vi.) 452
-
-CHAPTER VIII. SOLOMON'S HOUSES (1 Kings vii. 1-12) 458
-
-CHAPTER IX. THE VESSELS OF SOLOMON'S TEMPLE, MADE BY HIRAM (1 Kings viii. 13-51) 464
-
-CHAPTER X. SOLOMON'S PRAYER AT THE DEDICATION OF THE TEMPLE
-(1 Kings viii.) 471
-
-CHAPTER XI. SOLOMON'S SECOND OFFERINGS, AND THE LORD'S SECOND
-APPEARANCE TO HIM (1 Kings viii. 62-66) 478
-
-CHAPTER XII. CABUL (1 Kings ix. 10-14) 484
-
-CHAPTER XIII. SOLOMON'S CITIES: TADMOR IN THE WILDERNESS (1 Kings ix. 16) 489
-
-CHAPTER XIV. SOLOMON'S FAME: THE QUEEN OF SHEBA'S VISIT (1 Kings x. 1-10) 494
-
-CHAPTER XV. SOLOMON'S THRONE (1 Kings x. 18) 504
-
-CHAPTER XVI. SOLOMON'S NAVY (1 Kings ix. 26-28; x. 11-22) 509
-
-CHAPTER XVII. SOLOMON'S ARMY (1 Kings x.) 515
-
-CHAPTER XVIII. SOLOMON'S IDOLATRY (1 Kings xi. 29-32) 520
-
-CHAPTER XIX. SOLOMON'S ADVERSARIES (1 Kings xi. 14-27) 530
-
-CHAPTER XX. THE DEATH AND BURIAL OF SOLOMON (1 Kings xi. 42, 43) 534
-
-CHAPTER XXI. THE PREDICTED REVOLT OF THE TEN TRIBES (1 Kings xi. 29-35) 541
-
-CHAPTER XXII. THE TWO KINGDOMS OF JUDAH AND ISRAEL (1 Kings xii.) 548
-
-----
-
-////
 
 == BOOK I -- THE REIGN OF SAUL.
 
@@ -435,10 +239,7 @@ The Lord's representative was, in this respect, like the Lord Himself when in th
 
 A highly fitting conclusion this of the account of the election of the first king of Israel, the first representative of the Lord, as a king who was to rule by truth and righteousness in the hearts of his people.
 
-CHAPTER IV.
-
-SAUL RELEASES THE INHABITANTS OF JABESH-GILEAD AND DEFEATS THE
-AMMONITES.
+=== CHAPTER IV -- SAUL RELEASES THE INHABITANTS OF JABESH-GILEAD AND DEFEATS THE AMMONITES.
 
 1 Samuel xi.
 
@@ -493,9 +294,7 @@ Not death but life marks the state of no doubt intended to lead the true spiritu
 
 The sacrifices and peace-offerings which they sacrificed to between the king and the people, tell us of the conjunction which is effected with the Lord when order is established in the kingdom of the regenerate mind, and its principles, the ruling and the governed, exist in harmonious relation to each other, and rejoice together.
 
-CHAPTER V.
-
-SAMUEL'S ADMONITION TO ISRAEL RESPECTING THEIR KING.
+=== CHAPTER V -- SAMUEL'S ADMONITION TO ISRAEL RESPECTING THEIR KING.
 
 1 Samuel xii.
 
@@ -525,9 +324,7 @@ I should soon have subdued their enemies, and turned My hand against their adver
 
 His object in repeating it is now, therefore, accomplished. Samuel has been saying to Israel, as John said to the Ephesian Church, "Remember from whence thou art fallen, and repent, and do the first works;" and repentance has now followed remembrance, and the prophet is intreated to pray unto the Lord that they die not. From being the accuser of the people, Samuel now becomes their comforter. "Fear not: ye have done all this wickedness: yet turn not aside from following the Lord, but serve the Lord with all your heart. . . . For the Lord will not forsake His people for His great name's sake: because it hath pleased the Lord to make you His people. Moreover, as for me, God forbid that I should sin against the Lord in ceasing to pray for you." While he comforts and encourages the people, and promises to pray for them, Samuel adds, "But I will teach you the good and the right way. Only fear the Lord, and serve Him in truth with all your heart: for consider how great things He hath done for you. But if ye shall still do wickedly, ye shall be consumed, both ye and your king." These are the sayings of a true prophet, who seeks to convince of sin that he may lead to repentance, and while he gives the promise of Divine favour to the penitent, makes them the subjects of his prayers and of his teaching. All this is highly consistent with Samuel's character as a representative of the Messiah. The Lord reproved and comforted and prayed for and taught His disciples; and He still does all this by His Spirit and His Word, and remotely through those who sustain the true prophetic character in the Church and to themselves.
 
-CHAPTER VI.
-
-SAUL USURPING THE PROPHET'S OFFICE FORFEITS THE KINGDOM.
+=== CHAPTER VI -- SAUL USURPING THE PROPHET'S OFFICE FORFEITS THE KINGDOM.
 
 1 Samuel xiii.
 
@@ -587,9 +384,7 @@ The first of these states is represented by the state of Israel as related in th
 
 And in Thy glory ride prosperously, because of truth, and meekness, and righteousness; and Thy right hand shall teach Thee terrible things. Thine arrows are sharp in the heart of the King's enemies, whereby the people fall under Thee." And by whom it is also said, "I have trodden the winepress alone, and of the people there was none with Me."
 
-CHAPTER VII.
-
-JONATHAN'S CAPTURE OF THE PHILISTINES' GARRISON, AND ROUT OF THE
+=== CHAPTER VII -- JONATHAN'S CAPTURE OF THE PHILISTINES' GARRISON, AND ROUT OF THE
 PHILISTINE HOST.
 
 1 Samuel xiv.
@@ -646,9 +441,7 @@ The singular fact, which occurs several times in the history of the Israelites, 
 
 Saul now went up from following the Philistines, and the Philistines went to their own place, to intimate that when the state of conflict is ended there is a recession of the conflicting principles, when there is not a complete conquest of one or the other. The conquest of the Philistines, or indeed of any other of the nations hostile to Israel, was not to be effected by Saul. Yet "Saul from this time took the kingdom of Israel, and fought against all his enemies on every side, against Moab, and against the children of Ammon, and against Edom, and against the kings of Zobah, and against the Philistines: and whithersoever he turned himself, he vexed them." Truth Divine, when it takes the government, actively opposes evils and falsities of every kind; and although it does not subdue it vexes them, and this restrains them and loosens their hold, so that they may be the more easily shaken off, or entirely subdued, when the power to effect this is acquired. The Amalekites and the Philistines were, however, the chief objects of his opposition, the Amalekites representing falsity grounded in interior evil, and the Philistines representing falsity from exterior evil, which is the practical form of faith alone. This principle is more directly opposed to, and must therefore be opposed by, truth grounded in good, which every king of Israel represented; and so there was sore war against the Philistines all the days of Saul; and this war both necessitates and leads to the acquirement of new truths that maintain charity and works against mere faith, as Saul, when he saw any strong man, or any valiant man, took him unto him. Between the first and last of these statements the sacred writer gives an account of Saul's family. His sons and daughters are the affections of truth and good produced by a right faith in union with true charity, represented by Saul and his wife, Ahinoam, a name which means the brother of grace. The name of the captain of his host was Abner, the son of Ner, Saul's uncle. Of Abner, father of light, me shall have something more to sap when we come to treat of his treacherous murder by Joab (2 Sam. iii. 27). As hosts, or armies, signify the truths of the Church combating against falsities, the captain of the host signifies the principal truth by which they are ordinated and directed.
 
-CHAPTER VIII.
-
-SAUL SENT TO DESTROY
+=== CHAPTER VIII -- SAUL SENT TO DESTROY
 
 1 Samuel xv.
 
@@ -717,9 +510,7 @@ Samuel and Saul now parted never to meet in the flesh again. Each went to his ow
 
 the truth which each represented thus retiring into the interior of the spiritual and natural mind to which they respectively belonged. But although all outward intercourse between them ceased, sympathetic connection was not entirely broken off. Samuel mourned for Saul. The thought and affection of the inward man mourn over the frailties and short-comings of the outward man. That may not restore the object of his sorrowing to the state, the loss of which he mourns. Notwithstanding Samuel's mourning, the Lord still repents that He had made Saul king. The truth Divine in the maternal humanity, which Saul represented, is at variance with the good of the Divine love, which cannot find in it a permanent dwelling-place, and a perfect medium of manifestation in overcoming hell and ordinating heaven, and establishing a spiritual Church on earth. Such a permanent dwelling-place and medium are to be found in another and higher principle, which the Lord Himself is to provide; the inauguration of which forms the subject of the next chapter.
 
-CHAPTER IX.
-
-SAMUEL ANOINTS DAVID KING OF ISRAEL.
+=== CHAPTER IX -- SAMUEL ANOINTS DAVID KING OF ISRAEL.
 
 1 Samuel xvi.
 
@@ -767,9 +558,7 @@ and the means by which this spirit is exorcised is the affection of truth. Of th
 
 In every one who is passing through the regenerate life there are, in a certain stage of his progress, a Saul and a David, one troubled with an evil spirit, and the other able, by the harmony of united truth and goodness, to dislodge the evil spirit. The outer man is corrupt and too ready to yield to evil influences. But when the inner man in such a state as that Divine and heavenly influences can descend through the affections into the mind below, the evil can be successfully opposed and finally cast out. In the progress of the Christian life this will be our experience. The evil spirit will come upon us. When we feel its influence, let us turn to Him who alone can deliver us; He who has tuned the whole universe to harmony, is able to remove the discord which sin has introduced into the human mind, and restore it to the harmony which, in common with the other parts of creation, it originally enjoyed.
 
-CHAPTER X.
-
-DAVID'S VICTORY OVER GOLIATH.
+=== CHAPTER X -- DAVID'S VICTORY OVER GOLIATH.
 
 1 Samuel xvii.
 
@@ -839,9 +628,7 @@ Saul, who had seen David go forth against the Philistine, was anxious to know, a
 
 There may be a spiritual cause why David should now seemingly for the first time become known to Saul. David was now a new man. He was no longer the armour-bearer of the king, but the hero of a great conflict. He had slain the terrible warrior and scattered the hosts of the enemy; and he came into Saul's presence with the head of the giant in his hand as a sign of his irresistible power, which was soon to shake the heart of the king himself.
 
-CHAPTER XI.
-
-THE FRIENDSHIP OF JONATHAN AND DAVID.
+=== CHAPTER XI -- THE FRIENDSHIP OF JONATHAN AND DAVID.
 
 1 Samuel xviii.
 
@@ -886,9 +673,7 @@ When David had escaped safely out of the snare that Saul had laid for him, and h
 "Saul saw and knew that the Lord was with David;" but it does seem wonderful that, knowing this, and knowing that his own daughter loved him, Saul should yet be more afraid of David, and should become David's enemy continually. But such is the carnal mind which Saul represented.
 "The carnal mind is enmity against God: for it is not subject to the law of God, neither indeed can be." This mind is not and cannot be changed and made spiritual, but must be put off, and not by the natural process of decay, but by strife and violence.
 
-CHAPTER XII.
-
-JONATHAN VINDICATES DAVID FROM THE UNJUST SUSPICION, AND MICHAL SAVES
+=== CHAPTER XII -- JONATHAN VINDICATES DAVID FROM THE UNJUST SUSPICION, AND MICHAL SAVES
 HIM FROM THE WRATH, OF SAUL.
 
 1 Samuel xix.
@@ -939,9 +724,7 @@ Three times Saul sent messengers to take David, and three times they were overco
 
 Jesus in His sore trials sought shelter from the persecution of His great enemy with the Divine in heaven among the angels, as David sought a refuge from the persecution of Saul with Samuel in Naioth among the company of the prophets. There he was safe; for although the tempting power exalted itself to heaven, as Saul and his emissaries thrust themselves into the presence of Samuel and the company of the prophets, there their power ceased, and they themselves became the involuntary subjects of its influence. They were like Balaam, who went to curse and was compelled altogether to bless. Our author tells us that evil men and evil spirits can be elevated into the light of heaven, so as to be able to see truth like the angels themselves, and even to will in agreement with it; but that they cannot long maintain that state, but relapse into their own natural condition. Saul seems to have been more completely in this state than his emissaries. "he stripped off his clothes, and lay down naked all that day and all that night." The clothing of the mind consists of its intellectual ideas, whether they be true or false; and when these are stripped off, the mind appears in its nakedness; and the natural selfhood, when stripped of its decent coverings, is seen to be also like Saul, in his nakedness, fallen and lying prostrate on the ground, earthly, sensual, devilish.
 
-CHAPTER XIII.
-
-DAVID'S FLIGHT AND JONATHAN'S AID.
+=== CHAPTER XIII -- DAVID'S FLIGHT AND JONATHAN'S AID.
 
 1 Samuel xx.
 
@@ -998,9 +781,7 @@ Before these two tender friends parted, Jonathan reminded David of the covenant 
 
 The Christian's covenant with the Lord extends to all states of love and faith which are successively begotten in the heart and understanding and born in the life, of which, in the regenerate, there is no end.
 
-CHAPTER XIV.
-
-DAVID, FLEEING FROM SAUL INTO PHILISTIA, RECEIVES FROM AHIMELECH THE
+=== CHAPTER XIV -- DAVID, FLEEING FROM SAUL INTO PHILISTIA, RECEIVES FROM AHIMELECH THE
 PRIEST SHOWBREAD AND THE SWORD OF GOLIATH.
 
 1 Samuel xxi.
@@ -1073,9 +854,7 @@ It is singularly appropriate that so much should be said about his steps and his
 
 The Philistines representing those who are in faith alone, a temptation of the kind which their assaults describe is one that marks the steps, to draw one away from the practice of the law of life. And therefore one who is tempted to yield to the seductive influence or the specious reasonings of faith without works, which is the doctrine of devils, who believe and tremble, will especially mingle with his thankfulness for the past deliverance of his soul from this death, the trust that the Lord will deliver his feet from falling, that he may walk before God in the light of the living.
 
-CHAPTER XV.
-
-DAVID IN THE CAVE OF ADULLAM; SAUL'S SLAUGHTER OF THE PRIESTS.
+=== CHAPTER XV -- DAVID IN THE CAVE OF ADULLAM; SAUL'S SLAUGHTER OF THE PRIESTS.
 
 1 Samuel xxii.
 
@@ -1113,9 +892,7 @@ This is one of several instances recorded in the Word, of the attempt to make a 
 (Matt. iv. 11). The occasion is with the spiritual, the cause is in the natural. The spirit leads up, and the flesh draws down; hence the conflict. The victory, as in the Lord's death, may seem to be on Satan's side, but the resurrection proves the triumph to be on the part of the sufferer. So says the Psalmist in reference to the present case:
 "Thou lovest all devouring words, O thou deceitful tongue. God shall likewise destroy thee for ever, He shall take thee away, and pluck thee out of thy dwelling-place, and root thee out of the land of the living. But I am like a green olive-tree in the house of God: I trust in the mercy of God for ever and ever. I will praise Thee for ever, because Thou hast done it; and I will wait on Thy name; for it is good before Thy saints" (Ps. iii.).
 
-CHAPTER XVI.
-
-DAVID RELIEVES KEILAH; IS PURSUED BY SAUL; HAS HIS LAST INTERVIEW WITH
+=== CHAPTER XVI -- DAVID RELIEVES KEILAH; IS PURSUED BY SAUL; HAS HIS LAST INTERVIEW WITH
 JONATHAN.
 
 1 Samuel xxiii.
@@ -1155,9 +932,7 @@ In these perilous circumstances, "there came a messenger unto Saul, saying, Hast
 
 When relieved of Saul's presence, David went up from thence, and dwelt in strongholds in Engedi. But this and David's experience there form the subject of the next chapter.
 
-CHAPTER XVII.
-
-DAVID SPARES SAUL AND CUTS OFF THE SKIRT OF HIS ROBE.
+=== CHAPTER XVII -- DAVID SPARES SAUL AND CUTS OFF THE SKIRT OF HIS ROBE.
 
 1 Samuel xxiv.
 
@@ -1224,9 +999,7 @@ The natural mind, prone to the earth, cannot be raised at once above its own her
 
 There is a distinction, however, to be made between Saul as David's enemy, and those who were the enemies both of David and of Saul, those who cared not for the transfer of the kingdom from Saul to David, but desired its destruction. These are the enemies of all true order; and, like the nations who invaded the land of Israel, and like the mercenary dealers who desecrated the temple, they are to be driven out. The natural mind itself, however, like Lot when made captive by the kings, must be preserved and delivered from captivity, and restored to a state of freedom (Gen. xiv.). And even when there is a difference between the thoughts and affections of the natural mind and the spiritual, as there was a contention between the herdsmen of Abram and the herdsmen of Lot; our language should be that of Abram on the occasion, "Let there be no strife, I pray thee, between me and thee, and between my herdsmen and thy herdsmen; for we he brethren."
 
-CHAPTER XVIII.
-
-THE THREATENED EFFECTS OF NABAL'S CHURLISHNESS ARE AVERTED BY ABIGAIL'S
+=== CHAPTER XVIII -- THE THREATENED EFFECTS OF NABAL'S CHURLISHNESS ARE AVERTED BY ABIGAIL'S
 PRUDENCE.
 
 1 Samuel xxv.
@@ -1285,9 +1058,7 @@ When David heard of Nabal's death, he sent and communed with Abigail, to take he
 
 This Church was represented by Ahinoam the Jezreelitess, whom also David took to wife; and Abigail and Ahinoam were both of them his wives. "But Saul had given Michal his daughter, David's wife, to Phalti, the son of Laish, which was of Gallim." We have already seen that Michal, the daughter of Saul, represented a natural affection, and we shall have further opportunities of seeing this exemplified. Saul intended her to be a snare to David; and when she no longer served that purpose, she was given to another. According to the custom of the times, when women were considered the property of their parents, and might be disposed of at their pleasure, Michal, like Samson's wife, was given to another man, without the consent of her husband, or even without consulting him. Saul may have had the same seeming justification that the parents of Samson's wife pleaded. Michal did not share David's fortunes during his fugitive life; and Saul may have considered that he was justified in annulling David's claim to her as his wife. From a higher point of view, the history of Michal shows her to have represented the Church more as the daughter of Saul than as the spouse of David, partaking more of the merely human than of the purely Divine element, more of the affection of truth Divine than of Divine truth, yet capable of being joined now to one and now to the other; like Adonis living alternately in the upper and in the lower world, and serving in some measure to connect them with each other. Michal is now away from David and joined to Phalti, who, we shall see, has to render her up to David again.
 
-CHAPTER XIX.
-
-DAVID PENETRATES SAUL'S CAMP AND TAKES HIS SPEAR.
+=== CHAPTER XIX -- DAVID PENETRATES SAUL'S CAMP AND TAKES HIS SPEAR.
 
 1 Samuel xxvi.
 
@@ -1319,9 +1090,7 @@ Until this is effected, we must expect tribulation, and we must or should be pre
 
 Whether, therefore, our trials and temptations be great or small, let us be faithful and trustful; and the end will be peace.
 
-CHAPTER XX.
-
-DAVID ESCAPES INTO THE LAND OF THE PHILISTINES.
+=== CHAPTER XX -- DAVID ESCAPES INTO THE LAND OF THE PHILISTINES.
 
 1 Samuel xxvii.
 
@@ -1365,9 +1134,7 @@ But this way of reading the Scriptures is an exemplification of the faith of Ach
 
 "Achish believed David, saying, He hath made his people Israel utterly to abhor him; therefore he shall be my servant for ever." David's people Israel are those who acknowledge the Lord's Divine truth as their master, the Philistines are those who desire to make it their servant. All truth leads to goodness, and all religion has relation to life; and only when we follow its teaching are we its subjects and servants. But if we believe that truth leads us to trust in another's goodness, and that all religion has relation to faith, we subvert the right order of things, and make truth subject and servant to us, because subservient to our own views and aims.
 
-CHAPTER XXI.
-
-SAUL AND THE WITCH OF ENDOR.
+=== CHAPTER XXI -- SAUL AND THE WITCH OF ENDOR.
 
 1 Samuel xxviii.
 
@@ -1430,9 +1197,7 @@ and he hearkened unto their voice. So he arose from the earth, and sat upon the 
 
 How solemn is the lesson we may learn from this part of the history of Saul! When the heart is turned away from God, the mind is bereft of all true comfort and deprived of all right direction. This is most felt and exhibited in times of danger and perplexity. It should, therefore, while the evil day is yet future, be our endeavour faithfully to obey the voice of the Lord, relying on His providential care, and the day of trial and conflict, come when it may, will find us prepared for the demands that may be made on our power of action or endurance.
 
-CHAPTER XXII.
-
-PREPARATION FOR BATTLE. THE AMALEKITES SPOIL ZIKLAG.
+=== CHAPTER XXII -- PREPARATION FOR BATTLE. THE AMALEKITES SPOIL ZIKLAG.
 
 DAVID RECOVERS ALL.
 
@@ -1480,9 +1245,7 @@ In the "Adversaria" this equal division of the spoil is said to teach the same t
 Besides giving equal shares to his men, when he came to Ziklag David sent a present--a blessing--of the spoil of the enemies of the Lord to the elders of various cities, chiefly in Judah, and to all the places where David and his men were wont to haunt. It is said of Him whom David represented, that He spoiled principalities and powers Col. n. 15); and that He shall divide the spoil with the strong (Isa. liii. 12). Wherever the Redeemer has been received in His humiliation, there will His blessing descend in His exaltation. In the spoil He acquired by His victory over the powers of darkness and the glorification of His humanity, all the faithful share. This is emphatically "David's spoil."
 In delivering those whom the Amalekites had made captive, David representatively performed that Divine deliverance which he himself prophetically celebrated. "Thou hast ascended on high, Thou hast led captivity captive: Thou hast received gifts for men; yea, for the rebellious also, that the Lord God might dwell among them" (Ps. lxviii. 18).
 
-CHAPTER XXIII.
-
-THE DEFEAT OF ISRAEL AND THE DEATR OF SAUL.
+=== CHAPTER XXIII -- THE DEFEAT OF ISRAEL AND THE DEATR OF SAUL.
 
 1 Samuel xxxi.
 
@@ -1688,9 +1451,7 @@ It would have been interesting to notice the numerous pairs of expressions that 
 
 David concludes, "How are the mighty fallen, and the weapons of war perished! "Fallen are the mighty when the heavenly principles of love and charity are no longer the religion of the heart and life, and the weapons of war have perished when the truths of the Word have ceased to defend good against evil, and the conflict has ended in the extinction of spiritual life.
 
-CHAPTER IV.
-
-DAVID IN HEBRON ANOINTED KING OVER THE HOUSE OF JUDAH.
+=== CHAPTER IV -- DAVID IN HEBRON ANOINTED KING OVER THE HOUSE OF JUDAH.
 
 2 Samuel ii.
 
@@ -1746,9 +1507,7 @@ Still, although the question of the kingship was as yet undecided, and both the 
 
 As regards Asahel they buried him in the sepulcher of his father which is in Bethlehem; thus representing the rising into a new and higher life of that natural principle of which he was the expressive type.
 
-CHAPTER V.
-
-THE DEATH OF ABNER.
+=== CHAPTER V -- THE DEATH OF ABNER.
 
 2 Samuel iii.
 
@@ -1806,9 +1565,7 @@ Man is not, strictly speaking, an agent but a reagent. The Lord is the only agen
 
 It seems remarkable that David should so bitterly complain that the sons of Zeruiah were too hard for him, and yet show no intention or even desire to remove them from a position they had misused. It may be thought they were too powerful to lose as friends and encounter as enemies. The higher reason is, that the sons of Zeruiah had a representative use to perform. That rationality which they represented is not to be rejected, even when it reacts against the higher perceptions of the mind, until the stage of the regenerate life to which it belongs is completed, and the state is perfected. When good takes the place of truth, when Solomon reigns instead of David, its end will have come. Then JEHOVAH will reward the doer of evil according to his wickedness. Not the anointed but the anointed is he who rewards such wickedness; not the Divine truth but the Divine good is that which removes such capability from the sphere of mental activity and bodily action. Now, the inversion of state is only going on. When that is completed, and good reigns, it will cast out all that offends.
 
-CHAPTER VI.
-
-THE DEATH OF ISH-BOSHETH.
+=== CHAPTER VI -- THE DEATH OF ISH-BOSHETH.
 
 2 Samuel iv.
 
@@ -1828,9 +1585,7 @@ Plains, in Scripture, signify planes in the mind. These two words in our languag
 
 David, to whom the slayers of Ish-bosheth presented his head, as an offering intended to secure his favor, shows the true nobility which marked his conduct on other similar occasions, when his interest would have prompted him to act a less generous part. He said to them, "When one told me, saying, Behold, Saul is dead, thinking to have brought good tidings, I took hold of him, and slew him in Ziklag, who thought that I would have given him a reward for his tidings how much more, when wicked men have slain a righteous person in his own house upon his bed? Shall I not therefore now require his blood of your hand, and take you away from the earth? And David commanded his young men, and they slew them, and cut off their hands and their feet, and hanged them up over the pool in Hebron. But they took the head of Ish-bosheth, and buried it in the sepulchre of Abner in Hebron." Those mutilations which were practised so much by ancient nations, when recorded in the Word are representative of the effects of evil. The hands and the feet, as the members by which the power of the body operates, or by which, roughly speaking, we work and walk, correspond to the ultimate powers of the mind by which the will and the understanding act. When the evil are such that "the act of violence is in their hands, and their feet run to evil, and they make haste to shed innocent blood" (Isa. lix. 6, 7), they lose the power of doing good. We see in this the judgment of Divine truth, which returns the evil done upon the evil-doer, according to the eternal law of retribution, that as a man sows so also shall lie reap.
 
-CHAPTER VII.
-
-DAVID IS ANOINTED KING OVER ISRAEL, AND GOES UP
+=== CHAPTER VII -- DAVID IS ANOINTED KING OVER ISRAEL, AND GOES UP
 
 AGAINST JERUSALEM.
 
@@ -1863,9 +1618,7 @@ When we know that the evil spirits and genii who occupied that region of heaven.
 
 David is now leading Israel, as the Lord led the faithful, to take the kingdom of heaven by force. But the account of this we reserve for another chapter.
 
-CHAPTER VIII.
-
-DAVID TAKES THE STRONGHOLD OF ZION.
+=== CHAPTER VIII -- DAVID TAKES THE STRONGHOLD OF ZION.
 
 2 Samuel v. 6-10.
 
@@ -1927,7 +1680,7 @@ David's prosperity did not secure him against trial. Regeneration is to a consid
 
 Having already considered several of Israel's conflicts with the Philistines, we can the more readily leave these without particular explanation. Not that they are unimportant; but they can be more easily understood from those which have been already explained. Other events, and of a different character, claim their share of our attention.
 
-CHAPTER IX
+=== CHAPTER IX
 
 THE ARK OF GOD BROUGHT INTO THE HOLY CITY.
 
@@ -1981,9 +1734,7 @@ When David had concluded the service in the tabernacle which he had set up for t
 
 "Children are an heritage of the Lord: and the fruit of the womb is His reward" (Ps. cxxvii. 3). When spiritually He makes women childless, it is because there is a want of harmony between the natural mind and the spiritual, whose union is necessary to give birth to the virtues of the religious life. When natural affection is not in unison with spiritual truth, there can be no such union between them as to make the life fruitful. And if that state of affection remains, Michal, who might have been a joyful mother of children, shall have no child till the day of her death.
 
-CHAPTER X.
-
-DAVID DESIRES BUT IS FORBIDDEN TO BUILD A HOUSE
+=== CHAPTER X -- DAVID DESIRES BUT IS FORBIDDEN TO BUILD A HOUSE
 
 FOR THE ARK OF THE LORD TO DWELL IN.
 
@@ -2010,7 +1761,7 @@ When Nathan delivered the Divine message to David, then went, in king David, and
 
 Whether we regard David as a type of the Saviour or of the saint, and his prayer as expressive of the Lord's aspirations to the Father or of the saint's pious adorations of his Saviour, we may learn a great lesson. The states of humiliation through which the Lord passed during the days in which He carried our frail nature, teach us lessons of profound wisdom. They tell us, so far as we can comprehend them, what the Lord endured and did for our sake, and also what we must endure and do for His: with this important difference, that all He did was for our benefit, while all we are required to do is for our own. For His sake, indeed, our works, both of passion and of action, must be done, for the end sanctifies the deed. Our works are good only when the Lord is in them as their end and cause, when His love prompts and His wisdom guides us. Self-abnegation must lie at the root of our self-denial as well as of our active duties. For it is possible to practice self-denial for the sake of self, as well as do good deeds for the sake of reward. Self-abnegation is a high state to attain, and can only be reached by patience and perseverance. But not only have we the example of our blessed Lord before us, we have His Spirit with us-that of which it is said, "The Holy Spirit was not yet given; because that Jesus was not yet glorified" (John vii- 39). The Spirit of Jesus differs from the Spirit of Jehovah. The Spirit of Jehovah was rather a creative than a regenerative Spirit. The Spirit of Jesus is the Spirit and power of all that He accomplished in the world; it is the Spirit of Jehovah in His Divine humanity, and it therefore conveys to those who receive it the power to become, by regeneration, images of what the Lord has become by glorification.
 
-CHAPTER XI
+=== CHAPTER XI
 
 NATIONS OUT OF CANAAN CONQUERED AND MADE TRIBUTARY.
 
@@ -2067,9 +1818,7 @@ Therefore, from representing the good of the natural mind, they had come to repr
 
 The thoughts and feelings which at first are restrained must finally be brought into a friendly relation with the ruling principle of the mind, or be removed. And so we find in the prophets predictions of the ultimate renewal or destruction of the nations generally that David conquered. Here, at least, we have, in the conquests of David, a representative history of a Divine work that is constantly going on in the minds of those who are being regenerated, and a promise of the time when all nations shall serve the Lord, and bring their gifts and offerings to Him as the King of kings and Lord of lords.
 
-CHAPTER XII.
-
-DAVID CHERISHES JONATHAN'S SON.
+=== CHAPTER XII -- DAVID CHERISHES JONATHAN'S SON.
 
 2 Samuel ix.
 
@@ -2119,9 +1868,7 @@ Mephibosheth, who represented the Lord's frail humanity, as truth Divine, was no
 
 And so far as we can rely on the meaning of names, those, in this instance, of parent, and child have a happy significance; for the father's name mean "Exterminating the idol," and the son's, "Who is like unto the Lord?"
 
-CHAPTER XIII.
-
-DAVID'S ILL-REQUITED FRIENDSHIP FOR THE KING OF THE
+=== CHAPTER XIII -- DAVID'S ILL-REQUITED FRIENDSHIP FOR THE KING OF THE
 
 AMMONITES
 
@@ -2177,9 +1924,7 @@ For there is a confederacy between things evil as there is a connection or confe
 "Thine enemies make a tumult: . . . they are confederate against Thee:
 the tabernacles of Edom, and the Ishmaelites; of Moab, and the Hagarenes; Gebal, and Ammon, and Amalek; the Philistines with the inhabitants of Tyre; Assur also is joined with them; they have holpen the children of Lot" (lxxxiii. 2, 5-8). Almost all the nations which have appeared in the historical part of the Word on which we have been engaged, are introduced here, and they are all confederate against God, to help the children of Lot, as the Syrians are here. But not only do evils and falsities become confederate among themselves, but evil becomes confederate with good and falsity with truth. "Syria is confederate with Ephraim," is recorded of a time in the Jewish history which represented the Church in the last stage of its decline, and is therefore followed by the Divine promise, "Behold, a virgin shall conceive, and bear a son" (Isa. Vii. 2, 14). The mixture of principles in their nature opposite is the worst kind of profanation. But even in these times, and in the worst states of temptation, the faithful have an unfailing support and guide, sufficient, if they but trust and follow Him, to overcome all the power of the enemy, and to break up the confederacy so far, at least, as that the Syrians shall fear to help the children of Ammon any more.
 
-CHAPTER XIV.
-
-DAVID'S GREAT SIN.
+=== CHAPTER XIV -- DAVID'S GREAT SIN.
 
 2 Samud xi.
 
@@ -2235,9 +1980,7 @@ Another benefit the Church has received from David's sin is that beautiful lesso
 
 Under David's circumstances, earnest prayer and pious resignation are equally dutiful and perfectly consistent. While there is hope we may send up the prayer of faith. Yet even in this prayer there should be resignation, whether unuttered or expressed, as in the words of the Lord Himself, "nevertheless, not as I will, but as Thou wilt." When the issue is no longer uncertain, what should be our course but meek and quiet submission? It is hard to part with the objects of our love, who are a part of ourselves and of our very life. But wherefore should we afflict our souls? We cannot bring one of them back. And we can say with more enlightened views of life and immortality, and with a brighter hope than David had, I shall go to him, but he shall not return to me."
 
-CHAPTER XV.
-
-GOD'S MESSAGE AND NATHAN'S PARABLE.
+=== CHAPTER XV -- GOD'S MESSAGE AND NATHAN'S PARABLE.
 
 2 Samuel xii.
 
@@ -2281,9 +2024,7 @@ In the present instance we are instructed that, even when sins have been confess
 
 We may humbly trust that the purer principles of Christianity and the grace of its Divine Author will preserve us from sinning after the similitude of David's transgression. Yet the contemplation of his transgression is profitable. We inherit the same nature, and are of like passions, and are exposed to the same temptations, as the Israelitish king. Do we not, then, need to regard his sin as a warning? But we need to be warned against more than the deeds themselves which he committed. Impurity of thought and intention is the unclean sin in its beginning, and to cherish is to commit. Anger and revenge are more than the seeds of murder: they are the branches of the evil tree that bears the deadly fruit. These we have to learn, from David's double crime, to shun. But we may learn from it to look still deeper into our hearts and minds. We may see both evils in their first origin in the violation of any spiritual principle of good whatever, and in perverting the truth that teaches, guards, and defends it. Knowing that every part of the Holy Word is divinely inspired, and is given for correction, for reproof, for instruction in righteousness, let us remember the end for which it is given-that the man of God may be perfect, throughly furnished unto all good works.
 
-CHAPTER XVI.
-
-AMNON AND TAMAR.
+=== CHAPTER XVI -- AMNON AND TAMAR.
 
 2 Samuel xiii.
 
@@ -2334,9 +2075,7 @@ King's daughters represented the affections of goodness and truth, and the garme
 
 According to the law of Moses Amnon's life was forfeited (Lev. xviii. 9, 29). David was very wroth, yet Amnon escaped unpunished. But Absalom, though he spake unto his brother Amnon neither good nor bad, determined to avenge his sister's wrongs; and the stroke came though it was long delayed. "It came to pass after two full years, that Absalom had sheepshearers in Baal-hazor, which is beside Ephraim: and Absalom invited all the king's sons." Wealth in those days consisted chiefly in flocks and herds; and sheepshearing was an honourable occupation, not beneath the dignity of princes. Sheepshearing signifies the performance of use, and the fleece of the sheep the good of charity. But the place where this sheepshearing took place indicates the character of the use to which it was to be applied. Ephraim represented the intellectual principle of the Church, and the city of Ephraim, which is here meant, and which was in the tribe of Judah, not far from Jerusalem, signified the doctrine of the Church, while Baal-hazor, which means a fenced place, a castle, signifies reasoning by which her doctrine is confirmed. Absalom's position, which he assumed and no doubt justified to himself, was near and partly within the doctrine of the Church upon the subject, for the law awarded death to Amnon's crime, but it was against the law for him, of his own will, to inflict the punishment. Amnon's death was merited ' but the act that deprived him of his life was lawless. But lawlessness characterized Absalom's subsequent conduct, and finally proved his ruin. Yet there is in this act a permissive and overruling Providence. Where legal justice sleeps, it is in certain conditions well that natural justice should rise up and redress a flagrant wrong. Natural justice is, however, a dangerous power, and is inconsistent with orderly and stable government. It rests on private feelings and interests, and is wanting in the dispassionate and impartial judgment that belongs to a tribunal which is based on general principles and regards the public good. But Amnon has fallen under a stroke that he had not unjustly drawn down upon himself. He who had dishonoured a sister has been slain by a brother. And these unnatural deeds may be regarded as counterparts of each other, and as teaching the solemn lesson that one evil produces another of a kindred nature, turning even domestic love into hatred and virtue into vice, and bringing upon the soul certain destruction.
 
-CHAPTER XVII.
-
-THE WIDOW OF TEKOAH'S PARABLE AND ABSALOM'S RETURN.
+=== CHAPTER XVII -- THE WIDOW OF TEKOAH'S PARABLE AND ABSALOM'S RETURN.
 
 2 Samuel xiv.
 
@@ -2368,9 +2107,7 @@ This part of the parable was not based upon the law of Moses, for no case of thi
 
 Joab's mediation through the widow was successful. "The king said unto Joab, Behold now, I have done this thing: go therefore, bring the young man Absalom again." Joab fell to the ground on his face, and bowed himself, and thanked the king, representing the submission of the rational to the spiritual; and then he arose and went to Geshur, and brought Absalom to Jerusalem, representing the influx of the spiritual through the rational into the natural, by which the natural is elevated into a spiritual state. But reconciliation and conjunction were not yet complete. "The king said, Let him turn to his own house, and let him not see my face." The face represents the interior of the mind, as the back represents its exterior. Hence so much is said of the Lord's face, as expressive of the inmost and hidden nature of God, which no man can see and live, and which yet may be seen as brought forth to view in the Divine Humanity, which veils the glory of the Essential Divinity; and hence Moses, who desired to see the Divine Glory, was not permitted to see the Lord's face, but only His back parts. In this state of incomplete reconciliation Absalom remained two full years, that number which is so often mentioned when a state representative of conjunction, or one ready for conjunction, is treated of. "Therefore Absalom sent for Joab, to have sent him to the king." But Joab, though sent for three times, refused to come; and was only induced to comply by Absalom's servants setting Joab's field of barley on fire. A full state of truth does not of itself bring the rational over to the natural; but when the fire of natural love, as zeal, invades the good of the rational mind, which is from a natural origin, and is in connection with natural good, as Joab's field was near Absalom's field, or place, then is the effect produced. "Joab came to the king, and told him: and when he had called for Absalom, he came to the king, and bowed himself on his face to the ground before the king: and the king kissed Absalom." Thus the son humbled himself before his father, and his father gave him the kiss of love, the symbol of reconciliation and conjunction.
 
-CHAPTER XVIII.
-
-THE REBELLION OF ABSALOM.
+=== CHAPTER XVIII -- THE REBELLION OF ABSALOM.
 
 2 Samuel xv. 1-9.
 
@@ -2420,9 +2157,7 @@ But we must not pursue the subject in this high sense. It is sufficient to know 
 
 The circumstances connected with this rebellion and the death of Absalom will form the subject of another chapter.
 
-CHAPTER XIX.
-
-DAVID'S FLIGHT.
+=== CHAPTER XIX -- DAVID'S FLIGHT.
 
 2 Samud xv. 10.
 
@@ -2465,9 +2200,7 @@ When the two messengers were released from their place of concealment, they went
 
 David and the people that were with him have gone over Jordan, Absalom passed over Jordan also, he and all the men of Israel with him. The fate of the kingdom of Israel was therefore to be decided on the other side Jordan, in that part of the Holy Land which represented, the natural mind or the external man, which is the scene of all such conflicts.
 
-CHAPTER XX.
-
-THE DEFEAT AND DEATH OF ABSALOM.
+=== CHAPTER XX -- THE DEFEAT AND DEATH OF ABSALOM.
 
 2 Samuel xviii.
 
@@ -2525,9 +2258,7 @@ condemns the soul to hell. In all such cases it is not the Lord who condemns, bu
 The royal father's passionate grief over the death of his rebellious son, was but an imperfect type of the sorrowing love of Him who wept over the profligate city while He pronounced its doom, and who sent up in His agony a prayer for those who were nailing Him to the cross. "O
 my son Absalom, my son, my son Absalom! would God I had died for thee, O Absalom, my son, my son!" What David desired to have done, David's Lord did. He died for His rebellious children. Not in their stead did the Lord die for them, but not the less to save them from death. Moses and Paul expressed a desire to die for their rebellious brethren, as David did for his rebellious son; and this was the only way in which they could express it. But this is not the Divine way, nor is it consistent with Divine order. When Moses prayed to be blotted out of the Lord's book rather than that his people should not be forgiven, the Lord gave this answer to his prayer, "Whosoever hath sinned against Me, him will I blot out of My book." Infinite love and mercy cannot save the guilty, but infinite wisdom has found out a way by which sinners may turn from their wickedness and live.
 
-CHAPTER XXI.
-
-DAVID'S RETURN TO JERUSALEM.
+=== CHAPTER XXI -- DAVID'S RETURN TO JERUSALEM.
 
 2 Samuel xix.
 
@@ -2568,9 +2299,7 @@ Barzillai pleaded his many infirmities for asking permission, after he should ha
 Those whose nature answers to Chimham's name, who have a "great desire"
 for higher, that is, for heavenly things; and who can say with the Psalmist, "O God, Thou art my God; early will I seek Thee; my soul thirsteth for Thee, my flesh longeth for Thee," will receive Chimham's reward, not only in finding a habitation in the heavenly Canaan, but in receiving the blessing bestowed by the king in his dying charge to Solomon on the sons of Barzillai: "Let them be of those that eat at thy table: for so they came to me when I fled because of Absalom thy brother" (1 Kings ii. 7).
 
-CHAPTER XXII.
-
-THE REVOLT OF ISRAEL UNDER SHEBA.
+=== CHAPTER XXII -- THE REVOLT OF ISRAEL UNDER SHEBA.
 
 2 Samuel xx.
 
@@ -2616,9 +2345,7 @@ The wise woman had no hesitation in promising to Joab that the head of Sheba sho
 
 Thus ended the rebellion; and the order which followed, as the result of peace, is expressed by the concluding statement respecting David's affairs, and his ministers, from Joab, who was over all the land of Israel, to Ira the Jairite, who was a chief ruler about David.
 
-CHAPTER XXIII.
-
-SEVEN MEN OF THE SONS OF SAUL GIVEN UP TO THE GIBEONITES.
+=== CHAPTER XXIII -- SEVEN MEN OF THE SONS OF SAUL GIVEN UP TO THE GIBEONITES.
 
 2 Samuel xxi.
 
@@ -2662,9 +2389,7 @@ Of course we do not mean that any change takes place in the Divine mind. Such is
 
 When we find ourselves without the inward consolation and outward fruitfulness of the heavenly life, we should examine ourselves to discover the cause. And having made the discovery, we should put away the evil of our doings from before the eyes of the Lord, and the light of the Divine countenance will shed joy over our inward life and render our outward life fruitful in all good works.
 
-CHAPTER XXIV.
-
-DAVID'S SONG OF THANKSGIVING.
+=== CHAPTER XXIV -- DAVID'S SONG OF THANKSGIVING.
 
 2 Samuel xxii.
 
@@ -2787,9 +2512,7 @@ The people whom he knew not, is all that which confirms faith, which are things 
 Furthermore, by king, anointed, and David are understood those who are called the sons of the King, thus kings. Seed is applied to them, when God-Messiah is understood by David. But seed is applied to faith and to those things which belong to faith, when the King's sons [are meant] by David; but when [seed] is applied proximately to David, it is those who will reign after him. These [will endure] for an age, ie. for a time, as is manifest from the signification of an age wherever it occurs. But in the inner sense [and] the inmost, an age signifies eternity, as also elsewhere. That the kingdom will be everlasting, of David, see above, 2
 Sam. vii. 13, 16, where those words also are explained.
 
-CHAPTER XXV.
-
-THE LAST WORDS OF DAVID.
+=== CHAPTER XXV -- THE LAST WORDS OF DAVID.
 
 2 Samud xxiii. 1-6.
 
@@ -2833,9 +2556,7 @@ But there is sunshine as well as rain needed to make the earth fruitful. So must
 
 It is the same in our relation to each other as it is in the mind itself. It is not sufficient that in our intercourse with each other we are truthful, we need also to be loving. Truth, precious as it is, existing or dispensed by itself, is cold and unproductive of the good of which it is capable, as a power working under the influence of love. What would the state of childhood be if we gave the young mind truth but gave the young heart no love? Is not the sunshine of love as necessary for the growth of the young life as the rain of truth? So with our friendships. So with our spiritual brotherhood. Truth is one of the essential elements of real usefulness in all the relations of life, but love is the uniting principle. To speak the truth in love is the perfection of teaching and of admonishing. Above all, therefore, the religious teacher must be a man of love as well as of truth. He must be faithful in teaching the truth and enforcing its lessons, but unless he give the clear shining of love after the rain of truth, he will fail to produce the good which should be aimed at as the ultimate result of his sacred office. How beautifully were these two united in the teaching and example of our great Teacher, our Lord and Saviour Jesus Christ.
 
-CHAPTER XXVI.
-
-DAVID'S MIGHTY MEN: THREE BRING HIM WATER
+=== CHAPTER XXVI -- DAVID'S MIGHTY MEN: THREE BRING HIM WATER
 
 FROM THE WELL OF BETHLEHEM.
 
@@ -2882,9 +2603,7 @@ Although David refused to drink the water of the well of Bethlehem, for which he
 
 To pour out unto the Lord the water of the well of Bethlehem, as the blood of those who obtained it, is to acknowledge that life, which is the gift of God, is His, and is to be ascribed to Him alone, and to look to Him to sanctify it, and render it fit for His sacred service. This pouring out of the water reminds us of the truth that "we must needs die, and are as water spilt on the ground, which cannot be gathered up again." Man cannot give life, neither cart he restore it. This is true of spiritual and eternal, as well as of natural and temporal life. The breath of natural life and the spirit of regenerating life are equally the gift of God; To Him should they be poured out, in the spirit of devout acknowledgment, that every good and every perfect gift cometh from above. And where we have erred in the right employment of the powers which the Lord confers upon us, or of the graces which He bestows, when zeal may have carried us where wisdom would have forbidden us to venture, may we listen to the dictates of that Divine voice, which never fails to speak out clearly and distinctly when even the generous impulses of the mind have carried us beyond the bounds of prudence.
 
-CHAPTER XXVII.
-
-DAVID'S SIN IN NUMBERING THE PEOPLE, AND ITS PUNISHMENT.
+=== CHAPTER XXVII -- DAVID'S SIN IN NUMBERING THE PEOPLE, AND ITS PUNISHMENT.
 
 2 Samuel xxiv. 1-15
 
@@ -2928,9 +2647,7 @@ When, on the other hand, the Church in general, or any of its members in particu
 
 When, in a Church or a human being, this remnant becomes so small that no restoration to a state of true spiritual life can be effected, there is a judgment, which brings the Church to an end. Such a state in the Jewish Church is indicated by the Lord's anger being kindled against Israel, and His moving David to number the people. For what is called anger in God is the contrariety of the state of the Church to the Divine character and attributes; His moving David to number the people is the natural effect of this state in the inversion of order; and the punishment of the crime is the destruction of the holy principles of goodness and truth, even to the very small remnant that would have saved Israel and Judah from becoming as Sodom and like unto Gomorrah. The seventy thousand that fell under the pestilence were taken away for some wise and merciful purpose even towards them; but it was at the same time a representative judgment, and the history of it is written for our admonition, upon whom the ends of the world are come.
 
-CHAPTER XXVIII.
-
-THE DESTROYING ANGEL COMMANDED TO SPARE JERUSALEM.
+=== CHAPTER XXVIII -- THE DESTROYING ANGEL COMMANDED TO SPARE JERUSALEM.
 
 2 Samuel xxiv. 16-25.
 
@@ -2957,7 +2674,7 @@ A similar Providence presides over the individuals of the human race as over the
 
 We may observe in conclusion that in the individual sense David signifies the human intellect. In his numbering the people we see the intellect acting under the influence of the natural will, or the selfhood; but in his penitential worship we see the intellect acting under the influence of a will brought into a state of humble submission to the Divine will. Whenever the understanding acts from self-will, evil consequences ensue; when it acts in union with a humble heart, goodness and blessing are the result.
 
-CHAPTER XXIX
+=== CHAPTER XXIX
 
 ABISHAG THE SHUNAMMITE NOURISHES DAVID
 
@@ -2998,9 +2715,7 @@ There was another reason for this circumstance. Abishag the Shunammite represent
 
 The history of David and the Shunammite, like every other part of the Word, treats of the Church in particular as well as of the Church in general. The Lord is in every true member of His Church as well as among the whole body of the faithful. And in every regenerate mind those changes take place which passed upon the Lord and the Church while He was engaged in working out the great deliverance of mankind in human redemption. Without entering into the particulars of this remarkable, and, we may justly assert, mystical narrative, we may learn from it that it is not by faith and truth only, but by love and goodness, that we can preserve the Lord's life in our souls. The warmth of heavenly and Divine love cannot be supported within us without our cherishing it and ministering unto it. The Divine love as it is in itself is ever the same. Widely different is it in us, according as, with different degrees of faithfulness, we cherish and reciprocate it; or make it the object of a formal faith or verbal exaltation. We must search through all the coasts of Israel, through the whole spiritual mind, till we find a spiritual affection so tender, so pure, so fair as to be fit to be brought to the king-the Divine truth in the mind-that it may nourish and minister unto it, so as to make it in us the truth of love-the power of God unto salvation.
 
-CHAPTER XXX.
-
-ADONIJAH'S REBELLION.
+=== CHAPTER XXX -- ADONIJAH'S REBELLION.
 
 I Kings i. 5-31.
 
@@ -3027,8 +2742,6 @@ In every transition period and state of life it is the same. There are always di
 We may learn, then, from the history of Adonijah that in the regeneration there are changes of state which act upon the inmost principles of our spiritual life; but are so overruled by a wise and merciful God as to bring everlasting benefit to those who love and serve Him.
 
 == BOOK III -- THE REIGN OF SOLOMON.
-
-[Blank page.]
 
 === CHAPTER I -- SOLOMON ANOINTED KING.
 
@@ -3189,9 +2902,7 @@ In the New Testament this result of the better choice is declared plainly and em
 
 As true wisdom comes from heaven, it is known by its heavenly character, as distinguished from that which is earth-born. Wisdom is justified of all her children, whether they be children of light or children of darkness. "Who is a wise man," says James, "and endued with knowledge among you? let him show out of a good conversation his works with meekness of wisdom. But if ye have bitter envying and strife in your hearts, glory not, and lie not against the truth. This wisdom descendeth not from above, but is earthly, sensual, devilish. But the wisdom that is from above is first pure, then peaceable, gentle, and easy to be intreated, full of mercy and good fruits, without partiality, and without hypocrisy" (iii. 13-17). Be this wisdom the object of our choice; let its fruits be manifested in our lives; and then indeed will its benign influences diffuse around us, as it will establish within us, the spirit of all that is lovely and blessed.
 
-CHAPTER IV.
-
-SOLOMON'S FIRST AND WISE JUDGMENT.
+=== CHAPTER IV -- SOLOMON'S FIRST AND WISE JUDGMENT.
 
 I KingS iii. 27
 
@@ -3250,9 +2961,7 @@ The genuineness or the Divinity of the Scriptures, for instance, is with some a 
 
 Let us remember that, in the language of the apostle, we must all appear before the judgment-seat of Christ, to receive according to the deeds done in the body, whether they be good or evil. We shall not, as is too often the case among men, be judged by what we say, but by what we are. The Lord looketh upon the heart; and through the heart we shall be judged, according to our works, our works being such as our hearts are. In that day the secrets of all hearts shall be revealed, and every one will be rewarded according to his work. Happy will it be for those who have cherished innocence. Whatsoever may have been their trials, the innocence which they have borne and nourished will be restored to their own bosom.
 
-CHAPTER V.
-
-THE POWERFUL SECURITY ENJOYED UNDER SOLOMON'S REIGN.
+=== CHAPTER V -- THE POWERFUL SECURITY ENJOYED UNDER SOLOMON'S REIGN.
 
 2 Kings iv. 21.
 
@@ -3282,9 +2991,7 @@ Nothing that is without us, or separate from ourselves, can be either a shadow f
 
 If we would enjoy that state of security and peace which this imagery so expressively depicts, we must, like the husbandmen in the parable of the Lord, use the means. We must work in the vineyard and dig about the fig-tree and dung it. We must also use the ploughshare and the pruning-hook, as we have previously used the sword and the spear. We must have broken up the fallow ground, and we must keep the ground in cultivation: we must also, like the Divine Husbandman Himself, prune the tree of withered or exuberant branches, that the fruit-producing power may be preserved and improved. When the labour of combat has ceased, this work of love must continue; and its reward is security and delight.
 
-CHAPTER VI.
-
-PREPARATIONS FOR BUILDING THE TEMPLE.
+=== CHAPTER VI -- PREPARATIONS FOR BUILDING THE TEMPLE.
 
 1 Kings v.
 
@@ -3318,9 +3025,7 @@ But when the mind is more fully perfected, by being regenerated more fully, and 
 
 The difference of the representative character of the Tyrians and the Sidonians is indicated in the different parts of the work which they are mentioned as performing. "There is not among us," said Solomon to Hiram," any that can skill to hew timber like unto the Sidonians." The Sidonians are therefore mentioned as those who assisted Israel in bringing the wood from the forest of Lebanon, which represented the more external and general work of procuring the goods of spiritual and natural truth from the Word itself. But when the more interior and particular work of preparing the furnishings and decorations of the temple are spoken of, a man, the son Of an Israelitish mother and a Syrian father, is mentioned. And as a man of Tyre signifies the knowledge of internal truth, and an Israelitish woman the spiritual affection of truth, he who is born of such a marriage must represent a principle or faculty which unites in itself the spiritual affection and the rational perception of the good and truth, that prepare us for the kingdom of heaven. The mother, too, was of the tribe of Naphtali; and this tribe represented the conjunction of goodness and truth, which is the heavenly marriage. Still more, Hiram, who adorned the temple, united in himself the Jew and the Gentile: and it may not be inconsistent with the representative character of the temple to suppose that Hiram's work foreshadowed the work of the Lord, by which His humanity became the means of uniting in one all the families of the earth, and truly making them not only of one blood, but of one spirit, the spirit of loving God above all things and each other as themselves. When the Lord shall be acknowledged in the Church universal as the Divine Man, the Pattern of all true humanity, and the Author of all that is truly human in man, then will the Lord be King over all the earth, and there shall be one fold and one Shepherd.
 
-CHAPTER VII.
-
-SOLOMON'S TEMPLE. THE CORRESPONDENCE OF
+=== CHAPTER VII -- SOLOMON'S TEMPLE. THE CORRESPONDENCE OF
 
 ITS PRINCIPAL DIVISIONS.
 
@@ -3366,9 +3071,7 @@ The treatment of the subject in the present chapter may perhaps seem to have too
 
 Does not the contemplation of these truths teach us, that we must be fitted to enter into the universal harmony which exists among the angels of heaven, and between them and the Author of their happiness, before we can enter into their habitations and participate in their joys? Does it not tell us that He what originally created us after His own image, now desires to re-create us after His own likeness; and that if we would become spiritual and living temples, we must follow in the footsteps of Him who built up the Holy Temple of His Divine Humanity in labour, and self-denial, and suffering, as well as in works of love and beneficence? He has now opened up a new and living way of access to Himself, as our Father, through the veil, that is to say, His flesh. We are able to enter even into the holy of holies. Further, the temple is now opened in heaven, and there is to be seen in heaven the ark of His Testament (Rev. xi. 19). The way is thus opened for the penitent and obedient to enter into the holiest of all. Let us strive to realize the Divine declaration: "Behold, the tabernacle of God is with men, and they shall be His people, and God Himself shall be with them, and be their God" (Rev. xxi. 3)
 
-CHAPTER VIII.
-
-SOLOMON'S HOUSES.
+=== CHAPTER VIII -- SOLOMON'S HOUSES.
 
 I Kings vii. 1-12.
 
@@ -3410,9 +3113,7 @@ The author here speaks of the temple as one of the three houses that Solomon bui
 
 The temple was built in seven years (vi. 38), but the building of Solomon's house occupied thirteen years (vii. 1), and we find these two periods afterwards combined: "It came to pass at the end of twenty years, when Solomon had built the two houses, the house of the Lord and the king's house," etc. (chap. ix. 10.)
 
-CHAPTER IX.
-
-THE VESSELS OF SOLOMON'S TEMPLE, MADE BY HIRAM.
+=== CHAPTER IX -- THE VESSELS OF SOLOMON'S TEMPLE, MADE BY HIRAM.
 
 Kings vii. 13-51.
 
@@ -3456,9 +3157,7 @@ For the work of the workmen and the artificer signified such intelligence. The t
 
 "What is derived from self-intelligence in itself is void of life, nay, is spiritually dead; for the selfhood of man is nothing but evil. If, therefore, Divine worship be performed from the selfhood, that worship is nothing more than as the worship of a graven or molten idol, in which there is no spirit, that is, no life. What, on the contrary, is from the Word, is serviceable for Divine worship, because in itself, it is alive. For inwardly in every particular of the Word there is a spiritual sense which treats of the Lord's kingdom, and within that sense there is a Divine sense, which treats of the Lord alone. From this and from no other source are the life and sanctity of the Word. The Word is as a Divine Man. The literal sense is, as it were, His body, and the spiritual sense is, as it were, His soul. Hence it is evident that the literal sense lives by the internal sense. It would appear as if the literal sense vanishes and dies by the internal sense; on the contrary, it does not vanish, still less die, but by the internal sense lives. From these considerations it is now manifest that worship truly Divine exists from those truths which are from the Word, and in no case from those which originate in self-derived intelligence. Hence it is that the expression, "If thou lift up thy tool upon the altar thou shalt profane it," signifies that in case thou devise such things as belong to, Divine worship, not deriving them from the Word but from self-intelligence, there is no worship. And so of the temple, in which no sound of hammer or of axe or any tool of iron was heard during the time it was in building."
 
-CHAPTER X.
-
-SOLOMON'S PRAYER AT THE DEDICATION OF THE TEMPLE.
+=== CHAPTER X -- SOLOMON'S PRAYER AT THE DEDICATION OF THE TEMPLE.
 
 I Kings Viii.
 
@@ -3510,9 +3209,7 @@ God is indeed with us in His Holy Temple: let it be our earnest desire that He m
 If the Jews rejoiced at the consecration of the temple in which the Divine name might dwell in the midst of them, infinitely more may we rejoice that the Lord has opened up for us a new and living way of access to Himself which He hath consecrated through the evil, that is to say, His flesh. And if their fidelity and obedience were to be made more perfect as an offering of gratitude and a means of protection and blessing, immeasurably more should ours become so, when we have so much more to call forth our gratitude, and far more precious blessings to secure. While we offer up to our merciful Saviour the sacrifices of Praise and Thanksgiving, for grace so free and mercy so unbounded, let
 "our hearts be perfect with the Lord our God, to walk in His statutes, and to keep His commandments, as at this day."
 
-CHAPTER XI.
-
-SOLOMON'S SECOND OFFERINGS, AND THE LORD'S SECOND
+=== CHAPTER XI -- SOLOMON'S SECOND OFFERINGS, AND THE LORD'S SECOND
 
 APPEARANCE TO HIM.
 
@@ -3558,9 +3255,7 @@ An encouraging and warning voice came to Solomon, after he had finished the temp
 
 The Lord promises to Solomon that if he will walk before Him, as David his father did, in integrity of heart and uprightness, and do all that He had commanded him, He would establish the throne of his kingdom upon Israel for ever; but that if he should at all turn from following the Lord, He would cut off Israel out of the land, and the house itself He should cast out of His sight, and Israel should become a proverb and a byword, among all people. How can this apply to Him whom Solomon and the temple represented? It can apply to Him relatively, not absolutely; as the Lord is represented as a lamb slain, when the Divinity of His Humanity is denied (Rev. v. 6). But the encouragement and the warning are to the Church and its members. That which has been built up by faith and labour can only be preserved by integrity of heart and uprightness of life. This is the lesson which the Lord, on His second appearing to Solomon, teaches us. And it is, one that we should lay to heart, for in no state that we attain on earth can we forego the exercise of watchfulness and prayer.
 
-CHAPTER XII.
-
-CABUL.
+=== CHAPTER XII -- CABUL.
 
 I Kings ix. 10-14
 
@@ -3593,9 +3288,7 @@ To them they are Cabul, and the sphere of investigation to which they belong is 
 
 Those who belong to that class of minds represented by the king and the men of Tyre, and whose genius makes them willing and skilful workers in the sacred cause of revealed religion, but in that department which relates to its external evidences, need to be careful that they do not so neglect or contemn its inward spirit as to bring themselves under the condemnation pronounced against Tyre as the enemy, of Israel. Science and knowledge supply and prepare the material for laying the foundation and building the house, but the end or purpose of the house is that the Lord may there inscribe His name) and that He may be worshipped therein.
 
-CHAPTER XIII.
-
-SOLOMON'S CITIES: TADMOR IN THE WILDERNESS.
+=== CHAPTER XIII -- SOLOMON'S CITIES: TADMOR IN THE WILDERNESS.
 
 1 Kings ix. 16.
 
@@ -3627,9 +3320,7 @@ But our chief concern is with the beginning of this magnificent place as Tadmor 
 If we view this city, erected by Solomon in the desert, as a resting place for pilgrims, in connection with the cityless desert through which Israel passed in their way to Canaan, we can hardly fail to see in it the sign and emblem of a change of state, such as that not unfrequently predicted in the prophets, when "the wilderness and the solitary place shall be glad for them; and the desert shall rejoice, and blossom as the rose. And an highway shall be there, and it shall be called The way of holiness; the unclean shall not pass over it; but it shall be for those: the wayfaring men, though fools, shall not err therein. No lion shall be there, nor any ravenous beast shall go up thereon, it shall not be found there; but the redeemed [of the Lord]
 shall walk there: and the ransomed of the Lord shall return, and come to Zion with songs and everlasting joy upon their heads: they shall obtain joy and gladness, and sorrow and sighing shall flee away" (I sa. xxxv.). All this cannot be drawn from the circumstance of Solomon building a city in the desert, but it points in this direction. The Psalmist, speaking of the redeemed of the Lord, whom He redeemed from the hand of the enemy, describes their destitute and tried condition by saying, "They wandered in the wilderness in a solitary way; they found no city to dwell in." Yet the Lord "led them forth by the right way, that they might go to a city of habitation" (Ps. cvii.). Now the circumstances were changed. The traveller and the pilgrim were now provided with a city in the desert, where they might avoid the ills which the Psalmist laments his forefathers had suffered, when "hungry and thirsty, their soul fainted in them" (ib.). And so with the Christian. He too has to wander in the wilderness. But when he is in some degree perfected by suffering, and has prospered, and the kingdom is established in him, he can and will build a Tadmor in the desert, that it may serve to refresh those who bring their treasures to enrich and delight his soul. May we not say with the sweet singer of Israel in the same inspired composition, "O give thanks unto the Lord, for He is good: for His in mercy endureth for ever"?
 
-CHAPTER XIV.
-
-SOLOMON'S FAME: THE QUEEN OF SHEBA'S VISIT.
+=== CHAPTER XIV -- SOLOMON'S FAME: THE QUEEN OF SHEBA'S VISIT.
 
 1 Kings x. 1-10.
 
@@ -3688,9 +3379,7 @@ And if we consider the Lord's words in their spiritual sense, how expressive are
 How far the reality exceeds the expectation in matters of spiritual faith and eternal life, we may learn from the history before us. "When the queen of Sheba had seen all Solomon's wisdom, and the house that he had built, and the meat of his table, and the sitting of his servants, and the attendance of his ministers, and their apparel, and his cup bearers, and his ascent by which he went up unto the house of the Lord; there was no more spirit in her." The splendour of Solomons court, and the magnificence of his palaces and of the temple, represented the glory of the Church and kingdom of the Lord in His Humanity. In reference to the Church and the member of the Church the king's house and the house of Jehovah are the faculties themselves that are receptive of the principles of truth and love, for a king is the symbol of truth, and Jehovah is expressive of Divine love. The principles of goodness and truth, considered as the support of the spiritual life of the soul, are the meat of Solomon's table and the wine supplied by his cup bearers; the perceptions of truth and affections of goodness are his servants and ministers, their apparel being the holy truths by which they are adorned and distinguished. The wisdom which is first mentioned in this enumeration of the objects that the queen beheld with speechless admiration is that in which all spiritual principles have their beginning; while the ascent to the house of the Lord, which is last mentioned, is that to which they all tend. Where wisdom is the principal thing in the Church and in the mind, all intermediate things are means, the end of which is ascent to the house of the Lord-ascent into conjunction with the Lord in His Divine Humanity-ascent into a state of love to the Lord above all things and finally an ascent into the house not made with hands, eternal in the heavens; into the mansion where the Lord dwells with the angels, with whom the regenerate as angels shall unite in serving the Lord, and shall dwell in His presence for ever. There it is that the blessed state shall be fully realized:
 "Happy are thy men, happy are these thy servants, which stand continually before thee, and that hear thy wisdom."
 
-CHAPTER XV.
-
-SOLOMON'S THRONE.
+=== CHAPTER XV -- SOLOMON'S THRONE.
 
 i Kings x. 18.
 
@@ -3724,9 +3413,7 @@ This truth is still further taught and enforced in the present case there is ano
 
 Heaven is hence called rest, and life on earth, which is preparatory to endless life in heaven, is called labour; for the state of the soul in heaven compared with its state on earth is as a state of rest compared with a state of labour-labour implying resistance to evil and temptation, and the doing of good from a sense of duty more than from a feeling of delight. The necessity of conquering evil, as a means of attaining to the state and kingdom of heaven, is plainly declared by the Lord, in His address to the Church of the Laodiceans: "To him that overcometh will I grant to sit with Me in My throne, even as I also overcame, and am set down with My Father in His throne." To sit with the Lord in His throne is to be in His kingdom, and to have dominion over all the lower thoughts and affections of the mind, through which there had been temptation. As this labour is spiritually meant by the six days of Creation, and is implied by the six steps of the throne of Solomon, the Lord in His address to the Laodicean Church calls Himself the beginning of the Creation, of God, since from Him is all spiritual creation, which is regeneration, or the creation of a new heart and of a right spirit within us. The number six denotes states of trial and labour, as well as states of truth, because states of truth, compared with a state of good, are states of labour. Truth is given to lead us to goodness. It is given to discover to us our evils of heart and life; for we should not know sin but by the law: but it is also given us to lead us to resist and forsake evil I since the knowledge of evil, without the inducement and power to remove it, would be of no advantage, but would rather be a curse than a blessing. The power to resist evil resides in truth and comes to us by truth; not that truth alone has this power, but the power is in it and by it. Power originates in goodness, but goodness has no power but by truth as an instrument. As all spiritual power comes to us by truth, and as, when grounded in goodness, truth is able to conquer all the evils of heart and life, therefore twelve lions stood upon the steps of Solomon's throne, as emblems of the complete and irresistible power of a true faith-that is, of faith grounded in love. For he who has faith, such faith as the Gospel requires, even as a grain of mustard seed, shall say to the sycamine-tree, or even to the mountain, "Be thou plucked up, and cast into the midst of the sea," and it shall obey him; for true faith has power to remove false and evil principles, which the tree and the mountain signify, and send them to that kingdom whence they came.
 
-CHAPTER XVI.
-
-SOLOMON'S NAVY.
+=== CHAPTER XVI -- SOLOMON'S NAVY.
 
 I Kings ix. 26-28; x. 11, 22.
 
@@ -3765,9 +3452,7 @@ The religious journey commences with religious science. And when this science, o
 
 If the spiritual life be compared to a voyage, that achieved by the fleet of Solomon must be representative of an important circle in the progress of the soul, from which therefore we may learn how we may become rich in the wealth of heaven, by entering into the deep mines and far-off regions of wisdom that are now opened up to us in the spiritual sense of the Divine Word.
 
-CHAPTER XVII.
-
-SOLOMON'S ARMY.
+=== CHAPTER XVII -- SOLOMON'S ARMY.
 
 I Kings x.
 
@@ -3795,9 +3480,7 @@ The Christian life is a warfare as well as a pilgrimage; and in passing through 
 
 The same in Himself and in all His operations, He appears to all men according to the, nature and measure of their reception of His love and truth. Those who receive more of His truth than of His love see Him as a Man of war; and those who receive more of His love than of His truth, see Him as a Man of peace. Those who fight from truth, apparent and real, are led by Him as Saul or David; those who resist from love are led by Him as Solomon. He leads all who are earnestly pursuing their way to His kingdom of love and wisdom, of righteousness and peace; but He desires to lead them through their necessary conflicts with self, the world, and the flesh, in the spirit and in the state in which He can protect them from evil and enrich them with good, and enable them to sit every man under his vine and under his fig-tree, and none shall make them afraid.
 
-CHAPTER XVIII.
-
-SOLOMON'S IDOLATRY.
+=== CHAPTER XVIII -- SOLOMON'S IDOLATRY.
 
 I Kings Xi. 29-32.
 
@@ -3842,9 +3525,7 @@ Yet we read of the true and living God tempting the father of the faithful to of
 The saving element in the religion of heathen nations and the worship of idols and false gods, is further expressed by the number of Solomon's wives and concubines. He had seven hundred wives and three hundred concubines. Wherever the number seven is mentioned' in the Word it is expressive of what is holy. The seven hundred wives are the religious affections in which there is something of true holiness. A
 holy feeling may exist in the mind in connection with erroneous views of religion, and may enter into a degraded form of worship. But there are two kinds of worshippers, those who worship from the heart and those who worship from the mind, or those who worship from love and those who worship from faith. There is this distinction among those beyond, as well as among those within, the pale of the Church. The distinction is exemplified on a large scale by the sexes. With women religion is more of the heart, with men religion is more of the mind. There can be no real religion where the heart does not share with the mind in devotion to it. But in one class the religion of the heart is primary and in another it is secondary. With one, religion reaches the heart through the mind; with the other religion reaches the mind through the heart. Those with whom the religion of the heart is primary are the wives of Scripture, and those with whom the religion of the mind is primary are the concubines of Scripture. Both are of those who are saved, but their conjunction with the Lord is more and less intimate. They are relatively the celestial and the spiritual, not only as they are distinguished into the two heavenly kingdoms consisting of the celestial and the spiritual heavens, but as they exist in each heaven, the lowest as well as the highest; for in each of the heavenly mansions there is the same distinction that exists in the whole. The Divine in the least and in the greatest things is the same, in the Grand Man and in the individual man, and in all the parts of which either of them consists. The distinction is an image of one that exists in the nature of God Himself; and, as it is found in His universal kingdom, is an arrangement as beneficent as it is wise. But on this subject, under another aspect, more will be said in the concluding chapter.
 
-CHAPTER XIX.
-
-SOLOMON'S ADVERSARIES.
+=== CHAPTER XIX -- SOLOMON'S ADVERSARIES.
 
 1 Kings xi. 14-27
 
@@ -3866,9 +3547,7 @@ Solomon's other adversary, Rezon, had been connected with another of the kings w
 
 The distinction which the present history points out between the adversaries that rise against the kingdom of the Lord, general or individual, from within and from without, and of the different results of their operations, is very instructive. The enemies that assail us from without are far less dangerous than those that assail us from within. All temptations have indeed a ground of evil in our own minds. There must be lust before there can be temptation; for a man is tempted when he is drawn aside of his own lusts and enticed. But evil spirits that assail us from without have no power over us except through the evil within us and if we desire to remain true to our principles, our tempters only make our integrity the stronger. But when our foes are they of our own house, the danger is far greater. When the temptation begins, not from the passive but from the active desires of our own hearts, or from the congenial falsities of our own understandings, the evil spirits, though our enemies, find us, in some respects, the willing instruments of our own destruction, and thus so far their friends. David's greatest troubles during his reign arose from the disaffection of his own people, and the enmity of his own children to him and to each other. One of the chief objects of the Forerunner of the Lord was to turn the heart of the fathers to the children, and the heart of the children to their fathers-to create inward harmony and unity, not only among the persons but among the principles of the Church, as a preparation for the coming of the Lord as the Prince of Peace. When there is internal harmony and unity, outward enemies, even when powerful and confederate, can do no serious injury, but are rather the instruments of good, as they serve to restrain, and thus indirectly to correct, the evils through which they act. Hadad and Rezon, and, so far as their power extended, Edom and Syria, were confederate against Israel all the days of Solomon, or during a great part of his reign, and yet they produced so little effect upon his kingdom that their conflicts with his men are never described, and are mentioned not more than once. The army of Solomon had, therefore, little to do with war. It represented the warlike power of the king for either offence or defence; but the warfare of the kingdom had been accomplished, and the army rested from its labours, and enjoyed the rest which its victories had acquired. It was like the heavenly host that surrounds the throne of the King of kings; which, while ready to go forth in the service and under the leadership of Him who in righteousness doth judge and make war, is still more ready to convey messages of mercy, like the multitude of the heavenly host that, at the birth of the Saviour, praised God, saying, "Glory to God in the highest, and on earth peace, good will toward men."
 
-CHAPTER XX.
-
-THE DEATH AND BURIAL OF SOLOMON.
+=== CHAPTER XX -- THE DEATH AND BURIAL OF SOLOMON.
 
 I Kings xi. 42, 43
 
@@ -3913,9 +3592,7 @@ But Solomon not only slept with his fathers, but he was buried it city of David 
 
 There is a truth that leads to goodness, and there is a truth derived from goodness. In the first general stage of the regenerate life, the Christian acquires a knowledge of goodness, and by means of that knowledge he strives after goodness. His first truth, therefore, has not goodness in it, his first faith has not love in it, because h e is as yet only striving after goodness and love. But when goodness and love have been attained, his truth and faith change their character. His truth becomes united to good, his faith to love. Henceforth his truth is no longer a means and an instrument by which good is sought after and attained, but a means and instrument by which good works out its own purposes by truth; faith is no longer a faith that looks and strives after love, but a faith that works by love, or by which love works out its ends. Such is the truth and such is the faith of the regenerate, as distinguished from those of men who are being regenerated. Entrance into this new state of life is spiritually meant by Solomon being buried in the city of David his father. That city was Zion. As a city it represents truth of the highest kind-truth grounded in goodness-the goodness that comes from love to the Lord. The city of David his father is the truth of the Church derived from the Divine Truth of the Divine Good itself. In reference to the regenerate, the death and burial of the great king of Israel point in the significant language of representatives to the new birth of the soul into the life of heavenly love and truth, which may be considered as completing that sublime work, which is the first and last end of all the other Divine works of the Lord, the regeneration and salvation of the human soul.
 
-CHAPTER XXI.
-
-THE PREDICTED REVOLT OF THE TEN TRIBES.
+=== CHAPTER XXI -- THE PREDICTED REVOLT OF THE TEN TRIBES.
 
 I Kings ii. 29-35
 
@@ -3964,9 +3641,7 @@ The original union of the two faculties of the human mind was the producing caus
 
 In the separation which took place between the two essential faculties of the mind the analogy with the historical event may be very clearly seen. In regard to the tribes, evil was the cause of the revolt and separation. It was not the tribe of Judah that revolted from the ten tribes, but they that revolted from Judah; and it was they that formed themselves into a new kingdom. So in the human mind: evil was the cause of their separation; it was not the will that revolted from the understanding, but the understanding from the will, and that became a new kingdom and an independent power. The analogy is as perfect in regard to heaven but the consideration of this we reserve for another chapter.
 
-CHAPTER XXII.
-
-THE TWO KINGDOMS OF JUDAH AND ISRAEL.
+=== CHAPTER XXII -- THE TWO KINGDOMS OF JUDAH AND ISRAEL.
 
 I Kings Xii.
 

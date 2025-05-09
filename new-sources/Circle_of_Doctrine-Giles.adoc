@@ -1,6 +1,12 @@
 = Circle of Doctrine
-Giles
-include::../../template-attributes.adoc[]
+By Rev. Chauncey Giles
+include::../template-attributes.adoc[]
+
+////
+
+
+////
+
 
 PREFACE
 
@@ -81,7 +87,7 @@ Rev. John Presland
 
 ////
 
-The Church of the New Jerusalem
+== The Church of the New Jerusalem
 
 THE Sacred Scriptures are radiant with prophecies of the universal prevalence upon the earth of goodness and truth. The Lord has exhausted type and symbol, and plain declaration to set forth the certainty and glorious perfections of this new age of human intelligence and happiness. It will be a time of universal, external and internal peace.
 "The wolf shall dwell with the lamb." "The sucking child shall play upon the hole of the asp." "Men will beat their swords into plowshares." The knowledge of divine truth will universally prevail.
@@ -93,7 +99,7 @@ Indeed, new truths rarely receive a hospitable welcome from men, especially if t
 
 But before I proceed to a positive treatment of the subject, I must prepare the way by correcting some of the false opinions which widely prevail and prevent a clear and accurate view of it. The first point to which I invite your attention, therefore, is,
 
-== WHAT THE NEW CHURCH IS NOT.
+=== WHAT THE NEW CHURCH IS NOT.
 
 It is not Spiritism; with which it is so often confounded. It has less in common with that remarkable phenomenon than it has with any other church or form of religious belief. Our doctrines give us the means of understanding it, and clearly point out the great danger of tampering with it; but they have no accord with it; and as a church we have no sympathy with its principles or practices.
 
@@ -111,23 +117,23 @@ The New Church is not Swedenborgianism. Swedenborg is no more the author of it t
 
 The New Church is not an ecclesiasticism. It is not an organization of men, or a Church polity, or a form of worship. As the twelve apostles did not comprise Christianity, so a few or many men do not comprise the whole of the New Church. We believe that these new principles will organize those who receive them into societies, as all new principles do; and these societies will continue to multiply, and will grow into a powerful organization combining the greatest degree of individual freedom with the most perfect order and subordination, and will possess a ritual of worship adapted to the wants of every worshipper; and that it is proper to call them societies of the New Church, by way of distinction, but not of limitation and exclusion.
 
-== THE NEW CHURCH A NEW DISPENSATION.
+=== THE NEW CHURCH A NEW DISPENSATION.
 
 Having stated what the New Church is not, we have prepared the way for the consideration of what it is. It is a new dispensation of Divine truth; a new spiritual age, a new era in the spiritual progress of humanity. The progress of the race is by distinct steps.
 
 It is more than development, more than ascent along an inclined plane; it is ascent from lower to higher, and different degrees of knowledge, being, happiness. As the plant is something more than a finer mineral, as the animal is something more than a perfected plant, being a distinct step above it, and differing from it by new forms, new qualities, and new functions of life; so man, into whose nature has been collated all created forms and qualities, and whose being ranges through all ranks of life, from the mineral to the Divine, advances by distinct steps, each one differing from the preceding as the mind differs from the body, possessing forms, qualities, and attainments impossible to the one below it.
 
-== TWO KINDS OF PROGRESS.
+=== TWO KINDS OF PROGRESS.
 
 There are two kinds of progress: One is improvement on the same plane, the other is a step to a higher plane. The use of steam as a motor was a distinctly new step in locomotion. It was not a development or modification of animal power, or of the power of the wind or falling stream. It was a new step, a new force. That is one kind of progress. But the first engine was imperfect. The improvements by which it has reached its present excellence is progress of another kind. Humanity advances in both ways�by the discovery of new principles, and then by the development of those principles. The distinct step occurs only at long intervals; it marks the eras in the life of humanity. The New Church is such a step in the spiritual life of the race. Let me try to tell you what that step is.
 
-== IT IS A NEW POINT OF VIEW.
+=== IT IS A NEW POINT OF VIEW.
 
 It is a step from nature to spirit, from effects to uses, by which a new spiritual position is gained from which all questions both natural and spiritual e regarded. In the revelation which the Lord has made to us in the Sacred Scriptures, it is a step from the letter to the spirit, in the knowledge of spiritual truth;
 
 it is a step from fact to principle, from the particular to the universal, from appearances which always mislead, to a knowledge of things as they are. The point of view modifies the aspect and our conception of every subject we examine. The universe is a picture of the Divine attributes, and whether it is a blur, or the embodiment of beauty; a chaos of conflicting elements, or a cosmos of eternal harmonies, will depend upon the light in which we see it. The principle assumed enters into every step of our examination, whether we are investigating natural or spiritual laws. If the principle is false, we shall be lost in endless mazes; if it is true, we can follow it through all the intricate labyrinths of life with the certainty of reaching our end.
 
-== ILLUSTRATIONS FROM SCIENCE.
+=== ILLUSTRATIONS FROM SCIENCE.
 
 The history of science furnishes us with a perfect illustration of what we mean by a distinct step in knowledge and a new point of view. Before the time of Copernicus, astronomers formed their opinions and constructed their theories of the size, nature, and motions of the heavenly bodies from their appearances to the senses. The earth, to them, was the largest body in the material universe, and the sun, moon, and stars were no larger than they seemed. Men exhausted their knowledge and taxed their ingenuity to the utmost to reconcile the many apparent irregularities and anomalies in the motions of the heavenly bodies, and the heavens were "With cycle and epicycle scribbled o'er"
 in the vain attempts. Copernicus took his position in the centre and made that his point of view, and the aspect of the universe was changed. Every theory was reversed. Those bodies which appeared to the senses to be the smallest were shown to be the largest; those which seemed to be the largest proved to be the smallest. Those which looked to be at rest were found to be in motion, and those which seemed to move around the earth were discovered to be relatively at rest.
@@ -136,7 +142,7 @@ The testimony of the senses was reversed. Order sprang out of apparent chaos. Co
 
 The distinction between the New Spiritual Age and the Old is perfectly analogous to that which exists between the New Age of Astronomy and the Old; between the age of science and that of appearances. Swedenborg was the Copernicus of spiritual truth. He took his position in the centre, in the spirit, and from that point of view he looked down upon the world, and man, and human life, and he saw nature and spirit, this life and the life to come, in their true form and relations. He saw man as he is, a spiritual being, and not merely a natural being as he appears. Men had regarded the spirit and all spiritual questions from nature, they had measured them by natural standards, they had formed their conclusions from appearances, and the result was inevitable mistakes, doubts, fears, and inexplicable difficulties. Swedenborg has reversed the whole method of thinking about spiritual things. He weighs all things both natural and spiritual in new balances, and he finds new values, new forms, new relations, and new harmonies. Regarding all things from within and above nature, from their spiritual causes and centres, he brings light out of darkness, harmony out of discord, and order out of confusion. The New Church is this new step from matter to spirit, and it makes all things new as such a step must. It takes its stand in the spirit; makes that the unit of measure, the criterion of its judgments, and the point of view from which it takes its observations, draws its conclusions, and constructs its doctrines. The spirit is the real, the substantial, the organizer, the theatre of causes, the proximate source of all human activities, and, in the final issue, determines all human relations and destinies.
 
-== MORE THAN ONE SUCH STEP.
+=== MORE THAN ONE SUCH STEP.
 
 There has been more than one such distinct and grand step in the religious progress of our race. The Christian dispensation was such a step above and beyond the spiritual state of the Jew. The Jewish age was purely natural. All its ideas, knowledge, and principles began and ended in this life. It was not so much a church as a representative of a church. Its worship was ceremonial; its idea of government and law was purely arbitrary; its whole economy was based on physical and purely natural power. The Jew had no idea of charity, of neighbourly affection. All the peoples out of the pale of his nation were dogs,�objects of supreme contempt, fit only for slaves. One of the most difficult lessons the Apostles had to learn, was the universal fatherhood of God and the brotherhood of man.
 
@@ -147,7 +153,7 @@ But it was not the final step. If it had been, there never would have been so mu
 Some of them were stated in such a form as to seem contradictory, to be dicta to be accepted, but which religious teachers have not been able to solve to this day. The doctrine of God which is central to all other doctrines is one of them. The rational unfolding of spiritual laws is regarded as impossible. The minds of men in the beginning of the Christian age were not in a state to ask for rational knowledge or to receive it. Science had not been born. It was a great step to accept the facts; and the principal inquiry for many centuries was not into the nature of the facts, but about their verity. As Swedenborg has well said, The point of inquiry upon these great spiritual questions was,
 "Whether it is so?" It was about the truth of fact, and not the nature of the fact. There were doctrines and theories, but they all ended in mystery. They all demanded faith and acceptance upon authority. The doctrine of the other life is a good example in point. The Christian Church has taught clearly, emphatically, and uniformly, in all its branches, the existence of a life of happiness or misery for all men after the death of the body. But it has never advanced a step beyond the fact. And it teaches, to-day, that we do not and cannot know anything about the form and nature of that life, and the relations of human beings to each other in it. It would be difficult to make a proposition to the Christian world, to-day, which would seem more absurd than that a clear, rational, and true idea of the spiritual world, of the nature of spiritual beings, and of their mode of life, is possible while we remain in this life.
 
-== WHY NO ADVANCE HAS BEEN MADE.
+=== WHY NO ADVANCE HAS BEEN MADE.
 
 The reason that no advance beyond that knowledge and method of reasoning has been made is, that all spiritual questions are regarded from a natural point of view, and measured by natural standards. Christian teachers seek to bring them within the limitations of natural and physical laws, and to make them subject to them.
 
@@ -155,11 +161,11 @@ This is true both of those who advocate, and of those who oppose the doctrines o
 
 The New Church is a step beyond this. It accepts all the great spiritual truths common to Christianity, but it makes a new use of them. It regards them from the spirit, and in the light of the spirit their real significance is seen. The promise is fulfilled, "In thy light shall we see light."
 
-== RESULTS OF THIS NEW POSITION.
+=== RESULTS OF THIS NEW POSITION.
 
 Having obtained our "place to stand," let us notice some of the results which logically follow. Let us see how man, the spiritual world, the revelation which the Lord has made to us in the Sacred Scriptures, the Lord, and this life, look from it, and learn how they are related to each other.
 
-== MAN MEASURED BY THE SPIRIT.
+=== MAN MEASURED BY THE SPIRIT.
 
 The spirit is the real man. Man is a spirit and has a material body, which is merely a temporary garment for a momentary use. As a spirit, man is in the human form, has brains and heart, eye and hand, and every organ external and internal which belongs to a human being. The body is cast into the mould of the spirit, receives all its power from it, and in every particular is merely an instrument for the service of the spirit.
 
@@ -169,7 +175,7 @@ When man knows and heartly believes that he is a spirit, he weighs all values in
 
 It is rising out of the dark mould of the material body; it is gaining freedom for every faculty; it is coming into light and warmth and the consciousness of a real existence. It is entering into possession after a hard apprenticeship. It is going to our native land, breathing our native air.�it is going home, home for the free play and harmonious development of all our faculties, home for the head, home for the heart. Thus, the new age reverses common opinion, and will, in time, reverse the general feeling upon this subject.
 
-== THE SPIRITUAL WORLD VIEWED IN ITS OWN LIGHT.
+=== THE SPIRITUAL WORLD VIEWED IN ITS OWN LIGHT.
 
 If we look at the spiritual world, the home of man as a spiritual being, we shall see as great a transformation from common opinion formed from an earthly point of view as we have in relation to man himself. From the earth, and seen darkly, through the glass of nature, the spiritual world has appeared dim, vague, unreal; a realm of silence and darkness, the habitation of formless ghosts, waiting through the long night of the ages to be re-embodied, and to regain substantial existence. I know there is much said and sung of the joys of heaven and the torments of hell. But, after all, it is unreal. The result is confusion of ideas, doubts, disbelief. The real, unconscious, heart-belief of the Christian world has been, and to a very great extent is now, that we know nothing, and can know nothing definitely and certainly, concerning the future world.
 
@@ -183,7 +189,7 @@ Beautiful dream, men say. The illusions of an overwrought brain! No, it is based
 
 It is a logical conclusion from the revelations of Scripture, seen from the point of view of the spirit, and interpreted by spiritual laws. It is necessitated by the wants of man and the nature of God.
 
-== THE BIBLE A DIVINE BOOK.
+=== THE BIBLE A DIVINE BOOK.
 
 But I pass on to notice how the Bible looks from this point of view. If God is its author, and if it contains a revelation of spiritual and Divine truth, it must be a very different book from one of merely human composition. It must be as much superior to any human book as its author is superior to man. An infinitely wise being could not write, or cause to be written, an imperfect book. If it contains infinite wisdom and we can find the key to its mysteries we shall be fortunate indeed. This will be a new step in human progress.
 
@@ -191,7 +197,7 @@ The Lord has made two revelations of Himself to man: one in His works, the other
 
 Can you discover the mystery in a "thus saith the Lord" when you regard it from without, when you measure it by grammar and lexicon? Eighteen centuries of study declare that it is impossible. And now, more than ever before, are men giving up the Bible as a revelation of the thought and will of God, and regarding it as the thought of Moses, of David and John, because they cannot understand it. And they cannot understand it because they measure it by the rules of books of human composition, and deny that it contains anything but natural facts. The New Church, on the contrary, regards it as an absolutely Divine book, written in a Divine style, and as much superior to any book of merely human composition as a living man is superior to a marble image of a man.
 
-== DIVINE TRUTH IN NATURAL FORMS.
+=== DIVINE TRUTH IN NATURAL FORMS.
 
 The word is written according to the relation between natural and spiritual things, a relation which exists in the nature and order of creation. The material world, we understand, is created from the spiritual world. It is the embodied love and wisdom of the Lord in material forms, as the material body is the form of the spirit and the instrument with which it expresses its affection and thought. Light is to the material world as truth to the spiritual world; and to the mind which dwells in it. Heat is to the material world as love to the soul. A lamb is the embodied form of innocence; the bear, of surly and savage passion; the fox, of cunning; the wolf, of ferocity. It is not by figure of speech that these animals are selected to express these human qualities. They are created forms of those affections, and man has an intuition of their meaning, as the infant on the mother's breast has of the mother's smile.
 
@@ -201,7 +207,7 @@ He looked upon the world as upon an open book, and in its beautiful and varied f
 
 The Bible is a collection of pictures, some of which are copies of events in this world: others of events in the spiritual world. There are spiritual as well as natural facts; but fact and figure, parable and song, miracle and vision, are all given for the sole purpose of embodying and revealing spiritual truth in natural forms. These natural symbols are so arranged that they express a continuous and systematic unfolding of the principles of the Divine nature, and of man's nature, in an orderly and logical manner, from first principles to ultimate effects. There is no break in the connection; nothing superfluous or lacking in the representation. But their spiritual meaning can never be understood until they are interpreted by the Spirit. If you cannot understand a watch by looking at the case; if you cannot comprehend the meaning of any book of human composition until you regard it from the author's point of view, how can men expect to comprehend the Bible�the Divine Book, unless they view it from the Divine purpose?
 
-== APPARENT CONTRADICTIONS RECONCILED.
+=== APPARENT CONTRADICTIONS RECONCILED.
 
 The Bible is the most contradictory of books when viewed from the letter, but it is no more contradictory than nature when viewed from the circumference and judged by the senses. Get the true point of view and all the facts and particular forms fall into their places, and are seen to be perfect parts of a harmonious whole. The letter of revelation is like the windows in a grand cathedral. While we regard them from without, we see bits of glass, irregular in form, various in colour, artificially connected, with no necessary order or harmony. We may discover the rude outline of figures, but there is no clear and full expression; we can read some words of wonderful wisdom, and catch glimpses of some features lovely in form, but light and shadow, distinct voice and articulate sound, fact and fiction, are so crowded together that we can see no clear and coherent meaning. The whole representation is dim in colour, feeble in form, and fragmentary in composition.
 
@@ -213,7 +219,7 @@ The letter is the earthly side of heavenly truth. It appears to be fragmentary, 
 
 But when we pass within from the earth of the letter, and take our stand in the sun of the spirit, we see the cloud on its illuminated side. Every fact and figure is seen in true perspective. The joints and seams which were so clearly visible from without disappear; the dim figures stand out in glorious distinctness; earthly shadow becomes heavenly light; contradictory voices, complementary truths, and harsh discords are swelling harmonies. The whole representation, running through many generations of human life, in which nations are actors, is seen to spring from one mind, and to be a revelation of the love and wisdom of one Being. There is no break in the representation; there is no discordant note, no unmeaning form, no random word. The Lord Himself is the centre and source from which the whole representation flows, as light from the sun.
 
-== THE BIBLE A HISTORY OF EVERY LIFE.
+=== THE BIBLE A HISTORY OF EVERY LIFE.
 
 Those figures are also seen to embody a connected and living history of every human soul. They are a mirror in which each one can see himself as he is, in his fallen state, and side by side the image of a more glorious self which he may become by using the means here fully provided. From this point of view the Sacred Scriptures are seen in their true light. Their harmony, their purpose, their method, their inner and real meaning are revealed in such a clear and rational light that they carry conviction with them;
 
@@ -221,19 +227,19 @@ they satisfy the demands of the reason and the heart, and they open an endless f
 
 If the New Church has found the means of substantiating the fact that the Bible is the Word of God, that it is a Divine book, written in a Divine style, is a revelation of Divine truth, and every way worthy of its Divine Author; if it has discovered the key to its real meaning, the point of view in which all its apparent contradictions are reconciled, and its doctrines are seen in such a clear, rational light, that they come home to the mind with undoubted conviction: and if through the parting clouds of the latter they disclose a new world, distinct, substantial, glorious, our eternal home�every intelligent man and woman will say, this is a new step in the spiritual progress of humanity: this is what we want.
 
-== RESULTS OF SUCH A KNOWLEDGE OF THE WORD.
+=== RESULTS OF SUCH A KNOWLEDGE OF THE WORD.
 
 Look at the results which must necessarily follow such a step, and which the experience of thousands who have received these doctrines testifies, has followed, and is following, in their own lives.
 
 It disperses doubt upon all questions concerning man's relation to the Lord, and his spiritual nature and destiny. It lifts him above the fogs of the senses, in which he was groping his way, mistaking shadow for substance, into clear light, so that he can truly say, "Whereas I was blind, now I see." The Christian world has always lived in the shadow of doubt. "Men see as through a glass darkly." "They walk by faith and not by sight." They are afraid of getting lost unless they keep hold of each other's hands, and remain within the fold of a common polity, and pass on the watchword of a common faith from generation to generation. They are like timid bathers who cling to the rope anchored a little distance from the shore for fear of being swept away by the billows of turbulent passions and lost. Would it not be a great boon to be placed where we can see "truth in the light of truth;" where we can take hold of God's hand without an intervening line of presbyters, bishops, or popes; and, upheld by His almighty arm, walk serenely over the billows of life, and talk with Him as he talks with us through His holy Word? This is the position of the New Church, and therefore, those questions and evidences which occupy so large a space in the thought of the religious world�as the possibility of miracles; the human authenticity of the various books of the Bible; the apostolic succession; the relative value of Episcopacy, or Congregationalism; the freedom of the will; fore-ordination, and a multitude of other questions�excite no more interest in us than the ceremonial worship of the Jews awakens in the Christian.
 
-== THE NEW CHURCH BEGINS WHERE THE OLD ENDS.
+=== THE NEW CHURCH BEGINS WHERE THE OLD ENDS.
 
 The old questions which have been discussed for many generations are settled, or are shown to be of minor consequence.
 
 The New Church begins where the old ends. Instead of going through with the endless rounds of proof and discussion to establish the great facts of religious truth, it accepts them and goes on to unfold their meaning. For example; the Christian Church teaches that the Bible is inspired. The New Church shows in what the inspiration consists; how the Bible was given to men; how it differs from books of human composition, and reveals the science required for its interpretation. The Christian Church teaches that there is a spiritual world and stops with the assertion of the bare fact. The New Church shows where that world is; how it is related to this; the laws of its creation; its form, scenery, climate, and fitness to be the eternal home of the vast multitudes who dwell in it. The difference between the two modes of regarding all questions relating to God, and to man as a spiritual being, is like that between seeing the faint outline of the shores of a great continent in the distant horizon where we can hardly distinguish solid land from shifting cloud, and landing upon those shores, ascending its rivers, traversing its plains, exploring its hills and valleys, eating its fruits and associating freely with its inhabitants. In this way we not only get new and indubitable proofs of the truth of fact, but the facts themselves are found to be new worlds embodying the love and wisdom of the Lord, opening new and endless fields for investigation, and offering exhaustless means for the cultivation of every human faculty and the attainment of every pure aspiration. The world of faith becomes a real and substantial world, the lovely home of human beings, who find in it the realization of their largest hopes.
 
-== THE NEW CHURCH A STEP FROM FAITH TO KNOWLEDGE.
+=== THE NEW CHURCH A STEP FROM FAITH TO KNOWLEDGE.
 
 The New Church is a new mental state of receiving spiritual truth; it is a step from faith to knowledge.
 
@@ -244,7 +250,7 @@ The first step is clear, and every step of our progress, in whatever direction w
 
 It is not my purpose to give an exposition of the doctrines of the New Church. That would be impossible in the limits of one discourse. I wish rather to show its position, its spirit, its methods�to tell you where it is. But I will give a sketch in outline of our doctrine of the Lord, as an example of our methods of reasoning and their results.
 
-== THE NEW CHURCH DOCTRINE OF THE LORD.
+=== THE NEW CHURCH DOCTRINE OF THE LORD.
 
 The New Church is Unitarian in the broadest and fullest and absolute sense of the term, not, however, by denial of the divinity of Jesus Christ, but by the belief that He is the only Divine Being. God is one in essence and person, is the fundamental principle, the germ out of which grows every doctrine and every particular truth. That we adhere to, and never admit anything which tends to obscure or conflict with it. The Divine unity is something more than unity of number. It is unity of principle, unity of attribute, unity of character, unity of purpose, unity of method. The Lord always works like Himself, always acts from infinite love, with infinite wisdom. Under whatever form He appears, or by whatever name He is called, He is still one God in one Person. He created man in His own image, to be a finite form of His Divine attributes, and a conscious recipient of His love and wisdom. When man, like a prodigal, had wandered from his father's house, and had wasted the substance of his life in riotous living, and was on the point of perishing everlastingly, and after the Lord had exhausted all other means of rescuing him from death, He came Himself in the only way He could come. He clothed Himself with a fallen human nature according to His own laws and by His own universal methods. He was not changed into that nature.
 
@@ -260,13 +266,13 @@ Infinite love could do no less than clothe itself with human conditions and desc
 
 From this point of view we find all the declarations of Scripture verified. What seemed fragmentary and contradictory when viewed from without, like the bits of stained glass in a window, all blend in harmony and unity, when seen from within; and for us, without throwing away Scripture, or losing our faith in its Divine authenticity, this vexed question of trinity and unity is settled in a way to satisfy the reason and to content the heart. As we look upon the material body of a human being, and while we think of his outward form and features, say that is the man, at the same time meaning to include in our thoughts his whole spiritual nature, so we look upon Jesus Christ glorified, as God, believing that in Him dwells the infinite and uncreated Divine; that when we address Him, we address the whole of God, as we address the whole nature of man, when we speak to his eye or ear, and think, only of his bodily form. "No man cometh to the Father but by Me."
 
-== THE CENTRAL PRINCIPLE OF FAITH.
+=== THE CENTRAL PRINCIPLE OF FAITH.
 
 The idea of God is central to all our knowledge and all our conceptions of spiritual and divine truths, and enters into all our motives of action and our hopes for the future. Get a clear, consistent idea of God, of God as a personal Being, warm with human affections, allied to us by human sympathies, gentle, patient, loving; not a cold and vague abstraction, a mighty invisible force; but a friend, a father, a saviour, the embodiment and source of all tender and beautiful humanities; but yet omniscient, omnipotent, the fountain of all life,�get such a view which satisfies all the demands of creation, revelation, reason, and human affection, and you have settled all questions, you have solved the enigmas of life.
 
 The seals are broken, and the volume of infinite truth and the way of endless attainment lie open before you. All things become new, because they are seen in a new light; they have new meanings, new uses, new forms, new relations, and lead to new results.
 
-== THE NEW CHURCH A UNIVERSAL CHURCH.
+=== THE NEW CHURCH A UNIVERSAL CHURCH.
 
 When we regard nature or spirit from a central point of view, and see its forms and relations as they are, we gain two things which seem contradictory; we gain universality and a much greater particularity. This is a distinct step in scientific, moral, and religious progress. The discovery of a new principle throws new light upon all the facts which relate to it. It reveals new elements in the old and familiar; discloses finer and hitherto hidden relations of fact to fact, and of the parts to the whole. Half truths mislead and bewilder. Every sect of the Christian Church has based its organization and taken its name from some special view of spiritual truth to which it gave paramount importance. This made it partial, narrow, and incomplete. One doctrine was magnified at the expense of others. The special truth was held so near the eye that it concealed the others, or gave only a partial view of them. And now, men seek to gain universality by a union of the various sects, which is as impossible as it would be to get a perfect house by simply collecting the greatest abundance and the largest variety of materials. It is not more facts, or a new combination of the old, or a new Bible, that is needed to form a universal Church, but a new view of the truths we have.
 
@@ -276,41 +282,41 @@ Universality is not gained by collecting all the doctrines and opinions upon a s
 
 The New Church has no specialty. It has no particular doctrine or partial view of religious truth which could give it a name or could fully and correctly characterize it. It embraces all that is true in all Churches, and brings the partial views of the various sects together in such a way that a new doctrine is formed without rejecting any special or apparent truth. The new doctrine, however, is not formed by a combination of the various parts of former views. It is not a new garment made out of pieces of the old cloth. It differs from them as the plant differs from the chemical substances of which it is composed. It is a new result, a new creation. It is more comprehensive in its scope than any other Church, while at the same time it is more precise and exact in its definitions; it gives greater freedom to all who come into its fold, and yet it is far more rigid and exacting in its requirements of obedience to divine law. It gives a new meaning to old terms. "It makes all things new." Its universality can be seen by comparison with the various sects of the Christian Church.
 
-== A NEW UNITARIANISM.
+=== A NEW UNITARIANISM.
 
 The New Church is Unitarian; but it is not the unitarianism of the Jew nor of modern times. It is a new Unitarianism which teaches the absolute personal unity of God in a much clearer and more exact form than it has ever been taught before. This, as we have seen, is its central doctrine. But, at the same time, it shows that the unity is not only compatible with the Divinity of Jesus Christ, but necessitates it. It is a unity also which demands a trinity of Father, Son, and Holy Spirit, and which is impossible without it.
 
-== A NEW TRINITARIANISM.
+=== A NEW TRINITARIANISM.
 
 The New Church is Trinitarian, more clearly and decidedly than any other Church. The lines which distinguish the Father, Son and Holy Spirit from each other are more sharply drawn than in any other doctrine. The distinction between these three constituents of one person is clearly defined, and their special forms and functions and relations are so accurately described that their identity is fully preserved and their relations to each other clearly seen. It is also seen that this trinity necessitates a personal unity; that Father, Son, and Holy Spirit make one God in one person, as the soul and body and operative life make one man in one person. The Unitarian and Trinitarian ideas of God which seemed to be diametrically opposite and incompatible with each other are perfectly harmonized in this higher truth. The prophecy is fulfilled which foretold the time when there should be "One Lord and His name one."
 
-== THE NEW CHURCH IS EVANGELICAL.
+=== THE NEW CHURCH IS EVANGELICAL.
 
 No doctrines have ever been taught which were so fully the embodiments of the spirit and the letter of the Gospels as the doctrines of the New Church. They were not formed first according to the notions of one man or any number of men, and then the Evangelists called upon to testify to their truth. They are derived from the words of our Lord as recorded in the Evangelists, as a true science is derived from nature. They do not conceal or wrest any declaration of Scripture from its true meaning. They are not derived from a few passages selected to confirm them. They are the united voice of the whole of Scripture regarded from all points of view, from the letter and the spirit. No man has ever written upon religious subjects who quoted so largely and widely from the Sacred Scriptures as Swedenborg.
 
 No man has ever given so high a conception of their divine origin and character as he has; or has regarded them with so much reverence as the voice of God to man. He was sensitive and scrupulous beyond precedent, to hear what the Lord speaks and to deliver his message as fully and clearly as possible. The New Church believes more fully, more implicitly, more profoundly in the divine truth contained in the Gospels than any other church. It is essentially and pre-eminently Evangelical.
 
-== THE NEW CHURCH IS LIBERAL.
+=== THE NEW CHURCH IS LIBERAL.
 
 The New Church is broad as the principles of humanity, because its doctrines are a statement of the of principles humanity, and of the means of spiritual growth. It does not get its breadth, however, by diffusion and indefiniteness. Its liberality does not consist in the acknowledgment that one creed is as good as another, or by regarding it of no consequence what men believe. Its truths are applicable to every state of human life. Its doctrines teach charity for every form of human goodness, and confess that there are good men in every church, and out of the church, and that every human being will be judged in the final result by what he is. Every man will be judged according to his deeds. It is not possible to frame a broader or more liberal doctrine of life, or to give a more charitable and, at the same time, rigidly exact criterion of human judgment than is to be found in the New Church.
 
-== THE NEW CHURCH RIGIDLY LITERAL.
+=== THE NEW CHURCH RIGIDLY LITERAL.
 
 The doctrines of the New Church are often supposed to be abstract, ideal, visionary. But nothing could be further from the truth. They are not the product of the imagination. They are practical to the last degree. They all relate to life, and teach us how to live to-day, how to do our appointed work, to bear our burdens, to meet our disappointments, and to appreciate the joys of the present time.
 
 They teach man his condition as a son of earth and of time; but they also reveal to him the greatness and glory of his spiritual nature, and teach how to rise above earthly conditions even while working in them. They adhere to the letter; but they reveal the glory of the spirit in the letter. They teach us to value the letter for the spirit, and adhere with scrupulous fidelity to law because it is the sure and only path to freedom and happiness.
 
-== A TRUE RATIONALISM.
+=== A TRUE RATIONALISM.
 
 The New Church is rationalistic. It believes in and encourages the largest and freest use of the reason; in subjecting Divine and spiritual truth to the most critical scrutiny. It teaches the right use of the reason; discriminates between a true and false rationalism. The office of the reason is not to create the truth, or to make its own power the measure of what is true; but to see the truth and to recognize it as truth when it is presented. The New Church has, therefore, no sympathy with that narrow, purblind rationalism which rejects revelation, subjects all truth to the limits of the natural mind, and rejects all that it cannot comprehend.
 
-== A UNIVERSAL CHURCH.
+=== A UNIVERSAL CHURCH.
 
 The New Church is a universal Church, not by numbers, not by organization, not by the power of casting all men into one mould, but by virtue of being itself constituted of universal principles. Its doctrines present truth from all sides, showing the principle of unity in diversity of view. They discriminate and reconcile. They present every phase of human life distinctly, and, at the same time, reveal its unity. They teach us how to see the greatest in the least, and the least in the greatest; the life to come in this life, and this life in the life to come. The New Church is the measure of a man, of man in the earth of the material body, of man in heaven as an angel, and it is exactly adapted to all his spiritual wants, solving for him the problems of life, and leading him by the shortest path to the attainment of the highest good.
 
 It is the science of the spirit, and it will work out the same results in his spiritual condition that natural science is effecting in his physical and natural condition. It throws new light on his earthly condition; solves his doubts, dispels his fears, lifts his burdens, increases his strength; gives him patience to wait and zeal to work; shows him the true relations between himself and nature and man and the common Father of all; enlarges his freedom, draws aside the veil which hides the endless future, reveals to him a new world more real, more substantial, more glorious than this, and sets him on his endless way to the attainment of endless and ever-increasing blessedness.
 
-== THE SECOND COMING OF THE LORD.
+=== THE SECOND COMING OF THE LORD.
 
 These new spiritual truths are the form in which the Lord is making His Second Advent; they are the "power and glory" shining through the cloud of the letter of the Word by which He will subdue His enemies, illuminate the understandings of, men, and fulfil the promises of a New Age which He has so often made by the mouth of His prophets. The signs of His coming are abundant. "There are wars and rumours of wars." There has never been a time when the onslaught of evil and falsity upon goodness and truth was so subtle and so powerful as it is now. Good men of every creed feel the need of new weapons and the stronghold of a new spiritual position, to meet the enemy and to successfully repel his attacks. The Lord has supplied us, in these new truths, with every means necessary to complete and final victory. He has provided the means for fulfilling the glorious promise, "Behold! I make all things new."
 
@@ -329,7 +335,7 @@ IS NONE ELSE."
 
 We should ever remember that God is Omnipresent, fills heaven and earth, and can manifest Himself where His wisdom deems it best on earth or in heaven. "Am I a God at hand," He says, "and not a God afar off? Do not I fill heaven and earth?" Whence, then, the difficulty of those who say to themselves, "If Jesus Christ was really God manifest, Immanuel, God with us, what became of heaven when He was on earth?"
 They forget that the Lord is God in heaven above and upon the earth beneath at the same time: THERE IS NONE ELSE. Read again, "I, even I, am He, and there is no God with Me" (Deut. xxxii. 39). Can any language more clearly assert the individual majesty of the Most High? THERE IS
-== NO GOD WITH ME.
+=== NO GOD WITH ME.
 
 Language of this emphatic character occurs so frequently that we cannot but feel that the truth it utters is intended to be represented as of supreme importance. Notice in this respect the striking passage in the Psalms, "That men may know that Thou, whose name alone is Jehovah, art the Most High over all the earth" (Ps. lxxxiii. 18). Again, in the Prophets, "Before Me there was no God formed, neither shall there be after Me. I, even I, am Jehovah; and BESIDE ME THERE IS NO SAVIOUR"
 (Isa. xliii. 10, 11). "I am Jehovah, AND THERE IS NONE ELSE, there is no God beside Me: I girded thee, though thou hast not known Me" (Isa. xlv. 5). Once more, "There is no God else beside Me; a just God, a Saviour: THERE IS NONE BESIDE ME. Look unto Me and be ye saved, all the ends of the earth; for I AM GOD, AND THERE IS NONE ELSE" (Isa. xlv. 21, 22). The New Testament is on this subject equally forcible with the Old, the Apostles with the Prophets.
@@ -628,7 +634,7 @@ It is thus that the Lord during His life on earth acquired omnipotent power for 
 
 Such are the blessings consequent upon the Incarnation of the Word, and upon its subsequent glorification with that glory which the Word, the Logos, had with the Father before the world was.
 
-THE ATONEMENT, SACRIFICE, AND MEDIATION OF THE LORD JESUS CHRIST.
+== THE ATONEMENT, SACRIFICE, AND MEDIATION OF THE LORD JESUS CHRIST.
 
 THE word Atonement occurs only once in the New Testament. That is in Romans, where the apostle says, "And not only so, but we also joy in God through our Lord Jesus Christ, by whom we have now received the atonement" (v. 11). It is not a little extraordinary that this word, from which more especially Christians profess to derive their creed, should have come to occupy so great a space in the language of the theology of the day. And it is more extraordinary still that it should have come to be supposed that the Lord made an atonement to the Father, thus that the atonement was received by the Father, when yet it is said in the only text of the New Testament where the word occurs that it is we who have received the atonement. The reason is because the proper meaning of the word has been little attended to, which is simply reconciliation. This was the only meaning which the word bore when the Scriptures were translated, although, like the words, person, ghost, and others, it has since assumed a different signification, and men have been too much influenced in their religious sentiments by the changes which have gradually taken place in the meaning of words. In every other place the same word, and its corresponding verb, are translated reconciliation and to reconcile. Thus in the verses preceding that just quoted our translators say, "For if, when we were enemies, we were reconciled to God by the death of His Son, much more, being reconciled, we shall be saved by His life;" then follows, "And not only so, but we also joy in God through our Lord Jesus Christ, by whom we have now received the atonement."
 
@@ -709,7 +715,7 @@ Altogether it seems abundantly evident that the Mediatorship of Jesus Christ doe
 
 In conclusion: May not these views of the New Church on the Atonement, Sacrifice, and Mediation of Jesus Christ be confidently recommended to the consideration of the candid and reflecting? Do they not unfold the true doctrine of the Scriptures on these momentous subjects in a manner which is calculated to recommend the Scriptures themselves to the more cordial acceptance of mankind? Do they not satisfactorily clear the Christian religion from the imputation of sanctioning doctrines at which reason and common sense revolt, by showing that the sentiments on those subjects which bear that character are not those of the true Christian religion, but are the fallacious conclusions of gross minds, that have looked at the Scriptures in a merely superficial manner? Do they not show that the genuine doctrines of Scripture are coincident with the views of sound reason and true philosophy? Ought they not, then, to be joyfully accepted by every individual who wishes to find the way of salvation and to walk therein?
 
-THE DOCTRINE OF "SUBSTITUTION" IMPARTIALLY EXAMINED.
+== THE DOCTRINE OF "SUBSTITUTION" IMPARTIALLY EXAMINED.
 
 IN the "plan of salvation," as usually taught by Christian churches, great prominence is given to the doctrine of "Substitution." It is put forward as the only means whereby God "might be just, and the justifier of him which believeth in Jesus Christ" (Rom. iii. 26.) As the cherished conviction of so many of our fellow-men, and on a subject of infinite solemnity, this doctrine demands most serious consideration. If it be true, not only must there be overwhelming evidence in its support, but there must also be an abundant and satisfactory reply to every objection which can possibly be urged against it.
 
@@ -1008,7 +1014,7 @@ Let the Spirit of the Lord Jesus enter into all you do and say; let Him go forth
 
 God's world is a glorious world; it only needs you to enter into God's idea of it. Be like-minded with angels, and you will soon find this world like heaven. You wish to enter heaven. Enter, then. Heaven is here also when you let it enter you. There is nothing, my beloved brother and sister, wanting to the Lord's Second Coming, with all its splendour and happiness, but your heartfelt embrace of His Divine Will in all things. Come into His kingdom. "The Spirit and the bride say, Come. And let him that heareth say, Come. And let him that is athirst come. And whosoever will, let him take of the water of life freely. Even so come, Lord Jesus."
 
-THE WORLD AND THE WORD; OR, TEACHING BY PARABLES.
+== THE WORLD AND THE WORD; OR, TEACHING BY PARABLES.
 
 IT is the belief of the New Church that we have certain books inspired of God, and that these are the vehicles to man of a full Divine revelation, a self-revelation of the Highest, and at the same time an unveiling of all the inner and essential facts of human nature and of human history in the past, and in the never-ending future.
 
@@ -1343,7 +1349,7 @@ This is the way to attain the highest possible good; and I hesitate not to say t
 
 He cannot come to you until you remove them. No good intentions, no knowledge, no philosophy, no outward deeds will avail you. On this single point the eternal destiny of every human soul is poised. Hate and abhor evil, because it is abhorrent and hateful, and hostile to all that is good and true; and will good, learn truth, and do it, because it is heavenly, Divine; and according to the fidelity and fulness with which you do this work, will be your eternal reward.
 
-BAPTISM: ITS IMPORTANCE AND USES
+== BAPTISM: ITS IMPORTANCE AND USES
 
 "Then cometh Jesus from Galilee to Jordan unto John, to be baptized of him. But John forbade Him, saying, I have need to be baptized of Thee, and comest Thou to me? And Jesus answering, said unto him, Suffer it to be so now: for thus it becometh us to fulfil all righteousness. Then he suffered Him. And lo a voice from heaven, saying, This is My beloved Son, in whom I am well pleased."�MATT. iii. 13-15, 17.
 
@@ -1815,7 +1821,7 @@ There will be perfect happiness in the performance of the noblest uses; a contin
 
 In order to realize this blessed result we must, while in this world, endeavour, with all earnestness, to cultivate large-heartedness and mutual love, to cherish the truth as our best friend, to make it our guide and director; we must put away selfishness and all meanness; in a word, we must cease to do evil, because it is sin against God, and live a life according to His commandments.
 
-IS THERE A PERSONAL DEVIL?
+== IS THERE A PERSONAL DEVIL?
 
 WHATEVER may be our convictions as to the personality of Satan, of the reality of Satan there can be no doubt. Around us, and within us, there exists a power of evil betraying us into frequent sin, and involving us in much calamity and danger; against which, accordingly, we are called upon to fight. It is, therefore, our duty and our wisdom to learn whatever we can regarding this momentous subject. "Forewarned, forearmed," is a proverb known and respected by us all. We propose, therefore, to endeavour to forewarn ourselves by the light of Holy Scripture, in order that we may be forearmed against the perils which will assuredly beset us during our heavenward progress.
 
@@ -1912,6 +1918,9 @@ For the Lord alone reigns in hell; and His empire there, no less than on earth a
 
 the father, as the Lord taught, of the wicked Jews, because all their words and actions sprang from its base promptings; the father of all sin and deceit and misery and disgrace the wide world over. Are we of this parentage? The test is, whose life animates us? Is our daily conduct inspired by the love of self? or are we governed by Him who came that He might destroy the works of the devil, and who promises His gifts only to those who overcome? For we are sent on earth for the very purpose that by conquering our evils we may enter into life. If we resist the devil he will flee away. We are not alone in the contest,
 "God worketh in us both to will and to do of His good pleasure." "In that He Himself," as to the Humanity He assumed for our redemption and salvation, "hath suffered, being tempted, He is able to succour them that are tempted." Relying on His promise, faithful to His Word, consistent in the persevering use of the strength He bestows in the denial of ourselves, enduring unto the end in that path of regeneration in which He is our Divine Example and ever present Help, we shall indeed prove "more than conquerors," though Him that hath loved us.
+
+<<<
+// the following appear to be a list of titles available from the publisher
 
 MUIR, PATERSON AND BRODIE, PRINTERS, EDINBURGH
 

@@ -1,21 +1,27 @@
 = The Story of Creation in Genesis
-Pitcairn
-include::../../template-attributes.adoc[]
+By Theodore Pitcairn
+include::../template-attributes.adoc[]
+
+////
+Well, this didn't require or receive any effort at all - yet.
+Give it a read, and take it from there.
+////
 
 The Story of Creation in Genesis
 
 By Theodore Pitcairn
 
 
-From: A SERIES OF LECTURES 
+From: A SERIES OF LECTURES + 
 by Rev. Theodore Pitcairn
 
-Published by Nova Domini Ecclesia Quae Est Nova Hierosolyma 
-The Lord's New Church Which Is Nova Hierosolyma Bryn Athyn, Pennsylvania 
+Published by Nova Domini Ecclesia Quae Est Nova Hierosolyma + 
+The Lord's New Church Which Is Nova Hierosolyma + 
+Bryn Athyn, Pennsylvania
 
 
 ---
-~~~
+<<<
 
 == The First Day
 
@@ -105,7 +111,7 @@ What importance would many things written in the Bible have if they did not have
 We read "the letter killeth, the spirit giveth life".
 
 ---
-~~~
+<<<
 
 == The Second Day
 
@@ -190,7 +196,7 @@ This is being born of water, also to be baptized with water; but to be born of t
 The sad condition of the world, with its sorrows, its evils, its hatreds, is the result of man's not suffering God to make an expanse, a firmament, which divides the waters below from the waters above the expanse, the waters above being the kingdom of God in the inner or in the internal man, where the spirit of truth has its abode or dwelling place: truth which is not only a matter of knowledge, but which is living. Purifying truth changes the life, not only the life which is seen by man, but the life of one's inmost love and intention.
 
 ---
-~~~
+<<<
 
 == The Third Day
 
@@ -234,7 +240,7 @@ So it is with life. God gives to man life and all the things of life, as if they
 
 And yet the things of man's life, the truths which man thinks and speaks, the good things which one loves and does, appear so much his own, that at first he can not realize that they are the workings of God in him, for man in this state has not advanced far enough to realize, in any full sense, the presence of God and how He works the good things which man loves and does, and the true things which man thinks and speaks. God in this third day or third state of regeneration does not hold man guilty for this kind of theft of His gifts. Nevertheless, the good things man does and the true things man says remain as it were inanimate; they do not fully live. For it is only when all things of man's mind and of man's life are filled with the spirit and the presence of the Lord in such a way that man actually feels that God alone is the source of life and all things of life, that man's acts, his works and his speech become living or animate.
 
-We will now turn to a consideration of some of the things which the Lord said about the seed. In explanation of the parable concernin3the sower, He said: "When any one heareth the Word of the kingdom and understandeth it not, then cometh the wicked one and catcheth away that which was sown in his heart. This is he which receiveth seed by the wayside. But he that receiveth seed into the good ground is he that heareth the Word and understandeth it, which also beareth fruit and bringeth forth." Math. 13:19, 23.
+We will now turn to a consideration of some of the things which the Lord said about the seed. In explanation of the parable concerning the sower, He said: "When any one heareth the Word of the kingdom and understandeth it not, then cometh the wicked one and catcheth away that which was sown in his heart. This is he which receiveth seed by the wayside. But he that receiveth seed into the good ground is he that heareth the Word and understandeth it, which also beareth fruit and bringeth forth." Math. 13:19, 23.
 
 The emphasis here is on the understanding of the Word, the understanding of truth, and thence willing and doing it. Many think that it is not necessary to understand the Word and doubt that it can be truly understood, thinking it is sufficient to have faith. Yet if one does not understand a thing, how can he know whether it is true or not, or if one does not understand the Word of God, what use is it, and how can one apply it to his life? Because the Word of God, which is called the Bible, has not been understood, many have lost interest in it; others have come to doubt it. If religion does not include the understanding of the Word, it remains merely an emotional religion, and as such is unstable. Man particularly wishes to understand that which he believes. Because the Word is not generally understood, and it is often thought that it cannot be understood, women predominate in the churches, and men often turn away, and the churches direct themselves largely to a merely emotional appeal.
 
@@ -265,7 +271,7 @@ Can not any one who is willing see that the land and ground which was created on
 "an honest and good heart", but is received on shallow ground — shallow lives. This is why the world is what it is.
 
 ---
-~~~
+<<<
 
 == The Fourth Day
 
@@ -346,7 +352,7 @@ When love to God grows cold, when love to the neighbor no longer rules in man's 
 The Lord comes to establish the city or kingdom of God, of which it is said that it "hath no need of the sun, neither of the moon to shine in it; for the Glory of God did lighten it, and the Lamb is the light thereof." Rev. 21:23. A similar passage is found in Isaiah: "The sun shall be no more thy light by day; neither for brightness shall the moon give light unto thee; but Jehovah shall be unto thee an everlasting light, and thy God, thy Glory. The sun shall no more go down; neither shall the moon withdraw itself, for Jehovah shall be thine everlasting light." Is. 60:19, 20. This is said of the coming of Jehovah God in the Word, the Word which is God become flesh; as is said in John: "He is the light of the World." When the Lord dwells in the inmost of man's heart and spirit, and man sees His glory, then the Lord sets luminaries in the expanse of man's heaven, to give light on the earth, that is to give light as to man's earthly life,—how he is to live. A man who has this sun and moon in his inner or rather inmost man, and walks on earth in the light of it is in the fourth day of his spiritual creation.
 
 ---
-~~~
+<<<
 
 == The Fifth Day
 
@@ -422,7 +428,7 @@ But it is especially evident that birds stand for thoughts of the spirit, yea fo
 If man comes to the fourth state or day of creation, the Lord dwells in as it were the Sun in the kingdom of heaven within man, and man perceives and feels that the Lord is the source of all his love and wisdom, and then living knowledges, represented by fish, begin to live in his mind, especially in the things of the Word of God which are in man's memory. What he has learned begins to be full of animate or living things like fish, and the thoughts of his spirit ascend like birds into the heavens.
 
 ---
-~~~
+<<<
 
 == The Sixth Day
 
@@ -499,7 +505,7 @@ Though a man must fight as a hero, he must know that he does so solely from the 
 The Lord's love was the Divine Love of the salvation of the human race, not a love of the salvation of the human race by changing its external institutions, but a salvation which consisted in changing the heart of man. Insofar as one is in the Lord and the Lord in him, so far a man also is in the love of the salvation of the human race, not only a temporal and external salvation, but an internal salvation by the change of the heart and spirit. A man must at times fight against the external evils of the world, but this by itself is only a temporary stop-gap. If the evils of the heart and spirit are not overcome, there is no permanent salvation.
 
 ---
-~~~
+<<<
 
 == The Seventh Day
 

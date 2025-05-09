@@ -17,6 +17,11 @@ Again, two different versions.
 Here, the PDF changed from the Q&A format, which the HTML version retained.
 
 =======================
+
+Childs' "The Path" is deferred primarily for copyright recognition and currency;
+It's also a bit fancier (likely complex).
+
+=======================
 PDFs .... too big or too clean and complex for useful conversion back to text/markup
 can be broken down first if useful/appropriate/desired
 
