@@ -1,5 +1,5 @@
 = Star in the East
-Buss
+By James F. Buss
 include::../../template-attributes.adoc[]
 
 BY
@@ -16,7 +16,7 @@ JAMES SPEIRS
 
 1909
 
-PREFATORY NOTE.
+== PREFATORY NOTE.
 
 THE Essays brought together in this volume, have been written at different times during a period extending over five and twenty years, or more, and consequently represent different stages of mental growth. These may possibly announce themselves to the discerning reader, in the different degrees of maturity of thought characteristic of different Essays. If not, however, he will obtain no clue to their respective dates from the order in which they stand in the book; which is not chronological, but, as far as the nature of the case admits, logical. Thus, the first four are Scriptural, the next two are Philosophical; while the last two are concerned with subjects relating to the standing of the Writings of the Church in general, and that of one of them in particular.
 
@@ -28,25 +28,21 @@ JAMES F. BUSS.
 
 LONDON, October, 1908.
 
+////
 CONTENTS.
 
-THE START IN THE EAST: A STUDY IN DOCTRINE AND
-
-SPIRITUAL INTERPRETATION 1
+THE START IN THE EAST: A STUDY IN DOCTRINE AND SPIRITUAL INTERPRETATION 1
 THE TWO GENEALOGIES OF JESUS CHRIST 16
-THE SIGNIFICATION OF THE SCAPEGOAT: A PROBLEM
-
-IN SPIRITUAL EXEGETICS 46
-GEHENNA AND HADES: THE TWO INFERNAL
-KINGDOMS 88
+THE SIGNIFICATION OF THE SCAPEGOAT: A PROBLEM IN SPIRITUAL EXEGETICS 46
+GEHENNA AND HADES: THE TWO INFERNAL KINGDOMS 88
 THE DOCTRINE OF DEGREES 71
-THE DOCTRINE OF INFLUX, WITH SPECIAL REFERENCE
-
-TO THE RATIONALE OF SENSATION 93
+THE DOCTRINE OF INFLUX, WITH SPECIAL REFERENCE TO THE RATIONALE OF SENSATION 93
 THE INSPIRTATION OF SWEDENBORG 133
 THE CANONICITY OF CONJUGIAL LOVE 151
+////
 
-THE STAR IN THE EAST.
+
+== THE STAR IN THE EAST.
 
 (MATT. i. 1-12.)
 
@@ -164,7 +160,7 @@ into their OWN country, by ANOTHER way."
 
 And thus the narrative whose Internal Sense we have been studying, though applying immediately (in point of time) to the Christian Church of the First Advent, has an indirect, though not less, but rather more, interior, vital and momentous application to the more truly Christian Church of the Second Advent. When will the members of the New Church of today approve themselves "wise men from the east," by "departing to their own country by another way"?
 
-THE TWO GENEALOGIES OF JESUS CHIRST.
+== THE TWO GENEALOGIES OF JESUS CHIRST.
 
 EVERY reader of the New Testament is aware that there are given there two genealogies of "Jesus, who is called Christ" (Matt. i. 16) one in Matthew (i. 1-17) and the other in Luke (iii. 23-38). It is also generally understood that, when compared together, these genealogies exhibit a certain amount of discrepancy, which has been held, by infidels, secularists, atheists, rationalists, and the opponents of Divine Revelation in general, to invalidate the claim of the Sacred Scripture to be the Word of God. But the precise nature and amount of the discrepancies, and the utter and hopeless impossibility of their ever being reconciled, few have realized, and none who have not realized, can, I will venture to say, imagine. And, as it is important to the present study that we realize, as early as possible, the full truth on this matter, it is necessary that we begin with this point; and set out at once on a detailed examination and comparison of the two genealogies as they stand in the Letter of the Word. The most effective way to proceed for purposes of comparison is, clearly, to place the two tables side by side on the page. This, therefore, is the method that will be adopted.
 
@@ -418,7 +414,7 @@ But, when we turn to the Divine, or Glorified, Human, the case is far otherwise.
 
 Finally, it is not, of course, claimed that there is anything authoritative, much less infallible, about the arguments here advanced, or the conclusions reached. They constitute simply a serious study of the difficult but important problem involved, in the light of the Heavenly Doctrines of the New Church; where, alone, all New Churchmen are assured, the solution can be found, and where some day it certainly will be found, even if we have not found it yet. At the same time, it is felt that the fact that the hypothesis here advanced fits in with all the numerous discrepancies, disagreements, and peculiarities presented in the Gospel genealogies, affords a degree and weight of confirmation--separate and cumulative--that comes, it might seem, within measurable distance of demonstration. For, after all, what more, in this point of view, could the very truth do, than fit the facts at all points?
 
-THE SIGNIFICATION OF THE SCAPEGOAT: A PROBLEM IN SPIRITUAL EXEGETICS.
+== THE SIGNIFICATION OF THE SCAPEGOAT: A PROBLEM IN SPIRITUAL EXEGETICS.
 
 THE removal of sins with those who have performed repentance, was represented in the Jewish Church by the he-goat, called Azazel, upon the head of which Aaron was to lay his hands and to confess the iniquities ,of the sons of Israel and all their transgressions as to all their sins, and then to send it away into the desert, and thus the he-goat would bear upon it all their iniquities into the land of separation (Lev. xvi. 21, 22). Aaron, here, represents the Lord; by the he-goat is signified faith; by the desert and the land of separation is signified hell; and by bearing the iniquities of the sons of Israel thither, removing and casting them into hell.... The internal sense teaches ... that it is the truth of faith by means of which ... sins are removed; and, inasmuch as the truth of faith is from the Lord, therefore it is the Lord Himself who removes them.... Aaron represents the Lord; the he-goat of the she-goats signifies the truth of faith"
 (A.C., 9937:5).
@@ -466,7 +462,7 @@ The solution lies in the fact that, in the spiritual interpretation of the Word,
 (see A. C., 5118, 5144); a table, from bread, or food (A. C., 9527), and so on. On the principle here mentioned, for example, "a bed," we are expressly taught, "signifies the natural man, AND the doctrines that are in it" (A.E., 163:3). It is perfectly clear that the statement of A. C., 9937, that the "hegoat" signifies "the truth of faith"
 (whether infirm or pure), and that of A. E., 730:43, that "a he-goat signifies. the natural man, as to its affections and knowledges" [thus, evidently, as to its contents and states] rest upon the unexpressed, but, in this case, not less sure principle and truth, that "the he-goat signifies the natural man, AND the truth of faith that is in it." The parallel is complete, manifest, and incontestable.
 
-"GEHENNA" AND "HADES": THE TWO INFERNAL KINGDOMS.
+== "GEHENNA" AND "HADES": THE TWO INFERNAL KINGDOMS.
 
 GEHENNA and Hades are two Greek words which are of interest to us, as occurring in the Word of the New Testament to indicate, if not precisely to name, a portion, or portions, of the spiritual world.
 
@@ -639,7 +635,7 @@ of hell is by gehenna.
 
 Such appears to be the highly important and beautifully illuminative teaching, alike of the Word and of the Writings, respecting this dual nomenclature of Hell, in the letter of the Word.
 
-THE DOCTRINE OF DEGREES.
+== THE DOCTRINE OF DEGREES.
 
 I.
 
@@ -791,7 +787,7 @@ which first receives the life which constantly flows from the Lord; which "vesse
 and this difference made it possible for Him to put off," in the work of glorification, the "infirm human from the mother," and to "put on,"
 in its stead, a Divine Human from the Father, which actually, was the FATHER HIMSELF in ultimates.
 
-THE DOCTRINE OF INFLUX, WITH SPECIAL REFERENCE TO THE RATIONALE OF
+== THE DOCTRINE OF INFLUX, WITH SPECIAL REFERENCE TO THE RATIONALE OF
 SENSATION.
 
 THE special point to which the present study of the important subject of Influx is directed, necessarily leaves out of view very much that properly falls under the subject itself, comprehensively considered. In particular, all those parts of the doctrine that specifically concern the regenerative processes, are beyond the scope of our present purpose, and will not, therefore, be found here touched upon. Our business is with what may be called the groundwork of the subject, and those phenonemena of Life, in general, which are common to all men as human beings, irrespective of their state as to Regeneration.
@@ -1034,7 +1030,7 @@ It would be easy and useful to work out this doctrine of the relation which exis
 
 To sum up: even from the very general presentation of the subject here given, it will be evident that the fact of Influx is the cause of all the phenomena in the Universe and, consequently, that a true doctrine of Influx is altogether indispensable to a true understanding of every department of existence, natural or spiritual. Apart from a true Doctrine of Influx, therefore, true theology, true philosophy, true science, true life, are impossible; and that Doctrine, revealed by the Lord out of Heaven in the Writings of the New Church, is, in brief, that all Influx takes place from within outwards, and from above downwards, thus from the soul into the body, from the spiritual world into the natural world, and ultimately from the Lord Alone; who is thus the Centre and the Life of all that is.
 
-THE INSPIRATION OF SWEDENBORG.
+== THE INSPIRATION OF SWEDENBORG.
 
 THE importance of the subject we have here to consider can hardly be over-stated. Indeed, I do not hesitate to say that it is the grandest and sublimest theme--with the single exception of the Glorification of the Humanity of the Lord at His First Advent--that can engage the thoughts of men. For, is it not intimately and vitally connected with His making of His Second Advent?
 
@@ -1152,9 +1148,9 @@ It is only on such grounds-namely, that the books are, in some very real sense, 
 Know, understand, and acknowledge, however, that the works were "not Swedenborg's but the LORD'S," worthy, on that account, to be inscribed, in the spiritual world, with the wonderful phrase, "the Lord's Advent,"
 and such accompaniments of their publication, and especially of their completion, become so easily credible and intelligible, as hardly to awaken astonishment.
 
-THE CANONICITY OF "CONJUGIAL LOVE." 1
+== THE CANONICITY OF "CONJUGIAL LOVE." (*)
 
-1 A paper read before the Reading Meeting of the New Church Educational Institute, on the 19th January 1892. Revised and extended.
+(*) A paper read before the Reading Meeting of the New Church Educational Institute, on the 19th January 1892. Revised and extended.
 
 IN the history of a Church, as of an individual, times will arrive when it becomes a matter of imperious necessity to define our convictions on specific points. It becomes a duty to certify ourselves, unmistakably, as to what our real belief in regard to those points is, and what are the grounds, in fact and reason, on which we so believe and are so convinced.
 

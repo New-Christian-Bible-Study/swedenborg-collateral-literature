@@ -1,5 +1,5 @@
 = Glossary
-Bogg
+By John Stuart Bogg
 include::../../template-attributes.adoc[]
 
 COMPILED BY

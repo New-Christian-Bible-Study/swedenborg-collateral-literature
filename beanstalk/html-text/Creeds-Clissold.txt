@@ -1,6 +1,8 @@
 = Creeds
-Clissold
+By Rev. Augustus Clissold, M.A.
 include::../../template-attributes.adoc[]
+
+
 
 BY THE
 REV. AUGUSTUS CLISSOLD, M. A.

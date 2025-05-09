@@ -1,5 +1,5 @@
 = Criterion of Divine Authorship
-Buss
+By Rev. James Frederick Buss
 include::../../template-attributes.adoc[]
 
 BY THE
@@ -28,20 +28,21 @@ THIS little work is sent forth to the Christian world in the profound conviction
 JAS. F. BUSS
 Kensington, London, W. Jan. 1920.
 
+////
 CONTENTS
 BOOK I
-== INTRODUCTORY
-== CHAP. PAGE
+INTRODUCTORY
+CHAP. PAGE
 1. THE PRESENT BIBLICATION SITUATION 3
 
 BOOK II
-== DIVINE REVELATION AND DIVINE AUTHORSHIP
+DIVINE REVELATION AND DIVINE AUTHORSHIP
 2. THE SUBJECT-MATTER AND NECESSITY OF DIVINE REVELATION 21
 3. THE DISTINGUISHING FEATURE OF DIVIEN AUTHORSHIP 43
 4. DO OUR SCRIPTURES POSSESS IT? 53
 
-== BOOK III
-== THE NEW STANDPOINT
+BOOK III
+THE NEW STANDPOINT
 5. THE POINT OF VIEW FUNDAMENTALLY ALTERED 69
 6. THE STATUS OF THE PARABOLIC LITERAL SENSE AS HISTORY
 
@@ -50,7 +51,7 @@ AND AS DOCTRINE 76
 8. THE SPIRIT, OR INNER MEANING 121
 
 BOOK IV
-== INTERPRETATION
+INTERPRETATION
 9. HOW THE SPIRITUAL SENSE IS ARRIVED AT 141
 10. THE SPIRITUAL SENSE DISCLOSED 152
 11. THE NEW EXEGESIES APPLIED TO THE CREATION-STORIES
@@ -58,25 +59,26 @@ BOOK IV
 IN GENESIS 168
 12. PARALLEL VIEW OF THE LETTER AND SPIRIT OF GENESIS 1 192
 
-== BOOK V. THE NEXUS BETWEEN THE LETTER AND THE SPIRIT
+BOOK V. THE NEXUS BETWEEN THE LETTER AND THE SPIRIT
 13. CORRESPONDENCES AND REPRESENTATIVES 211
 14. THE ISRAELITISH OR JEWISH ELEMENT IN THE OLD TESTAMENT
 
 SCRIPTURES 241
 
-== BOOK VI. BIBLICAL CRITICISM
+BOOK VI. BIBLICAL CRITICISM
 15. THE NEW EXEGESIES AND THE HIGHER CRITICISM 259
 
-== BOOK VII. INSPIRATION
+BOOK VII. INSPIRATION
 16. THE NATURE AND MODUS OPERANDI OF THE INSPIRATION
 OF THE WORD 289
 17. THE CANON; OR, THE BOOKS OF DIVINE AUTHORSHIP 308
+////
 
 BOOK I.
 
 == INTRODUCTORY
 
-1.The Present Biblical Situation
+=== 1. The Present Biblical Situation
 
 IT is well known to every one who has followed the movements of Biblical scholarship and opinion during the last forty years, that present-day Christendom is divided into two camps in respect of the view taken of the Sacred Scriptures. On the one hand, there is the so-called traditional or conservative view, in which the Scriptures are the true and very Word of GOD, in the sense of having God for their Author just as surely and unequivocally as (say) Paradise Lost had John Milton for its author. In this view, the words used and the statements made are GODS and not mansnot even the mens who wrote them down in the various Books of which it consistsand come to men with a Divine and not a human authority. On the other hand is the advanced or modern view, the product of the movement known as the Higher Criticism, in which the Bible Is not of Gods Authorship in any sense which would make God responsible for its contents, or, consequently, confer upon those contents Divine authority, but of mansspecifically, that of the men, whoever they may have been (which is a matter of no moment for the purpose of the argument)who wrote its constituent books.
 
@@ -198,9 +200,9 @@ We make bold here to state provisionally, and we hope in the present volume to s
 In leaving this introductory review of "The present Biblical Situation," we would earnestly, invite every one who loves the Sacred Scriptures for their spiritual worth, to a patient and candid consideration of the criterion of Divine Authorship, and the new view--radically different alike from both the "traditional" and the
 "modern" views--of the nature of the Scriptures, which it is the purpose of the subsequent chapters to unfold, illustrate and establish.
 
-BOOK II
+== BOOK II
 
-DIVINE REVELATION AND DIVINE "AUTHORSHIP"
+== DIVINE REVELATION AND DIVINE "AUTHORSHIP"
 
 CHAPTER 2. THE SUBJECT-MATTER AND NECESSITY DIVINE REVELATION
 CHAPTER 3. THE DISTINGUISHING FEATURE OF DIVINE "AUTHORSHIP"
@@ -208,11 +210,11 @@ CHAPTER 4. DO OUR SCRIPTURES POSSESS IT?
 
 [blank page]
 
-BOOK II
+== BOOK II
 
-DIVINE REVELATION AND DIVINE "AUTHORSHIP"
+== DIVINE REVELATION AND DIVINE "AUTHORSHIP"
 
-2.---The Subject-matter and Necessity of Divine Revelation.
+=== 2.---The Subject-matter and Necessity of Divine Revelation.
 
 BEFORE proceeding to set forth the new criterion of Divine Authorship foreshadowed in the closing words of the previous chapter, it is necessary to consider and determine the point indicated in the title of the present one--viz., what the proper, necessary and, in truth, the only rationally possible subject-matter of Divine revelation is. The necessity arises from the fact that the generally received idea regarding it, which also underlies and reinforces the accepted criterion of Divine Authorship, is, as we submit, and hope to show, wholly erroneous.
 
@@ -353,7 +355,7 @@ This doctrine of an Ancient Word, as above presented, furnishes, to say the leas
 
 We shall have to return to this subject in a subsequent chapter.
 
-3.--The Distinguishing Feature of Divine "Authorship."
+=== 3.--The Distinguishing Feature of Divine "Authorship."
 
 ATTENTION was drawn, in the introductory chapter, to the universally accepted view that any composition of which God is the Author would differ from a human composition in the respect of being free from all imperfections, judged from the same standpoints as that from which we judge the products of human authorship; and it becomes evident, on examination, that this is the only respect in which it is considered that any difference is to be looked for. In other words, the underlying assumption is that a Divine Book and a human book would be the same in kind, and would differ only in quality, or perfection. The assumption would, no doubt, be readily enough avowed, if the question were raised; and, in fact, it has, in some instances, been quite openly stated, and put forth as a commonsense and indisputable position, which, of course, every one accepts.1
 
@@ -418,7 +420,7 @@ The characteristics of Divine productions as compared with human, in other spher
 
 It will be seen in the next chapter that our Lord expressly taught the same thing concerning our Scriptures, as we have here concluded respecting any composition that is of actual Divine Authorship; a fact which we are plainly entitled to claim as confirmation from His mouth of the principle it has been the aim of the present chapter to establish.
 
-4.Do our Scriptures possess this Characteristic Feature of Divine Authorship?
+=== 4.Do our Scriptures possess this Characteristic Feature of Divine Authorship?
 
 THE question with which we are now face to face, is not, simply, Do our Scriptures contain an inner meaning, spiritual in quality, here and there? Nor yet, Are they, in partsor even, throughoutcapable of being turned to spiritual account? The real question is, Are they, by their very nature, of such a character as to yield, in every part, as their true meaning, an inner, spiritual sense, which is on a higher plane, and of greater edification, than anything to be found on their surface, or in their literal meaning?
 
@@ -527,7 +529,7 @@ CHAPTER 8. THE "SPIRIT," OR INNER MEANING
 
 == THE NEW STANDPOINT
 
-5.The Point of View fundamentally altered.
+=== 5.The Point of View fundamentally altered.
 
 IT is at once evident that conclusions so vital and fundamental as those at which we have arrived, must be correspondingly far-reaching, and must bring about a complete revolution in our way of thinking about the Scriptures and their contents. These conclusions involve, in fact, an entire change of standpoint; a change so great and radical that it is perhaps impossible to realize, at first, all that it entails. It behooves us therefore, to pause for a brief space to gather up, and endeavor to grasp, the nature, extent and significance of the change.
 
@@ -574,7 +576,7 @@ Such peculiarities, indeed all peculiarities of whatsoever kind in the
 "letter" of the Sacred Scriptures--they, once again, being Divine
 "parable" throughout--will, therefore, form no sort of evidence, to one who, on the abundant rational and Scriptural grounds we have had before us, has adopted "the new standpoint," against their Divine Authorship. They will, on the other hand, constitute valuable notifications to him of some fine or important distinction, or some fresh point, in relation to the matter treated of in the "inner sense," which bespeaks his yet closer attention. Every peculiarity in the "letter" is an indicator, to the intelligent student, of "inner sense," of the presence within of some point of spiritual truth of more than ordinary importance.
 
-6.--The status of the "parabolic" Literal Sense as History and as Doctrine.
+=== 6.--The status of the "parabolic" Literal Sense as History and as Doctrine.
 
 IT is manifest, then, that the objections ordinarily urged with success against the Divine Authorship of the Scriptures from the old point of view, are deprived of all validity, force, and even point, from the new; and that, if these are the only objections against it that can be urged, their Divine Authorship will never be seriously imperiled. It is not even necessary to deal with them separately; there invalidity is involved in their very nature, as having no possible application against a composition of the kind the Scriptures have been seen to be-a Divine "parable."
 
@@ -678,7 +680,7 @@ To sum up. While, from the new standpoint, the real and true Divinity of the Wor
 "inner meaning" by which they are even more exaltedly true and spiritual, are to be accepted as true, and in that case as DIVINELY
 AUTHORITATIVE, unless it is known, on some other ground, that any specific statement of a doctrinal character is not genuine truth, in the exact form in which it is there set forth.
 
-7.--The "Letter," or Outer Form. NOW that it has become evident that the parabolic character of the Divine Word does not preclude the giving of true doctrine in its "outer form" as well as in its "inner meaning," we are brought face to face with a new set of problems, different in kind from any that have yet confronted us.
+=== 7.--The "Letter," or Outer Form. NOW that it has become evident that the parabolic character of the Divine Word does not preclude the giving of true doctrine in its "outer form" as well as in its "inner meaning," we are brought face to face with a new set of problems, different in kind from any that have yet confronted us.
 
 For example: there is no sign that the writers of the Old Testament Scriptures understood what they wrote in any other sense than the merely literal, or so much as had the least idea--save in the single instance of the 78th Psalm--that it had any other sense; and, in the case of this one exception, there is no appearance that the inner meaning of the contents of the Psalm was known to its writer, but simply that he was moved by the Holy Spirit to commence the Psalm in that particular way. This seems as far as one can safely go.
 
@@ -830,7 +832,7 @@ The discussion of this large and momentous issue, however, must be deferred to a
 
 1 See Chap. 9, How the Spiritual Sense is arrived at, pp. 148-151, below.
 
-8.--The "Spirit," or Inner Meaning.
+=== 8.--The "Spirit," or Inner Meaning.
 
 THE first necessity in approaching the direct consideration of the subject to which we have now come, is a clear and correct idea of what the Spiritual Sense of the Word is.
 
@@ -941,7 +943,7 @@ ALL Scripture is inspired of God, and is profitable for doctrine, for reproof, f
 Incidentally, we note that it is always the Spiritual Sense that prominently and manifestly serves these needful purposes; and also that, in many, and even in most, casestaking into account all that the Word contains, in both Testaments, but especially in the Oldit is only in the Spiritual Sense that these purposes are served at all. To a large extent, it is literally and absolutely true that the flesh [i. e. the letter] profiteth NOTHINGnothing, that is, in the way of direct spiritual edificationit is the spirit that giveth life. But concerning all, the Lords gracious assurance is absolutely true: The words that I
 speak unto you, they ARE Spirit and they ARE Life.
 
-BOOK IV
+== BOOK IV
 
 == INTERPRETATION
 
@@ -954,7 +956,7 @@ CHAPTER 12. PARALLEL VIEW OF THE LETTER AND SPIRIT OF GENESIS 1
 
 == BOOK IV INTERPRETATION
 
-9.--How the Spiritual Sense is arrived at.
+=== 9.--How the Spiritual Sense is arrived at.
 
 THE reader who has intelligently followed the working out of the example of the Spiritual Sense of the Word furnished in the last chapter, is now able to form a tolerably clear idea of what the Spiritual Sense is. We feel it safe to assume, also, that, if he is possessed of any living interest in spiritual things, he has already begun, or, at any rate, is already beginning, to realize something of the' rich possibilities that lie before him, in the event of his being able to have the Spiritual Sense of other parts of the Word unfolded in a similar manner. Scores of passages may occur to every affectionate and devout reader of the Word, of which he all too clearly perceives that "the flesh profiteth nothing," and which he has been, perforce, compelled to put aside as either having no meaning profitable for spiritual purposes, or as "mysteries," for the solution of which he must wait until his arrival in another world.
 
@@ -1007,7 +1009,7 @@ He announced that it would differ from the existing one in not being
 TRIBE OF JUDA, THE ROOT OF DAVID, HATH PREVAILED TO OPEN THE BOOK, AND
 TO LOOSE THE SEVEN SEALS THEREOF" (Rev. v. 5).
 
-10.The Spiritual Sense disclosed.
+=== 10.The Spiritual Sense disclosed.
 
 IN the preceding pages we have satisfied ourselves that God has given us a Revelation of and from Himself, adequate to the spiritual requirements of mankind, from the time it was first given until now, in the Scriptures of the Old and New Testaments. This Revelation, however, proves, on investigation, and on due consideration of the evidence which itself furnishes, to be parabolic in form and character, and so to contain, within its literal sense, a richness and abundance of interior spiritual and Divine Truth incomparably more precious than anything its Letter brings to light, in an inner or spiritual sense NOT
 revealed with it. This inner sense, we have also seen, demands--unless the best that the Word given contains, its "Spirit," is to be for ever lost to mankind--a further Revelation for its disclosure, and this necessary further Revelation is actually promised in the existing one.
@@ -1123,7 +1125,7 @@ We are perfectly well aware that objections may arise in many minds to much that
 
 This we had to do; and this, as well as ability permits, we have done. In view of all this, we make no apology for drawing freely and openly upon these works, in setting forth what has still to be told concerning the Spiritual Sense of the Word NOW DISCLOSED. Our next duty, to which we address ourselves in the following chapter, is to try to convey to the reader, by means of an outstanding example an adequate idea of what this Spiritual Sense of the Word now revealed is, and of what it does for the Word and for man.
 
-11.--The new Exegesis applied to the Creation-stories in Genesis.
+=== 11.--The new Exegesis applied to the Creation-stories in Genesis.
 
 WE have chosen the Creation-stories in Genesis as our leading example of what the Spiritual Sense does for the Divine Word, partly because it is the very beginning of the Word, partly because in this portion some of the most striking difficulties ordinarily experienced in accepting the Scriptures as the very Word of God are as it were focused, and partly because it is so rich and varied in typically illustrative material.
 
@@ -1249,7 +1251,7 @@ holds the second place, and follows. There is, however, a state ahead of this, i
 In that continuation of Regeneration, under which from Spiritual man is made Celestial, the ORDER of the process is different; and herein lies the explanation of the differences and inconsistencies (from the literal point of view) between the two accounts of the Creation. It is not Creation, but Regeneration, that is treated of, in both chapters:
 in the 1st, the primary Regeneration, by which, from Natural, man is made Spiritual; in the 2nd, the secondary Regeneration, under which, from Spiritual, man (if, by continued obedience and co-operation, He permits the Lord to carry His Regenerative work to its climax) is made Celestial; and it is because (as just stated) the order of the secondary, or Celestial, Regeneration, differs from the order of the primary, or Spiritual, that the order of Creation given in the 2nd chapter differs from the order given in the 1st. The reason, therefore, is a spiritual one; it arises out of the proved nature of the Divine Word, as having its real meaning in its Spiritual Sense and not in its Literal; and it reconciles all contradictions and solves all difficulties. "The flesh profiteth nothing it, is THE SPIRIT that quickeneth: the words that I speak unto you, they are Spirit and they are life."
 
-12.--Parallel View of Literal and Spiritual Senses of Genesis i.
+=== 12.--Parallel View of Literal and Spiritual Senses of Genesis i.
 
 IN the last chapter the reader has been led in a descriptive and constructive manner, although most briefly, through the Spiritual Sense of the 1st chapter of Genesis, and has, it is hoped, gathered a fair general idea of the sort of difference that the Spiritual Sense now revealed makes to the Word. The first difference is, that, where the subject ,in the Letter is not spiritual at all, but natural, and the form quasi-scientific, it exhibits this natural Letter as carrying within it, as its inner and real sense; a meaning that is exclusively spiritual, in subject, scope and detail, directly bearing upon salvation, regeneration and eternal life. And it effects a like transformation in everything whatsoever that is truly "the Word of God"--no matter how:dark, unpromising, or even forbidding and false it may be under a literal construction. It is the same in the Old Testament histories, with their; grossnesses and cruelties and idolatries; in the unspiritual Jewish ritual, which formed that debased nation's idea of religion and worship;
 
@@ -1628,7 +1630,7 @@ But the fuller exhibition of this feature of the doctrine of the Internal Sense 
 
 [blank page]
 
-BOOK V
+== BOOK V
 
 == THE NEXUS BETWEEN THE LETTER AND THE SPIRIT
 CHAPTER 13. CORRESPONDENCES AND REPRESENTATIVES
@@ -1639,9 +1641,9 @@ CHAPTER 14. THE ISRAELITISH OR JEWISH ELEMENT IN THE OLD TESTAMENT
 
 BOOK V
 
-THE NEXUS BETWEEN THE "LETTER" AND THE SPIRIT"
+== THE NEXUS BETWEEN THE "LETTER" AND THE SPIRIT"
 
-13.--"Correspondences" and Representatives."
+=== 13.--"Correspondences" and Representatives."
 
 IN the preceding chapter, we have placed before the reader, in a concise form, a statement of the Spiritual Sense of the 1st chapter of Genesis, as given in the series of works in which the Spiritual Sense of the Word has been made known, side by side with the Literal Sense of that chapter; and the reader is thus in a position to compare them at a glance. He may read the whole Spiritual Sense consecutively, from the beginning to the end, just as he has been in the habit, all his life, of reading the Literal Sense; and, if he does so, he will find that it contains rationally coherent instruction on a subject--Regeneration (by which man is, and by which alone he can be, prepared for heaven, John iii. 3)--on which it is, manifestly, of vital consequence to him, as an immortal being, to be informed.
 
@@ -1834,7 +1836,7 @@ The question why, in the establishment of this new dispensation, such admittedly
 
 1 Chap. 7, pp. ioq-117, which might be profitably re-read in this place.
 
-14.--The Israelitish or Jewish Element in the Old Testament Scriptures.
+=== 14.--The Israelitish or Jewish Element in the Old Testament Scriptures.
 
 SUCH, then-namely, as depicted in the concluding portion of our last chapter--was the condition in relation to spiritual things into which the entire human race had fallen at the time the Israelitish people appear upon the 'scene of history. Even the immediate family of Abraham, their great ancestor, were idolaters in their, native country. Abraham himself, when in Canaan, and Isaac, and Jacob (as shown in a previous chapter), did not relax all hold on their ancestral god, Shaddai--we find Jacob invoking him in the course of his dying prophecy, in Egypt1;--while their descendants, during their long sojourn in the last-named country, lost all knowledge of the true God, and became wholly given up to Egyptian idolatry, and remained incorrigibly addicted to the worship of the calf, throughout their subsequent history, until the great Exile.2
 
@@ -1918,7 +1920,7 @@ We have here, then--that is, in the whole series of things set forth in this cha
 
 [blank page]
 
-BOOK VI
+== BOOK VI
 
 == BIBLICATION CRITICISM
 
@@ -1928,7 +1930,7 @@ CHAPTER 15. THE NEW EXEGESIS AND THE HIGHER CRITICISM
 
 == BOOK VI BIBLICAL CRITICISM
 
-15.--The new Exegesis and the "Higher Criticism."
+=== 15.--The new Exegesis and the "Higher Criticism."
 
 IN bringing the doctrine that has been advanced in the foregoing pages as to the true character of the Word of God, to bear upon the "Higher"
 Biblical Criticism, it is of importance that we remind ourselves of what the attitude of the school, of opinion so named, towards the Scriptures, is. We will set out, therefore, with a brief summary statement on this preliminary matter.
@@ -2165,8 +2167,7 @@ And the reasons assigned for the peculiarities passed in review are all of them 
 
 == INSPIRATION
 
-CHAPTER 16. THE NATURE AND MODUS OPERANDI OF THE INSPIRATION OF THE
-WORD
+CHAPTER 16. THE NATURE AND MODUS OPERANDI OF THE INSPIRATION OF THE WORD
 CHAPTER 17. THE CANON; OR, THE BOOKS OF DIVINE AUTHORSHIP
 
 [blank page]
@@ -2175,7 +2176,7 @@ CHAPTER 17. THE CANON; OR, THE BOOKS OF DIVINE AUTHORSHIP
 
 == INSPIRATION
 
-16.The Nature and modus operandi of the Inspiration of the Word.
+=== 16.The Nature and modus operandi of the Inspiration of the Word.
 
 IN approaching the subject of the Inspiration of the Word, it is necessary in the first place to clearly realize that the Word, by which we here mean the written Word contained in our Sacred Scriptures, is DIVINE TRUTH, or, what is the same thing, the Thought, or the Mind, of God. This is the deep meaning of the announcement with which the Gospel according to John opens: in the beginning was the Word; and the Word was with God; and the Word WAS GOD (i. 1). In its first Fount and Originin its Beginningthat is to say, the Word is the very Truth1 that is with God, thus the Divine Truth, or Gods own Thought; and, consequently, it is God. And this is just as true of the Word in its written form as it was of the Word in its incarnate form; for the Word that is written, and the Word that was incarnated, are the same.
 
@@ -2294,7 +2295,7 @@ FOR EVER, O LORD, THY WORD IS SETTLED IN THE HEAVENS (Psa. Cxix. 89).
 THY WORD, O LORD, IS TRUE FROM THE BEGNINNING; AND EVERY ONE OF THY
 RIGHTEOUS JUDGMENTS ENDURETH FOR EVER (Psa. Cxix. 160).
 
-17.The Canon; or, the Books of Divine Authorship.
+=== 17.The Canon; or, the Books of Divine Authorship.
 
 IN our fourth chapter, above,1 it was pointed out that only some of the Books bound up together in the volume we call The Bible, explicitly proclaim themselves to be the Word of God; and it was stated that the arguments and claims advanced in this work are made on behalf only of those Books that are this, and not of any others. We also deferred the further consideration of the question thus raised, the question of the canon, to the present chapter.
 

@@ -2,6 +2,12 @@
 Odhner
 include::../../template-attributes.adoc[]
 
+////
+
+
+////
+
+
 Some Essays on the Influence of Spirits upon Men, as Described in the Writings of Emanuel Swedenborg
 
 By
@@ -67,7 +73,7 @@ Since the subjects of the chapters intertwine, a certain amount of reiteration c
 HUGO LJ. ODHNER
 May 1958
 
-I
+== I
 
 "In My Father's house
 
@@ -138,7 +144,7 @@ The ability of man to become responsible for his own inner character and final d
 
 And the purpose of the following essays is to examine some of the manifold ways in which our lives are moulded for good or ill by the influx of these invisible agencies.
 
-II
+== II
 
 "What is man that Thou
 
@@ -294,7 +300,7 @@ The Writings are shedding a new light on all the states through which men pass o
 
 They give us a knowledge by which to judge wisely how far we can resist such states, and how far they should be left to the Divine providence. It. is our purpose to consider this new approach to a rational and spiritual life thus opened to the New Church. But before we enter upon this task it is necessary to recount the perils which attend any mortal effort to break open the gates of the unseen world.
 
-III
+== III
 
 "Regard not them that
 
@@ -572,7 +578,7 @@ The temptation is to think that we do not need to walk that road, to think that 
 
 72 DP 131
 
-IV
+== IV
 
 "The angel of the Lord
 
@@ -869,7 +875,7 @@ This is the manner in which heaven and earth may again be conjoined through the 
 
 139 AC 3316:3, HH chap. 34
 
-V
+== V
 
 "My name is Legion, for
 
@@ -1010,7 +1016,7 @@ A normal, wholesome life implies a variety of experiences, and changing states. 
 
 But the Lord also ordains that the Divine Word shall be with men, so that by means of its Divinely ordered field and sequence of material ideas--historicals, propheticals, and parables--the angelic hosts may have their own ultimates with men. Every word, every natural idea in the Scripture possesses a spiritual value and meaning for the angels. If we habitually read the Word in reverence, we invite ever new groups of angelic societies into our mind; and we are thus led to travel an orderly road in the pilgrimage of our spirit towards heaven; to progress under the Lord's own protection through the many stages of life.
 
-VI
+== VI
 
 "Are they not all ministering spirits, sent forth
 
@@ -1111,7 +1117,7 @@ By Baptism the Lord does gather His children together under the protective spher
 
 But so far as we freely allow the sphere of the New Heaven to be with us, there is freedom also to progress in accordance with our choice; there is a leading into greater illustration, spiritual clarity, and wisdom; there is the possibility of the more and more interior fulfilment of what Baptism involves, the realization of the meaning of the new order of the spiritual world, and of the truth that the Lord reigneth.
 
-VII
+== VII
 
 "When the unclean spirit
 
@@ -1433,7 +1439,7 @@ It is obvious that if evil held sway in man's mind, his reason would soon totter
 
 224 SD 3628. See chapters XIV to XVI.
 
-IX
+== IX
 
 "Believe not every spirit ..."
 
@@ -1597,7 +1603,7 @@ Illustration is from the Lord alone. Yet it is still effected by the mediation o
 
 249 AC 4402e
 
-X
+== X
 
 "The very hairs of your
 
@@ -1677,7 +1683,7 @@ Yet man speaks of "chance." We do not believe that spirits have any power over n
 
 But such is the inscrutable intricacy and detail of the Providence of God, that the "white cloud" of good fortune or the "dusky cloud" of warning are tokens before spirits of His foreknowledge of the chances which shall befall; unpredictable events into which He permits a man to be led for eternal reasons which look to the needs of spirits and also to the needs of the man--lest he should become the prey of morose disappointment, or lest he should come to rely on his "luck" rather than on his reason and his labor.
 
-XI
+== XI
 
 "Love not the world, nor
 
@@ -1787,7 +1793,7 @@ At the last judgment the sirens were confined in their hells. But continually ne
 
 This is the purpose of these revelations of the Second Advent. "Man is now able to know." He is able to know that when his thought is led into evil, this is the direct result of spirits who belong in hell and who must not be entertained in the human mind. But such thoughts--entering as they do even through innocent channels--are not imputed to man nor appropriated by him if he acknowledges their source and prays to the Lord for deliverance.
 
-XII
+== XII
 
 "So he giveth His be-
 
@@ -1968,7 +1974,7 @@ In states of disease or discomfort such as may result from overstrain or from to
 
 The teachings concerning dreams may not appear to be, by themselves, an important part of the doctrine of the church. Yet they present another aspect of the marvelous economy of human life, which is ordered by infinite protective agencies and is ruled in every detail by the Lord of creation.
 
-XIII
+== XIII
 
 "He sendeth rain upon
 
@@ -2196,7 +2202,7 @@ But, finally, general influx is also responsible for that gift which is common w
 
 Whatever comes from general influx depends on a remnant of order, on the health of the body or the mind. Where evil steps in or disease enters this order is disturbed, and heaven reluctantly withdraws her protective wings somewhat, with the distressing result that individual spirits of hell begin to inflow.
 
-XIV
+== XIV
 
 "It is easier to say to one
 
@@ -2379,7 +2385,7 @@ But it is clear that these invading micro-organisms are to be included with the 
 
 That the inmost soul has at its disposal many marvelous agencies in the body is obvious in all stages of the formation of the embryo and the growth of the body. The strange appearance of "anti-bodies" to counter disease germs in the blood stream is an example of how the balance of organic life is maintained as if by an omniscient government; as is also the dominant role played by the secretions of the endocrine glands. That this government is mediated by the spiritual world has been the theme of this book. But man's mind is his own special spiritual world. And health and disease may both depend on his psychical states. The philosophy of disease and cure which will eventually take form among the people of the New Church must account first of all for the relation of the body to the mind, and thus to the spiritual world.
 
-XV
+== XV
 
 "A cheerful heart is a
 
@@ -2656,7 +2662,7 @@ Sickness is not a total waste in the Lord's sight. We are encouraged to practice
 
 "He who is in merely external pleasures makes much of himself, indulges his stomach, loves to live sumptuously, and makes the height of pleasure to consist in things to eat and drink. One who is in internal things also finds pleasure in these things, but his ruling affection is to nourish his body with food pleasurably for the sake of its health, to the end that he may have a sound mind in a sound body; thus chiefly for the sake of the health of the mind, to which the health of the body serves as a means. One who is a spiritual man does not rest here, but regards the health of the mind or soul as a means for acquiring intelligence and wisdom--not for the sake of reputation, honors, and gain, but for the sake of the life after death. One who is spiritual in a more interior degree regards intelligence and wisdom as a mediate end having for its object that he may serve as a useful member in the Lord's kingdom; and one who is a celestial man, that he may serve the Lord. To such a one bodily food is the means for the enjoyment of spiritual food, and spiritual food is a means for the enjoyment of celestial food; and as they ought to serve in this manner, these foods also correspond, and are therefore called 'foods'" (AC 4459:6).
 
-XVI
+== XVI
 
 "Unto you that fear My
 
@@ -2731,7 +2737,7 @@ The Heavenly Doctrine was not given in order to restore to men the means of proc
 
 453 AR 936
 
-XVII
+== XVII
 
 "And when I had heard
 

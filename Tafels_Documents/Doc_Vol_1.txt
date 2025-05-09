@@ -1,6 +1,13 @@
 = Doc Vol 1
-Doc_Vol_1
+By R. L. TAFEL, A. M., PH. D.
 include::../../template-attributes.adoc[]
+
+////
+Here we have value
+
+
+////
+
 
 THE LIFE AND CHARACTER OF EMANUEL SWEDENBORG
 

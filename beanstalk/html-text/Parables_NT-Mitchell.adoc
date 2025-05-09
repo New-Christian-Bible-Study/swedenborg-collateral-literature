@@ -1,5 +1,5 @@
-= Parables NT
-Mitchell
+= Parables of the New Testament
+By Rev. Edward Craig Mitchell
 include::../../template-attributes.adoc[]
 
 SPIRITUALLY UNFOLDED
@@ -28,7 +28,7 @@ WILLIAM H. ALDEN
 
 1900
 
-PREFACE.
+== PREFACE.
 
 This volume Is Intended to be a plain, practical application of the New Testament Parables to our daily life, from the standpoint of the New-Jerusalem Church.
 
@@ -50,7 +50,7 @@ E. C. M.
 
 ST. PAUL, MINN. October, 1887.
 
-INTRODUCTION.
+== INTRODUCTION.
 
 Scripture Parables; their Nature, Use, and Interpretation.
 
@@ -239,7 +239,7 @@ The spiritual sense of the Scripture, Eke the spirit of man, yields the secret o
 
 But to him who, in a child-like spirit, goes to the letter of the Scripture, ready to receive whatever the Lord desires to teach him, the whole Scripture becomes, spiritually, "a well of water, springing up into everlasting life."
 
-I. The House on the Rock, and the House on the Sand.
+== I. The House on the Rock, and the House on the Sand.
 
 (Matthew VII. 24-27.)
 
@@ -367,7 +367,7 @@ Only the practised truth builds up the character. The great business of our life
 
 Our Lord gives us, in the holy Word, all the plans, specifications and estimates that are necessary to do our building well. And it should be our great delight to do this work of building. But foolish men try-to build with their own plans, while good and wise men build with the Lord's plans. The wise man selects his materials with great care, and builds with care. But the careless man takes any materials that seem to come to hand. What we need are not mere sentiments, but fixed principles. There is no way of fixing a principle in the manhood, except by doing it. In the doing, the love of the good, and the thought of the truth, are fixed in our conduct.
 
-II. Old and New Cloth, Wine and Bottles.
+== II. Old and New Cloth, Wine and Bottles.
 
 (Luke v. 36-39.)
 
@@ -547,7 +547,7 @@ CONNECTION BETWEEN PARABLES.
 
 We see a connection between the parable last considered, and the one now under consideration. The parable of "The House on the Rock and the House on the Sand," taught the need of living on the truths that we know. And the parable about the garments and the wine, teaches us that the old doctrines and states of life are not able to hold the new truth and new life; and that, in order actually to receive new truths into our lives, we, ourselves, must be made new, in the regeneration. We must be lifted up to the level of the new truths. "If ye know these things, happy ate ye, if ye do them."
 
-III. Children in the Market
+== III. Children in the Market
 
 (Matthew xi. 16-19.)
 
@@ -680,7 +680,7 @@ As it is natural for the little child to leap and dance with delight, when moved
 
 No man is without these warnings, and these invitations. And if any man fails to be regenerated, it must be because he neglects both these warnings and these inducements. And, in fact, all the permitted disciplines of our life are opportunities for regeneration, when we may turn from our self-seeking, and listen to the voices of the Spirit's children, calling us to repentance and to heaven. If we have not done the things which our Lord says, we may call "Lord, Lord," in vain, for we shall not be known, in heaven, as children of the kingdom; but our judgment shall be by the truths of the holy Word, which we knew, and yet neglected; and these shall say, "We have piped unto you, and ye have not danced; we have mourned unto you, and ye have not lamented."
 
-IV. The Sower.
+== IV. The Sower.
 
 (Matthew xiii. 3-8, 18-23.)
 
@@ -1023,7 +1023,7 @@ HEARING.
 In the Lord's temple men seek the truth. And do they fully recognize the important fact that two things are necessary to the teaching of truth, good preaching and good hearing? There must be not only good seed, but also good ground. No amount of work in the pulpit, will sow the seeds of truth in unheeding pews. But good hearing, in the congregation, is apt to induce good preaching. "Take heed how ye hear?"
 Hear heartily, with open hearts, seeking the truth, for use in regeneration. Our Lord gives very few 0directions about preaching, but He says much about hearing. Hearers should always remember that it is their duty, as well as the preacher's, to go to church prepared, by shutting out the sensuous world of business, politics and pleasures of the flesh. And if both the hearers and the preacher always keep in mind the fact that the Lord is the only real Sower of the Divine truth, and that they are only His humble helpers, both the hearing and the preaching will be better and more useful. "Who hath ears, to hear, let him hear."
 
-V. The Tares Among the Wheat.
+== V. The Tares Among the Wheat.
 
 (Matthew xiii. 24-30, 36-43.)
 
@@ -1209,7 +1209,7 @@ The God-given destiny of every man is a home in heaven. That home is open to us,
 
 But, at the same time, the cunning devils observe what the Lord is doing for us; and stealthily, under cover of mental night, in times when we are spiritually asleep, engrossed in the things of the senses, they come upon us, unawares, and sow in our unheeding minds, the infernal seeds of false and evil principles. And we have need to keep ourselves awake to the realities of our human life, that our Lord may succeed in His heavenly work within us; and that the devils may fail in their infernal schemes. "Who hath ears to hear, let him hear."
 
-VI. The Mustard Seed.
+== VI. The Mustard Seed.
 
 (Matthew xiii. 31,32.)
 
@@ -1346,7 +1346,7 @@ QUANTITY AND QUALITY.
 "A little that a righteous man hath is better than the riches of many wicked:" for even the beginnings of spiritual life are better than the fulness of sensuous life. "I would rather be a door-keeper in the house of my God, than to dwell in the tents of wickedness." "The Lord loveth the gates of Zion, more than all the dwellings of Jacob." By the
 "little that a righteous man hath," the Lord saves him. Therefore, if we look well to the quality of our life, our Lord will see to its quantity. For goodness is the ground in which wisdom grows.
 
-VII. The Leaven.
+== VII. The Leaven.
 
 (Matthew xiii. 33.)
 
@@ -1491,7 +1491,7 @@ The parable also affords a warning to the young, as well as to others, not to ru
 
 We need not seek temptations; they will come, soon enough, and as soon as we are able to bear them. Le our prayer be, "Lead us, not into temptation," which we are not yet able to bear; but, when we are being tempted, "deliver us from the evil."
 
-VIII. The Hidden Treasure.
+== VIII. The Hidden Treasure.
 
 (Matthew xiii 44.)
 
@@ -1651,7 +1651,7 @@ And, to-day, the revelation of the inward, spiritual sense of the Divine Word, i
 
 The Divine character is hidden in Jesus Christ; hidden to the world, but known to those who love Him. "Truly, Thou art a God that hidest Thyself, 0 God of Israel, the Savior." And, to-day, even in His Church, we are talking about Him, and reading His teachings, but seeing not a millionth part of the treasure that lies hid in His holy Word. "Search the Scriptures, for in them ye think ye have eternal life; and they are they which testify of Me." "And I will give thee the treasures of darkness, and hidden riches of secret places."
 
-IX. The Merchant Seeking Pearls.
+== IX. The Merchant Seeking Pearls.
 
 (Matthew xiii. 45, 46.)
 
@@ -1762,7 +1762,7 @@ Both this parable and that of "The Hidden Treasure," show us that the knowledge 
 
 The Divine Word is inexhaustible; we can never outgrow its truths; but we can grow more and more intelligent in seeing and understanding what is in the Divine Word. The Word is Divine Truth, in all degrees, and adapted to all degrees and planes of human thought and life. All our new light is from the Lord's Word; and all our new truth is only new knowledge of what is in the Divine Word. All the pearls of knowledge are but gates to the holy city of the New-Jerusalem, the mental city of our Lord. "Every several gate is of one pearl."
 
-X. The Draw-Net.
+== X. The Draw-Net.
 
 (MATTHEW xiii. 47-50.)
 
@@ -1915,7 +1915,7 @@ There is no vindictive hell, in which the Lord purposely punishes evil men. The 
 
 Divine justice is also Divine Love; and it will never thrust before a man's face a list of his outlived evils. Men are always judged by their character, not by their outward deeds, alone. When a man's character changes, from evil to good, lie has no need to fear any Divine wrath for the past. "The soul that sinneth, it shall die. The righteousness of the righteous shall be upon him, and the wickedness of the wicked shall be upon him. But if the wicked turn from all his sins that he hath committed, and keep all My statutes, and do that which is lawful and right, be shall surely live. . . . But when the righteous turneth away from his righteousness, and committeth iniquity. . . . in his sin that lie hath sinned . . . shall he die." "If thou wilt enter into life, keel) the commandments," for they are the laws of life. Happy, indeed, both here and hereafter, are they who, in the light of the heavenly Word, sit down with the angels of Divine truth: who, in every step of progress, carefully examine the spiritual quality of the things which move their affections, their thoughts, and their conduct; and of whose life the angels may truly say, "they gathered the good into vessels and cast the bad away."
 
-XI. The Instructed Scribe.
+== XI. The Instructed Scribe.
 
 (MATTHEW XIII. 51, 52.)
 
@@ -2010,7 +2010,7 @@ We, too, are scribes; we are daily and deeply inscribing upon our own hearts the
 
 And, in such a life, we can daily bring forth, out of our treasures, things new and old."
 
-XII. The Unmerciful Servant.
+== XII. The Unmerciful Servant.
 
 (Matthew xviii. 23-35.)
 
@@ -2180,7 +2180,7 @@ Divine Mercy is not, in any case, from any change in the disposition of the Lord
 
 Divine forgiveness is not a thing of the past, nor merely of the future, but of the present. If we now are withheld from evil and sin, it is because we now acknowledge our weakness, and accept the Lord's aid, and keep his commandments. We are sustained, at each moment, by the life which momentarily comes to us from the Lord. The law of spiritual life is use. What we use is ours; what we neglect, we lose.
 
-XIII. The Laborers in the Vineyard.
+== XIII. The Laborers in the Vineyard.
 
 (Matthew xx. 1-16.)
 
@@ -2346,7 +2346,7 @@ CALLED AND CHOSEN.
 
 "The Lord is good to all, and His tender mercies are over all His works." "For He is Lord of lords, and King of kings; and they that are with Him are called, and chosen, and faithful."
 
-XIV. The Two Sons.
+== XIV. The Two Sons.
 
 (Matthew xxi. 28-32.)
 
@@ -2519,7 +2519,7 @@ OUR OWN WORK.
 
 There is no other part of the Lord's vineyard in which it is so important for us to work, as that which is included in our own minds. Here we can help to do the Lord's work better than any one else can do it for us. When we love good and truth, inwardly, and practice them in our outward life, then our Lord's will shall be done on the earth of our natural man, as it is done in the heaven of our regenerating spirit.
 
-XV. The Wicked Husbandmen.
+== XV. The Wicked Husbandmen.
 
 (Matthew xxi. 33-43.)
 
@@ -2704,7 +2704,7 @@ SUCCESSIVE CHURCHES.
 In the Divine Providence, whenever a Church has declined, another Church has been raised up, to keep alive the vineyard of the Lord. The First Coming of the Lord instituted the First Christian Church, after the ruin of Judaism. And, about a hundred years ago, as the First Christian Church became corrupted in doctrine and in life, the Lord made His Second Coming, in spirit, and in the truth, in the revealing of the inward, spiritual sense of His holy Word. And He instituted the New-Church, the Church of the New- Jerusalem, to take up the work in His vineyard. And, as the very corner-stone of this NewChurch, stands the truth of the Divine Humanity of Jesus Christ, as one God, in one person, seen in three aspects, or manifestations. This is the "stone which the builders rejected" from the Old Theology, but which has now
 "become the head of the comer," in the New-Jerusalem. "0 God of hosts, look down from heaven, and behold, and visit this vine; and the vineyard which Thy right-hand hath planted."
 
-XVI. The Marriage of the King's Son.
+== XVI. The Marriage of the King's Son.
 
 (Matthew xxii. 2-14.)
 
@@ -2945,7 +2945,7 @@ The fact that many men do not desire to enter into the heavenly marriage of good
 
 And the New-Church has a duty to perform, in this matter of social marriage. We cannot control the world in general; but we can control ourselves. We can, by teaching, and by example, show the relation between external and internal marriage. And, especially, we can save our children from the terrible falsities about marriage, that are now prevalent in society. We can teach them rationally to see that the man or woman who marries for any other cause than sincere and exclusive love, or who practises deceit in the marriage-relation, is taking a long step towards spiritual destruction. And woe to those who "make light" of either the external or the internal marriage; their spiritual destruction is impending. In every truth of His holy Word, our blessed Lord is calling us to the marriage-feast of heavenly life. And one of the most effective means of attaining a spiritual marriage, is a sincere, pure external marriage.
 
-XVII. The Fig-tree Putting Forth Leaves.
+== XVII. The Fig-tree Putting Forth Leaves.
 
 (Matthew xxiv. 32-35.)
 
@@ -3089,7 +3089,7 @@ When that spiritual truth is known, loved and practised, we may look for spiritu
 The New-Church will descend into the minds of men, as the old conditions of old evils and falsities are broken up, and removed. "If any man will do His [the Lord's] will, he shall know of the doctrine."
 The softening of the natural man, and the new thoughts and deeds of natural good, give us some evidence that "the summer is nigh."
 
-XVIII. The Ten Virgins.
+== XVIII. The Ten Virgins.
 
 (Matthew xxv. 1-13.)
 
@@ -3228,7 +3228,7 @@ And, in watching, we are not to be governed by natural fear, which paralyzes act
 
 As the sun, with its heat and light, is in every ray that it sends forth to us, so the Lord is in every truth that makes itself known to us. Such a truth is both our Redeemer and our judge. Our natural mind may not recognize either the Divine influence, or its own dangers. And so, to watch, we must have light. So, in the truth of the Lord's Word, as taught in the doctrines of the Church, we have lamps of doctrine, which may be filled with the warm oil of a love for the truth, and for the good which the truth teaches; and by these we may clearly see the quality of the things that are within our own natural minds, as well as in our surroundings. "And what I say unto you, I say unto all, Watch."
 
-XIX. The Talents.
+== XIX. The Talents.
 
 (Matthew xxv. 14-30.)
 
@@ -3386,7 +3386,7 @@ This parable teaches us that spiritual life it not separated from natural life, 
 
 Men are different, in mind and in education. And we cannot avoid such differences; nor are we necessarily responsible for them. We are not responsible for our inherited capacities, but for our use of them. And use will greatly increase and open our capacities. There will be, in heaven, a home for every sincere man, who will make good use of his capacities, and of his knowledge, in shunning evil, and in doing good; and that home will be a heavenly home to him, the kind of a home which he personally desires and needs. In the New-Church, much has been given to us, in the knowledge of the spiritual sense of the Lord's Word, as well as in the letter; and it behooves us to watch our mental states, and to avoid parading our knowledges, without putting them to practical use, in regeneration. And, especially, it behooves us to avoid feeling contempt for others, who, though they have not our quantity of knowledges, may have a much better quality of love for good and truth, and more beautiful and useful lives.
 
-XX. The Seed Growing Secretly.
+== XX. The Seed Growing Secretly.
 
 (Mark iv. 26-29.)
 
@@ -3530,7 +3530,7 @@ OUR CHILDREN.
 
 The parable suggests our duty to our children, to bring them up for the spiritual world, and not merely for the natural world; to teach them genuine truth; and to set them a good example; to prepare their minds for the Lord's work of regeneration; remembering that, while the growth of the seed is secret, so its failure to grow is secret. We must not infer that, because we can not see what is going on in our own mind, or our child's mind, therefore it must be doing well. It may be doing very badly. The seeds of evil weeds may be secretly growing underneath the surface. Under a smooth exterior, there may be very bad conditions. That depends upon whether we have well prepared the ground, planted good and well-selected seed, kept out the weeds and stones, kept the necessary fences in good order; and, in all other things, have done our part, wisely and well. "If ye know these things, blessed are ye, if ye do them."
 
-XXI. The Blind Leading the Blind.
+== XXI. The Blind Leading the Blind.
 
 (Luke vi. 39.)
 
@@ -3667,7 +3667,7 @@ And those who help to lead us to these heavenly things, must have spiritual cour
 
 But, if we sink into natural-minded states, and fail to value the strength of love which goes out with all well-meant criticism; if we fall into the terrible falsity that our best friends are those who never see any faults in us; we shall be making friends of the most subtle and dangerous influences, and rejecting the heaven-sent aid of our best friends: and then, with our self-deluded hearts on fire with infernal passions, and our clouded understandings enslaved by our corrupt hearts, our hearts will be blind leaders of the blind, carrying us down into the pits of direful falsities.
 
-XXII. The Two Debors.
+== XXII. The Two Debors.
 
 (Luke vii. 41-43.)
 
@@ -3800,7 +3800,7 @@ But, as with the Lord, so with men, their spiritual affection is not appreciated
 
 Our work, then, is to cultivate spirituality of character, that we may love the Lord, and, in the contented usefulness of a good life, learn to appreciate His infinite love. "Whoso are wise and will observe these things, even they shall understand the loving-kindness of the Lord."
 
-XXIII. The Good Samaritan.
+== XXIII. The Good Samaritan.
 
 (Luke x. 30-37.)
 
@@ -3952,7 +3952,7 @@ THE NEW-CHURCH.
 
 Well, indeed, is it, for human nature, that a New Church has arisen. to redeem Christianity from its perversions; to teach new truths; and to lead us all to a new quality of love and of life. Even to-day, we sadly need the loving rebuke of this beautiful parable. "Have we not all one Father? Hath not one God created us? Why do we deal treacherously, every man against his brother?" "All things whatsoever ye would that men should do to you, do ye even so to them; for this is the law and the prophets."
 
-XXIV. The Importunate Midnight Friend.
+== XXIV. The Importunate Midnight Friend.
 
 (Luke xi. 5-8.)
 
@@ -4087,7 +4087,7 @@ PRAYER.
 
 Our prayer does not need to be constant in external form. There are uses to perform, that will not allow us to be always engaged externally in prayer. There is true prayer in every performance of our uses. Every effort we make to shun evil, and to do good, is a living prayer for the Lord's help. And it is the kind of prayer which can be most readily answered; for the answer is in the strength and support that we receive, to uphold us in our efforts. Thus "ask, and ye shall receive; seek, and ye shall find; knock, and it shall be opened unto you."
 
-XXV. The Rich Fool.
+== XXV. The Rich Fool.
 
 (Luke xii. 16-21.)
 
@@ -4220,7 +4220,7 @@ The good things of natural life are good, in their proper places, and as servant
 
 But, in using this world for the sake of the spirit, we make the best of both worlds; and then the earth becomes the Lord's foot-stool, on which we stand, as we reach upwards, towards His throne. "A little that a righteous man hath, is better than the riches of many wicked." "Labor not for the meat which perisheth, but for that meat which endureth unto everlasting life."
 
-XXVI. Waiting, with Loins Girded and Lights Burning.
+== XXVI. Waiting, with Loins Girded and Lights Burning.
 
 (Luke xii. 35-48.)
 
@@ -4360,7 +4360,7 @@ Those who live in their externals, looking at the natural side, only, of human l
 
 They cannot, of course, foresee future facts in outward things; and they do not desire to do so, knowing that such knowledge would take away their freedom; but they know the certainty of spiritual principles; and knowing that everything, both natural and spiritual, must "bring forth after its kind," they know, to a certainty, what must be the outcome of any given principle of life, embodied in the conduct. They know the certainty of the fulfilment of the Lord's gracious promise, "Trust in the Lord, and do good; so shalt thou dwell in the land; and verily, thou shalt be fed. Delight thyself also in the Lord, and He shall give thee the desires of thine heart."
 
-XXVII. The Barren Fig-tree.
+== XXVII. The Barren Fig-tree.
 
 (Luke xiii. 6-9.)
 
@@ -4460,7 +4460,7 @@ The growth of a tree is not by mere change, but by a well-defined plan. A tree m
 
 Again, as the tree must be placed amid conditions of growth, so the truth, in our minds, must be given every opportunity to be warmed by our love, lighted by our wisdom, and protected by our care; i. e., we must do our part to keep it in condition to receive the Lord's love, wisdom and care. And it must be cared for, continually, to keep up the conditions of growth, and to keep away. the weeds, and other enemies. Then we shall not be useless, unproductive trees, cumbering the ground which better men and women might more usefully occupy.
 
-XXVIII. Taking the Lowest Seats.
+== XXVIII. Taking the Lowest Seats.
 
 (Luke xiv. 7-11.)
 
@@ -4568,7 +4568,7 @@ THE PRACTICAL MEANING.
 
 The meaning of the parable is clear enough for our practical use. Every truth of the Lord calls us to draw nearer to our Lord; to come out of our selfishness, and to allow our Lord to form, in our minds, a heavenly marriage of good affections with true thoughts; to feast with the Lord, in His presence; to put down all evil, false and sinful things, and to come into a childlike innocence and simplicity; and thus to allow our Lord to exalt us to higher and higher conditions of spiritual character. "Whosoever, therefore, shall humble himself, as this little child, the same is greatest in the kingdom of heaven."
 
-XXIX. The Excuses.
+== XXIX. The Excuses.
 
 (Luke xiv. 16-24.)
 
@@ -4692,7 +4692,7 @@ Men talk about the "Good Time Coming," and long for it, instead of working for i
 
 The Lord's invitations are always for the present. "Today, if ye will hear His voice, harden not your hearts." "Son, go work, to-day, in My vineyard." Worshipping the Lord does not consist merely in going to church, but in shunning evils, and in doing good. Sometimes, the popular and elegant church is pleasant to us from merely external reasons. It is as "a very lovely song of one that hath a pleasant voice, and can play well on an instrument." Coming to the Lord is coming out of evils. "Blessed are they that are called to the marriage-supper of the Lamb." "Blessed are they that do His commandments, that they may have right to the tree of life, and may enter in, through the gates, into the city." "Wherefore do ye spend money for that which is not bread? and your labor for that which satisfieth not? Hearken diligently unto Me, and eat ye that which is good; and let your soul delight itself in fatness."
 
-XXX. Building a Tower, and Making War.
+== XXX. Building a Tower, and Making War.
 
 (Luke xiv. 28-33.)
 
@@ -4802,7 +4802,7 @@ And, if we only stand steadfast, there is no danger in temptation. "As thy days,
 And there is compensation in all trials. If it were not for the darkness, we should know nothing of the stars. All things tend to the spiritual good of Him who works for good. "All the paths of the Lord are mercy and truth to such as keep His covenant and His testimonies."
 As soon as the man learns to hate evil, it ceases to be hard to give up evil. The parable shows us that the life of regeneration is no light matter, to be accomplished in a moment of enthusiasm. It is a life-work: and "he that endureth to the end shall be saved."
 
-XXXI. The Lost Sheep.
+== XXXI. The Lost Sheep.
 
 (Luke xv. 3-7.)
 
@@ -4918,7 +4918,7 @@ The early Christian Church, which was in a more childlike state than the First C
 
 And it is well for men of to-day, to keep in mind the boundless and tender love of the Lord. For, as we rise to an appreciation of the quality of the Divine Love, we become more fully able to prepare our hearts to receive, and to live in, such a quality of love. Our Lord is always operating, to draw us out of evil, and into goodness. Our sins are not laid up against us, in a grand debtor and creditor account, in heaven. But sin is like ill-health; we must live ourselves out of it, according to the laws of life. And he who lives himself out of past sins, and hates his own evils, thereby frees himself from their present influence; and the Lords leads him above them. "The Lord is my Shepherd; I shall not want. He restoreth my soul."
 
-XXXII. The Lost Piece of Silver.
+== XXXII. The Lost Piece of Silver.
 
 (Luke xv. 8-10.)
 
@@ -5035,7 +5035,7 @@ And if our emotion originates in the determination of our will, to gain, again, 
 
 Thus, every good affection, sincerely cherished, and intelligently understood, and diligently practised, will go down the ages, as a blessing to all, a "thing of beauty [that] is a joy forever." And, on the other hand, the loss of every good principle, and every truth, lost from our practical daily life, diminishes the joy of the created universe. In the light of these facts we cannot afford to lose any heavenly principle from our minds and lives, by neglecting to practise it, and by sinking ourselves below the high level of its operation, and nearer to the deadly emanations of the hells.
 
-XXXIII. The Prodigal Son.
+== XXXIII. The Prodigal Son.
 
 (Luke xv. 11-32.)
 
@@ -5328,7 +5328,7 @@ The parable does not say the father finally reconciled the elder son to the youn
 But the Father will yet prevail upon the elder brother of faith to become reconciled to the younger brother of charity, or love, in his state of sincere repentance, reformation, and regeneration. And when the men of the New-Church rise to a high and holy life of Christian love, the Lord will be able to unite human faith and human love in the spiritual marriage of regeneration. Then will the New-Jerusalem have come down fully, from God, out of heaven, to dwell with men on earth.
 "And the Lord shall be King overall the earth: in that day shall there be one Lord, and His name one."
 
-XXXIV. The Unjust Steward.
+== XXXIV. The Unjust Steward.
 
 (Luke xvi. 1-12.)
 
@@ -5468,7 +5468,7 @@ Thus, in this parable, our Lord teaches us to have one well-defined purpose in l
 We can take part in the world's affairs, using common sense, skill, and energy, in performing uses; but not working in a merely worldly spirit. We can use the world as a friend to heaven, and not as an enemy; bravely and energetically, and with prudence and executive ability, following every truth that we know. And then, when natural things fail to satisfy our open spirits, the higher aspects of heavenly truths will
 "receive [us] into everlasting habitations."
 
-XXXV. The Rich Man and Lazerus.
+== XXXV. The Rich Man and Lazerus.
 
 (Luke xvi. 19-31.)
 
@@ -5600,7 +5600,7 @@ Miracles did not convince those who were opposed to the Lord's principles. "Thou
 
 It is a law of the Divine Providence, that a man shall, as of himself, remove evils, as sins, in his external man, and thus, and not otherwise, the Lord can remove evils in the internal man, and, at the same time, in the external man. A man in whom evil rules is, already, a hell; and the man in whom heavenly principles rule is, already, a form of heaven. Regeneration cannot be effected, except by hearty and sincere reception of the principles of Divine Truth, in the heart, understanding and life. The parable emphasizes the contrast between being rich in worldliness and rich in goodness. The contrast is not precisely between heaven and hell, but between those states of life on earth which finally make heaven and hell.
 
-XXXVI. The Unprofitable Servant.
+== XXXVI. The Unprofitable Servant.
 
 (Luke xvii. 7-10.)
 
@@ -5734,7 +5734,7 @@ But, when the empty shoe lies before you, memory and affection seem to bring bac
 
 During the life of your little boy, on earth, how carefully and tenderly you provided proper shoes for his little feet, that they might not cause him pain. And did you not as carefully, and as tenderly, try to lead him into such externals of feeling, thought and conduct, as would properly serve his opening spirit, without injury to its growing life? Did you not remember that all things that this outward world can afford your child, are, to his human spirit, only what the shoes are to the feet that fill them? They are externals, but important, as serving, or restraining, the growing spirit, within.
 
-XXXVII. The Unjust Judge.
+== XXXVII. The Unjust Judge.
 
 (Luke xviii. 1-8.)
 
@@ -5874,7 +5874,7 @@ THE LORD'S SECOND COMING.
 
 These are the days of the coming of the Lord, in a spiritual coming of Divine Truth to the minds of men. But how is this truth received? How much faith and charity are there, in the world? 'The love of many [has waxed] cold." Few have any vigorous faith in the Divine character and personality of the Lord, Jesus Christ, the one, only God, or in the absolutely Divine character of the Word of God. Men are outgrowing the old ideas of the so-called Orthodox theology; and they need new phases of truth, or they will have no truth. And a New-Church has begun, in which the Lord is known in His true character, and in which His Word is open, in its inward and spiritual sense. This New-Church, the Church of the New-Jerusalem, the Lord is establishing in the hearts, understandings and lives of those who are prepared to receive its Divine principles. And though it may long struggle against evils and falses, among its people, and in its opponents, it will finally prevail, individually and collectively. And towards this grand result, our Lord's own message tells us, "that men ought always to pray, and not to faint."
 
-XXXVIII. The Pharisee and the Publican.
+== XXXVIII. The Pharisee and the Publican.
 
 (Luke xviii. 9-14.)
 
@@ -6003,7 +6003,7 @@ One especial danger of external culture is its tendency to despise others, who a
 The self-exalting spirit, feeling rich in its self-love, struts through the world, in miserable pride, deeming nothing too good for it, as
 "fools rush in, where angels fear to tread." And yet it misses the best opportunities for spiritual life. But the humble soul, recognizing its own hereditary tendencies, and the mercy of the Lord, finds, even in the hardest circumstances, opportunity to grow in regeneration; as the seed that falls upon a barren rock, where death seems to be inevitable, yet finds some little foothold for its first roots, and then sends forth longer and stronger roots, over the sides of the huge old rock, and taps the rich soil below: and, from this source of life, it flourishes like a cedar of Lebanon, even on a spot where a lichen would scarcely find a foothold. Truly, "No good will [the Lord] withhold from them that walk uprightly." "And what doth the Lord require of thee, but to do justly, and to love mercy, and to walk humbly with thy God."
 
-XXXIX. The Good Shepherd.
+== XXXIX. The Good Shepherd.
 
 (John x. 1-16.)
 
@@ -6126,7 +6126,7 @@ TAKING UP LIFE.
 
 Jesus laid down His life, that He might take it, again. So, in the regeneration, we lay down our natural, selfish, worldly life, that we may take up a new, spiritual, heavenly life. "Whosoever will save his life, shall lose it: and whosoever will lose his life for My sake, shall find it." And, indeed, how often it is the case, that we draw nearer to our Lord, and trust in Him more implicitly, in times of trial and sorrow, than in hours of apparent prosperity. We can almost feel His great, yet tender, arm, lifting us over the hardest places in the path. Often, with us, as with the sheep in Palestine, the greenest pasture lies upon the southern ridges of the steep and rocky hills. Strength, courage, and endurance are needed, to reach them. But the Divine Shepherd leads us according to our strength, and gives us all the strength that we will exert ourselves to use.
 
-XL. The Vine and its Branches.
+== XL. The Vine and its Branches.
 
 (John xv. 1-10.)
 

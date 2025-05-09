@@ -1,6 +1,8 @@
-= Writings Testify
-Writings_Testify
+= What the Writings Testify Concerning Themselves
+By Hugo Lj. Odhner
 include::../../template-attributes.adoc[]
+
+
 
 A Compilation of Teachings
 
@@ -17,9 +19,7 @@ Reprinted 1996
 
 Matthew 7:28, 29
 
-What the Writings Testify
-
-Concerning Themselves
+What the Writings Testify Concerning Themselves
 
 The following extracts from the theological Writings of Emanuel Swedenborg are mostly selections used by the late Rev. C. Th. Odhner in the pamphlet, "Swedenborg's Testimony concerning His Writings", which was published in 1902 and revised by a committee of three editors in 1920.
 
@@ -32,6 +32,10 @@ It is obvious that no selection of extracts can present the complete doctrine. T
 Hugo Lj. Odhner
 
 Bryn Athyn Pennsylvania December 1, 1960
+
+---
+<<<
+
 
 ". . . That the Lord manifested Himself before me, His servant, and sent me to this office, and that He afterwards opened the sight of my spirit, and so has introduced me into the spiritual world, and has granted me to behold the heavens and the hells and to converse with angels and spirits, and this now uninterruptedly for many years, I
 testify in truth; likewise, that from the first day of that call I have not received anything that pertains to the doctrines of the New Church from any angel, but from the Lord alone, while I read the Word."

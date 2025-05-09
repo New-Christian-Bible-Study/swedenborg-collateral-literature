@@ -1,5 +1,5 @@
 = Paracelsus
-H_Odhner
+By Hugo Lj. Odhner
 include::../../template-attributes.adoc[]
 
 By Hugo Lj. Odhner
