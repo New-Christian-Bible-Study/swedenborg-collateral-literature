@@ -180,7 +180,7 @@ The word ‘proceed,' however, simply means ‘come forth'; and. thus the Writin
 
 The finite arose by being produced or created. And the only cause of this ‘production' was the Divine. But the Divine must proceed in order to create!
 
-In order that we may understand this, we are allowed to distinguish between the Divine as Love and the Divine as Truth. Truth is the same as the law or the mode by which Love operates and the form by which it expresses itself. Love creates by means of truth, by proceeding as truth, or law. The Divine order or wisdom which is the essential law maintaining the universe, is therefore the Divine Logos - the Word which "was in the beginning with God, and which was God, and which made all things" (John i.1). And when the Psalmist says, "By the Word of the Lord were the heavens made: and all the host of them by the breath of His mouth," the meaning is the same as when the Writings state: "The Divine truth, proceeding from the Divine good, is the very Reality and the very essential itself in the universe; which makes and creates ..."[39] It is "the unique substantial, the derivations being nothing else but the successive forms thence resulting!" (AC 7004). From the truth proceeding from the Divine "are all the essences of things in both worlds, the spiritual and the natural";[40] it may even be said that the Divine truth proceeding "was afterwards formed successively into spheres" or descending atmospheres.[41]
+In order that we may understand this, we are allowed to distinguish between the Divine as Love and the Divine as Truth. Truth is the same as the law or the mode by which Love operates and the form by which it expresses itself. Love creates by means of truth, by proceeding as truth, or law. The Divine order or wisdom which is the essential law maintaining the universe, is therefore the Divine Logos - the Word which "was in the beginning with God, and which was God, and which made all things" (John i.1). And when the Psalmist says, "By the Word of the Lord were the heavens made: and all the host of them by the breath of His mouth," the meaning is the same as when the Writings state: "The Divine truth, proceeding from the Divine good, is the very Reality and the very essential itself in the universe; which makes and creates ..."[39] It is "the unique substantial, the derivations being nothing else but the successive forms thence resulting!" (@AC 7004). From the truth proceeding from the Divine "are all the essences of things in both worlds, the spiritual and the natural";[40] it may even be said that the Divine truth proceeding "was afterwards formed successively into spheres" or descending atmospheres.[41]
 
 The Divine truth standing forth and proceeding, is thus called, in the Apocalypse, "The Amen, the faithful and true witness, the beginning of the creation of God" (iii. 14). It is the beginning, i.e., the principle or law of creating. It gives substantiality to finite things. But it is not itself finite.
 
@@ -720,7 +720,7 @@ It is through human beings that uses ascend, through discrete degrees, and retur
 
 == Abbreviations
 
-All the paragraphs in Swedenborg's Writings are numbered.  The typical citation of the Writings, then, consists of the initials, from the list below, indicating the title, followed by the paragraph number.  Thus, for instance, AC 771 refers to Arcana Coelestia, paragraph 771.
+All the paragraphs in Swedenborg's Writings are numbered.  The typical citation of the Writings, then, consists of the initials, from the list below, indicating the title, followed by the paragraph number.  Thus, for instance, @AC 771 refers to Arcana Coelestia, paragraph 771.
 
 AC - Arcana Coelestia (1749-1756)
 AE - Apocalypse Explained AR - Apocalypse Revealed (1766)
@@ -754,17 +754,17 @@ Wis. - On the Divine Wisdom
 
 == Footnotes
 
-1 AC 6879
+1 @AC 6879
 
 1a. Many statements to this effect may be found in "The History of Creation according to Moses," in "The Word Explained," nos. 1-27, and in certain early tracts such as "The Motion and Position of the Earth and the Planets."
 
-2 AC 8891
+2 @AC 8891
 
 3 Div. Wis. xii. 2
 
-4 AC 3533e
+4 @AC 3533e
 
-5 DP 51, 48, AE 1130:3, 1131:2, TCR 29, 27 6TCR 31 8DLW 155 7TCR 30
+5 DP 51, 48, @AE 1130:3, 1131:2, TCR 29, 27 6TCR 31 8DLW 155 7TCR 30
 
 6 TCR 31
 
@@ -776,7 +776,7 @@ Wis. - On the Divine Wisdom
 
 10 DP 51
 
-11 TCR 31, CL 328, AC 3404:2, SD 3476, 3457, 3482, DLW 156, AE 23
+11 TCR 31, CL 328, @AC 3404:2, SD 3476, 3457, 3482, DLW 156, @AE 23
 
 12 DLW 28
 
@@ -806,7 +806,7 @@ Wis. - On the Divine Wisdom
 
 25 ISB 9
 
-26 AE 1207:3
+26 @AE 1207:3
 
 27 TCR 280:8
 
@@ -820,7 +820,7 @@ Wis. - On the Divine Wisdom
 
 32 DLW 97, EU 40
 
-33 AE 121, AR 938, 465
+33 @AE 121, @AR 938, 465
 
 34 DLW 152
 
@@ -828,13 +828,13 @@ Wis. - On the Divine Wisdom
 
 36 DLW 291
 
-37 Compare AE 726:4
+37 Compare @AE 726:4
 
 38 DP 219
 
-39 AC 5272
+39 @AC 5272
 
-40 AC 8200e
+40 @AC 8200e
 
 41 Ath. Cr. 191
 
@@ -842,17 +842,17 @@ Wis. - On the Divine Wisdom
 
 43 DLW 294
 
-44 DLW 290ff, AC 10130:2
+44 DLW 290ff, @AC 10130:2
 
 45 DLW 294
 
-46 AC 10130:2
+46 @AC 10130:2
 
 47 Canons, God, iv
 
-48 CLJ 38, DLW 89f, 164, 353e, AC 5079e, 5084:2, CL 415:3, 6, AE 1208:2, etc.
+48 CLJ 38, DLW 89f, 164, 353e, @AC 5079e, 5084:2, CL 415:3, 6, @AE 1208:2, etc.
 
-49 DLW 158, 175, AE 1209:3
+49 DLW 158, 175, @AE 1209:3
 
 50 DLW 157
 
@@ -866,7 +866,7 @@ Wis. - On the Divine Wisdom
 
 55 ISB 5
 
-56 DLW 155, 300:2, DP 6, AC 6232:3, SD 1713f
+56 DLW 155, 300:2, DP 6, @AC 6232:3, SD 1713f
 
 57 Compare TCR 20, LJ post. 263
 
@@ -878,33 +878,33 @@ Wis. - On the Divine Wisdom
 
 61 CL 220
 
-62 AR 31, DLW 53, SD min. 4609
+62 @AR 31, DLW 53, SD min. 4609
 
 63 Div. Wis. xii. 4:2
 
-64 AC 6232
+64 @AC 6232
 
-65 AC 1590e
+65 @AC 1590e
 
 66 DP 6
 
-67 AC 6232:3
+67 @AC 6232:3
 
-67a AC 3702|
+67a @AC 3702|
 
 68 DLW 155, DP
 
 69 Ath. Cr. 190, Div. Love, iii.
 
-70 AE 412:16; compare HH 120
+70 @AE 412:16; compare HH 120
 
-71 AC 7173
+71 @AC 7173
 
 72 TCR 365:2
 
-73 AC 7270
+73 @AC 7270
 
-74 Compare AC 8443
+74 Compare @AC 8443
 
 75 Schure, Pythagoras, London 1923, page 101; Ang. Id
 
@@ -912,19 +912,19 @@ Wis. - On the Divine Wisdom
 
 77 Ibid. 260. Note that this is a comparison or "correspondence," and does not identify the Spirit of God with the "celestial aura" of nature, which the Economy described as "inanimate." (Ibid. 199.)
 
-78 AE 726:ii.
+78 @AE 726:ii.
 
 79 DLW 299
 
-80 AC 9498f
+80 @AC 9498f
 
-81 AC 9534
+81 @AC 9534
 
-82 AC 9499
+82 @AC 9499
 
-83 AC 9502
+83 @AC 9502
 
-84 AE 726:ii
+84 @AE 726:ii
 
 85 Ath. Cr. 191
 
@@ -938,9 +938,9 @@ Wis. - On the Divine Wisdom
 
 90 TCR 76; compare LJ post. 313. The latter passage explains that the spiritual atmospheres, "properly speaking, are not three but six - three above the sun of the world and three below it. The three below the sun of the world follow the natural atmospheres constantly (jugiter) and enable a man in the world to think and feel.
 
-91 AE 1211:4, TCR 33, 76
+91 @AE 1211:4, TCR 33, 76
 
-92 AE 726:ii
+92 @AE 726:ii
 
 93 DLW 174
 
@@ -972,21 +972,21 @@ Wis. - On the Divine Wisdom
 
 107 DLW 302
 
-108 AE 1212:2
+108 @AE 1212:2
 
-109 AE 1211
+109 @AE 1211
 
 110 TCR 76
 
-111 AC 6055f, 5114:3, 5146:2, 6326, 3691
+111 @AC 6055f, 5114:3, 5146:2, 6326, 3691
 
 112 LJ post. 322
 
-113 AE 1196:2
+113 @AE 1196:2
 
-114 LJ 9, DLW 167, AE 1218:2, 3
+114 LJ 9, DLW 167, @AE 1218:2, 3
 
-115 AE 1207:4
+115 @AE 1207:4
 
 116 DLW 315, etc.
 
@@ -1014,13 +1014,13 @@ Wis. - On the Divine Wisdom
 
 128 DLW 157
 
-129 DLW 89, 90, 164, CL 415:3, AC 5084:2
+129 DLW 89, 90, 164, CL 415:3, @AC 5084:2
 
-130 DLW 158, 175, 353e, AE 1209:3
+130 DLW 158, 175, 353e, @AE 1209:3
 
 131 DLW 157
 
-132 CL 235:2, TCR 75, 44:2, AE 1206e, Div. Wis. xii. 1, DLW 93e, 166, 153;5 Mem. 17
+132 CL 235:2, TCR 75, 44:2, @AE 1206e, Div. Wis. xii. 1, DLW 93e, 166, 153;5 Mem. 17
 
 133 SD 2757
 
@@ -1030,7 +1030,7 @@ Wis. - On the Divine Wisdom
 
 136 DLW 157
 
-137 AE 1209e
+137 @AE 1209e
 
 138 DLW 302
 
@@ -1040,11 +1040,11 @@ Wis. - On the Divine Wisdom
 
 141 Div. Wis. viii. 2
 
-142 AE 1219:5
+142 @AE 1219:5
 
 143 Fragment from Codex 13, translated in Standard Edition of AE, vol. VI, p. 475.
 
-144 AE 1210e
+144 @AE 1210e
 
 145 TCR 280:8, CL 320, 328
 
@@ -1054,15 +1054,15 @@ Wis. - On the Divine Wisdom
 
 148 DLW 83, 84, 353, 90
 
-149 AE 1206:2
+149 @AE 1206:2
 
 150 DLW 306
 
 151 TCR 280:8
 
-152 AE 1218e
+152 @AE 1218e
 
-153 DLW 229, compare AC 5084:4, LJ post. 263
+153 DLW 229, compare @AC 5084:4, LJ post. 263
 
 154 ISB 17:2
 
@@ -1076,21 +1076,21 @@ Wis. - On the Divine Wisdom
 
 159 SD 2070
 
-160 AC 8911
+160 @AC 8911
 
-161 AC 3748e
+161 @AC 3748e
 
-162 AC 5173
+162 @AC 5173
 
-163 AC 5116:2
+163 @AC 5116:2
 
-164 AE 1206e
+164 @AE 1206e
 
 165 DLW 310
 
-166 AC 8911
+166 @AC 8911
 
-167 AC 8911. DLW 311. (Compare the Latin text and context.) DLW 218f, Coro. 30e, AE
+167 @AC 8911. DLW 311. (Compare the Latin text and context.) DLW 218f, Coro. 30e, AE
 
 1209:4, cp. WE 989
 
@@ -1104,9 +1104,9 @@ Wis. - On the Divine Wisdom
 
 172 TCR 35
 
-173 AE 726, ii
+173 @AE 726, ii
 
-174 TCR 32:8, 76, Coro. 17:2, LJ post. 312f, ISB 16:3, DLW 176, 191, 302; AE 726, ii; cp. SD 222, 418. In DLW 174 the atmospheres are described as "discreted substances and least forms" which singly receive the sun's heat and temper it.
+174 TCR 32:8, 76, Coro. 17:2, LJ post. 312f, ISB 16:3, DLW 176, 191, 302; @AE 726, ii; cp. SD 222, 418. In DLW 174 the atmospheres are described as "discreted substances and least forms" which singly receive the sun's heat and temper it.
 
 175 Coro. 17:2
 
@@ -1114,7 +1114,7 @@ Wis. - On the Divine Wisdom
 
 177 DLW 178
 
-178 AC 5084:3. Compare DLW 81, 82, LJ post. 265
+178 @AC 5084:3. Compare DLW 81, 82, LJ post. 265
 
 179 LJ post. 312
 
@@ -1122,15 +1122,15 @@ Wis. - On the Divine Wisdom
 
 181 DLW 302
 
-182 AE 1207:3, 1209:4
+182 @AE 1207:3, 1209:4
 
 183 DLW 178
 
-184 AE 1206:3. The relation of the natural atmospheres to the spiritual may be seen from DLW 175, TCR 76:3, LJ post. 313. Cp. CL 235.
+184 @AE 1206:3. The relation of the natural atmospheres to the spiritual may be seen from DLW 175, TCR 76:3, LJ post. 313. Cp. CL 235.
 
 185 Light and heat are said to be "uncreate," since they are only the activities or states of various receptive media such as atmospheres or other substances. See TCR 472, 40
 
-186 AE 1206:4
+186 @AE 1206:4
 
 187 DLW 184
 
@@ -1146,7 +1146,7 @@ Wis. - On the Divine Wisdom
 
 193 WLG 25, author's footnote.
 
-194 AE 1208
+194 @AE 1208
 
 195 LJ 9
 
@@ -1156,9 +1156,9 @@ Wis. - On the Divine Wisdom
 
 198 DLW 311
 
-199 AE 1206e, DP 12. Compare the statement that earthly things "are not changed except according to the laws of natural order." (LJ post. 313.)
+199 @AE 1206e, DP 12. Compare the statement that earthly things "are not changed except according to the laws of natural order." (LJ post. 313.)
 
-200 AE 1146:5
+200 @AE 1146:5
 
 201 TCR 35:8, DLW 88, 341
 
@@ -1170,13 +1170,13 @@ Wis. - On the Divine Wisdom
 
 205 DLW 65
 
-206 DLW 61, 62, AE 1208:5
+206 DLW 61, 62, @AE 1208:5
 
 207 DLW 310
 
 208 DLW 340
 
-209 AC 5173e, DLW 315, 344
+209 @AC 5173e, DLW 315, 344
 
 210 DLW 340, 344
 
@@ -1186,7 +1186,7 @@ Wis. - On the Divine Wisdom
 
 213 DLW 344
 
-214 AE 1210, 1209
+214 @AE 1210, 1209
 
 215 Ath. Cr. 26, 178
 
@@ -1194,13 +1194,13 @@ Wis. - On the Divine Wisdom
 
 217 DLW 310
 
-218 AC 4223, 4926
+218 @AC 4223, 4926
 
-219 AE 1210
+219 @AE 1210
 
-220 AE 1201
+220 @AE 1201
 
-221 AE 1210
+221 @AE 1210
 
 222 DLW 270
 
@@ -1210,7 +1210,7 @@ Wis. - On the Divine Wisdom
 
 225 DLW 346
 
-226 AE 1210-1212
+226 @AE 1210-1212
 
 227 TCR 78
 
@@ -1220,13 +1220,13 @@ Wis. - On the Divine Wisdom
 
 230 DP 6
 
-231 AE 1212
+231 @AE 1212
 
-232 AC 5114e
+232 @AC 5114e
 
-233 Confer AE 1212
+233 Confer @AE 1212
 
-234 AE 1208
+234 @AE 1208
 
 235 DLW 166
 
@@ -1234,13 +1234,13 @@ Wis. - On the Divine Wisdom
 
 237 Div. Wis. iii. 4:3
 
-238 AC 5114:5. Animal or plant souls are perpetuated as a species through the germ-plasm. But no surviving individual "limbus" is formed and retained, as with man. The life in their inmosts, which are natural, "relapses into nature." (See Div. Wis. viii. 2, 3, 4, 5.)
+238 @AC 5114:5. Animal or plant souls are perpetuated as a species through the germ-plasm. But no surviving individual "limbus" is formed and retained, as with man. The life in their inmosts, which are natural, "relapses into nature." (See Div. Wis. viii. 2, 3, 4, 5.)
 
 239 TCR 78
 
 240 DLW 345, 339, 343
 
-241 AC 9441
+241 @AC 9441
 
 242 DLW 170
 
@@ -1250,7 +1250,7 @@ Wis. - On the Divine Wisdom
 
 245 LJ 9
 
-246 AC 6057, TCR 71
+246 @AC 6057, TCR 71
 
 247 DLW 66
 
@@ -1262,19 +1262,19 @@ Wis. - On the Divine Wisdom
 
 251 Compare WE 643, 919
 
-252 AC 5689e
+252 @AC 5689e
 
-253 AC 10076
+253 @AC 10076
 
 254 ISB 12
 
-255 AC 4727
+255 @AC 4727
 
-256 AC 10125:2
+256 @AC 10125:2
 
 257 TCR 166
 
-258 WE 1457, AC 3633, DLW 388, 432
+258 WE 1457, @AC 3633, DLW 388, 432
 
 259 DLW 388
 
@@ -1300,11 +1300,11 @@ Wis. - On the Divine Wisdom
 
 271 ISB 8
 
-272 AC 1999:3, 4
+272 @AC 1999:3, 4
 
 273 Div. Wis. viii. 3
 
-274 SD 4083-4086, 4066, AC 4523, 3628275 AC 6013, 6057, 3702:2; cp. DLW 17
+274 SD 4083-4086, 4066, @AC 4523, 3628275 @AC 6013, 6057, 3702:2; cp. DLW 17
 
 276 SD 4063, etc.
 
@@ -1324,7 +1324,7 @@ Wis. - On the Divine Wisdom
 
 284 WLG 29-38
 
-285 AC 286, cp. SD 3390, TCR 466
+285 @AC 286, cp. SD 3390, TCR 466
 
 286 LJ 9, SD 5187, 5607ff
 
@@ -1348,11 +1348,11 @@ Wis. - On the Divine Wisdom
 
 296 DLW 321, 322
 
-297 AC 10130:2, 2489
+297 @AC 10130:2, 2489
 
-298 AE 65, 342:10
+298 @AE 65, 342:10
 
-299 AE 1211
+299 @AE 1211
 
 300 SD 4845
 
