@@ -3,8 +3,9 @@ Doctrinal Essays By Hugo Lj. Odhner
 include::../template-attributes.adoc[]
 
 ////
-Abbreviations, and Footnotes, could use some cleanup/integration
-and there are some 'list' issues
+Footnotes could use some cleanup/consideration
+
+
 ////
 
 Creation from H. Lj. Odhner,
@@ -50,8 +51,7 @@ It is for this reason that the New Church has been given not only a doctrine con
 
 The maturing mind is not satisfied with blind faith. It must see how and why; it clamors for the experiences of seeing for itself. The reflecting youth accepts the facts that there is this great arena of natural and physical things around him, and that there is also an inner world of realities - spiritual things, of which he is also partly conscious, because they enter into his own imagination and thought. It is quite normal that his Reason should wish to survey all the possibilities as to the origins of these two worlds, before he can feel sure of his own place in the universe. And with the penetrating teachings of the Writings as a cicerone, he can fearlessly embark on such a voyage of exploration. They guide him safely through seas of absurdities into calm waters and into the rich harbors of faith.
 
-The first assurance which the Writings give is that creation did occur. "It cannot be thought by anyone that the universe is from eternity, or that it is from nothing; and hence it cannot be denied that it was created, and by Some One ..."[3] "It cannot be thought!" Yet there are those who deny creation; who point to the much amended "law" that matter - or rather mass, or rather the energy of which mass is the measure - is indestructible, and thence conclude that neither could it be created. There are also ancient religions which are founded on the assumption that while God was eternal, Matter also was eternal - both co-existing, as a positive and a negative force, the respective origins of a dualism of good and evil; or, that God was not a Creator, but a Former, a Potter who shaped the co-eternal clay into a universe; or else, that matter existed from eternity as an undistinguished chaos of many mixed elements, which - for some reason -
-were then separated and joined with their affinities to form the world, and this either from a latent force of their own, or from the prompting of a Divine Spirit.
+The first assurance which the Writings give is that creation did occur. "It cannot be thought by anyone that the universe is from eternity, or that it is from nothing; and hence it cannot be denied that it was created, and by Some One ..."[3] "It cannot be thought!" Yet there are those who deny creation; who point to the much amended "law" that matter - or rather mass, or rather the energy of which mass is the measure - is indestructible, and thence conclude that neither could it be created. There are also ancient religions which are founded on the assumption that while God was eternal, Matter also was eternal - both co-existing, as a positive and a negative force, the respective origins of a dualism of good and evil; or, that God was not a Creator, but a Former, a Potter who shaped the co-eternal clay into a universe; or else, that matter existed from eternity as an undistinguished chaos of many mixed elements, which - for some reason - were then separated and joined with their affinities to form the world, and this either from a latent force of their own, or from the prompting of a Divine Spirit.
 
 But these are ideas - not completed thoughts. They evade the call of Reason which demands a cause for every effect. Imagination is not thought. The refusal to follow out the demands of the rational, and instead stop in the middle of a process of thought, is not thinking.
 
@@ -99,7 +99,7 @@ In his philosophical treatise on "The Infinite," Swedenborg addressed himself to
 
 If this means anything, it means that the mode by which the first entity of geometrical and mechanical nature was formed out of its eventual source in the Infinite, is not to be explained by either geometry or natural rational arguments, or any kind of mechanical concepts.
 
-When writing this, Swedenborg had not yet been introduced into the knowledge of the mediating world of causes which is the source of the creative "conatus." But a growing spiritual understanding of the media by which the Lord formed the first entity of nature, came to him as he was led by the Lord, through enlightenment from the Word and finally by his introduction into the spiritual world, to see that everything in the natural world has its cause in the spiritual. He then confessed that he had long meditated about creation, but in vain; but that after being admitted into the spiritual world he "perceived that it would be vain to conclude anything about the creation of the universe, unless it were first known that there are two worlds ..."[22] Certain general teachings are indeed prefatory: "In every thing created, the greatest as well as the least, there are three [things], end, cause, and effect ... In what is greatest, that is, in the universe, these three exist in the following order: in the Sun which is the first proceeding of Divine love and Divine wisdom, is the end of all things; in the spiritual world are the causes of all things; in the natural world are the effects of all things."[23] "Jehovah God, through the Sun in the midst of which He is, created the spiritual world; and through this, mediately, He created the natural world ."[24] "The origin and maintenance of spiritual things is from a Sun which is pure love ... but the origin and maintenance of natural things is from a sun which is pure fire. That the latter is from the former, and both from God, follows of itself, as the posterior follows from the prior, and the prior from the First."[25] "All things that exist in the world of nature, atmospheric, aqueous, or earthy, as to every particle thereof, are effects produced by the spiritual as a cause ..."26 "The natural draws its origin from the spiritual, and in its existence is nothing other than congeries congregated out of spiritual things."[27]
+When writing this, Swedenborg had not yet been introduced into the knowledge of the mediating world of causes which is the source of the creative "conatus." But a growing spiritual understanding of the media by which the Lord formed the first entity of nature, came to him as he was led by the Lord, through enlightenment from the Word and finally by his introduction into the spiritual world, to see that everything in the natural world has its cause in the spiritual. He then confessed that he had long meditated about creation, but in vain; but that after being admitted into the spiritual world he "perceived that it would be vain to conclude anything about the creation of the universe, unless it were first known that there are two worlds ..."[22] Certain general teachings are indeed prefatory: "In every thing created, the greatest as well as the least, there are three [things], end, cause, and effect ... In what is greatest, that is, in the universe, these three exist in the following order: in the Sun which is the first proceeding of Divine love and Divine wisdom, is the end of all things; in the spiritual world are the causes of all things; in the natural world are the effects of all things."[23] "Jehovah God, through the Sun in the midst of which He is, created the spiritual world; and through this, mediately, He created the natural world ."[24] "The origin and maintenance of spiritual things is from a Sun which is pure love ... but the origin and maintenance of natural things is from a sun which is pure fire. That the latter is from the former, and both from God, follows of itself, as the posterior follows from the prior, and the prior from the First."[25] "All things that exist in the world of nature, atmospheric, aqueous, or earthy, as to every particle thereof, are effects produced by the spiritual as a cause ..."[26] "The natural draws its origin from the spiritual, and in its existence is nothing other than congeries congregated out of spiritual things."[27]
 
 This conception of an intermediation by the spiritual world in the process of the creation of nature by God, does not (of itself) take away the problem of how to conceive of the first finition by which "God first finited His Infinity through substances emitted from Himself, from which stood forth His nearest compass, which makes the Sun of the spiritual world."[28] Neither does it explain how this spiritual world, by a process of further finition, gave origin to the substances of nature, which are of time and space, and thus in essence totally different. But it does show the order of creation, the complex character of the process. It demonstrates the true nature of the world, as a clothing of the substantial realities of the spiritual that wells forth from the bosom of the Divine Love.
 
@@ -109,19 +109,19 @@ The chapter on Creation in the True Christian Religion therefore lists some prer
 
 "No one can obtain for himself a just idea concerning the creation of the universe, unless some universal knowledges, previously acquired, put the understanding into a state of perception; which knowledges are the following:
 
-I. That there are two worlds, the spiritual world in which angels and spirits are, and the natural world, in which men are.
+I.{empty} That there are two worlds, the spiritual world in which angels and spirits are, and the natural world, in which men are.
 
-II. That in each world there is a sun, and that the Sun of the spiritual world is pure love from Jehovah God who is in the midst of it; and that from that Sun proceed heat and light; and that the heat thence proceeding is in its essence love, and that the light thence proceeding in its essence is wisdom, and that those two affect the will and understanding of man, the heat his will, and the light his understanding; but that the sun of the natural world is pure fire, and that therefore the heat thence is dead, as in like manner the light; and that they serve for clothing and support for spiritual heat and light, that they may pass to man.
+II.{empty} That in each world there is a sun, and that the Sun of the spiritual world is pure love from Jehovah God who is in the midst of it; and that from that Sun proceed heat and light; and that the heat thence proceeding is in its essence love, and that the light thence proceeding in its essence is wisdom, and that those two affect the will and understanding of man, the heat his will, and the light his understanding; but that the sun of the natural world is pure fire, and that therefore the heat thence is dead, as in like manner the light; and that they serve for clothing and support for spiritual heat and light, that they may pass to man.
 
-III. Then, that those two things which proceed from the Sun of the spiritual world, and thence all the things that exist there by means of them, are substantial, and are called spiritual; and that the two similar things which proceed from the sun of the natural world, and thence all the things which exist here by means of them, are material, and are called natural.
+III.{empty} Then, that those two things which proceed from the Sun of the spiritual world, and thence all the things that exist there by means of them, are substantial, and are called spiritual; and that the two similar things which proceed from the sun of the natural world, and thence all the things which exist here by means of them, are material, and are called natural.
 
-IV. That in each world there are three degrees, which are called degrees of altitude, and thence three regions, according to which the three angelic heavens are arranged, and according to which human minds are arranged, which thus correspond to the three angelic heavens; and that other things are arranged in like manner, both here and there.
+IV.{empty} That in each world there are three degrees, which are called degrees of altitude, and thence three regions, according to which the three angelic heavens are arranged, and according to which human minds are arranged, which thus correspond to the three angelic heavens; and that other things are arranged in like manner, both here and there.
 
-V. That there is a correspondence between those things which are in the spiritual world and those things which are in the natural world.
+V.{empty} That there is a correspondence between those things which are in the spiritual world and those things which are in the natural world.
 
-VI. That there is an order into which all and everything in both worlds was created.
+VI.{empty} That there is an order into which all and everything in both worlds was created.
 
-VII. That an idea concerning these things ought first of all to be obtained; and unless this be done, the human mind, from mere ignorance concerning them, may easily fall into the idea of the creation of the universe by nature, and say only from the authority of the church, that nature was created by God; but because it knows not how, if it inquires into it more interiorly, it falls headlong into naturalism, which denies God."[29]
+VII.{empty} That an idea concerning these things ought first of all to be obtained; and unless this be done, the human mind, from mere ignorance concerning them, may easily fall into the idea of the creation of the universe by nature, and say only from the authority of the church, that nature was created by God; but because it knows not how, if it inquires into it more interiorly, it falls headlong into naturalism, which denies God."[29]
 
 
 
@@ -721,32 +721,45 @@ It is through human beings that uses ascend, through discrete degrees, and retur
 == Abbreviations
 
 All the paragraphs in Swedenborg's Writings are numbered.  The typical citation of the Writings, then, consists of the initials, from the list below, indicating the title, followed by the paragraph number.  Thus, for instance, @AC 771 refers to Arcana Coelestia, paragraph 771.
-
+// abbreiations adjusted to the current set
+----
 AC - Arcana Coelestia (1749-1756)
-AE - Apocalypse Explained AR - Apocalypse Revealed (1766)
-Ath. - Athanasian Creed BE - Brief Exposition (1769)
-Can. - Canons Char. - Doctrine of Charity CL - Conjugial Love (1768)
-CLJ - Continuation of The Last Judgment (1763)
-Conv. Ang. - Conversations with Angels Coro. - Coronis to TCR De Conj. - On Marriage (posth.)
-De Ver. - The Word from Experience DLW - Divine Love and Wisdom (1763)
+AE - Apocalypse Explained
+AR - Apocalypse Revealed (1766)
+Ath. - Athanasian Creed
+BE - Brief Exposition (1769)
+CanonsNC - Canons
+Char. - Doctrine of Charity
+CL - Conjugial Love (1768)
+LJCont - Continuation of The Last Judgment (1763)
+Conv. Ang. - Conversations with Angels
+Coro - Coronis to @TCR
+De Conj. - On Marriage (posth.)
+De Ver. - The Word from Experience
+DLW - Divine Love and Wisdom (1763)
 Docu. - Tafel's "Documents"
 DP - Divine Providence (1764)
-Ecc. Hist. - Ecclestiastical History of the New Church EU - Earths -in the Universe (1758)
+Ecc. Hist. - Ecclestiastical History of the New Church
+EU - Earths -in the Universe (1758)
 F - Doctrine of Faith (1763)
-5 Mem. - Five Memorable Relations HD - New Jerusalem and Its Heavenly Doctrine (1758)
+5 Mem. - Five Memorable Relations
+HD - New Jerusalem and Its Heavenly Doctrine (1758)
 HH - Heaven and Hell (1758)
 ISB - Intercourse of Soul and Body (1769)
-Inv. - Invitation to the New Church LJ - The Last Judgment (1758)
-LJ post. - Last Judgment and the Spiritual World (posth.)
-Life - Doctrine of Life (1763)
-Lord - Doctrine of the Lord (1763)
-Love - On the Divine Love SD - The Spiritual Diary SD min. - The Spiritual Diary Minor SS - Doctrine of the Sacred Scripture (1763)
+Inv. - Invitation to the New Church
+LJ - The Last Judgment (1758)
+LJPost - Last Judgment and the Spiritual World (posth.)
+DLife - Doctrine of Life (1763)
+DLord - Doctrine of the Lord (1763)
+DLove - On the Divine Love
+SE - The Spiritual Diary
+Dmin - The Spiritual Diary Minor
+DSS - Doctrine of the Sacred Scripture (1763)
 TCR - The True Christian Religion (1771)
 WE - The Word Explained (Adversaria)
-
 WH - Concerning the "White Horse" (1758)
-Wis. - On the Divine Wisdom
-
+DWis - On the Divine Wisdom
+----
 
 
 ---
@@ -760,147 +773,147 @@ Wis. - On the Divine Wisdom
 
 2 @AC 8891
 
-3 Div. Wis. xii. 2
+3 @DWis xii. 2
 
 4 @AC 3533e
 
-5 DP 51, 48, @AE 1130:3, 1131:2, TCR 29, 27 6TCR 31 8DLW 155 7TCR 30
+5 @DP 51, 48, @AE 1130:3, 1131:2, @TCR 29, 27 6; @TCR 31 8; @DLW 155 7; @TCR 30
 
-6 TCR 31
+6 @TCR 31
 
-7 TCR 30
+7 @TCR 30
 
-8 DLW 155
+8 @DLW 155
 
-9 Div. Wis. xii
+9 @DWis xii
 
-10 DP 51
+10 @DP 51
 
-11 TCR 31, CL 328, @AC 3404:2, SD 3476, 3457, 3482, DLW 156, @AE 23
+11 @TCR 31, @CL 328, @AC 3404:2, @SE 3476, 3457, 3482, @DLW 156, @AE 23
 
-12 DLW 28
+12 @DLW 28
 
-13 DLW 18
+13 @DLW 18
 
-14 DLW 17
+14 @DLW 17
 
-16 TCR 43
+16 @TCR 43
 
-15 DLW 47
+15 @DLW 47
 
-17 DLW 49
+17 @DLW 49
 
-18 DLW 52, 53
+18 @DLW 52, 53
 
-19 DLW 283, 55
+19 @DLW 283, 55
 
-20 DLW 283
+20 @DLW 283
 
 21 "The Infinite and the Final Cause of Creation," Part One, concluding sentences. Wilkinson's translation (1847), pages 88-89.
 
-22 TCR 76
+22 @TCR 76
 
-23 DLW 154
+23 @DLW 154
 
 24 Canons, God, iv. 7
 
-25 ISB 9
+25 @ISB 9
 
 26 @AE 1207:3
 
-27 TCR 280:8
+27 @TCR 280:8
 
-28 TCR 33
+28 @TCR 33
 
-29 TCR 75
+29 @TCR 75
 
-30 Div. Wis. xii. e
+30 @DWis xii. e
 
 31 Ibid.
 
-32 DLW 97, EU 40
+32 @DLW 97, @EU 40
 
 33 @AE 121, @AR 938, 465
 
-34 DLW 152
+34 @DLW 152
 
-35 TCR 33:2, DP 5, 6
+35 @TCR 33:2, @DP 5, 6
 
-36 DLW 291
+36 @DLW 291
 
 37 Compare @AE 726:4
 
-38 DP 219
+38 @DP 219
 
 39 @AC 5272
 
 40 @AC 8200e
 
-41 Ath. Cr. 191
+41 @Ath 191
 
-42 TCR 29
+42 @TCR 29
 
-43 DLW 294
+43 @DLW 294
 
-44 DLW 290ff, @AC 10130:2
+44 @DLW 290ff, @AC 10130:2
 
-45 DLW 294
+45 @DLW 294
 
 46 @AC 10130:2
 
 47 Canons, God, iv
 
-48 CLJ 38, DLW 89f, 164, 353e, @AC 5079e, 5084:2, CL 415:3, 6, @AE 1208:2, etc.
+48 @LJCont 38, @DLW 89f, 164, 353e, @AC 5079e, 5084:2, @CL 415:3, 6, @AE 1208:2, etc.
 
-49 DLW 158, 175, @AE 1209:3
+49 @DLW 158, 175, @AE 1209:3
 
-50 DLW 157
+50 @DLW 157
 
-51 DLW 300
+51 @DLW 300
 
-52 DP 6
+52 @DP 6
 
-53 Div. Wis. xii. 3:2
+53 @DWis xii. 3:2
 
-54 TCR 35:11
+54 @TCR 35:11
 
-55 ISB 5
+55 @ISB 5
 
-56 DLW 155, 300:2, DP 6, @AC 6232:3, SD 1713f
+56 @DLW 155, 300:2, @DP 6, @AC 6232:3, @SE 1713f
 
-57 Compare TCR 20, LJ post. 263
+57 Compare @TCR 20, @LJPost 263
 
-58 DP 6
+58 @DP 6
 
-59 SD 3484
+59 @SE 3484
 
-60 DLW 155, 300
+60 @DLW 155, 300
 
-61 CL 220
+61 @CL 220
 
-62 @AR 31, DLW 53, SD min. 4609
+62 @AR 31, @DLW 53, @SE min. 4609
 
-63 Div. Wis. xii. 4:2
+63 @DWis xii. 4:2
 
 64 @AC 6232
 
 65 @AC 1590e
 
-66 DP 6
+66 @DP 6
 
 67 @AC 6232:3
 
 67a @AC 3702|
 
-68 DLW 155, DP
+68 @DLW 155, @DP
 
-69 Ath. Cr. 190, Div. Love, iii.
+69 @Ath 190, @DLove iii.
 
-70 @AE 412:16; compare HH 120
+70 @AE 412:16; compare @HH 120
 
 71 @AC 7173
 
-72 TCR 365:2
+72 @TCR 365:2
 
 73 @AC 7270
 
@@ -914,7 +927,7 @@ Wis. - On the Divine Wisdom
 
 78 @AE 726:ii.
 
-79 DLW 299
+79 @DLW 299
 
 80 @AC 9498f
 
@@ -926,119 +939,119 @@ Wis. - On the Divine Wisdom
 
 84 @AE 726:ii
 
-85 Ath. Cr. 191
+85 @Ath 191
 
-86 TCR 76
+86 @TCR 76
 
-87 TCR 33
+87 @TCR 33
 
-88 TCR 76
+88 @TCR 76
 
 89 For the full text, see the Standard Edition of "Apocalypse Explained," vol. vi, pp. 473-475.
 
-90 TCR 76; compare LJ post. 313. The latter passage explains that the spiritual atmospheres, "properly speaking, are not three but six - three above the sun of the world and three below it. The three below the sun of the world follow the natural atmospheres constantly (jugiter) and enable a man in the world to think and feel.
+90 @TCR 76; compare @LJPost 313. The latter passage explains that the spiritual atmospheres, "properly speaking, are not three but six - three above the sun of the world and three below it. The three below the sun of the world follow the natural atmospheres constantly (jugiter) and enable a man in the world to think and feel.
 
-91 @AE 1211:4, TCR 33, 76
+91 @AE 1211:4, @TCR 33, 76
 
 92 @AE 726:ii
 
-93 DLW 174
+93 @DLW 174
 
-94 CL 220
+94 @CL 220
 
-95 DLW 257, DP 319, 279
+95 @DLW 257, @DP 319, 279
 
-96 TCR 470
+96 @TCR 470
 
-97 Div. Wis. xii. 5
+97 @DWis xii. 5
 
-98 SD 4293
+98 @SE 4293
 
-99 Coro. 17:2, LJ post. 313, DLW 175
+99 @Coro17:2, @LJPost 313, @DLW 175
 
-100 Div. Wis. xii. 5
+100 @DWis xii. 5
 
 101 Ang. Idea of Creation.
 
-102 TCR 32:8
+102 @TCR 32:8
 
-103 TCR 76
+103 @TCR 76
 
-104 Coro. 17:2
+104 @Coro 17:2
 
-105 DLW 176
+105 @DLW 176
 
-106 Div. Wis. xii. 5:2
+106 @DWis xii. 5:2
 
-107 DLW 302
+107 @DLW 302
 
 108 @AE 1212:2
 
 109 @AE 1211
 
-110 TCR 76
+110 @TCR 76
 
 111 @AC 6055f, 5114:3, 5146:2, 6326, 3691
 
-112 LJ post. 322
+112 @LJPost 322
 
 113 @AE 1196:2
 
-114 LJ 9, DLW 167, @AE 1218:2, 3
+114 @LJ 9, @DLW 167, @AE 1218:2, 3
 
 115 @AE 1207:4
 
-116 DLW 315, etc.
+116 @DLW 315, etc.
 
-117 DLW 156
+117 @DLW 156
 
-118 Div. Wis. viii. 3
+118 @DWis viii. 3
 
-119 Coro . 19
+119 @Coro 19
 
-120 DLW 154
+120 @DLW 154
 
-121 TCR 31, 29
+121 @TCR 31, 29
 
-122 TCR 76
+122 @TCR 76
 
-123 HH 106, 107
+123 @HH 106, 107
 
-124 TCR 35:8
+124 @TCR 35:8
 
-125 DLW 164
+125 @DLW 164
 
-126 ISB 9
+126 @ISB 9
 
-127 CL 380:12
+127 @CL 380:12
 
-128 DLW 157
+128 @DLW 157
 
-129 DLW 89, 90, 164, CL 415:3, @AC 5084:2
+129 @DLW 89, 90, 164, @CL 415:3, @AC 5084:2
 
-130 DLW 158, 175, 353e, @AE 1209:3
+130 @DLW 158, 175, 353e, @AE 1209:3
 
-131 DLW 157
+131 @DLW 157
 
-132 CL 235:2, TCR 75, 44:2, @AE 1206e, Div. Wis. xii. 1, DLW 93e, 166, 153;5 Mem. 17
+132 @CL 235:2, @TCR 75, 44:2, @AE 1206e, @DWis xii. 1, @DLW 93e, 166, 153;5 Mem. 17
 
-133 SD 2757
+133 @SE 2757
 
-134 DLW 158, 175, CL 320
+134 @DLW 158, 175, @CL 320
 
-135 LJ post. 313
+135 @LJPost 313
 
-136 DLW 157
+136 @DLW 157
 
 137 @AE 1209e
 
-138 DLW 302
+138 @DLW 302
 
-139 Div. Wis. viii. 2
+139 @DWis viii. 2
 
-140 CL 311:2
+140 @CL 311:2
 
-141 Div. Wis. viii. 2
+141 @DWis viii. 2
 
 142 @AE 1219:5
 
@@ -1046,35 +1059,35 @@ Wis. - On the Divine Wisdom
 
 144 @AE 1210e
 
-145 TCR 280:8, CL 320, 328
+145 @TCR 280:8, @CL 320, 328
 
-146 TCR 79
+146 @TCR 79
 
-147 CL 320
+147 @CL 320
 
-148 DLW 83, 84, 353, 90
+148 @DLW 83, 84, 353, 90
 
 149 @AE 1206:2
 
-150 DLW 306
+150 @DLW 306
 
-151 TCR 280:8
+151 @TCR 280:8
 
 152 @AE 1218e
 
-153 DLW 229, compare @AC 5084:4, LJ post. 263
+153 @DLW 229, compare @AC 5084:4, @LJPost 263
 
-154 ISB 17:2
+154 @ISB 17:2
 
-157 CL 329
+157 @CL 329
 
-155 DP 6
+155 @DP 6
 
-158 TCR 20
+158 @TCR 20
 
-156 DP 6
+156 @DP 6
 
-159 SD 2070
+159 @SE 2070
 
 160 @AC 8911
 
@@ -1086,59 +1099,59 @@ Wis. - On the Divine Wisdom
 
 164 @AE 1206e
 
-165 DLW 310
+165 @DLW 310
 
 166 @AC 8911
 
-167 @AC 8911. DLW 311. (Compare the Latin text and context.) DLW 218f, Coro. 30e, AE
+167 @AC 8911. @DLW 311. (Compare the Latin text and context.) @DLW 218f, @Coro 30e, AE
 
 1209:4, cp. WE 989
 
-168 DLW 163, cp. 83
+168 @DLW 163, cp. 83
 
-169 DLW 164
+169 @DLW 164
 
-170 DLW 164, 165
+170 @DLW 164, 165
 
-171 DLW 166
+171 @DLW 166
 
-172 TCR 35
+172 @TCR 35
 
 173 @AE 726, ii
 
-174 TCR 32:8, 76, Coro. 17:2, LJ post. 312f, ISB 16:3, DLW 176, 191, 302; @AE 726, ii; cp. SD 222, 418. In DLW 174 the atmospheres are described as "discreted substances and least forms" which singly receive the sun's heat and temper it.
+174 @TCR 32:8, 76, @Coro 17:2; @LJPost 312f, @ISB 16:3, @DLW 176, 191, 302; @AE 726, ii; cp. @SE 222, 418. In @DLW 174 the atmospheres are described as "discreted substances and least forms" which singly receive the sun's heat and temper it.
 
-175 Coro. 17:2
+175 @Coro 17:2
 
-176 DLW 173
+176 @DLW 173
 
-177 DLW 178
+177 @DLW 178
 
-178 @AC 5084:3. Compare DLW 81, 82, LJ post. 265
+178 @AC 5084:3. Compare @DLW 81, 82, @LJPost 265
 
-179 LJ post. 312
+179 @LJPost 312
 
-180 TCR 32:8
+180 @TCR 32:8
 
-181 DLW 302
+181 @DLW 302
 
 182 @AE 1207:3, 1209:4
 
-183 DLW 178
+183 @DLW 178
 
-184 @AE 1206:3. The relation of the natural atmospheres to the spiritual may be seen from DLW 175, TCR 76:3, LJ post. 313. Cp. CL 235.
+184 @AE 1206:3. The relation of the natural atmospheres to the spiritual may be seen from @DLW 175, @TCR 76:3, @LJPost 313. Cp. @CL 235.
 
-185 Light and heat are said to be "uncreate," since they are only the activities or states of various receptive media such as atmospheres or other substances. See TCR 472, 40
+185 Light and heat are said to be "uncreate," since they are only the activities or states of various receptive media such as atmospheres or other substances. See @TCR 472, 40
 
 186 @AE 1206:4
 
-187 DLW 184
+187 @DLW 184
 
-188 TCR 76
+188 @TCR 76
 
 189 Written about 1729, but never published by the author.
 
-190 TCR 75e
+190 @TCR 75e
 
 191 WLG 15
 
@@ -1148,51 +1161,51 @@ Wis. - On the Divine Wisdom
 
 194 @AE 1208
 
-195 LJ 9
+195 @LJ 9
 
-196 DLW 310, 330
+196 @DLW 310, 330
 
-197 DLW 172
+197 @DLW 172
 
-198 DLW 311
+198 @DLW 311
 
-199 @AE 1206e, DP 12. Compare the statement that earthly things "are not changed except according to the laws of natural order." (LJ post. 313.)
+199 @AE 1206e, @DP 12. Compare the statement that earthly things "are not changed except according to the laws of natural order." (@LJPost 313.)
 
 200 @AE 1146:5
 
-201 TCR 35:8, DLW 88, 341
+201 @TCR 35:8, @DLW 88, 341
 
-202 DLW 310
+202 @DLW 310
 
 203 This makes regeneration possible, in that natural affections can be dominated by a spiritual and rational end, and eventually be altered in quality.
 
-204 DLW 312
+204 @DLW 312
 
-205 DLW 65
+205 @DLW 65
 
-206 DLW 61, 62, @AE 1208:5
+206 @DLW 61, 62, @AE 1208:5
 
-207 DLW 310
+207 @DLW 310
 
-208 DLW 340
+208 @DLW 340
 
-209 @AC 5173e, DLW 315, 344
+209 @AC 5173e, @DLW 315, 344
 
-210 DLW 340, 344
+210 @DLW 340, 344
 
-211 Div. Wis. viii. 3
+211 @DWis viii. 3
 
-212 DLW 343
+212 @DLW 343
 
-213 DLW 344
+213 @DLW 344
 
 214 @AE 1210, 1209
 
-215 Ath. Cr. 26, 178
+215 @Ath 26, 178
 
-216 TCR 470, 499, DLW 310
+216 @TCR 470, 499, @DLW 310
 
-217 DLW 310
+217 @DLW 310
 
 218 @AC 4223, 4926
 
@@ -1202,23 +1215,23 @@ Wis. - On the Divine Wisdom
 
 221 @AE 1210
 
-222 DLW 270
+222 @DLW 270
 
-223 DLW 257
+223 @DLW 257
 
-224 LJ post. 313
+224 @LJPost 313
 
-225 DLW 346
+225 @DLW 346
 
 226 @AE 1210-1212
 
-227 TCR 78
+227 @TCR 78
 
-228 Div. Love, viii
+228 @DLove viii
 
-229 Div. Love, viii, DLW 327
+229 @DLove viii, @DLW 327
 
-230 DP 6
+230 @DP 6
 
 231 @AE 1212
 
@@ -1228,37 +1241,37 @@ Wis. - On the Divine Wisdom
 
 234 @AE 1208
 
-235 DLW 166
+235 @DLW 166
 
-236 Div. Wis. ii. 4
+236 @DWis ii. 4
 
-237 Div. Wis. iii. 4:3
+237 @DWis iii. 4:3
 
-238 @AC 5114:5. Animal or plant souls are perpetuated as a species through the germ-plasm. But no surviving individual "limbus" is formed and retained, as with man. The life in their inmosts, which are natural, "relapses into nature." (See Div. Wis. viii. 2, 3, 4, 5.)
+238 @AC 5114:5. Animal or plant souls are perpetuated as a species through the germ-plasm. But no surviving individual "limbus" is formed and retained, as with man. The life in their inmosts, which are natural, "relapses into nature." (See @DWis viii. 2, 3, 4, 5.)
 
-239 TCR 78
+239 @TCR 78
 
-240 DLW 345, 339, 343
+240 @DLW 345, 339, 343
 
 241 @AC 9441
 
-242 DLW 170
+242 @DLW 170
 
-243 DLW 327
+243 @DLW 327
 
-244 Div. Wis. xiii. 4
+244 @DWis xiii. 4
 
-245 LJ 9
+245 @LJ 9
 
-246 @AC 6057, TCR 71
+246 @AC 6057, @TCR 71
 
-247 DLW 66
+247 @DLW 66
 
-248 DLW 65, 66, 346
+248 @DLW 65, 66, 346
 
-249 DLW 65. The term "animal" was sometimes used by Swedenborg to denote a being with a soul (anima). Thus his studies in human physiology and psychology which he undertook in search of the soul's operations in the body, were entitled "The Animal Kingdom," more properly translated as "The Soul's Kingdom."
+249 @DLW 65. The term "animal" was sometimes used by Swedenborg to denote a being with a soul (anima). Thus his studies in human physiology and psychology which he undertook in search of the soul's operations in the body, were entitled "The Animal Kingdom," more properly translated as "The Soul's Kingdom."
 
-250 DLW 270
+250 @DLW 270
 
 251 Compare WE 643, 919
 
@@ -1266,87 +1279,87 @@ Wis. - On the Divine Wisdom
 
 253 @AC 10076
 
-254 ISB 12
+254 @ISB 12
 
 255 @AC 4727
 
 256 @AC 10125:2
 
-257 TCR 166
+257 @TCR 166
 
-258 WE 1457, @AC 3633, DLW 388, 432
+258 @WE 1457, @AC 3633, @DLW 388, 432
 
-259 DLW 388
+259 @DLW 388
 
-260 DLW 374
+260 @DLW 374
 
-261 TCR 695
+261 @TCR 695
 
-262 TCR 470, 103 263CL 315:11
+262 @TCR 470, 103 263; @CL 315:11
 
-264 Inv. 13, 48, CL 178, Div. Wis. vii. 2, 4
+264 @Inv 13, 48, @CL 178, @DWis vii. 2, 4
 
-265 CL 220
+265 @CL 220
 
-266 CL 172
+266 @CL 172
 
-267 DLW 236, 239; compare 67, 245
+267 @DLW 236, 239; compare 67, 245
 
-268 DLW 239, 432
+268 @DLW 239, 432
 
-269 SD 4627:3, cp. 5548
+269 @SE 4627:3, cp. 5548
 
-270 HH 39, 435, LJ 25:5, 6
+270 @HH 39, 435, @LJ 25:5, 6
 
-271 ISB 8
+271 @ISB 8
 
 272 @AC 1999:3, 4
 
-273 Div. Wis. viii. 3
+273 @DWis viii. 3
 
-274 SD 4083-4086, 4066, @AC 4523, 3628275 @AC 6013, 6057, 3702:2; cp. DLW 17
+274 @SE 4083-4086, 4066, @AC 4523, 3628275 @AC 6013, 6057, 3702:2; cp. @DLW 17
 
-276 SD 4063, etc.
+276 @SE 4063, etc.
 
-277 Ath. Cr. 26, 178
+277 @Ath 26, 178
 
-278 SD 3148, 1708ff
+278 @SE 3148, 1708ff
 
-279 SD 4064, 4065
+279 @SE 4064, 4065
 
-280 SD 1708ff
+280 @SE 1708ff
 
-281 SD 3972
+281 @SE 3972
 
-282 SD 2591
+282 @SE 2591
 
 283 He defends this idea in his manuscript on "The History of Creation as given by Moses," written in October the same year, 1745. (See Hist. Cr. 14, 21.)
 
 284 WLG 29-38
 
-285 @AC 286, cp. SD 3390, TCR 466
+285 @AC 286, cp. @SE 3390, @TCR 466
 
-286 LJ 9, SD 5187, 5607ff
+286 @LJ 9, @SE 5187, 5607ff
 
-287 TCR 583
+287 @TCR 583
 
-288 SD 2794
+288 @SE 2794
 
-289 TCR 103, DLW 257, Div. Wis. viii. 5, DP 220:2, 3
+289 @TCR 103, @DLW 257, @DWis viii. 5, @DP 220:2, 3
 
-290 TCR 583
+290 @TCR 583
 
-291 Div. Wis. viii. 4
+291 @DWis viii. 4
 
-292 HH 463
+292 @HH 463
 
-293 SD 5092
+293 @SE 5092
 
-294 SD 4293
+294 @SE 4293
 
-295 DLW 163
+295 @DLW 163
 
-296 DLW 321, 322
+296 @DLW 321, 322
 
 297 @AC 10130:2, 2489
 
@@ -1354,8 +1367,8 @@ Wis. - On the Divine Wisdom
 
 299 @AE 1211
 
-300 SD 4845
+300 @SE 4845
 
-301 DP 202, 203
+301 @DP 202, 203
 
 
