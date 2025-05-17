@@ -1,6 +1,4 @@
-= Book of Daniel
-By Willard H. Hinkley
-include::../template-attributes.adoc[]
+= Book of Daniel By Willard H. Hinkley include::../template-attributes.adoc[]
 
 // the original PDF is already linked into the sidebar
 
@@ -139,38 +137,17 @@ Exceptions are the Latin titles "Dicta Probantia" (Dict. P.), the "Coronis," and
 
 All the references have been taken from the Index of Le Boys Des Guays.
 
-//Table
-NOTE: Table from page 10 not integrated yet.
+//Table NOTE: Table from page 10 not integrated yet.
 
 ---
 <<<
 
 == Chapter I. Daniel In Babylon
 
-1. In the third year of the reign of Jehoiakim king of Judah came Nebuchadnezzar king of Babylon unto Jerusalem, and besieged it.
-2.  And the Lord gave Jehoiakim king of Judah into his hand, with part of the vessels of the house of God: which he carried into the land of Shinar to the house of his god; and he brought the vessels into the treasure house of his god.
-3.  And the king spake unto Ashpenaz the master of his eunuchs, that he should bring certain of the children of Israel, and of the king's seed, and of the princes;
-4.  Children in whom was no blemish, but well favoured, and skilful in all wisdom, and cunning in knowledge, and understanding science, and such as had ability in them to stand in the king's palace, and whom they might teach the learning and the tongue of the Chaldeans.
-5.  And the king appointed them a daily provision of the king's meat, and of the wine which he drank: so nourishing them three years, that at the end thereof they might stand before the king.
-6.  Now among these were of the children of Judah, Daniel, Hananiah, Mishael, and Azariah:
-7.  Unto whom the prince of the eunuchs gave names: for he gave unto Daniel the name of Belteshazzar; and to Hananiah, of Shadrach; and to Mishael, of Meshach; and to Azariah, of Abednego.
-8.  But Daniel purposed in his heart that he would not defile himself with the portion of the king's meat, nor with the wine which he drank: therefore he requested of the prince of the eunuchs that he might not defile himself.
-9.  Now God had brought Daniel into favour and tender love with the prince of the eunuchs.
-10.  And the prince of the eunuchs said unto Daniel, I fear my lord the king, who hath appointed your meat and your drink: for why should he see your faces worse liking than the children which are of your sort? then shall ye make me endanger my head to the king.
-11.  Then said Daniel to Melzar, whom the prince of the eunuchs had set over Daniel, Hananiah, Mishael, and Azariah,
-12.  Prove thy servants, I beseech thee, ten days; and let them give us pulse to eat, and water to drink.
-13.  Then let our countenances be looked upon before thee, and the countenance of the children that eat of the portion of the king's meat: and as thou seest, deal with thy servants.
-14.  So he consented to them in this matter, and proved them ten days.
-15.  And at the end of ten days their countenances appeared fairer and fatter in flesh than all the children which did eat the portion of the king's meat.
-16.  Thus Melzar took away the portion of their meat, and the wine that they should drink; and gave them pulse.
-17.  As for these four children, God gave them knowledge and skill in all learning and wisdom: and Daniel had understanding in all visions and dreams.
-18.  Now at the end of the days that the king had said he should bring them in, then the prince of the eunuchs brought them in before Nebuchadnezzar.
-19.  And the king communed with them; and among them all was found none like Daniel, Hananiah, Mishael, and Azariah: therefore stood they before the king.
-20.  And in all matters of wisdom and understanding, that the king enquired of them, he found them ten times better than all the magicians and astrologers that were in all his realm.
-21.  And Daniel continued even unto the first year of king Cyrus.
+1. In the third year of the reign of Jehoiakim king of Judah came Nebuchadnezzar king of Babylon unto Jerusalem, and besieged it. 2.  And the Lord gave Jehoiakim king of Judah into his hand, with part of the vessels of the house of God: which he carried into the land of Shinar to the house of his god; and he brought the vessels into the treasure house of his god. 3.  And the king spake unto Ashpenaz the master of his eunuchs, that he should bring certain of the children of Israel, and of the king's seed, and of the princes; 4.  Children in whom was no blemish, but well favoured, and skilful in all wisdom, and cunning in knowledge, and understanding science, and such as had ability in them to stand in the king's palace, and whom they might teach the learning and the tongue of the Chaldeans. 5.  And the king appointed them a daily provision of the king's meat, and of the wine which he drank: so nourishing them three years, that at the end thereof they might stand before the king. 6.  Now among these were of the children of Judah, Daniel, Hananiah, Mishael, and Azariah:
+7.  Unto whom the prince of the eunuchs gave names: for he gave unto Daniel the name of Belteshazzar; and to Hananiah, of Shadrach; and to Mishael, of Meshach; and to Azariah, of Abednego. 8.  But Daniel purposed in his heart that he would not defile himself with the portion of the king's meat, nor with the wine which he drank: therefore he requested of the prince of the eunuchs that he might not defile himself. 9.  Now God had brought Daniel into favour and tender love with the prince of the eunuchs. 10.  And the prince of the eunuchs said unto Daniel, I fear my lord the king, who hath appointed your meat and your drink: for why should he see your faces worse liking than the children which are of your sort? then shall ye make me endanger my head to the king. 11.  Then said Daniel to Melzar, whom the prince of the eunuchs had set over Daniel, Hananiah, Mishael, and Azariah, 12.  Prove thy servants, I beseech thee, ten days; and let them give us pulse to eat, and water to drink. 13.  Then let our countenances be looked upon before thee, and the countenance of the children that eat of the portion of the king's meat: and as thou seest, deal with thy servants. 14.  So he consented to them in this matter, and proved them ten days. 15.  And at the end of ten days their countenances appeared fairer and fatter in flesh than all the children which did eat the portion of the king's meat. 16.  Thus Melzar took away the portion of their meat, and the wine that they should drink; and gave them pulse. 17.  As for these four children, God gave them knowledge and skill in all learning and wisdom: and Daniel had understanding in all visions and dreams. 18.  Now at the end of the days that the king had said he should bring them in, then the prince of the eunuchs brought them in before Nebuchadnezzar. 19.  And the king communed with them; and among them all was found none like Daniel, Hananiah, Mishael, and Azariah: therefore stood they before the king. 20.  And in all matters of wisdom and understanding, that the king enquired of them, he found them ten times better than all the magicians and astrologers that were in all his realm. 21.  And Daniel continued even unto the first year of king Cyrus.
 
-//Table
-NOTE: Table from page 11 not incorporated yet
+//Table NOTE: Table from page 11 not incorporated yet
 
 === Commentary: Daniel In Babylon
 
@@ -356,8 +333,7 @@ The life of Daniel in Babylon, with the other captive Jews, represents the state
 49.  Then Daniel requested of the king, and he set Shadrach, Meshach, and Abednego, over the affairs of the province of Babylon: but Daniel sat in the gate of the king.
 
 
-//Table
-NOTE: Table from page 18 not incorporated yet
+//Table NOTE: Table from page 18 not incorporated yet
 
 
 
@@ -486,8 +462,7 @@ We are not to understand that the Divine homage paid to Daniel by Nebuchadnezzar
 
 30.  Then the king promoted Shadrach, Meshach, and Abednego, in the province of Babylon.
 
-//Table
-NOTE: Table from page --- not incorporated yet
+//Table NOTE: Table from page --- not incorporated yet
 
 
 === Commentary: The Image of Gold and the Fiery Furnace.
@@ -611,8 +586,7 @@ In conclusion we submit the caution to adhere to the mode of interpretation give
 
 37.  Now I Nebuchadnezzar praise and extol and honour the King of heaven, all whose works are truth, and his ways judgment: and those that walk in pride he is able to abase.
 
-//Table
-NOTE: Table on pages 31-32 not yet integrated.
+//Table NOTE: Table on pages 31-32 not yet integrated.
 
 
 === Commentary: Nebuchadnezzar's Second Dream.
@@ -726,8 +700,7 @@ The Word of the Lord is interpreted in one way by the good, and in the opposite 
 
 31.  And Darius the Median took the kingdom, being about threescore and two years old.
 
-//Table
-NOTE: Table from page --- not incorporated yet
+//Table NOTE: Table from page --- not incorporated yet
 
 
 === Commentary: Belshazzar's Feast.
@@ -866,8 +839,7 @@ It is worthy of note that the thirty-first or concluding verse of the fifth chap
 28.  So this Daniel prospered in the reign of Darius, and in the reign of Cyrus the Persian.
 
 
-//Table
-NOTE: Table from page --- not incorporated yet
+//Table NOTE: Table from page --- not incorporated yet
 
 
 === Commentary: Daniel in the Lion's Den
@@ -980,8 +952,7 @@ Let us now briefly consider this narrative in relation to man's regeneration. Da
 28.  Hitherto is the end of the matter. As for me Daniel, my cogitations much troubled me, and my countenance changed in me: but I kept the matter in my heart.
 
 
-//Table
-NOTE: Table from page --- not incorporated yet
+//Table NOTE: Table from page --- not incorporated yet
 
 
 === COMMENTARY: Daniel's Vision of the Four Beasts and the Ancient of Days.
@@ -1052,9 +1023,7 @@ By a horn is signified the power of truth from good, and, in the opposite sense,
 
 In this little horn there were "eyes like the eyes of man, and a mouth speaking great things."
 
-With what power and eloquence have the great leaders of the church among the clergy proclaimed the doctrine that the power of the Lord to forgive sins has been granted to them.
-This doctrine has assumed many forms. Not only in the Papal dominion has it been taught.
-Wherever men have been taught to believe that there is any power to save in merely human beings, the Lord has been blasphemed and the church has come to an end. Because this state prevailed at the end of the church the Lord came again to manifest His power and glory and to save men from this great evil.
+With what power and eloquence have the great leaders of the church among the clergy proclaimed the doctrine that the power of the Lord to forgive sins has been granted to them. This doctrine has assumed many forms. Not only in the Papal dominion has it been taught. Wherever men have been taught to believe that there is any power to save in merely human beings, the Lord has been blasphemed and the church has come to an end. Because this state prevailed at the end of the church the Lord came again to manifest His power and glory and to save men from this great evil.
 
 The vision which Daniel had of the Ancient of days is descriptive of the Lord in His Second Coming. It is similar to the vision of John. (Revelation 1:14.) By the coming of the Lord in the spirit and power of His Word, a judgement was effected. This is meant by the thrones having been cast down. The Lord as Divine Truth occupied the seat of power, instead of those who claimed power for themselves. "His throne was like the fiery flame and His wheels as a burning fire." This signifies that the Divine Truth proceeds from the Divine Love, which is like a consuming fire. Thus in the appearance of the "Son of Man" we have the Divine Truth represented by the whiteness of His garments and of His hair, and the Divine Love represented by the red and fiery flame.
 
@@ -1141,8 +1110,7 @@ In reading these wonderful visions, doubts may arise in our minds, and we may be
 27.  And I Daniel fainted, and was sick certain days; afterward I rose up, and did the king's business; and I was astonished at the vision, but none understood it.
 
 
-//Table
-NOTE: Table from page --- not incorporated yet
+//Table NOTE: Table from page --- not incorporated yet
 
 
 === COMMENTARY: The Ram and the He-Goat
@@ -1158,8 +1126,7 @@ The wars or combats mentioned in the Word signify spiritual conflicts or combats
 
 The ram, the male of the sheep, corresponds, in this vision, to the principle of faith united with charity, springing from a state of innocence, and it represents the Church in this state; while the horns denote the power of truth derived from good. The Lord compared His faithful followers to sheep. "I know My sheep and am known of Mine." "My sheep hear My voice and follow Me."
 
-Faith is the spiritual principle of the Church. It is formed by means of truths derived from the Word and a life in obedience to them. Any one who has observed the habits of sheep may see how beautifully they symbolize the trusting and confiding followers of the Lord.
-Obedience, docility, patience, and trusting confidence are their marked traits. The true followers of the Lord who really constitute His Church possess spiritual, qualities to which these natural traits correspond. We are led to believe from the history of the Church that the early Christians were of this character. The faith of the Church was pure so long as men believed in the Lord, loved Him, and obeyed Him. They forsook all and followed Him. The spiritual principle of faith, then, and those who have this principle in them, arc symbolized by the ram with two horns seen by Daniel in vision.
+Faith is the spiritual principle of the Church. It is formed by means of truths derived from the Word and a life in obedience to them. Any one who has observed the habits of sheep may see how beautifully they symbolize the trusting and confiding followers of the Lord. Obedience, docility, patience, and trusting confidence are their marked traits. The true followers of the Lord who really constitute His Church possess spiritual, qualities to which these natural traits correspond. We are led to believe from the history of the Church that the early Christians were of this character. The faith of the Church was pure so long as men believed in the Lord, loved Him, and obeyed Him. They forsook all and followed Him. The spiritual principle of faith, then, and those who have this principle in them, arc symbolized by the ram with two horns seen by Daniel in vision.
 
 All power is in good which manifests itself in and by the truth; or it is in truth derived from good. (@AC 10182.)
 
@@ -1167,8 +1134,7 @@ These are the two horns of the ram, one somewhat higher than the other. It is wr
 
 I saw the ram pushing westward, and northward, and southward, so that no beast might stand before him; neither were there any that could deliver out of his hand; but he did according to his will and magnified himself. (Ver. 4.)
 
-There is no doubt that the power of a genuine faith in the Lord increased and overcame many evils, from the time of the Lord's coming until the end of the first three centuries of the Christian era. No other power could stand against it. It pushed its way in different directions.
-The Christian Church, while it retained a pure faith in the Lord, continued to grow and flourish, extending from Asia into parts of Europe and Africa. But it is well known that Christianity declined and lost its pure faith in the Lord.
+There is no doubt that the power of a genuine faith in the Lord increased and overcame many evils, from the time of the Lord's coming until the end of the first three centuries of the Christian era. No other power could stand against it. It pushed its way in different directions. The Christian Church, while it retained a pure faith in the Lord, continued to grow and flourish, extending from Asia into parts of Europe and Africa. But it is well known that Christianity declined and lost its pure faith in the Lord.
 
 The decline of the Church is always due to the loss of charity and the exaltation of faith above it. This is foreshadowed in what is said in the following verses:
 
@@ -1184,8 +1150,7 @@ Now it is wonderful how this doctrine of salvation by faith alone has prevailed 
 
 And I saw him come close to the ram, and he was moved with choler against him and smote the ram, and break his two horns; and there was no power in the ram to stand before him, but he cast him down to the ground, and trampled upon him: and there was none that could deliver the ram out of his hand. (Ver. 7.)
 
-There is no power in man to overcome falsity when it becomes deep-rooted and powerful.
-The Reformers were unable to overcome the power of Rome, and the Roman Church was unable to remove the false doctrine of salvation by faith alone. This dogma was broken into pieces by the very zeal and fury of those who advocated it; and out of this monstrous error many others sprang up at the end of the Christian Church. We read:
+There is no power in man to overcome falsity when it becomes deep-rooted and powerful. The Reformers were unable to overcome the power of Rome, and the Roman Church was unable to remove the false doctrine of salvation by faith alone. This dogma was broken into pieces by the very zeal and fury of those who advocated it; and out of this monstrous error many others sprang up at the end of the Christian Church. We read:
 
  And the he-goat magnified himself exceedingly: and when he was strong the great horn was broken; and instead of it came up four notable horns, towards the four winds of heaven. And out of one of them came forth a little horn which waxed exceeding great, toward the south, and toward the east, and toward the glorious land. And it waxed great even to the host of heaven; and it cast down some of the host and of the stars to the ground, and trampled upon them. (Ver. 8-10.)
 
@@ -1213,15 +1178,13 @@ As the man first spoken of represents the Lord, Gabriel represents a heavenly so
 
 The judgement is represented by the cleansing of the sanctuary. Daniel, as he stands by the River Ulai, seeking to understand the vision, represents those who are capable of being taught and instructed by the Lord.
 
-In reality the vision and its explanation are one; that is, they contain the same spiritual ideas.
-By the appearance of the "man" is meant the appearance of the Lord, to reveal the truths of heaven from the Word. The river is the stream of truth which is contained in the Word, and the man's voice is the Spirit of the Lord speaking from it and making known the state of the church.
+In reality the vision and its explanation are one; that is, they contain the same spiritual ideas. By the appearance of the "man" is meant the appearance of the Lord, to reveal the truths of heaven from the Word. The river is the stream of truth which is contained in the Word, and the man's voice is the Spirit of the Lord speaking from it and making known the state of the church.
 
 Daniel was actually brought into communication with a heavenly society, and received something of its light or knowledge. The appearance of the angel of the Lord threw him at first into a state of fear, and he fell upon his face. Man in his natural state of life is unable to endure the appearance of angels. This is shown in other places in the Word. So Daniel not only fell upon his face, but fell into a deep sleep, which represents the state of the natural man. At the time of the Lord's Second Coming and the revelation of the spiritual meaning of the Word, the whole Christian world was in a state of mere naturalism. It required a new manifestation to awaken the world from this slumber.
 
 Daniel, as a prophet, represents those to whom the Lord reveals Himself at His Second Coming, who having received the light become the means of communicating it to others. The angel touched Daniel and he stood upright.
 
-Then follows what seems to be an explanation of the vision of the ram and the he-goat; but the explanation is clothed in figurative language equally with the vision. It is very plain that they require to be explained together, as the dream of Nebuchadnezzar and its interpretation.
-We are not to understand that the whole of this wonderful vision has a limited application to earthly kingdoms which have long since passed away. A king represents some true or false principle, and a kingdom the government of that principle in the human mind. "The ram," it is said, "which you saw that had the two horns, they are the Kings of Media and Persia. And the rough he-goat is the King of Greece." This double analogy is used for the sake of bringing the spiritual meaning into a lower natural form of representation. The representative forms of the ram and the he-goat were appearances in the spiritual world; but the kingdoms of Media and Persia and of Greece were earthly kingdoms in which the spiritual principles represented by the ram and the he-goat were somewhat exhibited. But it is not to these kingdoms that the higher prophetic meaning refers. This was revealed for our "instruction in righteousness," to make known the state of the church, and not the facts of secular history. It would be very, difficult to show how the Medo-Persian and Grecian kingdoms fulfilled the words of this prophecy. In fact, it is impossible. And what shall we say of the four kingdoms that shall stand up out of the nations, and of that "king of fierce countenance and understanding dark sentences," which stands for the "little horn," which we have seen denotes the false doctrine of justification by faith alone, which is full of dark mysteries. It is written in verse 26:
+Then follows what seems to be an explanation of the vision of the ram and the he-goat; but the explanation is clothed in figurative language equally with the vision. It is very plain that they require to be explained together, as the dream of Nebuchadnezzar and its interpretation. We are not to understand that the whole of this wonderful vision has a limited application to earthly kingdoms which have long since passed away. A king represents some true or false principle, and a kingdom the government of that principle in the human mind. "The ram," it is said, "which you saw that had the two horns, they are the Kings of Media and Persia. And the rough he-goat is the King of Greece." This double analogy is used for the sake of bringing the spiritual meaning into a lower natural form of representation. The representative forms of the ram and the he-goat were appearances in the spiritual world; but the kingdoms of Media and Persia and of Greece were earthly kingdoms in which the spiritual principles represented by the ram and the he-goat were somewhat exhibited. But it is not to these kingdoms that the higher prophetic meaning refers. This was revealed for our "instruction in righteousness," to make known the state of the church, and not the facts of secular history. It would be very, difficult to show how the Medo-Persian and Grecian kingdoms fulfilled the words of this prophecy. In fact, it is impossible. And what shall we say of the four kingdoms that shall stand up out of the nations, and of that "king of fierce countenance and understanding dark sentences," which stands for the "little horn," which we have seen denotes the false doctrine of justification by faith alone, which is full of dark mysteries. It is written in verse 26:
 
  And the vision of the evenings and mornings which has been told is true: but shut you up the vision; for it belongs to many days to come.
 
@@ -1297,8 +1260,7 @@ And the glory of the Lord shall be revealed, and all flesh shall see it together
 27.  And he shall confirm the covenant with many for one week: and in the midst of the week he shall cause the sacrifice and the oblation to cease, and for the overspreading of abominations he shall make it desolate, even until the consummation, and that determined shall be poured upon the desolate.
 
 
-//Table
-NOTE: Table from page --- not incorporated yet
+//Table NOTE: Table from page --- not incorporated yet
 
 
 === COMMENTARY: Daniel's Prayer and the Divine Answer.
@@ -1330,8 +1292,7 @@ Seventy years denotes a full period of profane worship, the vastation of the chu
 
 Now the words "three score and two weeks" cannot be correctly applied to the time intervening between the restoration or rebuilding of Jerusalem and its Temple under the decree of Cyrus, and the coming of Messiah, who was the Lord, on earth, If we suppose, as some commentators have done, that the word "weeks," in this passage, means weeks of years or four hundred and thirty-four years, we are still in difficulty.
 
-It may be asked if we interpret the numbers in one passage with reference to natural time, as the seventy years of captivity in Babylon, why not in the other passages? Ought not the rule of interpretation to be uniform? The answer will now be given. The seventy years of captivity had an actual and literal fulfillment in the history of the Jewish Church and people.
-The captivity lasted that period, and the end of it was near at hand when Daniel referred to Jeremiah's prophecy. This period was also representative of the complete state of profane worship in which the Jewish Church had sunk. The numbers seven and seventy in a good sense denote what is holy, and in the opposite sense what is profane. But this prophecy of
+It may be asked if we interpret the numbers in one passage with reference to natural time, as the seventy years of captivity in Babylon, why not in the other passages? Ought not the rule of interpretation to be uniform? The answer will now be given. The seventy years of captivity had an actual and literal fulfillment in the history of the Jewish Church and people. The captivity lasted that period, and the end of it was near at hand when Daniel referred to Jeremiah's prophecy. This period was also representative of the complete state of profane worship in which the Jewish Church had sunk. The numbers seven and seventy in a good sense denote what is holy, and in the opposite sense what is profane. But this prophecy of
 
 Daniel extended beyond the period of the captivity, not only to the coming of Messiah or the Lord at the end of the Jewish Church, when all the Jewish representatives ceased, but even to the Second Coming of the Lord and the consummation of the first Christian Church. Indeed in its universal spiritual meaning, it refers to the desolation that comes upon every member of the church when he is carried away into captivity by the love of dominion, which originates in the love of self. The Lord then judges his life as He judges the evil state of the whole church in every age.
 
@@ -1381,8 +1342,7 @@ The remaining verses, from the twenty-fourth to the twenty-seventh, we have alre
 
 This is the conclusion of the Divine message given to Daniel by the angel. It is a prophecy of the end of the church when "iniquity shall abound and the love of many shall wax cold."
 
-It is often supposed by Protestants that the period of the Reformation was the beginning of a new era in the Christian Church. So it was. But this era did not restore the primitive faith in the Lord Jesus Christ nor bring peace and harmony into the world. It prevented the further increase of the Papal Dominion and opened the Bible in some lands to the common people.
-The Word, however, was not understood, false doctrines were drawn from it, and the Dragon cast a flood of waters over the earth. This short period of comparative purity and agreement with the truth was ended in the middle of the eighteenth century. This is predicted in these words: "And He shall make a firm covenant with many for one week." This is foretold also in the Apocalypse where the Roman Catholic and Reformed Churches are treated of with respect to their faith and worship. "For the half of the week," or "in the midst of the week,"
+It is often supposed by Protestants that the period of the Reformation was the beginning of a new era in the Christian Church. So it was. But this era did not restore the primitive faith in the Lord Jesus Christ nor bring peace and harmony into the world. It prevented the further increase of the Papal Dominion and opened the Bible in some lands to the common people. The Word, however, was not understood, false doctrines were drawn from it, and the Dragon cast a flood of waters over the earth. This short period of comparative purity and agreement with the truth was ended in the middle of the eighteenth century. This is predicted in these words: "And He shall make a firm covenant with many for one week." This is foretold also in the Apocalypse where the Roman Catholic and Reformed Churches are treated of with respect to their faith and worship. "For the half of the week," or "in the midst of the week,"
 we are told, here in Daniel, "He shall cause the sacrifice and oblation to cease;" that is, the genuine worship of the Lord as the God of heaven and earth from true faith in Him and genuine love to Him came to an end. Lastly, it is written, "and for the overspreading of abominations, He shall make it desolate, even until the consummation, and that determined, wrath shall be poured upon the desolate."
 
 In the Revised Version the "overspreading of abominations" is translated the "wing of abomination." Swedenborg translates it according to Schmidius, "upon the bird of abominations." The idea is that by mere reasonings and intellectual flights the men of the Reformed Churches brought in the doctrine of salvation by faith alone. This is the bird of abomination which brought desolation upon the church.
@@ -1442,8 +1402,7 @@ four:
 21.  But I will shew thee that which is noted in the scripture of truth: and there is none that holdeth with me in these things, but Michael your prince.
 
 
-//Table
-NOTE: Table from page --- not incorporated yet
+//Table NOTE: Table from page --- not incorporated yet
 
 
 === COMMENTARY: The Vision by the River Hiddekel — A Man Clothed in Linen.
@@ -1457,8 +1416,7 @@ The chapter opens with this statement:
 Daniel is again called by the name that was given to him at first by the prince of the eunuchs
 (chap i.).
 
-The vision now recorded is said to have been given in the third year of Cyrus, King of Persia.
-Cyrus was the deliverer of the Jewish people. He was a great conqueror, first overcoming the Kingdom of Media, and uniting it with that of Persia, and then subduing and bringing under his dominion several other nations of Eastern Asia, including Babylonia, and at the same time breaking up the old religious customs. Nearly all Asia was thus subdued. Afterwards his son Cambyses conquered Egypt, which then became tributary to Persia, so that the latter became the most powerful kingdom of the East. There is much obscurity about the origin and history of Cyrus, but no doubt of the main facts above stated. In his character of deliverer of the Jewish people from their captivity to Babylon, he represents the Lord. The return from the captivity was not only permitted by him, but commanded by an edict. (See Ezra 1:1-4.)
+The vision now recorded is said to have been given in the third year of Cyrus, King of Persia. Cyrus was the deliverer of the Jewish people. He was a great conqueror, first overcoming the Kingdom of Media, and uniting it with that of Persia, and then subduing and bringing under his dominion several other nations of Eastern Asia, including Babylonia, and at the same time breaking up the old religious customs. Nearly all Asia was thus subdued. Afterwards his son Cambyses conquered Egypt, which then became tributary to Persia, so that the latter became the most powerful kingdom of the East. There is much obscurity about the origin and history of Cyrus, but no doubt of the main facts above stated. In his character of deliverer of the Jewish people from their captivity to Babylon, he represents the Lord. The return from the captivity was not only permitted by him, but commanded by an edict. (See Ezra 1:1-4.)
 This was done as some have supposed in recognition of the services rendered to him by the Jews, and also that Palestine might serve to protect his territory on the West. The Jews hailed him as their deliverer when he entered Babylon.
 
 The return of the Jews to Jerusalem was carried out by Zerubbabel and Joshua, the son of Josedech.
@@ -1485,10 +1443,8 @@ Daniel said:
 We are at once struck with the similarity of this vision to that of John, recorded in the Book of Revelation. This has no doubt been noticed by every attentive reader of the Holy Scriptures. It is commented upon by Swedenborg as follows:
 
  That it was the Lord who was thus seen by Daniel, plainly appears from the Revelation, where He was manifested before John in a manner nearly similar, concerning which it is said:
-"And in the midst of the seven candlesticks, one like the Son of Man, clothed with a garment down to the foot, and girt about the paps with a golden girdle. His head and His hairs were white like wool, as white as snow; and His eyes were as a flame of fire. And His feet like to fine brass, as if they burned in a furnace." (Revelation 1:13-15.) And again: "These things says the Son of God, who has His eyes like a flame of fire, and His feet are like fine brass." (Revelation
-2:18.) From the similarity of the description of the Son of Man seen by John in the midst of the seven candlesticks, and of the man clothed in linen, likewise of the Ancient of days seen by Daniel, it is evident that it was the Lord whom they both saw. His face being seen as lightning and His eyes as a flame of fire, signify, the Divine love of the Lord; for the face with man is a representative image of the affection of his love, and especially so are the eyes, for from them the love shines forth, whence they sparkle as it were from fire. (@AE 504.)
-Now as to the nature of this manifestation it must be understood that the Lord does not appear to men or angels in His own Divine glory, but in a form accommodated to their state.
-He appeared before His incarnation, generally, in the form of an angel whose own individuality was laid aside, while he was filled with the Divine Presence, so that the angel himself knew not, for the time being, that he was not the Lord. (See @AC 97.) Although it is expressly said by Swedenborg that it was the Lord who appeared to Daniel, it must be understood, we think, that the man clothed in linen was an angelic appearance, according to the general teaching in the writings of the New Church. In the common version we read,
+"And in the midst of the seven candlesticks, one like the Son of Man, clothed with a garment down to the foot, and girt about the paps with a golden girdle. His head and His hairs were white like wool, as white as snow; and His eyes were as a flame of fire. And His feet like to fine brass, as if they burned in a furnace." (Revelation 1:13-15.) And again: "These things says the Son of God, who has His eyes like a flame of fire, and His feet are like fine brass." (Revelation 2:18.) From the similarity of the description of the Son of Man seen by John in the midst of the seven candlesticks, and of the man clothed in linen, likewise of the Ancient of days seen by Daniel, it is evident that it was the Lord whom they both saw. His face being seen as lightning and His eyes as a flame of fire, signify, the Divine love of the Lord; for the face with man is a representative image of the affection of his love, and especially so are the eyes, for from them the love shines forth, whence they sparkle as it were from fire. (@AE 504.)
+Now as to the nature of this manifestation it must be understood that the Lord does not appear to men or angels in His own Divine glory, but in a form accommodated to their state. He appeared before His incarnation, generally, in the form of an angel whose own individuality was laid aside, while he was filled with the Divine Presence, so that the angel himself knew not, for the time being, that he was not the Lord. (See @AC 97.) Although it is expressly said by Swedenborg that it was the Lord who appeared to Daniel, it must be understood, we think, that the man clothed in linen was an angelic appearance, according to the general teaching in the writings of the New Church. In the common version we read,
 "His body was like the beryl," but literally it is "like Tarshish," which is the country from which the shining gem called the beryl, supposed to be the chrysolite of the ancients and the topaz of the moderns, was obtained. The appearance of the man clothed in fine linen must be taken to represent the Lord as the Word, in which he manifests His glory at His Second Coming. The linen, as the Lord's clothing, denotes the Divine Truth with which He is forever arrayed. The Lord is to be thought of objectively, but also as to His essence and quality, especially as to His Divine Love and Wisdom. These, as they are manifested to our human thought, are denoted by the wonderful appearances spoken of. The gold of Uphaz or Ophir with which His loins were girded, His body like the beryl, His face having the appearance of lightning, His eyes as lamps of fire, and His arms and feet like in color to polished brass —
 all these are significative of the good of the Divine Love, which is manifested in the Truth, revealing His glory.
 
@@ -1500,8 +1456,7 @@ The polished brass which shines brightly from the arms and feet is significative
 
 Daniel says that he alone saw the vision. Others did not see it because their spiritual sight was not opened. Who those were who were with him we do not know. It is probable that as Daniel was now advanced in age he did not go about without attendants. These men who were with him were affected, however, by this spiritual presence, so that they quaked and fled to hide themselves. Daniel himself was so affected by the "great vision" that there was left no strength in him. Then, when he heard the words spoken to him, he had fallen into a sleep with his face toward the ground. We have only to refer to the account of the Transfiguration to find a parallel to this scene. The effect of the near presence of an angel is to produce fear and trembling. Instances in the Old Testament are familiar. The spiritual idea is that when the Lord comes to reveal the light of Divine truth, the effect is to produce a state of fear on account of the evil in the world. With the good, however, this is only temporary, for the Lord imparts strength to those who love Him. While man is in a merely natural state, he is filled with fear at every manifestation which comes to him from the spiritual world, but as soon as the spiritual degree of his mind is opened he passes out of sleep, he awakes to righteousness, and is touched by the influence of the Divine Love.
 
-The Christian world was in the stupor of naturalism when the truths of the New Dispensation were revealed. Swedenborg was struck with terror at first at the wonderful things that were revealed to him, but he was raised to a state of spiritual illumination in which he was kept under the Divine guidance. It is hardly correct to say that the Jewish prophet represents the Swedish seer, but there is an analogy here. Every servant of the Lord, who, like Daniel, has kept the Lord's testimonies, is raised from the sleep of naturalism and is strengthened by the touch of the Divine spirit, so that he can hear the Divine voice calling to His beloved to stand upon his feet. It was told Daniel by the Lord when He thus appeared to him that He had been with him from the first day that he had set his heart to understand and to chasten himself.
-The Lord is always present with every one who is in the effort to know His will and do it, but He does not reveal Himself fully to the man of the Church, or to the Church as a whole, until there has been a full period of vastation and humiliation. Without the effort to learn the truth, and without sincere humiliation of the heart before the Lord when evil is made known, there can be no spiritual elevation. Daniel had prayed many times to the Lord, he had desired light in the darkness, and now the Lord answered his words. As a prophet, Daniel represents at one time the Lord, as when he interpreted the dream of Nebuchadnezzar, but now he represents the man of the Church to whom the Divine Truth is revealed. All the prophets sustained this double representation, standing as representatives of the Lord when they taught and prophesied, and representing the state of the Church when they were in suffering and humiliation. Moses also in the Word has a similar duality of representation. And, indeed, the Lord Himself passed through two distinct states, one of humiliation on the human side of His life in which He "bore the sins of many," and one of Divine glory in which He revealed the will of the Father and was "mighty to save." In verse 13 we read:
+The Christian world was in the stupor of naturalism when the truths of the New Dispensation were revealed. Swedenborg was struck with terror at first at the wonderful things that were revealed to him, but he was raised to a state of spiritual illumination in which he was kept under the Divine guidance. It is hardly correct to say that the Jewish prophet represents the Swedish seer, but there is an analogy here. Every servant of the Lord, who, like Daniel, has kept the Lord's testimonies, is raised from the sleep of naturalism and is strengthened by the touch of the Divine spirit, so that he can hear the Divine voice calling to His beloved to stand upon his feet. It was told Daniel by the Lord when He thus appeared to him that He had been with him from the first day that he had set his heart to understand and to chasten himself. The Lord is always present with every one who is in the effort to know His will and do it, but He does not reveal Himself fully to the man of the Church, or to the Church as a whole, until there has been a full period of vastation and humiliation. Without the effort to learn the truth, and without sincere humiliation of the heart before the Lord when evil is made known, there can be no spiritual elevation. Daniel had prayed many times to the Lord, he had desired light in the darkness, and now the Lord answered his words. As a prophet, Daniel represents at one time the Lord, as when he interpreted the dream of Nebuchadnezzar, but now he represents the man of the Church to whom the Divine Truth is revealed. All the prophets sustained this double representation, standing as representatives of the Lord when they taught and prophesied, and representing the state of the Church when they were in suffering and humiliation. Moses also in the Word has a similar duality of representation. And, indeed, the Lord Himself passed through two distinct states, one of humiliation on the human side of His life in which He "bore the sins of many," and one of Divine glory in which He revealed the will of the Father and was "mighty to save." In verse 13 we read:
 
  But the prince of the kingdom of Persia withstood me one and twenty days: but lo, Michael, one of the chief princes, came to help me; and I remained there with the Kings of Persia.
 
@@ -1613,8 +1568,7 @@ The last verse of this chapter contains a promise of the New Revelation, and the
 
 45.  And he shall plant the tabernacles of his palace between the seas in the glorious holy mountain; yet he shall come to his end, and none shall help him.
 
-//Table
-NOTE: Table from page --- not incorporated yet
+//Table NOTE: Table from page --- not incorporated yet
 
 
 === COMMENTARY: The King of the North And The King of the South.
@@ -1628,8 +1582,7 @@ If it seem to us that history and prophecy and even heavenly imagery are strange
 
 Divinely inspired and full of instruction in heavenly things. "The sum of Your Word is the truth and every one of Your righteous judgements endures forever." (PS. 119:160.)
 
-From verse one to four of this chapter the old dispensation, that is the Jewish Church which preceded the Christian, is again alluded to and its final destruction is predicted. We have already read of the end of the Jewish Dispensation, but prophecy is repeated in the Word. In the Word all the changing states of the churches are represented from beginning to end. The Jewish Church remained after the Christian Church began, that is, its dark shadow overhung like a cloud the spiritual horizon; just as at this clay, the influence of the old dogmas still lingers in the Christian world and prevents a rapid spread of the light of the New Church.
-The Lord said: "This generation shall not pass away until all these things be fulfilled." The old Jewish spirit of mere obedience to the letter of the law and the idea of human authority in the Church, remains until the new generation begins, the generation of a new spirit and a new life.
+From verse one to four of this chapter the old dispensation, that is the Jewish Church which preceded the Christian, is again alluded to and its final destruction is predicted. We have already read of the end of the Jewish Dispensation, but prophecy is repeated in the Word. In the Word all the changing states of the churches are represented from beginning to end. The Jewish Church remained after the Christian Church began, that is, its dark shadow overhung like a cloud the spiritual horizon; just as at this clay, the influence of the old dogmas still lingers in the Christian world and prevents a rapid spread of the light of the New Church. The Lord said: "This generation shall not pass away until all these things be fulfilled." The old Jewish spirit of mere obedience to the letter of the law and the idea of human authority in the Church, remains until the new generation begins, the generation of a new spirit and a new life.
 
 The kings of Persia represent, as before, the dominion of false principles in the mind, while Grecia denotes those who are in Gentile states and have some remaining good in them. The fourth king is said to be richer than all — which denotes an increase of false ideas which finally become united with evil, then a "mighty king shall stand up." But "his kingdom shall be broken" and "divided towards the four winds of heaven." (Verses 2-4.) As the influence of Christianity prevailed the old dominion passed away, and the Jewish Church ceased to be a ruling power in the world. Thus it may be seen that although the Jewish Church came to an end as a Divine institution when the Christian Church began and the Lord executed His judgement upon the former church, yet its influence in the world lasted for some time afterwards. Even now, at the Lord's Second Coming, the Jewish spirit still lingers in the human mind, although the Jewish Church itself, has long ago ceased to fulfill the purpose of its original institution.
 
@@ -1639,8 +1592,7 @@ There are two principles of the Church that ought to be united, namely, faith an
 
  And at the end of years they shall join themselves together; for the daughter of the king of the south shall come to the king of the north to make an agreement: but she shall not retain the strength of her arm; neither shall he stand nor his arm; but she shall be given up and they that brought her, and he that begat her, and he that strengthened her in those times. (Ver. 6.)
 
-Here the "daughter of the king of the south" denotes the affection of truth remaining in the Church which seeks to be united with faith in the Lord. This affection, however, is now spoken of as degenerated; that is, it denotes the affection of truth which seeks to be joined to the idea that salvation is effected by a belief in the Lord without the works of charity. "At the end of years" refers to that state of the Christian Church when charity fell away or degenerated and the members of the Church fell into the idea of faith alone and embraced it in preference to the original doctrine taught by the Lord that charity is the essential principle.
-Although there were a few who still clung to this primitive doctrine of Christianity, yet they had little power and were obliged to give up or yield to the hard teaching that faith alone is saving.
+Here the "daughter of the king of the south" denotes the affection of truth remaining in the Church which seeks to be united with faith in the Lord. This affection, however, is now spoken of as degenerated; that is, it denotes the affection of truth which seeks to be joined to the idea that salvation is effected by a belief in the Lord without the works of charity. "At the end of years" refers to that state of the Christian Church when charity fell away or degenerated and the members of the Church fell into the idea of faith alone and embraced it in preference to the original doctrine taught by the Lord that charity is the essential principle. Although there were a few who still clung to this primitive doctrine of Christianity, yet they had little power and were obliged to give up or yield to the hard teaching that faith alone is saving.
 
 From verse seven to twelve, we are instructed as to the uprising again of those who, in subsequent generations, still tried to resist and overcome the falsity of salvation by faith alone. Charity was never in fact finally extinguished; John tarried until the Lord came. All along in different parts of the Christian world, as history shows, there was a remaining love of good, which could not yield to the prevalent idea that man had no other duty than to profess a belief in Christ as an intercessor with the Father and to observe the external rites of the Church. But there were many forms of solifidianism which became so hard and strong as to resist all the gentle teachings of the Saviour of men. These two ideas could not exist together; they were antagonistic to each other and they not only produced a strife of tongues, but physical warfare and bloodshed. It was in vain that the faithful gathered their army, or that they brought the truths of the Word to overcome the false teachings of man. Reading again in the prophecy (verse 13) we learn that the "king of the north shall return and shall set forth a multitude greater than the former, and he shall come on at the end of the times even of years with a great army and with much substance." From this verse to the sixteenth we have a description of how the doctrine of faith alone as saving, prevails over its opposite and brings all into submission to it. In the seventeenth verse we read:
 
@@ -1651,8 +1603,7 @@ From this verse to the twenty-third inclusive, the prophecy treats of the change
 
 We are taught that those passages of the Word by which it may be confirmed that charity is the essential principle were wrongly explained, and thus the faith which is derived from charity was destroyed, and a deceitful appearance of a heavenly union took the place of the true marriage of faith and love. (Verses 24-28; see Summary Exposition.) These continual combats between true and false ideas in the mind are little thought of at this day, but ecclesiastical history confirms these explanations of the Word of prophecy. And we further see that this apparent union between charity and faith could not last; faith alone still prevailed; the "king of the north returned to the land with great substance," and every vestige of the primitive idea was destroyed. (Verses 29—31.)
 
-There were however a few, even after this false dogma triumphed, who still opposed the teaching of the existing church and would have revived the true doctrine, but they were overpowered by numbers and wealth. (Verses 32—35.) These verses seem to refer particularly to those who still read the Word and understood its meaning, and who secretly maintained private worship and kept copies of the Word hidden from their oppressors. But at length "faith alone prevailed, a religion which destroys all fear of God and the whole Church." (Verses 36, 37.) It is very clear that this ruling dogma, which was so strongly contended for in the sixteenth and seventeenth centuries of the Christian era, hardened men's hearts to such a degree that they began to regard their own power in maintaining and enforcing it as something greater than the doctrine itself, or than any doctrine; so they worshiped themselves and honored themselves instead of honoring and worshiping the Lord.
-This is the "strange god" that is spoken of in verses 38, 39.
+There were however a few, even after this false dogma triumphed, who still opposed the teaching of the existing church and would have revived the true doctrine, but they were overpowered by numbers and wealth. (Verses 32—35.) These verses seem to refer particularly to those who still read the Word and understood its meaning, and who secretly maintained private worship and kept copies of the Word hidden from their oppressors. But at length "faith alone prevailed, a religion which destroys all fear of God and the whole Church." (Verses 36, 37.) It is very clear that this ruling dogma, which was so strongly contended for in the sixteenth and seventeenth centuries of the Christian era, hardened men's hearts to such a degree that they began to regard their own power in maintaining and enforcing it as something greater than the doctrine itself, or than any doctrine; so they worshiped themselves and honored themselves instead of honoring and worshiping the Lord. This is the "strange god" that is spoken of in verses 38, 39.
 
 Thus it was that genuine faith in the Lord derived from a love for heavenly things was wholly subjugated at the end of the Church. (Verses 40, 41.) But there were some who escaped this destructive influence. Those who were in simple good and had little care about doctrines or knowledge concerning them, but who observed the external forms of worship, are signified by "Edom and Moab and the chief of the children of Ammon." These escaped from the hand of the king of the north. (See @AC 3322.) There was no part of the Church nor any degree of the human mind that was not affected by this blighting influence. Even those who would know the laws of natural science and investigate the mysteries of nature became mere reasoners and lost the power of rational thinking on spiritual subjects or natural phenomena. (Verses 42, 43.) This was a state of bondage to the Church which must be broken. The concluding verses are:
 
@@ -1695,8 +1646,7 @@ These habitations in the world of spirits of those who were in faith alone, were
 13.  But go thou thy way till the end be: for thou shalt rest, and stand in thy lot at the end of the days.
 
 
-//Table
-NOTE: Table from page --- not incorporated yet
+//Table NOTE: Table from page --- not incorporated yet
 
 
 === COMMENTARY: The End of Prophecy
@@ -1784,8 +1734,7 @@ Translations from Original Text
 
 This version acknowledges
 
-Original Instances
-1 acknowledgeth acknowledgment  acknowledgement  6 1
+Original Instances 1 acknowledgeth acknowledgment  acknowledgement  6 1
 affrighted 2
 altereth 16
 art 6
