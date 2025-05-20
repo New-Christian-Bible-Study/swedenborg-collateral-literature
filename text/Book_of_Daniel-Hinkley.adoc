@@ -3,9 +3,7 @@ By Willard H. Hinkley
 include::../template-attributes.adoc[]
 
 
-// Each Chapter except the last has a Table of References which is not yet incorporated here. See further in the comment block below.
-
-// There is a Table of Translations at the very end, by which apparently Ian used "This version" words as replacements for "Original" words. I didn't notice this table until I had completed editing; accordingly, I've reversed a few of his modifications, certainly all of the 'judgement[s]'. This table reduces clarity on how best to proceed [with it] at this point.
+// There is a Table of Translations at the very end, by which apparently Ian used "This version" words as replacements for "Original" words. I didn't notice this table until I had completed editing; accordingly, I've reversed a few of his modifications, certainly all of the 'judgement[s]'.
 
 ////
 the original PDF (in full) is already linked into the NCBS dynamic sidebar
@@ -14,8 +12,9 @@ This edit corrects a significant quantity of errors, notably in Bible verse refe
 
 In Chapter One, I deleted the empty line between verses; it did not generate a format error; nor did it save space in the PDF output.
 
+The tables, being pointers into the Writings which reference the Chapter in Daniel, are not necessary for the reading of this book; nor are they likely unknown to the Searle Index already integrated into NCBS; nor are they even certain to be correct; but they're here now nonetheless.
 
-The tables being pointers into the Writings which reference the Chapter in Daniel, are not necessary for the reading of this book; nor are they likely unknown to the Searle Index already integrated into NCBS
+
 ////
 
 
@@ -32,8 +31,32 @@ MASSACHUSETTS NEW-CHURCH UNION +
 1894
 
 Republished at www.biblemeanings.info + 
-© 2005 by I.J. Thompson,
+© 2005 by I.J. Thompson
 
+
+//table
+[cols="^,^"]
+[%autowidth]
+[frame=all]
+[grid=all]
+|===
+|@AC|Arcana Coelestia.
+|@AE|Apocalypse Explained.
+|@AR|Apocalypse Revealed.
+|@TCR|True Christian Religion.
+|@HH|Heaven and Hell.
+|@LJ|Last Judgement.
+|@LJCont|Continuation of the Last Judgement.
+|@DLW|Divine Love and Wisdom.
+|@DP|Divine Providence.
+|@DLord|Doctrine concerning the Lord.
+|@DSS|Doctrine concerning the Sacred Scripture.
+|@DFaith|Doctrine of Faith.
+|@DLife|Doctrine of Life.
+|@CL|Conjugial Love.
+|@BE|Brief Exposition of the Doctrine of the New Church
+|@PP|Internal sense of the Prophets and Psalms.
+|===
 
 <<<
 
@@ -43,7 +66,7 @@ Republished at www.biblemeanings.info +
 
 THE book called Daniel is one of the inspired books of the Word. Although doubts have been cast upon its Divine origin and authenticity, owing to some difficulties in its literal statements, yet we have sufficient authority for accepting it as a part of Divine Revelation, or the Word of God, not only because it was quoted by the Lord Himself, but from the fact that it is included in the list of books that constitute the Word, as given in the writings of the New Church.
 
-In these writings portions of it are explained according to their spiritual meaning. The book itself is both historical and prophetical. In the work entitled "Arcana Coelestia" (@AC 1183), we find the "land of Shinar" mentioned, and we are there told that in that land profane worship prevailed — that is, such worship as was holy in externals but evil in internals. In this passage the second verse of the first Chapter of Daniel is quoted, and the carrying away of the Jews into Babylon is referred to as an historical relation. The fact that they were carried there and held captive has, probably, never been disputed, but the date assigned to this event in connection with the name of the King of Judah, is thought by some commentators to be erroneous.
+In these writings portions of it are explained according to their spiritual meaning. The book itself is both historical and prophetical. In the work entitled "Arcana Coelestia" (@@AC 1183), we find the "land of Shinar" mentioned, and we are there told that in that land profane worship prevailed — that is, such worship as was holy in externals but evil in internals. In this passage the second verse of the first Chapter of Daniel is quoted, and the carrying away of the Jews into Babylon is referred to as an historical relation. The fact that they were carried there and held captive has, probably, never been disputed, but the date assigned to this event in connection with the name of the King of Judah, is thought by some commentators to be erroneous.
 
 Although the different events recorded in the book are generally believed to have taken place about 600 B. C., yet the composition of a part, at least, of the book has been ascribed by some writers to a period as late as 176-164, B. C., in the reign of Antiochus Epiphanes. If we had certain evidence that the book was not written by Daniel himself, this would not destroy its spiritual value. All that is contained in the five books of Moses was not written by him, but they were written by some hand; partly by Moses and partly by some one after his death. This fact does not weaken their authority nor destroy their spiritual meaning.
 
@@ -69,7 +92,7 @@ Even when this book of Daniel is explained with reference to the state of the Ch
 
 In studying the Word of the Lord in the light of true doctrine, we should rise above merely external things and endeavor to see its spiritual meaning, not only in relation to churches and dispensations, which is called the historical-spiritual sense, but in reference to individual states of life and especially to our own life.
 
-What, then, is the spirit and purpose of this revelation, contained in the book of Daniel? What are the particulars contained in the spiritual sense of it? To know these things we must first have some idea of the general subjects treated of. There are three general subjects treated of in the whole book. These are "the Consummation, or last time of the Church," "the Coming of the Lord," and "the New Church," signified in the Apocalypse by the New Jerusalem. "Wherever Daniel is mentioned by name in the Sacred Scriptures, he represents whatever is prophetic concerning the Coming of the Lord — and the state of the church at the last times." (@AC 3652)
+What, then, is the spirit and purpose of this revelation, contained in the book of Daniel? What are the particulars contained in the spiritual sense of it? To know these things we must first have some idea of the general subjects treated of. There are three general subjects treated of in the whole book. These are "the Consummation, or last time of the Church," "the Coming of the Lord," and "the New Church," signified in the Apocalypse by the New Jerusalem. "Wherever Daniel is mentioned by name in the Sacred Scriptures, he represents whatever is prophetic concerning the Coming of the Lord — and the state of the church at the last times." (@@AC 3652)
 
 //<captivity><Babylon>
 The captivity of the Jews in Babylon represents a state of the church and of the human mind in which man has fallen under the influence of the infernal love of dominion, the love of ruling over others originating in the love of self. Babylon always denotes that evil love, and to be in Babylon is to be under its influence.
@@ -116,7 +139,7 @@ He did not understand the meaning of the revelations given to him in their relat
 
 In his prophetic character, he not only represents what all the prophets do — that is, the truth itself which reveals and foretells the future state of the church — but in a special and peculiar manner he represents the Lord as a revealer of Divine truths by which human souls are liberated from the bondage of evil. Daniel was a light in a dark place, as Joseph was in Egypt. His life and experiences resemble those of Joseph in many ways. Carried into captivity, he learned submission in order that he might command. Amid luxury and vice he abstained from them, and was thus, like John the Baptist, a Nazarite — or one set apart and consecrated, by a vow, to stand before the Lord as well as before an earthly king in a pure and holy life. There is something sublime in his self-denial and renunciation of evil, which marks him in a peculiar manner as a representative of the Divine prophet, who was wiser than the sons of men, and "purer than snow and whiter than milk."
 
-In the explanations given in the writings of the New Church of that portion of the twenty-fourth chapter of Matthew in which the prophecy of Daniel is alluded to, we read that "Daniel represents, when mentioned by name, whatever is prophetic concerning the coming of the Lord, and (in that chapter of Matthew especially) the state of the church at the last times." (@AC 3652) Again, it is there stated that the expression, "spoken of by Daniel the prophet, signifies in the internal sense, by the prophets; for where any prophet is mentioned by name in the Word, it does not mean that prophet, but the prophetic Word itself, because names in no case penetrate into heaven; nevertheless each prophet has a distinct signification." These teachings indicate that Daniel represents the Lord, especially as He manifests Himself at the end of the church, and in His coming to judgment, not only in His first coming, but in every appearing of the Son of Man when the darkness and desolation of the night are passing away, and the dawn is breaking.
+In the explanations given in the writings of the New Church of that portion of the twenty-fourth chapter of Matthew in which the prophecy of Daniel is alluded to, we read that "Daniel represents, when mentioned by name, whatever is prophetic concerning the coming of the Lord, and (in that chapter of Matthew especially) the state of the church at the last times." (@@AC 3652) Again, it is there stated that the expression, "spoken of by Daniel the prophet, signifies in the internal sense, by the prophets; for where any prophet is mentioned by name in the Word, it does not mean that prophet, but the prophetic Word itself, because names in no case penetrate into heaven; nevertheless each prophet has a distinct signification." These teachings indicate that Daniel represents the Lord, especially as He manifests Himself at the end of the church, and in His coming to judgment, not only in His first coming, but in every appearing of the Son of Man when the darkness and desolation of the night are passing away, and the dawn is breaking.
 
 "It is well to note here that Swedenborg, in the printing of the work called "True Christian Religion," placed immediately after the title page, two passages from the Word to indicate the character of that work. The first of these passages is from the book of Daniel (Daniel 7:13-14), which contains Daniel's vision of the Son of Man with the clouds of heaven; the second is from the book of the Revelation of John where the New Heaven and the New Earth and the New Jerusalem are spoken of. This not only shows that the prophecy of Daniel treats of the Lord's coming, but it also connects it directly with the descent of the New Jerusalem.
 
@@ -142,7 +165,7 @@ THE References at the close of each Chapter of the Book of Daniel are to differe
 
 As the initials only of the English titles of the works referred to are used, a Table is here added of the Titles, somewhat abbreviated.
 
-Exceptions are the Latin titles "Dicta Probantia" (Dict. P.), the "Coronis," and the "Adversaria" (Adver.).
+Exceptions are the Latin titles "Dicta Probantia" (@SConf), the "Coronis," and the "Adversaria" (@WE).
 
 All the references have been taken from the Index of Le Boys Des Guays.
 
@@ -195,7 +218,19 @@ All the references have been taken from the Index of Le Boys Des Guays.
 
 21.  And Daniel continued even unto the first year of king Cyrus.
 
-//Table NOTE: Table from page 11 not incorporated yet
+//table
+[cols="^,^"]
+[%autowidth]
+[frame=all]
+[grid=all]
+|===
+|Verses|Numbers
+|1,2|@PP
+|2|@AC 1183
+|3-21|@PP
+|19, 20|@AC 675
+|20|@AR 101
+|===
 
 === Commentary: Daniel In Babylon
 
@@ -231,7 +266,7 @@ Jehoiakim, it is plain from Jeremiah, was a profane and idolatrous king. He repr
 
 The nations and peoples outside of Canaan represented the natural or external principles of human life and the natural degree of the mind. When this plane of the mind is altogether separated from what is spiritual, the natural love of dominion seeks preeminence. This is destructive of the church and of all genuine religion. Nebuchadnezzar represents this natural evil love which seeks to make all things subservient to it.
 
-In (@AC 10227), we read:
+In (@@AC 10227), we read:
 
  By Nebuchadnezzar, King of Babel, is meant the profane that vastates, which is the case when the truths and goods of the church serve for means to favor the evils of the love of self and of the world, by wrong application, for in such case the evils of those loves are inwardly in the heart, and the holy things of the church are in the mouth.
 
@@ -273,7 +308,7 @@ As Nebuchadnezzar became acquainted with Daniel, and learned what wisdom he poss
 
 In the last verse of this chapter it is written: "And Daniel continued even to the first year of King Cyrus"; and in the twenty-eighth verse of the sixth chapter, we find these words: "So this Daniel prospered in the reign of Darius, and in the reign of Cyrus, the Persian." It was Cyrus, King of Persia, the real conqueror of Babylon, who assisted the Jewish people to return to their own land, and to rebuild the temple at Jerusalem, restoring to them the vessels of gold and silver that had not been destroyed.
 
-We are told in @AC 8989 that "Cyrus represents the Lord as to the Humanity."
+We are told in @@AC 8989 that "Cyrus represents the Lord as to the Humanity."
 
 The life of Daniel in Babylon, with the other captive Jews, represents the state of the church at its consummation, when the truth is held in subjection to the power of evil and remains only with a few; but the beginning of the reign of Cyrus denotes the coming of the Lord, first to restore natural freedom and then to establish a New Church in which the truth will be all powerful to overcome the dominion of evil, and whose members will acknowledge the Lord in His Divine Humanity and worship Him alone.
 
@@ -381,8 +416,52 @@ The life of Daniel in Babylon, with the other captive Jews, represents the state
 49.  Then Daniel requested of the king, and he set Shadrach, Meshach, and Abednego, over the affairs of the province of Babylon: but Daniel sat in the gate of the king.
 
 
-//Table NOTE: Table from page 18 not incorporated yet
-
+//table
+[cols="^,^"]
+[%autowidth]
+[frame=all]
+[grid=all]
+|===
+|Verses|Numbers
+|1,2|@PP
+|3|@DLord 48; @TCR 156
+|3-11|@PP
+|12, 13|@PP
+|14-30|@PP
+|10, 20|@AC 1422
+|22|@AC 662
+|27|@AC 3762
+|28|@DLord 4; @SConf 11
+|31-33|@AC l837
+|31-35|@DSS 117; @TCR 1029; @PP
+|31-47|@AR 754
+|31—35, 44|Coronis 2
+|31, 32, 44, 45|@AC 1326
+|32|.@AR 538; Coronis 37
+|32, 33|@AC 913; @CL 78; @AE 577; @SConf 11
+|32-34, 41-43.|@AC 176
+|32, 33, 43|@AC 9406
+|33, 40|@AC 426
+|34, 35|@AC 411
+|34-43|@SConf 11
+|34, 35, 44, 45|@AC 8581; @SConf 11
+|35|@TCR 788
+|36-38|@PP
+|37, 38|@AC 1029
+|37-46|@AC 2547
+|38|@AE 1029
+|39|@PP
+|40-43|@PP
+|43|@AC 237, 411, 1029
+|43, 44|@CL 81; @TCR 625
+|44|@DLord 42; @AR 1029
+|44. 45|@PP
+|45|@AR 913
+|46-49|@PP
+|47|@AC 664
+|48|@AE 844
+|Chapter cited|@TCR 760
+|===
 
 
 === Commentary: Nebuchadnezzar's Dream of the Great Image.
@@ -403,7 +482,7 @@ The astrologers were probably a distinct class from the magicians. They devoted 
 
  Sorceries were in use among the ancients and were performed in three ways: first, by keeping the hearing and thus the mind of another continually intent upon his words and sayings, without retaining aught from them; and, at the same time, by an aspiration and inspiration of thought conjoined with affection, by means of the breath, into the sound of the voice, whereby the hearer is incapable of thinking anything from himself; in this manner did the lovers of falsehood pour in their falsities with violence. Secondly, they infused a persuasion, which was done by detaining the mind from everything of a contrary nature, and directing the attention exclusively to the idea involved in that which was uttered by themselves, hence the spiritual sphere of his mind dispelled the spiritual sphere of the mind of another, and stifled it; this was the kind of spiritual fascination which the magi of old made use of, and which was spoken of as the tying up and binding the understanding. The latter kind of sorcery pertained only to the spirit or thought but the former to the lips or speech also. Thirdly, the hearer kept his mind so fixed in his own opinion, that he almost shut his ears against hearing anything from the speaker, which was done by holding the breath and sometimes by a tacit muttering and thus by a continual negation of his adversary's sentiment. This kind of sorcery was practised by those who heard others, but the two former by those who spoke to others. These three kinds of sorcery prevailed among the ancients, and prevail still among infernal spirits; but with men in the world there remains only the third kind, and this with those, who, from the pride of their own intelligence, have confirmed in themselves the falsities of religion.
 
-As to the word "Chaldeans," the term was probably applied at one time in a general way to all the inhabitants of Chaldea, but here it seems to denote a learned class who were known as such and who formed colleges for the cultivation of learning. Swedenborg not only says that the Chaldeans possessed a knowledge of correspondences but that they were acquainted with the internal sense of the Word. (@AC 9011) Whether they retained this knowledge at the time of Nebuchadnezzar is doubtful. But it is sufficient for us to know that neither they with all their learning, nor the magicians, astrologers, and sorcerers were able to read in the memory of the king the dream he had.
+As to the word "Chaldeans," the term was probably applied at one time in a general way to all the inhabitants of Chaldea, but here it seems to denote a learned class who were known as such and who formed colleges for the cultivation of learning. Swedenborg not only says that the Chaldeans possessed a knowledge of correspondences but that they were acquainted with the internal sense of the Word. (@@AC 9011) Whether they retained this knowledge at the time of Nebuchadnezzar is doubtful. But it is sufficient for us to know that neither they with all their learning, nor the magicians, astrologers, and sorcerers were able to read in the memory of the king the dream he had.
 
 All these four classes of men represent those who pervert and profane the truth for their own selfish ends. Had they been permitted they would have interpreted the dream in such a way as to flatter and deceive the king, and thus confirm their own power. There are those even at the present day, who, although they deny the Divine in their hearts, are yet willing to use the Word for their own evil ends, and thus to falsify and profane it. Indeed, we must understand that every one who is in self-love and from this principle desires to gain power, either natural or spiritual, necessarily falsifies the truths of the Word when they are known to him. But many are kept in ignorance of the Word to prevent them from doing this. That all those upon whom the King of Babylon depended failed him, shows us that no one can from himself enter into a knowledge of Divine revelation or interpret the heavenly meaning of what the Lord has revealed. Daniel was able to do this because he was in illustration from the Lord.
 
@@ -415,7 +494,7 @@ In the (@Coro 2), we are told that "four churches have existed on this earth sin
 
 The common method of interpretation which finds in the four parts of the statue a reference to four earthly or political kingdoms, generally believed to be the Babylonian, the Medo-Persian, the Greek, and the Roman, is wholly inadequate for conveying the spiritual meaning, as may be seen from this little work called the "Coronis." This traditional interpretation is naturally drawn from the interpretation of the dream given by Daniel, understood only according to the letter.
 
-In (@AR 913), which is referred to in the "Coronis," and more fully in (@AC 10030), we find a particular explanation of the meaning of the parts of the great image. It is to be understood that this great image represents the successive states of the church. We are not to confine the interpretation to the four churches above named, as represented by the gold, the silver, the, brass, and the iron. Each one of these four churches or dispensations has had its different changes corresponding to the different parts of the image. In (@Coro 5) we read: "There have been four successive states or periods of every one of the above-named churches." Much confusion about the meaning of the Book of Daniel has arisen from ignorance of the true method of spiritual interpretation, and from attempting to apply the prophecy almost wholly to the Roman Catholic Church. That Babel or Babylon refers to this church or its religion, especially in the seventeenth chapter of the Apocalypse, is plainly taught in the writings of the New Church. But this great image represents all the states of the church down to the period of the Last Judgment and the Second Coming of the Lord. This last period is denoted by these words: "And whereas you saw iron mixed with miry clay, they shall mingle themselves with the seed of men; but they shall not cleave one to another, even as iron does not mingle with clay."
+In (@AR 913), which is referred to in the "Coronis," and more fully in (@@AC 10030), we find a particular explanation of the meaning of the parts of the great image. It is to be understood that this great image represents the successive states of the church. We are not to confine the interpretation to the four churches above named, as represented by the gold, the silver, the, brass, and the iron. Each one of these four churches or dispensations has had its different changes corresponding to the different parts of the image. In (@Coro 5) we read: "There have been four successive states or periods of every one of the above-named churches." Much confusion about the meaning of the Book of Daniel has arisen from ignorance of the true method of spiritual interpretation, and from attempting to apply the prophecy almost wholly to the Roman Catholic Church. That Babel or Babylon refers to this church or its religion, especially in the seventeenth chapter of the Apocalypse, is plainly taught in the writings of the New Church. But this great image represents all the states of the church down to the period of the Last Judgment and the Second Coming of the Lord. This last period is denoted by these words: "And whereas you saw iron mixed with miry clay, they shall mingle themselves with the seed of men; but they shall not cleave one to another, even as iron does not mingle with clay."
 
 This is the explanation of these words given in (@AR 913):
 
@@ -510,7 +589,26 @@ We are not to understand that the Divine homage paid to Daniel by Nebuchadnezzar
 
 30.  Then the king promoted Shadrach, Meshach, and Abednego, in the province of Babylon.
 
-//Table NOTE: Table from page --- not incorporated yet
+//table
+[cols="^,^"]
+[%autowidth]
+[frame=all]
+[grid=all]
+|===
+|Verses.|Numbers.
+|1,2|@PP
+|1-7|@AE 1029
+|1-7 and following|@AR 754
+|1 and following|@AC 1326
+|1 to end|@LJ 54
+|3-7|@PP
+|8-12|@PP
+|13-21|@PP
+|22-25|@PP
+|25-28|@SConf 11
+|26-33|@PP
+|Chapter cited|2 @WE 1719
+|===
 
 
 === Commentary: The Image of Gold and the Fiery Furnace.
@@ -634,8 +732,52 @@ In conclusion we submit the caution to adhere to the mode of interpretation give
 
 37.  Now I Nebuchadnezzar praise and extol and honour the King of heaven, all whose works are truth, and his ways judgment: and those that walk in pride he is able to abase.
 
-//Table NOTE: Table on pages 31-32 not yet integrated.
-
+//table
+[cols="^,^"]
+[%autowidth]
+[frame=all]
+[grid=all]
+|===
+|Verses|Numbers
+|1-4|@PP 
+|1 to end|@AR 717
+|3. 4.|@AC 3762
+|5.|@DLord 48
+|5, 6|@PP 
+|6.|@AC 5223
+|7-9|@AE 109; @PP 
+|7-11|@AC 9553
+|7-13..|@AR 650; @Coro 3
+|7-14.|@AE 1029
+|7-12, 14, 15|@AE 1100
+|7-11, 17, 18|@AR 757
+|7, 9, 11, 18|@AC 5149
+|7, 19|@AE 1029
+|8, 17|@AC 9489
+|9.|@AC 662
+|9, 11|@AR 936
+|9, 18|@AC 776
+|10|@AC 204
+|10, 11|@PP 
+|10-13, 17-31|@SConf  II
+|10, 20|@DLord 40; @AR 173; @TCR 93
+|12, 13, 14|@PP 
+|13, 22, 29|@AC 257
+|14, 21, 31|@AC 8153
+|15, 16|@PP 
+|17-19|@AE 1029
+|17-30|@PP 
+|25, 26|@TCR 644
+|27.|@AE 1029
+|27-29|@AE 650
+|29.|@AC 274
+|29-31|@AE 1029
+|30|@AC 47
+|31|@AC 474
+|31-34|@PP 
+|34|@AE 1029
+|Chapter cited|@AC 1326
+|===
 
 === Commentary: Nebuchadnezzar's Second Dream.
 
@@ -748,8 +890,43 @@ The Word of the Lord is interpreted in one way by the good, and in the opposite 
 
 31.  And Darius the Median took the kingdom, being about threescore and two years old.
 
-//Table NOTE: Table from page --- not incorporated yet
-
+//table
+[cols="^,^"]
+[%autowidth]
+[frame=all]
+[grid=all]
+|===
+|Verses.|Numbers.
+|1-4.|@PP
+|1-5 and following|@AR 459
+|1 and following|@AE 587
+|1 to end|@AC 1029; @SConf 12
+|1, 2, 25-28|@AR 313
+|2.|@AR 913
+|2-4|HH 220
+|2-5|@AR 316
+|2 and following|@AC 242
+|2-4 and following|@AC 10227
+|2-5, 21|@AE 376
+|2-4, 23|@AC 8932
+|2-4, 25, 28|@AC 9093
+|2, 5, 25, 26|@AE 453
+|2, 5, 27|@AR 364
+|3-5|@AC 1183
+|5,6|@PP
+|7-9.|@PP
+|10-24.|@PP
+|11|@AC 5223
+|11, 12, 14|@DLW 383
+|12,14|@AC 183
+|23|@AE 1029
+|25|@AC 10217
+|25-28|@AC 373; @PP
+|25, 30|@AR 316
+|29, 30|@PP
+|30|@AC 3079
+|Chapter cited.|@TCR 754
+|===
 
 === Commentary: Belshazzar's Feast.
 
@@ -887,8 +1064,25 @@ It is worthy of note that the thirty-first or concluding verse of the fifth chap
 28.  So this Daniel prospered in the reign of Darius, and in the reign of Cyrus the Persian.
 
 
-//Table NOTE: Table from page --- not incorporated yet
-
+//table
+[cols="^,^"]
+[%autowidth]
+[frame=all]
+[grid=all]
+|===
+|Verses.|Numbers.
+|1-4.|@PP
+|1 to end|@AC 1326
+|5-10|@PP
+|8-10|@AE 1029
+|8 to end|@AR 754
+|11-18|@PP
+|11, 14|@AC 2788
+|19-24.|@PP
+|25|@PP
+|26-29|@PP
+|Chapter cited|@AC 10412
+|===
 
 === Commentary: Daniel in the Lion's Den
 
@@ -1000,8 +1194,80 @@ Let us now briefly consider this narrative in relation to man's regeneration. Da
 28.  Hitherto is the end of the matter. As for me Daniel, my cogitations much troubled me, and my countenance changed in me: but I kept the matter in my heart.
 
 
-//Table NOTE: Table from page --- not incorporated yet
-
+//table
+[cols="^,^"]
+[%autowidth]
+[frame=all]
+[grid=all]
+|===
+|Verses|Numbers
+|1 and following|@DP 134
+|1|@CL 26
+|1-3.|@PP
+|1-14|@TCR 754
+|1 and following|@DLord 52; @AR 851
+|1 -14 and following|.@AR 717
+|1 to end|@AC 1326; @SConf 12
+|1, 2, 7, 13|@DLord 52; @DP 134; @AR 157
+|2, 3|@AE 418
+|2-7|@AE 650
+|2, 3, and following|@AR 343
+|2, 7|@AC 6000
+|3.|@TCR 788
+|3, 4|@AC 3901
+|3-7|@AR 1029
+|3-9, 13, 14 and
+||Coronis 3
+|following
+|3, 7, 8, 20, 21-24|@AR 270
+|3, 7, 8, 20, 21, 23-25|@AE 316
+|4|@AE 1029, @PP
+|5|@AR 781; @PP
+|5, 7|@AE 556
+|6|@AR 780; @PP
+|7|@AR 435; @PP
+|7, 8, 11, 19-25|@AC 2832
+|7, 19.|@AR 49
+|7, 20, 24|D. Life 61; @AE 675
+|7, 23|@TCR 761
+|8|@AC 10182
+||@AC 8215, 8459, 9470; @DSS 49; @AR 47166,
+|9
+||6832; @AR 199,, 336, 504; @PP
+|10|@AC 256
+|11|@AR 748; @PP
+|11, 12, 21, 24|@AC 10l82
+|12.|@PP
+|13|@AC 24; @TCR 776; @AE 594
+|13, 14|@AC 839; @CL 81; @TCR 851; @AC 175; @PP
+|13-18, 27|@AR 913
+|13, 14, 22, 27|@SConf 12
+|13, 14, 27|@DLord 6, 42; @AR 1029
+|14|@AC 523, 749; @TCR 685; Ath. Cd. 19
+|14, 18, 27|@AC 10248
+|15.|@DLord 48
+|15, 16|@PP
+|17, 18|@PP
+|17 to end|@AC 2547
+|17, 24|@AR 720
+|18, 22|@AR 749
+|18, 22, 25|@AC 8153
+|18, 22, 27|@AR 586
+|18, 27|@AR 284
+|19|@AE 70
+|19-21|@PP
+|21|@AR 586
+|22..|@DLord 4; @PP
+|23.|@AC 697
+|23, 24.|@PP
+|23—25|@AE 1029
+|2|@AC 1034
+|25.|@AR 610; @PP
+|26, 27|@PP
+|27|@AC 685
+|28|@PP
+|Chapter cited|@AC 760; Diary 2; App. 5
+|===
 
 === Commentary: Daniel's Vision of the Four Beasts and the Ancient of Days.
 
@@ -1017,9 +1283,9 @@ What has been recorded in the previous chapters depicts the spiritual state of t
 
 It will be noticed that the dream of Daniel is a new thing. He had been an interpreter of dreams before, but now he has a dream himself. In his dream he has the wonderful vision of the "four beasts ascending out of the sea" and "the Ancient of days." Let us not mistake the nature of Daniel's dream, or suppose that it has not a Divine meaning. Swedenborg clearly explains the nature of dreams. He says:
 
- As to what relates to dreams it is well known that the Lord revealed the secrets of heaven to the prophets, not only by visions but also by dreams, and that dreams were equally representative and significative as visions, and that they were commonly of one sort; and further that things to come were discovered by dreams to others as well as to the prophets; as in the case of Joseph's dreams, and of the dreams of those who were with him in prison, and also of Pharaoh, of Nebuchadnezzar, and others. It may hence appear, that dreams of that sort come by influx from heaven as well as visions, with this difference, that the dreams come when the corporeal part is asleep, but visions when it is not asleep. In what manner prophetical dreams and such as are recorded in the Word flow in, yea, descend from heaven, has been shown to me to the life; concerning which I am at liberty to relate the following particulars. (@AC 1975)
+ As to what relates to dreams it is well known that the Lord revealed the secrets of heaven to the prophets, not only by visions but also by dreams, and that dreams were equally representative and significative as visions, and that they were commonly of one sort; and further that things to come were discovered by dreams to others as well as to the prophets; as in the case of Joseph's dreams, and of the dreams of those who were with him in prison, and also of Pharaoh, of Nebuchadnezzar, and others. It may hence appear, that dreams of that sort come by influx from heaven as well as visions, with this difference, that the dreams come when the corporeal part is asleep, but visions when it is not asleep. In what manner prophetical dreams and such as are recorded in the Word flow in, yea, descend from heaven, has been shown to me to the life; concerning which I am at liberty to relate the following particulars. (@@AC 1975)
 
- There are three sorts of dreams. The first sort come mediately through heaven from the Lord; such were the prophetical dreams recorded in the Word. The second sort come by angelic spirits, particularly by those who are in front above, to the right, where are paradisiacal scenes; it was thence that the men of the Most Ancient Church had their dreams which were instructive (@AC 1122). The third sort come by the spirits who are near when man is asleep, which also are significative. But fantastic dreams have another origin. (@AC 1976)
+ There are three sorts of dreams. The first sort come mediately through heaven from the Lord; such were the prophetical dreams recorded in the Word. The second sort come by angelic spirits, particularly by those who are in front above, to the right, where are paradisiacal scenes; it was thence that the men of the Most Ancient Church had their dreams which were instructive (@@AC 1122). The third sort come by the spirits who are near when man is asleep, which also are significative. But fantastic dreams have another origin. (@@AC 1976)
 
 He describes at some length the manner in which dreams are produced. It is not necessary to give all the particulars here. The reader is referred to the work entitled "Arcana Coelestia," in the numbers following those just quoted, where full explanations are given. It is evident that the dream of Daniel was of the first sort and came to him while he was asleep. He was upon his bed. It must be understood that with him there was an opening of his spiritual sight. The things which he describes were representations seen in the spiritual world. They typify the state of the church at its end and the coming of the Lord to judgment. What he saw he recorded and it became a part of Divine revelation, which remains to us at this day.
 
@@ -1157,8 +1423,68 @@ In reading these wonderful visions, doubts may arise in our minds, and we may be
 27.  And I Daniel fainted, and was sick certain days; afterward I rose up, and did the king's business; and I was astonished at the vision, but none understood it.
 
 
-//Table NOTE: Table from page --- not incorporated yet
-
+//table
+[cols="^,^"]
+[%autowidth]
+[frame=all]
+[grid=all]
+|===
+|Verses|Numbers
+|1..|@CL 26
+|1-3.|@PP
+|1-14 and following|@AE 817
+|1 and following|@DLord, 52; @DP 134; @AR 157, 851
+|1 to end..|@AC 2832; @SConf 12
+|2....|@DLord, 52; @DP 134; @AR 157
+|2-14|@DFaith 65, 66, 67; @BE 83; @TCR 537
+|3-21|@AC 10182
+|3, 4, and following|@AC 2830
+|3-5, 7-12, 21|@AE 316
+|3-5, 7-12, 21, 25|@AR 270
+|4.|@PP
+|4, 5. 9|@AC 3708
+|5..|@PP
+|5-12|@AR 586
+|5-25.|@AE 600
+|5-11, 25|@AC 10132
+|5, 9, 10, 12|@AC 4769
+|6-10.|@PP
+|7, 10|@AE 632
+|8.|@AE 418
+|8-10|@AC 9642
+|8-11|@AR 51
+|9.|A. C: 9815
+|9, 10|@AC 4697
+|9-11|@AC 72
+|9-13|@AC 3448
+|9-14|@AC 7988
+|10.|@AC 535
+|10-12|@AR 711
+|10-13|@AC 10042
+|10-14|@AR 573
+|10, 12|@AR 720
+|11|@AC 9485
+|11, 12|@PP
+|12.|@AR 51
+|13|@AC 700
+|13,14.|@AC 10135; @PP
+|13, 14, 26|@AC 2405
+|14|@AC 612
+|14,26|@AC 179; Coronis, 5
+|15-19|@PP
+|17|@AC 63
+|17, 19, 26|@DLord 4; @SConf 12
+|20-25|@PP
+|20 to end|@AC 2547
+|21|@AR 50
+|21, 23|@AR 720
+|23.|@AC 412
+|23, 25|@AR 586
+|26|@LJCont 13; @PP
+|27|@PP
+|Chapter cited|@AC 10455; H- & H. 171; @DFaith 61, 63;
+|Chapter cited |@AE 716, 734; Diary, 2; App. 5
+|===
 
 === Commentary: The Ram and the He-Goat
 
@@ -1174,7 +1500,7 @@ The ram, the male of the sheep, corresponds, in this vision, to the principle of
 
 Faith is the spiritual principle of the Church. It is formed by means of truths derived from the Word and a life in obedience to them. Any one who has observed the habits of sheep may see how beautifully they symbolize the trusting and confiding followers of the Lord. Obedience, docility, patience, and trusting confidence are their marked traits. The true followers of the Lord who really constitute His Church possess spiritual, qualities to which these natural traits correspond. We are led to believe from the history of the Church that the early Christians were of this character. The faith of the Church was pure so long as men believed in the Lord, loved Him, and obeyed Him. They forsook all and followed Him. The spiritual principle of faith, then, and those who have this principle in them, are symbolized by the ram with two horns seen by Daniel in vision.
 
-All power is in good which manifests itself in and by the truth; or it is in truth derived from good. (@AC 10182.)
+All power is in good which manifests itself in and by the truth; or it is in truth derived from good. (@@AC 10182.)
 
 These are the two horns of the ram, one somewhat higher than the other. It is written:
 
@@ -1305,8 +1631,38 @@ And the glory of the Lord shall be revealed, and all flesh shall see it together
 27.  And he shall confirm the covenant with many for one week: and in the midst of the week he shall cause the sacrifice and the oblation to cease, and for the overspreading of abominations he shall make it desolate, even until the consummation, and that determined shall be poured upon the desolate.
 
 
-//Table NOTE: Table from page --- not incorporated yet
-
+//table
+[cols="^,^"]
+[%autowidth]
+[frame=all]
+[grid=all]
+|===
+|Verses|Numbers
+|1-3.|@PP
+|2, 13, 14, 20.|@SConf 12
+|2, 25-27..|@SConf 12
+|3..|@AR 637
+|3, 4, 7-9, 16-19|@SConf 12
+|4-19.|@PP
+|10...|@AR 409
+|11,13.|@AC 937
+|16|@AE 405
+|17..|@AC 9306
+|18|@AC 3869
+|20|@AE 405
+|20-23|@PP
+|21|@DLord 52; @DP 134; @AR 157
+|24|@AC 10129; @DP 134; @AR 624; @PP
+|24, 25|@AC 6508; @DLord 6
+|24-27|@DP 328; @AE 684
+|24 to end|@AC 411
+|24. 27|@AC 10622
+|25|@AC 501, 880; @BE 100; @TCR 652; @PP; @SConf 12
+|26|@AC 315; Coronis 34; @PP; @SConf 13
+|26, 27|@AE 83
+|27|@AC 757; @BE 100; @TCR 1045, 1100; @PP; @SConf 13
+|Chapter cited|HH 851; Ath. Cd. 41
+|===
 
 === Commentary: Daniel's Prayer and the Divine Answer.
 
@@ -1354,7 +1710,7 @@ This prayer of Daniel from beginning to end is a confession of sin, and may serv
 
 And again:
 
- Therefore has the Lord watched over the evil and brought it upon us. (Ver. 14.)
+ Therefore has the Lord watched over the evil and brought it upon us. (verse 14.)
 
 It must have appeared to Daniel, as it did to all the Jews, that the Lord inflicted punishment and suffering upon them because of their transgression and their sin, but in reality evil punishes itself; the Lord casts no one into hell, and He is ever ready to forgive. Yet it must appear to the natural mind that the Lord inflicts the punishment. A confession of sin is necessary on man's part that the door may be opened for the Lord to enter in, so that man may feel that He is mercy itself.
 
@@ -1440,7 +1796,35 @@ That the consummation of the church at the time of the Last Judgment is thus pre
 21.  But I will shew thee that which is noted in the scripture of truth: and there is none that holdeth with me in these things, but Michael your prince.
 
 
-//Table NOTE: Table from page --- not incorporated yet
+//table
+[cols="^,^"]
+[%autowidth]
+[frame=all]
+[grid=all]
+|===
+|Verses|Numbers
+|1-6|@PP
+|1, 7, 8|@DLord, 52; @DP 134; @AR 157
+|2, 3|@AC 2788
+|2-4|@AR 532
+|3|@AC 375
+|4 and
+||@AE 79
+|following
+|5.|@AC 951
+|5, 6|@AC 9872; @AR 49, 468, 775; @AE 504; @SConf 50
+|5-12|@AR 77
+|6|@AR 830
+|7-2|@PP
+|10-12|@AC 5376
+|10,16,18|@AC 10130
+|12, 19|@AE 80
+|13,21|@AC 548
+|14|@SConf 13
+|14, 15|@DLord 4
+|20|@AR 50
+|Chapter Cited|@AC 171
+|===
 
 
 === Commentary: The Vision by the River Hiddekel — A Man Clothed in Linen.
@@ -1479,9 +1863,9 @@ We are at once struck with the similarity of this vision to that of John, record
 
  That it was the Lord who was thus seen by Daniel, plainly appears from the Revelation, where He was manifested before John in a manner nearly similar, concerning which it is said: "And in the midst of the seven candlesticks, one like the Son of Man, clothed with a garment down to the foot, and girt about the paps with a golden girdle. His head and His hairs were white like wool, as white as snow; and His eyes were as a flame of fire. And His feet like to fine brass, as if they burned in a furnace." (Revelation 1:13-15) And again: "These things says the Son of God, who has His eyes like a flame of fire, and His feet are like fine brass." (Revelation 2:18) From the similarity of the description of the Son of Man seen by John in the midst of the seven candlesticks, and of the man clothed in linen, likewise of the Ancient of days seen by Daniel, it is evident that it was the Lord whom they both saw. His face being seen as lightning and His eyes as a flame of fire, signify, the Divine love of the Lord; for the face with man is a representative image of the affection of his love, and especially so are the eyes, for from them the love shines forth, whence they sparkle as it were from fire. (@AE 504[4])
 
-Now as to the nature of this manifestation it must be understood that the Lord does not appear to men or angels in His own Divine glory, but in a form accommodated to their state. He appeared before His incarnation, generally, in the form of an angel whose own individuality was laid aside, while he was filled with the Divine Presence, so that the angel himself knew not, for the time being, that he was not the Lord. (See @AC 97) Although it is expressly said by Swedenborg that it was the Lord who appeared to Daniel, it must be understood, we think, that the man clothed in linen was an angelic appearance, according to the general teaching in the writings of the New Church. In the common version we read, "His body was like the beryl," but literally it is "like Tarshish," which is the country from which the shining gem called the beryl, supposed to be the chrysolite of the ancients and the topaz of the moderns, was obtained. The appearance of the man clothed in fine linen must be taken to represent the Lord as the Word, in which he manifests His glory at His Second Coming. The linen, as the Lord's clothing, denotes the Divine Truth with which He is forever arrayed. The Lord is to be thought of objectively, but also as to His essence and quality, especially as to His Divine Love and Wisdom. These, as they are manifested to our human thought, are denoted by the wonderful appearances spoken of. The gold of Uphaz or Ophir with which His loins were girded, His body like the beryl, His face having the appearance of lightning, His eyes as lamps of fire, and His arms and feet like in color to polished brass — all these are significative of the good of the Divine Love, which is manifested in the Truth, revealing His glory.
+Now as to the nature of this manifestation it must be understood that the Lord does not appear to men or angels in His own Divine glory, but in a form accommodated to their state. He appeared before His incarnation, generally, in the form of an angel whose own individuality was laid aside, while he was filled with the Divine Presence, so that the angel himself knew not, for the time being, that he was not the Lord. (See @@AC 97) Although it is expressly said by Swedenborg that it was the Lord who appeared to Daniel, it must be understood, we think, that the man clothed in linen was an angelic appearance, according to the general teaching in the writings of the New Church. In the common version we read, "His body was like the beryl," but literally it is "like Tarshish," which is the country from which the shining gem called the beryl, supposed to be the chrysolite of the ancients and the topaz of the moderns, was obtained. The appearance of the man clothed in fine linen must be taken to represent the Lord as the Word, in which he manifests His glory at His Second Coming. The linen, as the Lord's clothing, denotes the Divine Truth with which He is forever arrayed. The Lord is to be thought of objectively, but also as to His essence and quality, especially as to His Divine Love and Wisdom. These, as they are manifested to our human thought, are denoted by the wonderful appearances spoken of. The gold of Uphaz or Ophir with which His loins were girded, His body like the beryl, His face having the appearance of lightning, His eyes as lamps of fire, and His arms and feet like in color to polished brass — all these are significative of the good of the Divine Love, which is manifested in the Truth, revealing His glory.
 
-In (@AC 6135), where the above explanation is substantially given, it is also said:
+In (@@AC 6135), where the above explanation is substantially given, it is also said:
 
  By Tarshish, as the rest of the body appeared, namely the middle of the body between the head and loins, is signified the good of charity and faith, for Tarshish is a sparkling precious stone.
 
@@ -1598,7 +1982,52 @@ The last verse of this chapter contains a promise of the New Revelation, and the
 
 45.  And he shall plant the tabernacles of his palace between the seas in the glorious holy mountain; yet he shall come to his end, and none shall help him.
 
-//Table NOTE: Table from page --- not incorporated yet
+//table
+[cols="^,^"]
+[%autowidth]
+[frame=all]
+[grid=all]
+|===
+|Verses|Numbers
+|1-4|@PP
+|1 and following|@AR 20
+|1 to end|@AC 31
+|2|@AR 50
+|4|@AC 418
+|5|@PP
+|6|@PP
+|7-9|@PP
+|8, 33|@AE 811
+|10-12|@PP
+|13-16|@PP
+|13, 15, 20|@AR 447
+|13, 25|@AE 573
+|13, 25, 26|@AC 3448
+|16, 41|@AC 9815
+|16, 41, 45|@AC 5222
+|17|@PP
+|18-20|@PP
+|21-23|@PP
+|24-26.|@PP
+|24, 37. 38|@AC 6075
+|27, 28|@PP
+|27, 35, 45|@SConf 13
+|29-51|@PP
+|31|@AC 1045
+|32-35|@PP
+|35|@DLord 4
+|36|@AC 7268
+|36,37|@PP
+|38,39|@AE 717; @PP
+|40|@AC 514
+|40, 41|@AC 3322; @PP
+|41|@PP
+|42, 43|@AE 654; @PP
+|43|@AC 654
+|44, 45.|@PP
+|45.|@AC 405
+|Chapter cited|@AC 171; @AR 734
+|===
 
 
 === Commentary: The King of the North And The King of the South.
@@ -1631,7 +2060,7 @@ We are taught that those passages of the Word by which it may be confirmed that 
 
 There were however a few, even after this false dogma triumphed, who still opposed the teaching of the existing church and would have revived the true doctrine, but they were overpowered by numbers and wealth. (Verses 32—35.) These verses seem to refer particularly to those who still read the Word and understood its meaning, and who secretly maintained private worship and kept copies of the Word hidden from their oppressors. But at length "faith alone prevailed, a religion which destroys all fear of God and the whole Church." (Verses 36, 37.) It is very clear that this ruling dogma, which was so strongly contended for in the sixteenth and seventeenth centuries of the Christian era, hardened men's hearts to such a degree that they began to regard their own power in maintaining and enforcing it as something greater than the doctrine itself, or than any doctrine; so they worshiped themselves and honored themselves instead of honoring and worshiping the Lord. This is the "strange god" that is spoken of in verses 38, 39.
 
-Thus it was that genuine faith in the Lord derived from a love for heavenly things was wholly subjugated at the end of the Church. (Verses 40, 41.) But there were some who escaped this destructive influence. Those who were in simple good and had little care about doctrines or knowledge concerning them, but who observed the external forms of worship, are signified by "Edom and Moab and the chief of the children of Ammon." These escaped from the hand of the king of the north. (See @AC 3322) There was no part of the Church nor any degree of the human mind that was not affected by this blighting influence. Even those who would know the laws of natural science and investigate the mysteries of nature became mere reasoners and lost the power of rational thinking on spiritual subjects or natural phenomena. (Verses 42, 43.) This was a state of bondage to the Church which must be broken. The concluding verses are:
+Thus it was that genuine faith in the Lord derived from a love for heavenly things was wholly subjugated at the end of the Church. (Verses 40, 41.) But there were some who escaped this destructive influence. Those who were in simple good and had little care about doctrines or knowledge concerning them, but who observed the external forms of worship, are signified by "Edom and Moab and the chief of the children of Ammon." These escaped from the hand of the king of the north. (See @@AC 3322) There was no part of the Church nor any degree of the human mind that was not affected by this blighting influence. Even those who would know the laws of natural science and investigate the mysteries of nature became mere reasoners and lost the power of rational thinking on spiritual subjects or natural phenomena. (Verses 42, 43.) This was a state of bondage to the Church which must be broken. The concluding verses are:
 
  But tidings out of the East and out of the North shall trouble him: therefore he shall go forth with great fury to destroy, and utterly to make away many. And he shall plant the tents of his palace between the sea and the glorious holy mountain; yet he shall come to his end, and none shall help him.
 
@@ -1643,7 +2072,7 @@ These habitations in the world of spirits of those who were in faith alone, were
 ---
 <<<
 
-== Chapter Xii. The End Of Prophecy
+== Chapter XII. The End Of Prophecy
 
 1.  And at that time shall Michael stand up, the great prince which standeth for the children of thy people: and there shall be a time of trouble, such as never was since there was a nation even to that same time: and at that time thy people shall be delivered, every one that shall be found written in the book.
 
@@ -1672,7 +2101,35 @@ These habitations in the world of spirits of those who were in faith alone, were
 13.  But go thou thy way till the end be: for thou shalt rest, and stand in thy lot at the end of the days.
 
 
-//Table NOTE: Table from page --- not incorporated yet
+//table
+[cols="^,^"]
+[%autowidth]
+[frame=all]
+[grid=all]
+|===
+|Verses|Numbers
+|1|@AC 652; @AE 199, 222, 717; @PP; @SConf 13
+|1, 2|@AC 8018
+|2|@AC 10248
+|2, 3|@PP
+|3|@AC 72; @SConf 13
+|4|@TCR 788; @PP
+|4, 9, 11, 13|@DLord 4
+|4, 9. 13|@SConf 13
+|5-7|@PP
+|6, 7|@AE 951; @SConf 50
+|7|@AC 761
+|7,9|@AR 478
+|7, 11|@SConf 13
+|8, 9.|@PP
+|9|Coronis 5
+|9, 10|@AR 948
+|10.|@PP
+|10-12|@AC 5376
+|11|@AC 700
+|11-13|@PP
+|Chapter Cited|HH 171; @AR 500
+|===
 
 
 === Commentary: The End of Prophecy
@@ -1763,7 +2220,48 @@ The End
 <<<
 
 
-Translations from Original Text
+Translations from Original Text + 
+ [some of which were reverted in the NCBS edit]
 
-//Table NOTE: Table from page --- not incorporated yet
+//table
+[cols="^,^,^,^,^,^,^,^,^"]
+[%autowidth]
+[frame=all]
+[grid=all]
+|===
+||||hither|here|1|seest|see|1
+|Original|This version|Instances|holdeth|holds|2|servest|serve|3
+|acknowledgeth|acknowledges|1|holpen|helped|1|setteth|sets|4
+|acknowledgment|acknowledgement|6|innocency|innocence|2|shalt|shall|4
+|affrighted|frightened|1|intreated|entreated|1|shew|show|17
+|altereth|alters|2|Judgment|Judgement|16|shewing|showing|2
+|art|are|16|judgment|judgement|47|spake|spoke|25
+|belongeth|belongs|6|judgments|judgements|1|standeth|stands|2
+|brake|break|11|keepeth|keeps|1|stedfast|steadfast|1
+|breaketh|breaks|1|knewest|knew|1|subdueth|subdues|1
+|canst|can|2|Knowest|Know|1|sware|swore|2
+|changeth|changes|1|knoweth|knows|1|thee|you|66
+|cometh|comes|3|like to|like|3|thine|your|12
+|crusheth|crushes|1|like unto|like|5|Thou|You|9
+|delivereth|delivers|1|liveth|lives|3|thou|you|66
+|didst|did|1|maketh|makes|7|Thy|Your|11
+|doest|do|1|marvellous|marvelous|1|thy|your|84
+|doeth|does|2|mayest|may|2|thyself|yourself|3
+|doth|does|1|mightest|might|1|troubleth|troubles|1
+|dwelleth|dwells|1|neighbor|neighbour|3|unto|to|125
+|endureth|endures|1|overcometh|overcomes|1|waiteth|waits|2
+|establisheth|establishes|1|phantastic|fantastic|1|walkest|walk|1
+|falleth|falls|2|plaister|plaster|2|whatsoever|whatever|1
+|Forasmuch|For as much|1|raiment|clothing|3|wheresoever|wherever|1
+|forasmuch|for as much|8|reacheth|reaches|1|wherewith|with which|1
+|fowl|bird|2|readeth|reads|1|whosoever|whoever|3
+|fowls|birds|5|regardeth|regards|1|worketh|works|1
+|fulfil|fulfill|1|removeth|removes|1|worshipped|worshiped|10
+|fulfilment|fulfillment|10|requireth|requires|1|worshippeth|worships|1
+|fulness|fullness|4|rescueth|rescues|1|worshipping|worshiping|2
+|giveth|gives|5|revealeth|reveals|3|wrought|worked|2
+|hast|have|17|ruleth|rules|5|ye|you|20
+|hath|has|34|saith|says|5
+|henceforth|now on|1|sawest|saw|10
+|===
 
