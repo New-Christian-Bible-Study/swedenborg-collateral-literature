@@ -1,5 +1,5 @@
 = Parables of the Old Testament Explained
-By Edward Craig Mitchell
+By Edward Craig Mitchell (1903)
 include::../template-attributes.adoc[]
 
 //Presentation effort probable, or optional; highlighting the quoted story; adding the reference to the section heading ??
