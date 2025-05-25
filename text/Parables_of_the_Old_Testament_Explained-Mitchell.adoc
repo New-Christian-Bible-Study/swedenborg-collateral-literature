@@ -2,9 +2,15 @@
 By Edward Craig Mitchell (1903)
 include::../template-attributes.adoc[]
 
-//Presentation effort probable, or optional; highlighting the quoted story; adding the reference to the section heading ??
+////
 
-Pastor of the New-Jerusalem (or Swedenborgian) Church, St. Paul, Minn. 1903
+
+////
+
+By Edward Craig Mitchell + 
+Pastor of the New-Jerusalem (or Swedenborgian) Church, + 
+St. Paul, Minn. + 
+1903
 
 == Preface
 
