@@ -5,6 +5,7 @@ include::../template-attributes.adoc[]
 ////
 The outline (if it is) needs help
 
+There are 17 '[Drawing]'s missing
 
 ////
 
@@ -103,23 +104,17 @@ The source of all permanency is the Lord. His Divine love never alters, neither 
 
 In the Most Ancient Church there was probably a time when there was only a heaven in the spiritual world. With the development of evil, this heaven deteriorated, and at the time or the s. c. Flood there was a division between the good and the evil, and thus a formation of a heaven and a hell. Afterwards-between these two -- a World of Spirits was formed. At length the good from the Ancient Church formed societies there, yet had no power to purify these from evil of the subtler sort. Hence it was not until the Lords time that a complete judgment was made, and a spiritual heaven and a middle hell were organized permanently. Early Christians formed societies in the World of Spirits, but these also became defiled by admixture of evil spirits. Not until the time of Swedenborg could there be a permanent separation of the good and the evil and the formation of a natural heaven and an opposite hell.
 
+....
 Most ancient heaven
-
 / Heaven of Ancient Church
-
 / / New Christian heaven
-
 / / /
-
 - - - W O R L D O F S P I R I T S - - - - - - -
-
 / / /
-
 / / New hells of Christian era
-
 / Hells of Ancient churches
-
 Antediluvian hells
+....
 
 8.{empty} The elevation of the good to form a heaven is invariably presented in the world of spirits under a spatial appearance, as a lifting up or as a new world above the world of spirits.
 
@@ -150,41 +145,26 @@ g) There is a physical or geographical parallel. The continents there correspond
 The cities of this world are duplicated in the other life. Yet some, like Hamburg, did not exist there, lacking a distinct character. Others, like certain Swedish cities, are grouped in a cluster with no distance between them. National characteristics govern all to a certain extent. Yet nations which are dominated by a common church or a religion such as the Roman Catholic, Mohammedan, or Jewish, remain separate in the other life according to religions, not according to distinct national boundaries. These therefore are called nations.
 
 h) Arrangement of the Nations in the World of Spirits. The center of the world of spirits is where the greatest light is. In the beginning of the Christian Church, the Greek Churches were the most enlightened, but later the Roman Church may have taken the lead, although learning existed only in the monasteries. At the reformation a re-orientation began, because the Word was then read in Northern Europe. The first country where the Gospel was widely preached was in England. (Note the work of Wychliffe and his Lollards and, later, of the British and Foreign Bible Society.) Hence at the time just before the last Judgment, the nations in the world of spirits had the following arrangements:
-
+....
 QUARTERS AND TRACTS IN THE WORLD OF SPIRITS
-
 E A S T
-
 Pagans
-
 Mohammedans
-
 Papists
-
 N O R T H
-
 Pagans
-
 Mohammedans
-
 Papists
-
 W E S T
-
 Papists
-
 Mohammedans
-
 Pagans
-
 S O U T H
-
 Papists
-
 Mohammedans
-
 Pagans
-
+....
+////
 Arrangement of Reformed Nations in central space:
 
 E - English
@@ -196,6 +176,7 @@ G - Germans
 H - Dutch
 
 S Swedes
+////
 
 10.{empty} Representations of spiritual relationships. The geographical arrangements of the nations and the ordering of the heaven into expanses, each like a globe, are necessary for a perfect representation of the mutual contacts which all bear to each other in the spiritual world. For nothing else would fulfill this requirement of an actual relation between all spirits. (@AR 260, 876; @AE 702:2; @CL 42)
 
@@ -225,7 +206,7 @@ The manuscripts known as The Last Judgment (Posthumous) is a part of codex 12" i
 
 == THE APOCALYPSE
 
-== PART ONE: Preparation for the Judgment
+PART ONE: Preparation for the Judgment
 
 Introduction (i. 1-9)
 
