@@ -1,5 +1,5 @@
 = Last Judgment
-By Hugo Lj. Odhner
+By Hugo Lj. Odhner (1955)
 include::../template-attributes.adoc[]
 
 ////
@@ -7,6 +7,8 @@ The outline (if it is) needs help
 
 
 ////
+
+Sources: beanstalk html; meta dated 1955
 
 
 A compilation of the teachings concerning the last judgment in the Spiritual World in the year 1757
