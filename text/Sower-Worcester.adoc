@@ -1,5 +1,12 @@
-= The Sower - Bible Stories and Their Inner Meaning. by W.L. Worcester include::../template-attributes.adoc[]
+= The Sower - Bible Stories and Their Inner Meaning.
+by W.L. Worcester
+include::../template-attributes.adoc[]
 
+////
+
+This (at least some) is already integrated into the NCBS dynamic sidebar as Stories.
+
+////
 
 The Sower - Bible Stories and Their Inner Meaning. +
 by W.L. Worcester

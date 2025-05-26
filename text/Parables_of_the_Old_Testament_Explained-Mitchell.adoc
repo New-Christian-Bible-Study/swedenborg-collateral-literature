@@ -3,7 +3,7 @@ By Edward Craig Mitchell (1903)
 include::../template-attributes.adoc[]
 
 ////
-
+These (at least some) are already integrated into the NCBS dynamic sidebar as Stories.
 
 ////
 
@@ -31,7 +31,9 @@ Every parable has at least three senses, 1, its narrative sense; 2, its figurati
 
 The system of interpretation here employed is that known as "The Science of Correspondences," made known to the Church through Emanuel Swedenborg.
 
-As it seemed best to have each explanation of a parable complete in itself, some repetition was unavoidable. E. C. M., ST. PAUL, MINNESOTA, February 21, 1903.
+As it seemed best to have each explanation of a parable complete in itself, some repetition was unavoidable.
+
+E. C. M., ST. PAUL, MINNESOTA, February 21, 1903.
 
 The Parables of the Old Testament Explained.
 
