@@ -52,11 +52,11 @@ leading @ +
 , comma separates numbers in same book + 
 ; semi-colon separates books + 
   spaces around punctuation are possible and optional + 
-- ranges acceptable + 
-[] sections, including comma separated, and hyphenated ranges, in brackets + 
+- ranges acceptable +
+[] sections, including comma separated, and hyphenated ranges, in brackets +
+Ranges should be fully numbers, e.g. @AC 123-125 is acceptable, but @AC 123-5 is not
 
 @(5M|9Q|AC|AE|AngIdea|AR|Ath|BE|CL|CanonsNC|Char|ConvAng|Coro|DFaith|DLW|DLife|DLord|DLove|DMin|DP|DSS|DWis|DeConj|DeConsum|DeDeoSalv|DeDomino|DeInfluxus|DeJust|DeMiraculis|DeVerbo|Dicta Probantia|Docu|EU|EccHist|HH|HistCrea|ISB|Inv|LJCont|LJPost|LJ|Letters|NJHD|PP|SE|SciaDoc|TCR|Adversaria|WHApp|WH)
-
 
 See this sheet for more information: + 
 https://github.com/New-Christian-Bible-Study/swedenborg-concordance/blob/main/docs/swedenborg-works-info.csv
@@ -64,7 +64,6 @@ https://github.com/New-Christian-Bible-Study/swedenborg-concordance/blob/main/do
 "Spiritual Diary" is now "Spiritual Experiences" @SE + 
 "Marriage Love" is still "Conjugial Love" @CL + 
 "Heavenly Secrets" is still "Arcana Coelestia" @AC
-
 
 
 ==== ##[.underline]#Line Breaks:###
@@ -113,7 +112,7 @@ There have also been numbered footnotes (23) in documents prepared for maybe an 
 
 In order to match the footnote insertion with the footnote explanation, the regex format is `\([*0-9.]+\)`
 
-
+//Steve's note: In NCBS, we restart footnote numbering for each passage, and we replace all asterisks with an Arabic numeral, like this `fff1`, `fff2`. Then in the notes section below the passage, we use `nnn1`, `nnn2` etc. to match the footnote number to the note.
 
 a horizontal line separator, generated with three dashes following a blank line, as below:
 
@@ -174,5 +173,3 @@ https://docs.asciidoctor.org/asciidoc/latest/attributes/document-attributes-ref/
 
 Text justification and things like underlining are known to asciidoc as 'roles' .... shown here:
 https://docs.asciidoctor.org/pdf-converter/latest/roles/
-
-
