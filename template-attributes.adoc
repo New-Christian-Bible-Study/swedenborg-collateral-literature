@@ -27,9 +27,9 @@ from best available representations of original manuscript.
 [.text-right]
 Last Revised {docdate}
 
-// separator:
-
-'''
-
+////
+I've decided against forcing a pagebreak after this header;
+in favor of letting each use include additional material.
+////
 {empty}
 

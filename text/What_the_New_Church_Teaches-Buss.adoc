@@ -3,7 +3,7 @@ By the Rev. James Frederick Buss  1897
 include::../template-attributes.adoc[]
 
 ////
-? Why "Noatic" rather than Noahic or Noahtic ?
+? Why "Noatic" rather than Noahic or Noahtic?
 
 
 ////

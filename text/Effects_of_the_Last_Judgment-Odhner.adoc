@@ -1,6 +1,5 @@
 = Effects of the Last Judgement 
-A Series of Doctrinal Classes
-by the Rev. Hugo Odhner  1938
+A Series of Doctrinal Classes by the Rev. Hugo Odhner  (1938)
 include::../template-attributes.adoc[]
 
 Effects of the Last Judgement + 
@@ -11,13 +10,7 @@ by the Rev. Hugo Odhner +
 {empty}
 
 ////
-INDEX
-Class Number Subject of Class 
-I THE HEAVENS THAT PERISHED. 
-II THE NEW CHRISTIAN HEAVEN. 
-III WHO CONSTITUTE THE NEW HEAVEN? 
-IV (Part I) THE SACRAMENTS RENEWED. 
-IV (Part II) THE EFFECTS OF THE LAST JUDGMENT ON THE SPIRITUAL WORLD
+
 ////
 
 <<<

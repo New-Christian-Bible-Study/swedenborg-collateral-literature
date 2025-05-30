@@ -1,10 +1,16 @@
 = Parables of the Old Testament Explained
-By Edward Craig Mitchell
+By Edward Craig Mitchell (1903)
 include::../template-attributes.adoc[]
 
-//Presentation effort probable, or optional; highlighting the quoted story; adding the reference to the section heading ??
+////
+These (at least some) are already integrated into the NCBS dynamic sidebar as Stories.
 
-Pastor of the New-Jerusalem (or Swedenborgian) Church, St. Paul, Minn. 1903
+////
+
+By Edward Craig Mitchell + 
+Pastor of the New-Jerusalem (or Swedenborgian) Church, + 
+St. Paul, Minn. + 
+1903
 
 == Preface
 
@@ -25,7 +31,9 @@ Every parable has at least three senses, 1, its narrative sense; 2, its figurati
 
 The system of interpretation here employed is that known as "The Science of Correspondences," made known to the Church through Emanuel Swedenborg.
 
-As it seemed best to have each explanation of a parable complete in itself, some repetition was unavoidable. E. C. M., ST. PAUL, MINNESOTA, February 21, 1903.
+As it seemed best to have each explanation of a parable complete in itself, some repetition was unavoidable.
+
+E. C. M., ST. PAUL, MINNESOTA, February 21, 1903.
 
 The Parables of the Old Testament Explained.
 
@@ -538,7 +546,7 @@ It is a false principle that the good things of this life are more to be desired
 
 === Strength Of Character
 
-Spiritual strength of character is in willingness to do what is good and to resist what is evil. Sometimes, weakness of purpose, and lack of strength of character, are mistaken for mercy and generosity. Strength is not in the soft-heartedness which cannot do what seems hard, even when necessary; which cannot cut off an arm to save a life; which cannot rebuke sin, to save the soul of the sinner. Why are social and business life so full of frauds ? Simply because there are so many weak men and women, who have not the determined purpose to resist temptations; who accustom themselves to indulgence, until they are not willing to put away a principle which they know to be false and evil.
+Spiritual strength of character is in willingness to do what is good and to resist what is evil. Sometimes, weakness of purpose, and lack of strength of character, are mistaken for mercy and generosity. Strength is not in the soft-heartedness which cannot do what seems hard, even when necessary; which cannot cut off an arm to save a life; which cannot rebuke sin, to save the soul of the sinner. Why are social and business life so full of frauds? Simply because there are so many weak men and women, who have not the determined purpose to resist temptations; who accustom themselves to indulgence, until they are not willing to put away a principle which they know to be false and evil.
 
 === Genuine New-Church Men
 
@@ -1825,7 +1833,7 @@ As the text reads, in the common version of the Bible, it is somewhat obscure at
 
 In the figurative literal sense, to hunt souls is to seek men, in order to gain something by deceiving them and corrupting them. And it is easy to see how these women, by subtle flattery, and by favorable prophecies, could gain great influence in the community; for it was a community in which there was no spiritual perception of truth, and no rational judgment. Old men, middle-aged men, and youths were thus beguiled into an easy security, and the indulgence of every natural wish. And the false prophetess then reaped a large reward in gifts, and in personal influence, and in every indulgence.
 
-And, in such circumstances, it is not wonderful that the true prophet of the Lord went unheeded, because he prophesied disasters, of which the people did not wish to hear. And thus the name of the Lord was polluted, in the minds of the people, because the words of the Lord were drowned in the fallacies of men's senses. Even those who pretended to be prophetesses of the Lord, covered the people with lies, to make them evil, also. And this was often done for merely trifling rewards, from such men as inquired. These trifling rewards are indicated by the words, "And will ye pollute Me among My people, for handfuls of barley and pieces of bread ?" "To slay the souls which should not die," is to corrupt those who were trying to do well. And "to save alive the souls which should not live," is to encourage the evil in their iniquity, by promising them continued life and prosperity, and thus "strengthening the hands of the wicked," and preventing them from repenting and amending their life.
+And, in such circumstances, it is not wonderful that the true prophet of the Lord went unheeded, because he prophesied disasters, of which the people did not wish to hear. And thus the name of the Lord was polluted, in the minds of the people, because the words of the Lord were drowned in the fallacies of men's senses. Even those who pretended to be prophetesses of the Lord, covered the people with lies, to make them evil, also. And this was often done for merely trifling rewards, from such men as inquired. These trifling rewards are indicated by the words, "And will ye pollute Me among My people, for handfuls of barley and pieces of bread?" "To slay the souls which should not die," is to corrupt those who were trying to do well. And "to save alive the souls which should not live," is to encourage the evil in their iniquity, by promising them continued life and prosperity, and thus "strengthening the hands of the wicked," and preventing them from repenting and amending their life.
 
 As the serpent in Eden persuaded Eve that it would not be dangerous for her, but profitable, to eat the forbidden fruit, so these evil prophetesses lured men to destruction by false persuasions; and thus saddened the hearts and lives of many men, whom the Lord was seeking to make glad; because such women were holding out promises of greater life, even while dragging their victims into a sure death.
 
@@ -2169,7 +2177,7 @@ The Jews often called the Romans "beasts." And when Paul escaped from the repres
 
 === The Lion
 
-There are many scriptural references to the lion, the lioness, etc., in representing powerful persons; and spiritually, in denoting powerful principles. "Behold, the people riseth up as a lioness, and as a lion doth he lift himself up: he shall not lie down until he eat of the prey, and drink the blood of the slain." (Numbers 13:24) "He couched, he lay down as a lion, and as a lioness; who shall rouse him up ?" (Numbers 24:9)
+There are many scriptural references to the lion, the lioness, etc., in representing powerful persons; and spiritually, in denoting powerful principles. "Behold, the people riseth up as a lioness, and as a lion doth he lift himself up: he shall not lie down until he eat of the prey, and drink the blood of the slain." (Numbers 13:24) "He couched, he lay down as a lion, and as a lioness; who shall rouse him up?" (Numbers 24:9)
 
 The two whelps mentioned in the text, are supposed to refer, historically and figuratively, to the two kings of Judah, Jehoahaz and Jehoiakim, both of whom were evil men, ambitious, covetous, revengeful and idolatrous. Jehoahaz was captured by Pharaoh, and carried to Egypt, and his career ended. Jehoiakim, another son of Josiah, was afterwards made king. But he was captured by Nebuchadnezzar, and carried away to Babylon.
 
@@ -2618,7 +2626,7 @@ The prophet was given a vision of a valley full of dry bones. The earth, in its 
 
 In the mental valley, our natural thought sees things as they appear before the natural senses; but, on the higher levels, things are seen as they are, in the light of spiritual truth. And so, in the progress of regeneration, our Lord is constantly calling to us, "Come, let us go up to the mountain of Jehovah, and to the house of the God of Jacob. And He will teach us of His ways, and we will walk in His paths. For the law shall go forth from Zion, and the Word of Jehovah from Jerusalem." (Micah iv 2).
 
-It requires constant and considerable work to climb from the valley up to the mountain-top. And the steady climbing represents the constant effort of the regenerating man to reach higher mental levels, And this climbing is done by rejecting, and leaving behind us the lower ways of the senses, and adopting a clean and orderly life, in feeling, thought, and action. "Who shall ascend into the mountain of Jehovah ? Or who shall stand in His holy place? He that hath clean hands and a pure heart." (Psalms 24:3, 4).
+It requires constant and considerable work to climb from the valley up to the mountain-top. And the steady climbing represents the constant effort of the regenerating man to reach higher mental levels, And this climbing is done by rejecting, and leaving behind us the lower ways of the senses, and adopting a clean and orderly life, in feeling, thought, and action. "Who shall ascend into the mountain of Jehovah? Or who shall stand in His holy place? He that hath clean hands and a pure heart." (Psalms 24:3, 4).
 
 === Bones
 
