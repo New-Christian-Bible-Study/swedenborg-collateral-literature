@@ -129,6 +129,15 @@ https://docs.asciidoctor.org/asciidoc/latest/lists/ordered/#escaping-the-list-ma
 
 See our file "Application_of_Doctrine-DeCharms" for having worked this out. The entire file is nested ordered lists.
 
+[.text-center]
+==== ##[.underline]#Paragraph alignment:###
+[.text-right]
+AsciiDoc provides built-in roles to align the text of a paragraph. The name of the role follows the pattern text-<alignment>, where <alignment> is one of left, center, right, or justify (e.g., text-center).
+[.text-left]
+Format: `[.text-center]` by itself on preceeding line
+
+See 'Roles' ... https://docs.asciidoctor.org/pdf-converter/latest/roles/
+
 ==== ##[.underline]#Tagging Concepts and Verses:###
 
 by example, use this markup where and as you see fit, until we develop more definitive instruction ...
