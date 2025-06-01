@@ -1,271 +1,539 @@
-= TOC for DP v3 tabbed
+= TOC for DP v3 tabled
 testing
 
 {empty}
 
+
 ////
-started with v2 outline and
-replaced `==` with `\t`
-and other fiddling, but in the end, everything wraps text back to column zero; unless in the adoc list 
-////
+Here's a stab using tables; it should print and link well enough; but I don't expect it to be an easy DB ingestion in this format.
+
+I'm still playing with the section levels, which don't need to be as large as depth 2, but I use their appearance in the Outline feature of the Explorer for navigation.
+
 == {empty}
+{empty}
+
 === {empty}
+{empty}
+
+////
+
+== CHAPTER I -- THE DIVINE PROVIDENCE IS THE GOVERNMENT OF THE DIVINE LOVE AND WISDOM OF THE LORD(@DP 1-26)
+
+[frame=all]
+[grid=all]
+[width=100%]
+[cols="1,1,10,2"]
+|===
+3+|I. The universe, with all things in general and in particular therein, was created from Divine Love by means of Divine Wisdom|(@DP 3)
+3+|II. The Divine Love and Wisdom proceed from the Lord as one|(@DP 4)
+|
+2+|1. That one without form does not exist, but that form itself makes one; and then|
+|
+2+|2. That form makes one more perfectly in proportion as those things which enter into it are distinct from one another and yet are united.|
+3+|III. This one is in a certain manner imaged in every created thing|(@DP 5)
+3+|IV. It is of the Divine Providence that every created thing, both as a whole and in part, should be such a one; and if it is not, that it should be made so |(@DP 7)
+3+|V. The good of love is not good except so far as it is united to the truth of wisdom; and the truth of wisdom is not truth except so far as it is united to the good of love | (@DP 10)
+3+|VI. The good of love not united to the truth of wisdom is not good in itself, but only the apparent truth; and the truth of wisdom not united to the good of love is not truth in itself, but only apparent truth |(@DP 14)
+3+|VII. The Lord does not suffer that anything should be divided; therefore it must be either in good and at the same time in truth, or in evil and at the same time in falsity |(@DP 16)
+3+|VIII. That which is in good and at the same time in truth has reality; and that which is in evil and at the same time in falsity has no reality |(@DP 19)
+3+|IX. The Divine Providence of the Lord causes what is evil and at the same time false to serve for equilibrium, relation and purification, and so for the union of good and truth in others |(@DP 21)
+|===
+{empty}
+
+== CHAPTER II -- THE DIVINE PROVIDENCE FROM THE LORD HAS FOR ITS END A HEAVEN FROM THE HUMAN RACE(@DP 27-45)
+
+[frame=all]
+[grid=all]
+[width=100%]
+[cols="1,1,10,2"]
+|===
+3+|I. Heaven is conjunction with the Lord ....|(@DP 28)
+3+|II. Man by creation is such that he can be more and more nearly conjoined to the Lord ....|(@DP 32)
+3+|III. The more nearly a man is conjoined to the Lord the wiser he becomes ....|(@DP 34)
+3+|IV. The more nearly a man is conjoined to the Lord the happier he becomes ....|(@DP 37)
+3+|V. The more nearly a man is conjoined to the Lord the more distinctly does he appear to himself to be master of himself (suus), and yet the more evidently does he recognize that he is the Lord's ....|(@DP 42)
+|===
 
 
-==== CHAPTER Ⅰ -- THE DIVINE PROVIDENCE IS THE GOVERNMENT OF THE DIVINE LOVE AND WISDOM OF THE LORD (n. 1-26)
-	I. The universe, with all things in general and in particular therein, was created from Divine Love by means of Divine Wisdom .... (n. 3)
+== CHAPTER Ⅲ -- THE DIVINE PROVIDENCE OF THE LORD, IN EVERYTHING THAT IT DOES, REGARDS THE INFINITE AND THE ETERNAL(@DP 46-69)
 
-	II. The Divine Love and Wisdom proceed from the Lord as one .... (n. 4)
+[frame=all]
+[grid=all]
+[width=100%]
+[cols="1,1,10,2"]
+|===
+3+|I. The Infinite in itself and the Eternal in itself is the same as the Divine ....|(@DP 48)
+3+|II. The Infinite and Eternal in itself cannot but regard what is infinite [and eternal] from itself in finite things ....|(@DP 52)
+3+|III. The Divine Providence in everything it does regards what is infinite and eternal from itself, especially in saving the human race ....|(@DP 55)
+3+|IV. An image of the Infinite and Eternal is presented in an angelic heaven from a saved human race ....|(@DP 60)
+3+|V. The inmost of the Divine Providence is to regard what is infinite and eternal in forming the angelic heaven, in order that it may be before the Lord as one man, the image of Himself ....|(@DP 64)
+|===
 
-		1. That one without form does not exist, but that form itself makes one; and then
-		2. That form makes one more perfectly in proportion as those things which enter into it are distinct from one another and yet are united.
-	III. This one is in a certain manner imaged in every created thing .... (n. 5)
-	IV. It is of the Divine Providence that every created thing, both as a whole and in part, should be such a one; and if it is not, that it should be made so .... (n. 7)
-	V. The good of love is not good except so far as it is united to the truth of wisdom; and the truth of wisdom is not truth except so far as it is united to the good of love .... (n. 10)
-	VI. The good of love not united to the truth of wisdom is not good in itself, but only the apparent truth; and the truth of wisdom not united to the good of love is not truth in itself, but only apparent truth .... (n. 14)
-	VII. The Lord does not suffer that anything should be divided; therefore it must be either in good and at the same time in truth, or in evil and at the same time in falsity .... (n. 16)
-	VIII. That which is in good and at the same time in truth has reality; and that which is in evil and at the same time in falsity has no reality .... (n. 19)
-	IX. The Divine Providence of the Lord causes what is evil and at the same time false to serve for equilibrium, relation and purification, and so for the union of good and truth in others .... (n. 21)
+== CHAPTER Ⅳ -- THERE ARE LAWS OF THE DIVINE PROVIDENCE, AND THESE ARE UNKNOWN TO MEN(@DP 70-190)
 
-==== CHAPTER Ⅱ -- THE DIVINE PROVIDENCE FROM THE LORD HAS FOR ITS END A HEAVEN FROM THE HUMAN RACE (n. 27-45)
-	I. Heaven is conjunction with the Lord .... (n. 28)
-	II. Man by creation is such that he can be more and more nearly conjoined to the Lord .... (n. 32)
-	III. The more nearly a man is conjoined to the Lord the wiser he becomes .... (n. 34)
-	IV. The more nearly a man is conjoined to the Lord the happier he becomes .... (n. 37)
-	V. The more nearly a man is conjoined to the Lord the more distinctly does he appear to himself to be master of himself (suus), and yet the more evidently does he recognize that he is the Lord's .... (n. 42)
+=== First Law: It is a law of the Divine Providence that man should act from freedom to reason ....(@DP 71-99)
 
-==== CHAPTER Ⅲ -- THE DIVINE PROVIDENCE OF THE LORD, IN EVERYTHING THAT IT DOES, REGARDS THE INFINITE AND THE ETERNAL (n. 46-69)
-	I. The Infinite in itself and the Eternal in itself is the same as the Divine .... (n. 48)
-	II. The Infinite and Eternal in itself cannot but regard what is infinite [and eternal] from itself in finite things .... (n. 52)
-	III. The Divine Providence in everything it does regards what is infinite and eternal from itself, especially in saving the human race .... (n. 55)
-	IV. An image of the Infinite and Eternal is presented in an angelic heaven from a saved human race .... (n. 60)
-	V. The inmost of the Divine Providence is to regard what is infinite and eternal in forming the angelic heaven, in order that it may be before the Lord as one man, the image of Himself .... (n. 64)
+[frame=all]
+[grid=all]
+[width=100%]
+[cols="1,1,10,2"]
+|===
+3+|I. Man has reason and freedom, or rationality and liberty; and these two faculties are from the Lord in man ....|(@DP 73)
+3+|II. Whatever a man does from freedom, whether it be of reason or not, provided it is according to his reason, appears to him to be his own ....|(@DP 74)
+3+|III. Whatever a man does from freedom according to his thought, is appropriated to him as his own, and remains with him.|(@DP 78)
+3+|IV. It is by means of these two faculties (rationality and liberty) that man is reformed and regenerated by the Lord; and without them he cannot be reformed and regenerated  ....|(@DP 82)
+3+|V. By means of these two faculties man can be so far reformed and regenerated as he can be led by means of them to acknowledge that everything true and good that he thinks and does is from the Lord, and not from himself ....|(@DP 87)
+3+|VI. The conjunction of the Lord with man, and the reciprocal conjunction of man with the Lord, are effected by means of these two faculties ....|(@DP 92)
+3+|VII. The Lord preserves these two faculties in man unimpaired and as sacred in every step of His Divine Providence .|(@DP 96)
+3+|VIII. Therefore it is of the Divine Providence that man should act from freedom according to reason ....|(@DP 97)
+|===
 
-==== CHAPTER Ⅳ -- THERE ARE LAWS OF THE DIVINE PROVIDENCE, AND THESE ARE UNKNOWN TO MEN (n. 70-190)
-First Law: It is a law of the Divine Providence that man should act from freedom to reason .... (n. 71-99)
-	I. Man has reason and freedom, or rationality and liberty; and these two faculties are from the Lord in man .... (n. 73)
-	II. Whatever a man does from freedom, whether it be of reason or not, provided it is according to his reason, appears to him to be his own .... (n. 74)
-	III. Whatever a man does from freedom according to his thought, is appropriated to him as his own, and remains with him.(n. 78)
-	IV. It is by means of these two faculties (rationality and liberty) that man is reformed and regenerated by the Lord; and without them he cannot be reformed and regenerated  .... (n. 82)
-	V. By means of these two faculties man can be so far reformed and regenerated as he can be led by means of them to acknowledge that everything true and good that he thinks and does is from the Lord, and not from himself .... (n. 87)
-	VI. The conjunction of the Lord with man, and the reciprocal conjunction of man with the Lord, are effected by means of these two faculties .... (n. 92)
-	VII. The Lord preserves these two faculties in man unimpaired and as sacred in every step of His Divine Providence . (n. 96)
-	VIII. Therefore it is of the Divine Providence that man should act from freedom according to reason .... (n. 97)
-Second Law: It is a law of the Divine Providence that man should as from himself remove evils as sins in the external man; and thus and not otherwise can the Lord remove evils in the internal man, and then at the same time in the external .... (n. 100-128)
-	I. Every man has an external and an internal of thought .... (n. 103)
-	II. The external of man's thought is in itself of the same nature as its internal .... (n. 106)
-	III. The internal cannot be purified from the lusts of evil as long as the evils in the external man are not removed, because they form an obstruction .... (n. 111)
-	IV. Evils in the external man cannot be removed by the Lord except through man's instrumentality .... (n. 114)
-	V. Therefore man ought as of himself to remove evils from the external man .... (n. 118)
-	VI. The Lord then purifies man from the lusts of evil in the internal man, and from the evils themselves in the external  .... (n. 119)
-		1. It is the continual endeavor of the Divine Providence of the Lord to unite man to Himself and Himself to man in order that He may be able to bestow upon man the felicities of eternal life; and this can be done only so far as evils with their lusts are removed .... (n. 123)
-		2. The Lord in no wise acts upon any particular thing in man separately but upon all things at the same time .. (n. 124)
-		3. The Lord acts from inmost things and from ultimates at the same time .... (n. 124)
-Third Law: It is a law of the Divine Providence that man should not be compelled by external means to think and will, and thus to believe and love, the things of religion, but should persuade and at times compel himself to do so .... (n. 129-153)
-	I. No one is reformed by miracles and signs, because they compel .... (n. 130)
-	II. No one is reformed by visions and by conversations with the dead, because they compel .... (n. 134)
-	III. No one is reformed by threats and punishments, because they compel .... (n. 136)
-		1. The external cannot compel the internal, but the internal can compel the external
-		2. The internal is so averse to compulsion by the external that it turns itself away
-		3. External delights allure the internal to consent and also to love
-		4. There can be a forced internal and a free internal.
-	IV. No one is reformed in states that are not of rationality and liberty .... (n. 138)
-	V. It is not contrary to rationality and liberty to compel oneself .... (n. 145)
-	VI. The external man must be reformed by means of the internal, and not the reverse .... (n. 150)
-Fourth Law: It is a law of the Divine Providence that man should be led and taught by the Lord from heaven by means of the Word, and doctrine and preaching from the Word, and this to all appearance as of himself .... (n. 154-174)
-	I. Man is led and taught by the Lord alone .... (n. 155)
-		1. There is one sole essence, one sole substance, and one sole form, from which are all the essences, substances and forms that have been created .... (n. 157)
-		2. This one sole essence, substance and form is the Divine Love and the Divine Wisdom, from which are all things relating to love and wisdom in man .... (n. 157)
-		3. In like manner it is Good itself and Truth itself to which all things have relation .... (n. 157)
-		4. These are life, which is the source of the life of all and of all things pertaining to life .... (n. 157)
-		5. This One Only and the Self is Omnipresent, Omniscient and Omnipotent .... (n. 157)
-		6. This One Only and the Self is the Lord from eternity, or Jehovah .... (n. 157)
-	II. Man is led and taught by the Lord alone through the angelic heaven and from it .... (n. 162)
-	III. Man is led by the Lord by means of influx, and taught by means of enlightenment .... (n. 165)
-	IV. Man is taught by the Lord by means of the Word, and by doctrine and preaching from the Word, thus immediately by Himself alone .... (n. 171)
-		1. The Lord is the Word because the Word is from Him and treats of Him .... (n. 172)
-		2. Also because it is the Divine Truth of the Divine Good  .... (n. 172)
-		3. Therefore to be taught from the Word is to be taught from Him .... (n. 172)
-		4. The fact that this is done mediately through preaching does not destroy its immediate nature .... (n. 172)
-	V. Man is led and taught by the Lord in externals to all appearance as of himself .... (n. 174) Fifth Law: It is a law of the Divine Providence that man should not perceive and feel anything of the operation of the Divine Providence, but still that he should know and acknowledge it .... (n. 175-190)
-	I. If a man perceived and felt the operation of the Divine Providence he would not act from freedom according to reason; nor would anything appear to him to be as from himself. It would be the same if he foreknew events (n. 176)
-	II. If man saw clearly the Divine Providence he would interpose in the order and tenor of its course, and would pervert and destroy that order .... (n. 180)
-		1. There is such a connection between external and internal things that they make one in every operation.
-		2. Man is associated with the Lord only in certain externals; and if he were at the same time in internals he would pervert and destroy the whole order and tenor of the course of the Divine Providence;
-	III. If man saw clearly the Divine Providence he would either deny God or make himself God .... (n. 182)
-	IV. It is granted to man to see the Divine Providence in the back and not in the face; and this in a spiritual state and not in a natural state .... (n. 187)
+=== Second Law: It is a law of the Divine Providence that man should as from himself remove evils as sins in the external man; and thus and not otherwise can the Lord remove evils in the internal man, and then at the same time in the external ....(@DP 100-128)
 
-==== CHAPTER Ⅴ -- THERE IS NO SUCH THING AS MAN'S OWN PRUDENCE. IT ONLY APPEARS THAT THERE IS, AND THERE OUGHT TO BE THIS APPEARANCE; BUT THE DIVINE PROVIDENCE IS UNIVERSAL BECAUSE IT IS IN THINGS MOST INDIVIDUAL (n. 191-213)
-	I. All man's thoughts are from the affections of his life's love; and there are no thoughts whatever, nor can there be, except from them .... (n. 193)
-	II. The affections of a man's life's love are known to the Lord alone .... (n. 197)
-	III. The Lord leads the affections of a man's life's love by means of His Divine Providence, and at the same time also the thoughts from which human prudence is derived .... (n. 200)
-	IV. The Lord by means of His Divine Providence arranges the affections of the whole human race into one form, which is the human form .... (n. 201)
-	V. In consequence of this heaven and hell, which are from the human race, are in such a form .... (n. 204)
-	VI. Those who have acknowledged nature alone and human prudence alone constitute hell; while those who have acknowledged God and His Divine Providence constitute heaven .... (n. 205)
-		1. Whence man's own prudence is and what it is .... (n. 206)
-		2. Whence the Divine Providence is and what it is . (n. 207)
-		3. Who they are and what their nature is who acknowledge the Divine Providence, and who acknowledge man's own prudence .... (n. 208)
-	VII. None of these things can be effected unless it appears to man that he thinks from himself and disposes from himself..(n. 210)
+[frame=all]
+[grid=all]
+[width=100%]
+[cols="1,1,10,2"]
+|===
+3+|I. Every man has an external and an internal of thought ....|(@DP 103)
+3+|II. The external of man's thought is in itself of the same nature as its internal ....|(@DP 106)
+3+|III. The internal cannot be purified from the lusts of evil as long as the evils in the external man are not removed, because they form an obstruction ....|(@DP 111)
+3+|IV. Evils in the external man cannot be removed by the Lord except through man's instrumentality ....|(@DP 114)
+3+|V. Therefore man ought as of himself to remove evils from the external man ....|(@DP 118)
+3+|VI. The Lord then purifies man from the lusts of evil in the internal man, and from the evils themselves in the external  ....|(@DP 119)
+3+|VII. It is the continual endeavor of the Divine Providence of the Lord to unite man to Himself and Himself to man in order that He may be able to bestow upon man the felicities of eternal life; and this can be done only so far as evils with their lusts are removed .... |(@DP 123)
+|
+2+|1. The Lord in no wise acts upon any particular thing in man separately but upon all things at the same time ... |(@DP 124)
+|
+2+|2. The Lord acts from inmost things and from ultimates at the same time ....|(@DP 124)
+|===
 
-==== CHAPTER Ⅵ -- THE DIVINE PROVIDENCE REGARDS ETERNAL THINGS, AND NOT TEMPORAL THINGS EXCEPT SO FAR AS THEY ACCORD WITH ETERNAL THINGS (n. 214-220).
-	I. Temporal things relate to dignities and riches, thus to honors and gain in the world .... (n. 215)
-		1. What dignities and riches are and whence they are  .... (n. 215)
-		2. What the nature of the love of dignities and riches for their own sake is, and what the love of them for the sake of uses .... (n. 215)
-		3. These two loves are distinct from each other, as heaven and hell are .... (n. 215)
-		4. Man hardy knows the difference between these two loves .... (n. 215)
-	II. Eternal things relate to spiritual honors and wealth, which pertain to love and wisdom in heaven .... (n. 216)
-		1. Honors and wealth are blessings and they are curses  .... (n. 217)
-		2. When honors and wealth are blessings they are spiritual and eternal, but when they are curses they are temporal and fleeting .... (n. 217)
-		3. Honors and wealth that are curses, in comparison with those that are blessings, are as nothing compared with everything, or as that which in itself has no existence compared with that which has existence in itself .... (n. 217)
-	III. Temporal and eternal things are separated by man, but are conjoined by the Lord .... (n. 218)
-		1. What temporal things are, and what eternal things are  .... (n. 219)
-		2. Man is in himself temporal and the Lord is in Himself eternal; and therefore nothing can proceed from man but what is temporal, and nothing from the Lord but what is eternal .... (n. 219)
-		3. Temporal things separate eternal things from themselves, and eternal things conjoin temporal things to themselves .... (n. 219)
-		4. The Lord conjoins man to Himself by means of appearances .... (n. 219)
-	IV. The conjunction of temporal and eternal things is the Divine Providence of the Lord .... (n. 220)
-		1. It is from the Divine Providence that man by death puts off what is natural and temporal, and puts on what is spiritual and eternal .... (n. 220)
-		2. The Lord by His Divine Providence conjoins Himself to natural things by means of spiritual things, and to temporal things by means of eternal things, according to uses .... (n. 220)
-		3. The Lord conjoins Himself to uses by means of correspondences, and thus by means of appearances in accordance with the confirmations of these by man  .... (n. 220)
-		4. This conjunction of temporal and eternal things is the Divine Providence .... (n. 220)
+=== Third Law: It is a law of the Divine Providence that man should not be compelled by external means to think and will, and thus to believe and love, the things of religion, but should persuade and at times compel himself to do so ....(@DP 129-153)
 
-==== CHAPTER Ⅶ -- MAN IS ADMITTED INTERIORLY INTO THE TRUTHS OF FAITH AND INTO THE GOODS OF CHARITY ONLY SO FAR AS HE CAN BE KEPT IN THEM RIGHT ON TO THE END OF HIS LIFE (n. 221-233)
-	I. A man may be admitted into the wisdom of spiritual things, and also into the love of them, and yet not be reformed  .... (n. 222)
-	II. If a man afterwards departs from these, and turns aside into what is contrary, he profanes holy things .... (n. 226)
-		1. Whatever a man thinks, speaks and does from his will, whether good or evil, is appropriated to him, and remains .... (n. 227)
-		2. But the Lord by His Divine Providence continually foresees and disposes, that evil may be by itself and good by itself and thus that they may be separated .... (n. 227)
-		3. This cannot be done if man first acknowledges the truths of faith and lives according to them, and afterwards departs from them and denies them (n. 227)
-		4. He then mingles good and evil to such a degree that they cannot be separated .... (n. 227)
-		5. And since the good and the evil in every man must be separated, and in such a person they cannot be separated, therefore he is destroyed as to everything that is truly human .... (n. 227)
-	III. There are many kinds of profanation, but this kind is the worst of all. [It is committed by those] .... (n. 229)
-		1. Who make jests from the Word and about the Word, or from the Divine things of the Church and about them  .... (n. 231)
-		2. Who understand and acknowledge Divine truths, and yet live contrary to them .... (n. 231)
-		3. Who apply the sense of the Letter of the Word to confirm evil loves and false principles .... (n. 231)
-		4. Who speak with the lips pious and holy things, and who also by their tone of voice and gesture counterfeit the affections of the love of such things, and yet in their heart do not believe and love them .... (n. 231)
-		5. Who attribute to themselves what is Divine .... (n. 231)
-		6. Who first acknowledge Divine truths and live according to them, but afterwards depart from them and deny them  .... (n. 231)
-	IV. Therefore the Lord admits man interiorly into the truths of wisdom and at the same time into the goods of love only so far as he can be kept in them right on to the end of his life  .... (n. 232)
-		1. Evil and good cannot exist together in man's interiors; and consequently neither can the falsity of evil and the truth of good .... (n. 233)
-		2. Good and the truth of good can be introduced by the Lord into man's interiors only so far as the evil and the falsity of evil there have been removed .... (n. 233)
-		3. If good with its truth were introduced there before or in a greater measure than evil with its falsity is removed, man would depart from good and return to his evil .... (n. 233)
-		4. When man is in evil many truths may be introduced into his understanding, and these may be stored up in his memory, and yet not be profaned .... (n. 233)
-		5. The Lord, however, by His Divine Providence takes the greatest care that the will may not receive these from
-the understanding sooner or in a greater measure than man as of himself removes evil in the external man .... (n. 233)
-		6. If the will should receive them sooner or in greater measure it would then adulterate the good and the understanding would falsify the truth by mingling them with evils and falsities .... (n. 233)
-		7. Therefore the Lord admits man interiorly into the truths of wisdom and into the goods of love only so far as he can be kept in them right on to the end of his life  .... (n. 233)
+[frame=all]
+[grid=all]
+[width=100%]
+[cols="1,1,10,2"]
+|===
+3+|I. No one is reformed by miracles and signs, because they compel ....|(@DP 130)
+3+|II. No one is reformed by visions and by conversations with the dead, because they compel ....|(@DP 134)
+3+|III. No one is reformed by threats and punishments, because they compel ....|(@DP 136)
+|
+2+|1. The external cannot compel the internal, but the internal can compel the external|
+|
+2+|2. The internal is so averse to compulsion by the external that it turns itself away|
+|
+2+|3. External delights allure the internal to consent and also to love|
+|
+2+|4. There can be a forced internal and a free internal.|
+3+|IV. No one is reformed in states that are not of rationality and liberty ....|(@DP 138)
+3+|V. It is not contrary to rationality and liberty to compel oneself ....|(@DP 145)
+3+|VI. The external man must be reformed by means of the internal, and not the reverse ....|(@DP 150)
+|===
 
-==== CHAPTER Ⅷ -- LAWS OF PERMISSION ARE ALSO LAWS OF THE DIVINE PROVIDENCE (n. 234-274)
-	I. CONFIRMATIONS FROM THE WORD IN FAVOR OF NATURE AGAINST GOD, AND IN FAVOR OF HUMAN PRUDENCE AGAINST THE DIVINE PROVIDENCE (Summarized in n. 236) .... (n. 241-248)
-		1. The wisest of men, Adam, and his wife suffered themselves to be led astray by a serpent, and God did not avert this by His Divine Providence .... (n. 241)
-		2. Their first son Cain killed his brother Abel, and God did not withhold him at the time by speaking to him, but only after the deed cursed him .... (n. 242)
-		3. The Israelitish nation worshipped a golden calf in the desert, and acknowledged it as the god which led them out of the land of Egypt. Yet Jehovah saw this from Mount Sinai nearby and did not seek to prevent it .... (n. 243)
-		4. David numbered the people, and in consequence a pestilence was sent upon them, by which so many
-thousands of men perished; and God, not before but after the deed, sent the prophet Gad to him and announced punishment .... (n. 244)
-		5. Solomon was permitted to establish idolatrous worship  .... (n. 245)
-		6. Many kings after him were permitted to profane the temple and the holy things of the Church .... (n. 246)
-		7. And lastly, that nation was permitted to crucify the Lord  .... (n. 247)
-	II. CONFIRMATIONS FROM THE WORLDLY PROSPERITY OF THE WICKED AGAINST THE DIVINE PROVIDENCE (Summarized in n. 237) .... (n. 249-253)
-		1. Every worshipper of himself and of nature confirms himself against the Divine Providence when he sees in the world so many wicked people, and so many of their impieties in which some of them even glory, and yet no punishment of such by God .... (n. 249)
-		2. The worshipper of himself and of nature confirms himself against the Divine Providence when he sees the impious advanced to honors and become great in the state and leaders in the Church, and that they abound in riches and live in luxury and magnificence, while he sees the worshippers of God living in contempt and poverty .... (n. 250)
-		3. The worshipper of himself and of nature confirms himself against the Divine Providence when he reflects that wars are permitted and in them the slaughter of so many men, and the plundering of their wealth ... (n. 251)
-		4. The worshipper of himself and of nature confirms himself against the Divine Providence when he reflects according to his perception that victories are on the side of prudence and sometimes not on the side of
-justice, and that it makes no difference whether the general is an upright man or not .... (n. 252)
-	III. CONFIRMATIONS FROM THE RELIGIOUS CONDITIONS OF VARIOUS PEOPLES AGAINST THE DIVINE PROVIDENCE (Summarized in n. 238) .... (n. 254-261)
-		1. The merely natural man confirms himself against the Divine Providence when he regards the religious conditions of the various peoples, observing that there are some who are totally ignorant of God, and some who worship the sun and moon, and some who worship idols and graven images .... (n. 254)
-		2. The merely natural man confirms himself against the Divine Providence when he sees that the Mohammedan religion is accepted by so many empires and kingdoms .... (n. 255)
-		3. The merely natural man confirms himself against the Divine Providence when he sees that the Christian religion is accepted only in a smaller part of the habitable globe, called Europe, and is in a state of division there .... (n. 256)
-		4. The merely natural man confirms himself against the Divine Providence because in many kingdoms where the Christian religion is received there are some who claim for themselves Divine power, and desire to be worshipped as gods, and because they invoke the dead  .... (n. 257)
-		5. The merely natural man confirms himself against the Divine Providence from the fact that among those who profess the Christian religion there are some who place salvation in certain phrases which they must think and say and not at all in good works which they must do .... (n. 258)
-		6. The merely natural man confirms himself against the Divine Providence by the fact that there have been and still are so many heresies in the Christian world, such as Quakerism, Moravianism, Anabaptism, and other  .... (n. 259)
-		7. The merely natural man confirms himself against the Divine Providence by the fact that Judaism still continues .... (n. 260)
-	IV. CONFIRMATIONS FROM PRESENT-DAY RELIGIOUS CONDITIONS IN FAVOR OF NATURE AND HUMAN PRUDENCE (Summarized in n. 239) .... (n. 262-274)
-		1. A doubt may be raised against the Divine Providence from the fact that the whole Christian world worships one God under three Persons, that is, three Gods, and that hitherto it has not known that God one in Person and in Essence, in whom is a Trinity, and that this God is the Lord .... (n. 262)
-		2. A doubt may be raised against the Divine Providence from the fact that hitherto it has not been known that in every particular of the Word there is a spiritual sense from which it derives its holiness .... (n. 264) (1) The spiritual sense of the Word was not revealed before because if it had been, the Church would have profaned it, and thereby would have profaned the very holiness itself of the Word .... (n. 264) (2) The genuine truths, in which the spiritual sense of the Word resides, were not revealed by the Lord until the Last Judgment had been accomplished, and the new Church which is meant by the Holy Jerusalem was about to be established by the Lord  .... (n. 264)
-		3. A doubt may be raised against the Divine Providence from the fact that hitherto it has not been known that to shun evils as sins is the Christian religion itself . (n. 265)
-		4. A doubt may be raised against the Divine Providence from the fact that hitherto it has not been known that a man lives as a man after death, and that this has not been disclosed before .... (n. 274)
+=== Fourth Law: It is a law of the Divine Providence that man should be led and taught by the Lord from heaven by means of the Word, and doctrine and preaching from the Word, and this to all appearance as of himself ....(@DP 154-174)
 
-==== CHAPTER IX -- EVILS ARE PERMITTED FOR THE SAKE OF AN END, WHICH IS SALVATION (n. 275-284)
-	I. Every man is in evil, and must be led away from evil that he may be reformed .... (n. 277)
-	II. Evils cannot be removed unless they appear .... (n. 278)
-		1. Concerning those who confess themselves guilty of sins of all kinds, and do not search out any one sin in themselves;
-		2. Concerning those who from religious principles omit such inquiry;
-		3. Concerning those who on account of worldly matters give no thought to sins, and consequently do not know them;
-		4. Concerning those who favor sins and therefore cannot know them
-		5. In all these persons sins do not appear, and therefore cannot be removed
-		6. Lastly, the reason hitherto unknown will be made manifest why evils cannot be removed without this
+[frame=all]
+[grid=all]
+[width=100%]
+[cols="1,1,10,2"]
+|===
+3+|I. Man is led and taught by the Lord alone ....|(@DP 155)
+|
+2+|1. There is one sole essence, one sole substance, and one sole form, from which are all the essences, substances and forms that have been created|
+|
+2+|2. This one sole essence, substance and form is the Divine Love and the Divine Wisdom, from which are all things relating to love and wisdom in man|
+|
+2+|3. In like manner it is Good itself and Truth itself to which all things have relation|
+|
+2+|4. These are life, which is the source of the life of all and of all things pertaining to life|
+|
+2+|5. This One Only and the Self is Omnipresent, Omniscient and Omnipotent ....(@DP 157)|
+|
+2+|6. This One Only and the Self is the Lord from eternity, or Jehovah ....(@DP 157)|
+3+|II. Man is led and taught by the Lord alone through the angelic heaven and from it ....|(@DP 162)
+3+|III. Man is led by the Lord by means of influx, and taught by means of enlightenment ....|(@DP 165)
+3+|IV. Man is taught by the Lord by means of the Word, and by doctrine and preaching from the Word, thus immediately by Himself alone ....|(@DP 171)
+|
+2+|1. The Lord is the Word because the Word is from Him and treats of Him|
+|
+2+|2. Also because it is the Divine Truth of the Divine Good|
+|
+2+|3. Therefore to be taught from the Word is to be taught from Him|
+|
+2+|4. The fact that this is done mediately through preaching does not destroy its immediate nature|
+3+|V. Man is led and taught by the Lord in externals to all appearance as of himself ....|(@DP 174)
+|===
+
+=== Fifth Law: It is a law of the Divine Providence that man should not perceive and feel anything of the operation of the Divine Providence, but still that he should know and acknowledge it ....(@DP 175-190)
+
+[frame=all]
+[grid=all]
+[width=100%]
+[cols="1,1,10,2"]
+|===
+3+|I. If a man perceived and felt the operation of the Divine Providence he would not act from freedom according to reason; nor would anything appear to him to be as from himself. It would be the same if he foreknew events|(@DP 176)
+3+|II. If man saw clearly the Divine Providence he would interpose in the order and tenor of its course, and would pervert and destroy that order ....|(@DP 180)
+|
+2+|1. There is such a connection between external and internal things that they make one in every operation.|
+|
+2+|2. Man is associated with the Lord only in certain externals; and if he were at the same time in internals he would pervert and destroy the whole order and tenor of the course of the Divine Providence;|
+3+|III. If man saw clearly the Divine Providence he would either deny God or make himself God ....|(@DP 182)
+3+|IV. It is granted to man to see the Divine Providence in the back and not in the face; and this in a spiritual state and not in a natural state ....|(@DP 187)
+|===
+
+== CHAPTER Ⅴ -- THERE IS NO SUCH THING AS MAN'S OWN PRUDENCE. IT ONLY APPEARS THAT THERE IS, AND THERE OUGHT TO BE THIS APPEARANCE; BUT THE DIVINE PROVIDENCE IS UNIVERSAL BECAUSE IT IS IN THINGS MOST INDIVIDUAL(@DP 191-213)
+
+[frame=all]
+[grid=all]
+[width=100%]
+[cols="1,1,10,2"]
+|===
+3+|I. All man's thoughts are from the affections of his life's love; and there are no thoughts whatever, nor can there be, except from them ....|(@DP 193)
+3+|II. The affections of a man's life's love are known to the Lord alone ....|(@DP 197)
+3+|III. The Lord leads the affections of a man's life's love by means of His Divine Providence, and at the same time also the thoughts from which human prudence is derived ....|(@DP 200)
+3+|IV. The Lord by means of His Divine Providence arranges the affections of the whole human race into one form, which is the human form ....|(@DP 201)
+3+|V. In consequence of this heaven and hell, which are from the human race, are in such a form ....|(@DP 204)
+3+|VI. Those who have acknowledged nature alone and human prudence alone constitute hell; while those who have acknowledged God and His Divine Providence constitute heaven ....|(@DP 205)
+|
+2+|1. Whence man's own prudence is and what it is ....(@DP 206)|
+|
+2+|2. Whence the Divine Providence is and what it is .(@DP 207)|
+|
+2+|3. Who they are and what their nature is who acknowledge the Divine Providence, and who acknowledge man's own prudence ....(@DP 208)|
+3+|VII. None of these things can be effected unless it appears to man that he thinks from himself and disposes from himself..|(@DP 210)
+|===
+
+== CHAPTER Ⅵ -- THE DIVINE PROVIDENCE REGARDS ETERNAL THINGS, AND NOT TEMPORAL THINGS EXCEPT SO FAR AS THEY ACCORD WITH ETERNAL THINGS(@DP 214-220).
+
+[frame=all]
+[grid=all]
+[width=100%]
+[cols="1,1,10,2"]
+|===
+3+|I. Temporal things relate to dignities and riches, thus to honors and gain in the world ....|(@DP 215)
+|
+2+|1. What dignities and riches are and whence they are  ....(@DP 215)|
+|
+2+|2. What the nature of the love of dignities and riches for their own sake is, and what the love of them for the sake of uses ....(@DP 215)|
+|
+2+|3. These two loves are distinct from each other, as heaven and hell are ....(@DP 215)|
+|
+2+|4. Man hardy knows the difference between these two loves ....(@DP 215)|
+3+|II. Eternal things relate to spiritual honors and wealth, which pertain to love and wisdom in heaven ....|(@DP 216)
+|
+2+|1. Honors and wealth are blessings and they are curses  ....(@DP 217)|
+|
+2+|2. When honors and wealth are blessings they are spiritual and eternal, but when they are curses they are temporal and fleeting ....(@DP 217)|
+|
+2+|3. Honors and wealth that are curses, in comparison with those that are blessings, are as nothing compared with everything, or as that which in itself has no existence compared with that which has existence in itself ....(@DP 217)|
+3+|III. Temporal and eternal things are separated by man, but are conjoined by the Lord ....|(@DP 218)
+|
+2+|1. What temporal things are, and what eternal things are  ....(@DP 219)|
+|
+2+|2. Man is in himself temporal and the Lord is in Himself eternal; and therefore nothing can proceed from man but what is temporal, and nothing from the Lord but what is eternal ....(@DP 219)|
+|
+2+|3. Temporal things separate eternal things from themselves, and eternal things conjoin temporal things to themselves ....(@DP 219)|
+|
+2+|4. The Lord conjoins man to Himself by means of appearances ....(@DP 219)|
+3+|IV. The conjunction of temporal and eternal things is the Divine Providence of the Lord ....|(@DP 220)
+|
+2+|1. It is from the Divine Providence that man by death puts off what is natural and temporal, and puts on what is spiritual and eternal ....(@DP 220)|
+|
+2+|2. The Lord by His Divine Providence conjoins Himself to natural things by means of spiritual things, and to temporal things by means of eternal things, according to uses ....(@DP 220)|
+|
+2+|3. The Lord conjoins Himself to uses by means of correspondences, and thus by means of appearances in accordance with the confirmations of these by man  ....(@DP 220)|
+|
+2+|4. This conjunction of temporal and eternal things is the Divine Providence ....(@DP 220)|
+|===
+
+== CHAPTER Ⅶ -- MAN IS ADMITTED INTERIORLY INTO THE TRUTHS OF FAITH AND INTO THE GOODS OF CHARITY ONLY SO FAR AS HE CAN BE KEPT IN THEM RIGHT ON TO THE END OF HIS LIFE(@DP 221-233)
+
+[frame=all]
+[grid=all]
+[width=100%]
+[cols="1,1,10,2"]
+|===
+3+|I. A man may be admitted into the wisdom of spiritual things, and also into the love of them, and yet not be reformed  ....|(@DP 222)
+3+|II. If a man afterwards departs from these, and turns aside into what is contrary, he profanes holy things ....|(@DP 226)
+|
+2+|1. Whatever a man thinks, speaks and does from his will, whether good or evil, is appropriated to him, and remains ....(@DP 227)|
+|
+2+|2. But the Lord by His Divine Providence continually foresees and disposes, that evil may be by itself and good by itself and thus that they may be separated ....(@DP 227)|
+|
+2+|3. This cannot be done if man first acknowledges the truths of faith and lives according to them, and afterwards departs from them and denies them(@DP 227)|
+|
+2+|4. He then mingles good and evil to such a degree that they cannot be separated ....(@DP 227)|
+|
+2+|5. And since the good and the evil in every man must be separated, and in such a person they cannot be separated, therefore he is destroyed as to everything that is truly human ....(@DP 227)|
+3+|III. There are many kinds of profanation, but this kind is the worst of all. [It is committed by those] ....|(@DP 229)
+|
+2+|1. Who make jests from the Word and about the Word, or from the Divine things of the Church and about them  ....(@DP 231)|
+|
+2+|2. Who understand and acknowledge Divine truths, and yet live contrary to them ....(@DP 231)|
+|
+2+|3. Who apply the sense of the Letter of the Word to confirm evil loves and false principles ....(@DP 231)|
+|
+2+|4. Who speak with the lips pious and holy things, and who also by their tone of voice and gesture counterfeit the affections of the love of such things, and yet in their heart do not believe and love them ....(@DP 231)|
+|
+2+|5. Who attribute to themselves what is Divine ....(@DP 231)|
+|
+2+|6. Who acknowledge the Word and  yet deny the Divinity of the Lord|
+|
+2+|7. Who first acknowledge Divine truths and live according to them, but afterwards depart from them and deny them  ....(@DP 231)|
+3+|IV. Therefore the Lord admits man interiorly into the truths of wisdom and at the same time into the goods of love only so far as he can be kept in them right on to the end of his life  ....|(@DP 232)
+|
+2+|1. Evil and good cannot exist together in man's interiors; and consequently neither can the falsity of evil and the truth of good ....(@DP 233)|
+|
+2+|2. Good and the truth of good can be introduced by the Lord into man's interiors only so far as the evil and the falsity of evil there have been removed ....(@DP 233)|
+|
+2+|3. If good with its truth were introduced there before or in a greater measure than evil with its falsity is removed, man would depart from good and return to his evil ....(@DP 233)|
+|
+2+|4. When man is in evil many truths may be introduced into his understanding, and these may be stored up in his memory, and yet not be profaned ....(@DP 233)|
+|
+2+|5. The Lord, however, by His Divine Providence takes the greatest care that the will may not receive these from the understanding sooner or in a greater measure than man as of himself removes evil in the external man ....(@DP 233)|
+|
+2+|6. If the will should receive them sooner or in greater measure it would then adulterate the good and the understanding would falsify the truth by mingling them with evils and falsities ....(@DP 233)|
+|
+2+|7. Therefore the Lord admits man interiorly into the truths of wisdom and into the goods of love only so far as he can be kept in them right on to the end of his life  ....(@DP 233)|
+|===
+
+
+== CHAPTER Ⅷ -- LAWS OF PERMISSION ARE ALSO LAWS OF THE DIVINE PROVIDENCE(@DP 234-274)
+
+[frame=all]
+[grid=all]
+[width=100%]
+[cols="1,1,10,2"]
+|===
+3+|I. CONFIRMATIONS FROM THE WORD IN FAVOR OF NATURE AGAINST GOD, AND IN FAVOR OF HUMAN PRUDENCE AGAINST THE DIVINE PROVIDENCE (Summarized in n. 236) ....|(@DP 241-248)
+|
+2+|1. The wisest of men, Adam, and his wife suffered themselves to be led astray by a serpent, and God did not avert this by His Divine Providence ....(@DP 241)|
+|
+2+|2. Their first son Cain killed his brother Abel, and God did not withhold him at the time by speaking to him, but only after the deed cursed him ....(@DP 242)|
+|
+2+|3. The Israelitish nation worshipped a golden calf in the desert, and acknowledged it as the god which led them out of the land of Egypt. Yet Jehovah saw this from Mount Sinai nearby and did not seek to prevent it ....(@DP 243)|
+|
+2+|4. David numbered the people, and in consequence a pestilence was sent upon them, by which so many thousands of men perished; and God, not before but after the deed, sent the prophet Gad to him and announced punishment ....(@DP 244)|
+|
+2+|5. Solomon was permitted to establish idolatrous worship  ....(@DP 245)|
+|
+2+|6. Many kings after him were permitted to profane the temple and the holy things of the Church ....(@DP 246)|
+|
+2+|7. And lastly, that nation was permitted to crucify the Lord  ....(@DP 247)|
+3+|II. CONFIRMATIONS FROM THE WORLDLY PROSPERITY OF THE WICKED AGAINST THE DIVINE PROVIDENCE (Summarized in n. 237) ....|(@DP 249-253)
+|
+2+|1. Every worshipper of himself and of nature confirms himself against the Divine Providence when he sees in the world so many wicked people, and so many of their impieties in which some of them even glory, and yet no punishment of such by God ....(@DP 249)|
+|
+2+|2. The worshipper of himself and of nature confirms himself against the Divine Providence when he sees the impious advanced to honors and become great in the state and leaders in the Church, and that they abound in riches and live in luxury and magnificence, while he sees the worshippers of God living in contempt and poverty ....(@DP 250)|
+|
+2+|3. The worshipper of himself and of nature confirms himself against the Divine Providence when he reflects that wars are permitted and in them the slaughter of so many men, and the plundering of their wealth ...(@DP 251)|
+|
+2+|4. The worshipper of himself and of nature confirms himself against the Divine Providence when he reflects according to his perception that victories are on the side of prudence and sometimes not on the side of justice, and that it makes no difference whether the general is an upright man or not ....(@DP 252)|
+3+|III. CONFIRMATIONS FROM THE RELIGIOUS CONDITIONS OF VARIOUS PEOPLES AGAINST THE DIVINE PROVIDENCE (Summarized in n. 238) ....|(@DP 254-261)
+|
+2+|1. The merely natural man confirms himself against the Divine Providence when he regards the religious conditions of the various peoples, observing that there are some who are totally ignorant of God, and some who worship the sun and moon, and some who worship idols and graven images ....(@DP 254)|
+|
+2+|2. The merely natural man confirms himself against the Divine Providence when he sees that the Mohammedan religion is accepted by so many empires and kingdoms ....(@DP 255)|
+|
+2+|3. The merely natural man confirms himself against the Divine Providence when he sees that the Christian religion is accepted only in a smaller part of the habitable globe, called Europe, and is in a state of division there ....(@DP 256)|
+|
+2+|4. The merely natural man confirms himself against the Divine Providence because in many kingdoms where the Christian religion is received there are some who claim for themselves Divine power, and desire to be worshipped as gods, and because they invoke the dead  ....(@DP 257)|
+|
+2+|5. The merely natural man confirms himself against the Divine Providence from the fact that among those who profess the Christian religion there are some who place salvation in certain phrases which they must think and say and not at all in good works which they must do ....(@DP 258)|
+|
+2+|6. The merely natural man confirms himself against the Divine Providence by the fact that there have been and still are so many heresies in the Christian world, such as Quakerism, Moravianism, Anabaptism, and other  ....(@DP 259)|
+|
+2+|7. The merely natural man confirms himself against the Divine Providence by the fact that Judaism still continues ....(@DP 260)|
+3+|IV. CONFIRMATIONS FROM PRESENT-DAY RELIGIOUS CONDITIONS IN FAVOR OF NATURE AND HUMAN PRUDENCE (Summarized in n. 239) ....|(@DP 262-274)
+|
+2+|1. A doubt may be raised against the Divine Providence from the fact that the whole Christian world worships one God under three Persons, that is, three Gods, and that hitherto it has not known that God one in Person and in Essence, in whom is a Trinity, and that this God is the Lord ....(@DP 262)|
+|
+2+|2. A doubt may be raised against the Divine Providence from the fact that hitherto it has not been known that in every particular of the Word there is a spiritual sense from which it derives its holiness ....(@DP 264)|
+|||(1) The spiritual sense of the Word was not revealed before because if it had been, the Church would have profaned it, and thereby would have profaned the very holiness itself of the Word ....(@DP 264)|
+|||(2) The genuine truths, in which the spiritual sense of the Word resides, were not revealed by the Lord until the Last Judgment had been accomplished, and the new Church which is meant by the Holy Jerusalem was about to be established by the Lord  ....(@DP 264)|
+|
+2+|3. A doubt may be raised against the Divine Providence from the fact that hitherto it has not been known that to shun evils as sins is the Christian religion itself .(@DP 265)|
+|
+2+|4. A doubt may be raised against the Divine Providence from the fact that hitherto it has not been known that a man lives as a man after death, and that this has not been disclosed before ....(@DP 274)|
+|===
+
+== CHAPTER IX -- EVILS ARE PERMITTED FOR THE SAKE OF AN END, WHICH IS SALVATION(@DP 275-284)
+
+[frame=all]
+[grid=all]
+[width=100%]
+[cols="1,1,10,2"]
+|===
+3+|I. Every man is in evil, and must be led away from evil that he may be reformed ....|(@DP 277)
+3+|II. Evils cannot be removed unless they appear ....|(@DP 278)
+|
+2+|1. Concerning those who confess themselves guilty of sins of all kinds, and do not search out any one sin in themselves;|
+|
+2+|2. Concerning those who from religious principles omit such inquiry;|
+|
+2+|3. Concerning those who on account of worldly matters give no thought to sins, and consequently do not know them;|
+|
+2+|4. Concerning those who favor sins and therefore cannot know them|
+|
+2+|5. In all these persons sins do not appear, and therefore cannot be removed|
+|
+2+|6. Lastly, the reason hitherto unknown will be made manifest why evils cannot be removed without this|
 search, appearance, acknowledgment, confession and resistance.
-	III. So far as evils are removed they are remitted .... (n. 279-280)
-		1. That evils are separated from man and indeed cast out when they are remitted.
-		2. That the state of man's life can be changed in a moment, even to its opposite, so that from being wicked he can become good, and consequently can be brought out of hell and straightway transferred to heaven, and this by the immediate mercy of the Lord.
-		3. Those, however, who entertain this belief and opinion do not in the least know what evil is and what good is; and they know nothing whatever of the state of man's life.
-		4. Moreover, they are totally unaware that affections, which belong to the will, are nothing but changes and variations in state of the purely organic substances of the mind; and that thoughts, which belong to the understanding, are nothing but changes and variations in the form of these substances; and that memory is a permanent state of these changes.
-	IV. Thus the permission of evil is for the sake of the end, namely, salvation .... (n. 281-284)
+3+|III. So far as evils are removed they are remitted ....|(@DP 279-280)
+|
+2+|1. That evils are separated from man and indeed cast out when they are remitted.|
+|
+2+|2. That the state of man's life can be changed in a moment, even to its opposite, so that from being wicked he can become good, and consequently can be brought out of hell and straightway transferred to heaven, and this by the immediate mercy of the Lord.|
+|
+2+|3. Those, however, who entertain this belief and opinion do not in the least know what evil is and what good is; and they know nothing whatever of the state of man's life.|
+|
+2+|4. Moreover, they are totally unaware that affections, which belong to the will, are nothing but changes and variations in state of the purely organic substances of the mind; and that thoughts, which belong to the understanding, are nothing but changes and variations in the form of these substances; and that memory is a permanent state of these changes.|
+3+|IV. Thus the permission of evil is for the sake of the end, namely, salvation ....|(@DP 281-284)
+|===
 
-==== CHAPTER Ⅹ -- THE DIVINE PROVIDENCE IS EQUALLY WITH THE WICKED AND WITH THE GOOD (n. 285-307)
-	I. The Divine Providence, not only with the good but also with the wicked, is universal in things most individual; and yet it is not in men's evils .... (n. 287-294) Certain ones, convinced that no one thinks from himself, but from the Lord, declared: .... (n. 289)
-		1. In this case they are not in fault for doing evil .... (n. 294)
-		2. It thus seems that evil originates from the Lord . (n. 294)
-		3. They do not understand that the Lord alone can cause all to think so differently .... (n. 294)
-	II. The wicked are continually leading themselves into evils, but the Lord is continually leading them away from evils  .... (n. 295-296)
-		1. There are innumerable things in every evil .... (n. 296)
-		2. A wicked man from himself continually leads himself more and more deeply into his evils .... (n. 294)
-		3. The Divine Providence with the wicked is a continual permission of evil, to the end that there may be a continual withdrawal from it .... (n. 294)
-		4. The withdrawal from evil is effected by the Lord in a thousand ways that are most secret .... (n. 294)
-	III. The wicked cannot be wholly withdrawn by the Lord from evil and led in good so long as they believe their own intelligence to be everything and the Divine Providence nothing .... (n. 297-298)
-		1. One's own intelligence, when the will is in evil, sees falsity only, and has neither the desire nor the ability to see anything else .... (n. 298)
-		2. If one's own intelligence then sees the truth, it either turns itself away or falsifies it .... (n. 298)
-		3. The Divine Providence continually causes man to see truth, and also gives him the affection of perceiving it and of receiving it .... (n. 298)
-		4. By this means man is withdrawn from evil, not of himself but by the Lord .... (n. 298)
-	IV. The Lord governs hell by means of opposites; and the wicked who are in the world he governs in hell as to their interiors, but not as to their exteriors .... (n. 299-307)
+== CHAPTER Ⅹ -- THE DIVINE PROVIDENCE IS EQUALLY WITH THE WICKED AND WITH THE GOOD(@DP 285-307)
 
-==== CHAPTER XI -- THE DIVINE PROVIDENCE APPROPRIATES NEITHER EVIL NOR GOOD TO ANYONE; BUT ONE'S OWN PRUDENCE APPROPRIATES BOTH (n. 308-321)
-	I. What one's own prudence is, and what prudence not one's own is .... (n. 310-311)
-	II. Man from his own prudence persuades himself and confirms in himself that all good and truth originate from himself and are in himself; and in like manner all evil and falsity .... (n. 312-316)
-	III. Everything of which man has persuaded himself and which he has confirmed in himself remains with him as his own  .... (n. 317-319)
-		1. There is nothing that cannot be confirmed, and falsity more readily than truth .... (n. 318)
-		2. Truth does not appear when falsity is confirmed, but falsity appears from confirmed truth .... (n. 318)
-		3. To be able to confirm whatever one pleases is not intelligence but only ingenuity, which may exist even with the worst of men .... (n. 318)
-		4. There is confirmation that is intellectual and not at the same time voluntary; but all voluntary confirmation is also intellectual .... (n. 318)
-		5. The confirmation of evil that is both voluntary and intellectual causes man to believe that his own prudence is everything and the Divine Providence nothing, but not the confirmation that is only intellectual .... (n. 318)
-		6. Everything confirmed by both the will and the understanding remains to eternity; but not what has been confirmed only by the understanding .... (n. 318)
-	IV. If man believed, as is the truth, that all good and truth originate from the Lord, and all evil and falsity from hell, he would not appropriate good to himself and account it meritorious, nor would he appropriate evil to himself and account himself responsible for it .... (n. 320-321)
-		1. He who confirms in himself the appearance that wisdom and prudence originate from man and consequently are in him as his own, must needs see that if this were not so he would not be a man, but either a beast or a statue; when yet the contrary is true . (n. 321)
-		2. To believe and think, as is the truth, that all good and truth originate from the Lord and all evil and falsity from hell, appears as if it were impossible, when yet it is truly human and consequently angelic .... (n. 321)
-		3. To believe and think thus is impossible to those who do not acknowledge the Divinity of the Lord, and who do not acknowledge evils to be sins; but it is possible to those who acknowledge these two things .... (n. 321)
-		4. Those who are in the acknowledgment of these two things reflect only upon the evils in themselves and, so far as they shun them as sins and turn away from them, they cast them out from themselves to the hell from which they come .... (n. 321)
-		5. In this way the Divine Providence does not appropriate either evil or good to anyone, but one's own prudence appropriates both .... (n. 321)
+[frame=all]
+[grid=all]
+[width=100%]
+[cols="1,1,10,2"]
+|===
+3+|I. The Divine Providence, not only with the good but also with the wicked, is universal in things most individual; and yet it is not in men's evils ....(@DP 287-294) Certain ones, convinced that no one thinks from himself, but from the Lord, declared: ....|(@DP 289)
+|
+2+|1. In this case they are not in fault for doing evil ....(@DP 294)|
+|
+2+|2. It thus seems that evil originates from the Lord .(@DP 294)|
+|
+2+|3. They do not understand that the Lord alone can cause all to think so differently ....(@DP 294)|
+3+|II. The wicked are continually leading themselves into evils, but the Lord is continually leading them away from evils  ....|(@DP 295-296)
+|
+2+|1. There are innumerable things in every evil ....(@DP 296)|
+|
+2+|2. A wicked man from himself continually leads himself more and more deeply into his evils ....(@DP 294)|
+|
+2+|3. The Divine Providence with the wicked is a continual permission of evil, to the end that there may be a continual withdrawal from it ....(@DP 294)|
+|
+2+|4. The withdrawal from evil is effected by the Lord in a thousand ways that are most secret ....(@DP 294)|
+3+|III. The wicked cannot be wholly withdrawn by the Lord from evil and led in good so long as they believe their own intelligence to be everything and the Divine Providence nothing ....|(@DP 297-298)
+|
+2+|1. One's own intelligence, when the will is in evil, sees falsity only, and has neither the desire nor the ability to see anything else ....(@DP 298)|
+|
+2+|2. If one's own intelligence then sees the truth, it either turns itself away or falsifies it ....(@DP 298)|
+|
+2+|3. The Divine Providence continually causes man to see truth, and also gives him the affection of perceiving it and of receiving it ....(@DP 298)|
+|
+2+|4. By this means man is withdrawn from evil, not of himself but by the Lord ....(@DP 298)|
+3+|IV. The Lord governs hell by means of opposites; and the wicked who are in the world he governs in hell as to their interiors, but not as to their exteriors ....|(@DP 299-307)
+|===
 
-==== CHAPTER XII -- EVERY MAN MAY BE REFORMED, AND THERE IS NO SUCH THING AS PREDESTINATION (n. 322-330)
-	I. The end of creation is a heaven from the human race  .... (n. 323-324)
-		1. Every man is created that he may live for ever ... (n. 324)
-		2. Every man is created that he may live for ever in a state of happiness .... (n. 324)
-		3. Thus every man is created that he may enter heaven  .... (n. 324)
-		4. The Divine Love cannot do otherwise than desire this, and the Divine Wisdom cannot do otherwise than provide for it .... (n. 324)
-	II. Therefore it is from the Divine Providence that every man can be saved; and that those are saved who acknowledge God and live well .... (n. 325-326)
-		1. The acknowledgment of God brings about the conjunction of God with man and of man with God, and the denial of God causes their separation .... (n. 326)
-		2. Everyone acknowledges God and is conjoined to Him according to the good of his life .... (n. 326)
-		3. The good of life, that is, living well, is shunning evils because they are contrary to religion, thus contrary to God .... (n. 326)
-		4. These are the general principles of all religions by which everyone can be saved .... (n. 326)
-	III. The man himself is in fault if he is not saved .... (n. 327-328)
-		1. Every religion in process of time declines and is consummated .... (n. 328)
-		2. Every religion declines and is consummated by the inversion of the image of God in man .... (n. 328)
-		3. This takes place from the continual increase of hereditary evil in successive generations .... (n. 328)
-		4. Nevertheless it is provided by the Lord that everyone may be saved .... (n. 328)
-		5. It is also provided that a new Church should succeed in place of the former devastated Church .... (n. 328)
-	IV. Thus all are predestined to heaven, and no one to hell  .... (n. 329-330)
-		1. Any predestination except to heaven is contrary to the Divine Love and its infinity .... (n. 330)
-		2. Any predestination except to heaven is contrary to the Divine Wisdom and its infinity .... (n. 330)
-		3. It is a foolish heresy that only those are saved who are born within the Church .... (n. 330)
-		4. It is a cruel heresy that any of the human race are condemned by predestination .... (n. 330)
+== CHAPTER XI -- THE DIVINE PROVIDENCE APPROPRIATES NEITHER EVIL NOR GOOD TO ANYONE; BUT ONE'S OWN PRUDENCE APPROPRIATES BOTH(@DP 308-321)
 
-==== CHAPTER XIII -- THE LORD CANNOT ACT CONTRARY TO THE LAWS OF THE DIVINE PROVIDENCE, BECAUSE TO ACT CONTRARY TO THEM WOULD BE TO ACT CONTRARY TO HIS DIVINE LOVE AND HIS DIVINE WISDOM, THUS CONTRARY TO HIMSELF (n. 331-340)
-	I. The operation of the Divine Providence for the salvation of man begins at his birth and continues right on to the end of his life, and afterwards to eternity .... (n. 332-334)
-	II. The operation of the Divine Providence is effected unceasingly through means out of pure mercy .. (n. 335-337)
-	III. Instantaneous salvation from immediate mercy is impossible .... (n. 338-339)
-		1. The belief in instantaneous salvation from immediate mercy has been assumed from the natural state of man  .... (n. 338)
-		2. This belief comes from ignorance of the spiritual state, which is totally different from the natural state . (n. 338)
-		3. The doctrines of all the Churches in the Christian world, regarded interiorly, are against instantaneous salvation from immediate mercy, but still it is maintained by external men in the Church .... (n. 338)
-	IV. Instantaneous salvation from immediate mercy is the fiery flying serpent in the Church .... (n. 340)
-		1. Religion is abolished; .... (n. 340)
-		2. Security is induced; .... (n. 340)
-		3. And condemnation is ascribed to the Lord .... (n. 340)
-SUPPLEMENT Conversation with evil spirits on their delights .... (n. 340)
+[frame=all]
+[grid=all]
+[width=100%]
+[cols="1,1,10,2"]
+|===
+3+|I. What one's own prudence is, and what prudence not one's own is ....|(@DP 310-311)
+3+|II. Man from his own prudence persuades himself and confirms in himself that all good and truth originate from himself and are in himself; and in like manner all evil and falsity ....|(@DP 312-316)
+3+|III. Everything of which man has persuaded himself and which he has confirmed in himself remains with him as his own  ....|(@DP 317-319)
+|
+2+|1. There is nothing that cannot be confirmed, and falsity more readily than truth ....(@DP 318)|
+|
+2+|2. Truth does not appear when falsity is confirmed, but falsity appears from confirmed truth ....(@DP 318)|
+|
+2+|3. To be able to confirm whatever one pleases is not intelligence but only ingenuity, which may exist even with the worst of men ....(@DP 318)|
+|
+2+|4. There is confirmation that is intellectual and not at the same time voluntary; but all voluntary confirmation is also intellectual ....(@DP 318)|
+|
+2+|5. The confirmation of evil that is both voluntary and intellectual causes man to believe that his own prudence is everything and the Divine Providence nothing, but not the confirmation that is only intellectual ....(@DP 318)|
+|
+2+|6. Everything confirmed by both the will and the understanding remains to eternity; but not what has been confirmed only by the understanding ....(@DP 318)|
+3+|IV. If man believed, as is the truth, that all good and truth originate from the Lord, and all evil and falsity from hell, he would not appropriate good to himself and account it meritorious, nor would he appropriate evil to himself and account himself responsible for it ....|(@DP 320-321)
+|
+2+|1. He who confirms in himself the appearance that wisdom and prudence originate from man and consequently are in him as his own, must needs see that if this were not so he would not be a man, but either a beast or a statue; when yet the contrary is true .(@DP 321)|
+|
+2+|2. To believe and think, as is the truth, that all good and truth originate from the Lord and all evil and falsity from hell, appears as if it were impossible, when yet it is truly human and consequently angelic ....(@DP 321)|
+|
+2+|3. To believe and think thus is impossible to those who do not acknowledge the Divinity of the Lord, and who do not acknowledge evils to be sins; but it is possible to those who acknowledge these two things ....(@DP 321)|
+|
+2+|4. Those who are in the acknowledgment of these two things reflect only upon the evils in themselves and, so far as they shun them as sins and turn away from them, they cast them out from themselves to the hell from which they come ....(@DP 321)|
+|
+2+|5. In this way the Divine Providence does not appropriate either evil or good to anyone, but one's own prudence appropriates both ....(@DP 321)|
+|===
+
+
+== CHAPTER XII -- EVERY MAN MAY BE REFORMED, AND THERE IS NO SUCH THING AS PREDESTINATION(@DP 322-330)
+
+[frame=all]
+[grid=all]
+[width=100%]
+[cols="1,1,10,2"]
+|===
+3+|I. The end of creation is a heaven from the human race  ....|(@DP 323-324)
+|
+2+|1. Every man is created that he may live for ever ...(@DP 324)|
+|
+2+|2. Every man is created that he may live for ever in a state of happiness ....(@DP 324)|
+|
+2+|3. Thus every man is created that he may enter heaven  ....(@DP 324)|
+|
+2+|4. The Divine Love cannot do otherwise than desire this, and the Divine Wisdom cannot do otherwise than provide for it ....(@DP 324)|
+3+|II. Therefore it is from the Divine Providence that every man can be saved; and that those are saved who acknowledge God and live well ....|(@DP 325-326)
+|
+2+|1. The acknowledgment of God brings about the conjunction of God with man and of man with God, and the denial of God causes their separation ....(@DP 326)|
+|
+2+|2. Everyone acknowledges God and is conjoined to Him according to the good of his life ....(@DP 326)|
+|
+2+|3. The good of life, that is, living well, is shunning evils because they are contrary to religion, thus contrary to God ....(@DP 326)|
+|
+2+|4. These are the general principles of all religions by which everyone can be saved ....(@DP 326)|
+3+|III. The man himself is in fault if he is not saved ....|(@DP 327-328)
+|
+2+|1. Every religion in process of time declines and is consummated ....(@DP 328)|
+|
+2+|2. Every religion declines and is consummated by the inversion of the image of God in man ....(@DP 328)|
+|
+2+|3. This takes place from the continual increase of hereditary evil in successive generations ....(@DP 328)|
+|
+2+|4. Nevertheless it is provided by the Lord that everyone may be saved ....(@DP 328)|
+|
+2+|5. It is also provided that a new Church should succeed in place of the former devastated Church ....(@DP 328)|
+3+|IV. Thus all are predestined to heaven, and no one to hell  ....|(@DP 329-330)
+|
+2+|1. Any predestination except to heaven is contrary to the Divine Love and its infinity ....(@DP 330)|
+|
+2+|2. Any predestination except to heaven is contrary to the Divine Wisdom and its infinity ....(@DP 330)|
+|
+2+|3. It is a foolish heresy that only those are saved who are born within the Church ....(@DP 330)|
+|
+2+|4. It is a cruel heresy that any of the human race are condemned by predestination ....(@DP 330)|
+|===
+
+
+== CHAPTER XIII -- THE LORD CANNOT ACT CONTRARY TO THE LAWS OF THE DIVINE PROVIDENCE, BECAUSE TO ACT CONTRARY TO THEM WOULD BE TO ACT CONTRARY TO HIS DIVINE LOVE AND HIS DIVINE WISDOM, THUS CONTRARY TO HIMSELF(@DP 331-340)
+
+[frame=all]
+[grid=all]
+[width=100%]
+[cols="1,1,10,2"]
+|===
+3+|I. The operation of the Divine Providence for the salvation of man begins at his birth and continues right on to the end of his life, and afterwards to eternity ....|(@DP 332-334)
+3+|II. The operation of the Divine Providence is effected unceasingly through means out of pure mercy ..|(@DP 335-337)
+3+|III. Instantaneous salvation from immediate mercy is impossible ....|(@DP 338-339)
+|
+2+|1. The belief in instantaneous salvation from immediate mercy has been assumed from the natural state of man  ....(@DP 338)|
+|
+2+|2. This belief comes from ignorance of the spiritual state, which is totally different from the natural state .(@DP 338)|
+|
+2+|3. The doctrines of all the Churches in the Christian world, regarded interiorly, are against instantaneous salvation from immediate mercy, but still it is maintained by external men in the Church ....(@DP 338)|
+3+|IV. Instantaneous salvation from immediate mercy is the fiery flying serpent in the Church ....|(@DP 340)
+|
+2+|1. Religion is abolished; ....(@DP 340)|
+|
+2+|2. Security is induced; ....(@DP 340)|
+|
+2+|3. And condemnation is ascribed to the Lord ....(@DP 340)|
+|===
+
+SUPPLEMENT Conversation with evil spirits on their delights ....(@DP 340)
