@@ -7,17 +7,26 @@ testing
 ////
 Here's a stab using tables; it should print and link well enough; but I don't expect it to be an easy DB ingestion in this format.
 
+the ellipses `\.{2,}` need attention, with `\.{2,}\s?\(@DP.*`
+
+The Chapter presentations need attention .... TitleCase, (@DP links)
+the presentation font is terrible for Roman Numerals in the Chapter titles. 'I' needs to not look like a lower case 'l'
+
+easy to remove the table frames and grids (from =all to =none) before publishing
+
 I'm still playing with the section levels, which don't need to be as large as depth 2, but I use their appearance in the Outline feature of the Explorer for navigation.
-
-== {empty}
-{empty}
-
-=== {empty}
-{empty}
 
 ////
 
-== CHAPTER I -- THE DIVINE PROVIDENCE IS THE GOVERNMENT OF THE DIVINE LOVE AND WISDOM OF THE LORD(@DP 1-26)
+==   
+{empty}
+the ellipses `\.{2,}` need attention, with `\.{2,}\s?\(@DP.*`
+
+===  
+{empty}
+
+
+==== CHAPTER I -- THE DIVINE PROVIDENCE IS THE GOVERNMENT OF THE DIVINE LOVE AND WISDOM OF THE LORD(@DP 1-26)
 
 [frame=all]
 [grid=all]
@@ -40,7 +49,7 @@ I'm still playing with the section levels, which don't need to be as large as de
 |===
 {empty}
 
-== CHAPTER II -- THE DIVINE PROVIDENCE FROM THE LORD HAS FOR ITS END A HEAVEN FROM THE HUMAN RACE(@DP 27-45)
+==== CHAPTER II -- THE DIVINE PROVIDENCE FROM THE LORD HAS FOR ITS END A HEAVEN FROM THE HUMAN RACE(@DP 27-45)
 
 [frame=all]
 [grid=all]
@@ -55,7 +64,7 @@ I'm still playing with the section levels, which don't need to be as large as de
 |===
 
 
-== CHAPTER Ⅲ -- THE DIVINE PROVIDENCE OF THE LORD, IN EVERYTHING THAT IT DOES, REGARDS THE INFINITE AND THE ETERNAL(@DP 46-69)
+==== CHAPTER Ⅲ -- THE DIVINE PROVIDENCE OF THE LORD, IN EVERYTHING THAT IT DOES, REGARDS THE INFINITE AND THE ETERNAL(@DP 46-69)
 
 [frame=all]
 [grid=all]
@@ -69,9 +78,9 @@ I'm still playing with the section levels, which don't need to be as large as de
 3+|V. The inmost of the Divine Providence is to regard what is infinite and eternal in forming the angelic heaven, in order that it may be before the Lord as one man, the image of Himself ....|(@DP 64)
 |===
 
-== CHAPTER Ⅳ -- THERE ARE LAWS OF THE DIVINE PROVIDENCE, AND THESE ARE UNKNOWN TO MEN(@DP 70-190)
+==== CHAPTER Ⅳ -- THERE ARE LAWS OF THE DIVINE PROVIDENCE, AND THESE ARE UNKNOWN TO MEN(@DP 70-190)
 
-=== First Law: It is a law of the Divine Providence that man should act from freedom to reason ....(@DP 71-99)
+===== First Law: It is a law of the Divine Providence that man should act from freedom to reason ....(@DP 71-99)
 
 [frame=all]
 [grid=all]
@@ -88,7 +97,7 @@ I'm still playing with the section levels, which don't need to be as large as de
 3+|VIII. Therefore it is of the Divine Providence that man should act from freedom according to reason ....|(@DP 97)
 |===
 
-=== Second Law: It is a law of the Divine Providence that man should as from himself remove evils as sins in the external man; and thus and not otherwise can the Lord remove evils in the internal man, and then at the same time in the external ....(@DP 100-128)
+===== Second Law: It is a law of the Divine Providence that man should as from himself remove evils as sins in the external man; and thus and not otherwise can the Lord remove evils in the internal man, and then at the same time in the external ....(@DP 100-128)
 
 [frame=all]
 [grid=all]
@@ -108,7 +117,7 @@ I'm still playing with the section levels, which don't need to be as large as de
 2+|2. The Lord acts from inmost things and from ultimates at the same time ....|(@DP 124)
 |===
 
-=== Third Law: It is a law of the Divine Providence that man should not be compelled by external means to think and will, and thus to believe and love, the things of religion, but should persuade and at times compel himself to do so ....(@DP 129-153)
+===== Third Law: It is a law of the Divine Providence that man should not be compelled by external means to think and will, and thus to believe and love, the things of religion, but should persuade and at times compel himself to do so ....(@DP 129-153)
 
 [frame=all]
 [grid=all]
@@ -131,7 +140,7 @@ I'm still playing with the section levels, which don't need to be as large as de
 3+|VI. The external man must be reformed by means of the internal, and not the reverse ....|(@DP 150)
 |===
 
-=== Fourth Law: It is a law of the Divine Providence that man should be led and taught by the Lord from heaven by means of the Word, and doctrine and preaching from the Word, and this to all appearance as of himself ....(@DP 154-174)
+===== Fourth Law: It is a law of the Divine Providence that man should be led and taught by the Lord from heaven by means of the Word, and doctrine and preaching from the Word, and this to all appearance as of himself ....(@DP 154-174)
 
 [frame=all]
 [grid=all]
@@ -165,7 +174,7 @@ I'm still playing with the section levels, which don't need to be as large as de
 3+|V. Man is led and taught by the Lord in externals to all appearance as of himself ....|(@DP 174)
 |===
 
-=== Fifth Law: It is a law of the Divine Providence that man should not perceive and feel anything of the operation of the Divine Providence, but still that he should know and acknowledge it ....(@DP 175-190)
+===== Fifth Law: It is a law of the Divine Providence that man should not perceive and feel anything of the operation of the Divine Providence, but still that he should know and acknowledge it ....(@DP 175-190)
 
 [frame=all]
 [grid=all]
@@ -182,7 +191,7 @@ I'm still playing with the section levels, which don't need to be as large as de
 3+|IV. It is granted to man to see the Divine Providence in the back and not in the face; and this in a spiritual state and not in a natural state ....|(@DP 187)
 |===
 
-== CHAPTER Ⅴ -- THERE IS NO SUCH THING AS MAN'S OWN PRUDENCE. IT ONLY APPEARS THAT THERE IS, AND THERE OUGHT TO BE THIS APPEARANCE; BUT THE DIVINE PROVIDENCE IS UNIVERSAL BECAUSE IT IS IN THINGS MOST INDIVIDUAL(@DP 191-213)
+==== CHAPTER Ⅴ -- THERE IS NO SUCH THING AS MAN'S OWN PRUDENCE. IT ONLY APPEARS THAT THERE IS, AND THERE OUGHT TO BE THIS APPEARANCE; BUT THE DIVINE PROVIDENCE IS UNIVERSAL BECAUSE IT IS IN THINGS MOST INDIVIDUAL(@DP 191-213)
 
 [frame=all]
 [grid=all]
@@ -204,7 +213,7 @@ I'm still playing with the section levels, which don't need to be as large as de
 3+|VII. None of these things can be effected unless it appears to man that he thinks from himself and disposes from himself..|(@DP 210)
 |===
 
-== CHAPTER Ⅵ -- THE DIVINE PROVIDENCE REGARDS ETERNAL THINGS, AND NOT TEMPORAL THINGS EXCEPT SO FAR AS THEY ACCORD WITH ETERNAL THINGS(@DP 214-220).
+==== CHAPTER Ⅵ -- THE DIVINE PROVIDENCE REGARDS ETERNAL THINGS, AND NOT TEMPORAL THINGS EXCEPT SO FAR AS THEY ACCORD WITH ETERNAL THINGS(@DP 214-220).
 
 [frame=all]
 [grid=all]
@@ -247,7 +256,7 @@ I'm still playing with the section levels, which don't need to be as large as de
 2+|4. This conjunction of temporal and eternal things is the Divine Providence ....(@DP 220)|
 |===
 
-== CHAPTER Ⅶ -- MAN IS ADMITTED INTERIORLY INTO THE TRUTHS OF FAITH AND INTO THE GOODS OF CHARITY ONLY SO FAR AS HE CAN BE KEPT IN THEM RIGHT ON TO THE END OF HIS LIFE(@DP 221-233)
+==== CHAPTER Ⅶ -- MAN IS ADMITTED INTERIORLY INTO THE TRUTHS OF FAITH AND INTO THE GOODS OF CHARITY ONLY SO FAR AS HE CAN BE KEPT IN THEM RIGHT ON TO THE END OF HIS LIFE(@DP 221-233)
 
 [frame=all]
 [grid=all]
@@ -299,7 +308,7 @@ I'm still playing with the section levels, which don't need to be as large as de
 |===
 
 
-== CHAPTER Ⅷ -- LAWS OF PERMISSION ARE ALSO LAWS OF THE DIVINE PROVIDENCE(@DP 234-274)
+==== CHAPTER Ⅷ -- LAWS OF PERMISSION ARE ALSO LAWS OF THE DIVINE PROVIDENCE(@DP 234-274)
 
 [frame=all]
 [grid=all]
@@ -358,7 +367,7 @@ I'm still playing with the section levels, which don't need to be as large as de
 2+|4. A doubt may be raised against the Divine Providence from the fact that hitherto it has not been known that a man lives as a man after death, and that this has not been disclosed before ....(@DP 274)|
 |===
 
-== CHAPTER IX -- EVILS ARE PERMITTED FOR THE SAKE OF AN END, WHICH IS SALVATION(@DP 275-284)
+==== CHAPTER IX -- EVILS ARE PERMITTED FOR THE SAKE OF AN END, WHICH IS SALVATION(@DP 275-284)
 
 [frame=all]
 [grid=all]
@@ -392,7 +401,7 @@ search, appearance, acknowledgment, confession and resistance.
 3+|IV. Thus the permission of evil is for the sake of the end, namely, salvation ....|(@DP 281-284)
 |===
 
-== CHAPTER Ⅹ -- THE DIVINE PROVIDENCE IS EQUALLY WITH THE WICKED AND WITH THE GOOD(@DP 285-307)
+==== CHAPTER Ⅹ -- THE DIVINE PROVIDENCE IS EQUALLY WITH THE WICKED AND WITH THE GOOD(@DP 285-307)
 
 [frame=all]
 [grid=all]
@@ -427,7 +436,7 @@ search, appearance, acknowledgment, confession and resistance.
 3+|IV. The Lord governs hell by means of opposites; and the wicked who are in the world he governs in hell as to their interiors, but not as to their exteriors ....|(@DP 299-307)
 |===
 
-== CHAPTER XI -- THE DIVINE PROVIDENCE APPROPRIATES NEITHER EVIL NOR GOOD TO ANYONE; BUT ONE'S OWN PRUDENCE APPROPRIATES BOTH(@DP 308-321)
+==== CHAPTER XI -- THE DIVINE PROVIDENCE APPROPRIATES NEITHER EVIL NOR GOOD TO ANYONE; BUT ONE'S OWN PRUDENCE APPROPRIATES BOTH(@DP 308-321)
 
 [frame=all]
 [grid=all]
@@ -463,7 +472,7 @@ search, appearance, acknowledgment, confession and resistance.
 |===
 
 
-== CHAPTER XII -- EVERY MAN MAY BE REFORMED, AND THERE IS NO SUCH THING AS PREDESTINATION(@DP 322-330)
+==== CHAPTER XII -- EVERY MAN MAY BE REFORMED, AND THERE IS NO SUCH THING AS PREDESTINATION(@DP 322-330)
 
 [frame=all]
 [grid=all]
@@ -511,7 +520,7 @@ search, appearance, acknowledgment, confession and resistance.
 |===
 
 
-== CHAPTER XIII -- THE LORD CANNOT ACT CONTRARY TO THE LAWS OF THE DIVINE PROVIDENCE, BECAUSE TO ACT CONTRARY TO THEM WOULD BE TO ACT CONTRARY TO HIS DIVINE LOVE AND HIS DIVINE WISDOM, THUS CONTRARY TO HIMSELF(@DP 331-340)
+==== CHAPTER XIII -- THE LORD CANNOT ACT CONTRARY TO THE LAWS OF THE DIVINE PROVIDENCE, BECAUSE TO ACT CONTRARY TO THEM WOULD BE TO ACT CONTRARY TO HIS DIVINE LOVE AND HIS DIVINE WISDOM, THUS CONTRARY TO HIMSELF(@DP 331-340)
 
 [frame=all]
 [grid=all]
