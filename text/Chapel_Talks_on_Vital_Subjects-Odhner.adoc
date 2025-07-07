@@ -2,13 +2,9 @@
 By Reverend Ormond de Charms Odhner
 include::../template-attributes.adoc[]
 
-PREFACE
+Preface to Chapel Talks on Vital Subjects
 
-To
-
-CHAPEL TALKS ON VITAL SUBJECTS
-
-By Reverend Ormond de Charms Odhner
+By Rev. Ormond de Charms Odhner
 
 There has been a great demand on the part of those New Church people who do not live in situations where they have regular pastoral ministrations for material suitable for family worship and Sunday Services with their children. It is with the hope that this little volume of fifty-one talks by the Reverend Ormond Odhner will in some measure fulfill this need.
 
@@ -42,14 +38,13 @@ Talk with God - that conceivably could be mere idle prattling. But, it is added,
 
 Prayer should be serious, done with real thought. Yet there is probably not a person here who has not frequently experienced a certain common embarrassment. We begin to say the Lord's Prayer; all of a sudden we find ourselves at the Amen, with no memory at all of what went before. Is that wrong? Is it evil? Would it be better not to pray?
 
-It is not wrong, if such prayer is said from a sense of duty. Swedenborg wrote, I perceived that prayers to the Lord, if made from conscience, as a duty, are they good. (@SE 3126) Nor is such prayer evil if it is done from habit, provided, and that is important:
-Provided - that a sense of duty inspires that habit.
+It is not wrong, if such prayer is said from a sense of duty. Swedenborg wrote, "I perceived that prayers to the Lord, if made from conscience, as a duty, are good." (@SE 3126) Nor is such prayer evil if it is done from habit, provided (and that is important)... provided that a sense of duty inspires that habit.
 
-But prayer - prayer without thought, or prayer with thought - is evil if it is done for show. As the Lord taught in the. Sermon on the Mount, prayer is evil if it is done to be seen of men.
+But prayer - prayer without thought, or prayer with thought - is evil if it is done for show. As the Lord taught in the Sermon on the Mount, prayer is evil if it is done to be seen of men.
 
 Evil prayer? In the Psalms it is written, I cried unto God with my mouth. If I had regarded iniquity in my heart, the Lord would not have heard. Yes, prayer can be evil, for, as the Writings teach again and again, men's prayers are such as the men themselves are in their hearts.
 
-Thus we read, Prayers are not from the mouth, but from the heart by the mouth. Mens prayers are such as they themselves are in respect to life. (@AE 225 2-3) Again, The Lord regards nothing else in a man who is in adoration and prayers than his heart, that is, his interiors, such as they are in respect to love and the consequent faith. If, therefore, these interiors of man are not inwardly in adoration and prayers, there is no spiritual life in them. (@AC 10143) Again, What is the prayer of the mouth, if the mind be not in it but babbling? (@AC 1094) And again, Prayers if something is obtained or merited, are not good, yea, are evil. (@SE 3126)
+Thus we read, "Prayers are not from the mouth, but from the heart by the mouth. Mens prayers are such as they themselves are in respect to life." (@AE 225[2-3]) Again, The Lord regards nothing else in a man who is in adoration and prayers than his heart, that is, his interiors, such as they are in respect to love and the consequent faith. If, therefore, these interiors of man are not inwardly in adoration and prayers, there is no spiritual life in them. (@AC 10143) Again, What is the prayer of the mouth, if the mind be not in it but babbling? (@AC 1094) And again, Prayers if something is obtained or merited, are not good, yea, are evil. (@SE 3126)
 
 It is the heart, then, (the will and the consequent faith) which determines the nature of every prayer. Prayers can be evil. It is evil if the heart is evil. But it is not necessarily evil to pray without thought, and, as we shall see at another time, the Lord actually makes great use of such prayers. But it is better and of far greater use to pray with thought - true thought of what the prayer really means - for prayer is talk with God together with some internal view of the subject of the prayer.
 
@@ -69,7 +64,7 @@ It is not, however, that God ignores our prayers or does not hear them. It is no
 
 We might want riches and pray for them. In His omniscience He might see that riches would lead us to hell. He provides that we shall remain poor, no matter what our prayers to the contrary. We might pray for a certain victory. He might see that victory would make us conceited. He provides that we shall lose. Our prayers cannot change God.
 
-Indeed, it is frequently said in the Writings that any prayers that man concocts from himself - from his own proprial loves and interests - are never heard and received by the Lord. at all. For a prayer to be heard and received and answered affirmatively, it must be from the Lord Himself with man, (A. 10299) In other words, He answers our prayers affirmatively only when we pray for what He wants, only when our desires are His desires, only when the abject for which we pray furthers the end and purpose He has far us.
+Indeed, it is frequently said in the Writings that any prayers that man concocts from himself - from his own proprial loves and interests - are never heard and received by the Lord at all. For a prayer to be heard and received and answered affirmatively, it must be from the Lord Himself with man, (A. 10299) In other words, He answers our prayers affirmatively only when we pray for what He wants, only when our desires are His desires, only when the object for which we pray furthers the end and purpose He has for us.
 
 This, in fact, is the meaning of the words, Anything ye shall ask in My name, believing, that ye shall receive. The name of the Lord is not merely the letters L - O - R - D. It is all we know about Him; it is His quality. When we ask Him for something that is in accord with what we know of Him; when we ask Him in prayer for something that accords with His quality; then our prayer is heard and answered affirmatively.
 
@@ -83,15 +78,15 @@ Our prayers effect no change in God, The Lord has in mind for each of us our ete
 
 Why, then pray? It seems almost useless, perhaps. Yet the Old Testament teaches the duty of prayer. The New Testament teaches it: Men ought always to pray. And the Writings teach it constantly. Frequently, indeed, we cannot help but pray. But why? If our prayers cannot change God, what can they do?
 
-At the baptism of a child the parents are instructed to teach the child the Lord s Prayer in order that he may be introduced into the worship of the Lord as his heavenly Father. That use of prayer continues throughout life. Prayer introduces us into the sphere of worship as we humbly bow ourselves before our God.
+At the baptism of a child the parents are instructed to teach the child the Lord's Prayer in order that he may be introduced into the worship of the Lord as his heavenly Father. That use of prayer continues throughout life. Prayer introduces us into the sphere of worship as we humbly bow ourselves before our God.
 
 More than that, prayer is an acknowledgment that what is good comes from God. It is a useful reminder that if we want what is good - what is genuinely good - we must turn to Him from whom all lasting blessings flow.
 
-But even more important, prayer is necessary that we may appropriate, or make our own, the things the Lord wills to give us. We read in the Apocalypse Revealed, It is usual in all Divine worship that man should first will, desire, and pray., and the Lord then answer, inform, and do; otherwise man does not receive anything Divine. (R 376) In other words, our Father knows what things we need and is ever trying; to give us those things. But that, by itself, is not enough to make us take them. We are beings possessed of rationality and free will, and those two faculties must be consciously turned upward to the Lord before we can receive from the Lord and make our own the Divine things He is seeking to give us.
+But even more important, prayer is necessary that we may appropriate, or make our own, the things the Lord wills to give us. We read in the Apocalypse Revealed, "It is usual in all Divine worship that man should first will, desire, and pray, and the Lord then answer, inform, and do; otherwise man does not receive anything Divine. (AR 376) In other words, our Father knows what things we need and is ever trying to give us those things. But that, by itself, is not enough to make us take them. We are beings possessed of rationality and free will, and those two faculties must be consciously turned upward to the Lord before we can receive from the Lord and make our own the Divine things He is seeking to give us.
 
-He wants to give us honesty, let us say. But He cannot make us honest against our wills. If, however, He can lead us to see that hone sty is a good thing; if He can inspire us to desire honesty, to seek it, to pray for it, to work for it, then, when He gives us honesty, we like it and make it our own.
+He wants to give us honesty, let us say. But He cannot make us honest against our wills. If, however, He can lead us to see that honesty is a good thing; if He can inspire us to desire honesty, to seek it, to pray for it, to work for it, then, when He gives us honesty, we like it and make it our own.
 
-It is for this purpose especially that prayer has been instituted. It prepares us to receive what comes form the Lord. It desires; it makes us anxious and willing; to accept what the Lord wants to give us - those eternal blessings which the Lord cannot give us, unless we turn to Him, ask for them in prayer, and work for them.
+It is for this purpose especially that prayer has been instituted. It prepares us to receive what comes from the Lord. It desires; it makes us anxious and willing; to accept what the Lord wants to give us - those eternal blessings which the Lord cannot give us, unless we turn to Him, ask for them in prayer, and work for them.
 
 Our prayers do not change God. They change us, making us come to want what the Lord wants. That is why it sometimes even seems as if our prayers did change the Lord's will concerning us as when, after much prayer, we finally receive the thing for which we prayed. The Lord did not change. We did. Prayer finally changed us so much, that at last it was good for us to receive the thing for which we prayed - that thing which it would not have been good for us to receive before prayer.
 
@@ -113,21 +108,21 @@ It is our duty to try to determine the Lord's will. It is our duty to pray for w
 
 === PRAYER V: PRAYING FOR OTHERS
 
-1 Samuel 1:7:1-11
+1 Samuel 1, and 1 Samuel 7:1-11
 
-The question is frequently asked, Is it of any use to pray for other people - to pray for their safety, to pray for their success, to pray for their salvation? A fast answer would be, No; a slow answer, thoughtfully considered, would not be, No.
+The question is frequently asked, Is it of any use to pray for other people - to pray for their safety, to pray for their success, to pray for their salvation? A fast answer would be, "No"; a slow answer, thoughtfully considered, would NOT be, "No."
 
 We have seen that it is always right to pray for what is sincerely believed to be good, for what is sincerely believed to be in accord with the Lord's will. If, then, you pray for something for another which you sincerely believe to be good, it is just as right as if you prayed for such a thing for yourself.
 
 But the question remains, Does it do any good?
 
-During the last war many tales were told of how a mothers prayers brought her son home from battle safe and sound. Pretty stories; utterly fallacious. No prayers effect anything by magic, and no mothers prayers ever kept a bullet from hitting her son. Actually, indeed, such stories belittle the Divine majesty of the Lord. What they imply is that the Lord only takes care of those soldiers whose mothers pray for them or takes more and greater care of them than of others, or has to be reminded that He should take care of them. Such prayers have no magical effects at all, though it still is not wrong to make such prayers, hoping they accord with the Lord's will.
+During the last war many tales were told of how a mother's prayers brought her son home from battle safe and sound. Pretty stories; utterly fallacious. No prayers effect anything by magic, and no mothers prayers ever kept a bullet from hitting her son. Actually, indeed, such stories belittle the Divine majesty of the Lord. What they imply is that the Lord only takes care of those soldiers whose mothers pray for them or takes more and greater care of them than of others, or has to be reminded that He should take care of them. Such prayers have no magical effects at all, though it still is not wrong to make such prayers, hoping they accord with the Lord's will.
 
-It is remotely possible that our prayers for another may have some effect upon the association with him of good spirits and angels, to inspire him with a love of good, and understanding of truth. Yet the reception of that inspiration must always depend upon the man's own free choice, Nothing we can do can destroy or interfere with another's freedom. The Lord, it is said, guards man's freedom; as the apple of His eye. He will not save a man against his freedom, in spite of our prayers. We cannot pray our evil friends and relatives into heaven. Nor will our prayers cause either the Lord or the angels to exert a greater effort in another's behalf. They both always do all they can.
+It is remotely possible that our prayers for another may have some effect upon the association with him of good spirits and angels, to inspire him with a love of good, and understanding of truth. Yet the reception of that inspiration must always depend upon the man's own free choice, Nothing we can do can destroy or interfere with another's freedom. The Lord, it is said, guards man's freedom as the apple of His eye. He will not save a man against his freedom, in spite of our prayers. We cannot pray our evil friends and relatives into heaven. Nor will our prayers cause either the Lord or the angels to exert a greater effort in another's behalf. They both always do all they can.
 
-And yet, prayer for another can be efficacious if he knows that he is being prayed for, for he then may think of his well - wishers desires and act accordingly, though that, too, is up to him.
+And yet, prayer for another can be efficacious if he knows that he is being prayed for, for he then may think of his well-wisher's desires and act accordingly, though that, too, is up to him.
 
-Probably, therefore, the greatest use of prayer for another is one with the use of all prayer: It changes us. If we consider another persons plight seriously enough to pray for him, that prayer may move us to do some actual work for his good. And even beyond. that, in prayer, thinking of the other person, our minds will be opened upward to the Lord, so that He may give us a deeper understanding of what the other person really needs in life, and may inspire us with a better concept of how his eternal good may be achieved.
+Probably, therefore, the greatest use of prayer for another is one with the use of all prayer: It changes us. If we consider another person's plight seriously enough to pray for him, that prayer may move us to do some actual work for his good. And even beyond. that, in prayer, thinking of the other person, our minds will be opened upward to the Lord, so that He may give us a deeper understanding of what the other person really needs in life, and may inspire us with a better concept of how his eternal good may be achieved.
 
 Tomorrow we shall conclude our talks on prayer with a consideration of a few of the lesser teachings on the subject given in the Writings.
 
@@ -141,7 +136,13 @@ And now, finally, a few words concerning prayer without thought. Frequent repeti
 
 But several remarkable statements are made concerning this, namely, that when little children repeat the Lord's Prayer, the angels get more wisdom from it than when it is said by adults; that when adults repeat the Prayer without thought, the angels get more out of it than when it is said by adults with thought; but also that when Swedenborg himself repeated it, the angels got the most of all out of it.
 
-A deeper study of these teachings, however, reveals the following things. 1. When little children say the Prayer, without understanding, but in innocence and aware of its holiness, the angels gain wisdom from it - more wisdom than they can gain when adults say it who misunderstand its meaning. 2. When adults say it without thought - without thinking of their misinterpretation of its meaning - angels gain more wisdom from it than when adults say it, consciously thinking of its misinterpretation. But, 3. When Swedenborg said it, consciously thinking of the true meaning of it that he had learned from heaven, than the angels got he most of all out of it.
+A deeper study of these teachings, however, reveals the following things. 
+
+1. When little children say the Lord'sPrayer, without understanding, but in innocence and aware of its holiness, the angels gain wisdom from it - more wisdom than they can gain when adults say it who misunderstand its meaning. 
+
+2. When adults say it without thought - without thinking of their misinterpretation of its meaning - angels gain more wisdom from it than when adults say it, consciously thinking of its misinterpretation. 
+
+3. When Swedenborg said it, consciously thinking of the true meaning of it that he had learned from heaven, then the angels got the most of all out of it.
 
 It is of use, then, to say the Prayer without thought - not of much use to us, but of use to the angels of heaven. It is better to do that than to think of it and put the wrong meaning into it. But of the greatest use of all is its repetition with conscious thought of its true meaning as that is now revealed in the Writings.
 
@@ -151,19 +152,19 @@ It is of use, then, to say the Prayer without thought - not of much use to us, b
 
 Luke 4:16-22
 
-When the Lord was on earth He said that He had given us an example of what we, too, should do. One of the things He did one of the things it was His custom to do - was to enter into the synagogue and worship. Worship, then, is a thing Divinely commanded, as, indeed, all three parts of the Word - the Old Testament, the New Testament, and the Writings - frequently state.
+When the Lord was on earth He said that He had given us an example of what we, too, should do. One of the things He did -- one of the things it was His custom to do -- was to enter into the synagogue and worship. Worship, then, is a thing Divinely commanded, as, indeed, all three parts of the Word - the Old Testament, the New Testament, and the Writings - frequently state.
 
 It is our intention to devote our morning chapel services this week to a consideration of the subject of our morning, worship the place where we worship, the form of our ritual, and the purpose and use of this daily service.
 
 From now on when you enter this room the curtains will already be opened. When the curtains are shut this room is simply an auditorium, and it is proper to use it for any purpose at all. But when the curtains are parted, it becomes our chapel, a house of the Lord, a church, and our conduct here must then be regulated accordingly. In the house of the Lord we do not talk, slouch, push, or pass notes, but rather comport ourselves with dignity and reverence, as we would in the presence of the Lord Himself, shutting from our minds all thoughts of worldly and personal matters, that we may turn our whole heart and mind to the praise and contemplation of our God.
 
-On the valance above the curtains you see the Latin words, _Nunc licet intellectualiter in arcana fidel_ - the words which Swedenborg saw inscribed above the door of a heavenly temple which represented the New Church - Now it is permitted to enter intellectually, into the mysteries of faith. And that is one of the chief uses of all New Church worship - to help us comprehend with the understanding the meaning of the worship of our lives.
+On the valance above the curtains you see the Latin words, _Nunc licet intellectualiter in arcana fidei_ - the words which Swedenborg saw inscribed above the door of a heavenly temple which represented the New Church - Now it is permitted to enter intellectually, into the mysteries of faith. And that is one of the chief uses of all New Church worship - to help us comprehend with the understanding the meaning of the worship of our lives.
 
 In the East, in the very center of the chancel, raised above all else, is the altar on which rests a copy of the Word. All worship, to be genuine, is founded upon the Word, the teachings of the Lord. The Word, then, is the very center of our worship, and is higher, more important, than anything else. And on our chancels the Word is placed in the East, for in heaven the spiritual East, the origin and arising of all things, is the Lord.
 
-But it is the open Word that is the center of our worship, and this is truly significative. The Lord's teachings kept shut up on a bookshelf have never done anyone any good at all. The Word must be opened, studied, understood, applied to life. That is real worship. And even more than this is signified by the opening of the Word in our services. It is an interesting historical fact that at the very first Mew Church service of worship ever held, the leader, Robert Hindmarsh, spontaneously opened the Word at the beginning of the service. The practice has remained with us ever since - the one distinctive ritual of New Church worship. It is most appropriate, for the whole purpose of the revelation the Lord gave at His second advent was to open up the Word in order to show the genuine Divine power and glory within its stories.
+But it is the open Word that is the center of our worship, and this is truly significative. The Lord's teachings kept shut up on a bookshelf have never done anyone any good at all. The Word must be opened, studied, understood, applied to life. That is real worship. And even more than this is signified by the opening of the Word in our services. It is an interesting historical fact that at the very first New Church service of worship ever held, the leader, Robert Hindmarsh, spontaneously opened the Word at the beginning of the service. The practice has remained with us ever since - the one distinctive ritual of New Church worship. It is most appropriate, for the whole purpose of the revelation the Lord gave at His second advent was to open up the Word in order to show the genuine Divine power and glory within its stories.
 
-Flanking the lord, therefore, is a complete set of the Writings; arranged in chronological order, for it is in the Writings that the Lord has now revealed Himself, and on each volume of the Writings here there is inscribed, in a facsimile of Swedenborg's handwriting, the words which Swedenborg himself wrote upon two copies of the Writings in Holland: Hic Liber est adventus Domini - This book is the advent; of the Lord. (One of those copies has been found, and is now in the British Museum.) Swedenborg said that he wrote the same words on all copies of the Writings in heaven.
+Flanking the Word, therefore, is a complete set of the Writings; arranged in chronological order, for it is in the Writings that the Lord has now revealed Himself, and on each volume of the Writings here there is inscribed, in a facsimile of Swedenborg's handwriting, the words which Swedenborg himself wrote upon two copies of the Writings in Holland: Hic Liber est adventus Domini - This book is the advent of the Lord. (One of those copies has been found, and is now in the British Museum.) Swedenborg said that he wrote the same words on all copies of the Writings in heaven.
 
 Now, it is a peculiar thing that when the Lord was crucified, Pilate, the governor, placed above His cross a sign on which the words, Jesus of Nazareth, the King of the Jews, were written in Hebrew, Greek, and Latin. Jesus the King; Hebrew, Greek, and Latin, The whole of revelation proclaims that the Lord Jesus Christ is our God and King. But that revelation was written in three parts - the Old Testament in Hebrew, the New Testament in Greek, and the Writings in Latin.
 
@@ -221,9 +222,9 @@ He that is not with Me is against Me.
 
 Yesterday we considered the Lord's words, He that is not against us is on our part, and saw that within them is the teaching that anyone in any religion can be saved, if only he lives according to what he believes to be true, for the sake of his god or his neighbor. Today we would consider another saying of the Lord's, almost the opposite, He that is not with Me is against Me.
 
-Why the difference? Yesterdays reading from the Word told how the disciples had seen a man casting out devils in the Lord's name. He was not one of the disciples. They had Forbidden him to do so. No, the Lord said. Let him. He that is not against us is on our part. He might not have belonged to the Lord's true church; but he was trying to do what was right; he had not knowingly and willfully rejected the Lord. He that is not against us is on our part.
+Why the difference? Yesterday's reading from the Word told how the disciples had seen a man casting out devils in the Lord's name. He was not one of the disciples. They had forbidden him to do so. "No,"" the Lord said. "Let him. He that is not against us is on our part." He might not have belonged to the Lord's true church; but he was trying to do what was right; he had not knowingly and willfully rejected the Lord. He that is not against us is on our part.
 
-Todays Scripture told a different Story. The Lord Himself was now casting out devils. The Pharisees sneered at Him, said He was a devil Himself. The Pharisees the best educated men in the Jewish Church. They knew who the Lord was, knew what He claimed to be; and knowing this, they rejected Him. It was to them that the Lord replied, He that is not with Me is against Me.
+Today's Scripture told a different story. The Lord Himself was now casting out devils. The Pharisees sneered at Him, said He was a devil Himself. The Pharisees -- the best educated men in the Jewish Church. They knew who the Lord was, knew what He claimed to be; and knowing this, they rejected Him. It was to them that the Lord replied, He that is not with Me is against Me.
 
 Anyone in any religion can be saved, yes. But anyone in any religion can be condemned, too; and he will be condemned to an eternity in hell if, when he hears the truth and understands it, he turns his back on it. When truth is made the issue, rejection of the truth condemns.
 
@@ -233,9 +234,9 @@ And what will happen? Some will sneer at it as falsity. Some will be bored. Some
 
 But the others-- those who, no matter what their church, had built up within themselves a love of truth? They will stay around and listen to their teachers. They have come to love truth, and now they hear and understand the real truth the same truth you can learn on earth. And because they love truth, they'll pattern their lives according to it, and at last, as genuine Christians, will enter heaven. He that is not against us is on our part.
 
-What, then, is the difference between them and the New Church men and women you can be, here on earth? First, its easier for you than for them. You can learn the truth here and can start now to conquer your evils; they have to wait, and their evils get more deeply embedded. Second, and more important, because you can learn the truth here, you can start out in regeneration early and get well along the way. You, therefore, can be of greater spiritual service to all your fellow men.
+What, then, is the difference between them and the New Church men and women you can be, here on earth? First, it's easier for you than for them. You can learn the truth here and can start now to conquer your evils; they have to wait, and their evils get more deeply embedded. Second, and more important, because you can learn the truth here, you can start out in regeneration early and get well along the way. You, therefore, can be of greater spiritual service to all your fellow men.
 
-The love of truth. It is that alone which saves New Church men or Old. The love of truth. It is. that above everything else which your teachers and ministers here hope to enkindle in your hearts, so that you, as New Church men and women will seek the Lord for yourselves where now He may be found, in the Heavenly Doctrines of the New Jerusalem.
+The love of truth. It is that alone which saves New Church men or Old. The love of truth. It is that above everything else which your teachers and ministers here hope to enkindle in your hearts, so that you, as New Church men and women will seek the Lord for yourselves where now He may be found, in the Heavenly Doctrines of the New Jerusalem.
 
 === THE GREATNESS OF SERVICE
 
@@ -247,13 +248,13 @@ Probably there is not a teenager on earth who does not dream, secretly at least,
 
 But what did the Lord mean? The apostle Paul, the greatest Christian missionary of history, thought he knew the answer. Endless and unstinted labor in the Lord's vineyard would bring him the reward of greatness after death. For years on end he worked, worked hard, in the church, and according to legend, he died in the persecution under Nero. Yes, he thought he knew the answer, and toward the end of his life he wrote to a friend, I have fought a good fight, I have finished my course, I have kept the faith; henceforth there is laid up for me a crown of righteousness, which the Lord, the just judge, shall give me.
 
-Paul wanted greatness; to achieve it, he became servant unto all. But the Writings, unfortunately, leave very little doubt as to Paul's eternal lot. He is not great; he is nothing, He did not even achieve the very lowest reaches of heaven. He put entirely the wrong interpretation on those words of the Lord. Whosoever will be great among you, let him be your servant. And each and every one of us, before regeneration is complete, is prone to do the same: Well work, well serve, well humble ourselves; but boy, wed better get something out of it, and if not here, then hereafter. What? What Paul got?
+Paul wanted greatness; to achieve it, he became servant unto all. But the Writings, unfortunately, leave very little doubt as to Paul's eternal lot. He is not great; he is nothing, He did not even achieve the very lowest reaches of heaven. He put entirely the wrong interpretation on those words of the Lord. Whosoever will be great among you, let him be your servant. And each and every one of us, before regeneration is complete, is prone to do the same: Well work, well serve, well humble ourselves; but boy, we'd better get something out of it, and if not here, then hereafter. What? What Paul got?
 
-No, that ifs not what the Lord meant. In fact, He was not then even speaking of how to achieve greatness, but was simply telling His disciples what real greatness is. He was giving definition of greatness. Listen to them. Whosoever will be great among you, let him be your minister and whosoever will be chief among you, let him be your servant.
+No, that is not what the Lord meant. In fact, He was not then even speaking of how to achieve greatness, but was simply telling His disciples what real greatness is. He was giving definition of greatness. Listen to them. Whosoever will be great among you, let him be your minister and whosoever will be chief among you, let him be your servant.
 
-Greatness is service, the Lord was saying - a life of usefulness to other people, working for them, helping them, doing whatever has to be done in order to help them get along. That's greatness service. And therefore, even when we have served others, served them all our lives, we can take no pride in having done it. Rather we must be like those servants of whom the Lord spoke in one of His parables. All day long they had labored in the fields, and when they came in to dinner, what happened? Their master told them to wash up, get his dinner ready, and serve him. More work. That's greatness. That's what the Lord created us for. And at the end of that parable the Lord said, So likewise ye, when ye have done all those things which are commanded you, say, we are unprofitable servants; we have done that which was our duty to do.
+Greatness is service, the Lord was saying - a life of usefulness to other people, working for them, helping them, doing whatever has to be done in order to help them get along. That's greatness -- service. And therefore, even when we have served others, served them all our lives, we can take no pride in having done it. Rather we must be like those servants of whom the Lord spoke in one of His parables. All day long they had labored in the fields, and when they came in to dinner, what happened? Their master told them to wash up, get his dinner ready, and serve him. More work. That's greatness. That's what the Lord created us for. And at the end of that parable the Lord said, So likewise ye, when ye have done all those things which are commanded you, say, we are unprofitable servants; we have done that which was our duty to do.
 
-Work, service, self - abasement - greatness. The same greatness exactly that the Lord Himself had. The Lord, the only really great Person there is, who has given us an example, that we should do even as He has done. The Lord, the God of heaven and earth, the Son of Man - He came, not to be ministered unto, but to minister and to give His life a ransom for many.
+Work, service, self-abasement -- greatness. The same greatness exactly that the Lord Himself had. The Lord, the only really great Person there is, who has given us an example, that we should do even as He has done. The Lord, the God of heaven and earth, the Son of Man - He came, not to be ministered unto, but to minister and to give His life a ransom for many.
 
 === THE GREATNESS OF SERVICE B II: AMBITION
 
@@ -361,7 +362,7 @@ Matthew 19:1-9
 
 If there is one doctrine for which, above all else, New Church men and women should be thankful, it surely is that which the Lord has revealed in the Writings concerning marriage. Marriage means so much in life. marriage so intimately affects each one of us, even if we remain single; marriage is so definitely the institution in which we personally live out our religion - or our lack of it - that it is truly wonderful that we should have Divine guidance in the subject.
 
-When the Lord was here on earth He could teach but little concerning marriage. Mens ideas of marriage were then so low that He could not even tell them that there was marriage in heaven.
+When the Lord was here on earth He could teach but little concerning marriage. Men's ideas of marriage were then so low that He could not even tell them that there was marriage in heaven.
 
 Indeed, there is no marriage in heaven of the nature of their marriages, and they could understand no other kind. but He did lay down strict laws of morality for marriage; He spoke of marriage as a Divine institution; and He compared Himself to a Bridegroom and a Husband - the bridegroom and Husband of the Church.
 
