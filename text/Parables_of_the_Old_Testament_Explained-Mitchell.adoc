@@ -3,8 +3,9 @@ By Edward Craig Mitchell (1903)
 include::../template-attributes.adoc[]
 
 ////
-These (at least some) are already integrated into the NCBS dynamic sidebar as Stories.
-
+These (at least some) are already well integrated into the NCBS dynamic sidebar as Stories.
+Going through this text would contribute to edited and reviewed pdf and epub publications (source is html)
+Edits can also be made concurrently into the NCBS database.
 ////
 
 By Edward Craig Mitchell + 
@@ -33,7 +34,7 @@ The system of interpretation here employed is that known as "The Science of Corr
 
 As it seemed best to have each explanation of a parable complete in itself, some repetition was unavoidable.
 
-E. C. M., ST. PAUL, MINNESOTA, February 21, 1903.
+E.{blank} C. M., ST. PAUL, MINNESOTA, February 21, 1903.
 
 The Parables of the Old Testament Explained.
 
@@ -227,7 +228,7 @@ This is a great truth, which it is very hard to teach to the natural-minded man;
 
 Every known truth is a mental way, or path, of which we are called upon to walk, in daily life. And, in the beginning, of every such pathway a roaring lion will confront us. But, in every case, our Lord is ready, beside us, and within us, like Samson, to rend our lion. And in due progress, the spiritual bees of our mind will make their honey. And then we shall hear the Word of our Lord, speaking of the path of our daily life: "No lion shall be there, nor any ravenous beast go up thereon; it shall not be found there; but the redeemed shall walk there. And the ransomed of Jehovah shall return and come to Zion with songs, and everlasting joy upon their heads: they shall obtain joy and gladness, and sorrow and sighing shall flee away." (Isaiah 35:9, 10).
 
-== 3. Nathan's Parable of the Ewe-Lamb
+== 3. Nathan's Parable of the Ewe-Lamb. (2 Samuel 12:1-23)
 
 And Jehovah sent Nathan unto David. And he came unto him, and said unto him, There were two men in one city, the one rich and the other poor. The rich man had exceeding many flocks and herds; but the poor man had nothing save one little ewe-lamb, which he had bought and nourished up:
 and it grew up together with him, and with his children; it did eat of his own meat, and drank of his own cup; and lay in his bosom; and was unto him as a daughter.
@@ -289,7 +290,7 @@ But the poor Gentile had one possession, only, a little ewe-lamb, a state of inn
 
 Such innocence may, for instance, be in moral goodness, an orderly life in externals, accompanied by a good moral disposition.
 
-The Gentile, state of mind regards this moral good as the one great good; for it is not instructed as to spiritual good. A man in such a state mentally buys, or procures, this moral good, by giving up disorderly states of affection, for the sake of being moral. He nourishes such moral good; and it grows up in his mind, as one of his mental family. It lies in his bosom; i.e., in his heart, in his affection. Such moral good eats and drinks with him; that is, it partakes of the same quality as his general affections and thoughts.
+The Gentile state of mind regards this moral good as the one great good; for it is not instructed as to spiritual good. A man in such a state mentally buys, or procures, this moral good, by giving up disorderly states of affection, for the sake of being moral. He nourishes such moral good; and it grows up in his mind, as one of his mental family. It lies in his bosom; i.e., in his heart, in his affection. Such moral good eats and drinks with him; that is, it partakes of the same quality as his general affections and thoughts.
 
 === The Two Men In One Mind
 
@@ -357,7 +358,7 @@ Many a noble lover of his fellow-men feels called upon to criticize, and to cond
 
 Suppose a minister, in preaching, had to be very careful not to say anything which any one in the audience could apply to himself; of what use would such preaching be? A minister preaches best, when he recognizes his own evil tendencies, and applies the Divine Truth to them. Men are much alike in their natural tendencies.
 
-Sill is evil; it is not merely chance, or circumstances, or fate, or misfortune; it is our own evil tendency, allowed to come out into our conduct. Therefore let us be able to say, "I have kept myself from mine iniquity," (Psalms 18:23)
+[?Sill?] is evil; it is not merely chance, or circumstances, or fate, or misfortune; it is our own evil tendency, allowed to come out into our conduct. Therefore let us be able to say, "I have kept myself from mine iniquity," (Psalms 18:23)
 
 == 4. The Revengers Of Blood
 
@@ -536,7 +537,7 @@ And how much more foolish it is, in us, to allow any false principle to remain f
 
 === The Point Of Danger
 
-The real danger does not exist so much in our inward thought, as in the practical doings of our outward daily life. While our attention is fixed upon the character of the falsity, we hold it fast, as a prisoner. But the real danger comes when we are "busy, here and there," in the details of daily life. In such times, even a known falsity is apt to slip away, beyond our rational control, to use its evil influence, again, in the battle of life. Our mental Benhadad acknowledges that the God of Israel is a God of the hills, the high-places of the mind; but the king still expects to conquer us, by fighting against us in the level plain of common life.
+The real danger does not exist so much in our inward thought, as in the practical doings of our outward daily life. While our attention is fixed upon the character of the falsity, we hold it fast, as a prisoner. But the real danger comes when we are "busy, here and there," in the details of daily life. In such times, even a known falsity is apt to slip away, beyond our rational control, to use its evil influence, again, in the battle of life. Our mental Ben-hadad acknowledges that the God of Israel is a God of the hills, the high-places of the mind; but the king still expects to conquer us, by fighting against us in the level plain of common life.
 
 We have need, then, to guard our prisoner, while we are "busy, here and there," lest the actual influence of an acknowledged falsity be allowed to creep into our feelings, thoughts, and conduct; lest we theoretically denounce a falsity, and yet allow it practically to influence us. There is a vast difference between theoretical and practical virtue. And let not him who girdeth on his armor," in the beginning of the war, "boast himself as he that putteth it off," after an actual destruction of his enemy.
 
@@ -564,10 +565,9 @@ Woe to the man whose spiritual earnestness has been exhausted. He is as a mass o
 
 "I thought on my ways, and turned my feet unto Thy testimonies. . . . The proud have forged a lie against me, but I will keep Thy precepts with my whole heart." (Psalm 119, 59, 69).
 
-== 6. The Ambitious Thistle
+== 6. The Ambitious Thistle. (2 Kings 14:9)
 
-The thistle that was in Lebanon sent to the cedar that was in Lebanon, saying, Give thy daughter to my son, to wife. And there passed by a wild beast that was in Lebanon, and trod down the thistle.-II. KINGS
-xiv. 9.
+The thistle that was in Lebanon sent to the cedar that was in Lebanon, saying, Give thy daughter to my son, to wife. And there passed by a wild beast that was in Lebanon, and trod down the thistle. (2 Kings 14:9)
 
 === The Self-Assurance Of The Natural Mind
 
@@ -697,8 +697,7 @@ Now, when the Lord had done all these things for men; when He had endowed men wi
 
 === Wild Grapes
 
-But, alas, men brought forth wild grapes, sour, unpalatable grapes, the mere forms of good works, with I out their sweet and heavenly spirit. There might be the forms of charity, in outward civility and pretended kindness, yet resulting from policy and self-love. But why should such miserable wild grapes grow in the Lord's church? " And now, 0
-inhabitants of Jerusalem, and men of Judah, judge, I pray you, betwixt Me and My vineyard. What could have been done more to My vineyard, that I have not done in it? Wherefore, when I looked that it should bring forth grapes, brought it forth wild grapes?" The "inhabitants of Jerusalem" are the good principles that are in truths; and the "men of Judah" are the truths that are in every good. These are what should be in the minds of the men of the church. But the Lord declares that the men of the church have not been good and true men, but perverters and corrupters of good and true principles. And yet the Lord had done all that even the Divine Love could do, to lead and teach men in the way to spirituality, and to goodness. The evils of men are not due to any failure in the Lord's provision for men.
+But, alas, men brought forth wild grapes, sour, unpalatable grapes, the mere forms of good works, with I out their sweet and heavenly spirit. There might be the forms of charity, in outward civility and pretended kindness, yet resulting from policy and self-love. But why should such miserable wild grapes grow in the Lord's church? " And now, 0 inhabitants of Jerusalem, and men of Judah, judge, I pray you, betwixt Me and My vineyard. What could have been done more to My vineyard, that I have not done in it? Wherefore, when I looked that it should bring forth grapes, brought it forth wild grapes?" The "inhabitants of Jerusalem" are the good principles that are in truths; and the "men of Judah" are the truths that are in every good. These are what should be in the minds of the men of the church. But the Lord declares that the men of the church have not been good and true men, but perverters and corrupters of good and true principles. And yet the Lord had done all that even the Divine Love could do, to lead and teach men in the way to spirituality, and to goodness. The evils of men are not due to any failure in the Lord's provision for men.
 
 === Providence
 
@@ -1051,9 +1050,9 @@ Wood represents natural good; or, in the perverted sense, natural evil; and iron
 
 The competition between the true prophet, Jeremiah, and the false prophet, Hananiah, to influence the Jews, represents the competition in our minds, between the Lord's truth and our self-derived notions, which we try to establish as truths. And it is interesting to know that this name, Hananiah, in the Hebrew of the Old Testament, is the same as Ananias, in the Greek of the New Testament. And there was a parallel between them: Hananiah was a false prophet, lying in the name of Jehovah, and in the holy temple. And he brought himself to a speedy death, at the prophetic word of Jeremiah. And Ananias was the typical liar of his day, also lying against the Lord, and in the Lord's temple, and falling dead at the word of the Apostle, Peter. Both men were guilty of profanation, in tempting the Spirit of God. And they both represent the lying spirit of self-love, which constantly obstructs regeneration. Our only safe way is to follow the Divine leadings, wherever they are indicated, knowing that He who leads us will develop the best results, by the means which He provides and permits. "The eternal God is thy refuge, and underneath are the everlasting arms."
 
-== 14. Jeremiah Hiding The Stones In The Mortar
+== 14. Jeremiah Hiding The Stones In The Mortar. (Jeremiah 43:8-10)
 
-Then came the Word of Jehovah unto Jeremiah, in Tahpanhes, saying, Take great stones in thy hand, and hide them in the mortar in the brickwork, which is at the entry of Pharaoh's house, in Tahpanhes, in the sight of the men of Judah; and say unto them, Thus saith Jehovah of hosts, the God of Israel: Behold, I will send and take Nebuchadnezzar, the king of Babylon, My servant, and will set his throne upon these stones that I have hid; and he shall spread his royal pavilion over them.-JEREMIAH 43:8-10.
+Then came the Word of Jehovah unto Jeremiah, in Tahpanhes, saying, Take great stones in thy hand, and hide them in the mortar in the brickwork, which is at the entry of Pharaoh's house, in Tahpanhes, in the sight of the men of Judah; and say unto them, Thus saith Jehovah of hosts, the God of Israel: Behold, I will send and take Nebuchadnezzar, the king of Babylon, My servant, and will set his throne upon these stones that I have hid; and he shall spread his royal pavilion over them. (Jeremiah 43:8-10)
 
 The fallacies and falsities of the natural senses cannot protect the unregenerate mind against the evils of the selfish heart.
 
@@ -1061,7 +1060,7 @@ The fallacies and falsities of the natural senses cannot protect the unregenerat
 
 When the king of Babylon took Jerusalem, and carried away most of the people, he left some of the poor to till the land, and to gather the fruits, etc. And he set Gedaliah over these, as a deputy-governor, under the king of Babylon. But, after a time, Ishmael, a Jew, and his followers, killed Gedaliah; and then, for safety, took away a number of the Jews, to the country of the Ammonites, lest the king of Babylon should seek revenge for the killing of Gedaliah. But Johanan pursued Ishmael's party, and re-took the Jews, and scattered Ishmael's forces. But Johanan and his men feared to return to Jerusalem. And they planned to go to Egypt, for safety. But, from policy, they consulted Jeremiah, the prophet of Jehovah, as to what they should do. And Jeremiah warned them not to go to Egypt, but to return to Jerusalem; and that, in case they should go to Egypt, the same enemy whom they feared to meet at Jerusalem, would reach them in Egypt; and that they would die in Egypt. But these men, having set their hearts upon going to Egypt, turned against Jeremiah, and accused him of being a false prophet. And they went to Egypt, and compelled Jeremiah to go with them.
 
-In these circumstances our text was spoken, at Tahpanhes. Tahpanhes was a great city in Egypt, on the southern boundary of Palestine, on the southern limit of Goshen. It was the city called at different times, Beth-Shemesh, or On, or Heliopolis; and it was a center of Egyptian learning and worship. It contained a great. temple, or house of the sun.
+In these circumstances our text was spoken, at Tahpanhes. Tahpanhes was a great city in Egypt, on the southern boundary of Palestine, on the southern limit of Goshen. It was the city called at different times, Beth-shemesh, or On, or Heliopolis; and it was a center of Egyptian learning and worship. It contained a great. temple, or house of the sun.
 
 === The Text
 
@@ -1625,7 +1624,7 @@ In the judgment, the distinction is made between good men and evil men. For, spi
 
 It is said that a mark was set upon those who sighed and cried over the abominations that were going on in Jerusalem. These were such as did not agree with such abominations, but grieved over them, as evil things, contrary to spiritual life. We sigh over the things which, are contrary to our thoughts; and we cry over, or cry out against, the things which offend our affections.
 
-The forehead signifies our interior love, which is the highest part of our character, as the forehead is the highest part of the face. To mark anything is to distinguish it from others. And the mark set on the forehead of these better men, represented the fact that the Divine Truth, in judging men, i.e., in separating the good and the evil, judges by the inward character, the real quality of the man; thus, by his motives, and not merely by his acts. The Hebrew word (tav) used in the text, to mean a mark, means, especially, a mark of a cross. And, as a cross represents the trials of temptation, so the men who were marked with a cross, were those who had passed through the struggles of temptation, and who had been regenerated.
+The forehead signifies our interior love, which is the highest part of our character, as the forehead is the highest part of the face. To mark anything is to distinguish it from others. And the mark set on the forehead of these better men, represented the fact that the Divine Truth, in judging men, i.e., in separating the good and the evil, judges by the inward character, the real quality of the man; thus, by his motives, and not merely by his acts. The Hebrew word (_tav_) used in the text, to mean a mark, means, especially, a mark of a cross. And, as a cross represents the trials of temptation, so the men who were marked with a cross, were those who had passed through the struggles of temptation, and who had been regenerated.
 
 We remember that, preceding the judgment in Egypt, at the time of the Exodus of Israel, when Jehovah was about to destroy the first-born children of the Egyptians, He commanded the Israelites to set blood-marks on their doors, to distinguish them from the Egyptians, so that Jehovah would "pass over" such houses, and not slay any one therein.
 
@@ -1953,8 +1952,7 @@ The stout hard-wood nail, or peg, or pin, built into the wall of the house, and 
 
 As the wooden nail, or pin, was the means by which the vessels were kept in contact with the house, so the peg represents the conjunction, or mental union, between the doctrines of truth, and the profounder principles of our minds; which conjunction is to be found in practical goodness of conduct, which will always securely hold every doctrine of truth in contact with our inward character, and always ready for active use. And there is nothing else than such goodness, which is reliable.
 
-This representative meaning of a wooden nail was generally recognized among the Jews, as is seen by some of their common sayings. When one of the Jews had secured a position which seemed to be permanent, his friends declared that he was "fastened, like a nail." And so we find similar expressions in the letter of the Scriptures, as in Isaiah (xxii. 23, 24), where the Lord said of Eliakim, the son of Hilkiah, "I
-will fasten him as a nail in a sure place; . . . and they shall hang upon him all the glory of his father's house, the offspring and the issue, all vessels of small quantity, from the vessels of cups, even unto the vessels of flagons."
+This representative meaning of a wooden nail was generally recognized among the Jews, as is seen by some of their common sayings. When one of the Jews had secured a position which seemed to be permanent, his friends declared that he was "fastened, like a nail." And so we find similar expressions in the letter of the Scriptures, as in Isaiah (xxii. 23, 24), where the Lord said of Eliakim, the son of Hilkiah, "I will fasten him as a nail in a sure place; . . . and they shall hang upon him all the glory of his father's house, the offspring and the issue, all vessels of small quantity, from the vessels of cups, even unto the vessels of flagons."
 
 === Goodness And Truth
 
@@ -2080,11 +2078,11 @@ This idea falls naturally into the thought of the senses. Even in these days, we
 
 This tradition among the Jews was founded upon a misunderstanding of the words of the Decalogue, as to the sins of the parents being visited upon their children: "I, Jehovah, thy God, am a jealous God, visiting the iniquity of the fathers upon the children, unto the third and fourth generation of them that hate Me." (Exodus 20:5)
 
-The ancient Jew was natural minded and sensuous, and without any idea of the distinctive difference between natural and spiritual things. And, in regarding the supposed wrath of God against evil-doers, he looked for the punishment of evil men in this natural world. And, to the natural thought, it often does seem that the children suffer for the sins of their parents. If the parents are wise, prudent and industrious, they generally procure a fair living, and means of giving their children a good education, and a proper training for some useful occupation. But, if the parents are vicious, indolent and careless, their children often have to go without such advantages, and, sometimes, without the necessities of life. And the parents who do not restrain their own evil tendencies, transmit to their descendents increased tendencies in the same direction. And parents who abuse their physical bodies, transmit to their children impaired physical conditions; and this, often, to several generations. In all phases of human life, temperaments, tendencies and inclinations are hereditary.
+The ancient Jew was natural minded and sensuous, and without any idea of the distinctive difference between natural and spiritual things. And, in regarding the supposed wrath of God against evil-doers, he looked for the punishment of evil men in this natural world. And, to the natural thought, it often does seem that the children suffer for the sins of their parents. If the parents are wise, prudent and industrious, they generally procure a fair living, and means of giving their children a good education, and a proper training for some useful occupation. But, if the parents are vicious, indolent and careless, their children often have to go without such advantages, and, sometimes, without the necessities of life. And the parents who do not restrain their own evil tendencies, transmit to their descendants increased tendencies in the same direction. And parents who abuse their physical bodies, transmit to their children impaired physical conditions; and this, often, to several generations. In all phases of human life, temperaments, tendencies and inclinations are hereditary.
 
 === Hereditaries
 
-But it does not follow that hereditary influences are penalties imposed by the Lord. against the sins of ancestors. On the contrary, these hereditary conditions are inherent in the form of life which is transmitted to descendents. In the nature of things, everything must "bring forth after its kind," because the parent can beget in the organism of the off-spring, such conditions, only, as he has in himself. And the life of the Lord, which flows into the parent, and which seeks to give the best to every child, must, however, give through the parent. And thus the Divine gifts are modified by the present conditions of the parent's organism.
+But it does not follow that hereditary influences are penalties imposed by the Lord. against the sins of ancestors. On the contrary, these hereditary conditions are inherent in the form of life which is transmitted to descendants. In the nature of things, everything must "bring forth after its kind," because the parent can beget in the organism of the off-spring, such conditions, only, as he has in himself. And the life of the Lord, which flows into the parent, and which seeks to give the best to every child, must, however, give through the parent. And thus the Divine gifts are modified by the present conditions of the parent's organism.
 
 These facts are plainly seen in the natural minds, and in the physical conditions, of all nations, families and individuals. As to his physical life, no man has his choice as to the original endowment of mind and body with which he comes into this world. In each case, he must accept such conditions as were transmitted to him. He can only start where he has been placed, and do his best to work into better conditions. And here the power of the hereditary bias ends, because every sane man is given power and freedom to work himself into better conditions.
 
@@ -2838,7 +2836,7 @@ And when the man that had the line in his hand went forth eastward, he measured 
 
 Again he measured a thousand, and brought me through; the waters were to the loins. Afterward, he measured a thousand; and it was a river that I could not pass over; for the waters were risen, waters to swim in, a river that could not be passed over. And he said unto me, Son of Man, hast thou seen this? Then he brought me, and caused me to return to the brink of the river.
 
-Now, when I had returned, behold, at the bank of the river were very many trees, on the one side and on the other. Then said he unto me, These waters issue out toward the East-country, and go into the desert, and go into the sea; being brought forth into the sea, the waters shall be healed. And it shall come to pass, that everything that liveth, which moveth, whithersoever the rivers shall come, shall live: and there shall be a very great multitude of fish, because these waters shall come thither: for they shall be healed; and everything shall live whither the river cometh.-EZEKIEL xlvii 1-9.
+Now, when I had returned, behold, at the bank of the river were very many trees, on the one side and on the other. Then said he unto me, These waters issue out toward the East-country, and go into the desert, and go into the sea; being brought forth into the sea, the waters shall be healed. And it shall come to pass, that everything that liveth, which moveth, whithersoever the rivers shall come, shall live: and there shall be a very great multitude of fish, because these waters shall come thither: for they shall be healed; and everything shall live whither the river cometh. (Ezekiel 47:1-9)
 
 The Divine Truth flows out from the Lord, with the Divine Love, to angels of the different heavens, and to men on the earths, to each according to the quality and degree of his mind and life.
 
