@@ -1,29 +1,54 @@
-BSN Chapter Study
-working file
+= THE CALL OF ABRAM: — Genesis 11:27-32; 12:1-10
+// note inserted ': ' separator to create subtitle
+// sadly the pdf generator doesn't split subtitle to second line
+// doctype attribute here is the default 'article'
+// the following can be used to decrease/increase heading sizes 
+//:leveloffset: +1
+:toc: preamble
+:toclevels: 2
+:pdf-page-size: Letter
+:reproducible:
+:listing-caption: Listing
 
-include::../template-attributes.adoc[]
+Here be the Preamble which should be used to cite sources, authors, etc.
+inserted via include common to other Chapters.
+Header attributes declared here above should also be moved to the include file for common use.
+
+For reference and ideas to enhance the PDF presentation, see the *Theming Guide*  https://docs.asciidoctor.org/pdf-converter/latest/theme/
 
 
-extracted 24 Sep'25 to study the structural format of current text in repo/BSN-Dole/BSN_Full-WIP.txt ...
-?Where do we go from here?
+Do we really need/want a TOC ? (especially if the pdf won't keep it with the preamble)
+
+// include::../template-attributes.adoc[]
+////
+the above include served all activity prior to present attention to BSN,
+which should have an include specific to its use,
+i.e. a preamble citing Dole, Foundation, source, etc.
+
+////
+
+// extracted 24 Sep'25 to study the structural format of current text in repo/BSN-Dole/BSN_Full-WIP.txt ...
+
 
 
 
 // NOTE: 4 dashes 
 //----
-== THE CALL OF ABRAM — Genesis 11:2 7-32; 12:1-10
+
+<<<
+== THE CALL OF ABRAM — Genesis 11:27-32; 12:1-10
 
 Noah's descendants, like the descendants of Adam and Eve, turned away from the Lord and wanted to go their own way, until finally they became so selfish that they could not live peaceably together and had to be scattered over the face of the earth. There is a good moral lesson for small children here because they know that when even one child in a group is selfish, there is always quarreling and trouble.
 
 ---
 === Doctrinal Points
----
+//---
 
 In the Bible, the first eleven chapters were taken from the Ancient Word and are not literal history. Literal history begins with chapter 12.
 
 ---
 === Notes for Parents
----
+//---
 
 With the story of Abram we enter historic times. Abram and his family were real people who actually did the things recorded in the Bible. But the Lord chose them and so directed their lives that the record, just like the great symbol stories in the first few chapters, could contain within it deep spiritual lessons for all men in all times.
 
@@ -37,10 +62,11 @@ We should not be satisfied with doing less than our best in the Lord's service. 
 
 ---
 === Primary
----
+//---
 
 This is the children's introduction to Abraham (who was first called Abram), someone they will hear a great deal about. Be sure they learn his name. It is also their introduction to the Holy Land. They will also be interested in hearing about Abram's long journey and about the members of the family who started with him and those who did not go all the way. The group should remember Abraham, Sarah, and Lot, and should be told about the place called Haran or the city of Nahor. They should also learn the names of the two places in the Holy Land where Abram first stopped: Shechem and Bethel. Tell them about the building of the altars and what an altar stands for, and call their attention to the altar in the church and to the fact that a copy of the Word is kept on it. Impress upon them Abraham's obedience to the Lord and his gratitude to the Lord, as expressed in the building of the altars. 
 
+----
 When the early people became so wicked that they had to be destroyed, who was saved?
 
 How was he saved from the flood? 
@@ -50,6 +76,7 @@ What can you tell about the ark?
 Who were saved with Noah?
 
 What else was saved in the ark?
+----
 
 After the flood was over, Noah and his family and all the animals came out of the ark to begin a new life on earth.
 
@@ -69,6 +96,7 @@ The Lord told them to leave their home and go to the land of Canaan. It was a lo
 
 They stopped at a place northwest of Canaan and Nahor decided to stay there. He named the place for his brother Haran, who had died before they left Ur, but it is also the city of Nahor. The old father Terah died there. 
 
+----
 Who went on to the land of Canaan? Lot was Haran's son.
 
 What did the Lord promise Abram?
@@ -80,13 +108,15 @@ What was their second stop?
 What did Abram build in each place? 
 
 Why did they go down into Egypt?
+----
 
 ---
 === Junior
----
+//---
 
 The details of the story, with names and places, should be mastered. The Juniors will be interested in knowing that an h, one of the letters from the name Jehovah, was later put into Abram's name to indicate his closer relation to the Lord after he settled in the Holy Land. On account of later lessons special emphasis should be put on the settling of Nahor and his family in Haran, also called the city of Nahor. Be sure to have the children locate all the places on the map, and point out the great desert which caused them to go so far north instead of straight across. The meaning of the Holy Land, of Abram's call to go there, of the altars, and of going down into Egypt may also be touched on.
 
+----
 What finally happened to most of the people of the Most Ancient Church?
 
 Who were saved?
@@ -96,33 +126,41 @@ How were they saved?
 What did Noah take into the ark besides his family?
 
 How long did the rain last?
+----
 
 After the flood the descendants of Noah repeopled the earth. At first they were good, but after a while they began again to want their own way and to think that their own ideas were better than the truth they received from the Lord. The story of the Tower of Babel (Genesis 11:1-9) is a picture of how they tried to set themselves up, and had to be scattered to prevent them from destroying each other.
 
-The rest of the eleventh chapter of Genesis is a genealogy. This means that it is a list of the sons and grandsons and great grandsons and so on of someone. In this case the someone is Shem. Who was Shem?
+The rest of the eleventh chapter of Genesis is a genealogy. This means that it is a list of the sons and grandsons and great grandsons and so on of someone. In this case the someone is Shem.
+
+----
+Who was Shem?
 
 Who were his brothers?
+----
 
 The men in these old lists seem to live much longer than men do now, but that is because the names are not the names of real people but of whole groups of people, just as we might perhaps call the United States Uncle Sam and say, "Uncle Sam has lived over two hundred years." The first real person mentioned in the Bible was Eber, better written Heber, from whom the Jews were called Hebrews.
 
 Our lesson today starts with a man named Terah.
-
+----
 Where did he live?
 
 How many sons did he have?
+----
 
 We need to learn their names because we shall hear of all of them again.
-
+----
 Which one of the sons died in Ur?
 
 What son did he leave?
 
 What did the Lord tell Terah to do?
+----
 
 Trace on a map the route of the journey of the family from Ur. It was a long, slow journey. They did not have automobiles and airplanes in those days. They traveled on foot or on donkeys, and they took all their cattle and sheep with them. The cattle and sheep had to stop to graze every day. At night the people put up tents for themselves, and set a watch over the flocks and herds. Where did Terah stop?
 
 We learn afterward that Nahor and his family stopped there and decided to go no further. They named the city Haran after the brother who had died before they left Ur, but it is also often called the city of Nahor. Try to remember this city because we shall have three stories in which it is important. 
 
+----
 Why did Abram go further?
 
 What did the Lord promise him?
@@ -146,12 +184,13 @@ Why could not Abram settle in the Holy Land when he first got there?
 What is a famine?
 
 Where did Abram go because of the famine?
+----
 
 We usually call Abram Abraham. The Lord Himself later changed the name by putting in the h, which is one of the letters in Jehovah, the Lord's own name. And He changed Sarai's name to Sarah. This means that after they returned from Egypt and made their permanent home in the Holy Land, they came into a closer relation with the Lord than they had had before.
 
 ---
 === Intermediate
----
+//---
 
 Set the young people's minds working on the correspondence of a journey to life. After you have pointed it out and illustrated it a little, they will be interested in thinking of other words and phrases in common use which are based on this correspondence, such as progressive and backward nations, the road to success, following in the steps of someone, taking the wrong road to happiness, standing still, the highroad to fortune, and the march of time. If they begin to think in these terms now, it will help their "feeling" for the correspondence of the whole Bible story.
 
@@ -169,16 +208,19 @@ The story of the call of Abram in its inner meaning tells us of a call that come
 
 ---
 === Basic Correspondences
----
+//---
 
+====
+....
 Ur of the Chaldees = our natural selfish state
 the land of Canaan = a heavenly state
 Haran = a good natural state
 Egypt = a state of acquiring knowledge
-
+....
+====
 ---
 === Senior
----
+//---
 
 The two points to be most carefully developed for the Seniors are the call to turn our backs on our natural selfish desires and thoughts, and our recurring need of new knowledge from the Word as we go through life, which is pictured in the Bible story by the frequent going down into Egypt. This ties in with our earlier lesson on the nature of the spiritual church. The young people know that in order to progress in any worldly occupation they need constantly to learn new things about it. They should be able to recognize that this must be equally true of spiritual progress.
 
@@ -200,7 +242,7 @@ Abram, as founder of the Jewish Church, pictures our first child-like response t
 
 ---
 === Adult
----
+//---
 
 The change to the period of actual history should be pointed out and explained. Cover the general points of the lesson briefly and then ask for questions and develop further the indicated subjects.
 
@@ -220,47 +262,55 @@ Then we come inevitably to a time when we feel a hunger for more truth. There wa
 
 ---
 === From the Writings of Swedenborg
----
-
+//---
+====
 Arcana Coelestia, n. 1461: "And Abram went down into Egypt to sojourn. That this signifies instruction in knowledges from the Word, is evident from the signification of 'Egypt,' and from the signification of 'sojourning.' That 'Egypt' signifies the memory-knowledge of knowledges, and that 'to sojourn' signifies to be instructed, will be seen presently. ... The external man is corporeal and sensuous; nor does it receive anything celestial and spiritual unless knowledges are implanted in it, as in ground; for in these celestial things can have their recipient vessels. But the knowledges must be from the Word. Knowledges from the Word are such that they are open from the Lord Himself; for the Word itself is from the Lord through heaven, and the Lord's life is in all things of the Word, both in general and in particular, although it does not so appear in the external form."
+====
 
 ---
 === Suggested Questions on the Lesson
----
+//---
+----
+----
 
-Intermediate: Are the first eleven chapters of the Bible historical fact? no
+----
+[quanda]
 
-Intermediate: Who was the first real person mentioned in the Bible? Eber
+Intermediate: Are the first eleven chapters of the Bible historical fact?:: no
 
-Intermediate: Who was chosen by the Lord to begin the establishment of a new church on earth? Abram
+Intermediate: Who was the first real person mentioned in the Bible?:: Eber
 
-Intermediate: Who was Abram's father? Who were his brothers? Terah; Haran, Nahor
+Intermediate: Who was chosen by the Lord to begin the establishment of a new church on earth?:: Abram
 
-Junior: Who was his wife? Sarai
+Intermediate: Who was Abram's father?:: Terah
+Who were his brothers?:: Haran, Nahor
 
-Primary: Where did they live? Ur, Chaldea
+Junior: Who was his wife?:: Sarai
 
-Primary: Where did the Lord tell them to go? Canaan
+Primary: Where did they live?:: Ur, Chaldea
 
-Intermediate: Where did they stop first? Haran (city of Nahor)
+Primary: Where did the Lord tell them to go?:: Canaan
 
-Primary: Who went on from Haran? Who was Lot? Lot, Abram's nephew
+Intermediate: Where did they stop first?:: Haran (city of Nahor)
 
-Junior: What did the Lord promise Abram? to be father of nation
+Primary: Who went on from Haran?:: Who was Lot?:: Lot, Abram's nephew
 
-Intermediate: Where did he stop first in the land of Canaan? Shechem (Sichem)
+Junior: What did the Lord promise Abram?:: to be father of nation
 
-Intermediate: What was his second stop? near Bethel
+Intermediate: Where did he stop first in the land of Canaan?:: Shechem (Sichem)
 
-Primary: What did he build in both places? altar
+Intermediate: What was his second stop?:: near Bethel
 
-Intermediate: Where did he then go, and why? Egypt, famine
+Primary: What did he build in both places?:: altar
 
-Intermediate: What does the land of Canaan represent? heavenly way of life
+Intermediate: Where did he then go, and why?:: Egypt, famine
 
-Intermediate: What does Abram's journey represent? leave inherited selfish tendencies ...
+Intermediate: What does the land of Canaan represent?:: heavenly way of life
 
-Senior: What does going into Egypt represent? gaining needed truth from the Word
+Intermediate: What does Abram's journey represent?:: leave inherited selfish tendencies ...
 
-Senior: What does this teach us about our own lives? we will repeatedly need to learn more truth
+Senior: What does going into Egypt represent?:: gaining needed truth from the Word
+
+Senior: What does this teach us about our own lives?:: we will repeatedly need to learn more truth
+----
 
