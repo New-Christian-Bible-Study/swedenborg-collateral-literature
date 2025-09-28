@@ -7,6 +7,7 @@
 
 sourcedir='../text'
 destbase='../../publish'
+remotebase='/home/pilgrim/gdrive/NCBS'
 pdfdest=$destbase/pdfs
 epubdest=$destbase/epubs
 mobidest=$destbase/mobis
@@ -49,5 +50,7 @@ ls -1 $sourcedir |
 		[[ $sourcetime -gt $epubtime ]] && createepub
 		printf "\n"
 	done
+
+#[ -d $remotebase ] && rsync -av $destbase/ $remotebase |tee /tmp/rsynclog
 
 exit
