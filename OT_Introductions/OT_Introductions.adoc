@@ -1,5 +1,12 @@
 ﻿= Old Testament Introductions
 
+////
+Over time, I've been pasting the full content of these "Full Introductions" as prepared by and for NCBS; and then bringing snippets therefrom into the "Brief Intros" for use as a quick glance.
+
+By bringing it into the public repo, I invite you all to enhance it as you see fit for your purposes. Being end of September 2025, it is quite possible that the Summaries in future use on NCBS will no longer be as shown here; unless of course, these become updated, which of course would likely be appropriate.
+////
+
+
 All content herein was sourced from the Summaries provided for each Book, provided by the New Christian Bible Study (NCBS) project website.
 
 == Brief Intros

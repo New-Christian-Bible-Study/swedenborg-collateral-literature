@@ -51,6 +51,6 @@ ls -1 $sourcedir |
 		printf "\n"
 	done
 
-#[ -d $remotebase ] && rsync -av $destbase/ $remotebase |tee /tmp/rsynclog
+[ -d $remotebase ] && rsync -av $destbase/ $remotebase |tee /tmp/rsynclog
 
 exit
