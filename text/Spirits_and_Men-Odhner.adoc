@@ -1,18 +1,16 @@
 = Spirits and Men
-Odhner
-include::../../template-attributes.adoc[]
+By Hugo Lj. Odhner
+include::../template-attributes.adoc[]
 
 ////
-
+4 Nov'25 discover my copy of the 1960 hardcover print edition; eager to re-read that and edit this (Maynard)
 
 ////
 
 
 Some Essays on the Influence of Spirits upon Men, as Described in the Writings of Emanuel Swedenborg
 
-By
-
-Hugo Lj. Odhner
+By Hugo Lj. Odhner
 
 THE ACADEMY BOOK ROOM
 Bryn Athyn, Pennsylvania 1958
@@ -25,6 +23,7 @@ Printed 1958, 500 copies
 PRINTED IN UNITED STATES OF AMERICA BY
 LANCASTER PRESS, INC., LANCASTER, PENNA.
 
+////
 CONTENTS
 
 Page
@@ -46,6 +45,7 @@ XIV Influx and Disease 171
 XV Mental Causes of Illness 185
 XVI Spiritual Sources of Health 205
 XVII Angelic Intermediacy in Divine Revelation 211
+////
 
 KEY TO REFERENCES
 
