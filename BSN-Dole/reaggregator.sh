@@ -16,6 +16,8 @@ printf "\n\nadditional content belongs here\n\n" >>"$output_file"
 ls -1 "$source_directory" |sort -n \
 	|while read chapter
 	do printf "\n\n== $chapter\n\n" >>"$output_file"
+		[[ -f "$source_directory/$chapter/INTRO.txt" ]] && \
+			cat "$source_directory/$chapter/INTRO.txt" >> "$output_file"
 		[[ -f "$source_directory/$chapter/$target_section.txt" ]] && \
 			cat "$source_directory/$chapter/$target_section.txt" >> "$output_file"
 		done
