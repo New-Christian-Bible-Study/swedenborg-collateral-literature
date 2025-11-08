@@ -1,0 +1,6 @@
+
+=== Basic Correspondences
+
+stone = truth
+oil = love
+
