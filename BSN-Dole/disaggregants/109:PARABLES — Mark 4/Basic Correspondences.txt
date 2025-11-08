@@ -1,0 +1,5 @@
+
+=== Basic Correspondences
+
+seed = truths from the Word
+
