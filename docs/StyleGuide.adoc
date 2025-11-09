@@ -102,9 +102,9 @@ In accommodation of many of our source files, the asterisk(*) is adopted for foo
 
 In some cases(*1), there is a need for multiple footnotes(*2) in the same line.
 
-(*1). the source would use multiple asterisks
-
-(*2). I couldn't get that to work in AsciiDoc
+ Even with single notes, it can be a good look to indent these
+ (*1). the source would use multiple asterisks
+ (*2). I couldn't get that to work in AsciiDoc
 
 There have also been numbered footnotes (23) in documents prepared for maybe an endnotes section.
 
