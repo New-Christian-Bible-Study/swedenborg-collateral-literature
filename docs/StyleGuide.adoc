@@ -114,7 +114,7 @@ In order to match the footnote insertion with the footnote explanation, the rege
 
 //Steve's note: In NCBS, we restart footnote numbering for each passage, and we replace all asterisks with an Arabic numeral, like this `fff1`, `fff2`. Then in the notes section below the passage, we use `nnn1`, `nnn2` etc. to match the footnote number to the note.
 
-a horizontal line separator, generated with three dashes following a blank line, as below:
+==== ##[.underline]#a horizontal line separator,### generated with three dashes following a blank line, as below:
 
 ---
 Many source files used a multiple of asterisks, some with alternate spaces, for this use. Again, incompatible conflict with AsciiDoc's need for asterisks.
