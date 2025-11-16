@@ -1,6 +1,6 @@
 = Structural Harmony Of The Old And New Testaments
 Rev. George De Charms
-include::../template-attributes.adoc
+include::../template-attributes.adoc[]
 
 //// 
 http://www.heavenlydoctrines.org/dtSearch/dtisapi6....

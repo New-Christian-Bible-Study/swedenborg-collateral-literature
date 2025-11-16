@@ -1,4 +1,5 @@
 = New Church Literature Summaries
+NCBS prototype -- computer generation test
 include::../template-attributes.adoc[]
 
 A collection of summaries from the theological writings of the New Church, organized by category.

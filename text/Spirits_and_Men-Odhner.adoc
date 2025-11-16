@@ -1,6 +1,6 @@
 = Spirits and Men
 By Hugo Lj. Odhner
-include::../template-attributes.adoc
+include::../template-attributes.adoc[]
 
 ////
 4 Nov'25 discover my copy of the 1960 hardcover print edition; eager to re-read that and edit this (Maynard)
