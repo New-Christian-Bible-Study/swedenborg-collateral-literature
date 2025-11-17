@@ -1,6 +1,6 @@
 = Sermons on The WORD
 By Edward S. Hyatt  1935
-//include::../template-attributes.adoc[]
+include::../template-attributes.adoc[]
 
 // {empty} inserted before periods as necessary markup
 // you'll see that they aren't printed

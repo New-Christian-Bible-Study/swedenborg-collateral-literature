@@ -1,6 +1,6 @@
 = Crown of Revelations - A doctrinal study
 By Alfred Acton, M.A., D.Th.  1934
-// include::../template-attributes.adoc[]
+include::../template-attributes.adoc[]
 
 
 by Alfred Acton, M.A., D.Th. Dean of the Theological School of the Academy of the New Church

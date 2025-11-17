@@ -1,6 +1,6 @@
 = Essays on the After-Life and on the Last Judgment
 by Hugo Lj. Odhner 1968
-//include::../template-attributes.adoc[]
+include::../template-attributes.adoc[]
 
 WARNING: Tremendous! quantity of footnotes is posing a problem here
 ////
