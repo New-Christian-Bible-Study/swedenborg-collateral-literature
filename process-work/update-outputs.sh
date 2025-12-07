@@ -7,7 +7,7 @@
 
 sourcedir='../text'
 destbase='../../publish'
-remotebase='/home/pilgrim/gdrive/NCBS'
+remotebase='/mnt/gdrive/NCBS/'
 pdfdest=$destbase/pdfs
 epubdest=$destbase/epubs
 mobidest=$destbase/mobis
