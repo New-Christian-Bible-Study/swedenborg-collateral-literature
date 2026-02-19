@@ -1,6 +1,7 @@
 
 === Basic Correspondences
 
+....
 light = truth
 water = truth
 dry land, earth, or ground = our conscious experience, which forms our "mind"
@@ -16,4 +17,5 @@ seas = truth gathered in the memory
 fish = affections for natural knowledge 
 birds = affections for spiritual knowledge 
 animals = affections for useful thought and action
+....
 

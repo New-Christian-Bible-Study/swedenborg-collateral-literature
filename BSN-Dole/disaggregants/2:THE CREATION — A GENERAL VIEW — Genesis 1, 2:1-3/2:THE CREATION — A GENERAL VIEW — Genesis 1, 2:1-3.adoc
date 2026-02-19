@@ -9,13 +9,14 @@ The introduction for this first lesson in all classes should be a few words abou
 
 [Summary doctrinal points will be found at the beginning of each lesson. They are especially recommended for the use of teachers of Intermediate and Senior classes. Their listing in this way merely brings them together for the teacher's convenience; they are not meant to be taken up as the main feature of the lesson, but to be brought in by the way. Each point will be identifiable as related to one of the four principal doctrines of the Church: the doctrines of the Lord, the Word, Faith, or Charity.]
 
-The Lord is the beginning of everything. He created heaven and earth.
+....
+* The Lord is the beginning of everything. He created heaven and earth.
 
-The Word is the Lord's revelation to us of all that we need to know about our Creator and our relation to Him.
+* The Word is the Lord's revelation to us of all that we need to know about our Creator and our relation to Him.
 
-Faith in the Lord means trust in Him and obedience to His commandments even against our own will and judgment.
-
-We cannot do any real good of ourselves. All good is in and from the Lord.
+* Faith in the Lord means trust in Him and obedience to His commandments even against our own will and judgment.
+* We cannot do any real good of ourselves. All good is in and from the Lord.
+....
 
 === Notes for Parents
 
@@ -138,22 +139,27 @@ The Lord gave us the world in which we live and also all the thoughts and affect
 Read chapter 2, verse 3, and think from it what type of day Sunday should be for us. It is not intended to be a sad or hard day, but we ought to spend it in such a way that we and all those about us may be happy and peaceful together. Happiness does not come from always "getting our own way," for our own way is often very selfish and hard on other people. Happiness comes from learning to love to do the things the Lord would have us do, and we can do this only by learning what He has told us in the Word and by keeping His commandments. Recall the commandment, "Remember the sabbath day to keep it holy." Going to church and Sunday School is an orderly part of the keeping of the sabbath. A good rule to keep in mind about Sunday is one which the Lord gave the people when He was in the world: "It is lawful to do good on the sabbath day."
 
 === Basic Correspondences
+....
+* light = truth
 
-light = truth
-water = truth
-dry land, earth, or ground = our conscious experience, which forms our "mind"
-the vegetable kingdom = our thinking
-the animal kingdom = our affections
-darkness = ignorance
-the sun = love to the Lord, from whom all truth comes
-the moon = faith in the Lord
-the stars = knowledges of heavenly things 
-waters above the firmament = spiritual truth
-waters under the firmament = natural truth
-seas = truth gathered in the memory 
-fish = affections for natural knowledge 
-birds = affections for spiritual knowledge 
-animals = affections for useful thought and action
+* water = truth
+
+* dry land, earth, or ground = our conscious experience, which forms our "mind"
+
+* the vegetable kingdom = our thinking
+
+* the animal kingdom = our affections
+* darkness = ignorance
+* the sun = love to the Lord, from whom all truth comes
+* the moon = faith in the Lord
+* the stars = knowledges of heavenly things 
+* waters above the firmament = spiritual truth
+* waters under the firmament = natural truth
+* seas = truth gathered in the memory 
+* fish = affections for natural knowledge 
+* birds = affections for spiritual knowledge 
+* animals = affections for useful thought and action
+....
 
 === Senior
 
