@@ -1,7 +1,7 @@
 
 === Basic Correspondences
-
-a ship = doctrine
-the sea = knowledges gathered in the mind
-a fish = an affection for learning truth
-
+----
+• a ship = doctrine
+• the sea = knowledges gathered in the mind
+• a fish = an affection for learning truth
+----

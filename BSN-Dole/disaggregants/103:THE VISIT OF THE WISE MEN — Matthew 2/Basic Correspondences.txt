@@ -1,8 +1,8 @@
 
 === Basic Correspondences
-
-gold = love
-frankincense = faith
-myrrh = obedience
-Herod = falsity ruling in the mind
-
+----
+• gold = love
+• frankincense = faith
+• myrrh = obedience
+• Herod = falsity ruling in the mind
+----

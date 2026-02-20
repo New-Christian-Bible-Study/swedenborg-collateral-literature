@@ -1,8 +1,8 @@
 
 === Basic Correspondences
-
-the raven = a false idea
-the dove = a true idea concerning God
-the olive = the good of charity
-the olive leaf = the truth of charity
-
+----
+• the raven = a false idea
+• the dove = a true idea concerning God
+• the olive = the good of charity
+• the olive leaf = the truth of charity
+----

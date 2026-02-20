@@ -1,9 +1,9 @@
 
 === Basic Correspondences
-
-a city = doctrine
-a tower = the worship of self
-stone = truth
-brick = man-made ideas
-slime = selfishness
-
+----
+• a city = doctrine
+• a tower = the worship of self
+• stone = truth
+• brick = man-made ideas
+• slime = selfishness
+----

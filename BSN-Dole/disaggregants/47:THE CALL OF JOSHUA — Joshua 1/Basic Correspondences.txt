@@ -1,6 +1,6 @@
 
 === Basic Correspondences
-
-Joshua = truth fighting
-valley = the natural plane of our lives
-
+----
+• Joshua = truth fighting
+• valley = the natural plane of our lives
+----

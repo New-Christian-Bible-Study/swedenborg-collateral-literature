@@ -1,10 +1,10 @@
 
 === Basic Correspondences
-
-a trumpet = the power of truth speaking
-a throne = judgment
-a lion = power of good or evil
-a calf = natural affection
-a man = wisdom
-an eagle = understanding
-
+----
+• a trumpet = the power of truth speaking
+• a throne = judgment
+• a lion = power of good or evil
+• a calf = natural affection
+• a man = wisdom
+• an eagle = understanding
+----

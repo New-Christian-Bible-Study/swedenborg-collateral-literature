@@ -1,6 +1,6 @@
 
 === Basic Correspondences
-
-seven = holy things
-the donkey or onager = the natural reason
-
+----
+• seven = holy things
+• the donkey or onager = the natural reason
+----

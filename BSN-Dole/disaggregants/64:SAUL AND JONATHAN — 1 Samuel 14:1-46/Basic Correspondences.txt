@@ -1,7 +1,7 @@
 
 === Basic Correspondences
-
-a king = a ruling principle
-Jonathan = knowledge gained from experience
-honey = enjoyment
-
+----
+• a king = a ruling principle
+• Jonathan = knowledge gained from experience
+• honey = enjoyment
+----

@@ -1,9 +1,9 @@
 
 === Basic Correspondences
-
-name = quality
-the "lake of fire" = the burning of self-love in the heart, which is hell
-city = doctrine
-Jerusalem = the church as to doctrine
-fountain of the water of life = the Word
-
+----
+• name = quality
+• the "lake of fire" = the burning of self-love in the heart, which is hell
+• city = doctrine
+• Jerusalem = the church as to doctrine
+• fountain of the water of life = the Word
+----

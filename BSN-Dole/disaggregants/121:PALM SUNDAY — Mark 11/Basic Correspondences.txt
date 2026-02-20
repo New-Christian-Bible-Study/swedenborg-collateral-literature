@@ -1,7 +1,7 @@
 
 === Basic Correspondences
-
-garments = truths
-trees, branches = general principles, principles used to govern our day-to-day life
-mountains (as obstacles) = selfish feelings and thoughts we have to "get over"
-
+----
+• garments = truths
+• trees, branches = general principles, principles used to govern our day-to-day life
+• mountains (as obstacles) = selfish feelings and thoughts we have to "get over"
+----

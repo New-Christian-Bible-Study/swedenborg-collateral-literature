@@ -1,7 +1,7 @@
 
 === Basic Correspondences
-
-leprosy = the profanation of truth
-fever = the burning of inner wrong desires
-possession = slavery to evil thoughts and desires
-
+----
+• leprosy = the profanation of truth
+• fever = the burning of inner wrong desires
+• possession = slavery to evil thoughts and desires
+----

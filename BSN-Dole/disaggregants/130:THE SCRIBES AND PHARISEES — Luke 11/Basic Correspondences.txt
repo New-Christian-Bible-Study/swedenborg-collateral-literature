@@ -1,9 +1,9 @@
 
 === Basic Correspondences
-
-a candle or lamp = doctrine
-a lampstand = the church
-a cup = a containant for spiritual truth
-a platter = a containant for goodness
-the eye = the understanding
-
+----
+• a candle or lamp = doctrine
+• a lampstand = the church
+• a cup = a containant for spiritual truth
+• a platter = a containant for goodness
+• the eye = the understanding
+----

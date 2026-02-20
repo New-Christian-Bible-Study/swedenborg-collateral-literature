@@ -1,7 +1,7 @@
 
 === Basic Correspondences
-
-a donkey's colt = natural truth
-Philip = intelligence
-Andrew = obedience
-
+----
+• a donkey's colt = natural truth
+• Philip = intelligence
+• Andrew = obedience
+----

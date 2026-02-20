@@ -1,7 +1,7 @@
 
 === Basic Correspondences
-
-a pool = truth gathered in the memory
-five = a few "remains" of good states
-a bed = the doctrine which we have accepted
-
+----
+• a pool = truth gathered in the memory
+• five = a few "remains" of good states
+• a bed = the doctrine which we have accepted
+----

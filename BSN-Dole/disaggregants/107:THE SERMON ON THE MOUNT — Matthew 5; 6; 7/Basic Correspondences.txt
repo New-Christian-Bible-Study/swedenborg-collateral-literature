@@ -1,6 +1,6 @@
 
 === Basic Correspondences
-
-sand = the opinions of men
-storms = trials and temptations
-
+----
+• sand = the opinions of men
+• storms = trials and temptations
+----

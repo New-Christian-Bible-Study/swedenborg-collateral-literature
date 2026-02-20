@@ -1,8 +1,8 @@
 
 === Basic Correspondences
-
-wheat = goodness
-one hundred = full measure
-dogs = natural affections without knowledge of self
-hell-fire = love of self
-
+----
+• wheat = goodness
+• one hundred = full measure
+• dogs = natural affections without knowledge of self
+• hell-fire = love of self
+----

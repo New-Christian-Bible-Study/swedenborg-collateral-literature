@@ -1,5 +1,5 @@
 
 === Basic Correspondences
-
-seed = truths from the Word
-
+----
+• seed = truths from the Word
+----

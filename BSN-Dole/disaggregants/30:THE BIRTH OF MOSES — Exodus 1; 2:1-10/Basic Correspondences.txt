@@ -1,7 +1,7 @@
 
 === Basic Correspondences
-
-rushes = the simplest ideas of right
-pitch = selfishness
-Moses = the divine law
-
+----
+• rushes = the simplest ideas of right
+• pitch = selfishness
+• Moses = the divine law
+----

@@ -1,8 +1,8 @@
 
 === Basic Correspondences
-
-a mountain = a high plane of thought
-Peter = faith
-James = charity
-John = the good of charity
-
+----
+• a mountain = a high plane of thought
+• Peter = faith
+• James = charity
+• John = the good of charity
+----

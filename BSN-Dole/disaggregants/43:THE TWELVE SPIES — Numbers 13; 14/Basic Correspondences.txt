@@ -1,5 +1,5 @@
 
 === Basic Correspondences
-milk = truth in which there is goodness
-honey = the happiness which comes from goodness and truth
-
+----
+• honey = the happiness which comes from goodness and truth
+----

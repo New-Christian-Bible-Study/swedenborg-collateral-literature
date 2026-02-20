@@ -1,6 +1,6 @@
 
 === Basic Correspondences
-
-stone = truth
-oil = love
-
+----
+• stone = truth
+• oil = love
+----

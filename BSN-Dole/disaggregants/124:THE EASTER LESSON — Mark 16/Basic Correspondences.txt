@@ -1,5 +1,5 @@
 
 === Basic Correspondences
-
-spices = interior truths from good
-
+----
+• spices = interior truths from good
+----
