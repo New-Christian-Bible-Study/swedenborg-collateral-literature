@@ -10,9 +10,9 @@ NOTE: This document is quite raw at this stage of development.
 === {empty}
 
 
-For reviewing this in VSCode, + 
-open the source file using the Explorer, + 
-and preview it on the right. + 
+For reviewing this in VSCode, +
+open the source file using the Explorer, +
+and preview it on the right. +
 (instructions elsewhere, eventually)
 
 ##[.underline]#Comments:###
@@ -70,11 +70,11 @@ https://github.com/New-Christian-Bible-Study/swedenborg-concordance/blob/main/do
 
 You'll readily note that two separated
 but adjacent 
-lines will be joined into a seamless flowed paragraph. + 
-_here again, compare the source with the preview_ + 
-For separating short lines, + 
-without a blank line between them + 
-append the spaceplusspace sequence  ` + `
+lines will be joined into a seamless flowed paragraph. +
+_here again, compare the source with the preview_ +
+For separating short lines, +
+without a blank line between them +
+append the spaceplus sequence  ` +`
 
 ==== ##[.underline]#Thematic Breaks:###
 
