@@ -19,7 +19,7 @@ echo "Title: $chapter_title"
 
 printf "= BSN $chapter_title\n" >"$output_file"
 # finding this: could be tricky:
-printf "\ninclude::../../template-attributes.adoc[]\n" >>"$output_file"
+# printf "\ninclude::./template-attributes.adoc[]\n" >>"$output_file"
 printf "\n\nadditional content belongs here\n\n" >>"$output_file"
 cat "$chapter_directory/INTRO.txt" >>"$output_file"
 cat "$chapter_directory/Doctrinal Points.txt" >>"$output_file"
