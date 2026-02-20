@@ -17,7 +17,9 @@ chapter_title=${chapter_directory#$source_directory/}
 echo "Reading: $chapter_directory into: ./$output_file"
 echo "Title: $chapter_title"
 
-printf "= BSN $chapter_title " >"$output_file"
+printf "= BSN $chapter_title\n" >"$output_file"
+# finding this: could be tricky:
+printf "\ninclude::../../template-attributes.adoc[]\n" >>"$output_file"
 printf "\n\nadditional content belongs here\n\n" >>"$output_file"
 cat "$chapter_directory/INTRO.txt" >>"$output_file"
 cat "$chapter_directory/Doctrinal Points.txt" >>"$output_file"

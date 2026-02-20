@@ -1,11 +1,11 @@
 
 === Basic Correspondences
 
-sons = truths 
+sons = truths
 daughters = goods
 a husband = good
 a wife = affection for truth
 a servant = useful understanding of external things
-camels = general external knowledges 
+camels = general external knowledges
 a well = the letter of the Word
 

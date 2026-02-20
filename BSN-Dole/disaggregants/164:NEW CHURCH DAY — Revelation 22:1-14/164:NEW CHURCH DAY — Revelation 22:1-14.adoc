@@ -121,7 +121,7 @@ Primary: What did John see in the holy city? river, tree of life
 
 Junior: Where did we first read of the tree of life? Genesis 1
 
-Junior: What other tree was in the garden of Eden? knowledge of good and evil 
+Junior: What other tree was in the garden of Eden? knowledge of good and evil
 
 Junior: What were men told about the two trees? not to eat of latter
 

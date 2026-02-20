@@ -3,6 +3,6 @@
 
 gold = love
 frankincense = faith
-myrrh = obedience 
+myrrh = obedience
 Herod = falsity ruling in the mind
 

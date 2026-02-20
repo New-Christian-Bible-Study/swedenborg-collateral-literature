@@ -1,4 +1,7 @@
-= BSN 53:THE DIVISION OF THE LAND — Joshua 18:1-10  
+= BSN 53:THE DIVISION OF THE LAND — Joshua 18:1-10 
+
+include::../../template-attributes.adoc[]
+
 
 additional content belongs here
 
