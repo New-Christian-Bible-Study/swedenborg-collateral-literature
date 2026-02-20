@@ -5,6 +5,13 @@
 # each of which contains a file for the entire Chapter material,
 # and files for each of the separated Sections.
 # Good Luck.
+####
+#### !!!! ATTENTION: later (2/19/26) discovered small trouble:
+#### the final section files "Suggested Questions ..." contain an errant trailing line:
+#### of the next chapter: == DEBORAH AND BARAK — Judges 4 ... in the trial run of Chapter 53
+####
+#### !!!! this script has not been corrected for that trouble
+
 #
 source_file='BSN_Full.adoc'
 practice_file='../process-work/Dole_Study_Chapter.adoc'
