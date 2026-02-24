@@ -1,0 +1,27 @@
+#/bin/bash
+
+# expect string parameter
+# return Title Case of the input string
+
+[ -z "$1" ] && { echo "expecting string parameter; returns title case of input string"; exit; }
+
+
+# List of minor words
+minor_words="and or the to of in on at with a an for by"
+
+instring="$@"
+starget=(${instring@L})	#{lower case} (into array of words)
+count=${#starget[@]}	#number of words; array is zero based
+
+index=$((count-1))
+while [[ $index -ge 1 ]]
+	do if ! [[ "$minor_words" =~ "${starget[$index]}" ]]
+		then sword="${starget[$index]}"; sword="${sword@u}"; starget[$index]=$sword
+		fi
+	index=$((index-1))
+	done
+sword="${starget[$index]}"; sword="${sword@u}"; starget[$index]=$sword # index=0 = first word
+
+echo "${starget[@]}"
+
+exit
