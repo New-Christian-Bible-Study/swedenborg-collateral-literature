@@ -34,14 +34,16 @@ echo "Bible reference: $bible_ref"
 # create and write the output chapter file:
 printf "= Bible Study Notes &#8212; Lesson $title_number\n" >"$output_file"
 printf "By Anita S. Dole\n\n" >>"$output_file"
-printf "\n\n:title: $title\n\n" >>"$output_file"
-printf ":bibref: $bible_ref\n\n" >>"$output_file"
-printf "\n\n== {title}\n\n" >>"$output_file"
-printf "*Bible References:* {bibref}\n\n" >>"$output_file"
+#printf "\n\n:title: $title\n\n" >>"$output_file"
+#printf ":bibref: $bible_ref\n\n" >>"$output_file"
+#printf "\n\n== {title}\n\n" >>"$output_file"
+#printf "*Bible References:* {bibref}\n\n" >>"$output_file"
+printf "\n\n== $title\n\n" >>"$output_file"
+printf "*Bible References:* $bible_ref\n\n" >>"$output_file"
 
 printf "_This is a lesson excerpted from The Dole Bible Study Notes. There are more than 150 of these lessons, covering many of the great stories in the Bible. They were designed for use in Sunday Schools, but they're good for all ages — for self-study, for parents to use in home devotions, and for pastors and teachers. Here's a link to more information about them._\n\n---" >>"$output_file"
 
-echo -ne "\n.*Contents:*\n----\n1. Introduction\n2. Doctrinal Points\n3. Basic Correspondences\n4. Notes for Parents\n5. For Young Children\n6. For Older Children\n7. For Young Teens\n8. For Older Teens\n9. For Adults\n10. From Swedenborg's Writings\n11. Suggested Questions\n----\n\n" >>"$output_file"
+echo -ne ".Contents\n.*Contents:*\n----\n1. Introduction\n2. Doctrinal Points\n3. Basic Correspondences\n4. Notes for Parents\n5. For Young Children\n6. For Older Children\n7. For Young Teens\n8. For Older Teens\n9. For Adults\n10. From Swedenborg's Writings\n11. Suggested Questions\n----\n\n" >>"$output_file"
 
 
 
