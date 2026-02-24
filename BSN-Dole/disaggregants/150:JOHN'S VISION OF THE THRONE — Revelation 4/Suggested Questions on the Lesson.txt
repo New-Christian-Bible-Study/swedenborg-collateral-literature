@@ -45,5 +45,4 @@ calf = natural affections
 man = wisdom
 eagle = understanding
 
-== THE SEALED BOOK — Revelation 5
 
