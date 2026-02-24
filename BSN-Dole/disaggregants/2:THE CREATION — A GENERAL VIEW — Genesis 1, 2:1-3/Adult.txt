@@ -1,6 +1,7 @@
 
 === Adult
 
+[.underline]#*Teacher Notes:*# 
 The teacher should cover the whole lesson briefly and then invite discussion and develop further the points in which the class is most interested.
 
 ---

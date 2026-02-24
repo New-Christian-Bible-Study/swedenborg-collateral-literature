@@ -1,6 +1,7 @@
 
 === Adult
 
+[.underline]#*Teacher Notes:*# 
 We should be able to take it for granted that the adults know the general story of Isaac, and so the teacher may concentrate on the specific lesson, which is an important one often overlooked.
 
 ---
