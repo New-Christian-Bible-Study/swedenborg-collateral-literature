@@ -34,16 +34,18 @@ echo "Bible reference: $bible_ref"
 # create and write the output chapter file:
 printf "= Bible Study Notes &#8212; Lesson $title_number\n" >"$output_file"
 printf "By Anita S. Dole\n\n" >>"$output_file"
-printf ":pdf-page-size: Letter\n:doctype: book\n" >>"$output_file"
-printf ":toc:\n" >>"$output_file"
-printf ":title: $title\n:bibref: $bible_ref\n\n" >>"$output_file"
 
-printf "Edited and Printed by NCBS +\nfrom best available representations of original manuscript.\n" >>"$output_file"
-printf "\n[.text-right]\nLast Revised {docdate} +\n{doctime}" >>"$output_file"
+#### enable the following after feeding the NCBS Database
+#printf ":pdf-page-size: Letter\n:doctype: book\n" >>"$output_file"
+#printf ":toc:\n" >>"$output_file"
+#printf ":title: $title\n:bibref: $bible_ref\n\n" >>"$output_file"
+
+#printf "Edited and Printed by NCBS +\nfrom best available representations of original manuscript.\n" >>"$output_file"
+#printf "\n[.text-right]\nLast Revised {docdate} +\n{doctime}" >>"$output_file"
 
 #printf "\n\n== {title}\n\n" >>"$output_file"
 #printf "*Bible References:* {bibref}\n\n" >>"$output_file"
-
+####
 
 
 printf "\n\n== $title\n\n" >>"$output_file"
@@ -53,13 +55,6 @@ printf "_This is a lesson excerpted from The Dole Bible Study Notes. There are m
 
 echo -ne "\n.*Contents:*\n----\n1. Introduction\n2. Doctrinal Points\n3. Basic Correspondences\n4. Notes for Parents\n5. For Young Children\n6. For Older Children\n7. For Young Teens\n8. For Older Teens\n9. For Adults\n10. From Swedenborg's Writings\n11. Suggested Questions\n----\n\n" >>"$output_file"
 
-
-
-
-# finding this: could be tricky:
-# printf "\ninclude::./template-attributes.adoc[]\n" >>"$output_file"
-# printf "\n\nadditional content belongs here\n\n" >>"$output_file"
-# printf "\n\n$front_matter\n\n" >>"$output_file"
 
 echo -ne "---\n\n<<<\n\n" >>"$output_file"
 cat "$chapter_directory/INTRO.txt" >>"$output_file"

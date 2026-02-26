@@ -1,19 +1,7 @@
 = Bible Study Notes &#8212; Lesson 1
 By Anita S. Dole
 
-:pdf-page-size: Letter
-:doctype: book
-:toc:
 
-:title: The Creation — a General View
-:bibref: Genesis 1, 2:1-3
-
-Edited and Printed by NCBS +
-from best available representations of original manuscript.
-
-[.text-right]
-Last Revised {docdate} +
-{doctime}
 
 == The Creation — a General View
 
@@ -53,7 +41,7 @@ The introduction for this first lesson in all classes should be a few words abou
 
 === Doctrinal Points
 
-Summary doctrinal points will be found at the beginning of each lesson. They are especially recommended for the use of teachers of Intermediate and Senior classes. Their listing in this way merely brings them together for the teacher's convenience; they are not meant to be taken up as the main feature of the lesson, but to be brought in by the way. Each point will be identifiable as related to one of ...
+Summary doctrinal points will be found at the beginning of each lesson. They are especially recommended for the use of teachers of Younger Teen and Older Teen classes. Their listing in this way merely brings them together for the teacher's convenience; they are not meant to be taken up as the main feature of the lesson, but to be brought in by the way. Each point will be identifiable as related to one of ...
 
 *the four principal doctrines of the Church:* the doctrines of the Lord, the Word, Faith, or Charity.
 
@@ -110,7 +98,7 @@ The first chapter of Genesis really tells us about the creation of a true human 
 <<<
 
 
-=== Primary
+=== For Younger Children
 
 [.underline]#*Teacher Notes:*# 
 The teacher, after going through the whole story briefly, should try to see that most of the children are able to answer at least the questions, who made the world? What book tells us about the Lord? and who wrote the Bible? and to tell how many days it took the Lord to make the world and what He did on the seventh day. Do not be afraid of repetition; little children like it, and that is the way they learn.
@@ -139,10 +127,10 @@ See if you can remember what the Lord did on the seventh day [Read Genesis 2:1-3
 <<<
 
 
-=== Junior
+=== For Older Children
 
 [.underline]#*Teacher Notes:*# 
-These children should be able to find the lesson in the Bible and to remember most of it. It is at this age that children especially like to learn facts, and it is therefore the age at which the literal sense of the Word should be most thoroughly taught. Be sure that they understand the meaning of any unusual words in the text. Juniors like to learn new words and to stretch their minds. They may also be introduced to the idea that all the stories in the Word are parables, even though most of them are also fact. So the Junior notes will include from time to time some of the simpler and more obvious correspondences. In the case of the Creation story the correspondence of light and darkness is a very easy one to explain because it is so familiar through our everyday speech.
+These children should be able to find the lesson in the Bible and to remember most of it. It is at this age that children especially like to learn facts, and it is therefore the age at which the literal sense of the Word should be most thoroughly taught. Be sure that they understand the meaning of any unusual words in the text. Older Children like to learn new words and to stretch their minds. They may also be introduced to the idea that all the stories in the Word are parables, even though most of them are also fact. So the Older Children notes will include from time to time some of the simpler and more obvious correspondences. In the case of the Creation story the correspondence of light and darkness is a very easy one to explain because it is so familiar through our everyday speech.
 
 ---
 What book do we study in Sunday School?
@@ -198,7 +186,7 @@ What did God do on the seventh day? He rested.
 <<<
 
 
-=== Intermediate
+=== For Younger Teens
 
 [.underline]#*Teacher Notes:*# 
 There should be persistent effort to make clear to the pupils that the Bible has an intimate personal application and that it describes their own spiritual life. This group should begin to realize that in its spiritual as well as in its literal sense the Bible is one continuous story written by the Lord according to definite patterns and plans. In this lesson the New Church teaching concerning the early chapters of Genesis can be given briefly, and the effect should be to make the young people feel sorry for those who know so little of the meaning of these wonderful stories that they doubt and ridicule them. Most of the class time should be given to the correspondence of the six days as it relates to their own development from infancy to maturity.
@@ -239,10 +227,10 @@ Read chapter 2, verse 3, and think from it what type of day Sunday should be for
 <<<
 
 
-=== Senior
+=== For Older Teens
 
 [.underline]#*Teacher Notes:*# 
-Follow the same general lines as for the Intermediates but with proportionately more stress upon doctrine and upon the attitude of the world toward the things of religion. Solid grounding in the principles underlying the Lord's operation in the world, given at this age, will do much to prevent the young people from drifting away from the church when the atmosphere of the world begins to press upon them.
+Follow the same general lines as for the Younger Teens but with proportionately more stress upon doctrine and upon the attitude of the world toward the things of religion. Solid grounding in the principles underlying the Lord's operation in the world, given at this age, will do much to prevent the young people from drifting away from the church when the atmosphere of the world begins to press upon them.
 
 ---
 Probably the first attack on the authenticity of the Bible as the Word of God centered about the creation story. Since science has proved that the world was millions of years in the process of formation, it is obvious that the literal statement in Genesis is contrary to fact. As a result of this, some men say that the Bible cannot be the Word of God because it is not true.
@@ -314,51 +302,51 @@ The seventh day — the day of rest — pictures the happy state of one who is f
 
 === Suggested Questions on the Lesson
 
-Primary: What book do we study in Sunday School? the Bible
+Younger Children: What book do we study in Sunday School? the Bible
 
-Primary: Who is the Author of the Bible? God
+Younger Children: Who is the Author of the Bible? God
 
-Primary: By what other names do we call the Bible? the Lord's Book, the Word, the Book of Life
+Younger Children: By what other names do we call the Bible? the Lord's Book, the Word, the Book of Life
 
-Primary: What is the name of the first book of the Bible? Genesis
+Younger Children: What is the name of the first book of the Bible? Genesis
 
-Primary: Can you repeat the first verse of the Bible? In the beginning ...
+Younger Children: Can you repeat the first verse of the Bible? In the beginning ...
 
-Primary: What is the first chapter about? the Creation
+Younger Children: What is the first chapter about? the Creation
 
-Primary: In how many days was the earth and everything on it created? six
+Younger Children: In how many days was the earth and everything on it created? six
 
-Intermediate: Were these days of twenty-four hours each? no
+Younger Teens: Were these days of twenty-four hours each? no
 
-Intermediate: What happened on the first day? light
+Younger Teens: What happened on the first day? light
 
-Intermediate: What happened on the second day? firmament
+Younger Teens: What happened on the second day? firmament
 
-Intermediate: What happened to the waters on the third day? sea, dry land
+Younger Teens: What happened to the waters on the third day? sea, dry land
 
-Intermediate: What new things were created on that day? grass, herbs, trees
+Younger Teens: What new things were created on that day? grass, herbs, trees
 
-Intermediate: What appeared on the fourth day? sun, moon, stars
+Younger Teens: What appeared on the fourth day? sun, moon, stars
 
-Intermediate: What were created on the fifth day? fish, birds
+Younger Teens: What were created on the fifth day? fish, birds
 
-Intermediate: On what day were the animals created? sixth
+Younger Teens: On what day were the animals created? sixth
 
-Intermediate: What was the final creation? man
+Younger Teens: What was the final creation? man
 
-Intermediate: In whose image and likeness was man created? God's
+Younger Teens: In whose image and likeness was man created? God's
 
-Intermediate. What two kinds of people were created? male, female
+Younger Teens. What two kinds of people were created? male, female
 
-Intermediate. What did the Lord tell them to do? be fruitful
+Younger Teens. What did the Lord tell them to do? be fruitful
 
-Primary: What did the Lord do on the seventh day? rested
+Younger Children: What did the Lord do on the seventh day? rested
 
-Intermediate: What is the Lord really telling us about in this first chapter? the beginning of our spiritual growth
+Younger Teens: What is the Lord really telling us about in this first chapter? the beginning of our spiritual growth
 
-Senior: What is meant by the heaven and the earth? spiritual and natural
+Older Teens: What is meant by the heaven and the earth? spiritual and natural
 
-Senior: What do the sun, moon, and stars correspond to? love to Lord, faith in Him, knowledges of heavenly things
+Older Teens: What do the sun, moon, and stars correspond to? love to Lord, faith in Him, knowledges of heavenly things
 
 The brief answers to questions supplied in all the lessons are intended only as a general guide to teachers. Fuller and more detailed answers formulated and worked out with the class are generally recommended.
 
