@@ -10,8 +10,10 @@
 #### the final section files "Suggested Questions ..." contain an errant trailing line:
 #### of the next chapter: == DEBORAH AND BARAK — Judges 4 ... in the trial run of Chapter 53
 ####
-#### !!!! this script has not been corrected for that trouble
-
+#### !!!! this script has not been corrected for that trouble -- but its output has
+##--
+##-- !! also note that the original disaggregation generated 1:INTRO
+##-- during 2026 processing for output, we're going with 0:Intro and 1:The_Creation ...
 #
 source_file='BSN_Full.adoc'
 practice_file='../process-work/Dole_Study_Chapter.adoc'
