@@ -1,0 +1,29 @@
+
+Post-processing recollection of the process used, and the content remaining.
+
+BSN_Full-WIP.txt : This was our source file, carefully edited against hardcopy originals by Dale.
+
+BSN_Full.adoc : was marked up as adoc from the source after editing was concluded.
+
+Chapter_List-from_TOC : extracted for reference
+
+front matter.txt : extracted for individual processing
+
+disaggregants : directory target of the disaggregation script
+    This then became our 'source' for markup editing for future processing into database, and future output/publishing
+
+chapters : directory containing the re-aggregated chapter files for database ingestion
+
+scripts : scripts used in the bulk processing of chapter content
+
+allchapters.adoc : appears to be a simple concatenation of all the files in the 'chapters' directory
+
+BSN-Adult.adoc : is an example file of a re-aggregation into content-by-level rather than content-by-chapter
+
+NOTE that an accommodation was made to the adoc within 'disaggregants' for the database, with regard to footnotes.
+The asterisk '*' used within the text to point to a footnote explanation given generally just following the current paragraph was replaced with a dollar-sign '$' within the text. The footnote explanation always begins a new text block with an open square brace '[' followed by an asterisk ... ie:
+[*...]
+
+I haven't reverted this accommodation -- preferring to document it here as it can readily be accomplished later -- allowing as to it could possibly be useful in future processing.
+
+
