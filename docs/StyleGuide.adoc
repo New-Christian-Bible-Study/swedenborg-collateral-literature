@@ -171,7 +171,7 @@ Sometimes the editor may have a clear idea of what word should be used, but it d
 
 
 NOTE:
-Editors with access to authoritative sources are encouraged to seek and resolve these mysteries within the entire collection.
+Editors with access to authoritative sources are encouraged to seek and resolve these mysteries within the entire collection. (by searching for literal unquoted '[?')
 
 ---
 '''
