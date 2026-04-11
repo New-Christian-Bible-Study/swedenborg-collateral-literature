@@ -58,6 +58,10 @@ Ranges should be fully numbers, e.g. @AC 123-125 is acceptable, but @AC 123-5 is
 
 @(5M|9Q|AC|AE|AngIdea|AR|Ath|BE|CL|CanonsNC|Char|ConvAng|Coro|DFaith|DLW|DLife|DLord|DLove|DMin|DP|DSS|DWis|DeConj|DeConsum|DeDeoSalv|DeDomino|DeInfluxus|DeJust|DeMiraculis|DeVerbo|Dicta Probantia|Docu|EU|EccHist|HH|HistCrea|ISB|Inv|LJCont|LJPost|LJ|Letters|NJHD|PP|SE|SciaDoc|TCR|Adversaria|WHApp|WH)
 
+NOTEs: +
+WE == Adversaria +
+EU == Worlds in Space
+
 See this sheet for more information: + 
 https://github.com/New-Christian-Bible-Study/swedenborg-concordance/blob/main/docs/swedenborg-works-info.csv
 
