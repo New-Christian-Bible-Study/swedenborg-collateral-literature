@@ -1,6 +1,6 @@
 = Sermons Concerning The LORD
 By Willis Lindsay Gladish  1945
-include::template-attributes.adoc[]
+include::../template-attributes.adoc[]
 
 Published by The Academy Book Room Bryn Athyn, Pennsylvania 1945
 
@@ -1652,38 +1652,39 @@ Lessons:  Habakkuk 3; John 12:12-36; @TCR 650-652.
 
 <<<
 
-== FATHER FORGIVE THEM
+== Father Forgive Them
 
-"Father forgive them, for they know not what they do." Luke 23:34.
+_"Father forgive them, for they know not what they do."_ (Luke 23:34)
 
 
 "To err is human; to forgive Divine." The truth of this saying was never more fully exemplified than at the cross. It was the day of the Lord's enemies; their day of triumph. It was war to the death between the chief priests, the scribes and Pharisees, and the Lord; a war begun at the commencement of His public ministry when He first cleansed the temple and disregarded their sacred traditions. Their spies had followed wherever He went, seeking only to criticize, seizing everything that they might turn against Him, saying that His wonderful power to heal the sick, to raise the dead, to still the storm, was from Beelzebub, the prince of the devils.
 
-And the Lord had accepted their challenge, and for the sake of the common people, that He might deliver them from their fell power, He had uncovered their hypocrisy, their pride, their lust for power and wealth. They were implacable; their malice knew no bounds; they rested not day nor night. For behind them, inciting their hatred, was all the hosts of the infernals, and the hells themselves.
+And the Lord had accepted their challenge, and for the sake of the common people, that He might deliver them from their full power, He had uncovered their hypocrisy, their pride, their lust for power and wealth. They were implacable; their malice knew no bounds; they rested not day nor night. For behind them, inciting their hatred, was all the hosts of the infernals, and the hells themselves.
 
 On Palm Sunday it seemed as if they had lost, and the Lord and Heaven had won. And on Monday, when He again cleansed the temple, overturning the tables of the money changers and the seats of them that sold doves, and suffering no man to carry a vessel thru the temple. And He said unto them, "Is it not written, `My house shall be called a house of prayer for all the nations?' but ye have made it a den of robbers."
 
-And again on Tuesday of Holy Week while teaching in the temple the Lord hurled against the leaders of the Jews as severe denunciations as have even been spoken against any class of men, "Woe unto you, scribes and Pharisees, hypocrites; because ye "shut the kingdom of heaven against men; for ye enter not in yourselves, neither suffer ye them that are entering in to enter.
+And again on Tuesday of Holy Week while teaching in the temple the Lord hurled against the leaders of the Jews as severe denunciations as have even been spoken against any class of men:
 
-"Woe unto you, scribes and Pharisees, hypocrites, for ye compass sea and land to make one proselyte; and when he is become so, ye make him twofold more a son of hell than yourselves.
+"Woe unto you, scribes and Pharisees, hypocrites; because ye shut the kingdom of heaven against men; for ye enter not in yourselves, neither suffer ye them that are entering in to enter."
 
-"Woe unto you, scribes and Pharisees, hypocrites; for ye tithe mint, anise and cummin, and have left undone the weightier matters of the law, justice, and mercy, and faith; but these ye ought to have done and not to have the other undone. Ye blind guides, that strain out the gnat and swallow the camel.
+"Woe unto you, scribes and Pharisees, hypocrites, for ye compass sea and land to make one proselyte; and when he is become so, ye make him twofold more a son of hell than yourselves."
+
+"Woe unto you, scribes and Pharisees, hypocrites; for ye tithe mint, anise and cummin, and have left undone the weightier matters of the law, justice, and mercy, and faith; but these ye ought to have done and not to have the other undone. Ye blind guides, that strain out the gnat and swallow the camel."
 
 "Woe unto you, scribes and Pharisees, hypocrites; for ye are like whited sepulchres, which outwardly appear beautiful, but inwardly are full of dead men's bones and all uncleanness. Even so ye also outwardly appear righteous unto men, but inwardly ye are full of hypocrisy and iniquity. Ye serpents, ye offspring of vipers, how shall ye escape the damnation of hell?"
 
 But now the tables are turned. The rulers of the Jews have found a traitor in the ranks of the Lord's followers, one of His chosen twelve, who led a band of men to take Him secretly, when the multitude was absent. And, strange to say, the Lord does not resist. He submits to them. He forbids his disciples to fight. He is mocked, He is scourged, is condemned to be crucified. He saved others, but seems helpless to save Himself. And when they nail Him to the cross, He prays, "Father, forgive them; for they know not what they do."
 
-So long as the Lord was in the world He fought the rulers of the Jews, that He might gather out and keep His own; but when the time had come for Him to go out of the world He said to the chief priests and captains of the temple and the elders which were come to Him in the garden, "When I was daily with you in the temple, ye stretched forth no hands against Me; but this is your hour, and the power of darkness."
-Lk. 22: 52.
+So long as the Lord was in the world He fought the rulers of the Jews, that He might gather out and keep His own; but when the time had come for Him to go out of the world He said to the chief priests and captains of the temple and the elders which were come to Him in the garden, "When I was daily with you in the temple, ye stretched forth no hands against Me; but this is your hour, and the power of darkness." (Luke 22:53)
 
-So long as the use demanded it He fought them bitterly, with all zeal, yet without personal rancor; but when the use demanded that He submit to them, and their power, to the tortures of the cruelest death that they could devise, He accepted that, and from His Divine love freely forgave them, as one would forgive wild beasts for acting out their nature: "they know not what they do." Evil is a kind of insanity; a sickness, in which all things appear distorted; nothing is seen justly, or in its true colors. When the rage of anger is upon one he thinks anything is justified. The Lord never judges a man by what he does in the heat of rage; only by his attitude afterward when in cool blood he reviews and passes judgment upon his deed.
+So long as the use demanded it, He fought them bitterly, with all zeal, yet without personal rancor; but when the use demanded that He submit to them, and their power, to the tortures of the cruelest death that they could devise, He accepted that, and from His Divine love freely forgave them, as one would forgive wild beasts for acting out their nature: "they know not what they do." Evil is a kind of insanity; a sickness, in which all things appear distorted; nothing is seen justly, or in its true colors. When the rage of anger is upon one he thinks anything is justified. The Lord never judges a man by what he does in the heat of rage; only by his attitude afterward when in cool blood he reviews and passes judgment upon his deed.
 
 Yet how contagious is the rage and insanity of anger. How quickly evil in one kindles the same spirit in others. How quickly zeal to defend the right degenerates into vengeance; revenge for the wrong done occupies the whole mind, the mob spirit is aroused: Heaven and its law is abolished and the flames of hell encompass both the good and the evil. This should not be.
 
 "Vengeance is mine: I will repay, saith the Lord." Zeal from self is always lawless. Only that zeal which is checked and curbed by the law of God, and by recognition of His all-ruling Providence, can ever accomplish anything toward the permanent conquest of evil. How futile to fight evil with evil. In such case how can good prevail? Truth from good can alone fight evil successfully.
 
 === The Lord as a Man in the World
-
+//mhr
 How wonderful was the state of the Lord as a Man in the world. No man or angel can ever understand thoroughly His life. By Jewish heredity and environment He was externally one with His day and generation; yet internally one with the omniscient God; thus with a wisdom finally reaching beyond that of the wisest angels. Moved as all men must be by the things which came to Him thru the external senses of the body, His reaction would always be from His ruling love, thus from the Divine Love and the Divine Wisdom of the Father within Him. He spoke and acted from God and as God.
 
 Yet He had another state, a state of exinanition, or outpouring; a state in which His consciousness was in the maternal human; a state in which He examined that human with its limited wisdom and its love of external things, its shadows and appearances, when the Father seemed separate, when He must pray to the Father as tho to another. In this state the hells flowed in, tempting Him, seeking to make Him accept as His own His maternal human.
@@ -1692,30 +1693,27 @@ Thus, as says the Apostle, "He was tempted in all points, like as we are, yet wi
 
 It would have been sin for Him to accept anything of the maternal human, any of its limited light, any of its affections. They were of the body, of the world, of self. These He rejected and put off to accept instead from the indwelling Father, the love of men and their salvation to eternity. This was the Love which with its Wisdom sustained Him in all His temptations. He ever spoke and acted only from this Divine Love and its Divine Wisdom.
 
-Think what it must have been to be closely associated with such a Man:
-to live with Him day and night, as did the Twelve; to be sure always, whatever happened, of His love and sympathy, of His understanding; and of His Wisdom. Never did there appear any anger, any pride, or contempt of others. Not only had He the power to provide bread from Heaven when they were hungry, to cast out demons, to still the storm, to walk on the angry waters: His wisdom was unfailing.
+Think what it must have been to be closely associated with such a Man: to live with Him day and night, as did the Twelve; to be sure always, whatever happened, of His love and sympathy, of His understanding; and of His Wisdom. Never did there appear any anger, any pride, or contempt of others. Not only had He the power to provide bread from Heaven when they were hungry, to cast out demons, to still the storm, to walk on the angry waters; His wisdom was unfailing.
 
-The scribes, the Pharisees, the Herodians, singly or combined, were no match for Him: He knew their plots, their crafty schemes, even before they spoke. He answered their hard questions in such a way as to confound them.
+The scribes, the Pharisees, the Herodians, singly or combined, were no match for Him; He knew their plots, their crafty schemes, even before they spoke. He answered their hard questions in such a way as to confound them.
 
 And yet, although He was so great that his disciples could not but feel like little children before Him, never did He show impatience with their ignorance; only a desire to impart to them all the wisdom He Himself possessed, in words adapted to their understanding. "All things that I have learned of my Father I have made known unto you."
 
 === The Cross
 
-But now, at the cross, He puts aside all His power. His authority, His majesty, and becomes as helpless as another man. This He did for man's salvation. "No man taketh my life from Me." He said: "I have power to lay it down and to take it again; this commandment have I received of my Father." The last degree of temptation always involves non-resistance; non-resistance from self; the devils must appear to be triumphant; self-love and the pride of self, must be uprooted from the heart. With the Lord this involved not only the rejection of the mortal body from the mother, as with every man, but it involved also the putting on of a new body from the Divine which was His soul.
+But now, at the cross, He puts aside all His power, His authority, His majesty, and becomes as helpless as another man. This He did for man's salvation. "No man taketh my life from Me." He said: "I have power to lay it down and to take it again; this commandment have I received of my Father." The last degree of temptation always involves non-resistance; non-resistance from self; the devils must appear to be triumphant; self-love and the pride of self, must be uprooted from the heart. With the Lord this involved not only the rejection of the mortal body from the mother, as with every man, but it involved also the putting on of a new body from the Divine which was His soul.
 
 The victory of the hells proved their defeat. They succeeded in destroying His body from the mother only to bring forth to angels and men the clear vision of His Divine Body, with the full majesty and glory of Jehovah God. Before this vision they could not stand, but were constrained to flee to their caverns in the hells, leaving the Lord's sheep free.
 
 === The Horizons
 
-What a lifting of man's horizon came with the Lord's victory over hell. The Jew's eyes were fixed at his feet; like the beasts which perish, he saw only the things of this world.
+What a lifting of man's horizon came with the Lord's victory over hell. The Jew's eyes were fixed at his feet; like the beasts which perish, he saw only the things of this world. His affections did not extend further, nor could he lift his eyes to a spiritual world.
 
-His affections did not extend further, nor could he lift his eyes to a spiritual world.
-
-But with the Lord's resurrection life and immortality were brought to light. Heaven became a real place. The Christian's ambitions, his hopes, were lifted from the flesh pots of earth to a blessed home in Heaven. And while he did not have a clear realization of that world, nor of the spiritual loves which must rule there, still his horizon was extended to take in that world as well as this one.
+But with the Lord's resurrection, life and immortality were brought to light. Heaven became a real place. The Christian's ambitions, his hopes, were lifted from the flesh pots of earth to a blessed home in Heaven. And while he did not have a clear realization of that world, nor of the spiritual loves which must rule there, still his horizon was extended to take in that world as well as this one.
 
 And now in His Second Coming, after almost two millenniums of Christian faith and culture, the Lord is able to open the wisdom of His Word as angels know it; to reveal the life after death, the true nature of Heaven and the loves which make it; the true nature of hell and the loves that make it hell; the nature of God and of the Lord our Savior and Redeemer and how in Him the two natures of God and Man were made one; the nature of Divine order according to which God Himself must act because He is Divine Love and Wisdom and cannot act contrary to His own essence and nature; the laws of order for man, that he must rule his little world as the Lord rules His great Universe, in freedom according to reason, as if of himself, yet ever acknowledging that the wisdom and the love to so order his own must be received from the Lord, for in man apart from the Lord dwells only folly and insanity.
 
-Thus before the eyes of the instructed man of the New Church stretches the whole of creation from boundary to boundary. He stands as it were in the middle and at his will lifts his eyes to the first, the second, and even the third Heaven; and above all He sees the Sun of Heaven shining in His strength, with sometimes, the face and figure of the one and only Lord appearing within the circle of the Sun.
+Thus before the eyes of the instructed man of the New Church stretches the whole of creation from boundary to boundary. He stands as it were in the middle and at his will lifts his eyes to the first, the second, and even the third Heaven; and above all He sees the Sun of Heaven shining in His strength, with sometimes the face and figure of the one and only Lord appearing within the circle of the Sun.
 
 Turning his eyes downward He sees the three hells below him; yet even the hells are embraced by the sphere of the Lord, which surrounds them and makes their wrath to praise Him.
 
@@ -1723,7 +1721,7 @@ They praise Him by furnishing contrasts between the loves of Heaven and the hatr
 
 And in all this vast panorama, embracing life, human, angelic, and infernal, the instructed New Churchman sees no power but that of the Lord of Life and Love Who created it and afterward came into the world to save it. He is omnipresent in it, the Last as well as the First, ordering all things for the eternal happiness of His wise children and to ameliorate the misery of His poor misguided evil children who have foolishly chosen the evil loves of self and of pleasure.
 
-Our Responsibility.
+=== Our Responsibility.
 
 What is our responsibility in this work of saving the human race? or have we any responsibility in the matter? Salvation is of the Lord alone. He is omnipotent. All power is His. Man has no power. Even the devils in hell must obey when the Lord speaks. He can use evil men to preach the Gospel. All the Heavens form one man which is as His body, moved by Him as its soul, to ends of His devising. Nothing can withstand His power. He needs none of our help.
 
@@ -1733,8 +1731,7 @@ The Lord does need human help in establishing His Kingdom. His choice of the Twe
 
 In the New Church we must shift the emphasis from the results to the doer; must not claim the Lord's work as our own, while yet recognizing that we must be obedient to the Divine command "Go work today in my vineyard."
 
-Only the willing and obedient can obtain part in the Kingdom of the Heavens. For our own salvation we must work unselfishly for others:
-work in the Lord and for the Lord, in His spirit, animated by His love of men. That means regeneration. It means giving up the supreme love of self and love of the world, that we may receive from the Lord a new love. It means a new birth from above. And this involves not only obedience to the Lord in all things, but self-examination, and temptation combats again the evils of proprium.
+Only the willing and obedient can obtain part in the Kingdom of the Heavens. For our own salvation we must work unselfishly for others; work in the Lord and for the Lord, in His spirit, animated by His love of men. That means regeneration. It means giving up the supreme love of self and love of the world, that we may receive from the Lord a new love. It means a new birth from above. And this involves not only obedience to the Lord in all things, but self-examination, and temptation combats against the evils of proprium.
 
 The Lord is our example. He glorified Himself for man's salvation by putting off the human from the mother and putting on the Divine Human from the Father. And the true Christian is he who likewise rejects and puts off the evils of his proprium to be born of the Lord's Spirit. And the zeal with which we engage in the work is the measure of our happiness and usefulness in heaven to eternity.
 
@@ -1746,25 +1743,25 @@ How quickly our anger flares up at the first slight to our dignity; how quickly 
 
 And how we nurse revenge, justifying it to ourselves; deceiving ourselves, or letting evil spirits deceive us, so that we do not recognize it as evil. We even deny that we are angry, or that we are nursing revenge.
 
-Anger, contempt, envy, together with a brood of similar evils, all come from love of self, love of eminence, love of power, love of rule from self love. They hide themselves so deeply and entrench themselves so firmly, that we can hardly recognize them, or see them as evil in ourselves-tho we have no trouble in recognizing them in others.
+Anger, contempt, envy, together with a brood of similar evils, all come from love of self, love of eminence, love of power, love of rule from self love. They hide themselves so deeply and entrench themselves so firmly, that we can hardly recognize them, or see them as evil in ourselves -- tho we have no trouble in recognizing them in others.
 
-"Father, forgive them; for they know not what they do" said our Lord as He was nailed on the cruel cross. It is the first and the last of the Christian virtues; the first to be striven for the last to be accomplished.
+"Father, forgive them; for they know not what they do", said our Lord as He was nailed on the cruel cross. It is the first and the last of the Christian virtues; the first to be striven for; the last to be accomplished.
 
 "Lord, how oft shall my brother sin against me and I forgive him?
 (asked Peter) till seven times? Jesus saith unto him, I say not unto thee, till seven times; but, until seventy times seven" Matthew 18:22.
 
 But it must be well known that real forgiveness is not in any man of himself; it comes from the Lord alone. "Your Father maketh his sun to rise on the evil and on the good, and sendeth rain on the just and on the unjust." He forgives every sin as soon as it is committed; for He loves the sinner and never turns His face away from him, even tho hating the sin and allowing it to bring its own punishment.
 
-It is only love that can cast out hate and love of others is received only from the Lord who loves all men. Let these words ring in our ears throughout the whole year, "Father, forgive them; for they know not what they do." Amen.
+It is only love that can cast out hate; and love of others is received only from the Lord who loves all men. Let these words ring in our ears throughout the whole year, "Father, forgive them; for they know not what they do." Amen.
 
 Lessons:  Luke 23:1-26; Luke 23:27-56; @DLord 35, pts.
 
 
 <<<
 
-== THE LORD IS GOD, THE DIVINE-HUMAN
+== The Lord Is God, The Divine-Human
 
-It is the teaching of the Heavenly Doctrine of the New Jerusalem that man can see God, can see Him in His own glorified Body in which He rose from the tomb on Easter morning; and this in spite of the fact that He is infinite and man is finite, and between the finite and the Infinite there call be no ratio. How, then, can finite man see the infinite God?
+It is the teaching of the Heavenly Doctrine of the New Jerusalem that man can see God, can see Him in His own glorified Body in which He rose from the tomb on Easter morning; and this in spite of the fact that He is infinite and man is finite, and between the finite and the Infinite there can be no ratio. How, then, can finite man see the infinite God?
 
 Not as God is in Himself, but as He accommodates Himself to man in a quasi-finite form, in a form as it were finite, or finite on one side, but opening up on the other side to full infinity. Thus man, being finite, is given a finite form to see, which he must have to think of, that he may realize any reality; yet at the same time that he sees the bounded form he is enabled by doctrine to know that its finiteness is but an accommodation to his own state, for in itself the Body too is infinite and Divine.
 
@@ -1774,19 +1771,15 @@ How can man love God and be conjoined by faith and love with a God Whom he has n
 
 It was for this cause that Jehovah God came into the world, took our nature upon Him by virgin birth, lived among us a human life, grew in wisdom and stature and in favor with God and man (as to the human), passed through all the phases of life and even death as a man, yet not as a mere man but as God Man, for His soul and only life was the infinite Divine called the Father.
 
-Thus while apparently a man He yet was God, the God Man. His reaction to every experience of life was not as a mere man but as God Man. His first thought as anything of this world impinged on His senses was as a man; His final thought was as God, from the Father which dwelt within Him; His speech and act were always from God and as God. Thus He put off the human from the mother in every act of His earthly life and put on the Divine Human from within; until finally by the passion of the cross and in the tomb He put off the very body from the mother, dissipated its material substances, and put on a Divine Body from the Father (within). Thus He stands forth to view in His own Body, fully Divine. And yet we can see Him as He is, because through His Word and doctrine from His Word we first see Him in His Human, then finally in His Divine Human; first as a Man, afterward as God. And finally we realize that even from the beginning, before ever the world was He was God Man, the only Man, the veriest reality, of Whom we are but finite images.
+Thus while apparently a man He yet was God, the God Man. His reaction to every experience of life was not as a mere man but as God Man. His first thought as anything of this world impinged on His senses was as a man; His final thought was as God, from the Father which dwelt within Him; His speech and act were always from God and as God. Thus He put off the human from the mother in every act of His earthly life and put on the Divine Human from within; until finally by the passion of the cross and in the tomb He put off the very body from the mother, dissipated its material substances, and put on a Divine Body from the Father (within). Thus He stands forth to view in His own Body, fully Divine. And yet we can see Him as He is, because through His Word and doctrine from His Word we first see Him in His Human, then finally in His Divine Human; first as a Man, afterward as God. And finally we realize that even from the beginning, before ever the world was, He was God Man, the only Man, the veriest reality, of Whom we are but finite images.
 
-Such in brief is the Doctrine of the Lord as taught in the New Jerusalem. It is our purpose to examine this doctrine somewhat particularly that we may see how it is possible for man to see God, when yet it was an axiom of the ancients that no man can see God and live.
-
-While recognizing the truth that they pointed out, yet we would rather say no man can live without seeing God.
+Such in brief is the Doctrine of the Lord as taught in the New Jerusalem. It is our purpose to examine this doctrine somewhat particularly that we may see how it is possible for man to see God, when yet it was an axiom of the ancients that no man can see God and live. While recognizing the truth that they pointed out, yet we would rather say no man can live without seeing God.
 
 Let us go to the very beginning and ask, how does man see anything? Is it the eye that sees? Evidently not. The physical eye is but the instrument of sight. It is the mind that sees. What does the infant see, whose mind is not yet developed? As an instrument the eye is perfect at birth; the image on the retina is as clear and full as it will ever be. Yet what the infant sees depends wholly upon the mind he has developed since birth, through the reaction of soul and body.
 
-Looking on the same scene a child will see more than an infant, because he has more mind, through experience he is enabled to take in more of what his eye sees. Ten persons looking on the same scene will see different things, each according to his education or character. The artist will see beauty of line and color, or its absence, hidden from the eye of others; one will notice stream and woods, another horses and cattle; the humanitarian will note the homes, whether they show signs of poverty or prosperity. Still another will direct his eye to the birds, or to the sky and clouds. The picture on the retina of the eye is the same with all, yet each one sees what his education, his culture, his disposition disposes him to see. The deeply religious man sees evidence of the beauty and the love of God when he looks on nature; the scientific mind sees but scientific things, the laws and forces of nature; the agnostic sees evidence that there is no God, that nature was her own creator, that all things came by chance.
+Looking on the same scene, a child will see more than an infant, because he has more mind, through experience he is enabled to take in more of what his eye sees. Ten persons looking on the same scene will see different things, each according to his education or character. The artist will see beauty of line and color, or its absence, hidden from the eye of others; one will notice stream and woods, another horses and cattle; the humanitarian will note the homes, whether they show signs of poverty or prosperity. Still another will direct his eye to the birds, or to the sky and clouds. The picture on the retina of the eye is the same with all, yet each one sees what his education, his culture, his disposition disposes him to see. The deeply religious man sees evidence of the beauty and the love of God when he looks on nature; the scientific mind sees but scientific things, the laws and forces of nature; the agnostic sees evidence that there is no God, that nature was her own creator, that all things came by chance.
 
-Or again ten persons will look on the same face, and each will see in it what he is prepared to see there; one will see brutality, another craftiness, a third sensuality; while others looking on the same lace will see gentleness, intelligence, nobility; each according to his own disposition, or what from hearsay or reading he expects to see.
-
-A Hitler or a Mussolini looks like a god to his enthusiastic followers, like a brutal tyrant to his enemies.
+Or again ten persons will look on the same face, and each will see in it what he is prepared to see there; one will see brutality, another craftiness, a third sensuality; while others looking on the same lace will see gentleness, intelligence, nobility; each according to his own disposition, or what from hearsay or reading he expects to see. A Hitler or a Mussolini looks like a god to his enthusiastic followers, like a brutal tyrant to his enemies.
 
 I dwell on these things at considerable length that all may realize that to see God one must first know God. Even if it were possible to see God in His own form, so that the same image were impressed on all eyes alike, yet each one would see in that Divine form what he expected to see.
 
@@ -1798,25 +1791,25 @@ Their relation is that of cause and effect; like that of thought and speech, or 
 
 Therefore the spiritual world can be seen only by the eyes of the spirit, even as the material world is seen by the eyes of the body. And still above the spiritual world is the Divine, the Infinite, the Uncreate, the Eternal. How can man hope to see God until he knows the nature of the natural world and of the spiritual world, at least in part?
 
-Yet man must know God. The Divine end in creation, a heaven of angels, involved that man must know God and love Him with heart, soul, mind and strength. Hence in the very beginning the Lord must have manifested Himself to the first men and taught them. His Divine Love could not be satisfied otherwise. "Can a woman forget her sucking child that she should not have compassion on the son of her womb? Yea, they may forget, yet will I not forget thee. Behold I have graven thee upon the palms of my hands; thy walls are continually before me." Isaiah 49:15, 16.
+Yet man must know God. The Divine end in creation, a heaven of angels, involved that man must know God and love Him with heart, soul, mind and strength. Hence in the very beginning the Lord must have manifested Himself to the first men and taught them. His Divine Love could not be satisfied otherwise. "Can a woman forget her sucking child that she should not have compassion on the son of her womb? Yea, they may forget, yet will I not forget thee. Behold I have graven thee upon the palms of my hands; thy walls are continually before me." (Isaiah 49:15-16)
 
 But what the first men in the Golden Age could know about God can be compared with what the little child can know about his parents. He can know of their love and kindness, may be convinced of their wisdom. But he cannot follow them into their world of adult knowledge, involving science, civil, moral and philosophical intelligence, and wisdom of life. That must wait on time and education; on that mysterious process we call "growing up."
 
 So the Lord accommodated the revelation of Himself to man's reception, giving a written Word, showing Himself in the person of an angel filled with His look, known as the Angel of Jehovah, and promising to come into the world as a Man, a Divine Redeemer and Savior.
 
-And let it he well remembered, and never forgotten, that the purpose of all Divine Revelation must he to reveal God to man: God's will and wisdom, so that man can adjust himself to the Divine law of his life.
+And let it he well remembered, and never forgotten, that the purpose of all Divine Revelation must be to reveal God to man: God's will and wisdom, so that man can adjust himself to the Divine law of his life.
 
 Thus man was led by the Lord through his childhood, through his Silver, Copper and Iron Ages, with varying forms of Revelation adapted to his varying states. Until in Jehovah God as revealed to the Jews there appeared almost as much of anger and jealousy as of love and mercy; but this was the only way that the inexorableness of Divine Law could be revealed to an evil and adulterous generation. While the Race was learning that sin brings its inevitable punishment they almost lost sight of the loving Face of God.
 
-But finally, when all things were prepared, the Lord Himself came into the world as He had promised from the beginning. He who had revealed Himself in the terrors of Mount Sinai was born a helpless babe, cradled in a manger. He who had revealed Himself as a consuming fire now reveals Himself as "meek and lowly in heart," a loving Savior, a Shepherd who came to lay down His life for His sheep. He who had taught as the first and great commandment, "Hear, O Israel, the Lord our God is one Lord," now divides His unity into three essences Father, Son and Holy Spirit, and suffers Himself to be worshiped for fourteen hundred years as a tri-personal God in the church called by His name.
+But finally, when all things were prepared, the Lord Himself came into the world as He had promised from the beginning. He who had revealed Himself in the terrors of Mount Sinai was born a helpless babe, cradled in a manger. He who had revealed Himself as a consuming fire now reveals Himself as "meek and lowly in heart," a loving Savior, a Shepherd who came to lay down His life for His sheep. He who had taught as the first and great commandment, "Hear, O Israel, the Lord our God is one Lord," now divides His unity into three essences Father, Son, and Holy Spirit, and suffers Himself to be worshiped for fourteen hundred years as a tri-personal God in the church called by His name.
 
-But listen, I pray: God is infinite, has infinite dualities. Man is finite. Man can receive but one idea at a time. God must reveal Himself successively; first one phase, then another, and another; each one not canceling the other but only adding to it, so that in the history of the Race the Lord God is revealed finally in all His glory and Divinity. To the men of the Golden Age He revealed His love, His beauty, His tender care. To the men of the Silver Age He revealed the glory and the bright light of His truth; to the men of the Iron Age He gave a law showing the retribution of evil, "An eye for an eye and a tooth for a tooth."
+But listen, I pray: God is infinite, has infinite dualities. Man is finite. Man can receive but one idea at a time. God must reveal Himself successively; first one phase, then another, and another; each one not canceling the other but only adding to it, so that in the history of the Race the Lord God is revealed finally in all His glory and Divinity. To the men of the Golden Age, He revealed His love, His beauty, His tender care. To the men of the Silver Age, He revealed the glory and the bright light of His truth; to the men of the Iron Age, He gave a law showing the retribution of evil, "An eye for an eye and a tooth for a tooth."
 
 So ended one day, with its morning, its noon tide and its evening.
 
 With the Lord's Advent began a new cycle. A new morning began to dawn but it was soon followed by a premature night, because the Church like Judas and like Peter, betrayed and denied her Lord. Nevertheless the Lord's work was done. He had come a mighty Redeemer and Savior, had conquered the power of hell, had accomplished a Last Judgment in the spiritual world, had set the Heavens in order, had glorified His Human, had established a new Church on the earth, had given His Word of the New Testament.
 
-And although it was not known in the Church that the Lord Jesus was one with the Lord Jehovah, yet it was known in the higher Heavens, formed from the men of the Ancient Churches. And it was taught in the Church that the Lord was Divine. And although it was not realized in the Church that the Lord was the Father yet His love of men was recognized as from the Divine. And so there were added to the qualities attributed to the Divine those connoted by the names Jesus, Christ, Redeemer, Savior, Heavenly Father; for although the Lord Jesus was not called the Heavenly Father, yet all the dualities denoted by the name were revealed to men by the Lord and by Him alone.
+And although it was not known in the Church that the Lord Jesus was one with the Lord Jehovah, yet it was known in the higher Heavens, formed from the men of the Ancient Churches. And it was taught in the Church that the Lord was Divine. And although it was not realized in the Church that the Lord was the Father, yet His love of men was recognized as from the Divine. And so there were added to the qualities attributed to the Divine, those connoted by the names Jesus, Christ, Redeemer, Savior, Heavenly Father; for although the Lord Jesus was not called the Heavenly Father, yet all the dualities denoted by the name were revealed to men by the Lord and by Him alone.
 
 Here again man's limitations are shown. We can receive but one idea at a time. Our Lord was recognized as the best man who ever lived, as the one perfect man, as the only sinless One; but His humanity was dwelt upon at the expense of His Divinity. His divinity was not denied, was indeed taught, yet it was not acknowledged that His Human was Divine. As to the Human He was regarded as a man, like another man.
 
@@ -1832,12 +1825,12 @@ To such a mind, so prepared, the Lord could open up out of the Word the true nat
 
 Therefore it could be made known to rational thought how God could come into His creation by virgin birth, could live a life outwardly human that yet was inwardly Divine, because His soul was the one infinite Divine called the Father; and since the soul is form and doth the body make, it followed that in the end His body would be Divine too, not only conceived from God but actually reborn from God, by processes of putting off the human from the mother and putting on a Divine Human from the Father.
 
-Did not the Lord say to Philip, "Have I been so long time with you, and yet hast thou not known Me, Philip? he that hath seen Me hath seen the Father?" ... "Believest thou not that I am in the Father and the Father in Me? The words that I speak unto you I speak not of myself, but the Father who dwelleth in Me, He doeth the works." John 14:9, 10.
+Did not the Lord say to Philip, "Have I been so long time with you, and yet hast thou not known Me, Philip? he that hath seen Me hath seen the Father;" ... "Believest thou not that I am in the Father and the Father in Me? The words that I speak unto you I speak not of myself, but the Father who dwelleth in Me, He doeth the works." (John 14:9-10)
 
-"In Jesus Christ dwelleth all the fulness of the Godhead bodily." "He is the true God and eternal life." 1 John.
+"In Jesus Christ dwelleth all the fulness of the Godhead bodily." "He is the true God and eternal life." (1 John)
 
-In order to see God truly in Christ Jesus our Lord our thought must not be simply of man, or of Him as a man only; rather must our thought be of God as infinite, uncreate, omnipotent, omniscient, omnipresent, Wisdom Itself and Love Itself, thus Reality Itself, Man Himself and the only Man. Thus true thought concerning God requires a reversal of our usual thought of matter as reality, spirit as a vague cloud, God, as without body, parts or passions, therefore as nothing. In the light of the opened Word we realize that matter is but a dense cloud, enveloping all our faculties, that spirit is a thousand fold more real than matter, because nearer to God; and that God alone is most real, because He alone lives in and of Himself, and other things live only from Him.
+In order to see God truly in Christ Jesus our Lord, our thought must not be simply of man, or of Him as a man only; rather must our thought be of God as infinite, uncreate, omnipotent, omniscient, omnipresent, Wisdom Itself and Love Itself, thus Reality Itself, Man Himself and the only Man. Thus true thought concerning God requires a reversal of our usual thought of matter as reality, spirit as a vague cloud, God, as without body, parts or passions, therefore as nothing. In the light of the opened Word we realize that matter is but a dense cloud, enveloping all our faculties, that spirit is a thousand fold more real than matter, because nearer to God; and that God alone is most real, because He alone lives in and of Himself, and other things live only from Him.
 
 Then we can see that God was in Jesus Christ, reconciling the world unto Himself; that all that Jesus did He did as God of Heaven and earth; That in His glorified Human He is the Alpha and the Omega, the First and the Last, the Almighty. Looking on Him we see God in all His majesty and glory so far as our minds have been prepared to see Him by His opened Word. Amen.
 
-Lessons:  Isaiah 52, John 20. Lord pts. 35.
+Lessons:  Isaiah 52; John 20; @DLord 35.

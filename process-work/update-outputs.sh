@@ -5,9 +5,10 @@
 # if exist, compare datestamps, else create
 # 	if adoc last modified, create a new one
 
-sourcedir='../text'
-destbase='../../publish'
+localbase=$(pwd)
 remotebase='/mnt/gdrive/NCBS/'
+sourcedir=$localbase/../text
+destbase=$localbase/../../publish
 pdfdest=$destbase/pdfs
 epubdest=$destbase/epubs
 mobidest=$destbase/mobis
