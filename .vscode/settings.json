@@ -3,7 +3,7 @@
 "cSpell.language": "en-US",
 
 "cSpell.enabledFileTypes": {
-  "asciidoc": false,
+  "asciidoc": true,
   "txt": true
 },
 
