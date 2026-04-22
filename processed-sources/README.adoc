@@ -1,0 +1,4 @@
+Source files used as "originals" are moved here after they have been processed into the editing stream at /text;
+
+to be used as reference only, if needed.
+
