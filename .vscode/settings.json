@@ -1,5 +1,5 @@
 {
-"mhr.removed": "la,sv,en-GB",
+"mhr.removed": "sv,en-GB",
 "cSpell.language": "en-US",
 
 "cSpell.enabledFileTypes": {
@@ -26,6 +26,8 @@
   "Isaacs: Isaac's",
   "Jacobs: Jacob's",
   "natures: nature's",
+  "lifes: life's",
+  "wifes: wife's",
   "mans: man's"
 ],
   
@@ -47,7 +49,7 @@
     },
     "swedenborgLatin": {
       "name": "Swedenborg Latin words",
-      "path": "-DISABLE-${workspaceFolder}/../swedenborg-dictionaries/.dictionaries/dictionary-la-swedenborg.txt",
+      "path": "${workspaceFolder}/../swedenborg-dictionaries/.dictionaries/dictionary-la-swedenborg.txt",
       "scope": "workspace",
       "addWords": false
     },
@@ -59,7 +61,7 @@
     },
     "Latin": {
       "name": "Latin dictionary provided by Lewis and Short (do not modify)",
-      "path": "-DISABLE-${workspaceFolder}/../swedenborg-dictionaries/.dictionaries/dictionary-la-lewis-short.txt",
+      "path": "${workspaceFolder}/../swedenborg-dictionaries/.dictionaries/dictionary-la-lewis-short.txt",
       "scope": "workspace",
       "addWords": false
     },
