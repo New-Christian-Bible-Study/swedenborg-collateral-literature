@@ -8,6 +8,10 @@ This work is in desperate need of an original
 18 instances of `\w+,\w+` are going to be more trouble than just inserting a space after the comma
 ////
 
+//edited through marker:
+//mhr progress
+//and indicated by Title Case of CHAPTERS
+
 ALFRED ACTON + 
 Written for the New Church + 
 Soldiers of the Great War + 
