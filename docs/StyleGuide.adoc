@@ -4,9 +4,12 @@ include::../template-attributes.adoc[]
 
 .Note
 NOTE: This document is quite raw at this stage of development. 
+AsciiDoc documentation begins here:
+https://docs.asciidoctor.org/asciidoc/latest/
 
 == {empty}
 //empty levels here enable smaller heading fonts with next level
+
 === {empty}
 
 
@@ -19,10 +22,65 @@ and preview it on the right. +
 
 `//` two slashes start a comment line.
 intenchionally mizpelled werds
+should be highlighted, only in the source,
+perhaps by colored squiggly underlining
+
+....
 ////
-comment block bounded by ////
+comment block bounded by 4 slashes
 ok
 ////
+....
+
+== {empty}
+
+===
+
+==== BLOCKS: delimited, can be nested, not overlapped.
+Go ahead and play with these.
+
+====
+4+ equal signs are bounded .... #_are **stylized**_#
+====
+
+----
+4+ dashes or dots are bounded .... #_are **verbatim**_# (RAW)
+----
+
+--
+2 dashes are UNbounded .... #_are **stylized**_#
+--
+
+++++
+4+ plus signs are UNbounded .... #_are **verbatim**_# (raw)
+++++
+
+//.... _Dots initialize a *List*_, which can be a pain if you don't want a list.
+
+---
+
+....
+ _Italicize with underbars_ ---
+ *Bold with asterisks* ---
+ `Monospace with back-ticks` ---
+ #Highlight with a pair of number/pound signs# ---
+ ~Subscript~ with tilde, and ^Superscript^ with carats ---
+*_Roles_*, such as [.underline]#underline#, are delimited by the number (#) sign, and declared by naming the role, preceded by a dot, within square brackets, preceeding the initial delimiter.
+....
+
+[.text-center]
+Note the block delimiters used above in the source for below
+
+_Italicize with underbars_ ---
+*Bold with asterisks* ---
+`Monospace with back-ticks` ---
+#Highlight with a pair of number/pound signs# ---
+~Subscript~ with tilde, and ^Superscript^ with carats ---
+*_Roles_*, such as [.underline]#underline#, are delimited by the number (#) sign, and declared by naming the role, preceded by dot, within square brackets, preceeding the initial delimiter.
+
+ref. https://docs.asciidoctor.org/asciidoc/latest/text/text-span-built-in-roles/
+
+NOTE: "the style/theming system of the converter can allow you to define styles for a custom role." 
 
 WARNING: When the comments should also be displayed on the output files, such as this from Spiritual_World-Odhner :
 WARNING: Tremendous! quantity of footnotes is posing a problem here
@@ -71,6 +129,16 @@ https://github.com/New-Christian-Bible-Study/swedenborg-concordance/blob/main/do
 
 
 ==== ##[.underline]#Line Breaks:###
+
+....
+You'll readily note that two separated
+but adjacent 
+lines will be joined into a seamless flowed paragraph. +
+_here again, compare the source with the preview_ +
+For separating short lines, +
+without a blank line between them +
+append the spaceplus sequence  ` +`
+....
 
 You'll readily note that two separated
 but adjacent 
@@ -136,7 +204,8 @@ See our file "Application_of_Doctrine-DeCharms" for having worked this out. The 
 [.text-center]
 ==== ##[.underline]#Paragraph alignment:###
 [.text-right]
-AsciiDoc provides built-in roles to align the text of a paragraph. The name of the role follows the pattern text-<alignment>, where <alignment> is one of left, center, right, or justify (e.g., text-center).
+AsciiDoc provides built-in roles to align the text of a paragraph. +
+ The name of the role follows the pattern text-<alignment>, where <alignment> is one of left, center, right, or justify (e.g., text-center).
 [.text-left]
 Format: `[.text-center]` by itself on preceeding line
 
