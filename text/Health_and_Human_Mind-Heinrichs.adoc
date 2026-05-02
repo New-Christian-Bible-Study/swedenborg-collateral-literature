@@ -9,6 +9,8 @@ Rev. Willard L. D. Heinrichs
 a presentation of this is at
 https://trudom22-thesourceofanxietyworryandde.blogspot.com/2011/12/health-and-human-mind.html
 
+Diagrams referenced at the beginning of Part II.
+and Appendix II
 ////
 
 
@@ -335,7 +337,7 @@ Besides the more general teachings there are some which are quite specific when 
 What is said here relating to drunkenness would certainly apply equally with substance or drug abuse of any kind.
 
 ====
-Concerning Drunkenness. I spoke with spirits concerning drunkenness, and it was confirmed by them that it is an enormous sin, as well as that man becomes a brute, (and) no longer a man; because that man is a man lies in his intellectual faculty, thus he becomes a brute, besides which he brings damage on his body, and so hastens his death, besides wasting in extravagance what might be of use to many.--1748, June 27. And it appeared to them so filthy that they abhorred such a life, which mortals nevertheless have introduced amongst themselves as a civil life. (@SE 2422)
+Concerning Drunkenness. I spoke with spirits concerning drunkenness, and it was confirmed by them that it is an enormous sin, as well as that man becomes a brute, [and] no longer a man; because that man is a man lies in his intellectual faculty, thus he becomes a brute, besides which he brings damage on his body, and so hastens his death, besides wasting in extravagance what might be of use to many.--1748, June 27. And it appeared to them so filthy that they abhorred such a life, which mortals nevertheless have introduced amongst themselves as a civil life. (@SE 2422)
 ====
 
 
@@ -584,7 +586,7 @@ Surely the following teachings, which specifically relate to use as it is consid
 ====
 That love is the fundamental principle from which and by which heaven exists and subsists, is evident from the circumstance, that there must be such harmony and unanimity, and hence so universal a consociation, that the whole heaven, the whole world of spirits, that is, the whole human race from its first creation, should form a ONE, as all and every particular in man, in whom there are indefinite things, forms one body, and thus constitutes one man; in which body if anything were to prefer itself to any other thing, and not to love another thing better than itself, it could not subsist.
 
-He who is in genuine love has an idea of the common good and of the universal human race, in respect to which every individual man should be as nothing, as is known; wherefore unless a man regards himself as nothing in respect to the common good, and loves his neighbor better than himself, he can by no means be in the unanimous body (heaven), but he necessarily expels himself from it, so much as he removes himself from that love. --1748, November 23 (@SE 4046)
+He who is in genuine love has an idea of the common good and of the universal human race, in respect to which every individual man should be as nothing, as is known; wherefore unless a man regards himself as nothing in respect to the common good, and loves his neighbor better than himself, he can by no means be in the unanimous body [heaven], but he necessarily expels himself from it, so much as he removes himself from that love. --1748, November 23 (@SE 4046)
 ====
 
 ====
@@ -606,10 +608,11 @@ XIII. Of The External Causes Of Cold, The Fourth Is Lack Of Determination To Any
 
 //mhr highlights
 _Man was created for use_ *because* [.underline]#use is the containant of good and truth#, and from the marriage of these is creation
+//line break intentional .... to stop, and think.
 
 and also conjugial love, as shown in the chapter on the Origin of Conjugial Love. By study and business is meant every application to uses; for while a man is in some study and business, that is, in some use, his mind is limited and circumscribed as by a circle, within which it is successively co-ordinated into a form truly human. From this as from a house he sees the various concupiscences as outside himself, and from sanity of reason within, banishes them and consequently banishes also the beastly insanities of scortatory lust. With such men, therefore, conjugial heat remains in greater fullness and for a longer period than with others. The contrary is the case with those who give themselves up to sloth and idleness. Their mind is unrestrained and unbounded, and the man then admits into the whole of his mind a manner of vain and frivolous things which flow in from the world and the body and carry him along into the love of them. That conjugial love also is then cast into exile is evident; for from sloth and idleness, the mind is rendered stupid and the body torpid, and the whole man becomes insensible to every vital love, especially to conjugial love, it being from this love as from a fountain that the activities and alacrities of life emanate. The conjugial cold with such men is, however, different from that cold with others. It is indeed the privation of conjugial love, but from defect. (@CL 249)
 ====
-//mhr progress
+
 In yet another teaching, the proper use of rationality is not only associated with insight in respect to one's inborn character and the will to take remedial action, but also and especially with one's life in one's use or function.
 
 ====
@@ -625,119 +628,179 @@ What It Is To Live As A Christian. That It Is Not Difficult In The Heavenly Doct
 
 Two things are requisite: (1) To believe in the Lord, that is, to believe that all good and truth is from Him. (2) To live an honest life, consequently, to shun outward evils, which also are contrary to the civil laws.
 
-A Christian lives as anyone else in external form; he may grow rich, but not by craft and trickery; he may eat and drink well, but not place his very life in those things, and find his delight in superfluities and also in drunkenness, that is, live for appetite; he may be well, and even, according to his condition, handsomely, housed; he may associate with others, like other men, amuse himself in their society;
+A Christian lives as anyone else in external form; he may grow rich, but not by craft and trickery; he may eat and drink well, but not place his very life in those things, and find his delight in superfluities and also in drunkenness, that is, live for appetite; he may be well, and even, according to his condition, handsomely, housed; he may associate with others, like other men, amuse himself in their society; discuss the affairs of the world and the various things in domestic matters: in a word, without any difference in externals, to such an extent that no difference is apparent. Neither is it necessary that he should appear devout, so as [to go about] as it were with a sorrowful countenance and with shaking head, and with sighing; but that he be cheerful and merry; nor [need he] give his goods to the poor, except so far as the affection of the neighbor prompts him.
 
-discuss the affairs of the world and the various things in domestic matters: in a word, without any difference in externals, to such an extent that no difference is apparent. Neither is it necessary that he should appear devout, so as (to go about) as it were with a sorrowful countenance and with shaking head, and with sighing; but that he be cheerful and merry; nor (need he) give his goods to the poor, except so far as the affection of the neighbor prompts him.
-
-He ought to be a moral man, and a good one; but, with him, the moral man, because he reflects that all good and truth is from the Lord, is a spiritual man. Not so, however, with those who do not believe in the Divine, but (regard) self and the world in all things, or with whom moral life is for the sake of self and the world: their moral life is natural, and not in the least spiritual. (@SE 5793-5795)
+He ought to be a moral man, and a good one; but, with him, the moral man, because he reflects that all good and truth is from the Lord, is a spiritual man. Not so, however, with those who do not believe in the Divine, but [regard] self and the world in all things, or with whom moral life is for the sake of self and the world: their moral life is natural, and not in the least spiritual. (@SE 5793-5795)
 ====
 
-The Heavenly Doctrines, as will be seen from teaching presented in the next portion of this discussion, provide both general and particular standards whereby some sort of objective assessment can be made of a persons health of mind. Our attention is drawn to three general and related areas of use which ought to be integral parts of life: uses for sustaining the body, uses for perfecting the rational, and uses for receiving what is spiritual. More particularly, in regard to first and third areas, we are invited to take note of seven constituents of a healthy life internal and external: nourishment, clothing, habitation, recreation, enjoyment, protection, and preservation of state. (See @DLW 330-333) To what degree and in what balance do these areas of use and their constituent parts appear in the life of a given individual?
+The Heavenly Doctrines, as will be seen from teaching presented in the next portion of this discussion, provide both general and particular standards whereby some sort of objective assessment can be made of a persons health of mind. Our attention is drawn to +
+*three general and related areas of use which ought to be integral parts of life:*
 
-=== THE FUNDAMENTAL IMPORTANCE TO MENTAL HEALTH OF MAINTAINING SOUND BODILY HEALTH
+--
+uses for _sustaining_ the body, (@DLW 331) +
+uses for _perfecting_ the rational, (@DLW 332) +
+and uses for _receiving_ what is spiritual (@DLW 333).
+--
+
+More particularly, in regard to first and third areas, we are invited to take note of seven constituents of a healthy life internal and external: nourishment, clothing, habitation, recreation, enjoyment, protection, and preservation of state. (See @DLW 330-333) To what degree and in what balance do these areas of use and their constituent parts appear in the life of a given individual?
+
+=== The Fundamental Importance To Mental Health Of Maintaining Sound Bodily Health
 
 In keeping with the root meaning of the word health, the Heavenly Doctrine clearly associates health with wholeness (see for example @AC 2581). For one to be whole or healthy the spiritual mind, the natural mind, and the body must all be in a sound condition, capable of functioning in correspondence and harmony with one another. This necessary relationship and the final use or purpose implicit in this relationship are presented in summary form in the following passages.
 
-Inasmuch as the end of creation is an angelic heaven out of the human race, and thus the human race itself, all other created things are mediate ends, and these, as having relation to man, with a view to his conjunction with the Lord, refer themselves to these three things in him, his body, his rational, and his spiritual. For man cannot be conjoined to the Lord unless he be spiritual, nor can he be spiritual unless he be rational, nor can he be rational unless his body is in a sound state. These three are like a house; the body like the foundation, the rational like the superstructure, the spiritual like those things which are in the house, and conjunction with the Lord like dwelling in it. From this can be seen in what order, degree, and respect uses (which are the mediate ends of creation) have relation to man, namely, (1) for sustaining his body, (2) for perfecting his rational, (3) for receiving what is spiritual from the Lord (@DLW 330).
+====
+Inasmuch as the end of creation is an angelic heaven out of the human race, and thus the human race itself, all other created things are mediate ends, and these, as having relation to man, with a view to his conjunction with the Lord, refer themselves to these three things in him, his body, his rational, and his spiritual. For man cannot be conjoined to the Lord unless he be spiritual, nor can he be spiritual unless he be rational, nor can he be rational unless his body is in a sound state. These three are like a house; the body like the foundation, the rational like the superstructure, the spiritual like those things which are in the house, and conjunction with the Lord like dwelling in it. From this can be seen in what order, degree, and respect, uses,which are the mediate ends of creation, have relation to man, namely, (1) for sustaining his body, (2) for perfecting his rational, (3) for receiving what is spiritual from the Lord. (@DLW 330)
+====
 
-Uses for sustaining the body relate to its nourishment, its clothing, its habitation, its recreation and enjoyment, its protection and the preservation of its state. The uses created for the nourishment of the body are all things of the vegetable kingdom suitable for food and drink, as fruits, grapes, grain, pulse, and herbs; in the animal kingdom all things which are eaten, as oxen, cows calves, deer, sheep, kids, goats, lambs, and the they yield; also fowls and fish of many kinds. The uses created for the clothing of the body are many other products of these two kingdoms;
+====
+_Uses for sustaining the body_ relate to its nourishment, its clothing, its habitation, its recreation and enjoyment, its protection and the preservation of its state. The uses created for the _nourishment_ of the body are all things of the vegetable kingdom suitable for food and drink, as fruits, grapes, grain, pulse, and herbs; in the animal kingdom all things which are eaten, as oxen, cows calves, deer, sheep, kids, goats, lambs, and the they yield; also fowls and fish of many kinds. The uses created for the _clothing_ of the body are many other products of these two kingdoms; in like manner, the uses for _habitation_, also for recreation, enjoyment, protection, and preservation of state. These are not mentioned because they are well known, and their mere enumeration would fill pages. There are many things, to be sure, which are not used by man; but what is superfluous does not do away with the use, but ensures its continuance. Misuse of uses is also possible, but misuse does not do away with use, even as falsification of truth does not do away with truth except with those who falsify it. (@DLW 331)
+====
 
-in like manner, the uses for habitation, also for recreation, enjoyment, protection, and preservation of state. These are not mentioned because they are well known, and their mere enumeration would fill pages. There are many things, to be sure, which are not used by man; but what is superfluous does not do away with the use, but ensures its continuance. Misuse of uses is also possible, but misuse does not do away with use, even as falsification of truth does not do away with truth except with those who falsify it (@DLW 331).
+====
+_Uses for perfecting the rational_ are all things that give instruction about the subjects above mentioned, and are called sciences and branches of study, pertaining to natural, economical, civil and moral affairs, which are learned either from parents and teachers, or from books, or from intercourse with others, or by reflection on these subjects by oneself. [.underline]#These things perfect the rational so far as they are uses in a higher degree#, and [.underline]#they are permanent as far as they are applied to life#. Space forbids enumeration of these uses, by reason both of their multitude and of their varied relation to the common good. (@DLW 332)
+====
 
-Uses for perfecting the rational are all things that give instruction about the subjects above mentioned, and are called sciences and branches of study, pertaining to natural, economical, civil and moral affairs, which are learned either from parents and teachers, or from books, or from intercourse with others, or by reflection on these subjects by oneself. These things perfect the rational so far as they are uses in a higher degree, and they are permanent as far as they are applied to life. Space forbids enumeration of these uses, by reason both of their multitude and of their varied relation to the common good
-(@DLW 332).
-
-Uses for receiving the spiritual from the Lord, are all things that belong to religion and to worship therefrom; thus all things that teach the acknowledgment and knowledge of God and the knowledge and acknowledgment of good and truth and thus eternal life, which are acquired in the same way as other learning, from parents, teachers, discourses, and books and especially by applying to life what is so learned; and in the Christian world, by doctrines and discourses from the Word, and through the Word from the Lord. These uses in their full extent may be described under the same heads as the uses of the body, as nourishment, clothing, habitation recreation and enjoyment, and preservation of state, if only they are applied to the soul; as nutrition to goods of love, clothing to truths of wisdom, habitation to heaven, recreation and enjoyment to felicity of life and heavenly joy, protection to safety from infesting evils, and preservation of state to eternal life. All these things are given by the Lord according to the acknowledgment that all bodily things are also from the Lord, and that a man is only as a servant and house-steward appointed over the goods of his Lord (@DLW 333).
+====
+_Uses for receiving the spiritual from the Lord_, are all things that belong to religion and to worship therefrom; thus all things that teach the acknowledgment and knowledge of God and the knowledge and acknowledgment of good and truth and thus eternal life, which are acquired in the same way as other learning, from parents, teachers, discourses, and books and especially by applying to life what is so learned; and in the Christian world, by doctrines and discourses from the Word, and through the Word from the Lord. These uses in their full extent may be described under the same heads as the uses of the body, as nourishment, clothing, habitation recreation and enjoyment, and preservation of state, *if only they are applied to the soul*; as + 
+_nutrition to goods of love_, +
+_clothing to truths of wisdom_, +
+_habitation to heaven_, +
+_recreation and enjoyment to felicity of life and heavenly joy_, +
+_protection to safety from infesting evils_, and +
+_preservation of state to eternal life_. +
+All these things are given by the Lord according to the acknowledgment that all bodily things are also from the Lord, and that a man is only as a servant and house-steward appointed over the goods of his Lord. (@DLW 333)
+====
 
 In order to appreciate the importance of having a sound body, if the mind is to be sound, one must have a right conception of what the mind is and how it is related to the body. Many teachings could be noted, but the following is sufficient to indicate very clearly that the mind, which involves man's will and understanding, while spiritual and discretely different from what is material, nevertheless is composed of organized substances and is not some abstract thing, airy or ethereal, without substance and form.
 
+====
 Because the will and understanding are the receptacles of love and wisdom, these two are organic forms, or forms organized out of the purest substances; for such they must be to be receptacles....
 
 ...How can love and wisdom, which are life from the Lord, act upon what is not a subject, or upon what has no substantial existence? Without organic forms, how can thought inhere; and from thought inherent in nothing can one speak? Is not the brain, where thought comes forth, complete and organized in every part?....
 
-Do not, I pray, think of these things from an idea of vacuum. Vacuum is nothing, and in nothing nothing takes place, and from nothing nothing comes forth. (On the idea of vacuum, see above, n. 82) (@DLW 373) (See @DLW 40-43, 209, 257, 260; @DP 279, 319; Div. Wis. V; @AC 2487, 3318:2, 6326; @AE 775)
+Do not, I pray, think of these things from an idea of vacuum. Vacuum is nothing, and in nothing, nothing takes place, and from nothing, nothing comes forth. (On the idea of vacuum, see above, n. 82) (@DLW 373)
+====
+
+(See @DLW 40-43, 209, 257, 260; @DP 279, 319; Div. Wis. V; @AC 2487, 3318:2, 6326; @AE 775)
 
 As to how the organized spiritual substances of the mind affect the material substances of the body, which provides them with a natural clothing, let us note what is said in the following common teaching,
 
+====
 It is well known that the will and understanding rule the body at pleasure, for what the understanding thinks, the mouth speaks, and what the will wills, the body does. From this it is plain that the body is a form corresponding to the understanding and will.
 
 And because form also is predicated of understanding and will, it is plain that the form of the body corresponds to the form of the understanding and will. But this is not the place to describe the nature of these respective forms. In each form there are things innumerable; and these, in each of them, act as one, because they mutually correspond. It is from this that the mind (that is, the will and understanding) rules the body at its pleasure, thus as entirely as it rules its own self. From all this it follows that the interiors of the mind act as a one with the interiors of the body, and the exteriors of the mind with the exteriors of the body. (@DLW 136)
+====
 
-In other passages relating the manner in which the mind, that is, man's willing and thinking affect and rule the body, our attention is drawn especially to the physical brains. Who could conclude otherwise than that the health of the brains must be a matter of central concern if the body as a whole is to be effectively governed by the mind? (cf. @DLW 259)
+In other passages relating the manner in which the mind, that is, man's willing and thinking, affect and rule the body, our attention is drawn especially to the physical brains. Who could conclude otherwise than that the health of the brains must be a matter of central concern if the body as a whole is to be effectively governed by the mind?
+// ??? (cf. @DLW 259)
 
-Love and wisdom, and the will and understanding therefrom, make the very life of man (n. 363, 364). The life of man is in first principles in the brains, and in derivatives in the body (n. 365). Such as life is in first principles, such it is in the whole and in every part (n. 366). By means of these first principles life is in the whole from every part, and in every part from the whole (n. 367) (@DLW 375).
+====
+* Love and wisdom, and the will and understanding therefrom, make the very life of man. (@DLW 363-364)
+* The life of man is in first principles in the brains, and in derivatives in the body. (@DLW 365)
+* Such as life is in first principles, such it is in the whole and in every part. (@DLW 366)
+* By means of these first principles life is in the whole from every part, and in every part from the whole (@DLW 367)
+====
+// clarified this above (@DLW 375)
 
-In further explaining the manner in which the mind acts into and with the body our attention, in many passages is drawn to the overriding, dynamic correspondence that exists between the spiritual activities of will and understanding and the natural motions of the heart and lungs of the body. This important concept is introduced in the following teaching.
+In further explaining the manner in which the mind acts into and with the body, our attention, in many passages, is drawn to the overriding, dynamic correspondence that exists between the spiritual activities of will and understanding, and the natural motions of the heart and lungs of the body. This important concept is introduced in the following teaching.
 
-There is a correspondence of the will and understanding with the heart and lungs, consequently a correspondence of all things of the mind with all things of the body. This is new: it has hitherto been unknown because it has not been known what the spiritual is, and how it differs from the natural; therefore it has not been known what correspondence is; for there is a correspondence between things spiritual and things natural, and by means of correspondence they are conjoined. It is said that heretofore there has been no knowledge of what the spiritual is, or of what its correspondence with the natural is, and therefore what correspondence is; yet these might have been known. Who does not know that affection and thought are spiritual, therefore that all things of affection and thought are spiritual? Who does not know that action and speech are natural, therefore that all things of action and speech are natural? Who does not know that affection and thought which are spiritual, cause man to act and to speak? From this who cannot see what correspondence is between things spiritual and things natural? Does not thought make the tongue speak, and affection together with thought make the body act? There are two distinct things: I can will without acting; and the body, it is known, neither thinks nor wills, but thought falls into speech, and will descends into action. Does not affection also beam forth from the face, and there exhibit a type of itself? This every one knows. Is not affection, regarded in itself, spiritual, and the change of countenance, called the expression, natural? From this who might not conclude that there is correspondence; and further, a correspondence of all things of the mind with all things of the body; and since all things of the mind have relation to affection and thought, or what is the same, to the will and understanding and all things of the body to the heart and lungs,--that there is a correspondence of the will with the heart and of the understanding with the lungs? (@DLW 374)
+====
+There is a correspondence of the will and understanding with the heart and lungs, consequently a correspondence of all things of the mind with all things of the body. This is new: it has hitherto been unknown because it has not been known what the spiritual is, and how it differs from the natural; therefore it has not been known what correspondence is; for there is a correspondence between things spiritual and things natural, and by means of correspondence they are conjoined. It is said that heretofore there has been no knowledge of what the spiritual is, or of what its correspondence with the natural is, and therefore what correspondence is; yet these might have been known. Who does not know that affection and thought are spiritual, therefore that all things of affection and thought are spiritual? Who does not know that action and speech are natural, therefore that all things of action and speech are natural? Who does not know that affection and thought which are spiritual, cause man to act and to speak? From this who cannot see what correspondence is between things spiritual and things natural? Does not thought make the tongue speak, and affection together with thought make the body act? There are two distinct things: I can will without acting; and the body, it is known, neither thinks nor wills, but thought falls into speech, and will descends into action. Does not affection also beam forth from the face, and there exhibit a type of itself? This every one knows. Is not affection, regarded in itself, spiritual, and the change of countenance, called the expression, natural? From this who might not conclude that there is correspondence; and further, a correspondence of all things of the mind with all things of the body; and since all things of the mind have relation to affection and thought, or what is the same, to the will and understanding and all things of the body to the heart and lungs, --that there is a correspondence of the will with the heart and of the understanding with the lungs? (@DLW 374)
+====
 
-Lest there be any doubt about this vital, corresponding relationship a whole series of passages is devoted to illustrating how the affections of our will affect our heart and pulse rate, the vital heat in the body, and even the color of our blood. In regard to the thoughts of our understanding, our attention is called to the obvious link between these and the respiration of our lungs, and the speech which comes forth from our lungs (see @DLW 378-383).
+====
+Lest there be any doubt about this vital, corresponding relationship a whole series of passages is devoted to illustrating how the affections of our will affect our heart and pulse rate, the vital heat in the body, and even the color of our blood. In regard to the thoughts of our understanding, our attention is called to the obvious link between these and the respiration of our lungs, and the speech which comes forth from our lungs. (see @DLW 378-383)
+====
 
 While the Word constantly emphasizes the fact that all the life of the body and all of its sensation, motion, speech and action are from the mind acting in the body, still the body and its health are a matter of great consequence. This was shown in a previous discussion where the effect of bodily impairment on rationality was under consideration (see @DLW 259, 166; also @DLW 330). The principle involved here is stated many times in the Word in various forms. The following are but two examples.
 
+====
 The mind ... behaves according to the state of the recipient parts that belong to the body, just as the sight is according to the state of the eye. (@AC 8378)
+====
 
-Every ... influx is circumstanced in its subjects, or objects, according to their disposition, nature, form... (@SE 2149).
+====
+Every ... influx is circumstanced in its subjects, or objects, according to their disposition, nature, form... (@SE 2149)
+====
 
-The general principle is that the influx or operation of the spiritual in the natural is according to the state or condition of the natural
-(See @AC 3484; @ISB 1, 12e, 13e; @AE 349:3, 6; @DP 98; @SE 3635).
+The general principle is that the influx or operation of the spiritual in the natural is according to the state or condition of the natural. (See @AC 3484; @ISB 1, 12e, 13e; @AE 349:3, 6; @DP 98; @SE 3635)
 
-On this account it should not surprise us at all to find that the Word repeatedly announces the principle of a sound mind in a sound body.
+On this account it should not surprise us at all to find that the Word repeatedly announces the principle of a sound mind in a sound body. 
 
+====
 A man must by all means care for his body, as that it may be nourished, and clothed, and may enjoy the delights of the world; but all these not for the sake of the body, but for the sake of the soul, namely, that the soul may act in a sound body correspondently and rightly, and may have the body as an organ entirely compliant to it.
 
-Thus the soul must be the end. Yet neither must the soul be the end, but only a mediate end, for the sake of the uses which it must perform in both worlds; and when a man has uses as the end, he has the Lord as the end, for the Lord makes disposition for uses, and disposes the uses themselves (@AC 5949).
+Thus the soul must be the end. Yet neither must the soul be the end, but only a mediate end, for the sake of the uses which it must perform in both worlds; and when a man has uses as the end, he has the Lord as the end, for the Lord makes disposition for uses, and disposes the uses themselves. (@AC 5949)
+====
 
 In speaking to the principle of sound mind in a sound body a number of subordinate principles are provided. Those people who are considering fasting or dieting would do well to bear in mind such teaching as the following.
 
-...The nutrition of a man ... has as its end that he may have a sound mind in a sound body. If man deprives his body of its nourishment, he deprives himself also of the condition needed for his end; and therefore he who is a spiritual man does not despise nourishment, nor even its pleasures; and yet he does not hold them as his end, but only as a means that is of service to his end. From this as an example we can judge of all other things (@AC 3951:3).
+====
+...The nutrition of a man ... has as its end that he may have a sound mind in a sound body. If man deprives his body of its nourishment, he deprives himself also of the condition needed for his end; and therefore he who is a spiritual man does not despise nourishment, nor even its pleasures; and yet he does not hold them as his end, but only as a means that is of service to his end. From this as an example we can judge of all other things.  (@AC 3951[3])
+====
 
-Every one ought to take care of his body in respect to its food and clothing. This must come first, but to the end that there may be a sound mind in a sound body. And every one ought to take care of his mind in respect to its food, namely, in respect to such things as belong to intelligence and wisdom, to the end that his mind may thus be in a state to serve the Lord: he who does this, takes good care of himself for eternity. But he who takes care of his body merely for the sake of the body, and does not think of soundness of mind, and who does not take care of his mind in respect to such things as are of intelligence and wisdom, but in respect to such things as are contrary thereto, takes bad care of himself for eternity. From all this it is evident in what way every one ought to be neighbor to himself, namely, not in the first place but in the last; for the end must not be for himself, but for others; and where the end is, there is the first (@AC 6936).
+====
+Every one ought to take care of his body in respect to its food and clothing. This must come first, but to the end that there may be a sound mind in a sound body. And every one ought to take care of his mind in respect to its food, namely, in respect to such things as belong to intelligence and wisdom, to the end that his mind may thus be in a state to serve the Lord; he who does this, takes good care of himself for eternity. But he who takes care of his body merely for the sake of the body, and does not think of soundness of mind, and who does not take care of his mind in respect to such things as are of intelligence and wisdom, but in respect to such things as are contrary thereto, takes bad care of himself for eternity. From all this it is evident in what way every one ought to be neighbor to himself, namely, not in the first place but in the last; for the end must not be for himself, but for others; and where the end is, there is the first. (@AC 6936)
+====
 
 The teaching just referred (@AC 6936), in addition to emphasizing the need to take care of the body, establishes the principle that taking care of the body is not an end in itself. Just as one must avoid depriving the body of what it needs, so one must avoid making bodily well-being an overriding concern or mental health and spiritual health will suffer.
 
 While, on the one hand, the principle of a sound mind in a sound body forbids the neglect of the body, so, on the other hand, it forbids the over-indulgence of the bodily appetites.
 
-Take the nourishment of the body and the nourishment of the soul: one who is in merely external pleasures, makes much of himself, indulges his stomach, loves to live sumptuously, and makes the height of pleasure to consist in eatables and drinkables. One who is in internal things also finds pleasure in these things, but his ruling affection is to nourish his body with food pleasurably for the sake of its health, to the end that he may have a sound mind in a sound body, thus chiefly for the sake of the health of the mind, to which the health of the body serves as a means (@AC 4459:6).
+====
+Take the nourishment of the body and the nourishment of the soul: one who is in merely external pleasures, makes much of himself, indulges his stomach, loves to live sumptuously, and makes the height of pleasure to consist in eatables and drinkables. One who is in internal things also finds pleasure in these things, but his ruling affection is to nourish his body with food pleasurably for the sake of its health, to the end that he may have a sound mind in a sound body, thus chiefly for the sake of the health of the mind, to which the health of the body serves as a means. (@AC 4459:6)
+====
 
-A new state begins in the man who is being regenerated, when the order is changed, as takes place when interior things obtain dominion over exterior things, and the exterior things begin to serve the interior, both as to the things of the intellect and as to those of the will. With those who are being regenerated, this is observed from the fact that something within dissuades them from allowing sensuous delights and bodily or earthly pleasures to reign, and to draw over to their side the things of the intellect to confirm them; and when this is the case the prior state is at its last, and the new state is at its first
-(@AC 5159).
+====
+A new state begins in the man who is being regenerated, when the order is changed, as takes place when interior things obtain dominion over exterior things, and the exterior things begin to serve the interior, both as to the things of the intellect and as to those of the will. With those who are being regenerated, this is observed from the fact that something within dissuades them from allowing sensuous delights and bodily or earthly pleasures to reign, and to draw over to their side the things of the intellect to confirm them; and when this is the case the prior state is at its last, and the new state is at its first. (@AC 5159)
+====
 
 Such teachings as the following illustrate how over-indulgence of the bodily appetites not only undermines physical well being, but also erodes mental and spiritual health (See also @AE 617a:2).
 
-CONTINUATION CONCERNING THE INHABITANTS OF JUPITER
+====
+Continuation Concerning The Inhabitants Of Jupiter
 
-As regards the taste of foods; they do not prepare their foods according to the taste, but according to the use afforded to the body. That which is more useful to the body is likewise to them the more savory and as it were the sweeter; in consequence, they are not carried away by the sense of taste into luxury by which the health of the body is undermined, and hence the mind, which is healthy in a healthy body, suffers. If the well-being of the body is consulted it is for the sake of the interior man. On our earth where the sense of taste rules, the case is different, and so the body becomes sick and the mind insane (@SE 596).
+As regards the taste of foods; they do not prepare their foods according to the taste, but according to the use afforded to the body. That which is more useful to the body is likewise to them the more savory and as it were the sweeter; in consequence, they are not carried away by the sense of taste into luxury by which the health of the body is undermined, and hence the mind, which is healthy in a healthy body, suffers. If the well-being of the body is consulted it is for the sake of the interior man. On our earth where the sense of taste rules, the case is different, and so the body becomes sick and the mind insane. (@SE 596)
+====
 
-They said moreover that they do not prepare their food with reference to the taste, but chiefly with reference to use; adding that the food which is useful is to them savory. There was a discourse among the spirits on this subject, and it was said that this is advantageous for man, because in this way he has at heart a sound mind in a sound body; otherwise than with those with whom the taste rules, for then the body sickens, at the least is inwardly languid, and consequently also the mind, because this behaves according to the state of the recipient parts that belong to the body, just as the sight is according to the state of the eye. Hence the insanity of placing all the delight of life, and what they call the _summum bonum_, in luxury and pleasure. From this also comes corpulence in matters of thought and judgment; and quickness in the things of the body and the world. This results in the man having a likeness to a brute animal, with which also such persons do not unsuitably compare themselves (@AC 8378).
+====
+They said moreover that they do not prepare their food with reference to the taste, but chiefly with reference to use; adding that the food which is useful is to them savory. There was a discourse among the spirits on this subject, and it was said that this is advantageous for man, because in this way he has at heart a sound mind in a sound body; otherwise than with those with whom the taste rules, for then the body sickens, at the least is inwardly languid, and consequently also the mind, because this behaves according to the state of the recipient parts that belong to the body, just as the sight is according to the state of the eye. Hence the insanity of placing all the delight of life, and what they call the _summum bonum_, in luxury and pleasure. From this also comes corpulence in matters of thought and judgment; and quickness in the things of the body and the world. This results in the man having a likeness to a brute animal, with which also such persons do not unsuitably compare themselves. (@AC 8378)
+====
 
 The dangers involved in over-indulging the senses of smell, taste and touch are of such a magnitude that we are told that in heaven these....
 
-senses with the angels are less exquisite than the senses of seeing and hearing, for the reason that seeing and hearing serve their intelligence and wisdom, but the rest do not; and if the other senses were equally exquisite they would detract from the light and joy of their wisdom, and would let in the delight of pleasures pertaining to various appetites and to the body;
-
-and so far as these prevail they obscure and weaken the understanding. This takes place in the world, with men who become gross and stupid as regards spiritual truths so far as they are indulgent to the sense of taste and the allurements of the sense of bodily touch (@HH 462a:2).
+====
+senses with the angels are less exquisite than the senses of seeing and hearing, for the reason that seeing and hearing serve their intelligence and wisdom, but the rest do not; and if the other senses were equally exquisite they would detract from the light and joy of their wisdom, and would let in the delight of pleasures pertaining to various appetites and to the body; and so far as these prevail they obscure and weaken the understanding. This takes place in the world, with men who become gross and stupid as regards spiritual truths so far as they are indulgent to the sense of taste and the allurements of the sense of bodily touch. (@HH 462a:2)
+====
 
 The critical relationship between mental health and bodily health is summed up very concisely in the work on The Divine Providence,
 
-No one is reformed in a state of bodily disease, because the reason is not then in a free state; for the state of the mind depends upon the state of the body. When the body is sick the mind is also sick, because of its separation from the world if for no other reason (@DP 142).
+====
+No one is reformed in a state of bodily disease, because the reason is not then in a free state; for the state of the mind depends upon the state of the body. When the body is sick the mind is also sick, because of its separation from the world if for no other reason. (@DP 142)
+====
 
 Speaking specifically of food, the essential mind-body relationship relative to health is simply expressed as follows:
 
-Material food does not penetrate to the mind, but only to the things of the body, which that food sustains to the end that this mind may enjoy its food while the body enjoys its food, that is, that this mind may be sound in a sound body (@AC 5293).
+====
+Material food does not penetrate to the mind, but only to the things of the body, which that food sustains to the end that this mind may enjoy its food while the body enjoys its food, that is, that this mind may be sound in a sound body. (@AC 5293)
+====
 
-=== SOUND MENTAL HEALTH FOR THE PURPOSE OF ETERNAL RECEPTION OF WHAT IS CELESTIAL AND SPIRITUAL.
+=== Sound Mental Health For The Purpose Of Eternal Reception Of What Is Celestial And Spiritual.
 
-In most of the teachings presented above, relating to the principle of a sound mind in a sound body, an even more important principle is either openly stated or clearly implied. Health of body and health of the natural mind have no other enduring purpose than to serve as a foundation and habitation for a spiritual mind that is eternally healthy and happy. This is beautifully outlined in The Divine Love and Wisdom (@DLW 330-333).
+In most of the teachings presented above, relating to the principle of a sound mind in a sound body, an even more important principle is either openly stated or clearly implied. Health of body and health of the natural mind have no other enduring purpose than to serve as a foundation and habitation for a spiritual mind that is eternally healthy and happy. This is beautifully outlined in The Divine Love and Wisdom. (cf. @DLW 330-333)
 
 The following passages are introduced to further strengthen and confirm this teaching, also to emphasize the fact that health of body, mind and soul of any individual has as its final end or use the health of the Lord's kingdom in both worlds, and above all, the service of the Lord.
 
-One who is being regenerated likewise loves the things of the body and also the things of the world, but for a higher or more interior end; for he loves the things of the body with the end of having a sound mind in a sound body, and he loves his mind and its soundness with an end still more interior--that he may relish (or be wise in) good and understand truth. Like other men he too loves the things of the world; but he loves them for the sake of the end that through the world, its wealth, possessions, and honors, he may have the means of doing what is good and true, and what is just and fair (@AC 5159:3).
+====
+One who is being regenerated likewise loves the things of the body and also the things of the world, but for a higher or more interior end; for he loves the things of the body with the end of having a sound mind in a sound body, and he loves his mind and its soundness with an end still more interior -- that he may relish (or be wise in) good and understand truth. Like other men he too loves the things of the world; but he loves them for the sake of the end that through the world, its wealth, possessions, and honors, he may have the means of doing what is good and true, and what is just and fair. (@AC 5159[3])
+====
 
-One who is a spiritual man does not rest here, but regards the health of the mind or soul as a means for the acquisition of intelligence and wisdom--not for the sake of reputation, honors, and gain, but for the sake of the life after death. One who is spiritual in a more interior degree regards intelligence and wisdom as a mediate end having for its object that he may serve as a useful member in the Lord's kingdom; and one who is a celestial man, that he may serve the Lord. To such a one bodily food is a means for the enjoyment of spiritual food, and spiritual food is a means for the enjoyment of celestial food; and as they ought to serve in this manner, these foods also correspond, and are therefore called foods (@AC 4459:6).
+====
+One who is a spiritual man does not rest here, but regards the health of the mind or soul as a means for the acquisition of intelligence and wisdom -- not for the sake of reputation, honors, and gain, but for the sake of the life after death. One who is spiritual in a more interior degree regards intelligence and wisdom as a mediate end having for its object that he may serve as a useful member in the Lord's kingdom; and one who is a celestial man, that he may serve the Lord. To such a one bodily food is a means for the enjoyment of spiritual food, and spiritual food is a means for the enjoyment of celestial food; and as they ought to serve in this manner, these foods also correspond, and are therefore called foods. (@AC 4459[6])
+====
 
-== PART II - THE HUMAN MIND AND ITS ENVIRONMENT / HEREDITY
+== Part II - The Human Mind And Its Environment / Heredity
 
-THE HUMAN MIND AND ITS ENVIRONMENT
+The Human Mind And Its Environment
 
 For a person to enjoy a full and proper use of his Divinely given faculties of freedom and rationality, it is important that he have some idea of the substance and form of the human mind in its various degrees, discrete and continuous. Rationality demands that we understand in some measure how we are related, and how we ought to be related, to our Lord and to our human associates, spiritual and natural. In order to lay something of a foundation for this understanding, we have included as appendices a brief summation of the Conditions for Freedom of Choice and several tentative diagrams of the human soul and mind from the time of conception to the period of spiritual maturity.
 
@@ -747,61 +810,63 @@ In what follows, by means of a series of questions and answers, we will seek to 
 
 In the present discussion, while the central focus will be hereditary tendencies to evil, other related issues will be introduced such as the place of self-love, of self-esteem, the distinction between hereditary and actual evil, and the existence and character of hereditary or natural good.
 
-=== HEREDITY
+=== Heredity
 
 While there are exceptions, most passages in the Word for the New Church, when discussing our spiritual heredity, speak of hereditary evil. The simple reason for this is that since the end of the Most Ancient Church the spiritual heredity of mankind on this earth is predominantly evil. The following description of the Most Ancient Church at its end describes very well the predominant character of man's heredity at this day.
 
-And Jehovah saw that the evil of man was multiplied in the earth, and that all the imagination of the thoughts of his heart was only evil every day (Genesis 6:5; cf. Genesis 8:21).
+_"And Jehovah saw that the evil of man was multiplied in the earth, and that all the imagination of the thoughts of his heart was only evil every day."_ (Genesis 6:5; cf. Genesis 8:21).
 
-1) WHERE DO WE GET OUR HEREDITARY EVIL?
+==== 1) Where do we get our hereditary evil?
 
-The Word notes that it is believed in the church at this day that all hereditary evil is from the first parent, and that all are therefore condemned in regard thereto (@AC 4317). It is thought that because Adam sinned, man at this day is dead in sin. According to this concept our more immediate ancestors bear no responsibility one way or another for the condition of our heredity today.
+The Word notes that "it is believed in the church at this day that all hereditary evil is from the first parent, and that all are therefore condemned in regard thereto." (@AC 4317) It is thought that because Adam sinned, man at this day is dead in sin. According to this concept our more immediate ancestors bear no responsibility one way or another for the condition of our heredity today.
 
 The Heavenly Doctrine, however, shows that everyone, in every generation, male or female, contributes very directly, either in a negative or positive way, to the hereditary condition of their offspring.
 
-Hereditary evil derives its origin from every one's parents and parents parents, or from grandparents and ancestors successively (@AC 4317; see @DLW 269; @DP 277a)
+"Hereditary evil derives its origin from every one's parents and parents parents, or from grandparents and ancestors successively." (@AC 4317); see @DLW 269; @DP 277a
 
-2) IS THERE A DIFFERENCE BETWEEN THE HEREDITY RECEIVED THROUGH THE FATHER AND THAT RECEIVED THROUGH THE MOTHER? IF SO, WHAT ARE THE DIFFERENCES?
+==== 2) Is there a difference between the heredity received through the father and that received through the mother? If so, what are the differences?
 
-The hereditary evil from the father is more inward, and the hereditary evil from the mother is more outward. The former cannot be easily rooted out, but the latter can (@AC 4317).
+"The hereditary evil from the father is more inward, and the hereditary evil from the mother is more outward. The former cannot be easily rooted out, but the latter can." (@AC 4317)
 
-The infirm nature which a man derives hereditarily from his mother, is something corporeal [relating to the body] that is dispersed when he is being regenerated, while that which a man derives from his father remains to eternity (@AC 1414, see @AC 1444, 1573).
+"The infirm nature which a man derives hereditarily from his mother, is something corporeal [relating to the body] that is dispersed when he is being regenerated, while that which a man derives from his father remains to eternity." (@AC 1414), see @AC 1444, 1573.
 
-Man is born into interior evil from his father, and into exterior evil from his mother (@AC 4644).
+"Man is born into interior evil from his father, and into exterior evil from his mother." (@AC 4644)
 
-The affections of the father and mother are connate and innate in the offspring; but those of the father are interior and therefore unfold themselves after a longer time, while those of the mother are exterior and therefore unfold themselves within a shorter time (@SE 83).
+"The affections of the father and mother are connate and innate in the offspring; but those of the father are interior and therefore unfold themselves after a longer time, while those of the mother are exterior and therefore unfold themselves within a shorter time." (@SE 83)
 
-3) WHAT IS THE CAUSE OF THIS DIFFERENCE IN WHAT IS RECEIVED FROM THE FATHER BY HEREDITY AND WHAT IS RECEIVED FROM THE MOTHER?
+==== 3) What is the cause of this difference in what is received from the father by heredity and what is received from the mother?
 
 In order to understand the distinction between man's two heredities, we must understand what each parent contributes to the conception of a child in its mothers womb.
 
-...the conception of a man from his father is not a conception of life, but only a conception of the first and purest form capable of receiving life; and to this, as to a nucleus or starting-point in the womb, are successively added substances and matters in forms adapted to the reception of life, in their order and degree (@DLW 6).
+"...the conception of a man from his father is not a conception of life, but only a conception of the first and purest form capable of receiving life; and to this, as to a nucleus or starting-point in the womb, are successively added substances and matters in forms adapted to the reception of life, in their order and degree." (@DLW 6)
 
-...the soul of the offspring is from the father, and its clothing from the mother (@CL 206).
+"...the soul of the offspring is from the father, and its clothing from the mother." (@CL 206)
 
-Man, by inheritance, derives evil from the father, from whom he has a soul that is clothed with a body in the mother. For the seed, which is from the father, is the first receptacle of life, but such a receptacle as it was with the father; for the seed is in the form of his love, and each one's love is, in things greatest and least, similar to itself; and there is in the seed a conatus to the human form, and by successive steps it goes forth into that form. From this it follows that evils called hereditary are from fathers, thus from grandfathers and great-grandfathers successively transmitted to offspring (@DLW 269; for full discussion see @DP 277a).
+"Man, by inheritance, derives evil from the father, from whom he has a soul that is clothed with a body in the mother. For the seed, which is from the father, is the first receptacle of life, but such a receptacle as it was with the father; for the seed is in the form of his love, and each one's love is, in things greatest and least, similar to itself; and there is in the seed a conatus to the human form, and by successive steps it goes forth into that form. From this it follows that evils called hereditary are from fathers, thus from grandfathers and great-grandfathers successively transmitted to offspring." (@DLW 269); for full discussion see @DP 277a.
 
-In brief, the heredity of the father is impressed upon the outer structure of the soul itself in the seed, whereas, the heredity of the mother is impressed upon the ovum and what is used to clothe the soul with the material body. Does this mean that the maternal heredity is of no consequence? Not at all! The teaching regarding what the Lord received from Mary, and its effect, should certainly remove any doubt in this respect (see @AC 1573, 1444).
+In brief, the heredity of the father is impressed upon the outer structure of the soul itself in the seed, whereas, the heredity of the mother is impressed upon the ovum and what is used to clothe the soul with the material body. Does this mean that the maternal heredity is of no consequence? Not at all! The teaching regarding what the Lord received from Mary, and its effect, should certainly remove any doubt in this respect. (see @AC 1573, 1444).
 
 Also it should be recalled from the discussion on health of mind and body that influx is according to the state, disposition, nature or form of its receiving vessel. The maternal heredity, impressed as it is on everything of the body, has a very great influence as regards how the spirit of man is able to act into the body, and through the body, produce its effects.
 
-4) WHERE IN THE MIND DO ALL HEREDITARY EVILS HAVE THEIR SEAT? IS OUR SOUL ALL BAD FROM BIRTH, OK IS THERE SOMETHING GOOD ABOUT IT?
+==== 4) Where in the mind do all hereditary evils have their seat? Is our soul all bad from birth, or is there something good about it?
 
 In order that we may see our soul and mind in proper perspective and correctly appreciate the conditions that the Lord has provided for the exercise of freedom and rationality, we must know that hereditary evils are not impressed on the interior degrees of our soul. They are not in the internal or inmost of man, which is the Lord's own dwelling place with us, nor are they in the interior or rational man where remains, states of affection from the Lord, are imprinted from birth onwards. Hereditary evils are impressed upon the outer structures of the soul, they reside in the outermosts of the exterior or natural degree (see @DLW 432).
 
-Hereditary evils have their seat in his natural and sensual, but not in the spiritual; consequently the natural man, and especially the sensual man, is the opposite of the spiritual.... As all evils have their seat in the natural and sensual man it follows that falsities do also, because all falsities are of evil; for when man lusts and wills from evils, he thinks and speaks from falsity (@AE 543b:4; @AE 739:3; see also @SE 2157).
+"Hereditary evils have their seat in his natural and sensual, but not in the spiritual; consequently the natural man, and especially the sensual man, is the opposite of the spiritual.... As all evils have their seat in the natural and sensual man it follows that falsities do also, because all falsities are of evil; for when man lusts and wills from evils, he thinks and speaks from falsity." (@AE 543[4]) cf. @AE 739:3; see also @SE 2157)
 
-...the evils of parents, which are called hereditary evils, especially lie hidden in children ... in ultimates or in the sensual man (@AE 556:10).
+"...the evils of parents, which are called hereditary evils, especially lie hidden in children ... in ultimates or in the sensual man." (@AE 556:10)
 
-All evils and their falsities, both engendered and acquired, have their seat in the natural mind. Evils and their falsities have their seat in the natural mind, because that mind is, in form or image, a world; while the spiritual mind in its form or image is a heaven, and in heaven evil cannot be entertained. The spiritual mind, therefore, is not opened from birth, but is only in the capability of being opened. Moreover, the natural mind derives its form in part from substances of the natural world; but the spiritual mind from substances of the spiritual world only; and this mind is preserved in its integrity by the Lord, in order that man may be capable of becoming a man;
+"All evils and their falsities, both engendered and acquired, have their seat in the natural mind. Evils and their falsities have their seat in the natural mind, because that mind is, in form or image, a world; while the spiritual mind in its form or image is a heaven, and in heaven evil cannot be entertained. The spiritual mind, therefore, is not opened from birth, but is only in the capability of being opened. Moreover, the natural mind derives its form in part from substances of the natural world; but the spiritual mind from substances of the spiritual world only; and this mind is preserved in its integrity by the Lord, in order that man may be capable of becoming a man; 
 
-for man is born an animal, but he becomes a man. The natural mind, with all its belongings, is coiled into gyres from right to left, but the spiritual mind into gyres from left to right; the two thus curving in directions contrary to each other--a proof that evil has its seat in the natural mind, and that of itself it acts against the spiritual mind. Moreover, the gyration from right to left is turned downward, thus towards hell, but the gyration from left to right tends upward, thus toward heaven (@DLW 270).
+for man is born an animal, but he becomes a man. The natural mind, with all its belongings, is coiled into gyres from right to left, but the spiritual mind into gyres from left to right; the two thus curving in directions contrary to each other -- a proof that evil has its seat in the natural mind, and that of itself it acts against the spiritual mind. Moreover, the gyration from right to left is turned downward, thus towards hell, but the gyration from left to right tends upward, thus toward heaven." (@DLW 270)
 
-These teachings are of tremendous significance in helping us to appreciate how a person in adult life can act in freedom in accordance with reason. Since hereditary tendencies are impressed only in the outermosts of the exterior or natural degree of the mind, or in the sensual especially, when the interiors of the natural mind are opened and developed to their highest point which is the rational, a person in their natural thinking can be raised above hereditary inclination with its characteristic false thought. Then by means of light out of the spiritual degrees of the mind the person can enjoy an interior thought from which he can view his exterior thought, reflect upon it and pass judgment on it, deciding whether it is evil or not evil (@DP 104). In short, with hereditary evils seated in the exteriors of the mind, a person, if they will, can look down on them from an elevated perspective and choose whether or not they will become of their life. As will be noted in a subsequent part of the discussion, this Divinely provided arrangement in the human mind makes possible the implantation of remains in a situation of safety. For remains are not lodged in man's exteriors, but in his interiors. They are able, in childhood, to be kept quite separate from hereditary inclinations and therefore can be used by the Lord to offset the influence of one's perverse heredity.
+These teachings are of tremendous significance in helping us to appreciate how a person in adult life can act in freedom in accordance with reason. Since hereditary tendencies are impressed only in the outermosts of the exterior or natural degree of the mind, or in the sensual especially, when the interiors of the natural mind are opened and developed to their highest point which is the rational, a person in their natural thinking can be raised above hereditary inclination with its characteristic false thought. Then by means of light out of the spiritual degrees of the mind the person can enjoy an interior thought from which "he can view his exterior thought, reflect upon it and pass judgment on it, deciding whether it is evil or not evil." (@DP 104)
 
+In short, with hereditary evils seated in the exteriors of the mind, a person, if they will, can look down on them from an elevated perspective and choose whether or not they will become of their life. As will be noted in a subsequent part of the discussion, this Divinely provided arrangement in the human mind makes possible the implantation of remains in a situation of safety. For remains are not lodged in man's exteriors, but in his interiors. They are able, in childhood, to be kept quite separate from hereditary inclinations and therefore can be used by the Lord to offset the influence of one's perverse heredity.
+//mhr progress
 5) HOW DO EVILS BECOME IMPRESSED OK IMPRINTED ON THE EXTERNAL OF OUR SOUL SO AS TO BECOME A PART OF OUR CHILDREN'S HEREDITY?
 
-Every evil which they [parents] have acquired by actual lifer even so that by frequent use or habit it has become like a nature, is derived into the children, and becomes hereditary, together with that which had been implanted in the parents from grandparents and ancestors (@AC 4317; see @AC 8550).
+Every evil which they [parents] have acquired by actual life even so that by frequent use or habit it has become like a nature, is derived into the children, and becomes hereditary, together with that which had been implanted in the parents from grandparents and ancestors (@AC 4317; see @AC 8550).
 
 Such things as have come to be of the love, and consequently of the life, are engendered in offspring (@DLW 269).
 
@@ -824,12 +889,11 @@ Other passages modify the above teaching in some degree, speaking in terms of, m
 
 Several passages bring both teachings together, speaking to the general state of our natural man at this day before regeneration but also noting that there are exceptions.
 
-The will of man has continually been depraved, and at last so that evil has taken entire possession of it, insomuch that nothing sound
-(integer) has remained there.... There are few with whom there is anything sound left in the will part [of the external or natural man] (@AC 6296:2; @SE 4719).
+The will of man has continually been depraved, and at last so that evil has taken entire possession of it, insomuch that nothing sound (integer) has remained there.... There are few with whom there is anything sound left in the will part [of the external or natural man] (@AC 6296:2; @SE 4719).
 
 8) WHILE A PERSON AT THIS DAY MAY BE INCLINED FROM HEREDITY TO EVERY GENUS AND SPECIES OF EVIL, WHAT FACTORS MAY CAUSE A CERTAIN GENIUS OR SPECIES OF EVIL TO BE EXCITED MORE THAN OTHERS?
 
-Further that there is an inclination in every man to every genus and species of evil, because there is such a multiplication; wherefore, when man grows up, then by his actuality are excited those genera or those species of evil, that happen according to his societies, actions, thoughts. Wherefore, man by nature inclines to every genus and species of evil, and from the determination of actuality is borne into this or that, and so multiplies (his) genus and species, according to generations and families (@SE 2425; see @TCR 120:2).
+Further that there is an inclination in every man to every genus and species of evil, because there is such a multiplication; wherefore, when man grows up, then by his actuality are excited those genera or those species of evil, that happen according to his societies, actions, thoughts. Wherefore, man by nature inclines to every genus and species of evil, and from the determination of actuality is borne into this or that, and so multiplies [his] genus and species, according to generations and families (@SE 2425; see @TCR 120:2).
 
 It is clear that we have some responsibility in the matter of what evils will be aroused. The kind of company we keep, the evils we allow to come into act, and the phantasies we indulge all have their effect.
 
@@ -1036,10 +1100,7 @@ It is important to realize, however, that hereditary evils may become actual wit
 
 CONCERNING THOSE WHICH (BELONG) TO THE WILL (BUT) NOT TO THE ACT.
 
-Certain spirits, as was previously the case, wish to be justified because they have done no evil, although they have thought (it):
-wherefore it was insinuated into me that the matter stands thus, that whatever comes into (enters) the thought (and) not into the will this is not a sin: then if (it comes) (enters) into the will or (what is)
-like the will, and he thinks that this is a sin, contrary to the Lord's Word, (and) will burden (his) conscience, and so shakes it off: this cannot be a sin but (is) a temptation. But if anything comes into
-(enters) the thought and the will, so that he desires to cause only the external bonds may not hinder, this is a sin: like as the Lord says, he who looks on a girl with lust, has already committed whoredom.--1748, September 16. (@SE 3178; see @SE 3415)
+Certain spirits, as was previously the case, wish to be justified because they have done no evil, although they have thought [it]: wherefore it was insinuated into me that the matter stands thus, that whatever comes into [enters] the thought [and] not into the will this is not a sin: then if [it comes] [enters] into the will or [what is] like the will, and he thinks that this is a sin, contrary to the Lord's Word, [and] will burden [his] conscience, and so shakes it off: this cannot be a sin but [is] a temptation. But if anything comes into [enters] the thought and the will, so that he desires to cause only the external bonds may not hinder, this is a sin: like as the Lord says, he who looks on a girl with lust, has already committed whoredom.--1748, September 16. (@SE 3178; see @SE 3415)
 
 The general doctrine relating to interior acts, actions of the will that may not immediately appear before people in this world, is fully explained and illustrated in the Divine Love.
 
@@ -1443,8 +1504,7 @@ We are all familiar with the observation that a crisis will often bring out the 
 
 It is important to note that the Lord, in His merciful economy may do more with states of anxiety, misfortune, sickness and grief of mind than just described. In addition to arousing remains previously implanted, the Lord, at such times, may provide for the implantation of new remains. The same may occur with very natural men when for a time they leave their accustomed preoccupations and hear particularly effective preaching. This would probably be the case especially when attending a memorial service or while participating in some sacrament or rite of the church.
 
-Sometimes, also, such persuasive preaching occurs (datur), that they who believe nothing, and think they are to die like brutes, then seem to themselves to be, as it were, elevated to heaven, but yet as soon as they go forth from the church, believe nothing, and on the other hand
-(alioquin), make sport of such things. That they are elevated to heaven, I perceived from a spiritual idea: also from living experience with certain ones. 1748, September 9. When man is in such a persuasive state, and is elevated, then the Lord operates, and implants (inseminat), and conceals in their minds those things which are called 'remains': also at many other times, as when (men are) in misfortunes and temptations. This was now insinuated in my mind (mihi nunc insinuatum).1748, September 9 (@SE 3108).
+Sometimes, also, such persuasive preaching occurs [datur], that they who believe nothing, and think they are to die like brutes, then seem to themselves to be, as it were, elevated to heaven, but yet as soon as they go forth from the church, believe nothing, and on the other hand [alioquin], make sport of such things. That they are elevated to heaven, I perceived from a spiritual idea: also from living experience with certain ones. 1748, September 9. When man is in such a persuasive state, and is elevated, then the Lord operates, and implants [inseminat], and conceals in their minds those things which are called 'remains': also at many other times, as when [men are] in misfortunes and temptations. This was now insinuated in my mind [mihi nunc insinuatum].1748, September 9 (@SE 3108).
 
 20) BESIDES THE FIRST REMAINS, WHICH ARE THE REMAINS OF INFANCY, AND THE LATER REMAINS THAT ARE IMPLANTED IN CHILDHOOD, THE WORD MENTIONS STILL OTHER REMAINS WHICH ARE REFERRED TO AS NEW REMAINS. WHEN AND HOW MAY WE ACQUIRE THESE REMAINS?
 
