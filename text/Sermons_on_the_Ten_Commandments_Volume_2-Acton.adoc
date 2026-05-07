@@ -2,8 +2,6 @@
 By Alfred Acton    1914-1918
 include::../template-attributes.adoc[]
 
-// Tricky and un-resolved around XXXVII-XXXVIII
-
 ALFRED ACTON + 
 Written for the New Church + 
 Soldiers of the Great War + 
@@ -29,11 +27,11 @@ THE ACADEMY BOOK ROOM, +
 W.H. ALDEN, Manager, + 
 Bryn Athyn, Pa.
 
-== XVII. HONORING FATHER AND MOTHER.
+== XVIII. HONORING FATHER AND MOTHER.
 
 Exodus 21:1-15; Luke 15:4-24; @HH 277
 
-Honor thy father and thy mother, that thy days may be prolonged upon the land which the LORD thy God giveth thee. (Exodus 20:12)
+_Honor thy father and thy mother, that thy days may be prolonged upon the land which the LORD thy God giveth thee._ (Exodus 20:12)
 
 In the three commandments which have thus far occupied our attention. the subject is the Lord and our duty to Him. We are to worship Him alone, that is, there is to be no other ruler of our will and action. This is the most holy, because the most universal of all the commandments, entering into all the things of our actions and thoughts. Then we are to hallow the Lord's name, that is, we are to hold His Word, and, in general, all that concerns instruction from Him,we are to hold this in holiness, both internal and external; in internal respect by reading the Word with a view to amendment of life; in external respect by showing due reverence and respect to all things that pertain to Divine worship. This is a second universal; it is not so universal, and hence not so holy, as the first commandment, because it is qualified by obedience to the first commandment. Yet it is a great universal of human life, for on our attitude to the Word depends our life, and in that attitude is shown our worship of the Lord. The third commandment is a third and lesser universal. This commandment teaches that we are to look forward to the Sabbath day; i.e., the spiritual life, and also life in heaven, as the good and inspirer of the six days of the week. But our idea of heaven, our idea of the spiritual life, depends on whether and how much we have gone to the Word, and this depends on our acknowledgment of the Lord.
 
@@ -574,7 +572,7 @@ In short, that to become rational men, to become true New Church men, to become 
 
 
 
-== XXXII. WHO IS THE DEVIL?
+== XXXIII. WHO IS THE DEVIL?
 
 Isaiah 14:1-23; Matthew 4:1-11; @HH 311.
 
