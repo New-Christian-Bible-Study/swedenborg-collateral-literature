@@ -25,9 +25,9 @@ createpdf () {
 createepub () {
 #	echo "Creating $epubdest/$title.pdf from $sourcedir/$title.adoc"
 	printf "...e"
-	asciidoctor-epub3 -D $epubdest $sourcedir/$sourcefile 2>/dev/null && printf "pub "
+	asciidoctor-epub3 -D $epubdest $sourcedir/$sourcefile 2>>/tmp/adoc.log && printf "pub "
 	printf "...m"
-	ebook-convert $epubdest/$title.epub $mobidest/$title.mobi >/dev/null && printf "obi"
+	ebook-convert $epubdest/$title.epub $mobidest/$title.mobi >>/tmp/adoc.log && printf "obi"
 	
 }
 
@@ -52,6 +52,7 @@ ls -1 $sourcedir |
 		printf "\n"
 	done
 
+printf "....probing $remotebase...."
 [ -d $remotebase ] && rsync -av $destbase/ $remotebase |tee /tmp/rsynclog
 
 exit
