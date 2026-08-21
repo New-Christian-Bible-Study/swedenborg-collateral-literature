@@ -30,6 +30,8 @@
                                  1856.
   __________________________________________________________________
 
+
+////
 Contents:
 
   * Prefatory Explanation.
@@ -54,3 +56,5 @@ Contents:
   * Chapter XVIII. Judges 11:30, 31.
   * Chapter XIX. Judges 11:30, 31. (Part II.)
   * Chapter XX. Judges 11:30, 31. (Part III.)
+
+////
