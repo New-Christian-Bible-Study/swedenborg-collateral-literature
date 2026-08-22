@@ -1,7 +1,7 @@
-= The First Three Kings of Israel
+= The Reign of Saul
 By the Rev. William Bruce - 1879
-include::{docdir}/Kings-Bruce/template-attributes.adoc[]
-
+include::{docdir}/Kings-Bruce/Saul/template-attributes.adoc[]
+Originally Published as part of "The First Three Kings of Israel"
 ////
 Editors notes:
 trying content includes; so far so good
@@ -13,6 +13,6 @@ Going forward, I'm now [proof]reading to maybe find something, and likely force 
 
 //output documents are being published updated
 
-include::{docdir}/Kings-Bruce/title-page.adoc[]
+//include::{docdir}/Kings-Bruce/title-page.adoc[]
 
-include::{docdir}/Kings-Bruce/Introduction.adoc[]
+//include::{docdir}/Kings-Bruce/Introduction.adoc[]

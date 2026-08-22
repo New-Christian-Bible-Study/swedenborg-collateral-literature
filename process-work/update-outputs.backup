@@ -32,7 +32,8 @@ echo "adoc_attrib_docdir: $adoc_attrib_docdir" >>/tmp/adoc.log
 createpdf () {
 #	echo "Creating $pdfdest/$title.pdf from $sourcedir/$title.adoc"
 	printf "...p"
-#	docsource=$(readlink -f $sourcedir/$sourcefile)
+#	docsource=$(realpath $(readlink $sourcedir/$sourcefile))
+	docsource=$(readlink -f $sourcedir/$sourcefile)
 echo "docubase: $docubase" >>/tmp/adoc.log
 echo "attrib: $adoc_attrib_docdir" >>/tmp/adoc.log
 echo "pdfdest: $pdfdest" >>/tmp/adoc.log
@@ -41,16 +42,18 @@ echo "docsource: $docsource" >>/tmp/adoc.log
 #echo "readlink: $(readlink $sourcedir/$sourcefile)"
 #echo "realpath: $(realpath $(readlink $sourcedir/$sourcefile))"
 	asciidoctor-pdf -B $docubase --attribute="$adoc_attrib_docdir" -D $pdfdest $docsource 2>>/tmp/adoc.log && printf "df "
+	modstoupload=$((modstoupload+1))
 	
 }
 
 createepub () {
 #	echo "Creating $epubdest/$title.pdf from $sourcedir/$title.adoc"
 	printf "...e"
-#	docsource=$(readlink $sourcedir/$sourcefile)
+	docsource=$(readlink $sourcedir/$sourcefile)
 	asciidoctor-epub3 -B $docubase -a "$adoc_attrib_docdir" -D $epubdest $docsource 2>>/tmp/adoc.log && printf "pub "
 	printf "...m"
 	ebook-convert $epubdest/$title.epub $mobidest/$title.mobi >>/tmp/adoc.log && printf "obi"
+	modstoupload=$((modstoupload+1))
 	
 }
 
@@ -70,27 +73,28 @@ createepub () {
 
 ls -1 $sourcedir | 
 	while read sourcefile; do
-		docsource=$(readlink -f $sourcedir/$sourcefile) ### accommodation for symlinks in the $sourcedir .../text/ 
 		title=${sourcefile%.*};
 		printf "$title "
 		[ -f $pdfdest/$title.pdf ] || createpdf
 		[ -f $epubdest/$title.epub ] || createepub
-#		sourcetime=$(stat -c %Y $sourcedir/$title.adoc) 2>/dev/null
-		sourcetime=$(stat -c %Y $docsource) 2>/dev/null
+		sourcetime=$(stat -c %Y $sourcedir/$title.adoc) 2>/dev/null
 		pdftime=$(stat -c %Y $pdfdest/$title.pdf) 2>/dev/null
 		epubtime=$(stat -c %Y $epubdest/$title.epub) 2>/dev/null
 		printf ".s=$sourcetime.p=$pdftime.e=$epubtime "
-		[[ $sourcetime -gt $pdftime ]] && createpdf && ((modstoupload+=1))
-		[[ $sourcetime -gt $epubtime ]] && createepub && ((modstoupload+=1))
+		[[ $sourcetime -gt $pdftime ]] && createpdf && modstoupload=$((modstoupload+1))
+		[[ $sourcetime -gt $epubtime ]] && createepub && modstoupload=$((modstoupload+1))
 		printf "\n"
 	done
 echo "mods to upload: $modstoupload"
 
+exit
 
 if [ $modstoupload -gt 0 ]
 	then printf "....probing $remotebase...."
-	[ -d $remotebase ] && rsync -av $destdir/ $remotebase |tee /tmp/rsynclog
+	[ -d $remotebase ] && rsync -av $destbase/ $remotebase |tee /tmp/rsynclog
 else echo "No Updates Found"
 fi
+
+wc -l /tmp/adoc.log /tmp/rsynclog
 
 exit
