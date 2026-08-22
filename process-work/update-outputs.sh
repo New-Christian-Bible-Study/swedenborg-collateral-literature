@@ -5,7 +5,9 @@
 # if exist, compare datestamps, else create
 # 	if adoc last modified, create a new one
 
-localbase=$(pwd)
+#localbase=$(pwd)
+localbase="$(dirname $(readlink -f ${BASH_SOURCE[0]}))"
+
 remotebase='/mnt/gdrive/NCBS/'
 sourcedir=$localbase/../text
 destbase=$localbase/../../publish
@@ -13,12 +15,15 @@ pdfdest=$destbase/pdfs
 epubdest=$destbase/epubs
 mobidest=$destbase/mobis
 
+modstoupload=false
+
 [ -f /tmp/adoc.log ] && rm /tmp/adoc.log
 
 createpdf () {
 #	echo "Creating $pdfdest/$title.pdf from $sourcedir/$title.adoc"
 	printf "...p"
 	asciidoctor-pdf -D $pdfdest $sourcedir/$sourcefile 2>>/tmp/adoc.log && printf "df "
+	modstoupload=true
 	
 }
 
@@ -28,8 +33,18 @@ createepub () {
 	asciidoctor-epub3 -D $epubdest $sourcedir/$sourcefile 2>>/tmp/adoc.log && printf "pub "
 	printf "...m"
 	ebook-convert $epubdest/$title.epub $mobidest/$title.mobi >>/tmp/adoc.log && printf "obi"
+	modstoupload=true
 	
 }
+
+#echo "SCRIPT_PATH: $(readlink -f ${BASH_SOURCE[0]})"
+#echo "script pathonly: $(dirname $(readlink -f ${BASH_SOURCE[0]}))"
+#echo "pwd: $(pwd)" >&2
+#echo "par0: $0" >&2
+#echo "target: $(pwd)/$0" >&2
+#echo "SCRIPT_PATH: ${BASH_SOURCE[0]}" >&2
+echo "localbase: $localbase" >/tmp/adoc.log
+echo "sourcedir: $sourcedir" >>/tmp/adoc.log
 
 
 
@@ -52,7 +67,12 @@ ls -1 $sourcedir |
 		printf "\n"
 	done
 
-printf "....probing $remotebase...."
-[ -d $remotebase ] && rsync -av $destbase/ $remotebase |tee /tmp/rsynclog
+if $modstoupload
+	then printf "....probing $remotebase...."
+	[ -d $remotebase ] && rsync -av $destbase/ $remotebase |tee /tmp/rsynclog
+else echo "No Updates Found"
+fi
+
+wc -l /tmp/adoc.log /tmp/rsynclog
 
 exit

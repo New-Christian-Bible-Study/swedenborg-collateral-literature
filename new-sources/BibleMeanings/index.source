@@ -1,0 +1,270 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Books of the Bible</title>
+<link rel="stylesheet" type="text/css" href="linkstyle.css">
+</head>
+
+<script language="JavaScript" id="_3dbve">
+
+
+<!--
+	window.onerror = null;
+	browserName=navigator.appName;
+	version="";
+	browserVer=parseInt(navigator.appVersion);
+
+	if(browserName=="Netscape" && browserVer >=3) version ="JS compatible";
+	if(browserName=="Microsoft Internet Explorer" && browserVer >=4) version="JS compatible";
+	if (version=="JS compatible")
+	{
+		<!-- RolloverStart -->
+
+		Genesis=new Image(129,43);
+		Genesis.src="Genesis.gif";
+		Genesis_mo=new Image(129,43);
+		Genesis_mo.src="Genesis_mo.gif";
+
+		Genesis_pr=new Image(129,43);
+		Genesis_pr.src="Genesis_pr.gif";
+
+		Exodus=new Image(129,43);
+		Exodus.src="Exodus.gif";
+		Exodus_mo=new Image(129,43);
+		Exodus_mo.src="Exodus_mo.gif";
+
+		Exodus_pr=new Image(129,43);
+		Exodus_pr.src="Exodus_pr.gif";
+
+		Leviticus=new Image(129,43);
+		Leviticus.src="Leviticus.gif";
+		Leviticus_mo=new Image(129,43);
+		Leviticus_mo.src="Leviticus_mo.gif";
+
+		Leviticus_pr=new Image(129,43);
+		Leviticus_pr.src="Leviticus_pr.gif";
+
+        Numbers=new Image(129,43);
+		Numbers.src="Numbers.gif";
+		Numbers_mo=new Image(129,43);
+		Numbers_mo.src="Numbers_mo.gif";
+
+		Numbers_pr=new Image(129,43);
+		Numbers_pr.src="Numbers_pr.gif";
+
+        Deuteronomy=new Image(129,43);
+		Deuteronomy.src="Deuteronomy.gif";
+		Deuteronomy_mo=new Image(129,43);
+		Deuteronomy_mo.src="Deuteronomy_mo.gif";
+
+		Deuteronomy_pr=new Image(129,43);
+		Deuteronomy_pr.src="Deuteronomy_pr.gif";
+
+
+        Judges=new Image(129,43);
+		Judges.src="Judges.gif";
+		Judges_mo=new Image(129,43);
+		Judges_mo.src="Judges_mo.gif";
+
+		Judges_pr=new Image(129,43);
+		Judges_pr.src="Judges_pr.gif";
+
+
+		Psalms=new Image(129,43);
+		Psalms.src="Psalms.gif";
+		Psalms_mo=new Image(129,43);
+		Psalms_mo.src="Psalms_mo.gif";
+
+		Psalms_pr=new Image(129,43);
+		Psalms_pr.src="Psalms_pr.gif";
+
+		Joel=new Image(129,43);
+		Joel.src="Joel.gif";
+		Joel_mo=new Image(129,43);
+		Joel_mo.src="Joel_mo.gif";
+
+		Joel_pr=new Image(129,43);
+		Joel_pr.src="Joel_pr.gif";
+
+		Daniel=new Image(129,43);
+		Daniel.src="Daniel.gif";
+		Daniel_mo=new Image(129,43);
+		Daniel_mo.src="Daniel_mo.gif";
+
+		Daniel_pr=new Image(129,43);
+		Daniel_pr.src="Daniel_pr.gif";
+
+		Parables=new Image(129,43);
+		Parables.src="Parables.gif";
+		Parables_mo=new Image(129,43);
+		Parables_mo.src="Parables_mo.gif";
+
+		Parables_pr=new Image(129,43);
+		Parables_pr.src="Parables_pr.gif";
+
+		Matthew=new Image(129,43);
+		Matthew.src="Matthew.gif";
+		Matthew_mo=new Image(129,43);
+		Matthew_mo.src="Matthew_mo.gif";
+
+		Matthew_pr=new Image(129,43);
+		Matthew_pr.src="Matthew_pr.gif";
+
+		Mark=new Image(129,43);
+		Mark.src="Mark.gif";
+		Mark_mo=new Image(129,43);
+		Mark_mo.src="Mark_mo.gif";
+
+		Mark_pr=new Image(129,43);
+		Mark_pr.src="Mark_pr.gif";
+
+		Luke=new Image(129,43);
+		Luke.src="Luke.gif";
+		Luke_mo=new Image(129,43);
+		Luke_mo.src="Luke_mo.gif";
+
+		Luke_pr=new Image(129,43);
+		Luke_pr.src="Luke_pr.gif";
+
+		John=new Image(129,43);
+		John.src="John.gif";
+		John_mo=new Image(129,43);
+		John_mo.src="John_mo.gif";
+
+		John_pr=new Image(129,43);
+		John_pr.src="John_pr.gif";
+
+		Kings=new Image(129,43);
+		Kings.src="Kings.gif";
+		Kings_mo=new Image(129,43);
+		Kings_mo.src="Kings_mo.gif";
+
+		Kings_pr=new Image(129,43);
+		Kings_pr.src="Kings_pr.gif";
+		
+		Prophets=new Image(129,43);
+		Prophets.src="Prophets.gif";
+		Prophets_mo=new Image(129,43);
+		Prophets_mo.src="Prophets_mo.gif";
+
+		Prophets_pr=new Image(129,43);
+		Prophets_pr.src="Prophets_pr.gif";
+
+		Revelation=new Image(129,43);
+		Revelation.src="Revelation.gif";
+		Revelation_mo=new Image(129,43);
+		Revelation_mo.src="Revelation_mo.gif";
+
+		Revelation_pr=new Image(129,43);
+		Revelation_pr.src="Revelation_pr.gif";
+
+
+		<!-- RolloverStop -->
+
+	}
+
+	function ActiveImageMo(ImageName)
+	{       
+		if (version == "JS compatible")
+		{
+			imgActive = eval(ImageName + "_mo.src");
+			document [ImageName].src=imgActive; 
+		} 
+	}
+
+	function ActiveImagePr(ImageName)
+	{       
+		if (version == "JS compatible")
+		{
+			imgActive = eval(ImageName + "_pr.src");
+			document [ImageName].src=imgActive; 
+		} 
+	}
+
+	function InActiveImage(ImageName)
+	{       
+		if (version == "JS compatible") 
+		{
+			imgInActive = eval(ImageName + ".src");
+			document [ImageName].src = imgInActive;
+		}
+	}
+
+
+//-->
+</script>
+<body>
+
+<center>
+<!--
+<img src="../images/books-ob2.gif" width="50%" height="100" alt="Books of the Bible">
+-->
+
+<img src="images/books-ob3.gif" alt="Books of the Bible"><br>
+<a href="#" target="_top" onclick="this.href='genesis.html'" onmousedown="ActiveImagePr('Genesis')" onmouseup="ActiveImageMo('Genesis')" onmouseover="ActiveImageMo('Genesis')" onmouseout="InActiveImage('Genesis')">
+<img src="Genesis.gif" border="0" alt="Genesis" name="Genesis" width="129" height="43"></a>&nbsp;
+<a href="#" target="_top" onclick="this.href='exodus.html'" onmousedown="ActiveImagePr('Exodus')" onmouseup="ActiveImageMo('Exodus')" onmouseover="ActiveImageMo('Exodus')" onmouseout="InActiveImage('Exodus')">
+<img src="Exodus.gif" border="0" alt="Exodus" name="Exodus" width="129" height="43"></a>
+<a href="#" target="_top" onclick="this.href='leviticus.html'" onmousedown="ActiveImagePr('Leviticus')" onmouseup="ActiveImageMo('Leviticus')" onmouseover="ActiveImageMo('Leviticus')" onmouseout="InActiveImage('Leviticus')">
+<img src="Leviticus.gif" border="0" alt="Leviticus" name="Leviticus" width="129" height="43"></a>
+
+<a href="#" target="_top" onclick="this.href='numbers.html'" onmousedown="ActiveImagePr('Numbers')" onmouseup="ActiveImageMo('Numbers')" onmouseover="ActiveImageMo('Numbers')" onmouseout="InActiveImage('Numbers')">
+<img src="Numbers.gif" border="0" alt="Numbers" name="Numbers" width="129" height="43"></a>
+
+<a href="#" target="_top" onclick="this.href='deuteronomy.html'" onmousedown="ActiveImagePr('Deuteronomy')" onmouseup="ActiveImageMo('Deuteronomy')" onmouseover="ActiveImageMo('Deuteronomy')" onmouseout="InActiveImage('Deuteronomy')">
+<img src="Deuteronomy.gif" border="0" alt="Deuteronomy" name="Deuteronomy" width="129" height="43"></a>
+
+<a href="#" target="_top" onclick="this.href='Judges/index.html'" onmousedown="ActiveImagePr('Judges')" onmouseup="ActiveImageMo('Judges')" onmouseover="ActiveImageMo('Judges')" onmouseout="InActiveImage('Judges')">
+<img src="Judges.gif" border="0" alt="Judges" name="Judges" width="129" height="43"></a> 
+<br>
+<a href="#" target="_top" onclick="this.href='kings.html'" onmousedown="ActiveImagePr('Kings')" onmouseup="ActiveImageMo('Kings')" onmouseover="ActiveImageMo('Kings')" onmouseout="InActiveImage('Kings')">
+<img src="Kings.gif" border="0" alt="Kings" name="Kings" width="129" height="43"></a>
+
+<a href="#" target="_top" onclick="this.href='psalms.html'" onmousedown="ActiveImagePr('Psalms')" onmouseup="ActiveImageMo('Psalms')" onmouseover="ActiveImageMo('Psalms')" onmouseout="InActiveImage('Psalms')">
+<img src="Psalms.gif" border="0" alt="Psalms" name="Psalms" width="129" height="43"></a>
+
+<a href="#" target="_top" onclick="this.href='pp/prophets.html'" onmousedown="ActiveImagePr('Prophets')" onmouseup="ActiveImageMo('Prophets')" onmouseover="ActiveImageMo('Prophets')" onmouseout="InActiveImage('Prophets')">
+<img src="Prophets.gif" border="0" alt="Prophets" name="Prophets" width="129" height="43"></a>
+
+<a href="#" target="_top" onclick="this.href='daniel.html'" onmousedown="ActiveImagePr('Daniel')" onmouseup="ActiveImageMo('Daniel')" onmouseover="ActiveImageMo('Daniel')" onmouseout="InActiveImage('Daniel')">
+<img src="Daniel.gif" border="0" alt="Daniel" name="Daniel" width="129" height="43"></a>
+
+<a href="#" target="_top" onclick="this.href='joel.html'" onmousedown="ActiveImagePr('Joel')" onmouseup="ActiveImageMo('Joel')" onmouseover="ActiveImageMo('Joel')" onmouseout="InActiveImage('Joel')">
+<img src="Joel.gif" border="0" alt="Joel" name="Joel" width="129" height="43"></a>
+
+<a href="#" target="_top" onclick="this.href='../Parables.html'" onmousedown="ActiveImagePr('Parables')" onmouseup="ActiveImageMo('Parables')" onmouseover="ActiveImageMo('Parables')" onmouseout="InActiveImage('Parables')">
+<img src="Parables.gif" border="0" alt="Parables" name="Parables" width="129" height="43"></a>
+<br>
+<a href="#" target="_top" onclick="this.href='matthew.html'" onmousedown="ActiveImagePr('Matthew')" onmouseup="ActiveImageMo('Matthew')" onmouseover="ActiveImageMo('Matthew')" onmouseout="InActiveImage('Matthew')">
+<img src="Matthew.gif" border="0" alt="Matthew" name="Matthew" width="129" height="43"></a>
+
+<a href="#" target="_top" onclick="this.href='mark.html'" onmousedown="ActiveImagePr('Mark')" onmouseup="ActiveImageMo('Mark')" onmouseover="ActiveImageMo('Mark')" onmouseout="InActiveImage('Mark')">
+<img src="Mark.gif" border="0" alt="Mark" name="Mark" width="129" height="43"></a>
+
+<a href="#" target="_top" onclick="this.href='luke.html'" onmousedown="ActiveImagePr('Luke')" onmouseup="ActiveImageMo('Luke')" onmouseover="ActiveImageMo('Luke')" onmouseout="InActiveImage('Luke')">
+<img src="Luke.gif" border="0" alt="Luke" name="Luke" width="129" height="43"></a>
+
+<a href="#" target="_top" onclick="this.href='john.html'" onmousedown="ActiveImagePr('John')" onmouseup="ActiveImageMo('John')" onmouseover="ActiveImageMo('John')" onmouseout="InActiveImage('John')">
+<img src="John.gif" border="0" alt="John" name="John" width="129" height="43"></a>
+
+<a href="#" target="_top" onclick="this.href='revelation.html'" onmousedown="ActiveImagePr('Revelation')" onmouseup="ActiveImageMo('Revelation')" onmouseover="ActiveImageMo('Revelation')" onmouseout="InActiveImage('Revelation')">
+<img src="Revelation.gif" border="0" alt=" Revelation" name="Revelation" width="129" height="43"></a><br>
+
+<font face="Arial"><b><a href="Hoeck/index.html">Overview</a></b></font> <br>
+<!-- Google CSE Search Box Begins  -->
+<form action="https://www.biblemeanings.info/searches.htm" id="searchbox_000116437036334749272:sqpwqg3raru">
+	<input type="hidden" name="cx" value="000116437036334749272:sqpwqg3raru" />
+	<input type="hidden" name="cof" value="FORID:9" />
+	<input type="text" name="q" size="40" />
+	<input type="submit" name="sa" value="Search" />
+</form>
+<script type="text/javascript" src="https://www.google.com/coop/cse/brand?form=searchbox_000116437036334749272%3Asqpwqg3raru&lang=en"></script>
+<!-- Google CSE Search Box Ends -->
+</center>
+
+</body>
+
+</html>

@@ -1,0 +1,18 @@
+= The First Three Kings of Israel
+By the Rev. William Bruce - 1879
+include::Kings-Bruce/template-attributes.adoc[]
+
+////
+Editors notes:
+trying content includes; so far so good
+will need to style/format the front page for sure
+
+This text source had extremely few spelling problems and no apparently unreadable sections.
+Going forward, I'm now [proof]reading to maybe find something, and likely force a paragraph break
+////
+
+//output documents are being published updated
+
+include::Kings-Bruce/title-page.adoc[]
+
+include::Kings-Bruce/Introduction.adoc[]

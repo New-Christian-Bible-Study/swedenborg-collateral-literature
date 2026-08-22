@@ -1,1 +1,66 @@
-../Judges-Noble/Book_of_Judges-Noble.adoc
+= Book of Judges
+By the Rev. Samuel Nobel - 1856
+include::{docdir}/Judges-Noble/template-attributes.adoc[]
+
+{docdir} +
+{docfile}
+
+
+////
+Editors notes:
+trying content includes; so far so good
+will need to style/format the front page for sure
+
+This text source had extremely few spelling problems and no apparently unreadable sections.
+Going forward, I'm now [proof]reading to maybe find something, and likely force a paragraph break
+////
+
+//output documents are being published updated
+
+// use {attribuite} 'docdir' for includes
+
+
+include::{docdir}/Judges-Noble/index.adoc[]
+
+include::{docdir}/Judges-Noble/Preface.adoc[]
+
+include::{docdir}/Judges-Noble/Preliminary.adoc[]
+
+include::{docdir}/Judges-Noble/ch1.adoc[]
+include::{docdir}/Judges-Noble/ch2.adoc[]
+include::{docdir}/Judges-Noble/ch3.adoc[]
+
+include::{docdir}/Judges-Noble/ch4.adoc[]
+
+include::{docdir}/Judges-Noble/ch5.adoc[]
+
+include::{docdir}/Judges-Noble/ch6.adoc[]
+
+include::{docdir}/Judges-Noble/ch7.adoc[]
+
+include::{docdir}/Judges-Noble/ch8.adoc[]
+
+include::{docdir}/Judges-Noble/ch9.adoc[]
+
+include::{docdir}/Judges-Noble/ch10.adoc[]
+
+include::{docdir}/Judges-Noble/ch11.adoc[]
+
+include::{docdir}/Judges-Noble/ch12.adoc[]
+
+include::{docdir}/Judges-Noble/ch13.adoc[]
+
+include::{docdir}/Judges-Noble/ch14.adoc[]
+
+include::{docdir}/Judges-Noble/ch15.adoc[]
+
+include::{docdir}/Judges-Noble/ch16.adoc[]
+
+include::{docdir}/Judges-Noble/ch17.adoc[]
+
+include::{docdir}/Judges-Noble/ch18.adoc[]
+
+include::{docdir}/Judges-Noble/ch19.adoc[]
+
+include::{docdir}/Judges-Noble/ch20.adoc[]
+

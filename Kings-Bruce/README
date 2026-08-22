@@ -1,0 +1,23 @@
+
+Source: https://www.biblemeanings.info/Bible/kings.html
+
+also at: https://newchristianbiblestudy.org/bundles/ncbsw/translation/first-three-kings-of-israel-bruce.pdf
+
+This particular PDF was created by LibreWriter in Apr'2017 so there is a text source somewhere.
+
+Neither of the pdf interpreters I used could create a text file which retain the line/paragraph structure at all, ... with this particular sourcefile.
+
+The html source extracted perfectly.
+There is unicode 'ef bf bd'
+U+FFFD REPLACEMENT CHARACTER
+UTF-8: ef bf bd UTF-16BE: fffd Decimal: &#65533; Octal: \0177775
+Search \ufffd in VSCode ... Replace with space--space ' -- '
+can later reduce double spaces to single : 
+
+
+
+
+The file Introduction.adoc is from ...Saul/pt0.htm
+
+
+
