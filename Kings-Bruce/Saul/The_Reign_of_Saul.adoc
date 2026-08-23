@@ -5,7 +5,15 @@ include::{docdir}/Kings-Bruce/Saul/template-attributes.adoc[]
 
 Originally Published as part of "The First Three Kings of Israel"
 
+{doctitle} + 
+{author}
 
+Edited and Printed by NCBS + 
+from best available representations of original manuscript.
+
+[.text-right]
+//Last Revised {docdate}
+_Currently being edited_ -- {docdate}
 
 ////
 Editors notes: trying content includes; so far so good will need to style/format the front page for sure
