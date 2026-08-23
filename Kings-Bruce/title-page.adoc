@@ -1,4 +1,7 @@
 
+<<<
+---
+
 [.text-center]
 THE FIRST THREE KINGS +
 OF ISRAEL
@@ -17,3 +20,5 @@ ETC.
 JAMES   SPEIRS +
 36 BLOOMSBURY STREET, LONDON +
 1879
+
+___

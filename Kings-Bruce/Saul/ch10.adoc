@@ -1,9 +1,7 @@
-10
-     previous  -  next  -  BM Home  -  Full Page
 
-Saul, part 10
-
-                         David's Victory Over Goliath,
+<<<
+---
+=== David's Victory Over Goliath,
 
 1 Samuel 17
 
@@ -531,4 +529,5 @@ king, but the hero of a great conflict. He had slain the terrible warrior and
 scattered the hosts of the enemy; and he came into Saul's presence with the head
 of the giant in his hand as a sign of his irresistible power, which was soon to
 shake the heart of the king himself.
-10    previous  -  next  -  BM Home  -  Full Page
+
+
