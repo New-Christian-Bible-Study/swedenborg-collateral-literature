@@ -1,0 +1,40 @@
+= The Reign of Saul
+By the Rev. William Bruce - 1879
+include::{docdir}/Kings-Bruce/Saul/template-attributes.adoc[] 
+
+
+Originally Published as part of "The First Three Kings of Israel"
+
+
+
+////
+Editors notes: trying content includes; so far so good will need to style/format the front page for sure
+
+This text source had extremely few spelling problems and no apparently unreadable sections. Going forward, I'm now [proof]reading to maybe find something, and likely force a paragraph break
+////
+
+//output documents are being published updated
+
+include::{docdir}/Kings-Bruce/Saul/ch1.adoc[]
+include::{docdir}/Kings-Bruce/Saul/ch2.adoc[]
+include::{docdir}/Kings-Bruce/Saul/ch3.adoc[]
+include::{docdir}/Kings-Bruce/Saul/ch4.adoc[]
+include::{docdir}/Kings-Bruce/Saul/ch5.adoc[]
+include::{docdir}/Kings-Bruce/Saul/ch6.adoc[]
+include::{docdir}/Kings-Bruce/Saul/ch7.adoc[]
+include::{docdir}/Kings-Bruce/Saul/ch8.adoc[]
+include::{docdir}/Kings-Bruce/Saul/ch9.adoc[]
+include::{docdir}/Kings-Bruce/Saul/ch10.adoc[]
+include::{docdir}/Kings-Bruce/Saul/ch11.adoc[]
+include::{docdir}/Kings-Bruce/Saul/ch12.adoc[]
+include::{docdir}/Kings-Bruce/Saul/ch13.adoc[]
+include::{docdir}/Kings-Bruce/Saul/ch14.adoc[]
+include::{docdir}/Kings-Bruce/Saul/ch15.adoc[]
+include::{docdir}/Kings-Bruce/Saul/ch16.adoc[]
+include::{docdir}/Kings-Bruce/Saul/ch17.adoc[]
+include::{docdir}/Kings-Bruce/Saul/ch18.adoc[]
+include::{docdir}/Kings-Bruce/Saul/ch19.adoc[]
+include::{docdir}/Kings-Bruce/Saul/ch20.adoc[]
+include::{docdir}/Kings-Bruce/Saul/ch21.adoc[]
+include::{docdir}/Kings-Bruce/Saul/ch22.adoc[]
+include::{docdir}/Kings-Bruce/Saul/ch23.adoc[]

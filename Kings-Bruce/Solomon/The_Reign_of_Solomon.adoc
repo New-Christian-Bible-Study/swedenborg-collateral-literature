@@ -1,0 +1,34 @@
+= The Reign of Solomon
+By the Rev. William Bruce - 1879
+include::{docdir}/Kings-Bruce/Solomon/template-attributes.adoc[] 
+
+Originally Published as part of "The First Three Kings of Israel"
+////
+Editors notes: trying content includes; so far so good will need to style/format the front page for sure
+
+This text source had extremely few spelling problems and no apparently unreadable sections. Going forward, I'm now [proof]reading to maybe find something, and likely force a paragraph break
+////
+
+//output documents are being published updated
+
+
+include::{docdir}/Kings-Bruce/Solomon/ch1.adoc[]
+include::{docdir}/Kings-Bruce/Solomon/ch2.adoc[]
+include::{docdir}/Kings-Bruce/Solomon/ch3.adoc[]
+include::{docdir}/Kings-Bruce/Solomon/ch4.adoc[]
+include::{docdir}/Kings-Bruce/Solomon/ch5.adoc[]
+include::{docdir}/Kings-Bruce/Solomon/ch6.adoc[]
+include::{docdir}/Kings-Bruce/Solomon/ch7.adoc[]
+include::{docdir}/Kings-Bruce/Solomon/ch8.adoc[]
+include::{docdir}/Kings-Bruce/Solomon/ch9.adoc[]
+include::{docdir}/Kings-Bruce/Solomon/ch10.adoc[]
+include::{docdir}/Kings-Bruce/Solomon/ch11.adoc[]
+include::{docdir}/Kings-Bruce/Solomon/ch12.adoc[]
+include::{docdir}/Kings-Bruce/Solomon/ch13.adoc[]
+include::{docdir}/Kings-Bruce/Solomon/ch14.adoc[]
+include::{docdir}/Kings-Bruce/Solomon/ch15.adoc[]
+include::{docdir}/Kings-Bruce/Solomon/ch16.adoc[]
+include::{docdir}/Kings-Bruce/Solomon/ch17.adoc[]
+include::{docdir}/Kings-Bruce/Solomon/ch18.adoc[]
+include::{docdir}/Kings-Bruce/Solomon/ch19.adoc[]
+include::{docdir}/Kings-Bruce/Solomon/ch20.adoc[]

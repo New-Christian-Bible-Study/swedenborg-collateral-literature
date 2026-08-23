@@ -40,7 +40,7 @@ echo "d/f: $sourcedir/$sourcefile" >>/tmp/adoc.log
 echo "docsource: $docsource" >>/tmp/adoc.log
 #echo "readlink: $(readlink $sourcedir/$sourcefile)"
 #echo "realpath: $(realpath $(readlink $sourcedir/$sourcefile))"
-	asciidoctor-pdf -B $docubase --attribute="$adoc_attrib_docdir" -D $pdfdest $docsource 2>>/tmp/adoc.log && printf "df "
+	asciidoctor-pdf -B $docubase --attribute="$adoc_attrib_docdir" -D $pdfdest -o $title.pdf $docsource 2>>/tmp/adoc.log && printf "df "
 	
 }
 
@@ -48,7 +48,7 @@ createepub () {
 #	echo "Creating $epubdest/$title.pdf from $sourcedir/$title.adoc"
 	printf "...e"
 #	docsource=$(readlink $sourcedir/$sourcefile)
-	asciidoctor-epub3 -B $docubase -a "$adoc_attrib_docdir" -D $epubdest $docsource 2>>/tmp/adoc.log && printf "pub "
+	asciidoctor-epub3 -B $docubase -a "$adoc_attrib_docdir" -D $epubdest -o $title.epub $docsource 2>>/tmp/adoc.log && printf "pub "
 	printf "...m"
 	ebook-convert $epubdest/$title.epub $mobidest/$title.mobi >>/tmp/adoc.log && printf "obi"
 	
@@ -68,11 +68,15 @@ createepub () {
 [ -d $sourcedir ] || { echo "Directory $sourcedir not found"; exit; }
 [ -d $epubdest ] || { echo "Directory $epubdest not found"; exit; }
 
-declare -i modstoupload=0
+declare -i modstoupload=1
+## I honestly don't understand why I've been unable to set this on condition when intilized as 0 ????
 
 ls -1 $sourcedir | 
 	while read sourcefile; do
 		docsource=$(readlink -f $sourcedir/$sourcefile) ### accommodation for symlinks in the $sourcedir .../text/ 
+		docfile=${docsource##*/}
+		doctitle=${docfile%.*}
+#		title=$doctitle
 		title=${sourcefile%.*};
 		printf "$title "
 		[ -f $pdfdest/$title.pdf ] || createpdf

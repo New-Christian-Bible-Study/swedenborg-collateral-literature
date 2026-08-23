@@ -16,3 +16,12 @@ Going forward, I'm now [proof]reading to maybe find something, and likely force 
 include::{docdir}/Kings-Bruce/title-page.adoc[]
 
 include::{docdir}/Kings-Bruce/Introduction.adoc[]
+
+// == The Reign of Saul
+include::{docdir}/Kings-Bruce/Saul/The_Reign_of_Saul.adoc[]
+
+// == The Reign of David
+include::{docdir}/Kings-Bruce/David/The_Reign_of_David.adoc[]
+
+// == The Reign of Solomon
+include::{docdir}/Kings-Bruce/Solomon/The_Reign_of_Solomon.adoc[]
