@@ -6,7 +6,7 @@
 # 	if adoc last modified, create a new one
 
 [ -f /tmp/adoc.log ] && rm /tmp/adoc.log
-declare -i modstoupload=0
+#declare -i modstoupload=0
 
 #localbase=$(pwd)
 remotebase='/mnt/gdrive/NCBS/'
@@ -68,6 +68,8 @@ createepub () {
 [ -d $sourcedir ] || { echo "Directory $sourcedir not found"; exit; }
 [ -d $epubdest ] || { echo "Directory $epubdest not found"; exit; }
 
+declare -i modstoupload=0
+
 ls -1 $sourcedir | 
 	while read sourcefile; do
 		docsource=$(readlink -f $sourcedir/$sourcefile) ### accommodation for symlinks in the $sourcedir .../text/ 
@@ -80,8 +82,10 @@ ls -1 $sourcedir |
 		pdftime=$(stat -c %Y $pdfdest/$title.pdf) 2>/dev/null
 		epubtime=$(stat -c %Y $epubdest/$title.epub) 2>/dev/null
 		printf ".s=$sourcetime.p=$pdftime.e=$epubtime "
-		[[ $sourcetime -gt $pdftime ]] && createpdf && ((modstoupload+=1))
-		[[ $sourcetime -gt $epubtime ]] && createepub && ((modstoupload+=1))
+#		[[ $sourcetime -gt $pdftime ]] && createpdf && modstoupload=1 #((modstoupload+=1))
+		if [ $sourcetime -gt $pdftime ]; then createpdf; modstoupload=1; fi #((modstoupload+=1))
+		if [ $sourcetime -gt $epubtime ]; then createepub; modstoupload=1; fi #((modstoupload+=1))
+#		[[ $sourcetime -gt $epubtime ]] && createepub && modstoupload=1 #((modstoupload+=1))
 		printf "\n"
 	done
 echo "mods to upload: $modstoupload"
