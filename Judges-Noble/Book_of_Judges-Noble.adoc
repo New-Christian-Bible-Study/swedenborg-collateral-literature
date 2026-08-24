@@ -11,7 +11,7 @@ trying content includes; so far so good
 will need to style/format the front page for sure
 
 This text source had extremely few spelling problems and no apparently unreadable sections.
-Going forward, I'm now [proof]reading to maybe find something, and maybe force a paragraph break
+Going forward, I'm now [proof]reading to maybe find something, and definitely forcing paragraph breaks
 ////
 
 //output documents are being published updated
