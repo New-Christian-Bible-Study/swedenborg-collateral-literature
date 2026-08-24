@@ -11,6 +11,7 @@ This text source had extremely few spelling problems and no apparently unreadabl
 
 //output documents are being published updated
 
+== {empty}
 
 include::{docdir}/Kings-Bruce/Solomon/ch1.adoc[]
 include::{docdir}/Kings-Bruce/Solomon/ch2.adoc[]

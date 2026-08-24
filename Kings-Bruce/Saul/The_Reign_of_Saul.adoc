@@ -1,19 +1,9 @@
 = The Reign of Saul
 By the Rev. William Bruce - 1879
 include::{docdir}/Kings-Bruce/Saul/template-attributes.adoc[] 
-
+:toclevels: 3
 
 Originally Published as part of "The First Three Kings of Israel"
-
-{doctitle} + 
-{author}
-
-Edited and Printed by NCBS + 
-from best available representations of original manuscript.
-
-[.text-right]
-//Last Revised {docdate}
-_Currently being edited_ -- {docdate}
 
 ////
 Editors notes: trying content includes; so far so good will need to style/format the front page for sure
@@ -22,6 +12,8 @@ This text source had extremely few spelling problems and no apparently unreadabl
 ////
 
 //output documents are being published updated
+
+== {empty}
 
 include::{docdir}/Kings-Bruce/Saul/ch1.adoc[]
 include::{docdir}/Kings-Bruce/Saul/ch2.adoc[]
