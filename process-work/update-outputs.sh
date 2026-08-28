@@ -86,10 +86,8 @@ ls -1 $sourcedir |
 		pdftime=$(stat -c %Y $pdfdest/$title.pdf) 2>/dev/null
 		epubtime=$(stat -c %Y $epubdest/$title.epub) 2>/dev/null
 		printf ".s=$sourcetime.p=$pdftime.e=$epubtime "
-#		[[ $sourcetime -gt $pdftime ]] && createpdf && modstoupload=1 #((modstoupload+=1))
-		if [ $sourcetime -gt $pdftime ]; then createpdf; modstoupload=1; fi #((modstoupload+=1))
-		if [ $sourcetime -gt $epubtime ]; then createepub; modstoupload=1; fi #((modstoupload+=1))
-#		[[ $sourcetime -gt $epubtime ]] && createepub && modstoupload=1 #((modstoupload+=1))
+		if [ $sourcetime -gt $pdftime ]; then createpdf; modstoupload=$((modstoupload+1)); fi
+		if [ $sourcetime -gt $epubtime ]; then createepub; fi #((modstoupload+=1))
 		printf "\n"
 	done
 echo "mods to upload: $modstoupload"
