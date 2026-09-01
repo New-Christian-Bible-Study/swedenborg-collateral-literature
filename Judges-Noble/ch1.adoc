@@ -1,7 +1,19 @@
+////
+= Book of Judges - Sermon 1
+By the Rev. Samuel Nobel - 1856
+include::{docdir}/Judges-Noble/template-attributes.adoc[]
+:fullbook:
+ifndef::fullbook[]
+Single sermon from the published combined volume.
+include::{docdir}/Judges-Noble/Preface.adoc[]
+include::{docdir}/Judges-Noble/Preliminary.adoc[]
+endif::[]
+//conditional upon this chapter being printed outside of the book; i.e conditional upon NOT being included as part of the full book
+////
 
 <<<
 ---
-== Chapter I. Judges 1:1-7
+== Sermon I. Judges 1:1-7
 
 "_Now after the death of Joshua it came to pass, that the children of Israel asked the Lord, saying, Who shall go up for us against the Canaanites first, to fight against them? And the Lord said, Judah shall go up: behold, I have delivered the land into his hand. And Judah said unto Simeon his brother, Come up with me into my lot, that we may fight against the Canaanites: and I likewise will go with thee into thy lot. So Simeon went with him. And Judah went up; and the Lord delivered the Canaanites and the Perizzites into their hand; and they slew of them in Bezek ten thousand men. And they found Adoni-bezek in Bezek: and they fought against him, and they slew the Canaanites and the Perizzites. But Adoni-bezek fled; and they pursued after him, and caught him, and cut off his thumbs and his great toes. And Adoni-bezek said, Threescore and ten kings, having their thumbs and their great toes cut off, gathered their meat under my table: as I have done, so hath God requited me. And they brought him to Jerusalem, and there he died._" (Judges 1:1-7)
 

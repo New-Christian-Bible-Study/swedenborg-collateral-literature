@@ -1,9 +1,12 @@
 = Book of Judges
 By the Rev. Samuel Nobel - 1856
 include::{docdir}/Judges-Noble/template-attributes.adoc[]
+:fullbook:
 
 //{docdir} +
 //{docfile}
+
+
 
 ////
 Editors notes:
