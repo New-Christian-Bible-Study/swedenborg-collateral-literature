@@ -17,8 +17,6 @@ This text source had extremely few spelling problems and no apparently unreadabl
 Going forward, I'm now [proof]reading to maybe find something, and definitely forcing paragraph breaks
 ////
 
-//output documents are being published updated
-
 // use {attribuite} 'docdir' for includes
 
 

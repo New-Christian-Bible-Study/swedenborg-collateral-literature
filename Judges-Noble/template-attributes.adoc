@@ -25,8 +25,8 @@ Edited and Printed by NCBS +
 from best available representations of original manuscript.
 
 [.text-right]
-//Last Revised {docdate}
-_Currently being edited_ -- {docdate}
+Last Revised {docdate}
+//_Currently being edited_ -- {docdate}
 
 ////
 I've decided against forcing a pagebreak after this header;
