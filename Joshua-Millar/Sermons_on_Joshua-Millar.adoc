@@ -1,0 +1,31 @@
+= Sermons on Joshua
+By the Rev. David Millar
+include::{docdir}/Joshua-Millar/template-attributes.adoc[]
+:fullbook:
+
+// use {attribuite} 'docdir' for includes
+
+---
+<<<
+
+include::{docdir}/Joshua-Millar/introduction.adoc[]
+
+
+include::{docdir}/Joshua-Millar/01-The Great Commission (1:1-9).adoc[]
+include::{docdir}/Joshua-Millar/02-Preparations For Entering The Land (1:10-18).adoc[]
+include::{docdir}/Joshua-Millar/03-Bringing Reuben, Gad And Manasseh To The Fight (1:12-18).adoc[]
+include::{docdir}/Joshua-Millar/04-Spies Sent Forth From Shittim (2:1-6).adoc[]
+include::{docdir}/Joshua-Millar/05-The Tendency To Own Good And Claim Merit (2:1-6).adoc[]
+include::{docdir}/Joshua-Millar/06-Rahab – An Affection For Truth From The Word (2:4-11).adoc[]
+include::{docdir}/Joshua-Millar/07-Following The Ark Of The Covenant (3:1-5).adoc[]
+include::{docdir}/Joshua-Millar/08-To The Edge Of The Jordan (3:5-17).adoc[]
+include::{docdir}/Joshua-Millar/09-The Inner Meaning Of The Canaanites (3:9-11).adoc[]
+include::{docdir}/Joshua-Millar/10-Stones Of Remembrance (4:1-3 & 8-9).adoc[]
+include::{docdir}/Joshua-Millar/11-Rolling Away The Reproach Of The Past (5).adoc[]
+include::{docdir}/Joshua-Millar/12-The Destruction Of Jericho (6).adoc[]
+include::{docdir}/Joshua-Millar/13-Defeat At Ai (7).adoc[]
+include::{docdir}/Joshua-Millar/14-Ai Overcome (8).adoc[]
+include::{docdir}/Joshua-Millar/15-The Deception Of The Gibeonites (9).adoc[]
+include::{docdir}/Joshua-Millar/16-Dealing With Adoni-Zedek (10).adoc[]
+
+
