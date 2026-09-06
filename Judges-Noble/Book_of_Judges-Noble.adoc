@@ -7,7 +7,6 @@ include::{docdir}/Judges-Noble/template-attributes.adoc[]
 //{docfile}
 
 
-
 ////
 Editors notes:
 trying content includes; so far so good
