@@ -14,12 +14,22 @@
 // Uncomment next line to set page size (default is A4)
 :pdf-page-size: Letter
 // end of template attributes
+ifndef::fullbook[]
+:doctype: article
+:!toc:
+endif::[]
+// end of template attributes
+// == end of document header
 
 {empty}
 
 // Begin inserting frontpiece text
+ifdef::fullbook[]
+
 {doctitle} +
 {author}
+
+endif::[]
 
 Edited and Printed by NCBS +
 from best available representations of original manuscript.

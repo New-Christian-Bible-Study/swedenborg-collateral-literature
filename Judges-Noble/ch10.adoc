@@ -1,3 +1,10 @@
+ifndef::fullbook[]
+= Book of Judges - Sermon 10
+By the Rev. Samuel Nobel - 1856
+include::{docdir}/Judges-Noble/template-attributes.adoc[]
+Single sermon from the published volume.
+endif::[]
+
 
 <<<
 ---
