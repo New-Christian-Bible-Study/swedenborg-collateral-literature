@@ -18,7 +18,7 @@ endif::[]
 
 == 01. The Great Commission (1:1-9)
 
-The first reading that we'll start with is from the book of Joshua,    verses 1-9.
+The first reading that we'll start with is from the book of Joshua, verses 1-9.
 
   And it happened after the death of Moses the servant of Jehovah, Jehovah spoke to Joshua the son of Nun, Moses' minister, saying,
   My servant Moses is dead. And now rise up, cross over this Jordan, you and all this people, to the land which I am giving to them, to the sons of Israel.
