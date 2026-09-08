@@ -1,6 +1,8 @@
 = Sermons on Joshua 
-By the Rev. David Millar include::{docdir}/Joshua-Millar/template-attributes.adoc[]
+By the Rev. David Millar
 :fullbook:
+include::{docdir}/Joshua-Millar/template-attributes.adoc[]
+
 
 // use {attribuite} 'docdir' for includes
 
@@ -15,7 +17,7 @@ include::{docdir}/Joshua-Millar/02-Preparations For Entering The Land (1:10-18).
 include::{docdir}/Joshua-Millar/03-Bringing Reuben, Gad And Manasseh To The Fight (1:12-18).adoc[]
 include::{docdir}/Joshua-Millar/04-Spies Sent Forth From Shittim (2:1-6).adoc[]
 include::{docdir}/Joshua-Millar/05-The Tendency To Own Good And Claim Merit (2:1-6).adoc[]
-include::{docdir}/Joshua-Millar/06-Rahab -- An Affection For Truth From The Word (2:4-11).adoc[]
+include::{docdir}/Joshua-Millar/06-Rahab - An Affection For Truth From The Word (2:4-11).adoc[]
 include::{docdir}/Joshua-Millar/07-Following The Ark Of The Covenant (3:1-5).adoc[]
 include::{docdir}/Joshua-Millar/08-To The Edge Of The Jordan (3:5-17).adoc[]
 include::{docdir}/Joshua-Millar/09-The Inner Meaning Of The Canaanites (3:9-11).adoc[]
