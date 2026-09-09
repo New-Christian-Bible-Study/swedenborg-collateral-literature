@@ -1,0 +1,9 @@
+
+i.e.:
+
+curl https://logopraxis-institute.online/preparations-for-entering-the-land-jos-110-18/ |pandoc -f html -t asciidoc -o ch2.adoc
+
+followed with grep -P "[ \"\n(]_[^_]+_[ \"\n;.,)]"  to highlight italics
+
+
+

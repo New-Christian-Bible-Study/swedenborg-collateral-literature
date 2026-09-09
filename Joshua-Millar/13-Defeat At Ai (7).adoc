@@ -11,9 +11,12 @@ Republished [with permission?] by NCBS +
 
 endif::[]
 
-
 ---
+ifdef::fullbook[]
 <<<
+endif::[]
+
+
 
 
 == 13. Defeat At Ai (7)
@@ -26,9 +29,9 @@ endif::[]
 
   "Jehovah said unto Joshua, Israel hath sinned, they have transgressed My covenant which I commanded them; and they have taken of the accursed thing, and have stolen, lied, and have put it among their vessels" (Josh. 7:10-11, 21, 25);
 
-  by “accursed things” were meant falsities and evils, which were in no wise to be mixed up with holy things; the “mantle of Shinar(Babylon), shekels of silver, and wedge of gold” are in the spiritual sense species of falsity; “hiding them under the earth in the midst of the tent” signified a commixture with holy things. (That a “tent” denotes what is holy may be seen above, n. 414, 1102, 1566, 2145, 2152, 3312, 4128, 4391, 4599.) These things were signified by Israel's “stealing, lying, and putting it among their vessels;” for “vessels” are holy truths (see n. 3068, 3079, 3316, 3318)
+  by "accursed things" were meant falsities and evils, which were in no wise to be mixed up with holy things; the "mantle of Shinar(Babylon), shekels of silver, and wedge of gold" are in the spiritual sense species of falsity; "hiding them under the earth in the midst of the tent" signified a commixture with holy things. (That a "tent" denotes what is holy may be seen above, n. 414, 1102, 1566, 2145, 2152, 3312, 4128, 4391, 4599.) These things were signified by Israel's "stealing, lying, and putting it among their vessels;" for "vessels" are holy truths (see n. 3068, 3079, 3316, 3318)
 
-  … a “thief” denotes the evil of merit; for he who takes away from the Lord what is His, and claims it for himself, is called a “thief.” As this evil closes the way and prevents good and truth from the Lord from flowing in,
+  … a "thief" denotes the evil of merit; for he who takes away from the Lord what is His, and claims it for himself, is called a "thief." As this evil closes the way and prevents good and truth from the Lord from flowing in,
   (Arcana Coelestia 5135{6&12})
 
 ---
@@ -42,8 +45,8 @@ They were dire for the thirty six men that lost their lives as they fled from be
 
   And Joshua, and all Israel with him, took Achan the son of Zerah, and the silver, and the robe, and the wedge of gold, and his sons, and his daughters, and his oxen, and his ass, and his flock, and his tent, and all that he had. And they made them go up to the valley of Achor. And Joshua said, How you have troubled us! Jehovah shall trouble you today! And all Israel threw stones at him, and they burned them with fire, and they stoned them with stones.
 
-All because Achan lusted after the spoil of Jericho. Now it's interesting that the name Achan means “troubler“, so it's appropriate,
-and it comes from a root Hebrew word which means “to pervert or to make crooked.” And so what he represents is a deep-seated tendency within our proprium to claim what is of the Lord for ourselves. And when we get a hold of this, then the story begins to fit together.
+All because Achan lusted after the spoil of Jericho. Now it's interesting that the name Achan means "troubler", so it's appropriate,
+and it comes from a root Hebrew word which means "to pervert or to make crooked." And so what he represents is a deep-seated tendency within our proprium to claim what is of the Lord for ourselves. And when we get a hold of this, then the story begins to fit together.
 
 Achan is an Israelite, like all the other Israelites around him. He is in the midst of the sons of Israel, he doesn't stand out for all intensive purposes. He looks no different to anyone else. He blends in well as does the tendency to claim what is of the Lord for ourselves and thus like Achan, this tendency is difficult to see as it is in the midst of what the sons of Israel represent which are the truths that teach what spiritual life is all about. And so Achan as this tendency to claim what is of the Lord for ourselves, surrounds itself with what looks legitimate, belonging to the spiritual life. It goes unnoticed because it sits within our efforts to do good and to think what is true as we look to love the Lord and love our neighbour.
 

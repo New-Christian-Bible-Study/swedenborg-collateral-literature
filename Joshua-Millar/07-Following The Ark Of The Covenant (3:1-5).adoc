@@ -11,9 +11,12 @@ Republished [with permission?] by NCBS +
 
 endif::[]
 
-
 ---
+ifdef::fullbook[]
 <<<
+endif::[]
+
+
 
 
 == 07. Following The Ark Of The Covenant (3:1-5)
@@ -36,7 +39,7 @@ We don't actually have to look that hard to see when we are caught up in states 
 
 Shittim represents the putting aside of such attitudes or at least a willingness to acknowledge and work with the Lord to have these attitudes changed or removed. Such attitudes are embodied, and so well pictured in the Pharisees of the New Testament who stood against the Lord at every turn. They represent those aspects within our proprium that continually object to the demands which truth makes on our life and so take a stand against the Divine truth in favour of what is evil and false. From this, arises a false self image that is absorbed in the loves of the self and the world.
 
-But once the Word is acknowledged as being righteousness itself, a new state of understanding represented by Joshua arises and a new state of life begins to come to the fore. This new state is called “the morning,” and with the morning and the rising of Joshua so too the sons of Israel or the truths of the Word that have gathered and camped in our memory begin to be reorganized bringing us to the Jordan River and so to the boundary of Canaan, or to the possibility of a new life grounded in the loves of heaven.
+But once the Word is acknowledged as being righteousness itself, a new state of understanding represented by Joshua arises and a new state of life begins to come to the fore. This new state is called "the morning," and with the morning and the rising of Joshua so too the sons of Israel or the truths of the Word that have gathered and camped in our memory begin to be reorganized bringing us to the Jordan River and so to the boundary of Canaan, or to the possibility of a new life grounded in the loves of heaven.
 
 In our story the Jordan River stands as a boundary preventing the children of Israel from advancing into the promised land. At this point, there is nothing to do but to stop and wait, and so we read that the sons of Israel lodged there before they passed over.
 
@@ -51,14 +54,14 @@ The land, like Jericho, is filled with Canaanites and the Canaanites represent t
 
 If things are to progress then the false perspectives and beliefs which we carry that are opposed to the life of heaven have to be removed. Our way of seeing things has to shift and for that to happen we have to have our minds reorganized in accordance with heavenly principles.
 
-The sons of Israel represent the knowledge we have of the Word with its stories and prophesies. Those called “officers” represent higher principles that can direct and organize the things found in the literal sense of the Word so that they are able to be used to illustrate more internal realities. So, they bring us into a fuller sense of the internal or deeper meaning of these things and can be used as a guide to dealing with the inner things of the mind. And so it is that we see that after three days, the officers of the people are said to pass into the midst of the camp whereupon they commanded the people.
+The sons of Israel represent the knowledge we have of the Word with its stories and prophesies. Those called "officers" represent higher principles that can direct and organize the things found in the literal sense of the Word so that they are able to be used to illustrate more internal realities. So, they bring us into a fuller sense of the internal or deeper meaning of these things and can be used as a guide to dealing with the inner things of the mind. And so it is that we see that after three days, the officers of the people are said to pass into the midst of the camp whereupon they commanded the people.
 
-The Word is given to support us in our spiritual growth or regeneration and so the principles that we find in the doctrines for Spiritual Christianity are what are represented by the “officers.” Our knowledge of the Word is organized in accordance with our understanding of doctrine. Whatever focus we bring to the Word determines how we understand it. If our focus is on externals, our attention will be given to how we appear to others and we will fail to see the contradictions that exist within ourselves. We will see the Word as something that supports our point of view, and in those places where it highlights evils and falsities our attention will be on others and not on ourselves. Whereas if we view the principles of the doctrines for Spiritual Christianity as the basis for examining the life of our own mind, then the stories of the Word begin to be organized in a way that supports this kind of inner work. We see that the evils and falsities are within us and it is here that our attention will be directed. This shift in our understanding of the Word is critical to entering the land.
+The Word is given to support us in our spiritual growth or regeneration and so the principles that we find in the doctrines for Spiritual Christianity are what are represented by the "officers." Our knowledge of the Word is organized in accordance with our understanding of doctrine. Whatever focus we bring to the Word determines how we understand it. If our focus is on externals, our attention will be given to how we appear to others and we will fail to see the contradictions that exist within ourselves. We will see the Word as something that supports our point of view, and in those places where it highlights evils and falsities our attention will be on others and not on ourselves. Whereas if we view the principles of the doctrines for Spiritual Christianity as the basis for examining the life of our own mind, then the stories of the Word begin to be organized in a way that supports this kind of inner work. We see that the evils and falsities are within us and it is here that our attention will be directed. This shift in our understanding of the Word is critical to entering the land.
 
-This process or shift in how we regard the Word must reach its completion before we can move on and this is represented by the “three days” passing before the officers went through the midst of the camp.
+This process or shift in how we regard the Word must reach its completion before we can move on and this is represented by the "three days" passing before the officers went through the midst of the camp.
 Internally by three days is not meant three days but the completion of this state of transition. The number three in Scripture always represents what is complete or what has run its full course and three days signify all the states that have to be passed through in order for our understanding of the Word to be organized so that it can support the inner work of our spiritual transformation or regeneration.
 
-The “officers” being said to pass through the camp of the sons of Israel represents our taking hold of the principles of Spiritual Christianity and using them as the basis for building up our understanding of the Word. What they commanded the people highlights the universal truth that has to be present if we are to undergo the process of being regenerated. For the universal truth that the doctrines teach is that the spiritual life involves a commitment to following the ark of the covenant of the Jehovah our God.
+The "officers" being said to pass through the camp of the sons of Israel represents our taking hold of the principles of Spiritual Christianity and using them as the basis for building up our understanding of the Word. What they commanded the people highlights the universal truth that has to be present if we are to undergo the process of being regenerated. For the universal truth that the doctrines teach is that the spiritual life involves a commitment to following the ark of the covenant of the Jehovah our God.
 
 The ark was a box made of shittim wood overlaid with gold. It contained the tables upon which were written the Ten Commandments and these can be summarized as all the Divine laws that pertain to loving the Lord and loving our neighbour. The term covenant means an agreement that brings two or more parties into a relationship with one another. Thus,
 covenant spiritually means conjunction or joining together.
@@ -67,7 +70,7 @@ So we can ask ourselves- What is this covenant? and Who or what are the parties 
 
 The fact is -- the Lord can never be joined to us as there is nothing in what we are as finite human beings that is capable of receiving Him.
 The Lord is only able to unite with what is of Himself. So when we read of the Lord setting up a covenant with the sons of Israel we are dealing with something that represents a spiritual reality. When we see that the sons of Israel are nothing other than truths of the Word, then we can see that the covenant that's established is between the Lord as goodness and the truths of the Word, the latter as represented by the sons of Israel that are in accord with this. The Word Itself is the covenant. This is given to us by the Lord and is from Him and is Him.
-It is never ours although the Lord has made it so that it can be “as if” it is ours. Clearly we can take the Word into our mind and life but even though it is in us, in this sense it is never ours.
+It is never ours although the Lord has made it so that it can be "as if" it is ours. Clearly we can take the Word into our mind and life but even though it is in us, in this sense it is never ours.
 
 This is why the Word is so important, for it is the sole means by which a person is able to have a sense of being in the life of heaven. In fact there is a remarkable statement in Arcana Coelestia 1878 which says that the Word is in fact heaven.
 
