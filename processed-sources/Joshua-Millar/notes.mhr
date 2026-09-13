@@ -9,5 +9,8 @@ followed with grep -P "[ \"\n(]_[^_]+_[ \"\n;.,)]"  to highlight italics
 use ____  around the Bible quotes, not ____
 
 
+maybe '\W_[^_]+_\W' ???
+
+
 
 

@@ -1,0 +1,52 @@
+#!/bin/bash
+
+fromfile=./ch7.adoc
+#tofile='../../Joshua-Millar/07-Following\ The\ Ark\ Of\ The\ Covenant\ \(3\:1-5\).adoc'
+#tofile="$(realpath "$tofile")"
+tofile=$(realpath "./tofile")
+
+[[ -f "$fromfile" ]] || (echo "error! file not found: $fromfile"; exit)
+[[ -f "$tofile" ]] || (echo "error! file not found: $tofile"; exit)
+
+
+grep -P '[ \"\n(]?_[^_]+_[ \"\n;.,)]?' "$fromfile" |sed '1d' >/tmp/italics
+lines=$(wc -l /tmp/italics); echo "$lines lines"
+
+seq 1 ${lines% *} |
+	while read line
+		do istr=$(sed -n ''"$line"'p' /tmp/italics); echo "istr: $istr"
+			fstr=$(echo $istr |tr -d "_"); echo "fstr: $fstr"
+			sed -i 's/'"$fstr"'/'"$istr"'/' "$tofile" || echo "Sed Fail at line:$line"
+echo 
+	done
+
+exit
+
+
+ 2003  grep -P '[ \"\n(]?_[^_]+_[ \"\n;.,)]?' ./ch7.adoc |sed '1d' >/tmp/italics
+ 2004  sed -n '1p' /tmp/italics 
+ 2005  istr=$(sed -n '1p' /tmp/italics )
+ 2006  echo ${istr/_/}
+ 2007  fstr=$(echo $istr |tr -d "_"); echo $fstr
+ 2008  sed 's/'"$fstr"'/'"$istr"'/' ../../Joshua-Millar/07-Following\ The\ Ark\ Of\ The\ Covenant\ \(3\:1-5\).adoc 
+ 2009  sed 's/'"$fstr"'/'"$istr"'/' ../../Joshua-Millar/07-Following\ The\ Ark\ Of\ The\ Covenant\ \(3\:1-5\).adoc |grep $fstr
+ 2010  sed 's/'"$fstr"'/'"$istr"'/' ../../Joshua-Millar/07-Following\ The\ Ark\ Of\ The\ Covenant\ \(3\:1-5\).adoc |grep "$fstr"
+ 2011  sed 's/'"$fstr"'/'"$istr"'/' ../../Joshua-Millar/07-Following\ The\ Ark\ Of\ The\ Covenant\ \(3\:1-5\).adoc |grep "$istr"
+ 2012  lines=$(wc -l /tmp/italics)
+ 2013  seq 1 $(wc -l /tmp/italics)
+ 2014  seq 1 $lines
+ 2015  seq 1 7
+ 2016  seq 1 "$lines"
+ 2017  echo $lines
+ 2018  seq 1 ${$(wc -l /tmp/italics)% *}
+ 2019  echo ${lines% *}
+ 2020  echo ${$(wc -l /tmp/italics)% *}
+ 2021  seq 1 ${lines% *}
+ 2022  history
+ 2023  sed 's/'"$fstr"'/'"$istr"'/' ../../Joshua-Millar/07-Following\ The\ Ark\ Of\ The\ Covenant\ \(3\:1-5\).adoc
+ 2024  sed -n 's/'"$fstr"'/'"$istr"'/' ../../Joshua-Millar/07-Following\ The\ Ark\ Of\ The\ Covenant\ \(3\:1-5\).adoc
+ 2025  history
+ 2026  l=1; sed -n ''"$l"'p' /tmp/italics 
+ 2027  l=1; sed -n "$lp" /tmp/italics 
+ 2028  l=1; sed -n "$l"p /tmp/italics 
+ 2029  history >./add_italics
