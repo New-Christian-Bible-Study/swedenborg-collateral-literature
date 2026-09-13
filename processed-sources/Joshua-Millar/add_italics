@@ -1,6 +1,6 @@
 #!/bin/bash
 
-fromfile=./ch7.adoc
+fromfile=./fromfile
 #tofile='../../Joshua-Millar/07-Following\ The\ Ark\ Of\ The\ Covenant\ \(3\:1-5\).adoc'
 #tofile="$(realpath "$tofile")"
 tofile=$(realpath "./tofile")
@@ -14,8 +14,8 @@ lines=$(wc -l /tmp/italics); echo "$lines lines"
 
 seq 1 ${lines% *} |
 	while read line
-		do istr=$(sed -n ''"$line"'p' /tmp/italics); echo "istr: $istr"
-			fstr=$(echo $istr |tr -d "_"); echo "fstr: $fstr"
+		do istr=$(sed -n ''"$line"'p' /tmp/italics)	#; echo "istr: $istr"
+			fstr=$(echo $istr |tr -d "_")	#; echo "fstr: $fstr"
 			sed -i 's/'"$fstr"'/'"$istr"'/' "$tofile" || echo "Sed Fail at line:$line"
 echo 
 	done
