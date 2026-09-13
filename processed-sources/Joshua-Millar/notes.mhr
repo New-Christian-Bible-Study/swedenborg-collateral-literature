@@ -1,15 +1,41 @@
 
 i.e.:
 
-curl https://logopraxis-institute.online/preparations-for-entering-the-land-jos-110-18/ |pandoc -f html -t asciidoc -o ch2.adoc
+## These are the sourcefiles, being converted from html to adoc by 'pandoc'
+curl https://logopraxis-institute.online/the-rolling-away-of-the-reproach-of-the-past-jos-chp-6/ |pandoc -f html -t asciidoc -o ch11.adoc
 
-followed with grep -P "[ \"\n(]_[^_]+_[ \"\n;.,)]"  to highlight italics
-└─$ grep -P '[ \"\n(]?_[^_]+_[ \"\n;.,)]?' ./ch5.adoc |sed '1d' |grep -P "_[^_]+_"
+ln -sf ./ch11.adoc ./fromfile
 
+cat ./fromfile |uconv --callback escape -f UTF-8 -t ASCII |grep -oP "%U[0-9A-F]{4}" |sort -u |cut -c '3-' |while read u; do printf "\\u$u :"; unicode $u |head -1; done
+## reveals the following unicode characters in the file[s]:
+– :U+2013 EN DASH
+‘ :U+2018 LEFT SINGLE QUOTATION MARK
+’ :U+2019 RIGHT SINGLE QUOTATION MARK
+“ :U+201C LEFT DOUBLE QUOTATION MARK
+” :U+201D RIGHT DOUBLE QUOTATION MARK
+… :U+2026 HORIZONTAL ELLIPSIS
+→ :U+2192 RIGHTWARDS ARROW
+
+## which are replaced by/with:
+sed -Ei s/$'\u2013'/--/g fromfile; sed -Ei s/$'\u2018'/\'/g fromfile; sed -Ei s/$'\u2019'/\'/g fromfile; sed -Ei s/$'\u201C'/\"/g fromfile; sed -Ei s/$'\u201D'/\"/g fromfile; sed -Ei s/$'\u2026'/.../g fromfile 
+
+## the following file was already in the working directory
+## from an earlier workflow which used 'lynx -dump' of the original sources, which stripped the italicization
+ln -sf ../../Joshua-Millar/11-Rolling\ Away\ The\ Reproach\ Of\ The\ Past\ \(5\).adoc ./tofile
+
+## What we're doing now is adding the _italicization_ to it
+./add_italics  # 2>/dev/null to ignore the flood of error reports
+
+
+
+
+
+
+
+=========================================
 use ____  around the Bible quotes, not ____
 
 
-maybe '\W_[^_]+_\W' ???
 
 
 

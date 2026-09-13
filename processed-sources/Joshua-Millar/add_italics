@@ -5,11 +5,15 @@ fromfile=./fromfile
 #tofile="$(realpath "$tofile")"
 tofile=$(realpath "./tofile")
 
+
 [[ -f "$fromfile" ]] || (echo "error! file not found: $fromfile"; exit)
 [[ -f "$tofile" ]] || (echo "error! file not found: $tofile"; exit)
 
 
-grep -P '[ \"\n(]?_[^_]+_[ \"\n;.,)]?' "$fromfile" |sed '1d' >/tmp/italics
+#grep -P '[ \"\n(]?_[^_]+_[ \"\n;.,)]?' "$fromfile" |sed '1d' >/tmp/italics
+# below accommodation for italicization across line breaks; by grep (two_)|(one_)
+grep -P '([ \"\n(]?_[^_]+_[ \"\n;.,)]?)|(^[^_]*_[^_]*$)' "$fromfile" |sed '1d' >/tmp/italics
+
 lines=$(wc -l /tmp/italics); echo "$lines lines"
 
 seq 1 ${lines% *} |
