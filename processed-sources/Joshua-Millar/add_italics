@@ -1,5 +1,9 @@
 #!/bin/bash
 
+## this process is far from perfect;
+## several different circumstances, or combinations thereof, can cause peculiar results
+## search italicized file for 'doubled' underbars.
+
 fromfile=./fromfile
 #tofile='../../Joshua-Millar/07-Following\ The\ Ark\ Of\ The\ Covenant\ \(3\:1-5\).adoc'
 #tofile="$(realpath "$tofile")"
