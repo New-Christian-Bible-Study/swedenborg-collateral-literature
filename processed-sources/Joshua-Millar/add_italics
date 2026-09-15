@@ -25,7 +25,7 @@ seq 1 ${lines% *} |
 		do istr=$(sed -n ''"$line"'p' /tmp/italics)	#; echo "istr: $istr"
 			fstr=$(echo $istr |tr -d "_")	#; echo "fstr: $fstr"
 			sed -i 's/'"$fstr"'/'"$istr"'/' "$tofile" || echo "Sed Fail at line:$line"
-echo 
+#echo 
 	done
 
 exit
