@@ -16,8 +16,9 @@ cat ./fromfile |uconv --callback escape -f UTF-8 -t ASCII |grep -oP "%U[0-9A-F]{
 … :U+2026 HORIZONTAL ELLIPSIS
 → :U+2192 RIGHTWARDS ARROW
 
-## which are replaced by/with:
-sed -Ei s/$'\u00A0'/' '/g fromfile; s/$'\u2013'/--/g fromfile; sed -Ei s/$'\u2018'/\'/g fromfile; sed -Ei s/$'\u2019'/\'/g fromfile; sed -Ei s/$'\u201C'/\"/g fromfile; sed -Ei s/$'\u201D'/\"/g fromfile; sed -Ei s/$'\u2026'/.../g fromfile 
+## which are replaced by/with: 
+sed -Ei s/$'\u00A0'/' '/g fromfile && sed -Ei s/$'\u2013'/--/g fromfile && sed -Ei s/$'\u2014'/--/g fromfile && sed -Ei s/$'\u2018'/\'/g fromfile && sed -Ei s/$'\u2019'/\'/g fromfile && sed -Ei s/$'\u201C'/\"/g fromfile && sed -Ei s/$'\u201D'/\"/g fromfile && sed -Ei s/$'\u2026'/'...'/g fromfile
+
 
 ## the following file was already in the working directory
 ## from an earlier workflow which used 'lynx -dump' of the original sources, which stripped the italicization
