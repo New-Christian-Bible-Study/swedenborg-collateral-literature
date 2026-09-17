@@ -28,14 +28,14 @@ ln -sf ../../Joshua-Millar/11-Rolling\ Away\ The\ Reproach\ Of\ The\ Past\ \(5\)
 ./add_italics  # 2>/dev/null to ignore the flood of error reports
 
 
+The actual sequence has developed to:
+-set the new files and links in place
+-run the 'sed' chain on the ./fromfile
+-then run the 'cat |uconv' on the .fromfile to confirm no lingering unicode there
+-then run the 'cat |uconv' on the .tofile to discover any lingering unicode there; and then take steps to replace them
 
-
-
-
-
-
-
-
+-THEN run the ./add_italics 
+-then search the working file (./tofile link) for artifacts: i.e. '__' and '\w+_ _\w+' etc. (enclosed punctuation)
 
 
 
