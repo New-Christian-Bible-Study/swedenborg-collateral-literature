@@ -35,7 +35,11 @@ The actual sequence has developed to:
 -then run the 'cat |uconv' on the .tofile to discover any lingering unicode there; and then take steps to replace them
 
 -THEN run the ./add_italics 
--then search the working file (./tofile link) for artifacts: i.e. '__' and '\w+_ _\w+' etc. (enclosed punctuation)
+-then search the working file (./tofile link) for artifacts: i.e. '__' and '\w+_ _\w+' etc. (enclosed punctuation); newly displayed spelling errors caused by Canaanites being split by the italicization process
+In fact, it would be helpful to check the fromfile for things like enclosed punctuation first == example: _Israel._ when reproduced within a sentance about some Israelites will make a bunch of '_Israel._tes'
+
+Another good process revision would be to separate the creation of /tmp/italics from within the ./add_italics script in order to review it and locate short lines which end sentences with periods; and probably discard them with note-to-self to italicize them manually.
+
 
 
 
