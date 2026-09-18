@@ -1,0 +1,15 @@
+= Sermon on Joshua 4
+By the Rev. David Millar
+:chapbook:
+// include::{docdir}/Joshua-Millar/template-attributes.adoc[]
+////
+Created and published by the Logopraxis Institute +
+https://logopraxis-institute.online/joshua/
+
+[.text-right]
+Republished [with permission?] by NCBS +
+{docdate}
+////
+
+include::{docdir}/Joshua-Millar/10-Stones Of Remembrance (4:1-3 & 8-9).adoc[]
+

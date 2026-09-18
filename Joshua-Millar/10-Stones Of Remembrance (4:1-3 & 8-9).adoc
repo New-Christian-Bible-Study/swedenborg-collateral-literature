@@ -1,6 +1,8 @@
 ifndef::fullbook[]
-= Sermons on Joshua 
+ifndef::chapbook[]
+= Sermon on Joshua 4
 Rev. David Millar
+endif::[]
 
 Created and published by the Logopraxis Institute +
 https://logopraxis-institute.online/joshua/

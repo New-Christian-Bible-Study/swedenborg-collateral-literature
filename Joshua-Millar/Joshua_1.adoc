@@ -1,0 +1,12 @@
+= Sermons on Joshua Chapter 1
+By the Rev. David Millar
+include::{docdir}/Joshua-Millar/template-attributes.adoc[]
+:fullbook:
+
+// use {attribuite} 'docdir' for includes
+
+
+include::{docdir}/Joshua-Millar/01-The Great Commission (1:1-9).adoc[]
+include::{docdir}/Joshua-Millar/02-Preparations For Entering The Land (1:10-18).adoc[]
+include::{docdir}/Joshua-Millar/03-Bringing Reuben, Gad And Manasseh To The Fight (1:12-18).adoc[]
+

@@ -10,7 +10,7 @@
 //:source-highlighter: rouge
 // Uncomment next line to add a title page (or set doctype to book)
 //:title-page:
-:doctype: book
+//:doctype: book
 // Uncomment next line to set page size (default is A4)
 :pdf-page-size: Letter
 // end of template attributes
@@ -18,8 +18,8 @@
 {empty}
 
 // Begin inserting frontpiece text
-{doctitle} +
-{author}
+//{doctitle} +
+//{author}
 
 Created and published by the Logopraxis Institute +
 https://logopraxis-institute.online/joshua/
