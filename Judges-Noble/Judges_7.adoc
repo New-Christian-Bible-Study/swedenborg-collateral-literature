@@ -1,0 +1,10 @@
+= Judges 7
+By the Rev. Samuel Nobel - 1856
+:ncbs-chapters:
+:toc: preamble
+
+include::{docdir}/Judges-Noble/template-attributes.adoc[]
+
+include::{docdir}/Judges-Noble/ch15.adoc[]
+include::{docdir}/Judges-Noble/ch16.adoc[]
+include::{docdir}/Judges-Noble/ch17.adoc[]

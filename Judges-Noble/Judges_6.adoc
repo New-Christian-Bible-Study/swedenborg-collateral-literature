@@ -1,0 +1,11 @@
+= Judges 6
+By the Rev. Samuel Nobel - 1856
+:ncbs-chapters:
+:toc: preamble
+
+include::{docdir}/Judges-Noble/template-attributes.adoc[]
+
+include::{docdir}/Judges-Noble/ch11.adoc[]
+include::{docdir}/Judges-Noble/ch12.adoc[]
+include::{docdir}/Judges-Noble/ch13.adoc[]
+include::{docdir}/Judges-Noble/ch14.adoc[]

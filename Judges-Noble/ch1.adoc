@@ -1,16 +1,17 @@
 ifndef::fullbook[]
+ifndef::ncbs-chapters[]
 = Book of Judges - Sermon 1
 By the Rev. Samuel Nobel - 1856
-:fullbook:
 include::{docdir}/Judges-Noble/template-attributes.adoc[]
 Single sermon from the published combined volume.
-include::{docdir}/Judges-Noble/Preface.adoc[]
-include::{docdir}/Judges-Noble/Preliminary.adoc[]
+//include::{docdir}/Judges-Noble/Preface.adoc[]
+//include::{docdir}/Judges-Noble/Preliminary.adoc[]
+endif::[]
 endif::[]
 
 // setting :fullbook: retains the :toc: for the preface and preliminary sections, as well as the single sermon
 
-<<<
+
 ---
 
 == Sermon I. Judges 1:1-7

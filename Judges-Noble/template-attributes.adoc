@@ -1,7 +1,7 @@
 // routine attributes for insertion into file headers for common use
 // attribute reference https://docs.asciidoctor.org/asciidoc/latest/attributes/document-attributes-ref
 // NOTE that Table of Contents is exported to EPUB and PDF for use by their reader applications, with or without being printed into the visible body content. The PDF should have a printed TOC with page numbers for uses where it will be printed on paper. Best default is probably to include a :toc: directive.
-:toc: preamble
+//:toc: preamble
 :toclevels: 2
 :showtitle:
 // additions for the PDF:

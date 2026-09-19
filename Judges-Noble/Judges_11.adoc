@@ -1,0 +1,10 @@
+= Judges 11
+By the Rev. Samuel Nobel - 1856
+:ncbs-chapters:
+:toc: preamble
+
+include::{docdir}/Judges-Noble/template-attributes.adoc[]
+
+include::{docdir}/Judges-Noble/ch18.adoc[]
+include::{docdir}/Judges-Noble/ch19.adoc[]
+include::{docdir}/Judges-Noble/ch20.adoc[]
