@@ -9,7 +9,6 @@ Single sermon from the published combined volume.
 endif::[]
 endif::[]
 
-// setting :fullbook: retains the :toc: for the preface and preliminary sections, as well as the single sermon
 
 
 ---
