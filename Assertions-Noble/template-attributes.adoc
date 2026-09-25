@@ -1,0 +1,46 @@
+:toclevels: 2
+// additions for the PDF:
+:reproducible:
+//:doctype: book
+// Uncomment next line to set page size (default is A4)
+:pdf-page-size: Letter
+// end of template attributes
+// == end of document header
+
+
+//Begin inserting frontpiece text
+The original full title of the complete work:
+[.text-center]
+THE PLENARY INSPIRATION +
+OF +
+THE SCRIPTURES +
+ASSERTED, +
+and the +
+THE PRINCIPLES OF THEIR COMPOSITION +
+INVESTIGATED +
+WITH A VIEW TO THE REFUTATION OF +
+ALL OBJECTIONS TO THEIR DIVINITY. +
+In Six Lectures +
+WITH AN APPENDIX, ILLUSTRATIVE AND CRITICAL
+
+---
+
+//ifdef::ncbs-chapters[]
+{doctitle} +
+{author}
+//endif::[]
+
+Edited and Printed by NCBS +
+from best available representations of original manuscript.
+
+[.text-right]
+Last Revised {docdate}
+//_Currently being edited_ -- {docdate}
+
+
+////
+I've decided against forcing a pagebreak after this header;
+in favor of letting each use include additional material.
+////
+{empty}
+

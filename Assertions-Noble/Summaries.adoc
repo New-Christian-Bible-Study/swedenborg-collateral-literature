@@ -1,0 +1,20 @@
+= Summaries of the Noble Assertions
+By the Rev. Samuel Noble - 1825
+:fullbook:
+:toc: preamble
+:incdir: {docdir}/Assertions-Noble
+include::{docdir}/Assertions-Noble/template-attributes.adoc[]
+
+In the printed volumes, after the Preface (included here), these Summary Outlines as a group, preceded the pages presenting the full lectures. --Ed.
+
+---
+<<<
+include::{incdir}/preface/Preface.adoc[]
+
+include::{incdir}/summaries/Summary_Outline_of_Lecture_1.adoc[]
+include::{incdir}/summaries/Summary_Outline_of_Lecture_2.adoc[]
+include::{incdir}/summaries/Summary_Outline_of_Lecture_3.adoc[]
+include::{incdir}/summaries/Summary_Outline_of_Lecture_4.adoc[]
+include::{incdir}/summaries/Summary_Outline_of_Lecture_5.adoc[]
+include::{incdir}/summaries/Summary_Outline_of_Lecture_6.adoc[]
+include::{incdir}/summaries/Summary_Outline_of_the_Appendix.adoc[]

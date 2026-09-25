@@ -13,10 +13,11 @@
 "cSpell.suggestionMenuType": "quickFix",
 
 "cSpell.words": [
-  "swconcord",
+  "adoc",
   "autowidth",
-  "adoc"
-  ],
+  "incdir",
+  "swconcord"
+],
 
 "cSpell.flagWords": [
   "Lords: Lord's",

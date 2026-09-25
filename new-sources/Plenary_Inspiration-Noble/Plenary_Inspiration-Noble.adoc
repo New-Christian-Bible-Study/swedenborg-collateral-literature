@@ -1,4 +1,4 @@
-= Plenary Inspiration ...
+= Plenary Inspiration of the Scriptures Asserted
 By Rev. Samuel Noble
 
 ////
@@ -39,7 +39,9 @@ LINCOLN'S INN.
 1859.
 
 
-== PREFACE.
+== PREFACE
+
+=== PREFACE
 
 So numerous are the works which have been produced in vindication of the divine authority of the Scriptures and of the truth of the
 Christian Religion, so high the reputation of many of them, and so unquestionably great their merit, that it might almost appear like presumption in any one again to handle this argument.
@@ -169,9 +171,9 @@ while he has mainly endeavoured to assist the pursuit of the earnest investigato
 Lectures by the late Rev. Mr. Conybeare, -- no reference occurs in the Work itself, the
 Author not having read them till that part of his Work was printed in which the notice of them would properly have come: he takes the opportunity, therefore, of making the reference here.
 
-== INDEX/CONTENTS/SUMMARIES.
+== INDEX--CONTENTS--SUMMARIES
 
-=== LECTURE I. Introductory - Infidel Objections Stated.
+=== LECTURE I. Introductory - Infidel Objections Stated
 
 Prevalence of Infidel sentiments, and of an increasing tendency to think meanly of the Scriptures. 
 Their Plenary Inspiration generally relinquished.
@@ -188,7 +190,7 @@ General Reply: That all such Objections arise from taking a merely Superficial V
 III. Appeal to the Reader, on the ill consequences of Infidelity.
 
 
-=== Lecture II. - The True Nature Of The Scriptures Explained.
+=== Lecture II. - The True Nature Of The Scriptures Explained
 
 Design with which the Scriptures were given, and the Nature of their Composition, stated for proof.
 I. That the title, "the Word of God", and the 
@@ -208,7 +210,7 @@ III. That the Composition received as the Word of God, continually assures us th
 IV. But this great truth having been abused, that endeavours
 have been made, during the last two or three Centuries, to restrict the meaning of the Scriptures to their Literal Sense alone. Admitted, that all Controversies are to be decided, and Points of Faith established, by the Literal Sense; But that the objection against a further sense would fall to the ground, could it be shewn, that the Scriptures are written throughout according to an immutable Law or Rule, a knowledge of which would, in explaining them, substitute certainty for conjecture, and cut off the sources of vague interpretation.
 
-=== LECTURE III. - The Law Or Rule Explained According To Which The Scriptures Are Written.
+=== LECTURE III. - The Law Or Rule Explained According To Which The Scriptures Are Written
 
 Preliminary Remark, on the Reasons why the Scriptures are not written in plainer Language. Short Recapitulation.
 I. A Universal Rule of Interpretation afforded in the Mutual Relation, which exists by creation, between things Natural or Material, Spiritual or Moral, and Divine. 
@@ -235,7 +237,7 @@ IV. That in ancient times this constant Relation between things Natural, Moral o
 V. That in this Relation, then, is to be found the Law or Rule according to which the Scriptures are written, and that a knowledge of it will afford the Key by which their "dark sayings" must be deciphered. 
 --  Conclusion: That the Doctrine of Analogies is not liable to the reproach either of Fancifulness or of Novelty, and is worthy the attention of every friend of Revelation and Piety, and of Reason and Knowledge.
 
-=== LECTURE IV. - Proofs And Illustrations, Evincing That The Scriptures Are Written According To The Law Or Rule Developed Tn The Last Lecture.
+=== LECTURE IV. - Proofs And Illustrations, Evincing That The Scriptures Are Written According To The Law Or Rule Developed Tn The Last Lecture
 
 I. Of the Style proper to a Divine Composition. Such a Style afforded by the Relation of Analogy between Natural Things and Spiritual, as explained in the last Lecture.
 II. That if the Scriptures are written by a Plenary Divine Inspiration, they must be composed in this Style. 
@@ -311,7 +313,7 @@ V. Additional Argument,
 2. The argument afforded by the fact, That a number of Writers, living at distant periods, produced Compositions all uniformly following this Law. --  Inference repeated, -- That the Style in which the Scriptures are composed is the truly Divine Style of Writing; and that nothing short of Plenary Divine Inspiration could be adequate to their production.
 Thus they are truly denominated the Word of God.
 
-=== LECTURE VI. - The Whole Fabric Of Infidel Objections Shewn To Be Without Foundation.
+=== LECTURE VI. - The Whole Fabric Of Infidel Objections Shewn To Be Without Foundation
 
 I. General View of the System and Arguments of the preceding Lectures:
 1. The first stage of the Argument: 
@@ -343,7 +345,7 @@ IV. Address to Deists, on the internal causes of Scepticism.
 
 Conclusion.
 
-=== APPENDIX.
+=== APPENDIX
 
 No. I. Proofs of the Symbolic Character of the Writings of the
 Old Testament afforded by the Revelation of John
@@ -364,9 +366,9 @@ No. VII. Arguments for the Literal Interpretation of the first part of Genesis c
 No, VIII. Remarks on the Recent Volume of Bampton Lectures, by the late Rev. J. J. Conybeare, M.A. ; and on the Support which it affords to the main Principle of the present Work
 
 
-== PLENARY INSPIRATION OF THE SCRIPTURES ASSERTED.
+== PLENARY INSPIRATION OF THE SCRIPTURES ASSERTED
 
-=== LECTURE I - INTRODUCTORY. INFIDEL OBJECTIONS STATED.
+=== LECTURE I - INTRODUCTORY. INFIDEL OBJECTIONS STATED
 
 ----
 Prevalence of infidel sentiments, and of an increasing tendency to think meanly of the Scriptures. -- Their Plenary Inspiration generally relinquished. -- Design of these Lectures stated. -- Necessity of Revelation. --  The character thatmws* belong to a Composition which has God for its Author. -- Inquiry proposed: Do the books called the Holy Scriptures come up to this character? -- Answered in the afifirmative by the Lecturer, but the proof reserved for the subsequent Lectures: -- Answered in the negative by the Deist, on the alleged grounds, that the books in question contain statements that are contradictory to each other, some that are at variance with science and reason, and some that are repugnant to morality; and that, beside these positive objections, the greater part of them is occupied with indifferent and insignificant matters. -- General reply, that all such objections arise from taking a merely superficial view of the Scriptures, and from an ignorance of their true nature; and that they may be retorted so as to assist in proving what the true nature of the Scriptures is. -- Appeal to the reader, on the ill consequences of infidelity.
@@ -950,7 +952,7 @@ it, "proceeded forth and came from God."
 ---
 <<<
 
-=== LECTURE II - The True Nature Of The Scriptures Considered.
+=== LECTURE II - The True Nature Of The Scriptures Considered
 
 ----
  Design with which the Scriptures were given, and the Nature of their Composition, stated for proof. 
@@ -1649,7 +1651,7 @@ I trust that every Christian will be ready, on sufficient evidence, to accept vi
 
 * Dial. Par. 2. p. 352, 390.
 
-=== LECTURE III - THE LAW OR RULE EXPLAINED ACCORDING TO WHICH THE SCRDPTURES ARE WRITTEN.
+=== LECTURE III - THE LAW OR RULE EXPLAINED ACCORDING TO WHICH THE SCRDPTURES ARE WRITTEN
 
 ----
 Preliminary remark, on the Reasons why the Scriptures are not written in plainer
@@ -2866,7 +2868,7 @@ every admirer of Reason and of Knowledge, is deeply interested in the restoratio
 
 
 
-=== LECTURE IV PROOFS AND ILLUSTRATIONS, EVINCING THAT THE SCRIPTURES ARE WRITTEN ACCORDING TO THE LAW OR RULE DEVELOPED IN THE LAST LECTURE.
+=== LECTURE IV PROOFS AND ILLUSTRATIONS, EVINCING THAT THE SCRIPTURES ARE WRITTEN ACCORDING TO THE LAW OR RULE DEVELOPED IN THE LAST LECTURE
 
 ----
 I. Of the Style proper to a Divine Composition.
@@ -4977,7 +4979,7 @@ Holy Scriptures to Plenary Divine Inspiration, will, so far, have been establish
 
 
 
-=== LECTURE V - PROOFS AND ILLUSTRATIONS CONTINUED.
+=== LECTURE V - PROOFS AND ILLUSTRATIONS CONTINUED
 
 ----
 I. Applicability of the Law which governs the Relation between natural objects and spiritual and divine essences, -- or of the Science of Analogies, --  as a Rule for the interpretation of the Historical Parts of the Divine Word.
@@ -7147,7 +7149,7 @@ tained?
 From this circumstance, alone, then, we surely are again entitled to infer, that the style in which the Scriptures are composed, following every where the Law of Analogy, is the truly Divine Style of Writing; and that nothing short of Plenary Divine Inspiration could be adequate to the production of Compositions so extraordiTruly, therefore, are they denominated, "the Word of nary.
 God."
 
-=== LECTURE VI. - THE WHOLE FABRIC OF INFIDEL OBJECTIONS SHEWN TO BE WITHOUT FOUNDATION.
+=== LECTURE VI. - THE WHOLE FABRIC OF INFIDEL OBJECTIONS SHEWN TO BE WITHOUT FOUNDATION
 
 ----
 I. General View of the System and Arguments of the preceding Lectures; Important additional Testimony.
@@ -8295,7 +8297,7 @@ END OP THE LECTURES.
 
 == APPENDIX
 
-=== No. I. - PROOFS OP THE SYMBOLIC CHARACTER OP THE WRITINGS OP THE OLD TESTAMENT, AFFORDED BY THE REVELATION OF JOHN.
+=== No. I. - PROOFS OP THE SYMBOLIC CHARACTER OP THE WRITINGS OP THE OLD TESTAMENT, AFFORDED BY THE REVELATION OF JOHN
 
 This book of the Apocalypse, though itself one of the most mysterious of the books of Scripture, yet affords a key to the interpretation of all the rest; --  at least of all those of the Old Testament; for it is impossible to read this book with any attention, without discovering, that it is written throughout upon the supposition, that every thing related in Scripture respecting the Jewish church and people, has a symbolic meaning, and is not merely a record of comparatively
 If then this book is written by divine inspiraunimportant matters of fact.
@@ -8579,7 +8581,7 @@ If we deny this principle, we deny to the been more decisively established.
 whole of the Revelation of John any meaning at all: we convert his sublime symbols into a senseless jargon: and, if we still admit his book to have been written by inspiration, we charge with egregious trifling the unerring Spirit of
 God.
 
-=== No. II. - AS ATTEMPT TO DISCRIMINATE BETWEEN THE BOOKS OF PLENARY TXSPIBATIOX, CONTAINED IX THE BIBLE, AND THOSE WRITTEN BY THE INSPIRATION GENERALLY ASSIGNED TO THE WHOLE.
+=== No. II. - AS ATTEMPT TO DISCRIMINATE BETWEEN THE BOOKS OF PLENARY TXSPIBATIOX, CONTAINED IX THE BIBLE, AND THOSE WRITTEN BY THE INSPIRATION GENERALLY ASSIGNED TO THE WHOLE
 
 ;"
 
@@ -9204,7 +9206,7 @@ f Parry apud Home, voL i. p. 561.
 
 
 
-=== No. III. - THE GREAT OBJECTS AND PHENOMENA OF THE MUNDANE SYSTEM CONSIDERED, AS THEY ARE REFERRED TO IN THE LANGUAGE OF PROPHECY AND OF THE SCRIPTURES IN GENERAL.
+=== No. III. - THE GREAT OBJECTS AND PHENOMENA OF THE MUNDANE SYSTEM CONSIDERED, AS THEY ARE REFERRED TO IN THE LANGUAGE OF PROPHECY AND OF THE SCRIPTURES IN GENERAL
 
 The significations of Analogy offered in the Lecture, of the great objects of what Sir Isaac Newton calls "the world natural;" -- of heaven, earth, and earthquakes; of the sun, moon, and stars; and of the darkening of the sun,
 turning of the moon into blood, and falling of the stars; must, it is presumed,
@@ -9453,7 +9455,7 @@ t Ch. v. 46, 47.
 ft Ezek xxxii. 7,
 
 
-=== No. IV. - THE SIGNIFICATION OF THE CLOUDS, WHEN MENTIONED IN SCRIPTURE, FURTHER ILLUSTRATED.
+=== No. IV. - THE SIGNIFICATION OF THE CLOUDS, WHEN MENTIONED IN SCRIPTURE, FURTHER ILLUSTRATED
 
 The explanations of Scripture terms which are offered in this Work, heing new to most of our readers, would require, to do them justice, a more extended elucidation and defence than our limits will permit: However, if only one explanation, clearly drawn from a fixed analogy, is firmly established, it is sufficient to evince the solidity of the principle as a Rule of interpretation. We have dwelt at some length, in the Lecture above, on the signification of clouds,
 and have shewn, it is hoped, with some weight of evidence, that, when mentioned in reference to the Lord, they signify the Divine Truth clothed with natural ideas and images, or the Word in its literal sense, which is the Divine
@@ -9627,7 +9629,7 @@ This signification is grounded, we have seen, in a clear and just image.
 analogy: and when we find that on its application to the clouds of the literal sense they in so many instances lose their obscurity, and become bright clouds translucent with the light of heaven; we surely have reason, not only to accept this as the true interpretation, but to admit also, that the principle on which it is founded affords the true key for decyphering the symbolic language of Holy Writ.
 Such perpetual coincidences could never originate in chance.
 
-=== No. V. - ILLUSTRATIONS OF THE JEWISH CHARACTER; EVINCING ITS APTITUDE FOR A DISPENSATION CONSISTING CHIEFLY IN EXTERNAL RITES.
+=== No. V. - ILLUSTRATIONS OF THE JEWISH CHARACTER; EVINCING ITS APTITUDE FOR A DISPENSATION CONSISTING CHIEFLY IN EXTERNAL RITES
 
 It is affirmed in the text above, that the Israelites were selected to represent those spiritual things which they were incapable of inwardly perceiving and feeling; and it is observed that their genius and temper were such as rendered them better adapted than any other people to this purpose; for they were distinguished by a remarkable tendency to multiply ceremonial observances,
 even beyond what was required of them, and to substitute these for the morals enjoined by the Law of God.
@@ -9849,7 +9851,7 @@ J Cap. xlix.
 
 Lave endeavoured in this Lecture to develope, and were not connected with any partial favour to them, but solely regarded the general benefit of all future generations of mankind.
 
-=== No. VI. - CRITICAL EXAMINATION OF JEPHTHAH'S VOW. Judges xi. 31.
+=== No. VI. - CRITICAL EXAMINATION OF JEPHTHAH'S VOW. Judges xi. 31
 
 As some modern writers have thought thej' have succeeded in clearly establishing the more pleasing view of the fate of Jephthah's daughter from the very words of the vow; and I have nevertheless stated, that I think that the most unforced inference from the language of the original, and from the history in general, is, that the sacrifice took place; it seems necessary to give a view of the progress and present state of opinion upon the subject, and critically to examine the various renderings which have been proposed.
 
@@ -10114,7 +10116,7 @@ But as, nevertheless, there are other considerations which render it in the high
 
 because, otherwise, the subjects treated of in the spiritual sense, for the sake of which, pre-eminently, the letter is constructed, could not have been so fully represented. How important then does the doctrine of a spiritual sense become, as affording the only key to a satisfactory solution of such difficulties
 
-=== No. VII. ARGUMENTS FOB THE LITERAL INTERPRETATION OF THE FIRST PART OOGENESIS CONSIDERED.
+=== No. VII. ARGUMENTS FOB THE LITERAL INTERPRETATION OF THE FIRST PART OOGENESIS CONSIDERED
 
 I have stated in the text above, that the regarding of the early part of Genesis as a pure allegory, solves all the difficulties attending it, and is itself unattended
 I am aware, however, that difficulties have been attempted to be by any.
@@ -10158,7 +10160,7 @@ Altogether then, I trust, it must be seen, that every consideration which can be
 
 * Home's Introd. vol. i. p. 174.
 
-=== No. VIII. - REMARKS ON THE RECENT VOLUME OF BAMPTON LECTURES, BY THE LATE REV. J. J. CONYBEARE, M. A. ; AND ON THE SUPPORT IT AFFORDS TO THE LEADING PRINCIPLE OF THE PRESENT WORK.
+=== No. VIII. - REMARKS ON THE RECENT VOLUME OF BAMPTON LECTURES, BY THE LATE REV. J. J. CONYBEARE, M. A. ; AND ON THE SUPPORT IT AFFORDS TO THE LEADING PRINCIPLE OF THE PRESENT WORK
 
 It has yielded no small encouragement to the Author of the work now offered to the public, to see issue from the press while these Lectures were in it, a volume which, to a considerable extent, espouses and most ably maintains the fame argument; a volume, also, the character and intrinsic merits of which must recommend it to a large and influential body of readers: whilst it can hardly fail to generate, in the minds of many who peruse it, ideas upon the spiritual interpretation of Scripture, which nothing but such a consistent system as the present work endeavours to develope can satisfy and fill. As was to be expected, the amiable and learned author, whose sudden loss to the church of which he was so decided an ornament I sincerely unite with her in lamenting,
 does not attempt to free the system of spiritual interpretation from those incumbrances and inconsistencies, with which, as has been noticed in our Lectures above, it has in modern ages been crippled.

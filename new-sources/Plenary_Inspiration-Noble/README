@@ -1,0 +1,36 @@
+https://en.wikipedia.org/wiki/Samuel_Noble
+
+https://archive.org/search?query=creator%3A%22Noble%2C+Samuel%22
+
+1 source PDF at books.google; 1828 Boston "from the London Edition"
+1 source PDF at archive.org ; 1859 London "Third Edition"; there are possibly others here
+These are clearly from different printings 
+others:
+London 1825 https://archive.org/details/plenaryinspirati00noblrich
+Boston 1828 https://archive.org/details/plenaryinspirati00nobl/page/n3/mode/2up
+
+
+Both use italicization.
+Google source has much! more unicode
+The content of both look to be the same, including introductory Contents and trailing 8 Appendices.
+
+The archive.org sourced .html isn't helpful when viewed in a browser; and it's pandoc produced .adoc is even worse.
+Indeed the -nopgbrk option is counter-productive, removing only the \f character and leaving all the rest
+archiveorg-pdf2 looks much cleaner.
+
+I'm selecting the Archive.org PDF for easier viewing, and its associated .txt/.adoc derivation.
+
+
+The two files preserved here:
+plenary-google.pdf - as an additional source reference
+google-pdfto.txt - primarily as a source for the original unicode of other languages
+have been useful
+
+Having done a good bit of work on this, primarily in structural organization, and secondarily some first bout editing,
+I'm inclined to introduce this into the workflow .... 
+as included chapters (on the momentum, and in the vein, of the Kings and Prophets)
+
+I'll modify the 'disaggregator' from BSN-Dole .... and see if that satisfies.
+
+
+
