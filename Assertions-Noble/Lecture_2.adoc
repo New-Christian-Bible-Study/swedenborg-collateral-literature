@@ -1,0 +1,14 @@
+= Lecture II. of the Noble Assertions
+By the Rev. Samuel Noble - 1825
+//:fullbook:
+//:toc: preamble
+:incdir: {docdir}/Assertions-Noble
+include::{docdir}/Assertions-Noble/template-attributes.adoc[]
+
+This is the Second Lecture of the full set.
+It is not fully edited yet, but can serve as an example of the content throughout.
+
+---
+<<<
+
+include::{incdir}/lectures/Lecture_2.adoc[]

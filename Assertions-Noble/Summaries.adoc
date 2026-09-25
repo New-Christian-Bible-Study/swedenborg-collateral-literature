@@ -5,7 +5,7 @@ By the Rev. Samuel Noble - 1825
 :incdir: {docdir}/Assertions-Noble
 include::{docdir}/Assertions-Noble/template-attributes.adoc[]
 
-In the printed volumes, after the Preface (included here), these Summary Outlines as a group, preceded the pages presenting the full lectures. --Ed.
+In the printed volumes, after the Preface (included here), these Summary Outlines, as a group, preceded the pages presenting the full lectures. (which we may endeavor to publish separately) --Ed.
 
 ---
 <<<
