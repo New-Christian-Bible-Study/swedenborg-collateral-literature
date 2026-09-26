@@ -39,6 +39,9 @@ ok
 ==== BLOCKS: delimited, can be nested, not overlapped.
 Go ahead and play with these.
 
+____
+4+ underbars
+____
 
 ====
 4+ equal signs are bounded .... #_are **stylized**_#
@@ -55,6 +58,10 @@ Go ahead and play with these.
 ++++
 4+ plus signs are UNbounded .... #_are **verbatim**_# (raw)
 ++++
+
+....
+4+ dots/periods "will be treated as verbatim content."
+....
 
 //.... _Dots initialize a *List*_, which can be a pain if you don't want a list.
 
