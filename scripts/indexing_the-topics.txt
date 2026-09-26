@@ -1,0 +1,11 @@
+
+The following, used on Pendleton's Topics, read the Index from the source scan ocr, with future wrong page numbers,
+and coded all found instances of the indexed word|phrase.
+
+This bulk technique probably coded more instances of the idexed word|phrase than the original.
+Editors are welcome to change any of it.
+
+
+└─$ sed -nE '/^[A-Z][A-Za-z ,]+[0-9]+\s\+/p' <Topics_from_the_Writings-Pendleton.adoc |sed -E 's/ [0-9]+ .*//g;s/(.*), (.*)/\2 \1/' |while read str; do sed -Ei 's/'" ($str) "'/ ((('"$str"')))\1 /i' Topics_from_the_Writings-Pendleton.adoc ; done 2>1 >/dev/null
+
+
