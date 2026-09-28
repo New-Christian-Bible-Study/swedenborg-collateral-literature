@@ -1,0 +1,20 @@
+// additions for the PDF:
+:reproducible:
+:listing-caption: Listing
+:pdf-page-size: Letter
+//:source-highlighter: rouge
+// end of template attributes
+:incdir: {docdir}/Kings-Noble/Saul 
+{empty}
+
+// Begin inserting frontpiece text
+//{doctitle} + 
+//{author}
+ifndef::fullbook[]
+[.text-right]
+Edited and Printed by NCBS + 
+from best available representations of original manuscript. +
+_Currently being edited_ -- {docdate}
+
+---
+endif::[]
