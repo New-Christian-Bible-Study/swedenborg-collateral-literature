@@ -1,0 +1,31 @@
+#/bin/bash
+# PRELIMINARY DEVELOPMENT
+
+#discovery
+#grep -oPh "\((1|2)?\s*[A-Z][a-z12 ]+\.?[0-9]+(.| |:)[0-9]+\W" $1
+grep -oPh "\(((1|2)\s)?[A-Z][a-z ]+\.?[1-9][0-9,;. :-]*\)" $1	##after the expansion of abbrev's etc
+
+
+
+
+exit
+
+└─$ grep -oPh "\(((1|2)\s)?[A-Z][a-z ]+\.?[1-9][0-9,;. :-]*\)" ../Kings-Bruce/*/ch*.adoc ../Judges-Noble/ch*.adoc |wc -l
+413
+
+find ../ -name "ch1.adoc" |sed 's/\/ch1.adoc//' |while read dir; do ./url-encoding "$dir/*.adoc"; done |tee /tmp/founded
+
+obtained targets in Judges and Kings
+There are targets, but no abbreviations, in Joshua
+
+Abbreviations:Expanded required: Readily accomplished in VSCode
+└─$ cat /tmp/founded |tr -d '(' |sed -E 's/ [0-9:]+.*//' |sort -uV |while read target; do sed -En 's/^.*(('"$target"')[a-z]+).*$/\2:\1/p' <Bible-books; done
+Col:Colossians
+Eph:Ephesians
+Gal:Galatians
+Hag:Haggai
+Lam:Lamentations
+Mal:Malachi
+Mic:Micah
+
+
