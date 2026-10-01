@@ -1,7 +1,8 @@
 = The First Three Kings of Israel
 By the Rev. William Bruce - 1859
 :fullbook:
-include::{docdir}/Kings-Bruce/template-attributes.adoc[]
+:ncbs-reign:
+include::{docdir}/Kings-Bruce/Kings-template-attributes.adoc[]
 :doctype: book
 :toclevels: 3
 
@@ -19,7 +20,7 @@ include::{docdir}/Kings-Bruce/title-page.adoc[]
 
 PREFACE
 
-THIS work is based on a series of discourses delivered about twenty years ago, which the Author has been repeatedly urged to publish. Something has been done to connect the subjects of the discourses, so as to make the explanations more continuous. In  other respects the matter is substantially the same; and there is little difference in the form, except that chapters with titles have been substituted for sermons with texts. The introductory remarks render any further observations here necessary.
+This work is based on a series of discourses delivered about twenty years ago, which the Author has been repeatedly urged to publish. Something has been done to connect the subjects of the discourses, so as to make the explanations more continuous. In  other respects the matter is substantially the same; and there is little difference in the form, except that chapters with titles have been substituted for sermons with texts. The introductory remarks render any further observations here necessary.
 
 ---
 <<<

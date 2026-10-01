@@ -1,7 +1,9 @@
-
-<<<
----
 === 20 - David Escapes into the Land of the Philistines
+ifndef::ncbs-reign[]
+ifndef::ncbs-chapter[]
+include::{docdir}/Kings-Bruce/include-for-sections.adoc[]
+endif::[]
+endif::[]
 
 1 Samuel 27
 

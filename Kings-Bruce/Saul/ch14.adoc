@@ -1,7 +1,9 @@
-
-<<<
----
 === 14 - David, Fleeing from Saul into Philistia, Receives from Ahimelech the Priest Showbread and the Sword of Goliath.
+ifndef::ncbs-reign[]
+ifndef::ncbs-chapter[]
+include::{docdir}/Kings-Bruce/include-for-sections.adoc[]
+endif::[]
+endif::[]
 
 1 Samuel 21
 

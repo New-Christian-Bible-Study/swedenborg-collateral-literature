@@ -1,7 +1,10 @@
-
-<<<
----
 === 11 - Nations out of Canaan Conquered and Made Tributary
+ifndef::ncbs-reign[]
+ifndef::ncbs-chapter[]
+include::{docdir}/Kings-Bruce/include-for-sections.adoc[]
+endif::[]
+endif::[]
+
 
 2 Samuel 8
 

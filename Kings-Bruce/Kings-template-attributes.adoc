@@ -18,6 +18,7 @@
 {empty}
 
 // Begin inserting frontpiece text
+ifndef::fullbook[]
 ifndef::ncbs-reign[]
 {doctitle} + 
 {author}
@@ -26,6 +27,7 @@ ifdef::ncbs-reign[]
 ++++
 Originally Published as part of "The First Three Kings of Israel"
 ++++
+endif::[]
 endif::[]
 
 [.text-right]

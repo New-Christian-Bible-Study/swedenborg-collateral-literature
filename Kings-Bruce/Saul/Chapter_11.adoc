@@ -1,9 +1,8 @@
-= The Reign of Saul - 1 Samuel 9
+= The Reign of Saul - 1 Samuel 11
 By the Rev. William Bruce - 1859
-:toc: preamble
+//:toc: preamble
 :ncbs-chapter:
 include::{docdir}/Kings-Bruce/Saul/include-for-sections.adoc[] 
-
 
 
 ////
@@ -14,7 +13,4 @@ Editors notes:
 
 == {empty}
 
-include::{docdir}/Kings-Bruce/Saul/ch1.adoc[]
----
-<<<
 include::{docdir}/Kings-Bruce/Saul/ch2.adoc[]

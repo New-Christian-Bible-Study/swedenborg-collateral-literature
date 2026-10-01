@@ -1,7 +1,10 @@
-
-<<<
----
 === 7 - Solomon's Temple. The Correspondence of its Principal Divisions
+ifndef::ncbs-reign[]
+ifndef::ncbs-chapter[]
+include::{docdir}/Kings-Bruce/include-for-sections.adoc[]
+endif::[]
+endif::[]
+
 
 1 Kings 6
 

@@ -1,7 +1,10 @@
-
-<<<
----
 === 15 - God's Message and Nathan's Parable
+ifndef::ncbs-reign[]
+ifndef::ncbs-chapter[]
+include::{docdir}/Kings-Bruce/include-for-sections.adoc[]
+endif::[]
+endif::[]
+
 
 2 Samuel 12
 

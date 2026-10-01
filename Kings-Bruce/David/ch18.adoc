@@ -1,7 +1,10 @@
-
-<<<
----
 === 18 - The Rebellion of Absalom
+ifndef::ncbs-reign[]
+ifndef::ncbs-chapter[]
+include::{docdir}/Kings-Bruce/include-for-sections.adoc[]
+endif::[]
+endif::[]
+
 
 2 Samuel 15:1-9.
 

@@ -1,7 +1,10 @@
-
-<<<
----
 === 16 - Solomon's Navy
+ifndef::ncbs-reign[]
+ifndef::ncbs-chapter[]
+include::{docdir}/Kings-Bruce/include-for-sections.adoc[]
+endif::[]
+endif::[]
+
 
 1 Kings 9:26-28; 10:11,22.
 

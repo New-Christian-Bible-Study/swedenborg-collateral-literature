@@ -1,7 +1,10 @@
-
-<<<
----
 === 1 - Solomon Anointed King
+ifndef::ncbs-reign[]
+ifndef::ncbs-chapter[]
+include::{docdir}/Kings-Bruce/include-for-sections.adoc[]
+endif::[]
+endif::[]
+
 
 1 Kings 1:32-40.
 

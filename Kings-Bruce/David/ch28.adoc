@@ -1,7 +1,10 @@
-
-<<<
----
 === 28 - The Destroying Angel Commanded to Spare Jerusalem
+ifndef::ncbs-reign[]
+ifndef::ncbs-chapter[]
+include::{docdir}/Kings-Bruce/include-for-sections.adoc[]
+endif::[]
+endif::[]
+
 
 2 Samuel 24:16-25.
 

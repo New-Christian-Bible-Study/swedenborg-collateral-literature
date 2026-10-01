@@ -1,7 +1,10 @@
-
-<<<
----
 === 26 - David's Mighty Men: Three Bring Him Water from the Well of Bethlehem
+ifndef::ncbs-reign[]
+ifndef::ncbs-chapter[]
+include::{docdir}/Kings-Bruce/include-for-sections.adoc[]
+endif::[]
+endif::[]
+
 
 2 Samuel 23:8-29.
 

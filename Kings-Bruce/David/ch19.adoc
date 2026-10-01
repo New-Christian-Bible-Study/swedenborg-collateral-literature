@@ -1,7 +1,10 @@
-
-<<<
----
 === 19 - David's Flight
+ifndef::ncbs-reign[]
+ifndef::ncbs-chapter[]
+include::{docdir}/Kings-Bruce/include-for-sections.adoc[]
+endif::[]
+endif::[]
+
 
 2 Samuel 15:10.
 

@@ -1,7 +1,10 @@
-
-<<<
----
 === 7 - David is Anointed King over Israel, and goes up against Jerusalem
+ifndef::ncbs-reign[]
+ifndef::ncbs-chapter[]
+include::{docdir}/Kings-Bruce/include-for-sections.adoc[]
+endif::[]
+endif::[]
+
 
 2 Samuel 5:1-5.
 

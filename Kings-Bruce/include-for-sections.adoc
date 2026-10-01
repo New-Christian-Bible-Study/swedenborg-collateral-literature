@@ -1,4 +1,8 @@
-// additions for the PDF:
+ifndef::ncbs-chapter[]
+By the Rev. William Bruce - 1879
+endif::[]
+
+// additions for the PDF
 :reproducible:
 :listing-caption: Listing
 :pdf-page-size: Letter
@@ -10,11 +14,13 @@
 // Begin inserting frontpiece text
 //{doctitle} + 
 //{author}
-ifndef::fullbook[]
+++++
+Originally Published as part of "The First Three Kings of Israel"
+++++
 [.text-right]
 Edited and Printed by NCBS + 
 from best available representations of original manuscript. +
 _Currently being edited_ -- {docdate}
 
 ---
-endif::[]
+

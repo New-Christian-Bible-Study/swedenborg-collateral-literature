@@ -1,7 +1,10 @@
-
-<<<
----
 === 8 - Solomon's Houses
+ifndef::ncbs-reign[]
+ifndef::ncbs-chapter[]
+include::{docdir}/Kings-Bruce/include-for-sections.adoc[]
+endif::[]
+endif::[]
+
 
 1 Kings 7:1-12.
 

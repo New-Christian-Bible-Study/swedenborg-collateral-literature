@@ -1,7 +1,10 @@
-
-<<<
----
 === 23 - Seven Men of the Sons of Saul Given up to the Gibeonites
+ifndef::ncbs-reign[]
+ifndef::ncbs-chapter[]
+include::{docdir}/Kings-Bruce/include-for-sections.adoc[]
+endif::[]
+endif::[]
+
 
 2 Samuel 21
 

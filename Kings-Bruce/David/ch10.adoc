@@ -1,7 +1,10 @@
-
-<<<
----
 === 10 - David Desires But is Forbidden to Build a House for the Ark of the Lord to Dwell in
+ifndef::ncbs-reign[]
+ifndef::ncbs-chapter[]
+include::{docdir}/Kings-Bruce/include-for-sections.adoc[]
+endif::[]
+endif::[]
+
 
 2 Samuel 7
 

@@ -1,7 +1,10 @@
-
-<<<
----
 === 22 - The Revolt of Israel under Sheba
+ifndef::ncbs-reign[]
+ifndef::ncbs-chapter[]
+include::{docdir}/Kings-Bruce/include-for-sections.adoc[]
+endif::[]
+endif::[]
+
 
 2 Samuel 20
 

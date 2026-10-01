@@ -1,7 +1,10 @@
-
-<<<
----
 === 2 - David Receives Tidings Of The Defeat Of Israel And The Death Of Saul
+ifndef::ncbs-reign[]
+ifndef::ncbs-chapter[]
+include::{docdir}/Kings-Bruce/include-for-sections.adoc[]
+endif::[]
+endif::[]
+
 
 2 Samuel 1:1-16.
 

@@ -1,7 +1,9 @@
-
-<<<
----
 === 18 - The Threatened Effects of Nasal's Churlishness are Averted by Abigail's Prudence.
+ifndef::ncbs-reign[]
+ifndef::ncbs-chapter[]
+include::{docdir}/Kings-Bruce/include-for-sections.adoc[]
+endif::[]
+endif::[]
 
 1 Samuel 25
 

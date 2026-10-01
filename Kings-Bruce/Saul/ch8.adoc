@@ -1,7 +1,9 @@
-
-<<<
----
 === 8 - Saul Sent to Destroy Amalek
+ifndef::ncbs-reign[]
+ifndef::ncbs-chapter[]
+include::{docdir}/Kings-Bruce/include-for-sections.adoc[]
+endif::[]
+endif::[]
 
 1 Samuel 15
 

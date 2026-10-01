@@ -1,7 +1,10 @@
-
-<<<
----
 === 11 - Solomon's Second Offerings, and the Lord's Second Appearance to Him
+ifndef::ncbs-reign[]
+ifndef::ncbs-chapter[]
+include::{docdir}/Kings-Bruce/include-for-sections.adoc[]
+endif::[]
+endif::[]
+
 
 1 Kings 8:62-66.
 

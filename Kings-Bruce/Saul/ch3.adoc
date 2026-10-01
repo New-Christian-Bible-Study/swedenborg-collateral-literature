@@ -1,11 +1,11 @@
 === 3 - Saul Anointed King, With Signs Following
+ifndef::ncbs-reign[]
 ifndef::ncbs-chapter[]
-By the Rev. William Bruce - 1879
+include::{docdir}/Kings-Bruce/include-for-sections.adoc[]
+endif::[]
 endif::[]
 
 1 Samuel 10
-
-include::{docdir}/Kings-Bruce/Saul/include-for-sections.adoc[]
 
 When Saul stood still, 
 ____

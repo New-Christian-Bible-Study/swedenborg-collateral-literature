@@ -1,7 +1,10 @@
-
-<<<
----
 === 3 - Solomon's Choice
+ifndef::ncbs-reign[]
+ifndef::ncbs-chapter[]
+include::{docdir}/Kings-Bruce/include-for-sections.adoc[]
+endif::[]
+endif::[]
+
 
 1 Kings 3:1-14.
 

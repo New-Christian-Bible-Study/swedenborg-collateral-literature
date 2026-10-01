@@ -1,7 +1,9 @@
-
-<<<
----
 === 5 - Samuel's Admonition To Israel Respecting Their King
+ifndef::ncbs-reign[]
+ifndef::ncbs-chapter[]
+include::{docdir}/Kings-Bruce/include-for-sections.adoc[]
+endif::[]
+endif::[]
 
 1 Samuel 12
 

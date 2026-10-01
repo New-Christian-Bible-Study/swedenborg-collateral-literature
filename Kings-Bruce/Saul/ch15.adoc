@@ -1,7 +1,9 @@
-
-<<<
----
 === 15 - David in the Cave of Adullam; Saul's Slaughter of the Priests
+ifndef::ncbs-reign[]
+ifndef::ncbs-chapter[]
+include::{docdir}/Kings-Bruce/include-for-sections.adoc[]
+endif::[]
+endif::[]
 
 1 Samuel 22
 

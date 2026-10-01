@@ -1,11 +1,11 @@
 === 2 - Samuel Receives And Entertains Saul
+ifndef::ncbs-reign[]
 ifndef::ncbs-chapter[]
-By the Rev. William Bruce - 1879
+include::{docdir}/Kings-Bruce/include-for-sections.adoc[]
+endif::[]
 endif::[]
 
-1 Samuel 9:15-27.
-
-include::{docdir}/Kings-Bruce/Saul/include-for-sections.adoc[]
+1 Samuel 9:15-27
 
 When Saul and his servant were come into the city Samuel was coming out. They were personally unknown to each other, but the seer, who had previously been divinely warned of Saul's coming, now received the intimation that the man before him was he whom he was to anoint captain over the Lord's people, to save them out of the hand of the Philistines, because their cry had come up to Him. 
 

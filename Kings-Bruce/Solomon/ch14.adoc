@@ -1,7 +1,10 @@
-
-<<<
----
 === 14 - Solomon's Fame: The Queen of Sheba's Visit
+ifndef::ncbs-reign[]
+ifndef::ncbs-chapter[]
+include::{docdir}/Kings-Bruce/include-for-sections.adoc[]
+endif::[]
+endif::[]
+
 
 1 Kings 10:1-10
 

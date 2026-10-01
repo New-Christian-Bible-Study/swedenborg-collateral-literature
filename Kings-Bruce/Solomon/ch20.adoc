@@ -1,7 +1,10 @@
-
-<<<
----
 === 20 - The Death and Burial of Solomon
+ifndef::ncbs-reign[]
+ifndef::ncbs-chapter[]
+include::{docdir}/Kings-Bruce/include-for-sections.adoc[]
+endif::[]
+endif::[]
+
 
 1 Kings 11:42,43.
 

@@ -1,7 +1,10 @@
-
-<<<
----
 === 5 - The Powerful Security Enjoyed under Solomon's Reign
+ifndef::ncbs-reign[]
+ifndef::ncbs-chapter[]
+include::{docdir}/Kings-Bruce/include-for-sections.adoc[]
+endif::[]
+endif::[]
+
 
 2 Kings 4:21.
 

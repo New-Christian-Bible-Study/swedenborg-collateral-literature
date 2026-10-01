@@ -1,7 +1,10 @@
-
-<<<
----
 === 17 - The Widow of Tekoah's Parable and Absalom's Return
+ifndef::ncbs-reign[]
+ifndef::ncbs-chapter[]
+include::{docdir}/Kings-Bruce/include-for-sections.adoc[]
+endif::[]
+endif::[]
+
 
 2 Samuel 14
 

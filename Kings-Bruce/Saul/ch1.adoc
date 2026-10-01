@@ -1,11 +1,11 @@
 === 1 - Saul Sent In Search Of His Father's Asses
+ifndef::ncbs-reign[]
 ifndef::ncbs-chapter[]
-By the Rev. William Bruce - 1879
+include::{docdir}/Kings-Bruce/include-for-sections.adoc[]
+endif::[]
 endif::[]
 
-1 Samuel 9:1-14.
-
-include::{docdir}/Kings-Bruce/Saul/include-for-sections.adoc[]
+1 Samuel 9:1-14
 
 The Divine Being having consented to the request of the people to have a king, His Providence led to the selection of one who, His wisdom saw, was best suited to the people and the times, and, in a higher sense, to the representative character he was to sustain.
 

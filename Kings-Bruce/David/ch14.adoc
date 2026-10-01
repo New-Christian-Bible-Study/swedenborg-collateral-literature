@@ -1,7 +1,10 @@
-
-<<<
----
 === 14 - David's Great Sin
+ifndef::ncbs-reign[]
+ifndef::ncbs-chapter[]
+include::{docdir}/Kings-Bruce/include-for-sections.adoc[]
+endif::[]
+endif::[]
+
 
 2 Samuel 11
 
