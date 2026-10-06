@@ -2,7 +2,7 @@
 By the Rev. William Bruce - 1859
 :toc: preamble
 :ncbs-chapter:
-include::{docdir}/Kings-Bruce/Saul/include-for-sections.adoc[] 
+include::{docdir}/Kings-Bruce/include-for-sections.adoc[] 
 
 
 
