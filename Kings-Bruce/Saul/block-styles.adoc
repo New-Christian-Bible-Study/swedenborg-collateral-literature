@@ -1,0 +1,129 @@
+= Style Testing page
+for observing after processing to html, pdf, epub, mobi
+
+////
+== Section Level two
+[.text-center]
+
+_Italicize with underbars_ ---
+*Bold with asterisks* ---
+`Monospace with back-ticks` ---
+#Highlight with a pair of number/pound signs# ---
+~Subscript~ with tilde, and ^Superscript^ with carats ---
+*_Roles_*, such as [.underline]#underline#, are delimited by the number (#) sign, and declared by naming the role, preceded by dot, within square brackets, preceeding the initial delimiter.
+
+=== level three
+////
+
+The pound {#} sign is of special use demarcating strings +
+The back-tick {`} grave is of special use demarcating "code blocks" +
+The plus {+} sign is used for complex "passthrough" blocks. +
+The caret {^} superscripts, and the tilde {~} subscripts
+
+--
+Two dashes; "Open block" +
+~sub~Normal^super^, `Mono`, _Italic_, *Bold*, [.underline]#Underline#, #Highlight#
+--
+
+----
+Four dashes, or dots; "Listing block" +
+~sub~Normal^super^, `Mono`, _Italic_, *Bold*, [.underline]#Underline#, #Highlight#
+----
+
+****
+asterisks; four of them +
+~sub~Normal^super^, `Mono`, _Italic_, *Bold*, [.underline]#Underline#, #Highlight#
+****
+
+Normal Text +
+~sub~Normal^super^, `Mono`, _Italic_, *Bold*, [.underline]#Underline#, #Highlight#
+
+====
+Four equals signs; "Example block" +
+~sub~Normal^super^, `Mono`, _Italic_, *Bold*, [.underline]#Underline#, #Highlight#
+====
+
+
+
+////
+>>>>
+ASCII 3/14 is decimal 062, hex 3e, octal 076, bits 00111110: prints as `>'
+Official name: Greater-than sign
+Other names: Right Angle Bracket, Write To, Into, Toward, Out, To, Gozinta, Right Funnel, Right Broket, Zap, Blow, &gt; 
+Note: See < for matching names.
+>>>>
+
+????
+ASCII 3/15 is decimal 063, hex 3f, octal 077, bits 00111111: prints as `?'
+Official name: Question Mark
+Other names: Whatmark, What, Ques 
+????
+
+@@@@
+ASCII 4/0 is decimal 064, hex 40, octal 100, bits 01000000: prints as `@'
+Official name: Commercial At
+Other names: At, Each, Vortex, Whorl, Whirlpool, Cyclone, Snail, Rose 
+@@@@
+
+[[[[
+ASCII 5/11 is decimal 091, hex 5b, octal 133, bits 01011011: prints as `['
+Official name: Left Square Bracket
+Other names: Bracket, Bra, Square 
+Note: See ] for matching names.
+[[[[
+
+\\
+ASCII 5/12 is decimal 092, hex 5c, octal 134, bits 01011100: prints as `'
+Official name: Reversed Solidus
+Other names: Backslash, Bash, Backslant, Backwhack, Backslat, Literal, Escape 
+Note: See / for matching names.
+\\
+
+]]]]
+ASCII 5/13 is decimal 093, hex 5d, octal 135, bits 01011101: prints as `]'
+Official name: Right Square Bracket
+Other names: Unbracket, Ket, Unsquare 
+Note: See [ for matching names.
+]]]]
+
+^^^^
+ASCII 5/14 is decimal 094, hex 5e, octal 136, bits 01011110: prints as `^'
+Official name: Circumflex Accent
+Other names: Circumflex, Caret, Uparrow, Hat, Control, Boink, Chevron, Hiccup, Sharkfin, Fang 
+^^^^
+////
+
+____
+Four underbars; "Quote block" +
+~sub~Normal^super^, `Mono`, _Italic_, *Bold*, [.underline]#Underline#, #Highlight#
+____
+
+
+////
+{{{{
+ASCII 7/11 is decimal 123, hex 7b, octal 173, bits 01111011: prints as `{'
+Official name: Left Curly Bracket
+Other names: Left Brace, Brace, Open Brace, Curly, Leftit, Embrace 
+Note: See } for matching names.
+{{{{
+
+||||
+ASCII 7/12 is decimal 124, hex 7c, octal 174, bits 01111100: prints as `|'
+Official name: Vertical Line
+Other names: Pipe, Bar, Or, V-Bar, Spike, Gozinta, Thru 
+||||
+
+}}}}
+ASCII 7/13 is decimal 125, hex 7d, octal 175, bits 01111101: prints as `}'
+Official name: Right Curly Bracket
+Other names: Right Brace, Unbrace, Close Brace, Uncurly, Rytit, Bracelet 
+Note: See { for matching names.
+}}}}
+
+~~~~
+ASCII 7/14 is decimal 126, hex 7e, octal 176, bits 01111110: prints as `~'
+Official name: Overline
+Other names: Tilde, Swung Dash, Squiggle, Approx, Wiggle, Twiddle, Enyay 
+~~~~
+////
+

@@ -1,0 +1,19 @@
+#!/bin/bash
+
+
+chars=$(for each in {33..126}; do hex=$(printf "%x" $each); char=$(printf "\\x$hex"); printf "$char ";  done 2>/dev/null |sed -E 's/[0-9A-Za-z*] //g')
+
+charstr=$(printf "%s " "$chars")
+## note '*' is omitted here
+
+echo "$charstr"
+
+## └─$ for e in $(./punctuation-utility)\*; do (grep -qF "$e$e$e$e" ch*.adoc) && printf "$e" ; done
+## ./=_*
+
+#### └─$ rm ./block-styles.adoc; for e in $(./punctuation-utility)\*; do fe=$(for i in {1..4}; do printf "$e"; done); eb=$(ascii $e); printf "\n$fe\n$eb\n$fe\n" |tee -a ./block-styles.adoc; done
+
+
+exit
+
+

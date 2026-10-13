@@ -44,24 +44,32 @@ ____
 ____
 
 ====
-4+ equal signs are bounded .... #_are **stylized**_#
+4+ equal = signs are bounded .... #_are **stylized**_#
 ====
 
+****
+4+ aster*isks .. are also bounded, and.. #_**stylized**_#
+****
+
 ----
-4+ dashes or dots are bounded .... #_are **verbatim**_# (RAW)
+4+ dashes - or . dots are bounded .... #_are **verbatim**_# (RAW)
 ----
 
 --
-2 dashes are UNbounded .... #_are **stylized**_#
+2 dashes are UNbounded .... #_are **stylized**_#; i.e. not treated as a block
 --
 
 ++++
-4+ plus signs are UNbounded .... #_are **verbatim**_# (raw)
+4+ plus + signs are UNbounded .... #_are **verbatim**_# (raw)
 ++++
 
-....
-4+ dots/periods "will be treated as verbatim content."
-....
+&&&&
+4+ amper&sands .... #_are **stylized?**_#
+&&&&
+
+$$$$
+4+ dollar $ signs .... #_are **stylized?**_#
+$$$$
 
 //.... _Dots initialize a *List*_, which can be a pain if you don't want a list.
 
@@ -203,7 +211,7 @@ Many source files used a multiple of asterisks, some with alternate spaces, for 
 
 This has been a pretty big headache. Read about it here:
 
-Escaping the List marker : insert '{empty}' before the period + 
+Escaping the List marker : insert '\{empty\}' before the period + 
 https://docs.asciidoctor.org/asciidoc/latest/lists/ordered/#escaping-the-list-marker
 
 
