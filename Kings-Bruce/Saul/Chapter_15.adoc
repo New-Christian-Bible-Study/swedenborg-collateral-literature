@@ -13,4 +13,4 @@ Editors notes:
 
 == {empty}
 
-include::{docdir}/Kings-Bruce/Saul/ch7.adoc[]
+include::{docdir}/Kings-Bruce/Saul/ch8.adoc[]
