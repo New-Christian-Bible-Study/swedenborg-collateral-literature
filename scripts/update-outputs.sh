@@ -30,10 +30,11 @@ echo "adoc_attrib_docdir: $adoc_attrib_docdir" >>/tmp/adoc.log
 
 
 createpdf () {
+echo "toPDF" >>/tmp/adoc.log
 #	echo "Creating $pdfdest/$title.pdf from $sourcedir/$title.adoc"
 	printf "...p"
 #	docsource=$(readlink -f $sourcedir/$sourcefile)
-echo "docubase: $docubase" >>/tmp/adoc.log
+#echo "docubase: $docubase" >>/tmp/adoc.log
 echo "attrib: $adoc_attrib_docdir" >>/tmp/adoc.log
 echo "pdfdest: $pdfdest" >>/tmp/adoc.log
 echo "d/f: $sourcedir/$sourcefile" >>/tmp/adoc.log
@@ -45,11 +46,13 @@ echo "docsource: $docsource" >>/tmp/adoc.log
 }
 
 createepub () {
+echo "toEPUB" >>/tmp/adoc.log
 #	echo "Creating $epubdest/$title.pdf from $sourcedir/$title.adoc"
 	printf "...e"
 #	docsource=$(readlink $sourcedir/$sourcefile)
 	asciidoctor-epub3 -B $docubase -a "$adoc_attrib_docdir" -D $epubdest -o $title.epub $docsource 2>>/tmp/adoc.log && printf "pub "
 	printf "...m"
+echo "toMOBI" >>/tmp/adoc.log
 	ebook-convert $epubdest/$title.epub $mobidest/$title.mobi >>/tmp/adoc.log && printf "obi"
 	
 }
