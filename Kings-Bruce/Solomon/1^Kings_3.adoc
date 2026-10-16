@@ -1,0 +1,31 @@
+= The Reign of Solomon - 1 Kings 3
+By the Rev. William Bruce - 1859
+:toc: preamble
+:ncbs-chapter:
+ifdef::env-vscode[]
+include::{docdir}/Kings-Bruce/include-for-sections.adoc[] 
+endif::[]
+
+ifndef::env-vscode[]
+include::../include-for-sections.adoc[]
+endif::[]
+
+////
+Editors notes: 
+
+////
+
+
+== {empty}
+
+ifdef::env-vscode[]
+include::{docdir}/Kings-Bruce/Solomon/ch3.adoc[]
+include::{docdir}/Kings-Bruce/Solomon/ch4.adoc[]
+//ENDLISTA
+endif::[]
+
+ifndef::env-vscode[]
+include::./ch3.adoc[]
+include::./ch4.adoc[]
+//ENDLISTB
+endif::[]

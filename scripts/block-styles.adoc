@@ -15,10 +15,11 @@ _Italicize with underbars_ ---
 === level three
 ////
 
-The pound {#} sign is of special use demarcating strings +
-The back-tick {`} grave is of special use demarcating "code blocks" +
-The plus {+} sign is used for complex "passthrough" blocks. +
-The caret {^} superscripts, and the tilde {~} subscripts
+.Lists can have effective headers
+* The pound {#} sign is of special use demarcating strings +
+* The back-tick {`} grave is of special use demarcating "code blocks" +
+* The plus {+} sign is used for complex "passthrough" blocks. +
+* The caret {^} superscripts, and the tilde {~} subscripts
 
 --
 Two dashes; "Open block" +
@@ -126,4 +127,5 @@ Official name: Overline
 Other names: Tilde, Swung Dash, Squiggle, Approx, Wiggle, Twiddle, Enyay 
 ~~~~
 ////
+
 

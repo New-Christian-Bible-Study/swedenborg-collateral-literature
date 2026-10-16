@@ -1,0 +1,31 @@
+= The Reign of David - 2 Samuel 23
+By the Rev. William Bruce - 1859
+:toc: preamble
+:ncbs-chapter:
+ifdef::env-vscode[]
+include::{docdir}/Kings-Bruce/include-for-sections.adoc[] 
+endif::[]
+
+ifndef::env-vscode[]
+include::../include-for-sections.adoc[]
+endif::[]
+
+////
+Editors notes: 
+
+////
+
+
+== {empty}
+
+ifdef::env-vscode[]
+include::{docdir}/Kings-Bruce/David/ch25.adoc[]
+include::{docdir}/Kings-Bruce/David/ch26.adoc[]
+//ENDLISTA
+endif::[]
+
+ifndef::env-vscode[]
+include::./ch25.adoc[]
+include::./ch26.adoc[]
+//ENDLISTB
+endif::[]

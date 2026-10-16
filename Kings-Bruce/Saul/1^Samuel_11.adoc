@@ -1,0 +1,29 @@
+= The Reign of Saul - 1 Samuel 11
+By the Rev. William Bruce - 1859
+//:toc: preamble
+:ncbs-chapter:
+ifdef::env-vscode[]
+include::{docdir}/Kings-Bruce/include-for-sections.adoc[] 
+endif::[]
+
+ifndef::env-vscode[]
+include::../include-for-sections.adoc[]
+endif::[]
+
+////
+Editors notes: 
+
+////
+
+
+== {empty}
+
+ifdef::env-vscode[]
+include::{docdir}/Kings-Bruce/Saul/ch4.adoc[]
+//ENDLISTA
+endif::[]
+
+ifndef::env-vscode[]
+include::./ch4.adoc[]
+//ENDLISTB
+endif::[]

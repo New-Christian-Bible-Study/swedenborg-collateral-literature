@@ -1,0 +1,33 @@
+= The Reign of Solomon - 1 Kings 10
+By the Rev. William Bruce - 1859
+:toc: preamble
+:ncbs-chapter:
+ifdef::env-vscode[]
+include::{docdir}/Kings-Bruce/include-for-sections.adoc[] 
+endif::[]
+
+ifndef::env-vscode[]
+include::../include-for-sections.adoc[]
+endif::[]
+
+////
+Editors notes: 
+
+////
+
+
+== {empty}
+
+ifdef::env-vscode[]
+include::{docdir}/Kings-Bruce/Solomon/ch14.adoc[]
+include::{docdir}/Kings-Bruce/Solomon/ch15.adoc[]
+include::{docdir}/Kings-Bruce/Solomon/ch17.adoc[]
+//ENDLISTA
+endif::[]
+
+ifndef::env-vscode[]
+include::./ch14.adoc[]
+include::./ch15.adoc[]
+include::./ch17.adoc[]
+//ENDLISTB
+endif::[]
