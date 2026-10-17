@@ -15,11 +15,13 @@ _Italicize with underbars_ ---
 === level three
 ////
 
+****
 .Lists can have effective headers
 * The pound {#} sign is of special use demarcating strings +
 * The back-tick {`} grave is of special use demarcating "code blocks" +
 * The plus {+} sign is used for complex "passthrough" blocks. +
 * The caret {^} superscripts, and the tilde {~} subscripts
+****
 
 --
 Two dashes; "Open block" +
