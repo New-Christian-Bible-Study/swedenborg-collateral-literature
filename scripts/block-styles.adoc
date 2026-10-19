@@ -23,6 +23,9 @@ _Italicize with underbars_ ---
 * The caret {^} superscripts, and the tilde {~} subscripts
 ****
 
+ with just a single leading space, 
+there appears this enclosed verbatim block
+
 --
 Two dashes; "Open block" +
 ~sub~Normal^super^, `Mono`, _Italic_, *Bold*, [.underline]#Underline#, #Highlight#
