@@ -1,5 +1,8 @@
 #!/bin/bash
 
+## quick script which wrote the first prototype file block-styles.adoc ... for all the punctuation characters;
+## the file was later trimmed back and modified over time.
+
 ## set of (5) block delimiting characters: * . = _ -
 
 chars=$(for each in {33..126}; do hex=$(printf "%x" $each); char=$(printf "\\x$hex"); printf "$char ";  done 2>/dev/null |sed -E 's/[0-9A-Za-z*] //g')
