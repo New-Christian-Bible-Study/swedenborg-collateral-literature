@@ -10,10 +10,13 @@ endif::[]
 
 ////
 Editors notes: 
+printed PDFs may want some edits to this file for things like 
+front matter, or thematic or page breaks between chapters
 
 ////
 ifndef::fullbook[]
-include::{docdir}/Kings-Bruce/Introduction.adoc[]
+// ch1 is the chapterless Introduction
+//include::{docdir}/Kings-Bruce/Introduction.adoc[]
 endif::[]
 
 == {empty}
