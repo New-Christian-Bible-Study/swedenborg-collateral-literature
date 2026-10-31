@@ -1,0 +1,49 @@
+= Overview of Bruce's Three Kings
+By the Rev. William Bruce - 1859
+:fullbook:
+:ncbs-reign:
+include::{docdir}/Kings-Bruce/Kings-template-attributes.adoc[]
+:doctype: book
+:toclevels: 3
+
+being an excerpted few of the original 74 chapters from the full original, to the intent of condensing "the big picture" or "the continuous arc" of the full detailed sequence.
+
+////
+Editors notes:
+
+Given the excellent introduction chapters provided by the author for Saul (ch0) and David (ch1), I sought whether something could be found for the transition to Solomon as well as perhaps an ending summary; in order to provide a bundle of chapters by which the full body of work might be usefully introduced to readers.
+
+At this point I am  not carrying through with the idea; but leaving this artifact available should others see more clearly such a path, which I expect may benefit from some statements made by NCBS editors between chapters used.
+
+////
+
+//output documents are being published updated
+
+include::{docdir}/Kings-Bruce/title-page.adoc[]
+
+
+PREFACE
+
+This work, published in 1879, is based on a series of discourses delivered about twenty years ago, which the Author has been repeatedly urged to publish. Something has been done to connect the subjects of the discourses, so as to make the explanations more continuous. In  other respects the matter is substantially the same; and there is little difference in the form, except that chapters with titles have been substituted for sermons with texts. The introductory remarks render any further observations here necessary.
+
+---
+<<<
+include::{docdir}/Kings-Bruce/Introduction.adoc[]
+
+
+---
+<<<
+include::{docdir}/Kings-Bruce/David/ch1.adoc[]
+
+<<<
+include::{docdir}/Kings-Bruce/David/ch29.adoc[]
+
+<<<
+include::{docdir}/Kings-Bruce/David/ch30.adoc[]
+
+---
+<<<
+include::{docdir}/Kings-Bruce/Solomon/ch1.adoc[]
+<<<
+include::{docdir}/Kings-Bruce/Solomon/ch20.adoc[]
+
