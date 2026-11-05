@@ -36,6 +36,11 @@ Four dashes, or dots; "Listing block" +
 ~sub~Normal^super^, `Mono`, _Italic_, *Bold*, [.underline]#Underline#, #Highlight#
 ----
 
+* asterisk, just a one +
+can be an effective highlight, or stylization
+** or two, +
+can make a statement by way of the indentation
+
 ****
 asterisks; four of them +
 ~sub~Normal^super^, `Mono`, _Italic_, *Bold*, [.underline]#Underline#, #Highlight#
