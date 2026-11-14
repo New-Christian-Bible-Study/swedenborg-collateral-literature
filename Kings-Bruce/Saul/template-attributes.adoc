@@ -19,7 +19,8 @@
 
 // Begin inserting frontpiece text
 ifndef::ncbs-reign[]
-{doctitle} + 
+{doctitle} +
+
 {author}
 endif::[]
 ifdef::ncbs-reign[]
@@ -29,7 +30,8 @@ Originally Published as part of "The First Three Kings of Israel"
 endif::[]
 
 [.text-right]
-Edited and Printed by NCBS + 
+Edited and Printed by NCBS +
+
 from best available representations of original manuscript. +
 //Last Revised {docdate}
 _Currently being edited_ -- {docdate}

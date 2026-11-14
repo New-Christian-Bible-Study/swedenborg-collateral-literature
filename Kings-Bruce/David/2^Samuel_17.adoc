@@ -1,0 +1,10 @@
+ifdef::env-vscode[]
+include::{docdir}/Kings-Bruce/David/2^Samuel_15.adoc[]
+//ENDLISTA
+endif::[]
+
+ifndef::env-vscode[]
+include::../2^Samuel_15.adoc[]
+//ENDLISTB
+endif::[]
+
