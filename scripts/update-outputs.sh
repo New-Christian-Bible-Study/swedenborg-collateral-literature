@@ -11,7 +11,7 @@
 #localbase=$(pwd)
 remotebase='/mnt/gdrive/NCBS/'
 scriptdir="$(dirname $(readlink -f ${BASH_SOURCE[0]}))"	### the location of this script file
-### docubase here is /ssd1/NCBS/swedenborg-collateral-literature -- which is the VSCode Workkspace
+### docubase here is /workspace/NCBS/swedenborg-collateral-literature -- which is the VSCode Workkspace
 ### and is used within VSCode as the {docdir} reference for 'include' files
 docubase=$(realpath $scriptdir/../)	### needed for asciidoctor attribute='docdir:$docubase'
 adoc_attrib_docdir="docdir=$docubase"
