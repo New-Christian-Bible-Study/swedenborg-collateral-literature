@@ -21,11 +21,13 @@ Editors notes:
 ifdef::env-vscode[]
 include::{docdir}/Kings-Bruce/David/ch29.adoc[]
 include::{docdir}/Kings-Bruce/David/ch30.adoc[]
+include::{docdir}/Kings-Bruce/Solomon/ch1.adoc[]
 //ENDLISTA
 endif::[]
 
 ifndef::env-vscode[]
 include::./ch29.adoc[]
 include::./ch30.adoc[]
+include::../Solomon/ch1.adoc[]
 //ENDLISTB
 endif::[]
